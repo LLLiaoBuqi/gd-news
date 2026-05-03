@@ -1,0 +1,21 @@
+---
+description: gd-news fork 的工作边界
+alwaysApply: true
+---
+
+# 红线（必须先停下来问我）
+
+- 修改 `.github/workflows/`、`scripts/update_news.py`、`data/*.json` 的 schema。
+- 删除任何 `data/`、`feeds/`、`docs/` 下已有文件。
+- 提交内容包含：`feeds/follow.opml`、`.env`、token、cookie、API key、个人邮箱/订阅源。
+
+# 改前必读
+
+- `README.md`：项目当前能做什么。
+- `AGENTS.md`：工作纪律。
+- `skills/ai-news-radar/SKILL.md`：数据流与源策略。
+
+# 改后必跑
+
+- `.venv/bin/python -m py_compile scripts/update_news.py`
+- `.venv/bin/python -m pytest -q`
