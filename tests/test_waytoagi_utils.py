@@ -53,7 +53,17 @@ class WaytoAgiUtilsTests(unittest.TestCase):
                 "data": {
                     "type": "bullet",
                     "parent_id": "h1",
-                    "text": {"initialAttributedTexts": {"text": {"0": "《 》 OpenClaw 新教程"}}},
+                    "text": {
+                        "apool": {
+                            "numToAttrib": {
+                                "1": [
+                                    "inline-component",
+                                    '{"type":"mention_doc","data":{"raw_url":"https://waytoagi.feishu.cn/wiki/detail"}}',
+                                ]
+                            }
+                        },
+                        "initialAttributedTexts": {"text": {"0": "《 》 OpenClaw 新教程"}},
+                    },
                 }
             },
             "h2": {
@@ -75,6 +85,7 @@ class WaytoAgiUtilsTests(unittest.TestCase):
         self.assertEqual(len(out), 1)
         self.assertEqual(out[0]["date"], "2026-02-20")
         self.assertEqual(out[0]["title"], "OpenClaw 新教程")
+        self.assertEqual(out[0]["url"], "https://waytoagi.feishu.cn/wiki/detail")
 
 
 if __name__ == "__main__":

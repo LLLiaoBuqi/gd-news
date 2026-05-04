@@ -474,6 +474,29 @@ def block_text(block_data: dict[str, Any]) -> str:
     return "".join(str(v) for k, v in sorted(initial.items(), key=lambda kv: key_int(kv[0]))).strip()
 
 
+def extract_waytoagi_block_url(block_data: dict[str, Any]) -> str | None:
+    text_obj = block_data.get("text", {}) if isinstance(block_data, dict) else {}
+    apool = text_obj.get("apool", {}) if isinstance(text_obj, dict) else {}
+    attribs = apool.get("numToAttrib", {}) if isinstance(apool, dict) else {}
+    if not isinstance(attribs, dict):
+        return None
+
+    for value in attribs.values():
+        if not isinstance(value, list) or len(value) < 2:
+            continue
+        if value[0] != "inline-component":
+            continue
+        try:
+            component = json.loads(str(value[1]))
+        except Exception:
+            continue
+        data = component.get("data", {}) if isinstance(component, dict) else {}
+        raw_url = str(data.get("raw_url") or "").strip() if isinstance(data, dict) else ""
+        if raw_url.startswith("http"):
+            return raw_url
+    return None
+
+
 def clean_update_title(text: str) -> str:
     text = text.replace("《 》", "").replace("《》", "")
     return re.sub(r"\s+", " ", text).strip()
@@ -590,7 +613,7 @@ def extract_waytoagi_recent_updates_from_block_map(
         if key in seen:
             continue
         seen.add(key)
-        updates.append({"date": day.isoformat(), "title": title, "url": page_url})
+        updates.append({"date": day.isoformat(), "title": title, "url": extract_waytoagi_block_url(bd) or page_url})
 
     return updates
 
