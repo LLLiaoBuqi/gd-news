@@ -2222,10 +2222,95 @@ EMAIL_RE = re.compile(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b")
 SECRET_LIKE_RE = re.compile(r"\b(sk-(?!hynix\b)[A-Za-z0-9_-]{12,}|(?:api[_-]?key|secret|token)=([^\s&]{6,}))\b", re.I)
 BROAD_AI_TERMS = {"agent", "模型", "推理"}
 
+AGENT_WORKFLOW_KEYWORDS = [
+    "agent",
+    "agents",
+    "skill",
+    "skills",
+    "workflow",
+    "workflows",
+    "automation",
+    "claude code",
+    "claude skills",
+    "openai skills",
+    "cursor",
+    "codex",
+    "openclaw",
+    "mcp",
+    "智能体",
+    "自动化",
+    "工作流",
+]
+
+IMAGE_CREATION_KEYWORDS = [
+    "gpt image",
+    "nano banana",
+    "seedream",
+    "qwen image",
+    "flux",
+    "imagen",
+    "hunyuanimage",
+    "image editing",
+    "text to image",
+    "图像",
+    "图片",
+    "生图",
+    "修图",
+    "图像编辑",
+]
+
+CREATION_TOOL_KEYWORDS = [
+    "lovart",
+    "flowith",
+    "liblibai",
+    "krea",
+    "runway",
+    "comfyui",
+    "figma ai",
+    "canva ai",
+]
+
+VIDEO_CREATION_KEYWORDS = [
+    "seedance",
+    "veo",
+    "kling",
+    "sora",
+    "runway gen",
+    "video model",
+    "视频模型",
+]
+
 
 def contains_any_keyword(haystack: str, keywords: list[str]) -> bool:
     h = haystack.lower()
     return any(k in h for k in keywords)
+
+
+def creation_signal_priority(record: dict[str, Any]) -> int:
+    text = " ".join(
+        str(record.get(key) or "")
+        for key in ("title", "title_zh", "title_en", "source", "site_name")
+    ).lower()
+    if contains_any_keyword(text, AGENT_WORKFLOW_KEYWORDS):
+        return 0
+    if contains_any_keyword(text, IMAGE_CREATION_KEYWORDS):
+        return 1
+    if contains_any_keyword(text, CREATION_TOOL_KEYWORDS):
+        return 2
+    if contains_any_keyword(text, VIDEO_CREATION_KEYWORDS):
+        return 4
+    return 3
+
+
+def sort_creation_signal_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return sorted(
+        items,
+        key=lambda item: (
+            creation_signal_priority(item),
+            -(event_time(item) or datetime.min.replace(tzinfo=UTC)).timestamp(),
+            str(item.get("title") or ""),
+        ),
+    )
 
 
 def contains_meaningful_ai_signal(haystack: str) -> bool:
@@ -2605,6 +2690,7 @@ def main() -> int:
         max_new_translations=max(0, args.translate_max_new),
     )
     latest_items_ai_dedup = dedupe_items_by_title_url(latest_items, random_pick=False)
+    latest_items_ai_dedup = sort_creation_signal_items(latest_items_ai_dedup)
     latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
 
     # site stats

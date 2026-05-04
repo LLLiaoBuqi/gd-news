@@ -1,18 +1,22 @@
-# Claude Code Notes
+# Claude Code 说明
 
-Before changing this project, read:
+修改项目前先阅读：
 
+- `AGENTS.md`
 - `skills/ai-news-radar/SKILL.md`
 - `docs/SOURCE_COVERAGE.md`
 - `README.md`
 
-Do not commit private OPML files, API keys, cookies, browser exports, or `.env`
-values. Keep the public repo usable without secrets.
+这个仓库正在从泛 AI 新闻聚合项目，改造成“个人起步、团队可读”的 AI 创作能力雷达。
 
-The product direction is a two-layer AI news tool:
+默认优先级：
 
-- Default layer: curated AI Signal view for ordinary AI enthusiasts.
-- Advanced layer: custom OPML/source configuration and source health details for maintainers.
+1. Agent、Skill、workflow、自动化能力资讯。
+2. 图像 / 图像编辑排行榜模型。
+3. AI 创作工具和重要功能更新。
+4. 对创作或 Agent 工作流有影响的大语言模型。
+5. AI 视频模型。
 
-When adding sources, prefer official RSS/Atom feeds or OPML first. Add custom
-fetchers only for stable, public, high-signal sources.
+不要提交私有 OPML、API key、token、cookie、浏览器导出、个人邮箱、个人订阅源或 `.env` 内容。
+
+新增来源时，优先使用官方来源、稳定 changelog、可靠榜单、公开 JSON/RSS/API。只有来源长期稳定、信号密度高、对团队成员有价值时，才考虑新增内置 fetcher。

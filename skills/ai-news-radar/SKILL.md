@@ -1,9 +1,9 @@
 ---
 name: ai-news-radar
-description: "Use when working on the LearnPrompt AI News Radar / AI Signal Board repo: evaluating AI news sources, RSS/OPML/GitHub feed/X/newsletter coverage, changing source strategy or UI defaults, configuring Actions secrets, deploying Pages, or packaging/forking the project as a Codex/Claude skill."
+description: "Use when working on the gd-news AI creation radar repo: evaluating AI news sources, RSS/OPML/GitHub feed/X/newsletter coverage, changing source strategy or UI defaults, configuring Actions secrets, deploying Pages, or packaging/forking the project as an agent skill."
 ---
 
-# AI News Radar
+# gd-news AI 创作能力雷达
 
 ## First Reads
 
@@ -43,14 +43,24 @@ For detailed prompts and decision criteria, read `references/v2-method.md`.
 
 Maintain a two-layer product:
 
-- **Default layer**: a simple curated Signal view for ordinary AI enthusiasts.
+- **Default layer**: a simple curated Signal view for Yanqi and project members.
 - **Advanced layer**: custom OPML, source health, GitHub Actions, and maintainer controls.
 
+Default display priority:
+
+1. Agent / Skill / workflow updates.
+2. Image / image-editing model updates.
+3. AI creation tool updates.
+4. LLM updates that affect creation workflows, Agent use, or team work.
+5. AI video model updates.
+
 Avoid adding many reader-facing choices. Prefer better defaults, source quality,
-and clearer status output.
+and clearer status output. Keep the old source intake and classification
+capabilities, but tune default ranking and presentation toward the priority list
+above.
 
 The v2 packaging goal is a forkable public site plus a reusable agent Skill.
-Ordinary users should be able to browse the hosted page. Maintainers should be
+Project members should be able to browse the hosted page. Maintainers should be
 able to add their own sources with OPML, public generated feeds, or secret-backed
 optional adapters without changing the public default.
 
@@ -149,6 +159,6 @@ WaytoAGI block, search, site filter, and source counts still work.
 After pushing source changes, trigger and watch the workflow:
 
 ```bash
-gh workflow run update-news.yml --repo LearnPrompt/ai-news-radar --ref master
-gh run list --repo LearnPrompt/ai-news-radar --limit 5
+gh workflow run update-news.yml --repo lsk18059805307-sketch/gd-news --ref master
+gh run list --repo lsk18059805307-sketch/gd-news --limit 5
 ```

@@ -1,130 +1,130 @@
-# GPT Handoff: AI News Radar V2
+# GPT 交接说明：gd-news AI 创作能力雷达
 
-Use this document to hand the project to a fresh GPT/Codex/Claude session for
-verification.
+这个文档用于把项目交给新的 GPT / Codex / Claude / Cursor Agent 会话。
 
-## Local Project
+## 本地项目
 
-- Local path: `/Users/carl2077/workspace/ai-news-radar`
-- Public site: `https://learnprompt.github.io/ai-news-radar/`
-- Local preview used during development: `http://127.0.0.1:8091/`
-- Local preview directory: `/tmp/ai-news-radar-preview`
+- 本地路径：`/Users/gaoding/gd-news`
+- GitHub 仓库：`https://github.com/lsk18059805307-sketch/gd-news.git`
+- 本地预览：`http://127.0.0.1:8080/`
 
-The working repo may use skip-worktree for large `data/*.json` files. For
-browser validation, prefer the preview URL above or rebuild a preview directory
-from Git-tracked data. If a checked-out copy already has `data/*.json`, this is
-enough:
+本地预览命令：
 
 ```bash
-cd /Users/carl2077/workspace/ai-news-radar
-python -m http.server 8080
+cd /Users/gaoding/gd-news
+.venv/bin/python -m http.server 8080
 ```
 
-## What This Project Is
+## 项目定位
 
-AI News Radar / AI Signal Board is a static AI news signal page:
+`gd-news` 正在从旧版 AI News Radar 改造成“个人起步、团队可读”的 AI 创作能力雷达。
 
-- ordinary readers open the hosted page and read 24h AI updates
-- maintainers can fork it and add private OPML/RSS via GitHub Secrets
-- Codex / Claude Code can use `skills/ai-news-radar/SKILL.md` to maintain source
-  coverage, evaluate new feeds, and keep the product simple
+它的目标不是覆盖所有 AI 新闻，而是帮助彦齐和项目成员快速发现会影响创作流程、创作工具选择、Agent 工作流和近期团队实验方向的信息。
 
-## Implemented V2 Work
+默认优先级：
 
-Product/UI:
+1. Agent、Skill、workflow、自动化能力资讯。
+2. 图像 / 图像编辑排行榜模型。
+3. AI 创作工具和重要功能更新。
+4. 对创作或 Agent 工作流有影响的大语言模型。
+5. AI 视频模型。
 
-- Added first-viewport coverage radar:
-  - source health
-  - AI signal density
-  - official/newsletter coverage
-  - Builders/X coverage through Follow Builders
-  - aggregator breadth
-  - private extension readiness through OPML/Secrets
-- Added source-type tags on news cards, such as official, newsletter,
-  Builders/X, and aggregator.
-- Kept advanced filters inside the advanced panel so ordinary readers are not
-  forced to choose between many source controls.
-- Added SVG favicon from the existing logo.
+## 当前已完成的改造
 
-Sources and coverage:
+项目规则：
 
-- Built-in official AI sources include OpenAI News, OpenAI Codex Changelog,
-  OpenAI Skills commits filtered for Codex/pet-related updates, Anthropic,
-  Google DeepMind, Google AI, Hugging Face, and GitHub AI/Changelog.
-- AI Breakfast is read through its public archive path because Beehiiv feed
-  access can be blocked in CLI/GitHub Actions environments.
-- Follow Builders is consumed as public generated JSON feed files. The project
-  does not copy its X API token flow.
-- X API, email inboxes, WeChat, cookies, and login-bound bridges are treated as
-  advanced/private integrations, not public defaults.
+- 新增 `.cursor/rules/project.mdc`，定义红线、改前必读和改后必跑。
+- 重写 `AGENTS.md`，把 Agent 说明改成中文，并明确 AI 创作能力雷达的收录优先级。
+- 重写 `CLAUDE.md`，同步新的项目定位和来源边界。
 
-Skill/docs:
+来源策略：
 
-- Added `skills/ai-news-radar/SKILL.md` for Codex/Claude workflows.
-- Added `skills/ai-news-radar/references/source-intake.md`.
-- Added `skills/ai-news-radar/references/v2-method.md`.
-- Added `docs/SOURCE_COVERAGE.md`.
-- Added `docs/V2_PRODUCT_BRIEF.md`.
-- Updated `README.md` so readers, fork users, and agent users each have a clear
-  entry point.
+- 重写 `docs/SOURCE_COVERAGE.md`。
+- 来源结构改为五层：
+  - 榜单源决定观察池。
+  - 官方源确认事实。
+  - 创作工具 changelog 判断落地价值。
+  - 可靠聚合源补漏。
+  - 私有 OPML 扩展个人线索。
 
-## Validation Already Run
+尚未完成：
+
+- `scripts/update_news.py` 里的筛选逻辑仍主要沿用旧项目。
+- `README.md` 仍有较多旧项目文案。
+- 前端 `index.html`、`assets/app.js`、`assets/styles.css` 仍是旧版 AI Signal Board 展示结构。
+- `skills/ai-news-radar/SKILL.md` 仍需要后续改成创作能力雷达 Skill。
+
+## 关键文件
+
+- `AGENTS.md`：Agent 工作纪律和项目定位。
+- `.cursor/rules/project.mdc`：Cursor 持久规则。
+- `CLAUDE.md`：Claude / Claude Code 入口说明。
+- `docs/SOURCE_COVERAGE.md`：来源策略，是后续接源和改筛选的依据。
+- `scripts/update_news.py`：抓取、过滤、排序、写入数据的核心脚本。
+- `assets/app.js`：前端读取 `data/*.json` 并渲染页面。
+- `.github/workflows/update-news.yml`：定时更新数据的 GitHub Actions。
+
+## 后续建议顺序
+
+1. 完成文档层改造：`README.md`、`skills/ai-news-radar/SKILL.md`、`docs/V2_PRODUCT_BRIEF.md`。
+2. 为创作能力雷达补测试：优先改 `tests/test_topic_filter.py`。
+3. 调整 `scripts/update_news.py` 里的关键词、源权重和 `is_ai_related_record()`。
+4. 调整前端文案和来源标签：`index.html`、`assets/app.js`、`assets/styles.css`。
+5. 本地跑验证后再考虑改 GitHub Actions 或 JSON schema。
+
+## 验证命令
 
 ```bash
-node --check assets/app.js
-/tmp/ai-news-radar-venv/bin/python /Users/carl2077/.codex/skills/.system/skill-creator/scripts/quick_validate.py skills/ai-news-radar
-/tmp/ai-news-radar-venv/bin/pytest -q
+.venv/bin/python -m py_compile scripts/update_news.py
+.venv/bin/python -m pytest -q
 git diff --check
 ```
 
-Last known result:
+如果 `.venv` 不存在：
 
-- Skill validator: `Skill is valid!`
-- Tests: `28 passed`
-- GitHub Pages deployment: success
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+pip install pytest
+```
 
-## Verification Checklist For A Fresh GPT
+## 安全边界
 
-Please verify:
+不要提交：
 
-1. Reader path: Can a normal user understand that they only need to open the
-   public page?
-2. Fork path: Can a GitHub user understand how to fork, enable Pages/Actions,
-   and optionally add OPML through `FOLLOW_OPML_B64`?
-3. Agent path: Can Codex/Claude find the Skill and know which files to read
-   first?
-4. Coverage honesty: Does the repo clearly distinguish public default sources
-   from advanced/private integrations?
-5. UI: Does the first viewport show source coverage without overwhelming new
-   users?
-6. Safety: Are private OPML files, tokens, cookies, inboxes, and API keys kept
-   out of the repository?
-7. Maintenance: Are validation commands and source-intake rules clear enough for
-   a future agent to add or reject new sources?
+- `feeds/follow.opml`
+- `.env`
+- token、API key、cookie
+- 个人邮箱
+- 个人订阅源
+- 浏览器导出内容
 
-## Suggested Prompt For New GPT
+不要贸然修改：
+
+- `.github/workflows/update-news.yml`
+- `data/*.json` schema
+- `scripts/update_news.py` 的输出字段合约
+
+## 给新 Agent 的建议提示词
 
 ```text
 你现在接手本地项目：
-/Users/carl2077/workspace/ai-news-radar
+/Users/gaoding/gd-news
 
-请使用项目内 Skill：
-skills/ai-news-radar/SKILL.md
+这是一个从 AI News Radar fork 出来的项目，正在改造成“个人起步、团队可读”的 AI 创作能力雷达。
 
 请先阅读：
-README.md
+AGENTS.md
+.cursor/rules/project.mdc
+CLAUDE.md
 docs/GPT_HANDOFF.md
 docs/SOURCE_COVERAGE.md
-docs/V2_PRODUCT_BRIEF.md
-skills/ai-news-radar/references/source-intake.md
-skills/ai-news-radar/references/v2-method.md
+skills/ai-news-radar/SKILL.md
 
 任务：
-1. 判断这个 AI 新闻聚合项目是否已经达到 v2 soft launch / 可公开发布状态。
-2. 分别从普通读者、fork 用户、Codex/Claude Skill 用户三个角度验收 README 和项目结构。
-3. 检查是否有隐私/密钥/OPML 泄漏风险。
-4. 检查信息源覆盖是否诚实：哪些是公共默认源，哪些只是高级/私有路径。
-5. 如果发现问题，请按严重程度列出具体文件和建议修复方式。
-
-不要直接重构。先做验收报告。
+1. 不要直接重构。
+2. 先判断当前文档、来源策略、抓取逻辑和前端展示还有哪些旧项目残留。
+3. 按严重程度列出下一步应该改的文件。
+4. 严禁提交私有 OPML、密钥、cookie、邮箱或个人订阅源。
 ```

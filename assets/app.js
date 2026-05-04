@@ -87,7 +87,7 @@ function fmtDate(iso) {
 
 function setStats(payload) {
   const cards = [
-    ["AI 信号", fmtNumber(payload.total_items)],
+    ["Agent优先", fmtNumber(payload.total_items)],
     ["站点数", fmtNumber(payload.site_count)],
     ["来源分组", fmtNumber(payload.source_count)],
     ["归档", fmtNumber(payload.archive_total || 0)]
@@ -149,7 +149,7 @@ function renderCoverageStrip(errorMessage = "") {
   const cards = [
     ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
     ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
-    ["AI精选", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
+    ["Agent优先", `${fmtNumber(state.totalAi)} 条`, "24小时创作能力信号", "signal"],
     ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
     ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
     ["私人扩展", opmlValue, opmlMeta, "private"],
@@ -239,8 +239,8 @@ function renderModeSwitch() {
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
   if (state.mode === "ai") {
-    modeHintEl.textContent = `AI强相关 · ${fmtNumber(state.totalAi)} 条`;
-    if (listTitleEl) listTitleEl.textContent = "AI 信号流";
+    modeHintEl.textContent = `Agent优先 · ${fmtNumber(state.totalAi)} 条`;
+    if (listTitleEl) listTitleEl.textContent = "Agent 优先信号流";
   } else {
     const allCount = state.allDedup
       ? (state.totalAllMode || state.itemsAll.length)
@@ -382,6 +382,12 @@ function renderGroupedBySiteAndSource(items) {
   newsListEl.appendChild(frag);
 }
 
+function renderFlatList(items) {
+  const frag = document.createDocumentFragment();
+  items.forEach((item) => frag.appendChild(renderItemNode(item)));
+  newsListEl.appendChild(frag);
+}
+
 function renderList() {
   const filtered = getFilteredItems();
   resultCountEl.textContent = `${fmtNumber(filtered.length)} 条`;
@@ -398,6 +404,11 @@ function renderList() {
 
   if (state.siteFilter) {
     renderGroupedBySource(filtered);
+    return;
+  }
+
+  if (state.mode === "ai") {
+    renderFlatList(filtered);
     return;
   }
 

@@ -2,6 +2,7 @@ import unittest
 
 from scripts.update_news import (
     build_latest_payloads,
+    creation_signal_priority,
     dedupe_items_by_title_url,
     is_ai_related_record,
     is_hubtoday_generic_anchor_title,
@@ -57,6 +58,33 @@ class TopicFilterTests(unittest.TestCase):
             "url": "https://x.com/karpathy/status/1",
         }
         self.assertTrue(is_ai_related_record(rec))
+
+    def test_prioritizes_agent_workflow_over_image_model_news(self):
+        agent_rec = {
+            "site_id": "official_ai",
+            "site_name": "Official AI Updates",
+            "source": "OpenAI Skills",
+            "title": "OpenAI Skills adds a Codex workflow for creative agents",
+            "url": "https://example.com/openai-skills",
+        }
+        image_rec = {
+            "site_id": "official_ai",
+            "site_name": "Official AI Updates",
+            "source": "OpenAI News",
+            "title": "GPT Image 2 improves image editing quality",
+            "url": "https://example.com/gpt-image-2",
+        }
+        self.assertLess(creation_signal_priority(agent_rec), creation_signal_priority(image_rec))
+
+    def test_priority_ignores_agent_keyword_in_url_only(self):
+        rec = {
+            "site_id": "zeli",
+            "site_name": "Zeli",
+            "source": "Hacker News · 24h最热",
+            "title": "BYOMesh offers more bandwidth for LoRa radios",
+            "url": "https://example.com/@nullagent/radio",
+        }
+        self.assertGreater(creation_signal_priority(rec), 0)
 
     def test_rejects_noise_topic(self):
         rec = {

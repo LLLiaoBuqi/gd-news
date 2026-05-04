@@ -10,11 +10,11 @@
 
 默认按下面顺序判断信息价值：
 
-1. 最新发布的图像 / 图像编辑模型，例如 `qwen image 2512`、`qwen image edit`、`nano banana pro`、`seedream 4.5`。
-2. 最新发布的 AI 创作工具，以及已有 AI 创作工具的重要功能更新，例如 `Lovart`、`LibLibAI`、`flowith`。
-3. 最新 Agent、Skill、workflow、自动化能力资讯。
-4. 最新发布的大语言模型，但只有当它明显影响创作流程、Agent 使用或团队工作方式时才高亮。
-5. 最新发布的 AI 视频模型，例如 `Seedance`。
+1. 最新 Agent、Skill、workflow、自动化能力资讯，例如 `Anthropic`、`Claude Code`、`Claude Skills`、`OpenAI Skills`、`Flowith Canvas Cowork Skill`、`Cursor`、`Codex`、`OpenClaw`。
+2. 最新发布的图像 / 图像编辑模型，例如 `GPT Image 2`、`GPT Image 1.5`、`Nano Banana 2`、`Nano Banana Pro`、`Seedream 4.5`、`Qwen Image Max 2512`、`Qwen Image Edit Plus 2511`、`FLUX.2`。
+3. 最新发布的 AI 创作工具，以及已有 AI 创作工具的重要功能更新，例如 `Lovart`、`Flowith`、`LibLibAI`、`Krea`、`Runway`、`ComfyUI`。
+4. 最新发布的大语言模型，例如 `GPT-5`、`Claude 4.5`、`Gemini 3`、`Qwen3`；但只有当它明显影响创作流程、Agent 使用或团队工作方式时才高亮。
+5. 最新发布的 AI 视频模型，例如 `Seedance`、`Veo`、`Kling`、`Sora`、`Runway Gen`。
 
 不要把泛 AI 热点、融资新闻、榜单、口水战或宽泛行业动态默认当成高优先级，除非它明确影响 AI 创作能力或团队工作流。
 

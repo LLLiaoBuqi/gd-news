@@ -1,8 +1,10 @@
-# AI Signal Board
+# gd-news
 
 中文 | [English](#english)
 
-高质量 AI/科技新闻聚合项目。普通用户直接打开网页看 24 小时 AI 信号；维护者可以 fork 后接入自己的 OPML/RSS；Codex / Claude Code 可以用项目内 Skill 继续添加信息源和优化产品。
+个人起步、团队可读的 AI 创作能力雷达。
+
+这个项目从 AI News Radar fork 而来，当前改造目标不是泛 AI 新闻聚合，而是帮助彦齐和项目成员快速发现会影响 AI 创作流程、创作工具选择、Agent 工作流和近期团队实验方向的信息。
 
 说明：本仓库已适配公开发布，**不会包含作者私有 RSS 订阅文件**。
 
@@ -12,23 +14,23 @@
 
 | 你想做什么 | 直接入口 |
 | --- | --- |
-| 我只是想看 AI 新闻 | 打开 `https://learnprompt.github.io/ai-news-radar/` |
-| 我想 fork 一个自己的版本 | 看下面的「1 分钟上手」和「GitHub 自动更新」 |
-| 我想给 Codex / Claude Code 用 | 看 `skills/ai-news-radar/SKILL.md` 和 `docs/GPT_HANDOFF.md` |
+| 我想看 AI 创作能力动态 | 打开当前仓库的 GitHub Pages 页面 |
+| 我想接入自己的新闻源 | 看下面的「本地自定义 OPML」和「GitHub 自动更新」 |
+| 我想让 Agent 继续改造项目 | 先看 `AGENTS.md`、`docs/SOURCE_COVERAGE.md` 和 `docs/GPT_HANDOFF.md` |
 
 ### 1. 在线入口
 
 - 线上页面：
-  - `https://learnprompt.github.io/ai-news-radar/`
+  - 当前 fork 的 GitHub Pages 页面（配置 Pages 后可用）
 - 说明：
   - 日常查看请打开这个页面，不要直接打开 `data/latest-24h.json`
   - GitHub Actions 会持续更新 `data/*.json`，GitHub Pages 会展示最新页面
 
 ### 2. 1 分钟上手
 
-普通用户不需要安装任何东西，直接打开线上页面即可。
+项目成员不需要安装任何东西，直接打开线上页面即可。
 
-想 fork 自己的版本：
+想配置自己的版本：
 
 1. Fork 本仓库。
 2. 在 GitHub Pages 里开启 Pages。
@@ -38,13 +40,13 @@
 想本地运行：
 
 ```bash
-git clone https://github.com/LearnPrompt/ai-news-radar.git
-cd ai-news-radar
+git clone https://github.com/lsk18059805307-sketch/gd-news.git
+cd gd-news
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python scripts/update_news.py --output-dir data --window-hours 24
-python -m http.server 8080
+.venv/bin/python scripts/update_news.py --output-dir data --window-hours 24
+.venv/bin/python -m http.server 8080
 ```
 
 打开：`http://localhost:8080`
@@ -60,6 +62,9 @@ python -m http.server 8080
 
 ### 4. 主要能力
 
+- Agent / Skill / workflow 动态（Anthropic / Claude Code / OpenAI Skills / Cursor / Codex / OpenClaw 等）
+- 图像 / 图像编辑排行榜模型观察池（GPT Image / Nano Banana / Seedream / Qwen Image / FLUX 等）
+- AI 创作工具更新观察（Lovart / Flowith / LibLibAI / Krea / Runway / ComfyUI 等）
 - 官方 AI 节点直连（OpenAI News / OpenAI Codex Changelog / OpenAI Skills / Anthropic / Google DeepMind / Google AI / Hugging Face / GitHub AI）
 - 高信号日报补充（AI Breakfast）
 - AI builders 中心化 feed 补充（Follow Builders：X builders / Anthropic Engineering / Claude Blog / AI podcasts）
@@ -82,7 +87,7 @@ python -m http.server 8080
 
 这个项目采用双层设计：
 
-- 默认层：给普通 AI 爱好者直接使用的 `AI强相关` 信号流。
+- 默认层：给项目成员直接使用的 AI 创作能力信号流。
 - 进阶层：给维护者使用的 OPML、自定义源、源健康状态与 GitHub Actions 部署配置。
 
 默认层覆盖：
@@ -135,14 +140,14 @@ python -m http.server 8080
 ### 8. 本地自定义 OPML
 
 ```bash
-cd ai-news-radar
+cd gd-news
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 cp feeds/follow.example.opml feeds/follow.opml
 # 把你自己的 OPML 内容替换到 feeds/follow.opml（不要提交到仓库）
-python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml
-python -m http.server 8080
+.venv/bin/python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml
+.venv/bin/python -m http.server 8080
 ```
 
 打开：`http://localhost:8080`
@@ -183,25 +188,25 @@ python -m http.server 8080
 
 | Goal | Start here |
 | --- | --- |
-| Read AI news | Open `https://learnprompt.github.io/ai-news-radar/` |
-| Fork your own version | Use the 1-minute setup below |
-| Hand it to Codex / Claude Code | Read `skills/ai-news-radar/SKILL.md` and `docs/GPT_HANDOFF.md` |
+| Follow AI creation capability updates | Open this repository's GitHub Pages site |
+| Add your own sources | Use local OPML or GitHub Secret `FOLLOW_OPML_B64` |
+| Hand the project to an agent | Read `AGENTS.md`, `docs/SOURCE_COVERAGE.md`, and `docs/GPT_HANDOFF.md` |
 
 ### 1. Live Site
 
 - Live page:
-  - `https://learnprompt.github.io/ai-news-radar/`
+  - `https://lsk18059805307-sketch.github.io/gd-news/`
 - Note:
   - Use this page for daily reading instead of opening `data/latest-24h.json` directly
   - GitHub Actions keeps `data/*.json` updated and GitHub Pages serves the latest UI
 
-Production-grade AI/tech news aggregator with a static web UI, 24h updates, WaytoAGI timeline, and OPML RSS ingestion.
+`gd-news` is being adapted from AI News Radar into an AI creation capability radar for Yanqi and project members.
 
 This repo is safe for public release and does **not** include the maintainer's private RSS subscription file.
 
 ### 2. 1-Minute Setup
 
-Readers do not need to install anything. Open the live page.
+Project members do not need to install anything. Open the live page.
 
 To fork your own version:
 
@@ -213,13 +218,13 @@ To fork your own version:
 To run locally:
 
 ```bash
-git clone https://github.com/LearnPrompt/ai-news-radar.git
-cd ai-news-radar
+git clone https://github.com/lsk18059805307-sketch/gd-news.git
+cd gd-news
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python scripts/update_news.py --output-dir data --window-hours 24
-python -m http.server 8080
+.venv/bin/python scripts/update_news.py --output-dir data --window-hours 24
+.venv/bin/python -m http.server 8080
 ```
 
 Open: `http://localhost:8080`
@@ -230,13 +235,15 @@ No.
 You only need to run one command, or let GitHub Actions run it on schedule.
 
 - One-shot local command:
-  - `python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml`
+  - `.venv/bin/python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml`
 - Scheduled automation:
   - `.github/workflows/update-news.yml` runs every 30 minutes and commits updated data.
 
 ### 4. Core features
 
-- Multi-source web aggregation
+- Agent / Skill / workflow updates first (Anthropic / Claude Code / OpenAI Skills / Cursor / Codex / OpenClaw)
+- Image and image-editing model watchlist (GPT Image / Nano Banana / Seedream / Qwen Image / FLUX)
+- AI creation tool updates (Lovart / Flowith / LibLibAI / Krea / Runway / ComfyUI)
 - First-class official AI update sources (OpenAI News / OpenAI Codex Changelog / OpenAI Skills / Anthropic / Google DeepMind / Google AI / Hugging Face / GitHub AI)
 - High-signal newsletter coverage (AI Breakfast)
 - AI builders central feed coverage (Follow Builders: X builders / Anthropic Engineering / Claude Blog / AI podcasts)
@@ -257,7 +264,7 @@ You only need to run one command, or let GitHub Actions run it on schedule.
 
 This project uses a two-layer design:
 
-- Default layer: a curated `AI-focused` signal feed for ordinary AI enthusiasts.
+- Default layer: a curated AI creation capability signal feed for project members.
 - Advanced layer: OPML, custom sources, source health, and GitHub Actions deployment settings for maintainers.
 
 For custom sources, prefer `feeds/follow.opml` locally or GitHub secret `FOLLOW_OPML_B64` in Actions. Do not commit private subscription files.
@@ -289,14 +296,14 @@ Verify whether this project is ready to publish and list concrete remaining issu
 ### 7. Quick start
 
 ```bash
-cd ai-news-radar
+cd gd-news
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 cp feeds/follow.example.opml feeds/follow.opml
 # Replace with your own OPML subscriptions (do not commit this file)
-python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml
-python -m http.server 8080
+.venv/bin/python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml
+.venv/bin/python -m http.server 8080
 ```
 
 Open: `http://localhost:8080`
