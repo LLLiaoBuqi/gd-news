@@ -124,6 +124,7 @@ const aiSettingsTestEl = document.getElementById("aiSettingsTest");
 const resultCountEl = document.getElementById("resultCount");
 const listTitleEl = document.getElementById("listTitle");
 const listWrapEl = document.querySelector(".list-wrap");
+const waytoagiWrapEl = document.querySelector(".waytoagi-wrap");
 const itemTpl = document.getElementById("itemTpl");
 const modeAiBtnEl = document.getElementById("modeAiBtn");
 const modeAllBtnEl = document.getElementById("modeAllBtn");
@@ -440,6 +441,11 @@ function scrollToResults() {
   listWrapEl.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
+function scrollToWaytoagi() {
+  if (!waytoagiWrapEl) return;
+  waytoagiWrapEl.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
 function renderSearchMode() {
   const isAiSearch = state.searchMode === "ai";
   searchNormalBtnEl?.classList.toggle("active", !isAiSearch);
@@ -535,13 +541,26 @@ function chatCompletionsUrl(baseUrl) {
 
 function extractJsonObject(text) {
   const raw = String(text || "").trim();
-  try {
-    return JSON.parse(raw);
-  } catch {
-    const match = raw.match(/\{[\s\S]*\}/);
-    if (!match) throw new Error("模型没有返回 JSON。");
-    return JSON.parse(match[0]);
+  const fenced = raw.match(/```(?:json)?\s*([\s\S]*?)```/i)?.[1]?.trim();
+  const objectStart = raw.indexOf("{");
+  const objectEnd = raw.lastIndexOf("}");
+  const objectSlice = objectStart >= 0 && objectEnd > objectStart
+    ? raw.slice(objectStart, objectEnd + 1)
+    : "";
+  const candidates = [raw, fenced, objectSlice]
+    .map((candidate) => String(candidate || "").trim())
+    .filter(Boolean);
+  let lastError = null;
+
+  for (const candidate of candidates) {
+    try {
+      return JSON.parse(candidate);
+    } catch (err) {
+      lastError = err;
+    }
   }
+
+  throw new Error(`AI 已返回内容，但不是合法 JSON：${lastError?.message || "解析失败"}`);
 }
 
 async function callGlmChat(config, messages, options = {}) {
@@ -719,9 +738,10 @@ function buildAiSearchMessages(query, recall) {
     "团队偏好：优先 Agent、工作流、模型能力变化、AI 创作工具、开发者工具、官方发布、一手来源、可落地案例；弱化泛行业营销、重复转载、标题党和低信号融资新闻。",
     "不要做泛网页搜索，不要补充 candidates 之外的内容；只能基于候选标题、站内摘要、来源、时间和 URL 做判断。",
     "输出必须是 JSON，不要输出 Markdown。格式：{\"items\":[{\"title\":\"...\",\"summary\":\"...\",\"url\":\"...\",\"source\":\"...\",\"reason\":\"...\"}]}。",
+    "必须返回一个可被 JSON.parse 直接解析的对象；所有字符串使用双引号，字符串内部不要出现未转义的英文双引号，不能使用尾逗号。",
     "禁止输出解释、前后缀、代码块或注释；items 必须是数组，每个字段必须是字符串。",
     "只能从 candidates 中选择，url 必须逐字复制 candidates 里的 url；如果候选和 query 不相关，就少返回或返回空数组，不要硬选。",
-    "summary 用中文，2 到 3 句话，说明这条为什么值得团队看。",
+    "summary 用中文，2 到 3 句话，80 个中文字以内，说明这条为什么值得团队看。",
   ].join("\n");
 
   return [
@@ -741,6 +761,37 @@ function buildAiSearchMessages(query, recall) {
       }, null, 2),
     },
   ];
+}
+
+async function repairAiSearchJson(config, content, parseError) {
+  const repaired = await callGlmChat(config, [
+    {
+      role: "system",
+      content: [
+        "你是 JSON 修复器。用户会给你一段模型输出和解析错误。",
+        "只输出一个严格 JSON 对象，不要 Markdown，不要解释。",
+        "目标 schema：{\"items\":[{\"title\":\"...\",\"summary\":\"...\",\"url\":\"...\",\"source\":\"...\",\"reason\":\"...\"}]}。",
+        "如果某个字段缺失，用空字符串补齐；如果条目无法修复，就删除该条。",
+      ].join("\n"),
+    },
+    {
+      role: "user",
+      content: JSON.stringify({
+        parse_error: parseError,
+        broken_output: String(content || "").slice(0, 12000),
+      }, null, 2),
+    },
+  ], {
+    temperature: 0,
+    responseFormat: { type: "json_object" },
+    maxTokens: 3000,
+  });
+
+  try {
+    return extractJsonObject(repaired);
+  } catch (err) {
+    throw new Error(`AI 已收到模型响应，但返回格式不完整，自动修复也失败：${err.message}`);
+  }
 }
 
 function effectiveAllItems() {
@@ -1265,12 +1316,19 @@ async function runAiCuratedSearch() {
       config,
       buildAiSearchMessages(query, recall),
       {
+        temperature: 0,
         responseFormat: { type: "json_object" },
         maxTokens: 4096,
       }
     );
     if (!isCurrentAiSearchRun(runId)) return;
-    const payload = extractJsonObject(content);
+    let payload;
+    try {
+      payload = extractJsonObject(content);
+    } catch (parseErr) {
+      payload = await repairAiSearchJson(config, content, parseErr.message);
+    }
+    if (!isCurrentAiSearchRun(runId)) return;
     const results = Array.isArray(payload.items) ? payload.items : [];
     state.aiCuratedResults = filterAiResultsToCandidates(results, candidates).slice(0, 10);
     if (!state.aiCuratedResults.length) {
@@ -1447,6 +1505,7 @@ modeAiBtnEl.addEventListener("click", () => {
   renderModeSwitch();
   renderSiteFilters();
   renderList();
+  scrollToWaytoagi();
 });
 
 modeAllBtnEl.addEventListener("click", async () => {
@@ -1459,12 +1518,14 @@ modeAllBtnEl.addEventListener("click", async () => {
     await loadAllModeData();
     renderSiteFilters();
     renderList();
+    scrollToResults();
   } catch (err) {
     newsListEl.innerHTML = "";
     const failed = document.createElement("div");
     failed.className = "empty";
     failed.textContent = err.message;
     newsListEl.appendChild(failed);
+    scrollToResults();
   } finally {
     modeAllBtnEl.disabled = false;
   }

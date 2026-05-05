@@ -1214,13 +1214,14 @@ body {
 
 .hero-modes {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr) auto;
   gap: 8px;
-  align-items: center;
-  margin-top: 16px;
+  align-items: start;
+  margin-top: 22px;
 }
 
 .mode-label {
+  grid-column: 1 / -1;
   display: inline-flex;
   align-items: center;
   color: var(--muted);
@@ -1239,6 +1240,7 @@ body {
 }
 
 .mode-band {
+  grid-column: 1 / 2;
   min-height: 46px;
   display: flex;
   align-items: center;
@@ -1272,6 +1274,12 @@ body {
   font-size: 13px;
   color: var(--ink-soft);
   white-space: nowrap;
+}
+
+.hero-modes .all-dedupe {
+  grid-column: 2 / 3;
+  grid-row: 2;
+  min-height: 46px;
 }
 
 .list-sources {
@@ -1482,6 +1490,11 @@ summary:focus-visible {
   background: rgba(252, 250, 245, 0.78);
   box-shadow: none;
   overflow: hidden;
+}
+
+.list-wrap,
+.waytoagi-wrap {
+  scroll-margin-top: 24px;
 }
 
 .list-wrap {
@@ -1750,7 +1763,14 @@ summary:focus-visible {
     gap: 8px;
   }
 
+  .hero-modes .all-dedupe {
+    grid-column: 1;
+    grid-row: auto;
+    justify-self: start;
+  }
+
   .mode-band {
+    grid-column: 1;
     width: 100%;
   }
 
