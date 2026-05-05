@@ -26,6 +26,7 @@ const state = {
   aiSearchRunning: false,
   aiCuratedResults: null,
   aiSearchError: "",
+  aiSearchRunId: 0,
   mode: "ai",
   waytoagiMode: "today",
   waytoagiData: null,
@@ -333,6 +334,7 @@ function renderSiteFilters() {
   allPill.onclick = () => {
     state.siteFilter = "";
     resetAiListExpansion();
+    clearAiSearchResults();
     renderSiteFilters();
     renderList();
   };
@@ -346,6 +348,7 @@ function renderSiteFilters() {
     btn.onclick = () => {
       state.siteFilter = s.site_id;
       resetAiListExpansion();
+      clearAiSearchResults();
       renderSiteFilters();
       renderList();
     };
@@ -391,19 +394,26 @@ function renderSearchMode() {
 }
 
 function setSearchMode(mode) {
+  if (state.searchMode === mode) return;
   state.searchMode = mode;
-  state.aiSearchError = "";
-  if (mode === "normal") {
-    state.aiCuratedResults = null;
-  }
-  renderSearchMode();
+  state.query = "";
+  clearAiSearchResults();
+  resetAiListExpansion();
+  if (searchInputEl) searchInputEl.value = "";
   renderModeSwitch();
   renderList();
 }
 
 function clearAiSearchResults() {
+  state.aiSearchRunId += 1;
+  state.aiSearchRunning = false;
   state.aiCuratedResults = null;
   state.aiSearchError = "";
+  renderSearchMode();
+}
+
+function isCurrentAiSearchRun(runId) {
+  return state.searchMode === "ai" && state.aiSearchRunId === runId;
 }
 
 function loadAiConfig() {
@@ -1056,8 +1066,10 @@ function getAiSearchCandidates() {
 
 async function runAiCuratedSearch() {
   const query = searchInputEl.value.trim() || "帮我挑出最值得看的十条";
+  const runId = state.aiSearchRunId + 1;
   state.query = query;
   state.searchMode = "ai";
+  state.aiSearchRunId = runId;
   state.aiSearchRunning = true;
   state.aiCuratedResults = null;
   state.aiSearchError = "";
@@ -1081,6 +1093,7 @@ async function runAiCuratedSearch() {
       buildAiSearchMessages(query, candidates),
       { tools: buildGlmWebSearchTools() }
     );
+    if (!isCurrentAiSearchRun(runId)) return;
     const payload = extractJsonObject(content);
     const results = Array.isArray(payload.items) ? payload.items : [];
     state.aiCuratedResults = results.slice(0, 10);
@@ -1088,15 +1101,18 @@ async function runAiCuratedSearch() {
       throw new Error("AI 没有返回可展示的精选结果。");
     }
   } catch (err) {
+    if (!isCurrentAiSearchRun(runId)) return;
     state.aiCuratedResults = null;
     state.aiSearchError = `${err.message || "AI 搜索失败"}。请检查 AI 设置中的 API Key、Base URL 和 Model。`;
     if (/API Key|请先/.test(state.aiSearchError)) {
       openAiSettings("先填写 BigModel API Key，再点击“确认搜索”。");
     }
   } finally {
-    state.aiSearchRunning = false;
-    renderSearchMode();
-    renderList();
+    if (isCurrentAiSearchRun(runId)) {
+      state.aiSearchRunning = false;
+      renderSearchMode();
+      renderList();
+    }
   }
 }
 

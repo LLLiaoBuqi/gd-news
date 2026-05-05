@@ -1214,17 +1214,26 @@ body {
 
 .hero-modes {
   display: grid;
-  grid-template-columns: auto 1fr auto;
-  gap: 18px;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 8px;
   align-items: center;
-  margin-top: 18px;
+  margin-top: 16px;
 }
 
-.modes-block {
-  display: flex;
+.mode-label {
+  min-height: 46px;
+  display: inline-flex;
   align-items: center;
-  gap: 12px;
-  min-width: 0;
+  justify-content: center;
+  padding: 0 18px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  color: var(--muted);
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
 }
 
 .field-label {
@@ -1234,12 +1243,40 @@ body {
   white-space: nowrap;
 }
 
+.mode-band {
+  min-height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(252, 250, 245, 0.78);
+}
+
+.mode-band .mode-switch {
+  align-self: stretch;
+  border: 0;
+  border-right: 1px solid var(--line);
+  border-radius: 0;
+  background: transparent;
+}
+
+.mode-band .mode-btn {
+  min-height: 46px;
+  padding: 0 22px;
+}
+
 .hero-modes .mode-hint {
-  text-align: center;
+  align-self: center;
+  padding: 0 18px 0 0;
+  text-align: right;
   font-family: var(--font-sans);
   font-size: 13px;
   color: var(--ink-soft);
-  padding-bottom: 0;
+  white-space: nowrap;
 }
 
 .list-sources {
@@ -1715,7 +1752,15 @@ summary:focus-visible {
 
   .hero-modes {
     grid-template-columns: 1fr;
-    gap: 12px;
+    gap: 8px;
+  }
+
+  .mode-label {
+    justify-content: flex-start;
+  }
+
+  .mode-band {
+    width: 100%;
   }
 
   .primary-controls,
