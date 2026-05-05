@@ -5,7 +5,7 @@ const DEFAULT_AI_CONFIG = {
   provider: "glm",
   apiKey: "",
   baseUrl: "https://open.bigmodel.cn/api/paas/v4/",
-  model: "glm-4.7-flash",
+  model: "glm-4-flash",
 };
 
 const state = {
@@ -521,7 +521,7 @@ function buildAiSearchMessages(query, candidates) {
       role: "user",
       content: JSON.stringify({
         request: query,
-        instruction: "请精选十条。每条必须保留原始 url。不要编造候选列表之外的文章。",
+        instruction: "请选出十条最值得团队阅读的内容。每条必须保留原始 url。不要编造候选列表之外的文章。",
         candidates,
       }, null, 2),
     },
@@ -629,7 +629,7 @@ function renderAiSearchStatus(message, isError = false) {
 
 function renderAiCuratedResults() {
   const results = Array.isArray(state.aiCuratedResults) ? state.aiCuratedResults : [];
-  if (listTitleEl) listTitleEl.textContent = "精选十条";
+  if (listTitleEl) listTitleEl.textContent = "AI搜索";
   resultCountEl.textContent = `${fmtNumber(results.length)} 条`;
   newsListEl.innerHTML = "";
 
@@ -639,7 +639,7 @@ function renderAiCuratedResults() {
   }
 
   if (state.aiSearchRunning) {
-    renderAiSearchStatus("AI 正在阅读候选文章并生成精选十条...");
+    renderAiSearchStatus("AI 正在阅读候选文章并生成搜索结果...");
     return;
   }
 
@@ -1166,18 +1166,18 @@ searchInputEl.addEventListener("keydown", (e) => {
   if (e.key !== "Enter") return;
   e.preventDefault();
   if (state.searchMode === "ai") {
-    runAiCuratedSearch();
-  } else {
-    scrollToResults();
+    return;
   }
+  scrollToResults();
 });
 
 searchInputEl.addEventListener("search", () => {
   state.query = searchInputEl.value;
   resetAiListExpansion();
   clearAiSearchResults();
-  if (state.searchMode === "ai" && state.query.trim()) {
-    runAiCuratedSearch();
+  if (state.searchMode === "ai") {
+    renderModeSwitch();
+    renderList();
     return;
   }
   renderModeSwitch();
