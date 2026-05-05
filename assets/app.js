@@ -1,3 +1,5 @@
+const AI_LIST_INITIAL_LIMIT = 30;
+
 const state = {
   itemsAi: [],
   itemsAll: [],
@@ -17,7 +19,12 @@ const state = {
   waytoagiData: null,
   sourceStatus: null,
   generatedAt: null,
+  aiListExpanded: false,
 };
+
+function resetAiListExpansion() {
+  state.aiListExpanded = false;
+}
 
 const statsEl = document.getElementById("stats");
 const siteSelectEl = document.getElementById("siteSelect");
@@ -85,9 +92,23 @@ function fmtDate(iso) {
   }).format(d);
 }
 
+function splitWaytoagiText(raw) {
+  const text = (raw || "").trim();
+  if (!text) return { title: "", summary: "" };
+
+  const sentenceMatch = text.match(/^([^。！？!?\n]{6,}?[。！？!?])/);
+  if (sentenceMatch) {
+    const candidate = sentenceMatch[1].replace(/[。！？!?]$/, "").trim();
+    if (candidate && candidate.length < text.length - 6) {
+      return { title: candidate, summary: text };
+    }
+  }
+  return { title: text, summary: "" };
+}
+
 function setStats(payload) {
   const cards = [
-    ["Agent优先", fmtNumber(payload.total_items)],
+    ["Agent 优先", fmtNumber(payload.total_items)],
     ["站点数", fmtNumber(payload.site_count)],
     ["来源分组", fmtNumber(payload.source_count)],
     ["归档", fmtNumber(payload.archive_total || 0)]
@@ -149,7 +170,7 @@ function renderCoverageStrip(errorMessage = "") {
   const cards = [
     ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
     ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
-    ["Agent优先", `${fmtNumber(state.totalAi)} 条`, "24小时创作能力信号", "signal"],
+    ["Agent 优先", `${fmtNumber(state.totalAi)} 条`, "24小时创作能力信号", "signal"],
     ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
     ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
     ["私人扩展", opmlValue, opmlMeta, "private"],
@@ -213,6 +234,7 @@ function renderSiteFilters() {
   allPill.textContent = "全部";
   allPill.onclick = () => {
     state.siteFilter = "";
+    resetAiListExpansion();
     renderSiteFilters();
     renderList();
   };
@@ -225,6 +247,7 @@ function renderSiteFilters() {
     btn.textContent = `${s.site_name} ${s.count}/${raw}`;
     btn.onclick = () => {
       state.siteFilter = s.site_id;
+      resetAiListExpansion();
       renderSiteFilters();
       renderList();
     };
@@ -239,7 +262,7 @@ function renderModeSwitch() {
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
   if (state.mode === "ai") {
-    modeHintEl.textContent = `Agent优先 · ${fmtNumber(state.totalAi)} 条`;
+    modeHintEl.textContent = `Agent 优先 · ${fmtNumber(state.totalAi)} 条`;
     if (listTitleEl) listTitleEl.textContent = "Agent 优先信号流";
   } else {
     const allCount = state.allDedup
@@ -269,32 +292,44 @@ function getFilteredItems() {
   });
 }
 
-function renderItemNode(item) {
+function pickSummaryText(item) {
+  const summary = (item.summary || "").trim();
+  if (summary) return summary;
+  const zh = (item.title_zh || "").trim();
+  const en = (item.title_en || "").trim();
+  if (zh && en && zh !== en) return en;
+  return "";
+}
+
+function renderItemNode(item, { hideSource = false } = {}) {
   const node = itemTpl.content.firstElementChild.cloneNode(true);
-  node.querySelector(".site").textContent = item.site_name;
-  const kind = sourceKind(item.site_id);
-  const categoryEl = node.querySelector(".category");
-  categoryEl.textContent = kind.label;
-  categoryEl.classList.add(`kind-${kind.tone}`);
-  node.querySelector(".source").textContent = `分区: ${item.source}`;
-  node.querySelector(".time").textContent = fmtTime(item.published_at || item.first_seen_at);
+
+  const timeEl = node.querySelector(".time");
+  timeEl.textContent = fmtTime(item.published_at || item.first_seen_at);
+
+  const sourceEl = node.querySelector(".source");
+  const dotEl = node.querySelector(".meta-dot");
+  if (hideSource) {
+    sourceEl.remove();
+    if (dotEl) dotEl.remove();
+  } else {
+    sourceEl.textContent = item.source || "未分区";
+  }
 
   const titleEl = node.querySelector(".title");
   const zh = (item.title_zh || "").trim();
   const en = (item.title_en || "").trim();
-  titleEl.textContent = "";
-  if (zh && en && zh !== en) {
-    const primary = document.createElement("span");
-    primary.textContent = zh;
-    const sub = document.createElement("span");
-    sub.className = "title-sub";
-    sub.textContent = en;
-    titleEl.appendChild(primary);
-    titleEl.appendChild(sub);
-  } else {
-    titleEl.textContent = item.title || zh || en;
-  }
+  titleEl.textContent = item.title || zh || en;
   titleEl.href = item.url;
+
+  const summaryEl = node.querySelector(".summary");
+  const summaryText = pickSummaryText(item);
+  if (summaryText) {
+    summaryEl.textContent = summaryText;
+  } else {
+    summaryEl.remove();
+  }
+
   return node;
 }
 
@@ -311,7 +346,7 @@ function buildSourceGroupNode(source, items) {
   listEl.className = "source-group-list";
   header.append(title, count);
   section.append(header, listEl);
-  items.forEach((item) => listEl.appendChild(renderItemNode(item)));
+  items.forEach((item) => listEl.appendChild(renderItemNode(item, { hideSource: true })));
   return section;
 }
 
@@ -388,6 +423,31 @@ function renderFlatList(items) {
   newsListEl.appendChild(frag);
 }
 
+function appendLoadMoreButton(remaining) {
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "load-more";
+  btn.textContent = `展开剩余 ${fmtNumber(remaining)} 条`;
+  btn.addEventListener("click", () => {
+    state.aiListExpanded = true;
+    renderList();
+  });
+  newsListEl.appendChild(btn);
+}
+
+function appendCollapseButton() {
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "load-more is-collapse";
+  btn.textContent = "收起";
+  btn.addEventListener("click", () => {
+    state.aiListExpanded = false;
+    renderList();
+    newsListEl.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+  newsListEl.appendChild(btn);
+}
+
 function renderList() {
   const filtered = getFilteredItems();
   resultCountEl.textContent = `${fmtNumber(filtered.length)} 条`;
@@ -408,7 +468,16 @@ function renderList() {
   }
 
   if (state.mode === "ai") {
-    renderFlatList(filtered);
+    const total = filtered.length;
+    if (state.aiListExpanded || total <= AI_LIST_INITIAL_LIMIT) {
+      renderFlatList(filtered);
+      if (state.aiListExpanded && total > AI_LIST_INITIAL_LIMIT) {
+        appendCollapseButton();
+      }
+    } else {
+      renderFlatList(filtered.slice(0, AI_LIST_INITIAL_LIMIT));
+      appendLoadMoreButton(total - AI_LIST_INITIAL_LIMIT);
+    }
     return;
   }
 
@@ -428,7 +497,7 @@ function renderWaytoagi(waytoagi) {
   const { updates7d, updatesToday, latestDate } = waytoagiViews(waytoagi);
   if (waytoagiTodayBtnEl) waytoagiTodayBtnEl.classList.toggle("active", state.waytoagiMode === "today");
   if (waytoagi7dBtnEl) waytoagi7dBtnEl.classList.toggle("active", state.waytoagiMode === "7d");
-  waytoagiUpdatedAtEl.textContent = `更新时间：${fmtTime(waytoagi.generated_at)}`;
+  waytoagiUpdatedAtEl.textContent = fmtTime(waytoagi.generated_at);
 
   waytoagiMetaEl.innerHTML = "";
   const rootLink = document.createElement("a");
@@ -481,13 +550,26 @@ function renderWaytoagi(waytoagi) {
     row.href = u.url || "#";
     row.target = "_blank";
     row.rel = "noopener noreferrer";
+
     const dateEl = document.createElement("span");
     dateEl.className = "d";
     dateEl.textContent = fmtDate(u.date);
-    const titleEl = document.createElement("span");
+
+    const textWrap = document.createElement("div");
+    textWrap.className = "waytoagi-text";
+    const { title, summary } = splitWaytoagiText(u.title);
+    const titleEl = document.createElement("strong");
     titleEl.className = "t";
-    titleEl.textContent = u.title;
-    row.append(dateEl, titleEl);
+    titleEl.textContent = title;
+    textWrap.appendChild(titleEl);
+    if (summary && summary !== title) {
+      const summaryEl = document.createElement("p");
+      summaryEl.className = "s";
+      summaryEl.textContent = summary;
+      textWrap.appendChild(summaryEl);
+    }
+
+    row.append(dateEl, textWrap);
     waytoagiListEl.appendChild(row);
   });
 }
@@ -643,7 +725,7 @@ async function init() {
     renderCoverageStrip();
     renderSiteFilters();
     renderList();
-    updatedAtEl.textContent = `更新时间：${fmtTime(state.generatedAt)}`;
+    updatedAtEl.textContent = fmtTime(state.generatedAt);
   } else {
     updatedAtEl.textContent = "新闻数据加载失败";
     newsListEl.innerHTML = `<div class="empty">${newsResult.reason.message}</div>`;
@@ -670,17 +752,20 @@ async function init() {
 
 searchInputEl.addEventListener("input", (e) => {
   state.query = e.target.value;
+  resetAiListExpansion();
   renderList();
 });
 
 siteSelectEl.addEventListener("change", (e) => {
   state.siteFilter = e.target.value;
+  resetAiListExpansion();
   renderSiteFilters();
   renderList();
 });
 
 modeAiBtnEl.addEventListener("click", () => {
   state.mode = "ai";
+  resetAiListExpansion();
   renderModeSwitch();
   renderSiteFilters();
   renderList();
@@ -688,6 +773,7 @@ modeAiBtnEl.addEventListener("click", () => {
 
 modeAllBtnEl.addEventListener("click", async () => {
   state.mode = "all";
+  resetAiListExpansion();
   renderModeSwitch();
   newsListEl.innerHTML = "";
   const loading = document.createElement("div");
@@ -710,6 +796,7 @@ modeAllBtnEl.addEventListener("click", async () => {
 if (allDedupeToggleEl) {
   allDedupeToggleEl.addEventListener("change", (e) => {
     state.allDedup = Boolean(e.target.checked);
+    resetAiListExpansion();
     renderModeSwitch();
     renderSiteFilters();
     renderList();

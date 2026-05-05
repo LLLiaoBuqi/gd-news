@@ -1,10 +1,10 @@
-# gd-news
+# AI-News
 
 中文 | [English](#english)
 
-个人起步、团队可读的 AI 创作能力雷达。
+设计团队的 AI 资讯雷达。
 
-这个项目从 AI News Radar fork 而来，当前改造目标不是泛 AI 新闻聚合，而是帮助彦齐和项目成员快速发现会影响 AI 创作流程、创作工具选择、Agent 工作流和近期团队实验方向的信息。
+这个项目从 AI News Radar fork 而来，当前公开页面名是 **AI-News**。内部定位仍是“个人起步、团队可读”的 AI 创作能力雷达：帮助彦齐和项目成员快速发现会影响 AI 创作流程、创作工具选择、Agent 工作流和近期团队实验方向的信息。
 
 说明：本仓库已适配公开发布，**不会包含作者私有 RSS 订阅文件**。
 
@@ -14,7 +14,7 @@
 
 | 你想做什么 | 直接入口 |
 | --- | --- |
-| 我想看 AI 创作能力动态 | 打开当前仓库的 GitHub Pages 页面 |
+| 我想看设计团队 AI 资讯 | 打开当前仓库的 GitHub Pages 页面 |
 | 我想接入自己的新闻源 | 看下面的「本地自定义 OPML」和「GitHub 自动更新」 |
 | 我想让 Agent 继续改造项目 | 先看 `AGENTS.md`、`docs/SOURCE_COVERAGE.md` 和 `docs/GPT_HANDOFF.md` |
 
@@ -200,7 +200,7 @@ cp feeds/follow.example.opml feeds/follow.opml
   - Use this page for daily reading instead of opening `data/latest-24h.json` directly
   - GitHub Actions keeps `data/*.json` updated and GitHub Pages serves the latest UI
 
-`gd-news` is being adapted from AI News Radar into an AI creation capability radar for Yanqi and project members.
+`gd-news` is now published as **AI-News**, an AI information radar for design teams. Internally, it remains an AI creation capability radar for Yanqi and project members.
 
 This repo is safe for public release and does **not** include the maintainer's private RSS subscription file.
 

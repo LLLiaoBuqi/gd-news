@@ -1,4 +1,4 @@
-# GPT 交接说明：gd-news AI 创作能力雷达
+# GPT 交接说明：AI-News
 
 这个文档用于把项目交给新的 GPT / Codex / Claude / Cursor Agent 会话。
 
@@ -17,7 +17,7 @@ cd /Users/gaoding/gd-news
 
 ## 项目定位
 
-`gd-news` 正在从旧版 AI News Radar 改造成“个人起步、团队可读”的 AI 创作能力雷达。
+`gd-news` 的公开页面名是 **AI-News · 设计团队的 AI 资讯雷达**。项目正在从旧版 AI News Radar 改造成“个人起步、团队可读”的 AI 创作能力雷达。
 
 它的目标不是覆盖所有 AI 新闻，而是帮助彦齐和项目成员快速发现会影响创作流程、创作工具选择、Agent 工作流和近期团队实验方向的信息。
 
@@ -51,8 +51,8 @@ cd /Users/gaoding/gd-news
 
 - `scripts/update_news.py` 里的筛选逻辑仍主要沿用旧项目。
 - `README.md` 仍有较多旧项目文案。
-- 前端 `index.html`、`assets/app.js`、`assets/styles.css` 仍是旧版 AI Signal Board 展示结构。
-- `skills/ai-news-radar/SKILL.md` 仍需要后续改成创作能力雷达 Skill。
+- 前端 `index.html`、`assets/app.js`、`assets/styles.css` 已开始改成 AI-News 纸张感展示结构。
+- `skills/ai-news-radar/SKILL.md` 已同步 AI-News 展示名，并保留旧来源能力。
 
 ## 关键文件
 
@@ -112,7 +112,7 @@ pip install pytest
 你现在接手本地项目：
 /Users/gaoding/gd-news
 
-这是一个从 AI News Radar fork 出来的项目，正在改造成“个人起步、团队可读”的 AI 创作能力雷达。
+这是一个从 AI News Radar fork 出来的项目，公开页面名是 AI-News，内部定位是“个人起步、团队可读”的 AI 创作能力雷达。
 
 请先阅读：
 AGENTS.md

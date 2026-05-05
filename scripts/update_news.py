@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
+import html as html_mod
 import json
 import random
 import re
@@ -121,6 +122,7 @@ class RawItem:
     url: str
     published_at: datetime | None
     meta: dict[str, Any]
+    summary: str | None = None
 
 
 def utc_now() -> datetime:
@@ -500,6 +502,65 @@ def extract_waytoagi_block_url(block_data: dict[str, Any]) -> str | None:
 def clean_update_title(text: str) -> str:
     text = text.replace("《 》", "").replace("《》", "")
     return re.sub(r"\s+", " ", text).strip()
+
+
+SUMMARY_DEFAULT_LIMIT = 280
+
+
+def clean_html_summary(raw: Any, limit: int = SUMMARY_DEFAULT_LIMIT) -> str | None:
+    """Strip HTML tags / entities / extra whitespace and truncate to limit chars."""
+    if raw is None:
+        return None
+    text = str(raw)
+    if not text:
+        return None
+    text = re.sub(r"<\s*br\s*/?\s*>", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"<\s*/?\s*p[^>]*>", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = html_mod.unescape(text)
+    text = text.replace("\u00a0", " ").replace("\u2028", " ").replace("\u2029", " ")
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return None
+    if len(text) > limit:
+        text = text[:limit].rstrip() + "…"
+    return text
+
+
+def extract_feed_entry_summary(entry: Any, limit: int = SUMMARY_DEFAULT_LIMIT) -> str | None:
+    """Best-effort summary from a feedparser-style entry."""
+    if entry is None:
+        return None
+
+    def _get(field: str) -> Any:
+        try:
+            return entry.get(field)
+        except AttributeError:
+            return getattr(entry, field, None)
+
+    candidates: list[str] = []
+
+    for field in ("summary", "description", "subtitle"):
+        value = _get(field)
+        if isinstance(value, str):
+            candidates.append(value)
+
+    content = _get("content")
+    if isinstance(content, list):
+        for chunk in content:
+            value: Any = None
+            if isinstance(chunk, dict):
+                value = chunk.get("value")
+            else:
+                value = getattr(chunk, "value", None)
+            if isinstance(value, str):
+                candidates.append(value)
+
+    for raw in candidates:
+        cleaned = clean_html_summary(raw, limit=limit)
+        if cleaned:
+            return cleaned
+    return None
 
 
 def parse_ym_heading(text: str) -> tuple[int, int] | None:
@@ -892,6 +953,7 @@ def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
                             url=url,
                             published_at=published,
                             meta={"feed_url": feed_url},
+                            summary=extract_feed_entry_summary(entry),
                         )
                     )
                 continue
@@ -910,6 +972,7 @@ def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
                         url=entry["link"],
                         published_at=parse_date_any(entry.get("published"), now),
                         meta={"feed_url": feed_url},
+                        summary=extract_feed_entry_summary(entry),
                     )
                 )
         except Exception:
@@ -1252,6 +1315,7 @@ def fetch_feed_as_official_items(
                     "feed_url": feed_url,
                     "feed_home": feed.get("html_url") or "",
                 },
+                summary=extract_feed_entry_summary(entry),
             )
         )
 
@@ -2017,6 +2081,7 @@ def fetch_opml_rss(
                                 "feed_url": feed_url,
                                 "feed_home": feed.get("html_url") or "",
                             },
+                            summary=extract_feed_entry_summary(entry),
                         )
                     )
             else:
@@ -2038,6 +2103,7 @@ def fetch_opml_rss(
                                 "feed_url": feed_url,
                                 "feed_home": feed.get("html_url") or "",
                             },
+                            summary=extract_feed_entry_summary(entry),
                         )
                     )
         except Exception as exc:
@@ -2642,7 +2708,7 @@ def main() -> int:
 
         existing = archive.get(item_id)
         if existing is None:
-            archive[item_id] = {
+            record = {
                 "id": item_id,
                 "site_id": raw.site_id,
                 "site_name": raw.site_name,
@@ -2653,6 +2719,9 @@ def main() -> int:
                 "first_seen_at": iso(now),
                 "last_seen_at": iso(now),
             }
+            if raw.summary:
+                record["summary"] = raw.summary
+            archive[item_id] = record
         else:
             existing["site_id"] = raw.site_id
             existing["site_name"] = raw.site_name
@@ -2663,6 +2732,8 @@ def main() -> int:
                 # OPML RSS may fix previously wrong publish times; allow overwrite.
                 if raw.site_id == "opmlrss" or not existing.get("published_at"):
                     existing["published_at"] = iso(raw.published_at)
+            if raw.summary and not existing.get("summary"):
+                existing["summary"] = raw.summary
             existing["last_seen_at"] = iso(now)
 
     # Prune old archive
@@ -2694,6 +2765,12 @@ def main() -> int:
                 str(normalized.get("source") or ""),
                 str(normalized.get("url") or ""),
             ))
+            raw_summary = normalized.get("summary")
+            if raw_summary:
+                cleaned_summary = maybe_fix_mojibake(str(raw_summary)).strip()
+                normalized["summary"] = cleaned_summary or None
+            else:
+                normalized["summary"] = None
             if str(normalized.get("site_id") or "") == "aihubtoday" and is_hubtoday_placeholder_title(
                 str(normalized.get("title") or "")
             ):

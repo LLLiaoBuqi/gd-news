@@ -1,9 +1,11 @@
 ---
 name: ai-news-radar
-description: "Use when working on the gd-news AI creation radar repo: evaluating AI news sources, RSS/OPML/GitHub feed/X/newsletter coverage, changing source strategy or UI defaults, configuring Actions secrets, deploying Pages, or packaging/forking the project as an agent skill."
+description: "Use when working on the AI-News / gd-news repo: evaluating AI news sources, RSS/OPML/GitHub feed/X/newsletter coverage, changing source strategy or UI defaults, configuring Actions secrets, deploying Pages, or packaging/forking the project as an agent skill."
 ---
 
-# gd-news AI 创作能力雷达
+# AI-News
+
+设计团队的 AI 资讯雷达。内部定位仍是“个人起步、团队可读”的 AI 创作能力雷达。
 
 ## First Reads
 

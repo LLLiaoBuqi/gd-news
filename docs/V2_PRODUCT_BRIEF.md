@@ -1,8 +1,8 @@
-# gd-news 产品简报
+# AI-News 产品简报
 
 ## 问题定义
 
-彦齐和项目成员需要一个每天可打开的 AI 创作能力雷达。它不追求覆盖所有 AI 新闻，而是快速回答：哪些 Agent / Skill / workflow、图像模型、创作工具、大语言模型和视频模型变化，会影响创作流程、工具选择和近期团队实验。
+彦齐和项目成员需要一个每天可打开的 **AI-News · 设计团队的 AI 资讯雷达**。它不追求覆盖所有 AI 新闻，而是快速回答：哪些 Agent / Skill / workflow、图像模型、创作工具、大语言模型和视频模型变化，会影响创作流程、工具选择和近期团队实验。
 
 维护者仍需要保留旧项目的信息源能力：RSS / OPML、官方 changelog、公开 GitHub feed、newsletter、聚合源、source health、GitHub Actions 和私有 OPML 扩展。
 
@@ -41,14 +41,14 @@ X、邮箱、WeChat、cookies、浏览器导出和登录态桥接只作为私有
 
 当前仓库处于“方向迁移”阶段：
 
-- 文档和 Agent 规则正在从旧 AI News Radar 改为 AI 创作能力雷达。
-- 前端仍主要是旧版 AI Signal Board 展示结构。
+- 文档和 Agent 规则正在从旧 AI News Radar 改为 AI-News。
+- 前端正在从旧版 AI Signal Board 展示结构改为纸张感的设计团队资讯页。
 - `scripts/update_news.py` 的筛选逻辑仍主要沿用旧项目。
 - 后续要先用测试定义新筛选目标，再改抓取、排序和前端呈现。
 
 ## 成功标准
 
-- 首页第一屏能说明这是 AI 创作能力雷达，而不是泛 AI 新闻聚合。
+- 首页第一屏能说明这是 AI-News：设计团队的 AI 资讯雷达，而不是泛 AI 新闻聚合。
 - 默认排序优先展示 Agent / Skill / workflow，其次是图像模型、创作工具、相关大语言模型和视频模型。
 - 旧的信息源接入、source health、OPML 和 GitHub Actions 能力继续可用。
 - 新增来源时，Agent 能判断它应该进入公共默认层、私有 OPML，还是暂不接入。

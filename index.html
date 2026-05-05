@@ -3,70 +3,77 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>gd-news AI 创作能力雷达</title>
+    <title>AI-News · 设计团队的 AI 资讯雷达</title>
     <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="./assets/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,500;1,8..60,500;1,8..60,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/styles.css?v=ai-news-summary-20260505" />
   </head>
   <body>
+    <div class="grain" aria-hidden="true"></div>
     <main class="shell">
       <header class="hero">
-        <div class="hero-main">
-          <div class="hero-headline">
-            <img class="hero-logo" src="./assets/logo.svg" alt="gd-news Logo" />
-            <div>
-              <p class="hero-tag">AI CREATION RADAR</p>
-              <h1>AI 创作能力雷达</h1>
+        <div class="hero-grid">
+          <div class="hero-left">
+            <h1 class="hero-title" aria-label="AI-News">
+              <span class="title-ai">AI</span><span class="title-news">-News</span><span class="type-caret" aria-hidden="true"></span>
+            </h1>
+
+            <p class="hero-time">
+              <svg class="clock-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="12" cy="12" r="9" />
+                <path d="M12 7v5l3 2" />
+              </svg>
+              <span id="updatedAt" aria-label="最近更新">加载中...</span>
+            </p>
+
+            <p class="hero-sub">每天扫一眼，看今天的 Agent、AI 模型和创作工具有哪些更新值得关注。</p>
+
+            <label class="hero-search" for="searchInput">
+              <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="11" cy="11" r="7" />
+                <path d="M16.5 16.5l4 4" />
+              </svg>
+              <input id="searchInput" type="search" placeholder="搜索 Agent / Skill / 模型 / 工具 / 来源" />
+            </label>
+
+            <div class="hero-modes">
+              <div class="modes-block">
+                <span class="field-label">浏览方式</span>
+                <div class="mode-switch">
+                  <button id="modeAiBtn" class="mode-btn active" type="button">Agent 优先</button>
+                  <button id="modeAllBtn" class="mode-btn" type="button">全量</button>
+                </div>
+              </div>
+              <span class="mode-hint" id="modeHint">Agent 优先</span>
+              <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
+                <input id="allDedupeToggle" type="checkbox" checked />
+                <span class="all-dedupe-dot"></span>
+                <span id="allDedupeLabel">去重开</span>
+              </label>
             </div>
-          </div>
-          <p class="hero-sub">
-            Agent / Skill / workflow 优先，跟踪影响创作流程和团队实验的 AI 能力变化。
-          </p>
-        </div>
-        <div class="hero-meta">
-          <span class="updated-label">更新时间</span>
-          <span class="updated" id="updatedAt">加载中...</span>
-        </div>
 
-        <section class="stats" id="stats"></section>
-
-        <section class="coverage-strip" id="coverageStrip" aria-label="Source coverage status"></section>
-      </header>
-
-      <section class="primary-controls">
-        <input id="searchInput" type="search" placeholder="搜索 Agent / Skill / 模型 / 工具 / 来源" />
-        <div class="mode-hint" id="modeHint">Agent 优先</div>
-      </section>
-
-      <details class="advanced-panel">
-        <summary>
-          <span>高级筛选与源状态</span>
-          <span class="advanced-summary" id="advancedSummary">加载中...</span>
-        </summary>
-        <div class="advanced-content">
-          <div class="advanced-controls">
-            <label class="field">
-              <span>站点</span>
-              <select id="siteSelect">
+            <div class="hero-sources">
+              <span class="field-label">来源筛选</span>
+              <select id="siteSelect" class="visually-hidden" aria-label="按站点筛选">
                 <option value="">全部站点</option>
               </select>
-            </label>
-            <div class="field">
-              <span>视图</span>
-              <div class="mode-switch">
-                <button id="modeAiBtn" class="mode-btn active" type="button">Agent 优先</button>
-                <button id="modeAllBtn" class="mode-btn" type="button">全量</button>
-              </div>
+              <section class="site-pills" id="sitePills" aria-label="来源快捷筛选"></section>
             </div>
-            <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
-              <input id="allDedupeToggle" type="checkbox" checked />
-              <span class="all-dedupe-dot"></span>
-              <span id="allDedupeLabel">去重开</span>
-            </label>
           </div>
-          <div class="source-health" id="sourceHealth">源状态加载中...</div>
-          <section class="site-pills" id="sitePills"></section>
+
         </div>
-      </details>
+
+        <div class="paper-line" aria-hidden="true">
+          <svg viewBox="0 0 1080 18" preserveAspectRatio="none">
+            <path d="M2 10C86 7 174 12 260 9C360 5 454 13 548 9C652 4 750 14 846 8C936 3 1000 12 1078 7" />
+          </svg>
+        </div>
+      </header>
 
       <section class="waytoagi-wrap">
         <div class="waytoagi-head">
@@ -90,20 +97,41 @@
         </div>
         <div id="newsList" class="news-list"></div>
       </section>
+
+      <section class="status-board" aria-label="覆盖状态">
+        <div class="section-kicker">
+          <span>source notebook</span>
+          <svg viewBox="0 0 90 16" aria-hidden="true">
+            <path d="M2 9C17 5 31 12 45 8C60 4 73 10 88 6" />
+          </svg>
+        </div>
+        <section class="stats" id="stats"></section>
+        <section class="coverage-strip" id="coverageStrip" aria-label="Source coverage status"></section>
+      </section>
+
+      <details class="advanced-panel">
+        <summary>
+          <span>高级筛选与源状态</span>
+          <span class="advanced-summary" id="advancedSummary">加载中...</span>
+        </summary>
+        <div class="advanced-content">
+          <div class="source-health" id="sourceHealth">源状态加载中...</div>
+        </div>
+      </details>
     </main>
 
     <template id="itemTpl">
       <article class="news-card">
         <div class="meta-row">
-          <span class="site"></span>
-          <span class="category"></span>
-          <span class="source"></span>
           <time class="time"></time>
+          <span class="meta-dot" aria-hidden="true">·</span>
+          <span class="source"></span>
         </div>
         <a class="title" target="_blank" rel="noopener noreferrer"></a>
+        <p class="summary"></p>
       </article>
     </template>
 
-    <script src="./assets/app.js?v=agent-priority-20260504" defer></script>
+    <script src="./assets/app.js?v=ai-news-summary-20260505" defer></script>
   </body>
 </html>
