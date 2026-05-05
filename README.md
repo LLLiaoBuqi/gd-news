@@ -58,7 +58,7 @@ pip install -r requirements.txt
 - 本地命令（一次）：
   - `python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml`
 - 自动化（推荐）：
-  - `.github/workflows/update-news.yml` 已配置定时任务，默认每 30 分钟自动更新并提交数据。
+  - `.github/workflows/update-news.yml` 已配置定时任务，默认每天 09:00（北京时间）自动更新并提交数据。
 
 ### 4. 主要能力
 
@@ -175,7 +175,7 @@ cp feeds/follow.example.opml feeds/follow.opml
 
 工作流：`.github/workflows/update-news.yml`
 
-- 定时：每 30 分钟
+- 定时：每天 09:00（北京时间）
 - 任务：执行抓取命令并提交 `data/*`
 - RSS OPML：若设置了 `FOLLOW_OPML_B64`，工作流会自动解码为 `feeds/follow.opml`
 - 推送权限：使用 `GITHUB_TOKEN`（workflow 内）
@@ -237,7 +237,7 @@ You only need to run one command, or let GitHub Actions run it on schedule.
 - One-shot local command:
   - `.venv/bin/python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml`
 - Scheduled automation:
-  - `.github/workflows/update-news.yml` runs every 30 minutes and commits updated data.
+  - `.github/workflows/update-news.yml` runs every day at 09:00 Asia/Shanghai and commits updated data.
 
 ### 4. Core features
 
