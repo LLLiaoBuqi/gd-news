@@ -54,14 +54,14 @@ button {
   grid-column: 1 / -1;
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 10px;
+  gap: 14px;
 }
 
 .stat {
   border: 1px solid var(--line);
   background: var(--surface);
   border-radius: var(--radius);
-  padding: 11px 12px;
+  padding: 16px 18px 18px;
 }
 
 .stat .k {
@@ -70,7 +70,7 @@ button {
 }
 
 .stat .v {
-  margin-top: 4px;
+  margin-top: 10px;
   font-size: 23px;
   font-weight: 700;
 }
@@ -78,17 +78,19 @@ button {
 .coverage-strip {
   grid-column: 1 / -1;
   display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 8px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
 }
 
 .coverage-card {
   min-width: 0;
   display: grid;
-  gap: 4px;
+  gap: 8px;
+  align-content: start;
+  min-height: 96px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  padding: 10px 11px;
+  padding: 16px 18px 18px;
   background: var(--surface-soft);
 }
 
@@ -952,33 +954,25 @@ body {
   letter-spacing: -0.03em;
 }
 
-.title-news {
+.title-type {
   display: inline-block;
   vertical-align: baseline;
   color: var(--ink);
   font-family: inherit;
   font-weight: 500;
-  clip-path: inset(0 100% 0 0);
-  animation: typeNewsLoop 5.6s cubic-bezier(0.6, 0, 0.4, 1) 600ms infinite;
-}
-
-@keyframes typeNewsLoop {
-  0%   { clip-path: inset(0 100% 0 0); }
-  22%  { clip-path: inset(0 0 0 0); }
-  62%  { clip-path: inset(0 0 0 0); }
-  85%  { clip-path: inset(0 100% 0 0); }
-  100% { clip-path: inset(0 100% 0 0); }
+  white-space: pre;
 }
 
 .type-caret {
   display: inline-block;
-  width: 0.06em;
-  margin-left: 0.05em;
-  height: 0.92em;
-  vertical-align: -0.05em;
-  background: var(--accent, currentColor);
-  border-radius: 1px;
-  animation: typeCaretBlink 900ms steps(2) infinite;
+  margin-left: 0.08em;
+  color: var(--accent, currentColor);
+  font-family: "JetBrains Mono", var(--font-mono);
+  font-size: 0.78em;
+  font-weight: 500;
+  line-height: 1;
+  vertical-align: 0.06em;
+  animation: typeCaretBlink 1s steps(2, start) infinite;
 }
 
 @keyframes typeCaretBlink {
@@ -1078,14 +1072,14 @@ body {
 
 .title-ai {
   display: inline-block;
-  padding-right: 0.04em;
+  padding-right: 0;
   color: var(--accent);
   font-family: inherit;
-  font-style: italic;
-  font-weight: 500;
-  font-size: 1.18em;
+  font-style: normal;
+  font-weight: inherit;
+  font-size: 1em;
   line-height: 1;
-  letter-spacing: -0.02em;
+  letter-spacing: inherit;
 }
 
 .hero-sub {
@@ -1401,7 +1395,9 @@ summary:focus-visible {
 }
 
 .status-board {
-  padding: 16px;
+  display: grid;
+  gap: 18px;
+  padding: 24px 28px 28px;
   background: rgba(245, 240, 229, 0.66);
 }
 
@@ -1409,7 +1405,7 @@ summary:focus-visible {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  margin-bottom: 14px;
+  margin-bottom: 0;
   color: var(--accent-ink);
   font-family: var(--font-mono);
   font-size: 12px;
@@ -1568,11 +1564,6 @@ summary:focus-visible {
     animation-iteration-count: 1 !important;
     scroll-behavior: auto !important;
     transition-duration: 0.01ms !important;
-  }
-
-  .title-news {
-    clip-path: inset(0 0 0 0);
-    animation: none;
   }
 
   .type-caret {

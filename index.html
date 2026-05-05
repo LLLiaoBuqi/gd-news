@@ -11,7 +11,7 @@
       href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,500;1,8..60,500;1,8..60,600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/styles.css?v=ai-news-summary-20260505" />
+    <link rel="stylesheet" href="./assets/styles.css?v=mode-parity-20260505" />
   </head>
   <body>
     <div class="grain" aria-hidden="true"></div>
@@ -19,8 +19,8 @@
       <header class="hero">
         <div class="hero-grid">
           <div class="hero-left">
-            <h1 class="hero-title" aria-label="AI-News">
-              <span class="title-ai">AI</span><span class="title-news">-News</span><span class="type-caret" aria-hidden="true"></span>
+            <h1 class="hero-title" aria-label="AI-News · 设计团队的 AI 资讯雷达">
+              <span class="title-ai">AI</span><span id="heroTypedTitle" class="title-type" data-texts='[" News", " 新闻"]'> News</span><span class="type-caret" aria-hidden="true">|</span>
             </h1>
 
             <p class="hero-time">
@@ -101,9 +101,6 @@
       <section class="status-board" aria-label="覆盖状态">
         <div class="section-kicker">
           <span>source notebook</span>
-          <svg viewBox="0 0 90 16" aria-hidden="true">
-            <path d="M2 9C17 5 31 12 45 8C60 4 73 10 88 6" />
-          </svg>
         </div>
         <section class="stats" id="stats"></section>
         <section class="coverage-strip" id="coverageStrip" aria-label="Source coverage status"></section>
@@ -132,6 +129,6 @@
       </article>
     </template>
 
-    <script src="./assets/app.js?v=ai-news-summary-20260505" defer></script>
+    <script src="./assets/app.js?v=mode-parity-20260505" defer></script>
   </body>
 </html>

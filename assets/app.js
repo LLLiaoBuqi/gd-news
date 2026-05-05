@@ -51,6 +51,78 @@ const waytoagiTodayBtnEl = document.getElementById("waytoagiTodayBtn");
 const waytoagi7dBtnEl = document.getElementById("waytoagi7dBtn");
 const coverageStripEl = document.getElementById("coverageStrip");
 
+function parseTypedTitleTexts(el) {
+  if (!el?.dataset?.texts) return [el?.textContent || ""].filter(Boolean);
+  try {
+    const parsed = JSON.parse(el.dataset.texts);
+    return (Array.isArray(parsed) ? parsed : [parsed]).map(String).filter(Boolean);
+  } catch {
+    return [el.textContent || ""].filter(Boolean);
+  }
+}
+
+function initHeroTitleType() {
+  const textEl = document.getElementById("heroTypedTitle");
+  if (!textEl) return;
+
+  const texts = parseTypedTitleTexts(textEl);
+  if (!texts.length) return;
+
+  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (reducedMotion) {
+    textEl.textContent = texts[0];
+    return;
+  }
+
+  const typingSpeed = 72;
+  const deletingSpeed = 34;
+  const initialDelay = 420;
+  const pauseDuration = 1500;
+  const variableSpeed = { min: 48, max: 108 };
+  let textIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+  let timeoutId;
+
+  const getTypingDelay = () => (
+    Math.random() * (variableSpeed.max - variableSpeed.min) + variableSpeed.min || typingSpeed
+  );
+
+  const tick = () => {
+    const currentText = texts[textIndex];
+
+    if (isDeleting) {
+      if (charIndex > 0) {
+        charIndex -= 1;
+        textEl.textContent = currentText.slice(0, charIndex);
+        timeoutId = window.setTimeout(tick, deletingSpeed);
+        return;
+      }
+
+      isDeleting = false;
+      textIndex = (textIndex + 1) % texts.length;
+      timeoutId = window.setTimeout(tick, 240);
+      return;
+    }
+
+    if (charIndex < currentText.length) {
+      charIndex += 1;
+      textEl.textContent = currentText.slice(0, charIndex);
+      timeoutId = window.setTimeout(tick, getTypingDelay());
+      return;
+    }
+
+    timeoutId = window.setTimeout(() => {
+      isDeleting = true;
+      tick();
+    }, pauseDuration);
+  };
+
+  textEl.textContent = "";
+  timeoutId = window.setTimeout(tick, initialDelay);
+  window.addEventListener("pagehide", () => window.clearTimeout(timeoutId), { once: true });
+}
+
 const SOURCE_KINDS = {
   official_ai: { label: "官方", tone: "official" },
   aibreakfast: { label: "日报", tone: "newsletter" },
@@ -258,7 +330,7 @@ function renderSiteFilters() {
 function renderModeSwitch() {
   modeAiBtnEl.classList.toggle("active", state.mode === "ai");
   modeAllBtnEl.classList.toggle("active", state.mode === "all");
-  if (allDedupeWrapEl) allDedupeWrapEl.classList.toggle("show", state.mode === "all");
+  if (allDedupeWrapEl) allDedupeWrapEl.classList.remove("show");
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
   if (state.mode === "ai") {
@@ -268,7 +340,7 @@ function renderModeSwitch() {
     const allCount = state.allDedup
       ? (state.totalAllMode || state.itemsAll.length)
       : (state.totalRaw || state.itemsAllRaw.length);
-    modeHintEl.textContent = `全量 · ${state.allDedup ? "去重开" : "去重关"} · ${fmtNumber(allCount)} 条`;
+    modeHintEl.textContent = `全量 · ${fmtNumber(allCount)} 条`;
     if (listTitleEl) listTitleEl.textContent = "全量更新";
   }
   renderAdvancedSummary();
@@ -448,6 +520,19 @@ function appendCollapseButton() {
   newsListEl.appendChild(btn);
 }
 
+function renderProgressiveFlatList(items) {
+  const total = items.length;
+  if (state.aiListExpanded || total <= AI_LIST_INITIAL_LIMIT) {
+    renderFlatList(items);
+    if (state.aiListExpanded && total > AI_LIST_INITIAL_LIMIT) {
+      appendCollapseButton();
+    }
+  } else {
+    renderFlatList(items.slice(0, AI_LIST_INITIAL_LIMIT));
+    appendLoadMoreButton(total - AI_LIST_INITIAL_LIMIT);
+  }
+}
+
 function renderList() {
   const filtered = getFilteredItems();
   resultCountEl.textContent = `${fmtNumber(filtered.length)} 条`;
@@ -462,22 +547,18 @@ function renderList() {
     return;
   }
 
+  if (state.mode === "all") {
+    renderProgressiveFlatList(filtered);
+    return;
+  }
+
   if (state.siteFilter) {
     renderGroupedBySource(filtered);
     return;
   }
 
   if (state.mode === "ai") {
-    const total = filtered.length;
-    if (state.aiListExpanded || total <= AI_LIST_INITIAL_LIMIT) {
-      renderFlatList(filtered);
-      if (state.aiListExpanded && total > AI_LIST_INITIAL_LIMIT) {
-        appendCollapseButton();
-      }
-    } else {
-      renderFlatList(filtered.slice(0, AI_LIST_INITIAL_LIMIT));
-      appendLoadMoreButton(total - AI_LIST_INITIAL_LIMIT);
-    }
+    renderProgressiveFlatList(filtered);
     return;
   }
 
@@ -775,11 +856,7 @@ modeAllBtnEl.addEventListener("click", async () => {
   state.mode = "all";
   resetAiListExpansion();
   renderModeSwitch();
-  newsListEl.innerHTML = "";
-  const loading = document.createElement("div");
-  loading.className = "empty";
-  loading.textContent = "正在加载全量更新...";
-  newsListEl.appendChild(loading);
+  modeAllBtnEl.disabled = true;
   try {
     await loadAllModeData();
     renderSiteFilters();
@@ -790,6 +867,8 @@ modeAllBtnEl.addEventListener("click", async () => {
     failed.className = "empty";
     failed.textContent = err.message;
     newsListEl.appendChild(failed);
+  } finally {
+    modeAllBtnEl.disabled = false;
   }
 });
 
@@ -817,4 +896,5 @@ if (waytoagi7dBtnEl) {
   });
 }
 
+initHeroTitleType();
 init();
