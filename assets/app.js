@@ -1,12 +1,75 @@
 const AI_LIST_INITIAL_LIMIT = 30;
-const AI_SEARCH_CANDIDATE_LIMIT = 80;
+const AI_SEARCH_CANDIDATE_LIMIT = 120;
 const AI_CONFIG_STORAGE_KEY = "gdNewsAiAssistantConfig";
 const DEFAULT_AI_CONFIG = {
   provider: "glm",
   apiKey: "",
   baseUrl: "https://open.bigmodel.cn/api/paas/v4/",
-  model: "glm-4-flash",
+  model: "glm-4-flash-250414",
 };
+
+const GLM_MODEL_ALIASES = {
+  "glm-4-flash": "glm-4-flash-250414",
+};
+
+const AI_QUERY_SYNONYMS = {
+  nano: [
+    "nano",
+    "nano banana",
+    "nano-banana",
+    "nanobanana",
+    "banana",
+    "gemini image",
+    "gemini 图片",
+    "gemini 图像",
+    "image model",
+    "image editing",
+    "图像模型",
+    "图像编辑",
+  ],
+  "nano banana": ["nano", "nano banana", "nano-banana", "nanobanana", "banana"],
+  agent: ["agent", "agents", "ai agent", "workflow", "automation", "自动化", "工作流", "智能体"],
+  skill: ["skill", "skills", "claude skill", "openai skill", "技能", "工作流"],
+  workflow: ["workflow", "workflows", "agent", "automation", "工作流", "自动化"],
+  cursor: ["cursor", "claude code", "codex", "ide", "ai coding", "代码助手"],
+  codex: ["codex", "cursor", "claude code", "ai coding", "代码生成"],
+  claude: ["claude", "anthropic", "claude code", "claude skill"],
+  image: ["image", "images", "image model", "image editing", "图像", "图片", "图像编辑"],
+  video: ["video", "videos", "sora", "veo", "runway", "kling", "seedance", "视频"],
+};
+
+const AI_QUERY_STOPWORDS = [
+  "帮我",
+  "给我",
+  "请",
+  "搜索",
+  "筛选",
+  "挑选",
+  "精选",
+  "推荐",
+  "找",
+  "看看",
+  "看",
+  "十条",
+  "10条",
+  "十个",
+  "10个",
+  "最值得",
+  "值得",
+  "相关",
+  "有关",
+  "内容",
+  "资讯",
+  "新闻",
+  "更新",
+  "今天",
+  "最新",
+  "一下",
+  "的",
+  "和",
+  "跟",
+  "与",
+];
 
 const state = {
   itemsAi: [],
@@ -191,20 +254,6 @@ function fmtDate(iso) {
   }).format(d);
 }
 
-function splitWaytoagiText(raw) {
-  const text = (raw || "").trim();
-  if (!text) return { title: "", summary: "" };
-
-  const sentenceMatch = text.match(/^([^。！？!?\n]{6,}?[。！？!?])/);
-  if (sentenceMatch) {
-    const candidate = sentenceMatch[1].replace(/[。！？!?]$/, "").trim();
-    if (candidate && candidate.length < text.length - 6) {
-      return { title: candidate, summary: text };
-    }
-  }
-  return { title: text, summary: "" };
-}
-
 function setStats(payload) {
   const cards = [
     ["Agent 优先", fmtNumber(payload.total_items)],
@@ -332,11 +381,7 @@ function renderSiteFilters() {
   allPill.className = `pill ${state.siteFilter === "" ? "active" : ""}`;
   allPill.textContent = "全部";
   allPill.onclick = () => {
-    state.siteFilter = "";
-    resetAiListExpansion();
-    clearAiSearchResults();
-    renderSiteFilters();
-    renderList();
+    handleSiteFilterChange("");
   };
   sitePillsEl.appendChild(allPill);
 
@@ -346,11 +391,7 @@ function renderSiteFilters() {
     const raw = s.raw_count ?? s.count;
     btn.textContent = `${s.site_name} ${s.count}/${raw}`;
     btn.onclick = () => {
-      state.siteFilter = s.site_id;
-      resetAiListExpansion();
-      clearAiSearchResults();
-      renderSiteFilters();
-      renderList();
+      handleSiteFilterChange(s.site_id);
     };
     sitePillsEl.appendChild(btn);
   });
@@ -375,6 +416,25 @@ function renderModeSwitch() {
   renderAdvancedSummary();
 }
 
+function handleSiteFilterChange(siteId) {
+  state.siteFilter = siteId;
+  resetAiListExpansion();
+  renderSiteFilters();
+  renderModeSwitch();
+
+  if (state.searchMode === "ai") {
+    if (state.query.trim()) {
+      runAiCuratedSearch();
+      return;
+    }
+    renderList();
+    return;
+  }
+
+  clearAiSearchResults();
+  renderList();
+}
+
 function scrollToResults() {
   if (!listWrapEl) return;
   listWrapEl.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -388,7 +448,7 @@ function renderSearchMode() {
   if (aiSearchSubmitEl) aiSearchSubmitEl.disabled = state.aiSearchRunning;
   if (searchInputEl) {
     searchInputEl.placeholder = isAiSearch
-      ? "例如：帮我挑出最值得看的十条 Agent / 模型 / 创作工具更新"
+      ? "只筛选当前数据池，例如：nano / Agent 工作流 / 今天最值得看"
       : "搜索 Agent / Skill / 模型 / 工具 / 来源";
   }
 }
@@ -420,14 +480,20 @@ function loadAiConfig() {
   try {
     const raw = window.localStorage.getItem(AI_CONFIG_STORAGE_KEY);
     if (!raw) return { ...DEFAULT_AI_CONFIG };
-    return { ...DEFAULT_AI_CONFIG, ...JSON.parse(raw) };
+    const config = { ...DEFAULT_AI_CONFIG, ...JSON.parse(raw) };
+    config.model = GLM_MODEL_ALIASES[config.model] || config.model;
+    return config;
   } catch {
     return { ...DEFAULT_AI_CONFIG };
   }
 }
 
 function saveAiConfig(config) {
-  window.localStorage.setItem(AI_CONFIG_STORAGE_KEY, JSON.stringify(config));
+  const normalized = {
+    ...config,
+    model: GLM_MODEL_ALIASES[config.model] || config.model,
+  };
+  window.localStorage.setItem(AI_CONFIG_STORAGE_KEY, JSON.stringify(normalized));
 }
 
 function readAiSettingsForm() {
@@ -494,7 +560,10 @@ async function callGlmChat(config, messages, options = {}) {
       messages,
       temperature: options.temperature ?? 0.25,
       stream: false,
-      ...(options.tools ? { tools: options.tools, tool_choice: "auto" } : {}),
+      response_format: options.responseFormat || { type: "text" },
+      ...(options.maxTokens ? { max_tokens: options.maxTokens } : {}),
+      ...(options.tools ? { tools: options.tools } : {}),
+      ...(options.toolChoice ? { tool_choice: options.toolChoice } : {}),
     }),
   });
 
@@ -515,13 +584,143 @@ async function callGlmChat(config, messages, options = {}) {
   return String(content);
 }
 
-function buildAiSearchMessages(query, candidates) {
+function normalizeAiSearchText(value) {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/[\u2010-\u2015]/g, "-")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function uniqueValues(values) {
+  return Array.from(new Set(values.map((value) => String(value || "").trim()).filter(Boolean)));
+}
+
+function stripAiQueryStopwords(text) {
+  let out = normalizeAiSearchText(text);
+  AI_QUERY_STOPWORDS
+    .sort((a, b) => b.length - a.length)
+    .forEach((word) => {
+      out = out.replaceAll(word, " ");
+    });
+  return out.replace(/\s+/g, " ").trim();
+}
+
+function buildAiQueryTerms(query) {
+  const normalized = normalizeAiSearchText(query);
+  const semanticText = stripAiQueryStopwords(normalized);
+  const latinTerms = semanticText.match(/[a-z0-9][a-z0-9.+_-]*/g) || [];
+  const cjkTerms = (semanticText.match(/[\u4e00-\u9fa5]{2,}/g) || [])
+    .map((term) => stripAiQueryStopwords(term))
+    .filter((term) => term.length >= 2);
+
+  const baseTerms = uniqueValues([...latinTerms, ...cjkTerms]);
+  const expanded = [...baseTerms];
+  baseTerms.forEach((term) => {
+    const aliases = AI_QUERY_SYNONYMS[term] || [];
+    expanded.push(...aliases);
+  });
+
+  Object.entries(AI_QUERY_SYNONYMS).forEach(([key, aliases]) => {
+    if (normalized.includes(key)) expanded.push(...aliases);
+  });
+
+  return uniqueValues(expanded.map(normalizeAiSearchText));
+}
+
+function scoreAiSearchItem(item, terms) {
+  if (!terms.length) return 1;
+  const titleText = normalizeAiSearchText([item.title, item.title_zh, item.title_en, item.title_bilingual].join(" "));
+  const summaryText = normalizeAiSearchText(item.summary);
+  const metaText = normalizeAiSearchText([item.source, item.site_name, item.site_id].join(" "));
+  const haystack = `${titleText} ${summaryText} ${metaText}`;
+  let score = 0;
+
+  terms.forEach((term) => {
+    if (!term) return;
+    if (titleText.includes(term)) score += term.length > 4 ? 14 : 9;
+    if (summaryText.includes(term)) score += term.length > 4 ? 8 : 5;
+    if (metaText.includes(term)) score += 3;
+    if (haystack.includes(term)) score += 1;
+  });
+
+  return score;
+}
+
+function aiSearchTimestamp(item) {
+  const ts = Date.parse(item.published_at || item.first_seen_at || "");
+  return Number.isNaN(ts) ? 0 : ts;
+}
+
+function buildAiCandidatePayload(item, index, score) {
+  return {
+    id: item.id || `${item.site_id || "site"}-${index}`,
+    rank: index + 1,
+    relevance_score: score,
+    title: item.title || item.title_zh || item.title_en || "",
+    title_zh: item.title_zh || "",
+    title_en: item.title_en || "",
+    summary: item.summary || "",
+    url: item.url || "",
+    source: item.source || "",
+    site_name: item.site_name || "",
+    site_id: item.site_id || "",
+    published_at: item.published_at || item.first_seen_at || "",
+  };
+}
+
+function buildAiSearchRecall(query) {
+  const terms = buildAiQueryTerms(query);
+  const baseItems = modeItems()
+    .filter((item) => !state.siteFilter || item.site_id === state.siteFilter)
+    .filter((item) => (item.title || item.title_zh || item.title_en) && item.url);
+
+  const scored = baseItems
+    .map((item) => ({ item, score: scoreAiSearchItem(item, terms) }))
+    .filter(({ score }) => !terms.length || score > 0)
+    .sort((a, b) => b.score - a.score || aiSearchTimestamp(b.item) - aiSearchTimestamp(a.item));
+
+  const candidates = scored
+    .slice(0, AI_SEARCH_CANDIDATE_LIMIT)
+    .map(({ item, score }, index) => buildAiCandidatePayload(item, index, score));
+
+  return {
+    candidates,
+    terms,
+    totalMatches: scored.length,
+    searchedItems: baseItems.length,
+  };
+}
+
+function filterAiResultsToCandidates(results, candidates) {
+  const candidateByUrl = new Map(candidates.map((item) => [item.url, item]));
+  const seen = new Set();
+  return results
+    .filter((item) => item && candidateByUrl.has(item.url) && !seen.has(item.url))
+    .map((item) => {
+      seen.add(item.url);
+      const original = candidateByUrl.get(item.url);
+      return {
+        title: item.title || original.title,
+        summary: item.summary || original.summary || original.title,
+        url: original.url,
+        source: item.source || original.source || original.site_name,
+        published_at: original.published_at,
+        reason: item.reason || "匹配你的搜索意图，并且来自当前数据池。",
+      };
+    });
+}
+
+function buildAiSearchMessages(query, recall) {
+  const { candidates, terms, totalMatches, searchedItems } = recall;
   const systemPrompt = [
     "你是 AI News 情报助手，为设计与 AI 产品团队筛选每日最值得阅读的信息。",
-    "你的任务是从候选文章中挑出最值得看的十条，并生成标题和摘要。",
+    "你的任务是理解用户 query，结合 expanded_terms 和 candidates，从当前 AI-News 数据池里挑出最值得看的新闻，并生成标题和摘要。",
     "团队偏好：优先 Agent、工作流、模型能力变化、AI 创作工具、开发者工具、官方发布、一手来源、可落地案例；弱化泛行业营销、重复转载、标题党和低信号融资新闻。",
-    "如果模型具备联网/网页阅读能力，请优先打开并核对候选 URL 后再总结；如果无法访问正文，则基于候选标题、站内摘要和来源谨慎判断。",
+    "不要做泛网页搜索，不要补充 candidates 之外的内容；只能基于候选标题、站内摘要、来源、时间和 URL 做判断。",
     "输出必须是 JSON，不要输出 Markdown。格式：{\"items\":[{\"title\":\"...\",\"summary\":\"...\",\"url\":\"...\",\"source\":\"...\",\"reason\":\"...\"}]}。",
+    "禁止输出解释、前后缀、代码块或注释；items 必须是数组，每个字段必须是字符串。",
+    "只能从 candidates 中选择，url 必须逐字复制 candidates 里的 url；如果候选和 query 不相关，就少返回或返回空数组，不要硬选。",
     "summary 用中文，2 到 3 句话，说明这条为什么值得团队看。",
   ].join("\n");
 
@@ -531,26 +730,17 @@ function buildAiSearchMessages(query, candidates) {
       role: "user",
       content: JSON.stringify({
         request: query,
-        instruction: "请选出十条最值得团队阅读的内容。每条必须保留原始 url。不要编造候选列表之外的文章。",
+        expanded_terms: terms,
+        recall: {
+          matched_candidates: totalMatches,
+          searched_items: searchedItems,
+          passed_to_model: candidates.length,
+        },
+        instruction: "请基于 request 和 expanded_terms 选出最多十条最值得团队阅读的内容。每条必须保留原始 url。不要编造候选列表之外的文章。",
         candidates,
       }, null, 2),
     },
   ];
-}
-
-function buildGlmWebSearchTools() {
-  return [{
-    type: "web_search",
-    web_search: {
-      enable: "True",
-      search_engine: "search_pro",
-      search_result: "True",
-      count: "10",
-      search_recency_filter: "noLimit",
-      content_size: "high",
-      search_prompt: "请优先核对用户给出的候选文章 URL 与搜索结果{search_result}，只围绕候选文章做事实摘要，不要扩展到候选列表之外。",
-    },
-  }];
 }
 
 function effectiveAllItems() {
@@ -616,8 +806,10 @@ function renderCuratedItemNode(item) {
   const node = itemTpl.content.firstElementChild.cloneNode(true);
   node.classList.add("curated");
 
-  const metaRow = node.querySelector(".meta-row");
-  if (metaRow) metaRow.remove();
+  const timeEl = node.querySelector(".time");
+  if (timeEl) timeEl.textContent = fmtTime(item.published_at);
+  const sourceEl = node.querySelector(".source");
+  if (sourceEl) sourceEl.textContent = item.source || "AI 精准筛选";
 
   const titleEl = node.querySelector(".title");
   titleEl.textContent = item.title || "未命名更新";
@@ -639,7 +831,7 @@ function renderAiSearchStatus(message, isError = false) {
 
 function renderAiCuratedResults() {
   const results = Array.isArray(state.aiCuratedResults) ? state.aiCuratedResults : [];
-  if (listTitleEl) listTitleEl.textContent = "AI搜索";
+  if (listTitleEl) listTitleEl.textContent = "AI 精准筛选";
   resultCountEl.textContent = `${fmtNumber(results.length)} 条`;
   newsListEl.innerHTML = "";
 
@@ -649,12 +841,12 @@ function renderAiCuratedResults() {
   }
 
   if (state.aiSearchRunning) {
-    renderAiSearchStatus("AI 正在阅读候选文章并生成搜索结果...");
+    renderAiSearchStatus("AI 正在当前数据池里召回候选、排序并生成摘要...");
     return;
   }
 
   if (!results.length) {
-    renderAiSearchStatus("还没有 AI 精选结果。输入需求后点击“确认搜索”。");
+    renderAiSearchStatus("AI 精准筛选只检索当前数据池。输入主题或需求后点击“筛选新闻”。");
     return;
   }
 
@@ -901,12 +1093,12 @@ function renderWaytoagi(waytoagi) {
 
     const textWrap = document.createElement("div");
     textWrap.className = "waytoagi-text";
-    const { title, summary } = splitWaytoagiText(u.title);
     const titleEl = document.createElement("strong");
     titleEl.className = "t";
-    titleEl.textContent = title;
+    titleEl.textContent = u.title || "未命名更新";
     textWrap.appendChild(titleEl);
-    if (summary && summary !== title) {
+    const summary = (u.summary || "").trim();
+    if (summary) {
       const summaryEl = document.createElement("p");
       summaryEl.className = "s";
       summaryEl.textContent = summary;
@@ -1044,26 +1236,6 @@ async function loadSourceStatusData() {
   return res.json();
 }
 
-function getAiSearchCandidates() {
-  return modeItems()
-    .filter((item) => !state.siteFilter || item.site_id === state.siteFilter)
-    .slice(0, AI_SEARCH_CANDIDATE_LIMIT)
-    .map((item, index) => ({
-      id: item.id || `${item.site_id || "site"}-${index}`,
-      rank: index + 1,
-      title: item.title || item.title_zh || item.title_en || "",
-      title_zh: item.title_zh || "",
-      title_en: item.title_en || "",
-      summary: item.summary || "",
-      url: item.url || "",
-      source: item.source || "",
-      site_name: item.site_name || "",
-      site_id: item.site_id || "",
-      published_at: item.published_at || item.first_seen_at || "",
-    }))
-    .filter((item) => item.title && item.url);
-}
-
 async function runAiCuratedSearch() {
   const query = searchInputEl.value.trim() || "帮我挑出最值得看的十条";
   const runId = state.aiSearchRunId + 1;
@@ -1082,30 +1254,38 @@ async function runAiCuratedSearch() {
       await loadAllModeData();
     }
 
-    const candidates = getAiSearchCandidates();
+    const recall = buildAiSearchRecall(query);
+    const { candidates } = recall;
     if (!candidates.length) {
-      throw new Error("当前数据里没有可供 AI 阅读的候选文章。");
+      throw new Error(`当前数据池里没有和「${query}」相关的候选内容。可以切到“全量”后再试，或换一个关键词。`);
     }
 
     const config = loadAiConfig();
     const content = await callGlmChat(
       config,
-      buildAiSearchMessages(query, candidates),
-      { tools: buildGlmWebSearchTools() }
+      buildAiSearchMessages(query, recall),
+      {
+        responseFormat: { type: "json_object" },
+        maxTokens: 4096,
+      }
     );
     if (!isCurrentAiSearchRun(runId)) return;
     const payload = extractJsonObject(content);
     const results = Array.isArray(payload.items) ? payload.items : [];
-    state.aiCuratedResults = results.slice(0, 10);
+    state.aiCuratedResults = filterAiResultsToCandidates(results, candidates).slice(0, 10);
     if (!state.aiCuratedResults.length) {
-      throw new Error("AI 没有返回可展示的精选结果。");
+      throw new Error(`AI 没有返回可展示的「${query}」相关结果。`);
     }
   } catch (err) {
     if (!isCurrentAiSearchRun(runId)) return;
     state.aiCuratedResults = null;
-    state.aiSearchError = `${err.message || "AI 搜索失败"}。请检查 AI 设置中的 API Key、Base URL 和 Model。`;
+    const message = err.message || "AI 精准筛选失败";
+    const isConfigError = /API Key|请先|Base URL|Model|GLM|接口返回|没有返回内容|Failed to fetch/i.test(message);
+    state.aiSearchError = isConfigError
+      ? `${message}。请检查 AI 设置中的 API Key、Base URL 和 Model。`
+      : message;
     if (/API Key|请先/.test(state.aiSearchError)) {
-      openAiSettings("先填写 BigModel API Key，再点击“确认搜索”。");
+      openAiSettings("先填写 BigModel API Key，再点击“筛选新闻”。");
     }
   } finally {
     if (isCurrentAiSearchRun(runId)) {
@@ -1257,12 +1437,7 @@ if (aiSettingsTestEl) {
 }
 
 siteSelectEl.addEventListener("change", (e) => {
-  state.siteFilter = e.target.value;
-  resetAiListExpansion();
-  clearAiSearchResults();
-  renderSiteFilters();
-  renderModeSwitch();
-  renderList();
+  handleSiteFilterChange(e.target.value);
 });
 
 modeAiBtnEl.addEventListener("click", () => {

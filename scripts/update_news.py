@@ -476,12 +476,12 @@ def block_text(block_data: dict[str, Any]) -> str:
     return "".join(str(v) for k, v in sorted(initial.items(), key=lambda kv: key_int(kv[0]))).strip()
 
 
-def extract_waytoagi_block_url(block_data: dict[str, Any]) -> str | None:
+def extract_waytoagi_block_mention(block_data: dict[str, Any]) -> dict[str, str]:
     text_obj = block_data.get("text", {}) if isinstance(block_data, dict) else {}
     apool = text_obj.get("apool", {}) if isinstance(text_obj, dict) else {}
     attribs = apool.get("numToAttrib", {}) if isinstance(apool, dict) else {}
     if not isinstance(attribs, dict):
-        return None
+        return {}
 
     for value in attribs.values():
         if not isinstance(value, list) or len(value) < 2:
@@ -493,9 +493,25 @@ def extract_waytoagi_block_url(block_data: dict[str, Any]) -> str | None:
         except Exception:
             continue
         data = component.get("data", {}) if isinstance(component, dict) else {}
-        raw_url = str(data.get("raw_url") or "").strip() if isinstance(data, dict) else ""
+        if not isinstance(data, dict):
+            continue
+        raw_url = str(data.get("raw_url") or "").strip()
+        title = str(data.get("title") or "").strip()
+        out: dict[str, str] = {}
         if raw_url.startswith("http"):
-            return raw_url
+            out["url"] = raw_url
+        if title:
+            out["title"] = clean_update_title(title)
+        if out:
+            return out
+    return {}
+
+
+def extract_waytoagi_block_url(block_data: dict[str, Any]) -> str | None:
+    mention = extract_waytoagi_block_mention(block_data)
+    url = mention.get("url")
+    if url:
+        return url
     return None
 
 
@@ -667,14 +683,22 @@ def extract_waytoagi_recent_updates_from_block_map(
         day = nearest_heading_date(bid)
         if not day:
             continue
-        title = clean_update_title(block_text(bd))
-        if not title:
+        summary = clean_update_title(block_text(bd))
+        if not summary:
             continue
+        mention = extract_waytoagi_block_mention(bd)
+        title = mention.get("title") or summary
+        url = mention.get("url") or page_url
         key = (day.isoformat(), title)
         if key in seen:
             continue
         seen.add(key)
-        updates.append({"date": day.isoformat(), "title": title, "url": extract_waytoagi_block_url(bd) or page_url})
+        updates.append({
+            "date": day.isoformat(),
+            "title": title,
+            "summary": summary,
+            "url": url,
+        })
 
     return updates
 

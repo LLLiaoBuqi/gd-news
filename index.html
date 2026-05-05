@@ -11,7 +11,7 @@
       href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,500;1,8..60,500;1,8..60,600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/styles.css?v=ai-search-segments-20260505" />
+    <link rel="stylesheet" href="./assets/styles.css?v=waytoagi-source-summary-20260505" />
   </head>
   <body>
     <div class="grain" aria-hidden="true"></div>
@@ -44,10 +44,10 @@
               <div class="search-actions" aria-label="搜索模式">
                 <div class="search-mode-switch">
                   <button id="searchNormalBtn" class="search-mode-btn active" type="button">普通搜索</button>
-                  <button id="searchAiBtn" class="search-mode-btn" type="button">AI 搜索</button>
+                  <button id="searchAiBtn" class="search-mode-btn" type="button">AI 精准筛选</button>
                 </div>
                 <button id="aiSettingsBtn" class="ai-settings-btn" type="button">AI 设置</button>
-                <button id="aiSearchSubmit" class="ai-search-submit" type="button">确认搜索</button>
+                <button id="aiSearchSubmit" class="ai-search-submit" type="button">筛选新闻</button>
               </div>
             </div>
 
@@ -162,7 +162,7 @@
           </label>
           <label class="ai-setting-field">
             <span>Model</span>
-            <input id="aiModelInput" type="text" placeholder="glm-4-flash" />
+            <input id="aiModelInput" type="text" placeholder="glm-4-flash-250414" />
           </label>
           <a class="ai-settings-help" href="https://open.bigmodel.cn/usercenter/proj-mgmt/apikeys" target="_blank" rel="noopener noreferrer">查看申请教程</a>
           <p id="aiSettingsStatus" class="ai-settings-status" aria-live="polite"></p>
@@ -174,6 +174,6 @@
       </section>
     </div>
 
-    <script src="./assets/app.js?v=ai-search-segments-20260505" defer></script>
+    <script src="./assets/app.js?v=waytoagi-source-summary-20260505" defer></script>
   </body>
 </html>

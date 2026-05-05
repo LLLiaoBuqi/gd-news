@@ -58,11 +58,11 @@ class WaytoAgiUtilsTests(unittest.TestCase):
                             "numToAttrib": {
                                 "1": [
                                     "inline-component",
-                                    '{"type":"mention_doc","data":{"raw_url":"https://waytoagi.feishu.cn/wiki/detail"}}',
+                                    '{"type":"mention_doc","data":{"raw_url":"https://waytoagi.feishu.cn/wiki/detail","title":"OpenClaw 原始标题"}}',
                                 ]
                             }
                         },
-                        "initialAttributedTexts": {"text": {"0": "《 》 OpenClaw 新教程"}},
+                        "initialAttributedTexts": {"text": {"0": "《 》 OpenClaw 新教程摘要"}},
                     },
                 }
             },
@@ -84,7 +84,8 @@ class WaytoAgiUtilsTests(unittest.TestCase):
         out = extract_waytoagi_recent_updates_from_block_map(block_map, now, "https://example.com")
         self.assertEqual(len(out), 1)
         self.assertEqual(out[0]["date"], "2026-02-20")
-        self.assertEqual(out[0]["title"], "OpenClaw 新教程")
+        self.assertEqual(out[0]["title"], "OpenClaw 原始标题")
+        self.assertEqual(out[0]["summary"], "OpenClaw 新教程摘要")
         self.assertEqual(out[0]["url"], "https://waytoagi.feishu.cn/wiki/detail")
 
 
