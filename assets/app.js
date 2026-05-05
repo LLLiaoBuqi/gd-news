@@ -1,4 +1,12 @@
 const AI_LIST_INITIAL_LIMIT = 30;
+const AI_SEARCH_CANDIDATE_LIMIT = 80;
+const AI_CONFIG_STORAGE_KEY = "gdNewsAiAssistantConfig";
+const DEFAULT_AI_CONFIG = {
+  provider: "glm",
+  apiKey: "",
+  baseUrl: "https://open.bigmodel.cn/api/paas/v4/",
+  model: "glm-4.7-flash",
+};
 
 const state = {
   itemsAi: [],
@@ -14,6 +22,10 @@ const state = {
   allDataPromise: null,
   siteFilter: "",
   query: "",
+  searchMode: "normal",
+  aiSearchRunning: false,
+  aiCuratedResults: null,
+  aiSearchError: "",
   mode: "ai",
   waytoagiMode: "today",
   waytoagiData: null,
@@ -32,8 +44,22 @@ const sitePillsEl = document.getElementById("sitePills");
 const newsListEl = document.getElementById("newsList");
 const updatedAtEl = document.getElementById("updatedAt");
 const searchInputEl = document.getElementById("searchInput");
+const searchNormalBtnEl = document.getElementById("searchNormalBtn");
+const searchAiBtnEl = document.getElementById("searchAiBtn");
+const aiSearchSubmitEl = document.getElementById("aiSearchSubmit");
+const aiSettingsBtnEl = document.getElementById("aiSettingsBtn");
+const aiSettingsModalEl = document.getElementById("aiSettingsModal");
+const aiSettingsCloseEl = document.getElementById("aiSettingsClose");
+const aiProviderSelectEl = document.getElementById("aiProviderSelect");
+const aiApiKeyInputEl = document.getElementById("aiApiKeyInput");
+const aiBaseUrlInputEl = document.getElementById("aiBaseUrlInput");
+const aiModelInputEl = document.getElementById("aiModelInput");
+const aiSettingsStatusEl = document.getElementById("aiSettingsStatus");
+const aiSettingsSaveEl = document.getElementById("aiSettingsSave");
+const aiSettingsTestEl = document.getElementById("aiSettingsTest");
 const resultCountEl = document.getElementById("resultCount");
 const listTitleEl = document.getElementById("listTitle");
+const listWrapEl = document.querySelector(".list-wrap");
 const itemTpl = document.getElementById("itemTpl");
 const modeAiBtnEl = document.getElementById("modeAiBtn");
 const modeAllBtnEl = document.getElementById("modeAllBtn");
@@ -335,15 +361,186 @@ function renderModeSwitch() {
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
   if (state.mode === "ai") {
     modeHintEl.textContent = `Agent 优先 · ${fmtNumber(state.totalAi)} 条`;
-    if (listTitleEl) listTitleEl.textContent = "Agent 优先信号流";
+    if (listTitleEl && !state.aiCuratedResults) listTitleEl.textContent = "Agent 重点更新";
   } else {
     const allCount = state.allDedup
       ? (state.totalAllMode || state.itemsAll.length)
       : (state.totalRaw || state.itemsAllRaw.length);
     modeHintEl.textContent = `全量 · ${fmtNumber(allCount)} 条`;
-    if (listTitleEl) listTitleEl.textContent = "全量更新";
+    if (listTitleEl && !state.aiCuratedResults) listTitleEl.textContent = "全部 AI 更新";
   }
   renderAdvancedSummary();
+}
+
+function scrollToResults() {
+  if (!listWrapEl) return;
+  listWrapEl.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function renderSearchMode() {
+  const isAiSearch = state.searchMode === "ai";
+  searchNormalBtnEl?.classList.toggle("active", !isAiSearch);
+  searchAiBtnEl?.classList.toggle("active", isAiSearch);
+  aiSearchSubmitEl?.classList.toggle("show", isAiSearch);
+  if (aiSearchSubmitEl) aiSearchSubmitEl.disabled = state.aiSearchRunning;
+  if (searchInputEl) {
+    searchInputEl.placeholder = isAiSearch
+      ? "例如：帮我挑出最值得看的十条 Agent / 模型 / 创作工具更新"
+      : "搜索 Agent / Skill / 模型 / 工具 / 来源";
+  }
+}
+
+function setSearchMode(mode) {
+  state.searchMode = mode;
+  state.aiSearchError = "";
+  if (mode === "normal") {
+    state.aiCuratedResults = null;
+  }
+  renderSearchMode();
+  renderModeSwitch();
+  renderList();
+}
+
+function clearAiSearchResults() {
+  state.aiCuratedResults = null;
+  state.aiSearchError = "";
+}
+
+function loadAiConfig() {
+  try {
+    const raw = window.localStorage.getItem(AI_CONFIG_STORAGE_KEY);
+    if (!raw) return { ...DEFAULT_AI_CONFIG };
+    return { ...DEFAULT_AI_CONFIG, ...JSON.parse(raw) };
+  } catch {
+    return { ...DEFAULT_AI_CONFIG };
+  }
+}
+
+function saveAiConfig(config) {
+  window.localStorage.setItem(AI_CONFIG_STORAGE_KEY, JSON.stringify(config));
+}
+
+function readAiSettingsForm() {
+  return {
+    provider: aiProviderSelectEl?.value || DEFAULT_AI_CONFIG.provider,
+    apiKey: aiApiKeyInputEl?.value.trim() || "",
+    baseUrl: aiBaseUrlInputEl?.value.trim() || DEFAULT_AI_CONFIG.baseUrl,
+    model: aiModelInputEl?.value.trim() || DEFAULT_AI_CONFIG.model,
+  };
+}
+
+function fillAiSettingsForm(config = loadAiConfig()) {
+  if (aiProviderSelectEl) aiProviderSelectEl.value = config.provider || DEFAULT_AI_CONFIG.provider;
+  if (aiApiKeyInputEl) aiApiKeyInputEl.value = config.apiKey || "";
+  if (aiBaseUrlInputEl) aiBaseUrlInputEl.value = config.baseUrl || DEFAULT_AI_CONFIG.baseUrl;
+  if (aiModelInputEl) aiModelInputEl.value = config.model || DEFAULT_AI_CONFIG.model;
+}
+
+function setAiSettingsStatus(message, isError = false) {
+  if (!aiSettingsStatusEl) return;
+  aiSettingsStatusEl.textContent = message;
+  aiSettingsStatusEl.style.color = isError ? "var(--bad)" : "var(--muted)";
+}
+
+function openAiSettings(message = "") {
+  fillAiSettingsForm();
+  if (aiSettingsModalEl) aiSettingsModalEl.hidden = false;
+  setAiSettingsStatus(message);
+}
+
+function closeAiSettings() {
+  if (aiSettingsModalEl) aiSettingsModalEl.hidden = true;
+}
+
+function chatCompletionsUrl(baseUrl) {
+  const trimmed = (baseUrl || DEFAULT_AI_CONFIG.baseUrl).replace(/\/+$/, "");
+  return trimmed.endsWith("/chat/completions") ? trimmed : `${trimmed}/chat/completions`;
+}
+
+function extractJsonObject(text) {
+  const raw = String(text || "").trim();
+  try {
+    return JSON.parse(raw);
+  } catch {
+    const match = raw.match(/\{[\s\S]*\}/);
+    if (!match) throw new Error("模型没有返回 JSON。");
+    return JSON.parse(match[0]);
+  }
+}
+
+async function callGlmChat(config, messages, options = {}) {
+  if (!config.apiKey) {
+    throw new Error("请先在 AI 设置里填写 API Key。");
+  }
+
+  const res = await fetch(chatCompletionsUrl(config.baseUrl), {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${config.apiKey}`,
+    },
+    body: JSON.stringify({
+      model: config.model,
+      messages,
+      temperature: options.temperature ?? 0.25,
+      stream: false,
+      ...(options.tools ? { tools: options.tools, tool_choice: "auto" } : {}),
+    }),
+  });
+
+  let payload = {};
+  try {
+    payload = await res.json();
+  } catch {
+    payload = {};
+  }
+
+  if (!res.ok) {
+    const message = payload?.error?.message || payload?.message || `GLM 接口返回 ${res.status}`;
+    throw new Error(message);
+  }
+
+  const content = payload?.choices?.[0]?.message?.content;
+  if (!content) throw new Error("GLM 没有返回内容。");
+  return String(content);
+}
+
+function buildAiSearchMessages(query, candidates) {
+  const systemPrompt = [
+    "你是 AI News 情报助手，为设计与 AI 产品团队筛选每日最值得阅读的信息。",
+    "你的任务是从候选文章中挑出最值得看的十条，并生成标题和摘要。",
+    "团队偏好：优先 Agent、工作流、模型能力变化、AI 创作工具、开发者工具、官方发布、一手来源、可落地案例；弱化泛行业营销、重复转载、标题党和低信号融资新闻。",
+    "如果模型具备联网/网页阅读能力，请优先打开并核对候选 URL 后再总结；如果无法访问正文，则基于候选标题、站内摘要和来源谨慎判断。",
+    "输出必须是 JSON，不要输出 Markdown。格式：{\"items\":[{\"title\":\"...\",\"summary\":\"...\",\"url\":\"...\",\"source\":\"...\",\"reason\":\"...\"}]}。",
+    "summary 用中文，2 到 3 句话，说明这条为什么值得团队看。",
+  ].join("\n");
+
+  return [
+    { role: "system", content: systemPrompt },
+    {
+      role: "user",
+      content: JSON.stringify({
+        request: query,
+        instruction: "请精选十条。每条必须保留原始 url。不要编造候选列表之外的文章。",
+        candidates,
+      }, null, 2),
+    },
+  ];
+}
+
+function buildGlmWebSearchTools() {
+  return [{
+    type: "web_search",
+    web_search: {
+      enable: "True",
+      search_engine: "search_pro",
+      search_result: "True",
+      count: "10",
+      search_recency_filter: "noLimit",
+      content_size: "high",
+      search_prompt: "请优先核对用户给出的候选文章 URL 与搜索结果{search_result}，只围绕候选文章做事实摘要，不要扩展到候选列表之外。",
+    },
+  }];
 }
 
 function effectiveAllItems() {
@@ -403,6 +600,57 @@ function renderItemNode(item, { hideSource = false } = {}) {
   }
 
   return node;
+}
+
+function renderCuratedItemNode(item) {
+  const node = itemTpl.content.firstElementChild.cloneNode(true);
+  node.classList.add("curated");
+
+  const metaRow = node.querySelector(".meta-row");
+  if (metaRow) metaRow.remove();
+
+  const titleEl = node.querySelector(".title");
+  titleEl.textContent = item.title || "未命名更新";
+  titleEl.href = item.url || "#";
+
+  const summaryEl = node.querySelector(".summary");
+  summaryEl.textContent = item.summary || item.reason || "AI 暂未生成摘要。";
+
+  return node;
+}
+
+function renderAiSearchStatus(message, isError = false) {
+  newsListEl.innerHTML = "";
+  const div = document.createElement("div");
+  div.className = `ai-search-status${isError ? " error" : ""}`;
+  div.textContent = message;
+  newsListEl.appendChild(div);
+}
+
+function renderAiCuratedResults() {
+  const results = Array.isArray(state.aiCuratedResults) ? state.aiCuratedResults : [];
+  if (listTitleEl) listTitleEl.textContent = "精选十条";
+  resultCountEl.textContent = `${fmtNumber(results.length)} 条`;
+  newsListEl.innerHTML = "";
+
+  if (state.aiSearchError) {
+    renderAiSearchStatus(state.aiSearchError, true);
+    return;
+  }
+
+  if (state.aiSearchRunning) {
+    renderAiSearchStatus("AI 正在阅读候选文章并生成精选十条...");
+    return;
+  }
+
+  if (!results.length) {
+    renderAiSearchStatus("还没有 AI 精选结果。输入需求后点击“确认搜索”。");
+    return;
+  }
+
+  const frag = document.createDocumentFragment();
+  results.slice(0, 10).forEach((item) => frag.appendChild(renderCuratedItemNode(item)));
+  newsListEl.appendChild(frag);
 }
 
 function buildSourceGroupNode(source, items) {
@@ -534,6 +782,11 @@ function renderProgressiveFlatList(items) {
 }
 
 function renderList() {
+  if (state.searchMode === "ai" && (state.aiSearchRunning || state.aiCuratedResults || state.aiSearchError)) {
+    renderAiCuratedResults();
+    return;
+  }
+
   const filtered = getFilteredItems();
   resultCountEl.textContent = `${fmtNumber(filtered.length)} 条`;
 
@@ -781,6 +1034,72 @@ async function loadSourceStatusData() {
   return res.json();
 }
 
+function getAiSearchCandidates() {
+  return modeItems()
+    .filter((item) => !state.siteFilter || item.site_id === state.siteFilter)
+    .slice(0, AI_SEARCH_CANDIDATE_LIMIT)
+    .map((item, index) => ({
+      id: item.id || `${item.site_id || "site"}-${index}`,
+      rank: index + 1,
+      title: item.title || item.title_zh || item.title_en || "",
+      title_zh: item.title_zh || "",
+      title_en: item.title_en || "",
+      summary: item.summary || "",
+      url: item.url || "",
+      source: item.source || "",
+      site_name: item.site_name || "",
+      site_id: item.site_id || "",
+      published_at: item.published_at || item.first_seen_at || "",
+    }))
+    .filter((item) => item.title && item.url);
+}
+
+async function runAiCuratedSearch() {
+  const query = searchInputEl.value.trim() || "帮我挑出最值得看的十条";
+  state.query = query;
+  state.searchMode = "ai";
+  state.aiSearchRunning = true;
+  state.aiCuratedResults = null;
+  state.aiSearchError = "";
+  renderSearchMode();
+  renderList();
+  scrollToResults();
+
+  try {
+    if (state.mode === "all") {
+      await loadAllModeData();
+    }
+
+    const candidates = getAiSearchCandidates();
+    if (!candidates.length) {
+      throw new Error("当前数据里没有可供 AI 阅读的候选文章。");
+    }
+
+    const config = loadAiConfig();
+    const content = await callGlmChat(
+      config,
+      buildAiSearchMessages(query, candidates),
+      { tools: buildGlmWebSearchTools() }
+    );
+    const payload = extractJsonObject(content);
+    const results = Array.isArray(payload.items) ? payload.items : [];
+    state.aiCuratedResults = results.slice(0, 10);
+    if (!state.aiCuratedResults.length) {
+      throw new Error("AI 没有返回可展示的精选结果。");
+    }
+  } catch (err) {
+    state.aiCuratedResults = null;
+    state.aiSearchError = `${err.message || "AI 搜索失败"}。请检查 AI 设置中的 API Key、Base URL 和 Model。`;
+    if (/API Key|请先/.test(state.aiSearchError)) {
+      openAiSettings("先填写 BigModel API Key，再点击“确认搜索”。");
+    }
+  } finally {
+    state.aiSearchRunning = false;
+    renderSearchMode();
+    renderList();
+  }
+}
+
 async function init() {
   const [newsResult, waytoagiResult, statusResult] = await Promise.allSettled([
     loadNewsData(),
@@ -834,19 +1153,106 @@ async function init() {
 searchInputEl.addEventListener("input", (e) => {
   state.query = e.target.value;
   resetAiListExpansion();
+  clearAiSearchResults();
+  if (state.searchMode === "ai") {
+    renderModeSwitch();
+    renderList();
+    return;
+  }
   renderList();
 });
+
+searchInputEl.addEventListener("keydown", (e) => {
+  if (e.key !== "Enter") return;
+  e.preventDefault();
+  if (state.searchMode === "ai") {
+    runAiCuratedSearch();
+  } else {
+    scrollToResults();
+  }
+});
+
+searchInputEl.addEventListener("search", () => {
+  state.query = searchInputEl.value;
+  resetAiListExpansion();
+  clearAiSearchResults();
+  if (state.searchMode === "ai" && state.query.trim()) {
+    runAiCuratedSearch();
+    return;
+  }
+  renderModeSwitch();
+  renderList();
+  if (state.query.trim()) {
+    scrollToResults();
+  }
+});
+
+if (searchNormalBtnEl) {
+  searchNormalBtnEl.addEventListener("click", () => setSearchMode("normal"));
+}
+
+if (searchAiBtnEl) {
+  searchAiBtnEl.addEventListener("click", () => setSearchMode("ai"));
+}
+
+if (aiSearchSubmitEl) {
+  aiSearchSubmitEl.addEventListener("click", () => runAiCuratedSearch());
+}
+
+if (aiSettingsBtnEl) {
+  aiSettingsBtnEl.addEventListener("click", () => openAiSettings());
+}
+
+if (aiSettingsCloseEl) {
+  aiSettingsCloseEl.addEventListener("click", closeAiSettings);
+}
+
+if (aiSettingsModalEl) {
+  aiSettingsModalEl.addEventListener("click", (e) => {
+    if (e.target === aiSettingsModalEl) closeAiSettings();
+  });
+}
+
+if (aiSettingsSaveEl) {
+  aiSettingsSaveEl.addEventListener("click", () => {
+    saveAiConfig(readAiSettingsForm());
+    setAiSettingsStatus("已保存到当前浏览器。API Key 不会写入仓库。");
+  });
+}
+
+if (aiSettingsTestEl) {
+  aiSettingsTestEl.addEventListener("click", async () => {
+    const config = readAiSettingsForm();
+    saveAiConfig(config);
+    aiSettingsTestEl.disabled = true;
+    setAiSettingsStatus("正在测试连接...");
+    try {
+      const content = await callGlmChat(config, [
+        { role: "system", content: "你是连接测试助手。" },
+        { role: "user", content: "只回复 OK" },
+      ], { temperature: 0 });
+      setAiSettingsStatus(`连接成功：${content.slice(0, 24)}`);
+    } catch (err) {
+      setAiSettingsStatus(err.message || "连接失败", true);
+    } finally {
+      aiSettingsTestEl.disabled = false;
+    }
+  });
+}
 
 siteSelectEl.addEventListener("change", (e) => {
   state.siteFilter = e.target.value;
   resetAiListExpansion();
+  clearAiSearchResults();
   renderSiteFilters();
+  renderModeSwitch();
   renderList();
 });
 
 modeAiBtnEl.addEventListener("click", () => {
   state.mode = "ai";
   resetAiListExpansion();
+  clearAiSearchResults();
   renderModeSwitch();
   renderSiteFilters();
   renderList();
@@ -855,6 +1261,7 @@ modeAiBtnEl.addEventListener("click", () => {
 modeAllBtnEl.addEventListener("click", async () => {
   state.mode = "all";
   resetAiListExpansion();
+  clearAiSearchResults();
   renderModeSwitch();
   modeAllBtnEl.disabled = true;
   try {
@@ -876,6 +1283,7 @@ if (allDedupeToggleEl) {
   allDedupeToggleEl.addEventListener("change", (e) => {
     state.allDedup = Boolean(e.target.checked);
     resetAiListExpansion();
+    clearAiSearchResults();
     renderModeSwitch();
     renderSiteFilters();
     renderList();
@@ -897,4 +1305,5 @@ if (waytoagi7dBtnEl) {
 }
 
 initHeroTitleType();
+renderSearchMode();
 init();

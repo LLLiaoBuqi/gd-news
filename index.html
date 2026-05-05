@@ -11,7 +11,7 @@
       href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,500;1,8..60,500;1,8..60,600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./assets/styles.css?v=mode-parity-20260505" />
+    <link rel="stylesheet" href="./assets/styles.css?v=ai-curated-search-20260505" />
   </head>
   <body>
     <div class="grain" aria-hidden="true"></div>
@@ -33,13 +33,23 @@
 
             <p class="hero-sub">每天扫一眼，看今天的 Agent、AI 模型和创作工具有哪些更新值得关注。</p>
 
-            <label class="hero-search" for="searchInput">
-              <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
-                <circle cx="11" cy="11" r="7" />
-                <path d="M16.5 16.5l4 4" />
-              </svg>
-              <input id="searchInput" type="search" placeholder="搜索 Agent / Skill / 模型 / 工具 / 来源" />
-            </label>
+            <div class="hero-search-block">
+              <label class="hero-search" for="searchInput">
+                <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <circle cx="11" cy="11" r="7" />
+                  <path d="M16.5 16.5l4 4" />
+                </svg>
+                <input id="searchInput" type="search" placeholder="搜索 Agent / Skill / 模型 / 工具 / 来源" />
+              </label>
+              <div class="search-actions" aria-label="搜索模式">
+                <div class="search-mode-switch">
+                  <button id="searchNormalBtn" class="search-mode-btn active" type="button">普通搜索</button>
+                  <button id="searchAiBtn" class="search-mode-btn" type="button">AI 搜索</button>
+                </div>
+                <button id="aiSettingsBtn" class="ai-settings-btn" type="button">AI 设置</button>
+                <button id="aiSearchSubmit" class="ai-search-submit" type="button">确认搜索</button>
+              </div>
+            </div>
 
             <div class="hero-modes">
               <div class="modes-block">
@@ -57,13 +67,6 @@
               </label>
             </div>
 
-            <div class="hero-sources">
-              <span class="field-label">来源筛选</span>
-              <select id="siteSelect" class="visually-hidden" aria-label="按站点筛选">
-                <option value="">全部站点</option>
-              </select>
-              <section class="site-pills" id="sitePills" aria-label="来源快捷筛选"></section>
-            </div>
           </div>
 
         </div>
@@ -91,8 +94,15 @@
       </section>
 
       <section class="list-wrap">
+        <div class="list-sources">
+          <span class="field-label">来源筛选</span>
+          <select id="siteSelect" class="visually-hidden" aria-label="按站点筛选">
+            <option value="">全部站点</option>
+          </select>
+          <section class="site-pills" id="sitePills" aria-label="来源快捷筛选"></section>
+        </div>
         <div class="list-head">
-          <h2 id="listTitle">Agent 优先信号流</h2>
+          <h2 id="listTitle">Agent 重点更新</h2>
           <span id="resultCount">0 条</span>
         </div>
         <div id="newsList" class="news-list"></div>
@@ -129,6 +139,41 @@
       </article>
     </template>
 
-    <script src="./assets/app.js?v=mode-parity-20260505" defer></script>
+    <div id="aiSettingsModal" class="ai-settings-modal" hidden>
+      <section class="ai-settings-panel" role="dialog" aria-modal="true" aria-labelledby="aiSettingsTitle">
+        <header class="ai-settings-head">
+          <h2 id="aiSettingsTitle">AI 设置</h2>
+          <button id="aiSettingsClose" class="ai-settings-close" type="button" aria-label="关闭设置">×</button>
+        </header>
+        <div class="ai-settings-body">
+          <label class="ai-setting-field">
+            <span>服务商</span>
+            <select id="aiProviderSelect">
+              <option value="glm">GLM / 智谱 BigModel</option>
+            </select>
+          </label>
+          <label class="ai-setting-field">
+            <span>API Key</span>
+            <input id="aiApiKeyInput" type="password" autocomplete="off" placeholder="粘贴你的 BigModel API Key" />
+          </label>
+          <label class="ai-setting-field">
+            <span>Base URL</span>
+            <input id="aiBaseUrlInput" type="url" placeholder="https://open.bigmodel.cn/api/paas/v4/" />
+          </label>
+          <label class="ai-setting-field">
+            <span>Model</span>
+            <input id="aiModelInput" type="text" placeholder="glm-4.7-flash" />
+          </label>
+          <a class="ai-settings-help" href="https://open.bigmodel.cn/usercenter/proj-mgmt/apikeys" target="_blank" rel="noopener noreferrer">查看申请教程</a>
+          <p id="aiSettingsStatus" class="ai-settings-status" aria-live="polite"></p>
+        </div>
+        <footer class="ai-settings-actions">
+          <button id="aiSettingsSave" class="ai-settings-save" type="button">保存</button>
+          <button id="aiSettingsTest" class="ai-settings-test" type="button">测试连接</button>
+        </footer>
+      </section>
+    </div>
+
+    <script src="./assets/app.js?v=ai-curated-search-20260505" defer></script>
   </body>
 </html>
