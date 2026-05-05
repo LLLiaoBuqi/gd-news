@@ -15,6 +15,7 @@ from scripts.update_news import (
     parse_follow_builders_items,
     parse_openai_codex_changelog_items,
     redact_public_text,
+    filter_ai_topic_records,
 )
 
 
@@ -105,6 +106,23 @@ class TopicFilterTests(unittest.TestCase):
             "url": "https://example.com/shop",
         }
         self.assertFalse(is_ai_related_record(rec))
+
+    def test_all_mode_topic_filter_drops_commerce_noise(self):
+        ai_rec = {
+            "site_id": "tophub",
+            "site_name": "TopHub",
+            "source": "机器之心",
+            "title": "新一代推理模型刷新多模态数学基准",
+            "url": "https://example.com/reasoning-model",
+        }
+        commerce_rec = {
+            "site_id": "tophub",
+            "site_name": "TopHub",
+            "source": "淘宝 ‧ 天猫 · 热销总榜",
+            "title": "白象拌面任选加码 券后¥29.96",
+            "url": "https://example.com/shop",
+        }
+        self.assertEqual(filter_ai_topic_records([commerce_rec, ai_rec]), [ai_rec])
 
     def test_zeli_only_24h_hot(self):
         keep = {

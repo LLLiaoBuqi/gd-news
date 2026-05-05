@@ -3,8 +3,8 @@
   "window_hours": 24,
   "total_items": 322,
   "total_items_ai_raw": 342,
-  "total_items_raw": 2862,
-  "total_items_all_mode": 2675,
+  "total_items_raw": 342,
+  "total_items_all_mode": 322,
   "topic_filter": "ai_tech_robotics",
   "archive_total": 142421,
   "site_count": 12,
@@ -10391,5 +10391,6 @@
       "title_bilingual": "我不喜欢人工智能，但 Gmail 中的 Gemini 改变了游戏规则 / I don't like AI, but Gemini in Gmail has been a game-changer"
     }
   ],
-  "all_mode_data_url": "data/latest-24h-all.json"
+  "all_mode_data_url": "data/latest-24h-all.json",
+  "total_items_before_topic_filter": 2862
 }

@@ -2517,6 +2517,11 @@ def is_ai_related_record(record: dict[str, Any]) -> bool:
     return True
 
 
+def filter_ai_topic_records(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Keep all-mode broad, but still scoped to AI/product/developer signal."""
+    return [record for record in records if is_ai_related_record(record)]
+
+
 def load_title_zh_cache(path: Path) -> dict[str, str]:
     if not path.exists():
         return {}
@@ -2655,6 +2660,7 @@ def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any
         "window_hours": latest_payload.get("window_hours"),
         "topic_filter": latest_payload.get("topic_filter"),
         "total_items_raw": latest_payload.get("total_items_raw"),
+        "total_items_before_topic_filter": latest_payload.get("total_items_before_topic_filter"),
         "total_items_all_mode": latest_payload.get("total_items_all_mode"),
         "items_all": latest_payload.get("items_all", []),
         "items_all_raw": latest_payload.get("items_all_raw", []),
@@ -2804,28 +2810,29 @@ def main() -> int:
     latest_items_all = normalize_aihubtoday_records(latest_items_all)
 
     latest_items_all.sort(key=lambda x: event_time(x) or datetime.min.replace(tzinfo=UTC), reverse=True)
-    latest_items = [record for record in latest_items_all if is_ai_related_record(record)]
+    latest_items_before_topic_filter = latest_items_all
+    latest_items = filter_ai_topic_records(latest_items_before_topic_filter)
     title_cache = load_title_zh_cache(title_cache_path)
-    latest_items, latest_items_all, title_cache = add_bilingual_fields(
+    latest_items, latest_items_all_mode_raw, title_cache = add_bilingual_fields(
         latest_items,
-        latest_items_all,
+        latest_items,
         session,
         title_cache,
         max_new_translations=max(0, args.translate_max_new),
     )
     latest_items_ai_dedup = dedupe_items_by_title_url(latest_items, random_pick=False)
     latest_items_ai_dedup = sort_creation_signal_items(latest_items_ai_dedup)
-    latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
+    latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all_mode_raw, random_pick=False)
 
     # site stats
     site_stat: dict[str, dict[str, Any]] = {}
     raw_count_by_site: dict[str, int] = {}
-    for record in latest_items_all:
+    for record in latest_items_before_topic_filter:
         sid = record["site_id"]
         raw_count_by_site[sid] = raw_count_by_site.get(sid, 0) + 1
 
     site_name_by_id: dict[str, str] = {}
-    for record in latest_items_all:
+    for record in latest_items_before_topic_filter:
         site_name_by_id[record["site_id"]] = record["site_name"]
     for s in statuses:
         sid = s["site_id"]
@@ -2858,7 +2865,8 @@ def main() -> int:
         "window_hours": args.window_hours,
         "total_items": len(latest_items_ai_dedup),
         "total_items_ai_raw": len(latest_items),
-        "total_items_raw": len(latest_items_all),
+        "total_items_raw": len(latest_items_all_mode_raw),
+        "total_items_before_topic_filter": len(latest_items_before_topic_filter),
         "total_items_all_mode": len(latest_items_all_dedup),
         "topic_filter": "ai_tech_robotics",
         "archive_total": len(archive),
@@ -2867,7 +2875,7 @@ def main() -> int:
         "site_stats": sorted(site_stat.values(), key=lambda x: x["count"], reverse=True),
         "items": latest_items_ai_dedup,
         "items_ai": latest_items_ai_dedup,
-        "items_all_raw": latest_items_all,
+        "items_all_raw": latest_items_all_mode_raw,
         "items_all": latest_items_all_dedup,
     }
 
@@ -2888,7 +2896,7 @@ def main() -> int:
         "failed_sites": [s["site_id"] for s in statuses if not s["ok"]],
         "zero_item_sites": [s["site_id"] for s in statuses if s.get("ok") and int(s.get("item_count") or 0) == 0],
         "fetched_raw_items": len(raw_items),
-        "items_before_topic_filter": len(latest_items_all),
+        "items_before_topic_filter": len(latest_items_before_topic_filter),
         "items_in_24h": len(latest_items_ai_dedup),
         "rss_opml": {
             "enabled": bool(args.rss_opml),
