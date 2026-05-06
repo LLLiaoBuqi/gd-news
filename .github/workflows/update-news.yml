@@ -3,8 +3,8 @@ name: Update AI News Snapshot
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 09:00 Asia/Shanghai (01:00 UTC).
-    - cron: "0 1 * * *"
+    # Runs every 30 minutes, matching the upstream update cadence.
+    - cron: "*/30 * * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
