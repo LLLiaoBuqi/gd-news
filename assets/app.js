@@ -12,6 +12,36 @@ const GLM_MODEL_ALIASES = {
   "glm-4-flash": "glm-4-flash-250414",
 };
 
+const SITE_LABELS = {
+  official_ai: "官方更新 / Official AI Updates",
+  aibreakfast: "AI 日报 / AI Breakfast",
+  followbuilders: "X 和开发者 / Follow Builders",
+  techurls: "技术新闻 / TechURLs",
+  buzzing: "热门讨论 / Buzzing",
+  iris: "信息聚合 / Info Flow",
+  bestblogs: "博客文章 / BestBlogs",
+  tophub: "热榜 / TopHub",
+  zeli: "AI 聚合 / Zeli",
+  aihubtoday: "AI 今日 / AI HubToday",
+  aibase: "AI 产品 / AIbase",
+  newsnow: "新闻搜索 / NewsNow",
+};
+
+const SOURCE_LABELS = {
+  "Official AI Updates": SITE_LABELS.official_ai,
+  "AI Breakfast": SITE_LABELS.aibreakfast,
+  "Follow Builders": SITE_LABELS.followbuilders,
+  TechURLs: SITE_LABELS.techurls,
+  Buzzing: SITE_LABELS.buzzing,
+  "Info Flow": SITE_LABELS.iris,
+  BestBlogs: SITE_LABELS.bestblogs,
+  TopHub: SITE_LABELS.tophub,
+  Zeli: SITE_LABELS.zeli,
+  "AI HubToday": SITE_LABELS.aihubtoday,
+  AIbase: SITE_LABELS.aibase,
+  NewsNow: SITE_LABELS.newsnow,
+};
+
 const AI_QUERY_SYNONYMS = {
   nano: [
     "nano",
@@ -272,6 +302,22 @@ function setStats(payload) {
   });
 }
 
+function formatSiteLabel(siteId, siteName = "") {
+  const key = (siteId || "").trim();
+  if (key && SITE_LABELS[key]) return SITE_LABELS[key];
+  return siteName || key || "未知来源";
+}
+
+function formatSourceLabel(source = "") {
+  const text = (source || "").trim();
+  if (!text) return "未分区";
+  if (SOURCE_LABELS[text]) return SOURCE_LABELS[text];
+  if (text.startsWith("Follow Builders · ")) {
+    return text.replace("Follow Builders", "X 和开发者 / Follow Builders");
+  }
+  return text;
+}
+
 function sourceKind(siteId) {
   return SOURCE_KINDS[siteId] || { label: "来源", tone: "default" };
 }
@@ -372,7 +418,7 @@ function renderSiteFilters() {
     const opt = document.createElement("option");
     opt.value = s.site_id;
     const raw = s.raw_count ?? s.count;
-    opt.textContent = `${s.site_name} (${s.count}/${raw})`;
+    opt.textContent = `${formatSiteLabel(s.site_id, s.site_name)} (${s.count}/${raw})`;
     siteSelectEl.appendChild(opt);
   });
   siteSelectEl.value = state.siteFilter;
@@ -390,7 +436,7 @@ function renderSiteFilters() {
     const btn = document.createElement("button");
     btn.className = `pill ${state.siteFilter === s.site_id ? "active" : ""}`;
     const raw = s.raw_count ?? s.count;
-    btn.textContent = `${s.site_name} ${s.count}/${raw}`;
+    btn.textContent = `${formatSiteLabel(s.site_id, s.site_name)} ${s.count}/${raw}`;
     btn.onclick = () => {
       handleSiteFilterChange(s.site_id);
     };
@@ -833,7 +879,7 @@ function renderItemNode(item, { hideSource = false } = {}) {
     sourceEl.remove();
     if (dotEl) dotEl.remove();
   } else {
-    sourceEl.textContent = item.source || "未分区";
+    sourceEl.textContent = formatSourceLabel(item.source);
   }
 
   const titleEl = node.querySelector(".title");
@@ -912,7 +958,7 @@ function buildSourceGroupNode(source, items) {
   const header = document.createElement("header");
   header.className = "source-group-head";
   const title = document.createElement("h3");
-  title.textContent = source;
+  title.textContent = formatSourceLabel(source);
   const count = document.createElement("span");
   count.textContent = `${fmtNumber(items.length)} 条`;
   const listEl = document.createElement("div");
@@ -952,7 +998,7 @@ function renderGroupedBySiteAndSource(items) {
   items.forEach((item) => {
     if (!siteMap.has(item.site_id)) {
       siteMap.set(item.site_id, {
-        siteName: item.site_name || item.site_id,
+        siteName: formatSiteLabel(item.site_id, item.site_name),
         items: [],
       });
     }

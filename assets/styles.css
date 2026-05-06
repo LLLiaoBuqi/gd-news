@@ -1010,6 +1010,8 @@ body {
     radial-gradient(circle at 8% 10%, rgba(204, 120, 92, 0.08), transparent 32%),
     radial-gradient(circle at 92% 4%, rgba(201, 143, 78, 0.08), transparent 30%),
     linear-gradient(180deg, var(--bg-paper) 0%, #f8f4eb 100%);
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 body {
