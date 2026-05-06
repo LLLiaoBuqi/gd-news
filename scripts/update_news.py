@@ -65,6 +65,38 @@ RSS_FEED_SKIP_PREFIXES: tuple[str, ...] = (
     "http://47.122.94.119:18080/",
 )
 
+FEATURED_RSS_ALLOW_PREFIXES: tuple[str, ...] = (
+    "https://wechat2rss.bestblogs.dev/",
+)
+
+FEATURED_EXCLUDED_SOURCE_KEYWORDS: tuple[str, ...] = (
+    "waytoagi",
+    "通往agi之路",
+)
+
+FEATURED_DOMESTIC_KEYWORDS: tuple[str, ...] = (
+    "数字生命卡兹克",
+    "卡尔的ai沃茨",
+    "橘鸦ai早报",
+    "aigc weekly",
+    "歸藏",
+    "归藏",
+    "wechat2rss",
+    "quaily.com/op7418",
+    "mp.weixin.qq.com",
+    "imjuya.github.io",
+)
+
+FEATURED_GLOBAL_KEYWORDS: tuple[str, ...] = (
+    "openai",
+    "google ai",
+    "googleai",
+    "google gemini",
+    "geminiapp",
+    "anthropic",
+    "api.xgo.ing",
+)
+
 RSS_FEED_SKIP_EXACT: set[str] = {
     "https://rachelbythebay.com/w/atom.xml",
     "https://flak.tedunangst.com/rss",
@@ -2012,10 +2044,38 @@ def resolve_official_rss_url(feed_url: str) -> tuple[str | None, str | None]:
     return src, None
 
 
+def resolve_featured_rss_url(feed_url: str) -> tuple[str | None, str | None]:
+    src = (feed_url or "").strip()
+    if any(src.startswith(prefix) for prefix in FEATURED_RSS_ALLOW_PREFIXES):
+        return src, None
+    return resolve_official_rss_url(src)
+
+
+def featured_text_matches(text: str, keywords: tuple[str, ...]) -> bool:
+    lower = (text or "").casefold()
+    return any(keyword.casefold() in lower for keyword in keywords)
+
+
+def is_excluded_featured_source(source: str, url: str = "") -> bool:
+    return featured_text_matches(f"{source} {url}", FEATURED_EXCLUDED_SOURCE_KEYWORDS)
+
+
+def featured_source_region(source: str, url: str = "") -> str:
+    text = f"{source} {url}"
+    if featured_text_matches(text, FEATURED_DOMESTIC_KEYWORDS):
+        return "domestic"
+    if featured_text_matches(text, FEATURED_GLOBAL_KEYWORDS):
+        return "global"
+    return "global"
+
+
 def fetch_opml_rss(
     now: datetime,
     opml_path: Path,
     max_feeds: int = 0,
+    resolver=resolve_official_rss_url,
+    site_id: str = "opmlrss",
+    site_name: str = "OPML RSS",
 ) -> tuple[list[RawItem], dict[str, Any], list[dict[str, Any]]]:
     feeds = parse_opml_subscriptions(opml_path)
     if max_feeds > 0:
@@ -2027,13 +2087,13 @@ def fetch_opml_rss(
 
     for feed in feeds:
         original_url = feed["xml_url"]
-        resolved_url, skip_reason = resolve_official_rss_url(original_url)
+        resolved_url, skip_reason = resolver(original_url)
         if not resolved_url:
             feed_id = hashlib.sha1(original_url.encode("utf-8")).hexdigest()[:10]
             feed_statuses.append(
                 {
-                    "site_id": f"opmlrss:{feed_id}",
-                    "site_name": "OPML RSS",
+                    "site_id": f"{site_id}:{feed_id}",
+                    "site_name": site_name,
                     "feed_title": feed["title"],
                     "feed_url": original_url,
                     "effective_feed_url": None,
@@ -2095,8 +2155,8 @@ def fetch_opml_rss(
                         continue
                     local_items.append(
                         RawItem(
-                            site_id="opmlrss",
-                            site_name="OPML RSS",
+                            site_id=site_id,
+                            site_name=site_name,
                             source=source_name,
                             title=title,
                             url=link,
@@ -2117,8 +2177,8 @@ def fetch_opml_rss(
                         continue
                     local_items.append(
                         RawItem(
-                            site_id="opmlrss",
-                            site_name="OPML RSS",
+                            site_id=site_id,
+                            site_name=site_name,
                             source=source_name,
                             title=entry.get("title", ""),
                             url=entry.get("link", ""),
@@ -2135,8 +2195,8 @@ def fetch_opml_rss(
 
         duration_ms = int((time.perf_counter() - start) * 1000)
         status = {
-            "site_id": f"opmlrss:{feed_id}",
-            "site_name": "OPML RSS",
+            "site_id": f"{site_id}:{feed_id}",
+            "site_name": site_name,
             "feed_title": feed_title,
             "feed_url": original_feed_url,
             "effective_feed_url": feed_url,
@@ -2167,8 +2227,8 @@ def fetch_opml_rss(
     replaced_feeds = sum(1 for s in feed_statuses if s.get("replaced"))
 
     summary_status = {
-        "site_id": "opmlrss",
-        "site_name": "OPML RSS",
+        "site_id": site_id,
+        "site_name": site_name,
         "ok": ok_feeds > 0,
         "partial_failures": failed_feeds,
         "item_count": len(out),
@@ -2182,6 +2242,85 @@ def fetch_opml_rss(
         "replaced_feed_count": replaced_feeds,
     }
     return out, summary_status, feed_statuses
+
+
+def build_featured_sources_payload(
+    now: datetime,
+    items: list[RawItem],
+    feed_statuses: list[dict[str, Any]],
+    window_hours: int,
+    enabled: bool,
+) -> dict[str, Any]:
+    window_start = now - timedelta(hours=window_hours)
+    records: list[dict[str, Any]] = []
+    seen_ids: set[str] = set()
+    visible_feed_statuses = [
+        s for s in feed_statuses
+        if not is_excluded_featured_source(str(s.get("feed_title") or ""), str(s.get("feed_url") or ""))
+    ]
+
+    for raw in items:
+        if is_excluded_featured_source(raw.source, raw.url):
+            continue
+        if not raw.published_at or raw.published_at < window_start:
+            continue
+        title = maybe_fix_mojibake(raw.title.strip())
+        url = normalize_url(raw.url)
+        if not title or not url.startswith("http"):
+            continue
+        item_id = make_item_id(raw.site_id, raw.source, title, url)
+        if item_id in seen_ids:
+            continue
+        seen_ids.add(item_id)
+        source = maybe_fix_mojibake(raw.source)
+        region = featured_source_region(source, url)
+        record = {
+            "id": item_id,
+            "site_id": raw.site_id,
+            "site_name": raw.site_name,
+            "source": source,
+            "region": region,
+            "title": title,
+            "url": url,
+            "published_at": iso(raw.published_at),
+            "summary": maybe_fix_mojibake(raw.summary or "").strip() or None,
+        }
+        records.append(record)
+
+    records.sort(key=lambda x: parse_iso(x.get("published_at")) or datetime.min.replace(tzinfo=UTC), reverse=True)
+    groups: dict[str, dict[str, Any]] = {}
+    for region, label in (("domestic", "国内精选"), ("global", "国外精选")):
+        region_items = [r for r in records if r.get("region") == region]
+        region_feeds = [
+            s for s in visible_feed_statuses
+            if featured_source_region(str(s.get("feed_title") or ""), str(s.get("feed_url") or "")) == region
+        ]
+        groups[region] = {
+            "label": label,
+            "total_items": len(region_items),
+            "feed_total": len(region_feeds),
+            "ok_feeds": sum(1 for s in region_feeds if s.get("ok") and not s.get("skipped")),
+            "failed_feeds": [s.get("effective_feed_url") or s["feed_url"] for s in region_feeds if not s.get("ok")],
+            "items": region_items,
+        }
+
+    return {
+        "generated_at": iso(now),
+        "enabled": enabled,
+        "window_hours": window_hours,
+        "total_items": len(records),
+        "feed_total": len(visible_feed_statuses),
+        "ok_feeds": sum(1 for s in visible_feed_statuses if s.get("ok") and not s.get("skipped")),
+        "failed_feeds": [s.get("effective_feed_url") or s["feed_url"] for s in visible_feed_statuses if not s.get("ok")],
+        "skipped_feeds": [
+            {"feed_url": s["feed_url"], "reason": s.get("skip_reason")}
+            for s in visible_feed_statuses
+            if s.get("skipped")
+        ],
+        "feeds": visible_feed_statuses,
+        "groups": groups,
+        "items": records,
+    }
 
 
 def load_archive(path: Path) -> dict[str, dict[str, Any]]:
@@ -2690,6 +2829,7 @@ def main() -> int:
     latest_all_path = output_dir / "latest-24h-all.json"
     status_path = output_dir / "source-status.json"
     waytoagi_path = output_dir / "waytoagi-7d.json"
+    featured_path = output_dir / "featured-sources.json"
     title_cache_path = output_dir / "title-zh-cache.json"
 
     archive = load_archive(archive_path)
@@ -2697,6 +2837,8 @@ def main() -> int:
     session = create_session()
     raw_items, statuses = collect_all(session, now)
     rss_feed_statuses: list[dict[str, Any]] = []
+    featured_items: list[RawItem] = []
+    featured_feed_statuses: list[dict[str, Any]] = []
 
     if args.rss_opml:
         opml_path = Path(args.rss_opml).expanduser()
@@ -2708,6 +2850,14 @@ def main() -> int:
             )
             raw_items.extend(rss_items)
             statuses.append(rss_summary_status)
+            featured_items, _featured_summary_status, featured_feed_statuses = fetch_opml_rss(
+                now,
+                opml_path,
+                max_feeds=max(0, int(args.rss_max_feeds)),
+                resolver=resolve_featured_rss_url,
+                site_id="featuredrss",
+                site_name="常看博主精选",
+            )
         else:
             statuses.append(
                 {
@@ -2722,6 +2872,14 @@ def main() -> int:
                     "failed_feed_count": 0,
                 }
             )
+
+    featured_payload = build_featured_sources_payload(
+        now,
+        featured_items,
+        featured_feed_statuses,
+        window_hours=args.window_hours,
+        enabled=bool(args.rss_opml and Path(args.rss_opml).expanduser().exists()),
+    )
 
     seen_this_run: set[str] = set()
 
@@ -2950,6 +3108,7 @@ def main() -> int:
     )
     status_path.write_text(json.dumps(sanitize_public_payload(status_payload), ensure_ascii=False, indent=2), encoding="utf-8")
     waytoagi_path.write_text(json.dumps(sanitize_public_payload(waytoagi_payload), ensure_ascii=False, indent=2), encoding="utf-8")
+    featured_path.write_text(json.dumps(sanitize_public_payload(featured_payload), ensure_ascii=False, indent=2), encoding="utf-8")
     title_cache_path.write_text(json.dumps(sanitize_public_payload(title_cache), ensure_ascii=False, indent=2), encoding="utf-8")
 
     print(f"Wrote: {latest_path} ({len(latest_items)} items)")
@@ -2957,6 +3116,7 @@ def main() -> int:
     print(f"Wrote: {archive_path} ({len(archive)} items)")
     print(f"Wrote: {status_path}")
     print(f"Wrote: {waytoagi_path} ({waytoagi_payload.get('count_7d', 0)} items)")
+    print(f"Wrote: {featured_path} ({featured_payload.get('total_items', 0)} items)")
     print(f"Wrote: {title_cache_path} ({len(title_cache)} entries)")
 
     return 0

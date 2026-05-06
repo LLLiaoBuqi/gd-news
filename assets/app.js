@@ -123,6 +123,8 @@ const state = {
   mode: "ai",
   waytoagiMode: "today",
   waytoagiData: null,
+  featuredData: null,
+  featuredRegion: "domestic",
   sourceStatus: null,
   generatedAt: null,
   aiListExpanded: false,
@@ -170,6 +172,11 @@ const waytoagiMetaEl = document.getElementById("waytoagiMeta");
 const waytoagiListEl = document.getElementById("waytoagiList");
 const waytoagiTodayBtnEl = document.getElementById("waytoagiTodayBtn");
 const waytoagi7dBtnEl = document.getElementById("waytoagi7dBtn");
+const featuredUpdatedAtEl = document.getElementById("featuredUpdatedAt");
+const featuredMetaEl = document.getElementById("featuredMeta");
+const featuredListEl = document.getElementById("featuredList");
+const featuredDomesticBtnEl = document.getElementById("featuredDomesticBtn");
+const featuredGlobalBtnEl = document.getElementById("featuredGlobalBtn");
 const coverageStripEl = document.getElementById("coverageStrip");
 
 function parseTypedTitleTexts(el) {
@@ -1126,6 +1133,124 @@ function waytoagiViews(waytoagi) {
   return { updates7d, updatesToday, latestDate };
 }
 
+function renderFeaturedSources(featured) {
+  const items = Array.isArray(featured?.items) ? featured.items : [];
+  const groups = featured?.groups && typeof featured.groups === "object" ? featured.groups : null;
+  featuredUpdatedAtEl.textContent = fmtTime(featured?.generated_at);
+  if (featuredDomesticBtnEl) featuredDomesticBtnEl.classList.toggle("active", state.featuredRegion === "domestic");
+  if (featuredGlobalBtnEl) featuredGlobalBtnEl.classList.toggle("active", state.featuredRegion === "global");
+
+  featuredMetaEl.innerHTML = "";
+  const totalCount = document.createElement("span");
+  totalCount.textContent = `近 ${fmtNumber(featured?.window_hours || 24)} 小时：${fmtNumber(featured?.total_items || items.length)} 条`;
+  const feedCount = document.createElement("span");
+  feedCount.textContent = `订阅源：${fmtNumber(featured?.ok_feeds || 0)} / ${fmtNumber(featured?.feed_total || 0)} 正常`;
+  const refreshHint = document.createElement("span");
+  refreshHint.textContent = "按钮会打开 GitHub Actions 页面，手动点 Run workflow 后刷新数据。";
+  [totalCount, "·", feedCount, "·", refreshHint].forEach((part) => {
+    if (typeof part === "string") {
+      const sep = document.createElement("span");
+      sep.textContent = part;
+      featuredMetaEl.appendChild(sep);
+    } else {
+      featuredMetaEl.appendChild(part);
+    }
+  });
+
+  featuredListEl.innerHTML = "";
+  if (!featured?.enabled) {
+    const div = document.createElement("div");
+    div.className = "featured-empty";
+    div.textContent = "还没有配置 Folo OPML 数据，配置后这里会显示常看博主更新。";
+    featuredListEl.appendChild(div);
+    return;
+  }
+
+  if (!items.length) {
+    const div = document.createElement("div");
+    div.className = "featured-empty";
+    div.textContent = "最近 24 小时暂无精选博主更新。";
+    featuredListEl.appendChild(div);
+    return;
+  }
+
+  const renderGroup = (groupKey, fallbackLabel, fallbackItems) => {
+    const group = groups?.[groupKey] || {};
+    const groupItems = Array.isArray(group.items) ? group.items : fallbackItems;
+    const failedFeeds = Array.isArray(group.failed_feeds) ? group.failed_feeds : [];
+
+    const groupWrap = document.createElement("section");
+    groupWrap.className = "featured-group";
+    const groupHead = document.createElement("div");
+    groupHead.className = "featured-group-head";
+    const titleEl = document.createElement("h3");
+    titleEl.textContent = group.label || fallbackLabel;
+    const countEl = document.createElement("span");
+    countEl.textContent = `${fmtNumber(group.total_items || groupItems.length)} 条`;
+    groupHead.append(titleEl, countEl);
+    groupWrap.appendChild(groupHead);
+
+    if (failedFeeds.length) {
+      const div = document.createElement("div");
+      div.className = "featured-error";
+      div.textContent = `有 ${failedFeeds.length} 个订阅源暂时抓取失败，可稍后手动更新重试。`;
+      groupWrap.appendChild(div);
+    }
+
+    groupItems.slice(0, 12).forEach((item) => {
+      groupWrap.appendChild(buildFeaturedItemNode(item));
+    });
+
+    if (!groupItems.length) {
+      const div = document.createElement("div");
+      div.className = "featured-empty";
+      div.textContent = `最近 24 小时暂无${group.label || fallbackLabel}内容。`;
+      groupWrap.appendChild(div);
+    }
+
+    featuredListEl.appendChild(groupWrap);
+  };
+
+  const domesticItems = items.filter((item) => item.region === "domestic");
+  const globalItems = items.filter((item) => item.region === "global" || !item.region);
+  if (state.featuredRegion === "global") {
+    renderGroup("global", "国外精选", globalItems);
+  } else {
+    renderGroup("domestic", "国内精选", domesticItems);
+  }
+}
+
+function buildFeaturedItemNode(item) {
+  const row = document.createElement("a");
+  row.className = "featured-item";
+  row.href = item.url || "#";
+  row.target = "_blank";
+  row.rel = "noopener noreferrer";
+
+  const dateEl = document.createElement("span");
+  dateEl.className = "d";
+  dateEl.textContent = fmtTime(item.published_at);
+
+  const textWrap = document.createElement("div");
+  textWrap.className = "featured-text";
+  const titleEl = document.createElement("strong");
+  titleEl.className = "t";
+  titleEl.textContent = item.title || "未命名更新";
+  textWrap.appendChild(titleEl);
+
+  const source = (item.source || "").trim();
+  const summary = (item.summary || "").trim();
+  if (source || summary) {
+    const summaryEl = document.createElement("p");
+    summaryEl.className = "s";
+    summaryEl.textContent = [source, summary].filter(Boolean).join(" · ");
+    textWrap.appendChild(summaryEl);
+  }
+
+  row.append(dateEl, textWrap);
+  return row;
+}
+
 function renderWaytoagi(waytoagi) {
   const { updates7d, updatesToday, latestDate } = waytoagiViews(waytoagi);
   if (waytoagiTodayBtnEl) waytoagiTodayBtnEl.classList.toggle("active", state.waytoagiMode === "today");
@@ -1327,6 +1452,12 @@ async function loadWaytoagiData() {
   return res.json();
 }
 
+async function loadFeaturedSourcesData() {
+  const res = await fetch(`./data/featured-sources.json?t=${Date.now()}`);
+  if (!res.ok) throw new Error(`加载 featured-sources.json 失败: ${res.status}`);
+  return res.json();
+}
+
 async function loadSourceStatusData() {
   const res = await fetch(`./data/source-status.json?t=${Date.now()}`);
   if (!res.ok) throw new Error(`加载 source-status.json 失败: ${res.status}`);
@@ -1401,8 +1532,9 @@ async function runAiCuratedSearch() {
 }
 
 async function init() {
-  const [newsResult, waytoagiResult, statusResult] = await Promise.allSettled([
+  const [newsResult, featuredResult, waytoagiResult, statusResult] = await Promise.allSettled([
     loadNewsData(),
+    loadFeaturedSourcesData(),
     loadWaytoagiData(),
     loadSourceStatusData(),
   ]);
@@ -1439,6 +1571,18 @@ async function init() {
   } else {
     renderSourceHealth(statusResult.reason.message);
     renderCoverageStrip(statusResult.reason.message);
+  }
+
+  if (featuredResult.status === "fulfilled") {
+    state.featuredData = featuredResult.value;
+    renderFeaturedSources(state.featuredData);
+  } else {
+    featuredUpdatedAtEl.textContent = "加载失败";
+    featuredListEl.innerHTML = "";
+    const div = document.createElement("div");
+    div.className = "featured-error";
+    div.textContent = featuredResult.reason.message;
+    featuredListEl.appendChild(div);
   }
 
   if (waytoagiResult.status === "fulfilled") {
@@ -1599,6 +1743,20 @@ if (waytoagi7dBtnEl) {
   waytoagi7dBtnEl.addEventListener("click", () => {
     state.waytoagiMode = "7d";
     if (state.waytoagiData) renderWaytoagi(state.waytoagiData);
+  });
+}
+
+if (featuredDomesticBtnEl) {
+  featuredDomesticBtnEl.addEventListener("click", () => {
+    state.featuredRegion = "domestic";
+    if (state.featuredData) renderFeaturedSources(state.featuredData);
+  });
+}
+
+if (featuredGlobalBtnEl) {
+  featuredGlobalBtnEl.addEventListener("click", () => {
+    state.featuredRegion = "global";
+    if (state.featuredData) renderFeaturedSources(state.featuredData);
   });
 }
 
