@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-06T09:40:09.686033Z",
+  "generated_at": "2026-05-06T11:40:59.302512Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 177,
-      "duration_ms": 4582,
+      "item_count": 178,
+      "duration_ms": 3968,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 900,
+      "duration_ms": 1048,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 27,
-      "duration_ms": 423,
+      "duration_ms": 169,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 448,
+      "duration_ms": 462,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 361,
+      "duration_ms": 404,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 455,
-      "duration_ms": 11221,
+      "item_count": 484,
+      "duration_ms": 13189,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1251,
+      "duration_ms": 637,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3042,
-      "duration_ms": 1287,
+      "item_count": 3038,
+      "duration_ms": 1689,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 76,
-      "duration_ms": 551,
+      "item_count": 78,
+      "duration_ms": 436,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 379,
+      "duration_ms": 232,
       "error": null
     },
     {
@@ -86,34 +86,215 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1645,
+      "duration_ms": 1660,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 146,
-      "duration_ms": 294,
+      "item_count": 145,
+      "duration_ms": 328,
       "error": null
+    },
+    {
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "ok": true,
+      "partial_failures": 0,
+      "item_count": 343,
+      "duration_ms": 12156,
+      "error": null,
+      "feed_count": 11,
+      "effective_feed_count": 9,
+      "ok_feed_count": 11,
+      "failed_feed_count": 0,
+      "skipped_feed_count": 2,
+      "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 12,
+  "successful_sites": 13,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5103,
-  "items_before_topic_filter": 5199,
-  "items_in_24h": 626,
+  "fetched_raw_items": 5473,
+  "items_before_topic_filter": 5497,
+  "items_in_24h": 682,
   "rss_opml": {
-    "enabled": false,
-    "path": null,
-    "feed_total": 0,
-    "effective_feed_total": 0,
-    "ok_feeds": 0,
+    "enabled": true,
+    "path": "configured",
+    "feed_total": 11,
+    "effective_feed_total": 9,
+    "ok_feeds": 9,
     "failed_feeds": [],
-    "zero_item_feeds": [],
-    "skipped_feeds": [],
+    "zero_item_feeds": [
+      "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e"
+    ],
+    "skipped_feeds": [
+      {
+        "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
+        "reason": "no_official_rss_for_source_type"
+      },
+      {
+        "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+        "reason": "no_official_rss_for_source_type"
+      }
+    ],
     "replaced_feeds": [],
-    "feeds": []
+    "feeds": [
+      {
+        "site_id": "opmlrss:1b35f59b92",
+        "site_name": "OPML RSS",
+        "feed_title": "AIGC Weekly",
+        "feed_url": "https://quaily.com/op7418/feed/atom",
+        "effective_feed_url": "https://quaily.com/op7418/feed/atom",
+        "ok": true,
+        "item_count": 40,
+        "duration_ms": 435,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:20777356b4",
+        "site_name": "OPML RSS",
+        "feed_title": "Anthropic News",
+        "feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
+        "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
+        "ok": true,
+        "item_count": 9,
+        "duration_ms": 1259,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:ad3b5bab39",
+        "site_name": "OPML RSS",
+        "feed_title": "Anthropic Research",
+        "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+        "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+        "ok": true,
+        "item_count": 16,
+        "duration_ms": 93,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:080a366369",
+        "site_name": "OPML RSS",
+        "feed_title": "Google AI(@GoogleAI)",
+        "feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
+        "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 931,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:d3688717a0",
+        "site_name": "OPML RSS",
+        "feed_title": "Google Gemini(@GeminiApp)",
+        "feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
+        "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 839,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:2df82173bb",
+        "site_name": "OPML RSS",
+        "feed_title": "Importing",
+        "feed_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
+        "effective_feed_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
+        "ok": true,
+        "item_count": 0,
+        "duration_ms": 4646,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:cf513f1496",
+        "site_name": "OPML RSS",
+        "feed_title": "OpenAI(@OpenAI)",
+        "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
+        "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1057,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:c6b83c8611",
+        "site_name": "OPML RSS",
+        "feed_title": "卡尔的AI沃茨",
+        "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
+        "effective_feed_url": null,
+        "ok": true,
+        "item_count": 0,
+        "duration_ms": 0,
+        "error": null,
+        "skipped": true,
+        "skip_reason": "no_official_rss_for_source_type",
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:377b66a10b",
+        "site_name": "OPML RSS",
+        "feed_title": "数字生命卡兹克",
+        "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+        "effective_feed_url": null,
+        "ok": true,
+        "item_count": 0,
+        "duration_ms": 0,
+        "error": null,
+        "skipped": true,
+        "skip_reason": "no_official_rss_for_source_type",
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:2b62d3b418",
+        "site_name": "OPML RSS",
+        "feed_title": "橘鸦AI早报",
+        "feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "ok": true,
+        "item_count": 78,
+        "duration_ms": 1853,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:3ebe098b86",
+        "site_name": "OPML RSS",
+        "feed_title": "歸藏(guizang.ai)(@op7418)",
+        "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
+        "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1043,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      }
+    ]
   }
 }
