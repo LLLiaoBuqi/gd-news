@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T15:59:17.015251Z",
+  "generated_at": "2026-05-06T17:45:24.443138Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 14,
   "feed_total": 10,
   "ok_feeds": 10,
   "failed_feeds": [],
@@ -16,7 +16,7 @@
       "effective_feed_url": "https://quaily.com/op7418/feed/atom",
       "ok": true,
       "item_count": 40,
-      "duration_ms": 376,
+      "duration_ms": 270,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -30,7 +30,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 551,
+      "duration_ms": 844,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -44,7 +44,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 197,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -58,7 +58,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1254,
+      "duration_ms": 1496,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -72,7 +72,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1155,
+      "duration_ms": 1478,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -86,7 +86,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1362,
+      "duration_ms": 1378,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -100,7 +100,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2001,
+      "duration_ms": 2215,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -114,7 +114,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1617,
+      "duration_ms": 2005,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -128,7 +128,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 78,
-      "duration_ms": 2179,
+      "duration_ms": 2150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -142,7 +142,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1419,
+      "duration_ms": 1557,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -152,11 +152,33 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "6dee6f9fc71e222c1488272d348b82a6c9a8991b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Pro MAX 和 Team 五小时速率限制翻倍，同时减少峰值的限制，峰值限制居然还没完全去掉，算力还是不太够看来",
+          "url": "https://x.com/op7418/status/2052068412688629946",
+          "published_at": "2026-05-06T16:50:09Z",
+          "summary": "Pro MAX 和 Team 五小时速率限制翻倍，同时减少峰值的限制，峰值限制居然还没完全去掉，算力还是不太够看来💬1🔄0❤️3👀773📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "901bec0a5177df87e7f8f5c6fbc47ef9686c05e6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Anthropic 又从 SpaceX 买了一些算力，看起来最近估计算力问题能缓解一下，Opus 4.6 估计状态要正常了",
+          "url": "https://x.com/op7418/status/2052061499615805550",
+          "published_at": "2026-05-06T16:22:41Z",
+          "summary": "Anthropic 又从 SpaceX 买了一些算力，看起来最近估计算力问题能缓解一下，Opus 4.6 估计状态要正常了Claude@claudeaiWe’ve agreed to a partnership with @SpaceX that will substantially increase our compute capacity. This, along with our other recent compute deals, means that we’ve been able to increase our usage limits f…"
+        },
         {
           "id": "c22e2f36b93490442d83d42cb71e63f1b9d3976b",
           "site_id": "featuredrss",
@@ -166,7 +188,7 @@
           "title": "说一下，这两部剧不是 AI 啊，我只是让大家可以参考一下这个质量，都是实拍。",
           "url": "https://x.com/op7418/status/2051927058021052903",
           "published_at": "2026-05-06T07:28:28Z",
-          "summary": "说一下，这两部剧不是 AI 啊，我只是让大家可以参考一下这个质量，都是实拍。💬0🔄0❤️4👀3374📊1⚡ Powered by xgo.ing"
+          "summary": "说一下，这两部剧不是 AI 啊，我只是让大家可以参考一下这个质量，都是实拍。💬0🔄0❤️4👀3653📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "b0bc570e19642cff9b49377bca27d22941a8d812",
@@ -188,7 +210,7 @@
           "title": "Enemy 这里看：https://t.co/1uyI8TvnM7",
           "url": "https://x.com/op7418/status/2051867786146885987",
           "published_at": "2026-05-06T03:32:56Z",
-          "summary": "Enemy 这里看：bilibili.com/video/BV1Mo98B…💬1🔄2❤️10👀6431📊4⚡ Powered by xgo.ing"
+          "summary": "Enemy 这里看：bilibili.com/video/BV1Mo98B…💬1🔄2❤️10👀6761📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "59d49eb03b0c3391f2e9a1b8af01ad486e86e79c",
@@ -199,7 +221,7 @@
           "title": "最近有两个非常出圈、非常牛逼的短剧：\n\n一个是《Enemy》，一个是《吉时已到》，可以看看\n\n热度爆表，制作效果也很好，成本不高\n\n如果要做 AI 内容，或者说做 AI 短剧之类的内容的话可以把这两个...",
           "url": "https://x.com/op7418/status/2051866758332735838",
           "published_at": "2026-05-06T03:28:51Z",
-          "summary": "最近有两个非常出圈、非常牛逼的短剧： 一个是《Enemy》，一个是《吉时已到》，可以看看 热度爆表，制作效果也很好，成本不高 如果要做 AI 内容，或者说做 AI 短剧之类的内容的话可以把这两个剧当成暂时的质量标杆去对齐💬63🔄22❤️161👀25730📊96⚡ Powered by xgo.ing"
+          "summary": "最近有两个非常出圈、非常牛逼的短剧： 一个是《Enemy》，一个是《吉时已到》，可以看看 热度爆表，制作效果也很好，成本不高 如果要做 AI 内容，或者说做 AI 短剧之类的内容的话可以把这两个剧当成暂时的质量标杆去对齐💬65🔄24❤️177👀27575📊102⚡ Powered by xgo.ing"
         },
         {
           "id": "d42c70accbe83d89b91921563a7e1a525acbea97",
@@ -233,23 +255,12 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-81",
           "published_at": "2026-05-06T01:30:36Z",
           "summary": "AI 早报 2026-05-06 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 GPT-5.5 Instant，ChatGPT 增强记忆功能 ↗ #1 模型发布 Google DeepMind 为 Gemma 4 系列模型开源了 MTP drafter ↗ #2 Subquadratic 推出 SubQ，上下文窗口达 1200 万 token ↗ #3 Inworld AI 发布 Realtime TTS-2，支持跨语言实时对话 ↗ #4 Luma 开放 UNI-1.1 系列模型 API，Image Arena 排名全球实验室第三…"
-        },
-        {
-          "id": "91fea3d723550d379a030adf311f74d12d7fd7a8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "AIGC Weekly",
-          "region": "domestic",
-          "title": "AIGC Weekly #169",
-          "url": "https://quaily.com/op7418/p/aigc-weekly-ghbxd7l1",
-          "published_at": "2026-05-05T16:29:28Z",
-          "summary": "欢迎收看第 169 期 AIGC 周刊"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 9,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
@@ -263,7 +274,7 @@
           "title": "Listen to the OpenAI Podcast on—\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/0AdZ1ZteOV\nYouTu...",
           "url": "https://x.com/OpenAI/status/2052039804288946368",
           "published_at": "2026-05-06T14:56:29Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/ope… YouTube youtube.com/watch?v=TiW96H…💬6🔄1❤️52👀16338📊9⚡ Powered by xgo.ing"
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/ope… YouTube youtube.com/watch?v=TiW96H…💬6🔄4❤️74👀31765📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "072cb25f1c9297d8870126b8e18b840c9545afdd",
@@ -285,7 +296,7 @@
           "title": "We’ve partnered with @AMD, @Broadcom, @Intel, @Microsoft, and @NVIDIA, to release Multipath Reliable...",
           "url": "https://x.com/OpenAI/status/2052025532485902368",
           "published_at": "2026-05-06T13:59:46Z",
-          "summary": "We’ve partnered with @AMD, @Broadcom, @Intel, @Microsoft, and @NVIDIA, to release Multipath Reliable Connection (MRC), a new open networking protocol that helps large AI training clusters run faster and more reliably, with less wasted GPU time. openai.com/index/mrc-supe…💬120🔄217❤…"
+          "summary": "We’ve partnered with @AMD, @Broadcom, @Intel, @Microsoft, and @NVIDIA, to release Multipath Reliable Connection (MRC), a new open networking protocol that helps large AI training clusters run faster and more reliably, with less wasted GPU time. openai.com/index/mrc-supe…💬144🔄336❤…"
         },
         {
           "id": "2680eead0993ce6d558698699c2bb98641fab8ad",
@@ -307,56 +318,34 @@
           "title": "The Gemini Paddock this past weekend was a blast. @McLarenF1 classic cars, custom helmets, the Gemin...",
           "url": "https://x.com/GeminiApp/status/2051731867335073868",
           "published_at": "2026-05-05T18:32:51Z",
-          "summary": "The Gemini Paddock this past weekend was a blast. @McLarenF1 classic cars, custom helmets, the Gemini photobooth, and unrivaled energy. Thank you, Papaya Army. 🧡#McLarenRacingLiveeYour browser does not support the video tag.🔗 View on Twitter💬28🔄19❤️188👀20498📊44⚡ Powered by xgo.in…"
-        },
-        {
-          "id": "f276feb462549bd08f3885c3238b2767decafad0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-5.5 Instant is rolling out over the next two days as the default model to all ChatGPT users, and...",
-          "url": "https://x.com/OpenAI/status/2051709035347694047",
-          "published_at": "2026-05-05T17:02:07Z",
-          "summary": "GPT-5.5 Instant is rolling out over the next two days as the default model to all ChatGPT users, and as ‘gpt-5.5-chat-latest’ in the API. Personalization improvements are rolling out to Plus and Pro users on the web, and soon on mobile. Memory sources are rolling out across all C…"
-        },
-        {
-          "id": "23de287c4622d3c02dde461f3629deb3b8b58692",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re also improving memory and personalization.\n\nChatGPT can now better use context from saved memo...",
-          "url": "https://x.com/OpenAI/status/2051709033414025647",
-          "published_at": "2026-05-05T17:02:07Z",
-          "summary": "We’re also improving memory and personalization. ChatGPT can now better use context from saved memories, past chats, files, and connected Gmail accounts to give more personalized responses. Memory sources show what relevant context was used to personalize a response and allow you…"
-        },
-        {
-          "id": "c620b10fb7bbb2f54217e4a9fb8ee064387d9bcf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-5.5 Instant is more dependable, with significant improvements in factuality, especially in domai...",
-          "url": "https://x.com/OpenAI/status/2051709030117290481",
-          "published_at": "2026-05-05T17:02:06Z",
-          "summary": "GPT-5.5 Instant is more dependable, with significant improvements in factuality, especially in domains where accuracy matters most, like medicine, law, and finance. It’s also stronger across everyday tasks, from analyzing image uploads to answering STEM questions to knowing when…"
-        },
-        {
-          "id": "d1e3f8e6babd045ce22a7e8f3ba800d5984c8e6f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-5.5 Instant is starting to roll out in ChatGPT.\n\nIt’s a big upgrade, giving you smarter, clearer...",
-          "url": "https://x.com/OpenAI/status/2051709028250915275",
-          "published_at": "2026-05-05T17:02:05Z",
-          "summary": "GPT-5.5 Instant is starting to roll out in ChatGPT. It’s a big upgrade, giving you smarter, clearer, and more personalized answers in a warmer, more natural tone. And it's also more concise, which we heard you wanted. We think you'll love chatting with it.Your browser does not su…"
+          "summary": "The Gemini Paddock this past weekend was a blast. @McLarenF1 classic cars, custom helmets, the Gemini photobooth, and unrivaled energy. Thank you, Papaya Army. 🧡#McLarenRacingLiveeYour browser does not support the video tag.🔗 View on Twitter💬29🔄19❤️197👀21417📊46⚡ Powered by xgo.in…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "6dee6f9fc71e222c1488272d348b82a6c9a8991b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Pro MAX 和 Team 五小时速率限制翻倍，同时减少峰值的限制，峰值限制居然还没完全去掉，算力还是不太够看来",
+      "url": "https://x.com/op7418/status/2052068412688629946",
+      "published_at": "2026-05-06T16:50:09Z",
+      "summary": "Pro MAX 和 Team 五小时速率限制翻倍，同时减少峰值的限制，峰值限制居然还没完全去掉，算力还是不太够看来💬1🔄0❤️3👀773📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "901bec0a5177df87e7f8f5c6fbc47ef9686c05e6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anthropic 又从 SpaceX 买了一些算力，看起来最近估计算力问题能缓解一下，Opus 4.6 估计状态要正常了",
+      "url": "https://x.com/op7418/status/2052061499615805550",
+      "published_at": "2026-05-06T16:22:41Z",
+      "summary": "Anthropic 又从 SpaceX 买了一些算力，看起来最近估计算力问题能缓解一下，Opus 4.6 估计状态要正常了Claude@claudeaiWe’ve agreed to a partnership with @SpaceX that will substantially increase our compute capacity. This, along with our other recent compute deals, means that we’ve been able to increase our usage limits f…"
+    },
     {
       "id": "29c32ed5fc84c5f17150da5a45bc65e08c01daba",
       "site_id": "featuredrss",
@@ -366,7 +355,7 @@
       "title": "Listen to the OpenAI Podcast on—\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/0AdZ1ZteOV\nYouTu...",
       "url": "https://x.com/OpenAI/status/2052039804288946368",
       "published_at": "2026-05-06T14:56:29Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/ope… YouTube youtube.com/watch?v=TiW96H…💬6🔄1❤️52👀16338📊9⚡ Powered by xgo.ing"
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/ope… YouTube youtube.com/watch?v=TiW96H…💬6🔄4❤️74👀31765📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "072cb25f1c9297d8870126b8e18b840c9545afdd",
@@ -388,7 +377,7 @@
       "title": "We’ve partnered with @AMD, @Broadcom, @Intel, @Microsoft, and @NVIDIA, to release Multipath Reliable...",
       "url": "https://x.com/OpenAI/status/2052025532485902368",
       "published_at": "2026-05-06T13:59:46Z",
-      "summary": "We’ve partnered with @AMD, @Broadcom, @Intel, @Microsoft, and @NVIDIA, to release Multipath Reliable Connection (MRC), a new open networking protocol that helps large AI training clusters run faster and more reliably, with less wasted GPU time. openai.com/index/mrc-supe…💬120🔄217❤…"
+      "summary": "We’ve partnered with @AMD, @Broadcom, @Intel, @Microsoft, and @NVIDIA, to release Multipath Reliable Connection (MRC), a new open networking protocol that helps large AI training clusters run faster and more reliably, with less wasted GPU time. openai.com/index/mrc-supe…💬144🔄336❤…"
     },
     {
       "id": "2680eead0993ce6d558698699c2bb98641fab8ad",
@@ -410,7 +399,7 @@
       "title": "说一下，这两部剧不是 AI 啊，我只是让大家可以参考一下这个质量，都是实拍。",
       "url": "https://x.com/op7418/status/2051927058021052903",
       "published_at": "2026-05-06T07:28:28Z",
-      "summary": "说一下，这两部剧不是 AI 啊，我只是让大家可以参考一下这个质量，都是实拍。💬0🔄0❤️4👀3374📊1⚡ Powered by xgo.ing"
+      "summary": "说一下，这两部剧不是 AI 啊，我只是让大家可以参考一下这个质量，都是实拍。💬0🔄0❤️4👀3653📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "b0bc570e19642cff9b49377bca27d22941a8d812",
@@ -432,7 +421,7 @@
       "title": "Enemy 这里看：https://t.co/1uyI8TvnM7",
       "url": "https://x.com/op7418/status/2051867786146885987",
       "published_at": "2026-05-06T03:32:56Z",
-      "summary": "Enemy 这里看：bilibili.com/video/BV1Mo98B…💬1🔄2❤️10👀6431📊4⚡ Powered by xgo.ing"
+      "summary": "Enemy 这里看：bilibili.com/video/BV1Mo98B…💬1🔄2❤️10👀6761📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "59d49eb03b0c3391f2e9a1b8af01ad486e86e79c",
@@ -443,7 +432,7 @@
       "title": "最近有两个非常出圈、非常牛逼的短剧：\n\n一个是《Enemy》，一个是《吉时已到》，可以看看\n\n热度爆表，制作效果也很好，成本不高\n\n如果要做 AI 内容，或者说做 AI 短剧之类的内容的话可以把这两个...",
       "url": "https://x.com/op7418/status/2051866758332735838",
       "published_at": "2026-05-06T03:28:51Z",
-      "summary": "最近有两个非常出圈、非常牛逼的短剧： 一个是《Enemy》，一个是《吉时已到》，可以看看 热度爆表，制作效果也很好，成本不高 如果要做 AI 内容，或者说做 AI 短剧之类的内容的话可以把这两个剧当成暂时的质量标杆去对齐💬63🔄22❤️161👀25730📊96⚡ Powered by xgo.ing"
+      "summary": "最近有两个非常出圈、非常牛逼的短剧： 一个是《Enemy》，一个是《吉时已到》，可以看看 热度爆表，制作效果也很好，成本不高 如果要做 AI 内容，或者说做 AI 短剧之类的内容的话可以把这两个剧当成暂时的质量标杆去对齐💬65🔄24❤️177👀27575📊102⚡ Powered by xgo.ing"
     },
     {
       "id": "d42c70accbe83d89b91921563a7e1a525acbea97",
@@ -487,62 +476,7 @@
       "title": "The Gemini Paddock this past weekend was a blast. @McLarenF1 classic cars, custom helmets, the Gemin...",
       "url": "https://x.com/GeminiApp/status/2051731867335073868",
       "published_at": "2026-05-05T18:32:51Z",
-      "summary": "The Gemini Paddock this past weekend was a blast. @McLarenF1 classic cars, custom helmets, the Gemini photobooth, and unrivaled energy. Thank you, Papaya Army. 🧡#McLarenRacingLiveeYour browser does not support the video tag.🔗 View on Twitter💬28🔄19❤️188👀20498📊44⚡ Powered by xgo.in…"
-    },
-    {
-      "id": "f276feb462549bd08f3885c3238b2767decafad0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-5.5 Instant is rolling out over the next two days as the default model to all ChatGPT users, and...",
-      "url": "https://x.com/OpenAI/status/2051709035347694047",
-      "published_at": "2026-05-05T17:02:07Z",
-      "summary": "GPT-5.5 Instant is rolling out over the next two days as the default model to all ChatGPT users, and as ‘gpt-5.5-chat-latest’ in the API. Personalization improvements are rolling out to Plus and Pro users on the web, and soon on mobile. Memory sources are rolling out across all C…"
-    },
-    {
-      "id": "23de287c4622d3c02dde461f3629deb3b8b58692",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re also improving memory and personalization.\n\nChatGPT can now better use context from saved memo...",
-      "url": "https://x.com/OpenAI/status/2051709033414025647",
-      "published_at": "2026-05-05T17:02:07Z",
-      "summary": "We’re also improving memory and personalization. ChatGPT can now better use context from saved memories, past chats, files, and connected Gmail accounts to give more personalized responses. Memory sources show what relevant context was used to personalize a response and allow you…"
-    },
-    {
-      "id": "c620b10fb7bbb2f54217e4a9fb8ee064387d9bcf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-5.5 Instant is more dependable, with significant improvements in factuality, especially in domai...",
-      "url": "https://x.com/OpenAI/status/2051709030117290481",
-      "published_at": "2026-05-05T17:02:06Z",
-      "summary": "GPT-5.5 Instant is more dependable, with significant improvements in factuality, especially in domains where accuracy matters most, like medicine, law, and finance. It’s also stronger across everyday tasks, from analyzing image uploads to answering STEM questions to knowing when…"
-    },
-    {
-      "id": "d1e3f8e6babd045ce22a7e8f3ba800d5984c8e6f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-5.5 Instant is starting to roll out in ChatGPT.\n\nIt’s a big upgrade, giving you smarter, clearer...",
-      "url": "https://x.com/OpenAI/status/2051709028250915275",
-      "published_at": "2026-05-05T17:02:05Z",
-      "summary": "GPT-5.5 Instant is starting to roll out in ChatGPT. It’s a big upgrade, giving you smarter, clearer, and more personalized answers in a warmer, more natural tone. And it's also more concise, which we heard you wanted. We think you'll love chatting with it.Your browser does not su…"
-    },
-    {
-      "id": "91fea3d723550d379a030adf311f74d12d7fd7a8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "AIGC Weekly",
-      "region": "domestic",
-      "title": "AIGC Weekly #169",
-      "url": "https://quaily.com/op7418/p/aigc-weekly-ghbxd7l1",
-      "published_at": "2026-05-05T16:29:28Z",
-      "summary": "欢迎收看第 169 期 AIGC 周刊"
+      "summary": "The Gemini Paddock this past weekend was a blast. @McLarenF1 classic cars, custom helmets, the Gemini photobooth, and unrivaled energy. Thank you, Papaya Army. 🧡#McLarenRacingLiveeYour browser does not support the video tag.🔗 View on Twitter💬29🔄19❤️197👀21417📊46⚡ Powered by xgo.in…"
     }
   ]
 }
