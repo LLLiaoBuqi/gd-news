@@ -19,3 +19,9 @@ alwaysApply: true
 
 - `.venv/bin/python -m py_compile scripts/update_news.py`
 - `.venv/bin/python -m pytest -q`
+
+# GitHub 协作方式
+
+- 用户是 GitHub 小白。涉及 GitHub、GitHub Actions、Pages、fork、branch、commit、push、PR、workflow permissions 等操作时，优先由 Agent 使用可用工具自动完成。
+- 如果某个 GitHub 操作必须用户在网页上手动完成，Agent 要一步步说明点击哪里、看哪个页面元素、预期会出现什么结果。
+- 不要只给抽象概念或链接；要把命令、页面路径和下一步验证方式说清楚。
