@@ -178,6 +178,47 @@ class UtilsTests(unittest.TestCase):
         self.assertEqual(payload["groups"]["global"]["failed_feeds"], ["https://api.xgo.ing/rss/user/openai"])
         self.assertNotIn("WaytoAGI", json.dumps(payload, ensure_ascii=False))
 
+    def test_featured_sources_payload_filters_low_signal_guizang_notes(self):
+        now = datetime(2026, 5, 7, 6, 0, tzinfo=timezone.utc)
+        source = "歸藏(guizang.ai)(@op7418)"
+        items = [
+            RawItem(
+                site_id="featuredrss",
+                site_name="常看博主精选",
+                source=source,
+                title="感觉后面 Mac Studio 估计也会供不应求，我还是先买一个吧",
+                url="https://x.com/op7418/status/1",
+                published_at=datetime(2026, 5, 7, 5, 0, tzinfo=timezone.utc),
+                meta={},
+                summary="感觉后面 Mac Studio 估计也会供不应求，我还是先买一个吧",
+            ),
+            RawItem(
+                site_id="featuredrss",
+                site_name="常看博主精选",
+                source=source,
+                title="5 千多 Star 了，上涨速度真快啊",
+                url="https://x.com/op7418/status/2",
+                published_at=datetime(2026, 5, 7, 4, 0, tzinfo=timezone.utc),
+                meta={},
+                summary="5 千多 Star 了，上涨速度真快啊",
+            ),
+            RawItem(
+                site_id="featuredrss",
+                site_name="常看博主精选",
+                source=source,
+                title="Obsidian 作者这两条推很有意思。Markdown 文件已经事实上成为了当前 AI 文件交互的一个 Schelling point。",
+                url="https://x.com/op7418/status/3",
+                published_at=datetime(2026, 5, 7, 3, 0, tzinfo=timezone.utc),
+                meta={},
+                summary="Markdown 赢得了 AI 时代文本格式的战争。",
+            ),
+        ]
+
+        payload = build_featured_sources_payload(now, items, [], window_hours=24, enabled=True)
+
+        self.assertEqual(payload["total_items"], 1)
+        self.assertEqual(payload["items"][0]["title"], items[2].title)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-07T05:45:02.567481Z",
+  "generated_at": "2026-05-07T06:10:31.346202Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 5687,
+      "duration_ms": 62452,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 558,
+      "duration_ms": 4255,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 257,
+      "duration_ms": 5047,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 304,
+      "duration_ms": 3202,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 389,
+      "duration_ms": 7172,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 404,
-      "duration_ms": 13335,
+      "item_count": 412,
+      "duration_ms": 45883,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1079,
+      "duration_ms": 7619,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3047,
-      "duration_ms": 1328,
+      "item_count": 3046,
+      "duration_ms": 6237,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 78,
-      "duration_ms": 343,
+      "duration_ms": 3848,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 317,
+      "duration_ms": 8260,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2108,
+      "duration_ms": 1739,
       "error": null
     },
     {
@@ -94,38 +94,40 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 145,
-      "duration_ms": 466,
+      "duration_ms": 5151,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 0,
+      "partial_failures": 1,
       "item_count": 344,
-      "duration_ms": 11654,
-      "error": null,
-      "feed_count": 11,
-      "effective_feed_count": 9,
-      "ok_feed_count": 11,
-      "failed_feed_count": 0,
-      "skipped_feed_count": 2,
+      "duration_ms": 38217,
+      "error": "1 feeds failed",
+      "feed_count": 13,
+      "effective_feed_count": 10,
+      "ok_feed_count": 12,
+      "failed_feed_count": 1,
+      "skipped_feed_count": 3,
       "replaced_feed_count": 0
     }
   ],
   "successful_sites": 13,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5432,
-  "items_before_topic_filter": 7990,
-  "items_in_24h": 884,
+  "fetched_raw_items": 5439,
+  "items_before_topic_filter": 8192,
+  "items_in_24h": 896,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
-    "feed_total": 11,
-    "effective_feed_total": 9,
+    "feed_total": 13,
+    "effective_feed_total": 10,
     "ok_feeds": 9,
-    "failed_feeds": [],
+    "failed_feeds": [
+      "rsshub://bilibili/user/video/385670211"
+    ],
     "zero_item_feeds": [
       "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e"
     ],
@@ -136,6 +138,10 @@
       },
       {
         "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+        "reason": "no_official_rss_for_source_type"
+      },
+      {
+        "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
         "reason": "no_official_rss_for_source_type"
       }
     ],
@@ -149,7 +155,7 @@
         "effective_feed_url": "https://quaily.com/op7418/feed/atom",
         "ok": true,
         "item_count": 40,
-        "duration_ms": 432,
+        "duration_ms": 3862,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -163,7 +169,7 @@
         "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
         "ok": true,
         "item_count": 9,
-        "duration_ms": 712,
+        "duration_ms": 5233,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -177,7 +183,7 @@
         "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
         "ok": true,
         "item_count": 16,
-        "duration_ms": 40,
+        "duration_ms": 1115,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -191,7 +197,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 412,
+        "duration_ms": 3953,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -205,7 +211,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 739,
+        "duration_ms": 4081,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -219,7 +225,7 @@
         "effective_feed_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 6186,
+        "duration_ms": 5638,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -233,7 +239,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 535,
+        "duration_ms": 4589,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -275,7 +281,7 @@
         "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
         "ok": true,
         "item_count": 79,
-        "duration_ms": 1799,
+        "duration_ms": 5658,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -289,10 +295,38 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 799,
+        "duration_ms": 4087,
         "error": null,
         "skipped": false,
         "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:512d4376fa",
+        "site_name": "OPML RSS",
+        "feed_title": "秋芝2046 的 bilibili 空间",
+        "feed_url": "rsshub://bilibili/user/video/385670211",
+        "effective_feed_url": "rsshub://bilibili/user/video/385670211",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 1,
+        "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:955f76cb56",
+        "site_name": "OPML RSS",
+        "feed_title": "阿真Irene",
+        "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
+        "effective_feed_url": null,
+        "ok": true,
+        "item_count": 0,
+        "duration_ms": 0,
+        "error": null,
+        "skipped": true,
+        "skip_reason": "no_official_rss_for_source_type",
         "replaced": false
       }
     ]

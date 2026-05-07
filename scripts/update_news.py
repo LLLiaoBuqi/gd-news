@@ -97,6 +97,46 @@ FEATURED_GLOBAL_KEYWORDS: tuple[str, ...] = (
     "api.xgo.ing",
 )
 
+GUIZHANG_SOURCE_KEYWORDS: tuple[str, ...] = (
+    "guizang",
+    "op7418",
+    "歸藏",
+    "归藏",
+)
+
+GUIZHANG_CONTENT_KEYWORDS: tuple[str, ...] = (
+    "ai",
+    "agent",
+    "agents",
+    "aigc",
+    "claude",
+    "openai",
+    "anthropic",
+    "cursor",
+    "codex",
+    "gemini",
+    "gpt",
+    "llm",
+    "mcp",
+    "obsidian",
+    "markdown",
+    "模型",
+    "智能体",
+    "工具",
+    "产品",
+    "提示词",
+    "开源",
+    "算力",
+    "文件交互",
+)
+
+GUIZHANG_LOW_SIGNAL_KEYWORDS: tuple[str, ...] = (
+    "我还是先买一个吧",
+    "上涨速度真快",
+    "供不应求",
+    "买一个",
+)
+
 RSS_FEED_SKIP_EXACT: set[str] = {
     "https://rachelbythebay.com/w/atom.xml",
     "https://flak.tedunangst.com/rss",
@@ -2060,6 +2100,24 @@ def is_excluded_featured_source(source: str, url: str = "") -> bool:
     return featured_text_matches(f"{source} {url}", FEATURED_EXCLUDED_SOURCE_KEYWORDS)
 
 
+def is_guizang_source(source: str, url: str = "") -> bool:
+    return featured_text_matches(f"{source} {url}", GUIZHANG_SOURCE_KEYWORDS)
+
+
+def is_low_signal_guizang_featured_item(source: str, title: str, summary: str | None, url: str = "") -> bool:
+    if not is_guizang_source(source, url):
+        return False
+    text = f"{title} {summary or ''}"
+    if featured_text_matches(text, GUIZHANG_CONTENT_KEYWORDS):
+        return False
+    if featured_text_matches(text, GUIZHANG_LOW_SIGNAL_KEYWORDS):
+        return True
+    compact = re.sub(r"\s+", "", text)
+    if "star" in compact.casefold() and len(compact) <= 80:
+        return True
+    return False
+
+
 def featured_source_region(source: str, url: str = "") -> str:
     text = f"{source} {url}"
     if featured_text_matches(text, FEATURED_DOMESTIC_KEYWORDS):
@@ -2268,6 +2326,9 @@ def build_featured_sources_payload(
         url = normalize_url(raw.url)
         if not title or not url.startswith("http"):
             continue
+        raw_summary = maybe_fix_mojibake(raw.summary or "").strip()
+        if is_low_signal_guizang_featured_item(raw.source, title, raw_summary, url):
+            continue
         item_id = make_item_id(raw.site_id, raw.source, title, url)
         if item_id in seen_ids:
             continue
@@ -2283,7 +2344,7 @@ def build_featured_sources_payload(
             "title": title,
             "url": url,
             "published_at": iso(raw.published_at),
-            "summary": maybe_fix_mojibake(raw.summary or "").strip() or None,
+            "summary": raw_summary or None,
         }
         records.append(record)
 
