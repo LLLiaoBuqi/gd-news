@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T11:51:41.518042Z",
+  "generated_at": "2026-05-08T13:18:10.842575Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 734,
+      "duration_ms": 1655,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 16,
+      "duration_ms": 166,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1160,
+      "duration_ms": 1041,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1561,
+      "duration_ms": 1117,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1391,
+      "duration_ms": 1113,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2429,
+      "duration_ms": 2069,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1727,
+      "duration_ms": 1515,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 2345,
+      "duration_ms": 2530,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1438,
+      "duration_ms": 1026,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2497,
+      "duration_ms": 2539,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "7c7e0962809f788666ac89c190676c75fd539cf7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "OpenAI Codex还是把AI浏览器们干掉了。。。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506934&idx=1&sn=6626bfb45b931de96727c330e7e1cbe2",
+          "published_at": "2026-05-08T09:18:00Z",
+          "summary": "卡尔的AI沃茨 2026-05-08 17:18 云南 新鲜出炉的Codex for Chrome扩展，Codex能直接上手浏览器里的网页和应用操作，跟原来的Broswer Use，Computer Use没啥不同？怎么组合使用？怎么从Claude Code迁移？内置浏览器什么时候用会更好用？ 一次性讲完， 1. 整个 Codex 插件 🔗 chromewebstore点google点com/detail/codex/hehggadaopoacecdllhhajmbjkdcmajg 2. Codex App， - Computer use里开Google…"
+        },
         {
           "id": "79f29d612ecc6bfc5a47612325795ac92dcd0c84",
           "site_id": "featuredrss",
@@ -197,7 +208,7 @@
           "title": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
           "url": "https://x.com/op7418/status/2052577119633551814",
           "published_at": "2026-05-08T02:31:35Z",
-          "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀3925📊3⚡ Powered by xgo.ing"
+          "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀4094📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "61c9c2a7f53f7b583c3fe40b7b58d48f2ee95f4d",
@@ -241,7 +252,7 @@
           "title": "GPT-image-2.0 + Seedance 2.0",
           "url": "https://x.com/op7418/status/2052427824120951212",
           "published_at": "2026-05-07T16:38:20Z",
-          "summary": "GPT-image-2.0 + Seedance 2.0Your browser does not support the video tag.🔗 View on Twitter💬2🔄1❤️9👀6292📊3⚡ Powered by xgo.ing"
+          "summary": "GPT-image-2.0 + Seedance 2.0Your browser does not support the video tag.🔗 View on Twitter💬2🔄1❤️10👀6454📊3⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -275,7 +286,7 @@
           "title": "If a task needs multiple tools, Codex chooses the best one for each step.\n\nIt uses plugins when they...",
           "url": "https://x.com/OpenAI/status/2052480803318468770",
           "published_at": "2026-05-07T20:08:51Z",
-          "summary": "If a task needs multiple tools, Codex chooses the best one for each step. It uses plugins when they can handle the job, Chrome when it needs a logged-in website, and combines approaches as needed.Your browser does not support the video tag.🔗 View on Twitter💬19🔄21❤️589👀106872📊68⚡…"
+          "summary": "If a task needs multiple tools, Codex chooses the best one for each step. It uses plugins when they can handle the job, Chrome when it needs a logged-in website, and combines approaches as needed.Your browser does not support the video tag.🔗 View on Twitter💬20🔄23❤️613👀113636📊71⚡…"
         },
         {
           "id": "4be97a48c49baca9a1fcd26c7043a9e56d20bf32",
@@ -319,7 +330,7 @@
           "title": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.",
           "url": "https://x.com/OpenAI/status/2052438197695877316",
           "published_at": "2026-05-07T17:19:33Z",
-          "summary": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.💬120🔄85❤️2483👀330988📊306⚡ Powered by xgo.ing"
+          "summary": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.💬120🔄85❤️2497👀336902📊307⚡ Powered by xgo.ing"
         },
         {
           "id": "aa9e72ec0fda384fb7def3b6d8d57284aea80b85",
@@ -337,6 +348,17 @@
   },
   "items": [
     {
+      "id": "7c7e0962809f788666ac89c190676c75fd539cf7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "OpenAI Codex还是把AI浏览器们干掉了。。。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506934&idx=1&sn=6626bfb45b931de96727c330e7e1cbe2",
+      "published_at": "2026-05-08T09:18:00Z",
+      "summary": "卡尔的AI沃茨 2026-05-08 17:18 云南 新鲜出炉的Codex for Chrome扩展，Codex能直接上手浏览器里的网页和应用操作，跟原来的Broswer Use，Computer Use没啥不同？怎么组合使用？怎么从Claude Code迁移？内置浏览器什么时候用会更好用？ 一次性讲完， 1. 整个 Codex 插件 🔗 chromewebstore点google点com/detail/codex/hehggadaopoacecdllhhajmbjkdcmajg 2. Codex App， - Computer use里开Google…"
+    },
+    {
       "id": "79f29d612ecc6bfc5a47612325795ac92dcd0c84",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -345,7 +367,7 @@
       "title": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
       "url": "https://x.com/op7418/status/2052577119633551814",
       "published_at": "2026-05-08T02:31:35Z",
-      "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀3925📊3⚡ Powered by xgo.ing"
+      "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀4094📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "61c9c2a7f53f7b583c3fe40b7b58d48f2ee95f4d",
@@ -400,7 +422,7 @@
       "title": "If a task needs multiple tools, Codex chooses the best one for each step.\n\nIt uses plugins when they...",
       "url": "https://x.com/OpenAI/status/2052480803318468770",
       "published_at": "2026-05-07T20:08:51Z",
-      "summary": "If a task needs multiple tools, Codex chooses the best one for each step. It uses plugins when they can handle the job, Chrome when it needs a logged-in website, and combines approaches as needed.Your browser does not support the video tag.🔗 View on Twitter💬19🔄21❤️589👀106872📊68⚡…"
+      "summary": "If a task needs multiple tools, Codex chooses the best one for each step. It uses plugins when they can handle the job, Chrome when it needs a logged-in website, and combines approaches as needed.Your browser does not support the video tag.🔗 View on Twitter💬20🔄23❤️613👀113636📊71⚡…"
     },
     {
       "id": "4be97a48c49baca9a1fcd26c7043a9e56d20bf32",
@@ -444,7 +466,7 @@
       "title": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.",
       "url": "https://x.com/OpenAI/status/2052438197695877316",
       "published_at": "2026-05-07T17:19:33Z",
-      "summary": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.💬120🔄85❤️2483👀330988📊306⚡ Powered by xgo.ing"
+      "summary": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.💬120🔄85❤️2497👀336902📊307⚡ Powered by xgo.ing"
     },
     {
       "id": "aa9e72ec0fda384fb7def3b6d8d57284aea80b85",
@@ -466,7 +488,7 @@
       "title": "GPT-image-2.0 + Seedance 2.0",
       "url": "https://x.com/op7418/status/2052427824120951212",
       "published_at": "2026-05-07T16:38:20Z",
-      "summary": "GPT-image-2.0 + Seedance 2.0Your browser does not support the video tag.🔗 View on Twitter💬2🔄1❤️9👀6292📊3⚡ Powered by xgo.ing"
+      "summary": "GPT-image-2.0 + Seedance 2.0Your browser does not support the video tag.🔗 View on Twitter💬2🔄1❤️10👀6454📊3⚡ Powered by xgo.ing"
     }
   ]
 }
