@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T05:17:15.472060Z",
+  "generated_at": "2026-05-08T07:04:00.808401Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1173,
+      "duration_ms": 1209,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 19,
+      "duration_ms": 65,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1607,
+      "duration_ms": 662,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1364,
+      "duration_ms": 963,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1251,
+      "duration_ms": 589,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2577,
+      "duration_ms": 2247,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2258,
+      "duration_ms": 1668,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 2178,
+      "duration_ms": 2352,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1611,
+      "duration_ms": 1210,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2594,
+      "duration_ms": 2275,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,7 +183,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
@@ -197,7 +197,7 @@
           "title": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
           "url": "https://x.com/op7418/status/2052577119633551814",
           "published_at": "2026-05-08T02:31:35Z",
-          "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬0🔄1❤️0👀1889📊1⚡ Powered by xgo.ing"
+          "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀2818📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "61c9c2a7f53f7b583c3fe40b7b58d48f2ee95f4d",
@@ -209,6 +209,17 @@
           "url": "https://x.com/op7418/status/2052576841656099037",
           "published_at": "2026-05-08T02:30:28Z",
           "summary": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。 而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个子 SubAgent 帮你操作多个网页。 我试了一下，发现最厉害的一点是：它不仅可以控制 Chrome，任何基于 Chromium 的浏览器都是可以的。比如我这里用的是 Dia 浏览器，我在 Dia 浏览器安装了一个插件，它就可以直接控制我的 Dia 浏览器。 具体如何使用呢？ 在 Codex 的插件库里找到 Chrome 这个插件。 点击添加，随后它会引导你…"
+        },
+        {
+          "id": "e87faf48be7bb23b250d9f14a087bdd2e2227377",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682046&idx=1&sn=f21b88c90627d7269724354359d0a9bd",
+          "published_at": "2026-05-08T02:08:00Z",
+          "summary": "Agent万岁"
         },
         {
           "id": "4c2796bdfe3bbdf80da4ab23651f8a128d2e17b4",
@@ -230,7 +241,7 @@
           "title": "GPT-image-2.0 + Seedance 2.0",
           "url": "https://x.com/op7418/status/2052427824120951212",
           "published_at": "2026-05-07T16:38:20Z",
-          "summary": "GPT-image-2.0 + Seedance 2.0Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️7👀4558📊2⚡ Powered by xgo.ing"
+          "summary": "GPT-image-2.0 + Seedance 2.0Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️7👀4986📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "78be787779e98fe23828da4184a4c024343988e7",
@@ -275,7 +286,7 @@
           "title": "If a task needs multiple tools, Codex chooses the best one for each step.\n\nIt uses plugins when they...",
           "url": "https://x.com/OpenAI/status/2052480803318468770",
           "published_at": "2026-05-07T20:08:51Z",
-          "summary": "If a task needs multiple tools, Codex chooses the best one for each step. It uses plugins when they can handle the job, Chrome when it needs a logged-in website, and combines approaches as needed.Your browser does not support the video tag.🔗 View on Twitter💬15🔄20❤️517👀83509📊59⚡ P…"
+          "summary": "If a task needs multiple tools, Codex chooses the best one for each step. It uses plugins when they can handle the job, Chrome when it needs a logged-in website, and combines approaches as needed.Your browser does not support the video tag.🔗 View on Twitter💬17🔄21❤️554👀92081📊63⚡ P…"
         },
         {
           "id": "4be97a48c49baca9a1fcd26c7043a9e56d20bf32",
@@ -319,7 +330,7 @@
           "title": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.",
           "url": "https://x.com/OpenAI/status/2052438197695877316",
           "published_at": "2026-05-07T17:19:33Z",
-          "summary": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.💬113🔄80❤️2333👀281256📊289⚡ Powered by xgo.ing"
+          "summary": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.💬114🔄82❤️2382👀299265📊294⚡ Powered by xgo.ing"
         },
         {
           "id": "aa9e72ec0fda384fb7def3b6d8d57284aea80b85",
@@ -345,7 +356,7 @@
       "title": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
       "url": "https://x.com/op7418/status/2052577119633551814",
       "published_at": "2026-05-08T02:31:35Z",
-      "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬0🔄1❤️0👀1889📊1⚡ Powered by xgo.ing"
+      "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀2818📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "61c9c2a7f53f7b583c3fe40b7b58d48f2ee95f4d",
@@ -357,6 +368,17 @@
       "url": "https://x.com/op7418/status/2052576841656099037",
       "published_at": "2026-05-08T02:30:28Z",
       "summary": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。 而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个子 SubAgent 帮你操作多个网页。 我试了一下，发现最厉害的一点是：它不仅可以控制 Chrome，任何基于 Chromium 的浏览器都是可以的。比如我这里用的是 Dia 浏览器，我在 Dia 浏览器安装了一个插件，它就可以直接控制我的 Dia 浏览器。 具体如何使用呢？ 在 Codex 的插件库里找到 Chrome 这个插件。 点击添加，随后它会引导你…"
+    },
+    {
+      "id": "e87faf48be7bb23b250d9f14a087bdd2e2227377",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682046&idx=1&sn=f21b88c90627d7269724354359d0a9bd",
+      "published_at": "2026-05-08T02:08:00Z",
+      "summary": "Agent万岁"
     },
     {
       "id": "4c2796bdfe3bbdf80da4ab23651f8a128d2e17b4",
@@ -389,7 +411,7 @@
       "title": "If a task needs multiple tools, Codex chooses the best one for each step.\n\nIt uses plugins when they...",
       "url": "https://x.com/OpenAI/status/2052480803318468770",
       "published_at": "2026-05-07T20:08:51Z",
-      "summary": "If a task needs multiple tools, Codex chooses the best one for each step. It uses plugins when they can handle the job, Chrome when it needs a logged-in website, and combines approaches as needed.Your browser does not support the video tag.🔗 View on Twitter💬15🔄20❤️517👀83509📊59⚡ P…"
+      "summary": "If a task needs multiple tools, Codex chooses the best one for each step. It uses plugins when they can handle the job, Chrome when it needs a logged-in website, and combines approaches as needed.Your browser does not support the video tag.🔗 View on Twitter💬17🔄21❤️554👀92081📊63⚡ P…"
     },
     {
       "id": "4be97a48c49baca9a1fcd26c7043a9e56d20bf32",
@@ -433,7 +455,7 @@
       "title": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.",
       "url": "https://x.com/OpenAI/status/2052438197695877316",
       "published_at": "2026-05-07T17:19:33Z",
-      "summary": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.💬113🔄80❤️2333👀281256📊289⚡ Powered by xgo.ing"
+      "summary": "We know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.💬114🔄82❤️2382👀299265📊294⚡ Powered by xgo.ing"
     },
     {
       "id": "aa9e72ec0fda384fb7def3b6d8d57284aea80b85",
@@ -455,7 +477,7 @@
       "title": "GPT-image-2.0 + Seedance 2.0",
       "url": "https://x.com/op7418/status/2052427824120951212",
       "published_at": "2026-05-07T16:38:20Z",
-      "summary": "GPT-image-2.0 + Seedance 2.0Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️7👀4558📊2⚡ Powered by xgo.ing"
+      "summary": "GPT-image-2.0 + Seedance 2.0Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️7👀4986📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "78be787779e98fe23828da4184a4c024343988e7",
