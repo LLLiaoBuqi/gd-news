@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T19:53:40.896747Z",
+  "generated_at": "2026-05-09T20:38:14.532343Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 969,
+      "duration_ms": 1469,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 43,
+      "duration_ms": 57,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 965,
+      "duration_ms": 411,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 671,
+      "duration_ms": 665,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 564,
+      "duration_ms": 633,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1520,
+      "duration_ms": 1252,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1461,
+      "duration_ms": 1720,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 208,
+      "duration_ms": 222,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 849,
+      "duration_ms": 706,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1693,
+      "duration_ms": 1244,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -280,48 +280,14 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "449b6d858429d6b1109d33ea7909074f8caea22b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Training models involves many technical and social processes, so prevention of CoT grading has to be...",
-          "url": "https://x.com/OpenAI/status/2052845770056073216",
-          "published_at": "2026-05-08T20:19:06Z",
-          "summary": "Training models involves many technical and social processes, so prevention of CoT grading has to be built into the process. We’re improving real-time CoT-grading detection, safeguards against accidental CoT grading, monitorability stress tests, and the internal guidance/checks t…"
-        },
-        {
-          "id": "01c63113d958b34101ff255716f03df43a6a076d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
-          "url": "https://x.com/OpenAI/status/2052845768567066907",
-          "published_at": "2026-05-08T20:19:05Z",
-          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄12❤️192👀64861📊27⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve moni...",
-          "url": "https://x.com/OpenAI/status/2052845764507062349",
-          "published_at": "2026-05-08T20:19:04Z",
-          "summary": "Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misaligned reasoning during RL. We found a limited amount of accidental CoT grading which affected released models, and are sharing our analysis. al…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -412,39 +378,6 @@
       "url": "https://x.com/op7418/status/2052925146290417977",
       "published_at": "2026-05-09T01:34:31Z",
       "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司💬29🔄4❤️101👀72128📊38⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "449b6d858429d6b1109d33ea7909074f8caea22b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Training models involves many technical and social processes, so prevention of CoT grading has to be...",
-      "url": "https://x.com/OpenAI/status/2052845770056073216",
-      "published_at": "2026-05-08T20:19:06Z",
-      "summary": "Training models involves many technical and social processes, so prevention of CoT grading has to be built into the process. We’re improving real-time CoT-grading detection, safeguards against accidental CoT grading, monitorability stress tests, and the internal guidance/checks t…"
-    },
-    {
-      "id": "01c63113d958b34101ff255716f03df43a6a076d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
-      "url": "https://x.com/OpenAI/status/2052845768567066907",
-      "published_at": "2026-05-08T20:19:05Z",
-      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄12❤️192👀64861📊27⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve moni...",
-      "url": "https://x.com/OpenAI/status/2052845764507062349",
-      "published_at": "2026-05-08T20:19:04Z",
-      "summary": "Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misaligned reasoning during RL. We found a limited amount of accidental CoT grading which affected released models, and are sharing our analysis. al…"
     }
   ]
 }
