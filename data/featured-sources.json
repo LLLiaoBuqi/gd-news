@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T15:43:56.789317Z",
+  "generated_at": "2026-05-09T16:44:47.682869Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 976,
+      "duration_ms": 888,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 18,
+      "duration_ms": 27,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 789,
+      "duration_ms": 598,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 833,
+      "duration_ms": 428,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 529,
+      "duration_ms": 522,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1552,
+      "duration_ms": 1219,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1188,
+      "duration_ms": 1129,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 202,
+      "duration_ms": 215,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 891,
+      "duration_ms": 827,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1680,
+      "duration_ms": 1487,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "b2439bfba9f94ed793720c2978eccacf4bef8d31",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "厌倦了千篇一律的衬线字体和排版？\n\n歸藏的 PPT Skill 新主题预告",
+          "url": "https://x.com/op7418/status/2053143307371556944",
+          "published_at": "2026-05-09T16:01:24Z",
+          "summary": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告歸藏(guizang.ai)@op7418x.com/i/article/2047…🔗 View Quoted Tweet💬7🔄5❤️27👀3557📊10⚡ Powered by xgo.ing"
+        },
         {
           "id": "7ba852d32fb01c2caaae6b89597bafdd144b64f9",
           "site_id": "featuredrss",
@@ -197,7 +208,7 @@
           "title": "北京这几天的夕阳是真漂亮。",
           "url": "https://x.com/op7418/status/2053065172873560499",
           "published_at": "2026-05-09T10:50:55Z",
-          "summary": "北京这几天的夕阳是真漂亮。💬9🔄0❤️8👀3336📊8⚡ Powered by xgo.ing"
+          "summary": "北京这几天的夕阳是真漂亮。💬11🔄0❤️9👀3591📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "5c53ec9f78b5317deacb8a163a226efd1198dddd",
@@ -208,7 +219,7 @@
           "title": "Mac Studio 也没货了",
           "url": "https://x.com/op7418/status/2053020181853778289",
           "published_at": "2026-05-09T07:52:09Z",
-          "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬33🔄1❤️16👀15573📊23⚡ Powered by xgo.in…"
+          "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬33🔄1❤️16👀16175📊23⚡ Powered by xgo.in…"
         },
         {
           "id": "3f62bef0e98c5529783ad0d4a67ad47b9cb0371f",
@@ -230,7 +241,7 @@
           "title": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
           "url": "https://x.com/op7418/status/2052961068918677554",
           "published_at": "2026-05-09T03:57:15Z",
-          "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀3094⚡ Powered by xgo.ing"
+          "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀3158⚡ Powered by xgo.ing"
         },
         {
           "id": "b1dd7203d515848f49eac2188e989ace3c58d9c7",
@@ -264,34 +275,12 @@
           "url": "https://x.com/op7418/status/2052925146290417977",
           "published_at": "2026-05-09T01:34:31Z",
           "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司Tuomas Artman@artmanToday is a hard day. I shared this note with the @linear team today: We’ve made the difficult decision to increase our workforce. This is not a cost-cutting exercise or a reflection of anyone’s performance. We’re simply re…"
-        },
-        {
-          "id": "b60cc494dd2688e73e6b88a1bb2ed791f5f3d3ab",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "在非国区 App Store 里搜索 FateTell 这个名字就行",
-          "url": "https://x.com/op7418/status/2052788965284171851",
-          "published_at": "2026-05-08T16:33:22Z",
-          "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀3326📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "461e2cc1074dae566d4a01e766d71da56a3e177f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "还记得年初推荐过的西元做的命理 App FateTell吗？\n\n他们整个 App 的功能做得相当完善和全面，UI 设计和交互也非常顶，很有那种中式的命理感觉。\n\n而且它不会刻意堆砌元素，在视觉和交互上...",
-          "url": "https://x.com/op7418/status/2052788859164086589",
-          "published_at": "2026-05-08T16:32:57Z",
-          "summary": "还记得年初推荐过的西元做的命理 App FateTell吗？ 他们整个 App 的功能做得相当完善和全面，UI 设计和交互也非常顶，很有那种中式的命理感觉。 而且它不会刻意堆砌元素，在视觉和交互上的融合非常好，体验很棒。 这次他们除了以前那份以一生为长度、为维度的“命书”报告之外，新推出了“马年运书”。 针对你今年马年的命理有一个专门的解释。 这次的设计依然非常出色： 现在品牌意向是一棵树，运书整个界面核心就是一棵树，运用了大量的玻璃拟态效果和液态玻璃效果，质感十足。2926年运书取巧用了24节气而不是月份切割。 在十二节令部分，中间那棵树的颜色和样貌会…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 8,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -319,7 +308,7 @@
           "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
           "url": "https://x.com/OpenAI/status/2052845768567066907",
           "published_at": "2026-05-08T20:19:05Z",
-          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄12❤️186👀61753📊27⚡ Powered by xgo.ing"
+          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄12❤️189👀62647📊27⚡ Powered by xgo.ing"
         },
         {
           "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
@@ -341,7 +330,7 @@
           "title": "@andrew_n_carr 🧌\n\nhttps://t.co/BPT9kKuenb",
           "url": "https://x.com/OpenAI/status/2052829954992402835",
           "published_at": "2026-05-08T19:16:15Z",
-          "summary": "@andrew_n_carr 🧌 supply.openai.comb💬33🔄31❤️208👀194007📊56⚡ Powered by xgo.ing"
+          "summary": "@andrew_n_carr 🧌 supply.openai.comb💬33🔄32❤️209👀197266📊56⚡ Powered by xgo.ing"
         },
         {
           "id": "79003a566d2df946d727a1d8f792bc5237b7a21c",
@@ -352,7 +341,7 @@
           "title": "Just select “New notebook” in the side panel at https://t.co/382WL5xSvc and add all your relevant so...",
           "url": "https://x.com/GeminiApp/status/2052805408486719808",
           "published_at": "2026-05-08T17:38:43Z",
-          "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬14🔄4❤️63👀15279📊20⚡ Powered by xgo.ing"
+          "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬14🔄4❤️66👀15647📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "8db142e2acc6755e25bd3e8049564fb2ee49c57a",
@@ -374,23 +363,23 @@
           "title": "Just gonna leave this here.\n\nhttps://t.co/EOI980j9e9",
           "url": "https://x.com/OpenAI/status/2052800507727781979",
           "published_at": "2026-05-08T17:19:14Z",
-          "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬238🔄191❤️4730👀479569📊700⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bfaf6bbe6b72b6f8cf596a29282fe2255de8868b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Happy Friday! 🎉We’re officially 11 days away from I/O (but the launches keep rolling in). Here’s wh...",
-          "url": "https://x.com/GoogleAI/status/2052789253038592466",
-          "published_at": "2026-05-08T16:34:31Z",
-          "summary": "Happy Friday! 🎉We’re officially 11 days away from I/O (but the launches keep rolling in). Here’s what happened this week: — The @googlehealth app, featuring a personalized health coach built with Gemini that uses your wearables, favorite health & fitness apps, and medical records…"
+          "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬240🔄193❤️4815👀491703📊712⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "b2439bfba9f94ed793720c2978eccacf4bef8d31",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "厌倦了千篇一律的衬线字体和排版？\n\n歸藏的 PPT Skill 新主题预告",
+      "url": "https://x.com/op7418/status/2053143307371556944",
+      "published_at": "2026-05-09T16:01:24Z",
+      "summary": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告歸藏(guizang.ai)@op7418x.com/i/article/2047…🔗 View Quoted Tweet💬7🔄5❤️27👀3557📊10⚡ Powered by xgo.ing"
+    },
     {
       "id": "7ba852d32fb01c2caaae6b89597bafdd144b64f9",
       "site_id": "featuredrss",
@@ -400,7 +389,7 @@
       "title": "北京这几天的夕阳是真漂亮。",
       "url": "https://x.com/op7418/status/2053065172873560499",
       "published_at": "2026-05-09T10:50:55Z",
-      "summary": "北京这几天的夕阳是真漂亮。💬9🔄0❤️8👀3336📊8⚡ Powered by xgo.ing"
+      "summary": "北京这几天的夕阳是真漂亮。💬11🔄0❤️9👀3591📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "5c53ec9f78b5317deacb8a163a226efd1198dddd",
@@ -411,7 +400,7 @@
       "title": "Mac Studio 也没货了",
       "url": "https://x.com/op7418/status/2053020181853778289",
       "published_at": "2026-05-09T07:52:09Z",
-      "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬33🔄1❤️16👀15573📊23⚡ Powered by xgo.in…"
+      "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬33🔄1❤️16👀16175📊23⚡ Powered by xgo.in…"
     },
     {
       "id": "3f62bef0e98c5529783ad0d4a67ad47b9cb0371f",
@@ -433,7 +422,7 @@
       "title": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
       "url": "https://x.com/op7418/status/2052961068918677554",
       "published_at": "2026-05-09T03:57:15Z",
-      "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀3094⚡ Powered by xgo.ing"
+      "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀3158⚡ Powered by xgo.ing"
     },
     {
       "id": "b1dd7203d515848f49eac2188e989ace3c58d9c7",
@@ -488,7 +477,7 @@
       "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
       "url": "https://x.com/OpenAI/status/2052845768567066907",
       "published_at": "2026-05-08T20:19:05Z",
-      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄12❤️186👀61753📊27⚡ Powered by xgo.ing"
+      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄12❤️189👀62647📊27⚡ Powered by xgo.ing"
     },
     {
       "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
@@ -510,7 +499,7 @@
       "title": "@andrew_n_carr 🧌\n\nhttps://t.co/BPT9kKuenb",
       "url": "https://x.com/OpenAI/status/2052829954992402835",
       "published_at": "2026-05-08T19:16:15Z",
-      "summary": "@andrew_n_carr 🧌 supply.openai.comb💬33🔄31❤️208👀194007📊56⚡ Powered by xgo.ing"
+      "summary": "@andrew_n_carr 🧌 supply.openai.comb💬33🔄32❤️209👀197266📊56⚡ Powered by xgo.ing"
     },
     {
       "id": "79003a566d2df946d727a1d8f792bc5237b7a21c",
@@ -521,7 +510,7 @@
       "title": "Just select “New notebook” in the side panel at https://t.co/382WL5xSvc and add all your relevant so...",
       "url": "https://x.com/GeminiApp/status/2052805408486719808",
       "published_at": "2026-05-08T17:38:43Z",
-      "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬14🔄4❤️63👀15279📊20⚡ Powered by xgo.ing"
+      "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬14🔄4❤️66👀15647📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "8db142e2acc6755e25bd3e8049564fb2ee49c57a",
@@ -543,40 +532,7 @@
       "title": "Just gonna leave this here.\n\nhttps://t.co/EOI980j9e9",
       "url": "https://x.com/OpenAI/status/2052800507727781979",
       "published_at": "2026-05-08T17:19:14Z",
-      "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬238🔄191❤️4730👀479569📊700⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "bfaf6bbe6b72b6f8cf596a29282fe2255de8868b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Happy Friday! 🎉We’re officially 11 days away from I/O (but the launches keep rolling in). Here’s wh...",
-      "url": "https://x.com/GoogleAI/status/2052789253038592466",
-      "published_at": "2026-05-08T16:34:31Z",
-      "summary": "Happy Friday! 🎉We’re officially 11 days away from I/O (but the launches keep rolling in). Here’s what happened this week: — The @googlehealth app, featuring a personalized health coach built with Gemini that uses your wearables, favorite health & fitness apps, and medical records…"
-    },
-    {
-      "id": "b60cc494dd2688e73e6b88a1bb2ed791f5f3d3ab",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "在非国区 App Store 里搜索 FateTell 这个名字就行",
-      "url": "https://x.com/op7418/status/2052788965284171851",
-      "published_at": "2026-05-08T16:33:22Z",
-      "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀3326📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "461e2cc1074dae566d4a01e766d71da56a3e177f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "还记得年初推荐过的西元做的命理 App FateTell吗？\n\n他们整个 App 的功能做得相当完善和全面，UI 设计和交互也非常顶，很有那种中式的命理感觉。\n\n而且它不会刻意堆砌元素，在视觉和交互上...",
-      "url": "https://x.com/op7418/status/2052788859164086589",
-      "published_at": "2026-05-08T16:32:57Z",
-      "summary": "还记得年初推荐过的西元做的命理 App FateTell吗？ 他们整个 App 的功能做得相当完善和全面，UI 设计和交互也非常顶，很有那种中式的命理感觉。 而且它不会刻意堆砌元素，在视觉和交互上的融合非常好，体验很棒。 这次他们除了以前那份以一生为长度、为维度的“命书”报告之外，新推出了“马年运书”。 针对你今年马年的命理有一个专门的解释。 这次的设计依然非常出色： 现在品牌意向是一棵树，运书整个界面核心就是一棵树，运用了大量的玻璃拟态效果和液态玻璃效果，质感十足。2926年运书取巧用了24节气而不是月份切割。 在十二节令部分，中间那棵树的颜色和样貌会…"
+      "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬240🔄193❤️4815👀491703📊712⚡ Powered by xgo.ing"
     }
   ]
 }
