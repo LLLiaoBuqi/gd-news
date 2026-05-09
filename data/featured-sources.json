@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T07:48:00.768492Z",
+  "generated_at": "2026-05-09T09:12:56.360961Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 17,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 315,
+      "duration_ms": 533,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 31,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 796,
+      "duration_ms": 1001,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 795,
+      "duration_ms": 1008,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 451,
+      "duration_ms": 817,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1405,
+      "duration_ms": 2407,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1046,
+      "duration_ms": 1917,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 218,
+      "duration_ms": 213,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 752,
+      "duration_ms": 949,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1521,
+      "duration_ms": 2349,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "5c53ec9f78b5317deacb8a163a226efd1198dddd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Mac Studio 也没货了",
+          "url": "https://x.com/op7418/status/2053020181853778289",
+          "published_at": "2026-05-09T07:52:09Z",
+          "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬7🔄1❤️7👀3558📊6⚡ Powered by xgo.ing"
+        },
         {
           "id": "edfba6216c457cb85dbbe61a4e6318f98b3d4af3",
           "site_id": "featuredrss",
@@ -197,7 +208,7 @@
           "title": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
           "url": "https://x.com/op7418/status/2052961068918677554",
           "published_at": "2026-05-09T03:57:15Z",
-          "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀1891⚡ Powered by xgo.ing"
+          "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀2184⚡ Powered by xgo.ing"
         },
         {
           "id": "b1dd7203d515848f49eac2188e989ace3c58d9c7",
@@ -230,7 +241,7 @@
           "title": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司",
           "url": "https://x.com/op7418/status/2052925146290417977",
           "published_at": "2026-05-09T01:34:31Z",
-          "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司💬27🔄3❤️58👀29597📊30⚡ Powered by xgo.ing"
+          "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司💬28🔄3❤️65👀35977📊32⚡ Powered by xgo.ing"
         },
         {
           "id": "b60cc494dd2688e73e6b88a1bb2ed791f5f3d3ab",
@@ -241,7 +252,7 @@
           "title": "在非国区 App Store 里搜索 FateTell 这个名字就行",
           "url": "https://x.com/op7418/status/2052788965284171851",
           "published_at": "2026-05-08T16:33:22Z",
-          "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀2899📊1⚡ Powered by xgo.ing"
+          "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀3008📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "461e2cc1074dae566d4a01e766d71da56a3e177f",
@@ -263,7 +274,7 @@
           "title": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。\n\n他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。\n\n优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down...",
           "url": "https://x.com/op7418/status/2052764933696475279",
           "published_at": "2026-05-08T14:57:53Z",
-          "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬32🔄15❤️143👀29967📊71⚡ Powered by xgo.ing"
+          "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬32🔄15❤️146👀31074📊72⚡ Powered by xgo.ing"
         },
         {
           "id": "7c7e0962809f788666ac89c190676c75fd539cf7",
@@ -308,7 +319,7 @@
           "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
           "url": "https://x.com/OpenAI/status/2052845768567066907",
           "published_at": "2026-05-08T20:19:05Z",
-          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄11❤️168👀53109📊25⚡ Powered by xgo.ing"
+          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄11❤️174👀54521📊25⚡ Powered by xgo.ing"
         },
         {
           "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
@@ -330,7 +341,7 @@
           "title": "@andrew_n_carr 🧌\n\nhttps://t.co/BPT9kKuenb",
           "url": "https://x.com/OpenAI/status/2052829954992402835",
           "published_at": "2026-05-08T19:16:15Z",
-          "summary": "@andrew_n_carr 🧌 supply.openai.comb💬32🔄29❤️191👀172597📊53⚡ Powered by xgo.ing"
+          "summary": "@andrew_n_carr 🧌 supply.openai.comb💬32🔄29❤️191👀175325📊53⚡ Powered by xgo.ing"
         },
         {
           "id": "79003a566d2df946d727a1d8f792bc5237b7a21c",
@@ -341,7 +352,7 @@
           "title": "Just select “New notebook” in the side panel at https://t.co/382WL5xSvc and add all your relevant so...",
           "url": "https://x.com/GeminiApp/status/2052805408486719808",
           "published_at": "2026-05-08T17:38:43Z",
-          "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬11🔄4❤️55👀12520📊17⚡ Powered by xgo.ing"
+          "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬12🔄4❤️56👀13182📊18⚡ Powered by xgo.ing"
         },
         {
           "id": "8db142e2acc6755e25bd3e8049564fb2ee49c57a",
@@ -363,7 +374,7 @@
           "title": "Just gonna leave this here.\n\nhttps://t.co/EOI980j9e9",
           "url": "https://x.com/OpenAI/status/2052800507727781979",
           "published_at": "2026-05-08T17:19:14Z",
-          "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬210🔄171❤️4221👀395074📊616⚡ Powered by xgo.ing"
+          "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬213🔄175❤️4273👀404785📊626⚡ Powered by xgo.ing"
         },
         {
           "id": "bfaf6bbe6b72b6f8cf596a29282fe2255de8868b",
@@ -381,6 +392,17 @@
   },
   "items": [
     {
+      "id": "5c53ec9f78b5317deacb8a163a226efd1198dddd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Mac Studio 也没货了",
+      "url": "https://x.com/op7418/status/2053020181853778289",
+      "published_at": "2026-05-09T07:52:09Z",
+      "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬7🔄1❤️7👀3558📊6⚡ Powered by xgo.ing"
+    },
+    {
       "id": "edfba6216c457cb85dbbe61a4e6318f98b3d4af3",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -389,7 +411,7 @@
       "title": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
       "url": "https://x.com/op7418/status/2052961068918677554",
       "published_at": "2026-05-09T03:57:15Z",
-      "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀1891⚡ Powered by xgo.ing"
+      "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀2184⚡ Powered by xgo.ing"
     },
     {
       "id": "b1dd7203d515848f49eac2188e989ace3c58d9c7",
@@ -422,7 +444,7 @@
       "title": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司",
       "url": "https://x.com/op7418/status/2052925146290417977",
       "published_at": "2026-05-09T01:34:31Z",
-      "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司💬27🔄3❤️58👀29597📊30⚡ Powered by xgo.ing"
+      "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司💬28🔄3❤️65👀35977📊32⚡ Powered by xgo.ing"
     },
     {
       "id": "449b6d858429d6b1109d33ea7909074f8caea22b",
@@ -444,7 +466,7 @@
       "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
       "url": "https://x.com/OpenAI/status/2052845768567066907",
       "published_at": "2026-05-08T20:19:05Z",
-      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄11❤️168👀53109📊25⚡ Powered by xgo.ing"
+      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬9🔄11❤️174👀54521📊25⚡ Powered by xgo.ing"
     },
     {
       "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
@@ -466,7 +488,7 @@
       "title": "@andrew_n_carr 🧌\n\nhttps://t.co/BPT9kKuenb",
       "url": "https://x.com/OpenAI/status/2052829954992402835",
       "published_at": "2026-05-08T19:16:15Z",
-      "summary": "@andrew_n_carr 🧌 supply.openai.comb💬32🔄29❤️191👀172597📊53⚡ Powered by xgo.ing"
+      "summary": "@andrew_n_carr 🧌 supply.openai.comb💬32🔄29❤️191👀175325📊53⚡ Powered by xgo.ing"
     },
     {
       "id": "79003a566d2df946d727a1d8f792bc5237b7a21c",
@@ -477,7 +499,7 @@
       "title": "Just select “New notebook” in the side panel at https://t.co/382WL5xSvc and add all your relevant so...",
       "url": "https://x.com/GeminiApp/status/2052805408486719808",
       "published_at": "2026-05-08T17:38:43Z",
-      "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬11🔄4❤️55👀12520📊17⚡ Powered by xgo.ing"
+      "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬12🔄4❤️56👀13182📊18⚡ Powered by xgo.ing"
     },
     {
       "id": "8db142e2acc6755e25bd3e8049564fb2ee49c57a",
@@ -499,7 +521,7 @@
       "title": "Just gonna leave this here.\n\nhttps://t.co/EOI980j9e9",
       "url": "https://x.com/OpenAI/status/2052800507727781979",
       "published_at": "2026-05-08T17:19:14Z",
-      "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬210🔄171❤️4221👀395074📊616⚡ Powered by xgo.ing"
+      "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬213🔄175❤️4273👀404785📊626⚡ Powered by xgo.ing"
     },
     {
       "id": "bfaf6bbe6b72b6f8cf596a29282fe2255de8868b",
@@ -521,7 +543,7 @@
       "title": "在非国区 App Store 里搜索 FateTell 这个名字就行",
       "url": "https://x.com/op7418/status/2052788965284171851",
       "published_at": "2026-05-08T16:33:22Z",
-      "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀2899📊1⚡ Powered by xgo.ing"
+      "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀3008📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "461e2cc1074dae566d4a01e766d71da56a3e177f",
@@ -543,7 +565,7 @@
       "title": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。\n\n他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。\n\n优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down...",
       "url": "https://x.com/op7418/status/2052764933696475279",
       "published_at": "2026-05-08T14:57:53Z",
-      "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬32🔄15❤️143👀29967📊71⚡ Powered by xgo.ing"
+      "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬32🔄15❤️146👀31074📊72⚡ Powered by xgo.ing"
     },
     {
       "id": "7c7e0962809f788666ac89c190676c75fd539cf7",
