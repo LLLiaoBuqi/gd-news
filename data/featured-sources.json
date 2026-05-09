@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T02:14:51.426908Z",
+  "generated_at": "2026-05-09T05:33:58.366097Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 16,
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 915,
+      "duration_ms": 921,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 31,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1202,
+      "duration_ms": 975,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1094,
+      "duration_ms": 760,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1116,
+      "duration_ms": 526,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1944,
+      "duration_ms": 1698,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -103,7 +103,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1400,
+      "duration_ms": 1410,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -130,8 +130,8 @@
       "feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
-      "item_count": 81,
-      "duration_ms": 2521,
+      "item_count": 10,
+      "duration_ms": 201,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1422,
+      "duration_ms": 908,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2285,
+      "duration_ms": 1801,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -188,6 +188,28 @@
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "edfba6216c457cb85dbbe61a4e6318f98b3d4af3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
+          "url": "https://x.com/op7418/status/2052961068918677554",
+          "published_at": "2026-05-09T03:57:15Z",
+          "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀666⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b1dd7203d515848f49eac2188e989ace3c58d9c7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "当前 AI 产品演进已经确立了一个清晰的行业共识：\n\n采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。\n\n这个思路的脉络是，前几...",
+          "url": "https://x.com/op7418/status/2052943672556274040",
+          "published_at": "2026-05-09T02:48:08Z",
+          "summary": "当前 AI 产品演进已经确立了一个清晰的行业共识： 采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。 这个思路的脉络是，前几天借着 Obsidian 作者提出 Markdown 是 AI 内容谢林点的观点，我发散讨论了当前 AI 原生格式主要分为 Markdown 和 HTML。 刚好今天 Claude Code 的作者也发文印证了这一点，他提到自己主要的对外分享形式已经全面转向 HTML。这两位前沿开发者的观点结合在一起，非常完整地勾勒出了这套方案的底层逻辑。 在这个架构中，Mar…"
+        },
         {
           "id": "4accee162e2d7ce3fedfa8a33cb8f2ff750246a2",
           "site_id": "featuredrss",
@@ -219,7 +241,7 @@
           "title": "在非国区 App Store 里搜索 FateTell 这个名字就行",
           "url": "https://x.com/op7418/status/2052788965284171851",
           "published_at": "2026-05-08T16:33:22Z",
-          "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀2002📊1⚡ Powered by xgo.ing"
+          "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀2480📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "461e2cc1074dae566d4a01e766d71da56a3e177f",
@@ -241,7 +263,7 @@
           "title": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。\n\n他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。\n\n优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down...",
           "url": "https://x.com/op7418/status/2052764933696475279",
           "published_at": "2026-05-08T14:57:53Z",
-          "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬28🔄7❤️104👀19969📊54⚡ Powered by xgo.ing"
+          "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬31🔄13❤️132👀26072📊65⚡ Powered by xgo.ing"
         },
         {
           "id": "7c7e0962809f788666ac89c190676c75fd539cf7",
@@ -253,28 +275,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506934&idx=1&sn=6626bfb45b931de96727c330e7e1cbe2",
           "published_at": "2026-05-08T09:18:00Z",
           "summary": "卡尔的AI沃茨 2026-05-08 17:18 云南 新鲜出炉的Codex for Chrome扩展，Codex能直接上手浏览器里的网页和应用操作，跟原来的Broswer Use，Computer Use没啥不同？怎么组合使用？怎么从Claude Code迁移？内置浏览器什么时候用会更好用？ 一次性讲完， 1. 整个 Codex 插件 🔗 chromewebstore点google点com/detail/codex/hehggadaopoacecdllhhajmbjkdcmajg 2. Codex App， - Computer use里开Google…"
-        },
-        {
-          "id": "79f29d612ecc6bfc5a47612325795ac92dcd0c84",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
-          "url": "https://x.com/op7418/status/2052577119633551814",
-          "published_at": "2026-05-08T02:31:35Z",
-          "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀5395📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "61c9c2a7f53f7b583c3fe40b7b58d48f2ee95f4d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。\n\n而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个...",
-          "url": "https://x.com/op7418/status/2052576841656099037",
-          "published_at": "2026-05-08T02:30:28Z",
-          "summary": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。 而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个子 SubAgent 帮你操作多个网页。 我试了一下，发现最厉害的一点是：它不仅可以控制 Chrome，任何基于 Chromium 的浏览器都是可以的。比如我这里用的是 Dia 浏览器，我在 Dia 浏览器安装了一个插件，它就可以直接控制我的 Dia 浏览器。 具体如何使用呢？ 在 Codex 的插件库里找到 Chrome 这个插件。 点击添加，随后它会引导你…"
         }
       ]
     },
@@ -308,7 +308,7 @@
           "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
           "url": "https://x.com/OpenAI/status/2052845768567066907",
           "published_at": "2026-05-08T20:19:05Z",
-          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬5🔄9❤️143👀41586📊20⚡ Powered by xgo.ing"
+          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬8🔄10❤️154👀47723📊23⚡ Powered by xgo.ing"
         },
         {
           "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
@@ -330,7 +330,7 @@
           "title": "@andrew_n_carr 🧌\n\nhttps://t.co/BPT9kKuenb",
           "url": "https://x.com/OpenAI/status/2052829954992402835",
           "published_at": "2026-05-08T19:16:15Z",
-          "summary": "@andrew_n_carr 🧌 supply.openai.comb💬28🔄27❤️178👀145994📊48⚡ Powered by xgo.ing"
+          "summary": "@andrew_n_carr 🧌 supply.openai.comb💬32🔄27❤️186👀165763📊52⚡ Powered by xgo.ing"
         },
         {
           "id": "79003a566d2df946d727a1d8f792bc5237b7a21c",
@@ -341,7 +341,7 @@
           "title": "Just select “New notebook” in the side panel at https://t.co/382WL5xSvc and add all your relevant so...",
           "url": "https://x.com/GeminiApp/status/2052805408486719808",
           "published_at": "2026-05-08T17:38:43Z",
-          "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬10🔄4❤️49👀10468📊15⚡ Powered by xgo.ing"
+          "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬10🔄4❤️52👀11692📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "8db142e2acc6755e25bd3e8049564fb2ee49c57a",
@@ -352,7 +352,7 @@
           "title": "Notebooks in Gemini bring organization to complex tasks.\n\nTake the grad school application process: ...",
           "url": "https://x.com/GeminiApp/status/2052805372050604187",
           "published_at": "2026-05-08T17:38:34Z",
-          "summary": "Notebooks in Gemini bring organization to complex tasks. Take the grad school application process: With notebooks, you can gather your transcripts, essay drafts and admission requirements in one place, so Gemini can help track deadlines, give feedback, and assess your progress.💬4…"
+          "summary": "Notebooks in Gemini bring organization to complex tasks. Take the grad school application process: With notebooks, you can gather your transcripts, essay drafts and admission requirements in one place, so Gemini can help track deadlines, give feedback, and assess your progress.💬5…"
         },
         {
           "id": "906eb297ef1ae63600b474cd42e3ee2fa00c3b77",
@@ -363,7 +363,7 @@
           "title": "Just gonna leave this here.\n\nhttps://t.co/EOI980j9e9",
           "url": "https://x.com/OpenAI/status/2052800507727781979",
           "published_at": "2026-05-08T17:19:14Z",
-          "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬196🔄156❤️3809👀325518📊556⚡ Powered by xgo.ing"
+          "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬202🔄164❤️4076👀369718📊594⚡ Powered by xgo.ing"
         },
         {
           "id": "bfaf6bbe6b72b6f8cf596a29282fe2255de8868b",
@@ -380,6 +380,28 @@
     }
   },
   "items": [
+    {
+      "id": "edfba6216c457cb85dbbe61a4e6318f98b3d4af3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
+      "url": "https://x.com/op7418/status/2052961068918677554",
+      "published_at": "2026-05-09T03:57:15Z",
+      "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀666⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b1dd7203d515848f49eac2188e989ace3c58d9c7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "当前 AI 产品演进已经确立了一个清晰的行业共识：\n\n采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。\n\n这个思路的脉络是，前几...",
+      "url": "https://x.com/op7418/status/2052943672556274040",
+      "published_at": "2026-05-09T02:48:08Z",
+      "summary": "当前 AI 产品演进已经确立了一个清晰的行业共识： 采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。 这个思路的脉络是，前几天借着 Obsidian 作者提出 Markdown 是 AI 内容谢林点的观点，我发散讨论了当前 AI 原生格式主要分为 Markdown 和 HTML。 刚好今天 Claude Code 的作者也发文印证了这一点，他提到自己主要的对外分享形式已经全面转向 HTML。这两位前沿开发者的观点结合在一起，非常完整地勾勒出了这套方案的底层逻辑。 在这个架构中，Mar…"
+    },
     {
       "id": "4accee162e2d7ce3fedfa8a33cb8f2ff750246a2",
       "site_id": "featuredrss",
@@ -422,7 +444,7 @@
       "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
       "url": "https://x.com/OpenAI/status/2052845768567066907",
       "published_at": "2026-05-08T20:19:05Z",
-      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬5🔄9❤️143👀41586📊20⚡ Powered by xgo.ing"
+      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬8🔄10❤️154👀47723📊23⚡ Powered by xgo.ing"
     },
     {
       "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
@@ -444,7 +466,7 @@
       "title": "@andrew_n_carr 🧌\n\nhttps://t.co/BPT9kKuenb",
       "url": "https://x.com/OpenAI/status/2052829954992402835",
       "published_at": "2026-05-08T19:16:15Z",
-      "summary": "@andrew_n_carr 🧌 supply.openai.comb💬28🔄27❤️178👀145994📊48⚡ Powered by xgo.ing"
+      "summary": "@andrew_n_carr 🧌 supply.openai.comb💬32🔄27❤️186👀165763📊52⚡ Powered by xgo.ing"
     },
     {
       "id": "79003a566d2df946d727a1d8f792bc5237b7a21c",
@@ -455,7 +477,7 @@
       "title": "Just select “New notebook” in the side panel at https://t.co/382WL5xSvc and add all your relevant so...",
       "url": "https://x.com/GeminiApp/status/2052805408486719808",
       "published_at": "2026-05-08T17:38:43Z",
-      "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬10🔄4❤️49👀10468📊15⚡ Powered by xgo.ing"
+      "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬10🔄4❤️52👀11692📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "8db142e2acc6755e25bd3e8049564fb2ee49c57a",
@@ -466,7 +488,7 @@
       "title": "Notebooks in Gemini bring organization to complex tasks.\n\nTake the grad school application process: ...",
       "url": "https://x.com/GeminiApp/status/2052805372050604187",
       "published_at": "2026-05-08T17:38:34Z",
-      "summary": "Notebooks in Gemini bring organization to complex tasks. Take the grad school application process: With notebooks, you can gather your transcripts, essay drafts and admission requirements in one place, so Gemini can help track deadlines, give feedback, and assess your progress.💬4…"
+      "summary": "Notebooks in Gemini bring organization to complex tasks. Take the grad school application process: With notebooks, you can gather your transcripts, essay drafts and admission requirements in one place, so Gemini can help track deadlines, give feedback, and assess your progress.💬5…"
     },
     {
       "id": "906eb297ef1ae63600b474cd42e3ee2fa00c3b77",
@@ -477,7 +499,7 @@
       "title": "Just gonna leave this here.\n\nhttps://t.co/EOI980j9e9",
       "url": "https://x.com/OpenAI/status/2052800507727781979",
       "published_at": "2026-05-08T17:19:14Z",
-      "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬196🔄156❤️3809👀325518📊556⚡ Powered by xgo.ing"
+      "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬202🔄164❤️4076👀369718📊594⚡ Powered by xgo.ing"
     },
     {
       "id": "bfaf6bbe6b72b6f8cf596a29282fe2255de8868b",
@@ -499,7 +521,7 @@
       "title": "在非国区 App Store 里搜索 FateTell 这个名字就行",
       "url": "https://x.com/op7418/status/2052788965284171851",
       "published_at": "2026-05-08T16:33:22Z",
-      "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀2002📊1⚡ Powered by xgo.ing"
+      "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀2480📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "461e2cc1074dae566d4a01e766d71da56a3e177f",
@@ -521,7 +543,7 @@
       "title": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。\n\n他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。\n\n优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down...",
       "url": "https://x.com/op7418/status/2052764933696475279",
       "published_at": "2026-05-08T14:57:53Z",
-      "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬28🔄7❤️104👀19969📊54⚡ Powered by xgo.ing"
+      "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬31🔄13❤️132👀26072📊65⚡ Powered by xgo.ing"
     },
     {
       "id": "7c7e0962809f788666ac89c190676c75fd539cf7",
@@ -533,28 +555,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506934&idx=1&sn=6626bfb45b931de96727c330e7e1cbe2",
       "published_at": "2026-05-08T09:18:00Z",
       "summary": "卡尔的AI沃茨 2026-05-08 17:18 云南 新鲜出炉的Codex for Chrome扩展，Codex能直接上手浏览器里的网页和应用操作，跟原来的Broswer Use，Computer Use没啥不同？怎么组合使用？怎么从Claude Code迁移？内置浏览器什么时候用会更好用？ 一次性讲完， 1. 整个 Codex 插件 🔗 chromewebstore点google点com/detail/codex/hehggadaopoacecdllhhajmbjkdcmajg 2. Codex App， - Computer use里开Google…"
-    },
-    {
-      "id": "79f29d612ecc6bfc5a47612325795ac92dcd0c84",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
-      "url": "https://x.com/op7418/status/2052577119633551814",
-      "published_at": "2026-05-08T02:31:35Z",
-      "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀5395📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "61c9c2a7f53f7b583c3fe40b7b58d48f2ee95f4d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。\n\n而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个...",
-      "url": "https://x.com/op7418/status/2052576841656099037",
-      "published_at": "2026-05-08T02:30:28Z",
-      "summary": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。 而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个子 SubAgent 帮你操作多个网页。 我试了一下，发现最厉害的一点是：它不仅可以控制 Chrome，任何基于 Chromium 的浏览器都是可以的。比如我这里用的是 Dia 浏览器，我在 Dia 浏览器安装了一个插件，它就可以直接控制我的 Dia 浏览器。 具体如何使用呢？ 在 Codex 的插件库里找到 Chrome 这个插件。 点击添加，随后它会引导你…"
     }
   ]
 }
