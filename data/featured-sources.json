@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T23:51:39.263596Z",
+  "generated_at": "2026-05-09T02:14:51.426908Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 16,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 860,
+      "duration_ms": 915,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -32,8 +32,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 16,
-      "duration_ms": 25,
+      "item_count": 15,
+      "duration_ms": 31,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1126,
+      "duration_ms": 1202,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 689,
+      "duration_ms": 1094,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1149,
+      "duration_ms": 1116,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2081,
+      "duration_ms": 1944,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -103,7 +103,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1650,
+      "duration_ms": 1400,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -130,8 +130,8 @@
       "feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
-      "item_count": 80,
-      "duration_ms": 2505,
+      "item_count": 81,
+      "duration_ms": 2521,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1167,
+      "duration_ms": 1422,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2355,
+      "duration_ms": 2285,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -189,6 +189,28 @@
       "failed_feeds": [],
       "items": [
         {
+          "id": "4accee162e2d7ce3fedfa8a33cb8f2ff750246a2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-09",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-84",
+          "published_at": "2026-05-09T01:38:10Z",
+          "summary": "AI 早报 2026-05-09 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 蚂蚁百灵发布 Ring-2.6-1T，OpenRouter 免费试用一周 ↗ #1 智谱发布 GLM-5V-Turbo 报告，开放Coding Plan用户申请使用 ↗ #2 商汤科技推出SenseNova 6.7 Flash-Lite ↗ #3 阶跃星辰发布 StepAudio 2.5 Realtime 实时语音大模型 ↗ #4 AI2 发布 EMO 模型，实现混合专家语义模块化 ↗ #5 千问团队开源 WebWorld 世界模型面向 Web Agent 训练 ↗…"
+        },
+        {
+          "id": "68f38e320b0d7041cb848cadb7dea8afc13cf60f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司",
+          "url": "https://x.com/op7418/status/2052925146290417977",
+          "published_at": "2026-05-09T01:34:31Z",
+          "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司Tuomas Artman@artmanToday is a hard day. I shared this note with the @linear team today: We’ve made the difficult decision to increase our workforce. This is not a cost-cutting exercise or a reflection of anyone’s performance. We’re simply re…"
+        },
+        {
           "id": "b60cc494dd2688e73e6b88a1bb2ed791f5f3d3ab",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -197,7 +219,7 @@
           "title": "在非国区 App Store 里搜索 FateTell 这个名字就行",
           "url": "https://x.com/op7418/status/2052788965284171851",
           "published_at": "2026-05-08T16:33:22Z",
-          "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀1525⚡ Powered by xgo.ing"
+          "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀2002📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "461e2cc1074dae566d4a01e766d71da56a3e177f",
@@ -219,7 +241,7 @@
           "title": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。\n\n他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。\n\n优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down...",
           "url": "https://x.com/op7418/status/2052764933696475279",
           "published_at": "2026-05-08T14:57:53Z",
-          "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬22🔄4❤️63👀13028📊40⚡ Powered by xgo.ing"
+          "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬28🔄7❤️104👀19969📊54⚡ Powered by xgo.ing"
         },
         {
           "id": "7c7e0962809f788666ac89c190676c75fd539cf7",
@@ -241,7 +263,7 @@
           "title": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
           "url": "https://x.com/op7418/status/2052577119633551814",
           "published_at": "2026-05-08T02:31:35Z",
-          "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀5223📊3⚡ Powered by xgo.ing"
+          "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀5395📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "61c9c2a7f53f7b583c3fe40b7b58d48f2ee95f4d",
@@ -253,34 +275,12 @@
           "url": "https://x.com/op7418/status/2052576841656099037",
           "published_at": "2026-05-08T02:30:28Z",
           "summary": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。 而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个子 SubAgent 帮你操作多个网页。 我试了一下，发现最厉害的一点是：它不仅可以控制 Chrome，任何基于 Chromium 的浏览器都是可以的。比如我这里用的是 Dia 浏览器，我在 Dia 浏览器安装了一个插件，它就可以直接控制我的 Dia 浏览器。 具体如何使用呢？ 在 Codex 的插件库里找到 Chrome 这个插件。 点击添加，随后它会引导你…"
-        },
-        {
-          "id": "e87faf48be7bb23b250d9f14a087bdd2e2227377",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682046&idx=1&sn=f21b88c90627d7269724354359d0a9bd",
-          "published_at": "2026-05-08T02:08:00Z",
-          "summary": "Agent万岁"
-        },
-        {
-          "id": "4c2796bdfe3bbdf80da4ab23651f8a128d2e17b4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-08",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-83",
-          "published_at": "2026-05-08T01:47:03Z",
-          "summary": "AI 早报 2026-05-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布三款实时音频模型，GPT-Realtime-2 具 GPT-5 级推理 ↗ #1 火山方舟上线 Agent Plan 个人订阅套餐支持生成视频图片 ↗ #2 Codex 上线 Chrome 扩展，新增 Vim 模式 ↗ #3 模型发布 OpenAI 推出 GPT-5.5-Cyber 面向网络安全防御人员 ↗ #4 xAI 推出 Grok Imagine Quality Mode API ↗ #5 Zyphra 发布 ZAYA1-74B-Preview，基…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 9,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -308,7 +308,7 @@
           "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
           "url": "https://x.com/OpenAI/status/2052845768567066907",
           "published_at": "2026-05-08T20:19:05Z",
-          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬4🔄9❤️129👀35314📊17⚡ Powered by xgo.ing"
+          "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬5🔄9❤️143👀41586📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
@@ -330,7 +330,7 @@
           "title": "@andrew_n_carr 🧌\n\nhttps://t.co/BPT9kKuenb",
           "url": "https://x.com/OpenAI/status/2052829954992402835",
           "published_at": "2026-05-08T19:16:15Z",
-          "summary": "@andrew_n_carr 🧌 supply.openai.comb💬28🔄25❤️167👀130204📊47⚡ Powered by xgo.ing"
+          "summary": "@andrew_n_carr 🧌 supply.openai.comb💬28🔄27❤️178👀145994📊48⚡ Powered by xgo.ing"
         },
         {
           "id": "79003a566d2df946d727a1d8f792bc5237b7a21c",
@@ -341,7 +341,7 @@
           "title": "Just select “New notebook” in the side panel at https://t.co/382WL5xSvc and add all your relevant so...",
           "url": "https://x.com/GeminiApp/status/2052805408486719808",
           "published_at": "2026-05-08T17:38:43Z",
-          "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬3🔄3❤️43👀8572📊9⚡ Powered by xgo.ing"
+          "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬10🔄4❤️49👀10468📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "8db142e2acc6755e25bd3e8049564fb2ee49c57a",
@@ -352,7 +352,7 @@
           "title": "Notebooks in Gemini bring organization to complex tasks.\n\nTake the grad school application process: ...",
           "url": "https://x.com/GeminiApp/status/2052805372050604187",
           "published_at": "2026-05-08T17:38:34Z",
-          "summary": "Notebooks in Gemini bring organization to complex tasks. Take the grad school application process: With notebooks, you can gather your transcripts, essay drafts and admission requirements in one place, so Gemini can help track deadlines, give feedback, and assess your progress.💬3…"
+          "summary": "Notebooks in Gemini bring organization to complex tasks. Take the grad school application process: With notebooks, you can gather your transcripts, essay drafts and admission requirements in one place, so Gemini can help track deadlines, give feedback, and assess your progress.💬4…"
         },
         {
           "id": "906eb297ef1ae63600b474cd42e3ee2fa00c3b77",
@@ -363,7 +363,7 @@
           "title": "Just gonna leave this here.\n\nhttps://t.co/EOI980j9e9",
           "url": "https://x.com/OpenAI/status/2052800507727781979",
           "published_at": "2026-05-08T17:19:14Z",
-          "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬189🔄148❤️3589👀288925📊526⚡ Powered by xgo.ing"
+          "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬196🔄156❤️3809👀325518📊556⚡ Powered by xgo.ing"
         },
         {
           "id": "bfaf6bbe6b72b6f8cf596a29282fe2255de8868b",
@@ -375,22 +375,33 @@
           "url": "https://x.com/GoogleAI/status/2052789253038592466",
           "published_at": "2026-05-08T16:34:31Z",
           "summary": "Happy Friday! 🎉We’re officially 11 days away from I/O (but the launches keep rolling in). Here’s what happened this week: — The @googlehealth app, featuring a personalized health coach built with Gemini that uses your wearables, favorite health & fitness apps, and medical records…"
-        },
-        {
-          "id": "54a1e9663b836854a2f0e11b23e04b3eb458a102",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "May 8, 2026AlignmentTeaching Claude why",
-          "url": "https://www.anthropic.com/research/teaching-claude-why",
-          "published_at": "2026-05-08T00:00:00Z",
-          "summary": "May 8, 2026AlignmentTeaching Claude why"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "4accee162e2d7ce3fedfa8a33cb8f2ff750246a2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-09",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-84",
+      "published_at": "2026-05-09T01:38:10Z",
+      "summary": "AI 早报 2026-05-09 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 蚂蚁百灵发布 Ring-2.6-1T，OpenRouter 免费试用一周 ↗ #1 智谱发布 GLM-5V-Turbo 报告，开放Coding Plan用户申请使用 ↗ #2 商汤科技推出SenseNova 6.7 Flash-Lite ↗ #3 阶跃星辰发布 StepAudio 2.5 Realtime 实时语音大模型 ↗ #4 AI2 发布 EMO 模型，实现混合专家语义模块化 ↗ #5 千问团队开源 WebWorld 世界模型面向 Web Agent 训练 ↗…"
+    },
+    {
+      "id": "68f38e320b0d7041cb848cadb7dea8afc13cf60f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司",
+      "url": "https://x.com/op7418/status/2052925146290417977",
+      "published_at": "2026-05-09T01:34:31Z",
+      "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司Tuomas Artman@artmanToday is a hard day. I shared this note with the @linear team today: We’ve made the difficult decision to increase our workforce. This is not a cost-cutting exercise or a reflection of anyone’s performance. We’re simply re…"
+    },
     {
       "id": "449b6d858429d6b1109d33ea7909074f8caea22b",
       "site_id": "featuredrss",
@@ -411,7 +422,7 @@
       "title": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai,...",
       "url": "https://x.com/OpenAI/status/2052845768567066907",
       "published_at": "2026-05-08T20:19:05Z",
-      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬4🔄9❤️129👀35314📊17⚡ Powered by xgo.ing"
+      "summary": "We also had three third-party AI safety organizations provide feedback on our analysis: @redwood_ai, @apolloaievals, @METR_Evals. You can find @redwood_ai's report here: blog.redwoodresearch.org/p/openai-cot💬5🔄9❤️143👀41586📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "d7e767ecda84da687c07695c1cf81a5393bf65e5",
@@ -433,7 +444,7 @@
       "title": "@andrew_n_carr 🧌\n\nhttps://t.co/BPT9kKuenb",
       "url": "https://x.com/OpenAI/status/2052829954992402835",
       "published_at": "2026-05-08T19:16:15Z",
-      "summary": "@andrew_n_carr 🧌 supply.openai.comb💬28🔄25❤️167👀130204📊47⚡ Powered by xgo.ing"
+      "summary": "@andrew_n_carr 🧌 supply.openai.comb💬28🔄27❤️178👀145994📊48⚡ Powered by xgo.ing"
     },
     {
       "id": "79003a566d2df946d727a1d8f792bc5237b7a21c",
@@ -444,7 +455,7 @@
       "title": "Just select “New notebook” in the side panel at https://t.co/382WL5xSvc and add all your relevant so...",
       "url": "https://x.com/GeminiApp/status/2052805408486719808",
       "published_at": "2026-05-08T17:38:43Z",
-      "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬3🔄3❤️43👀8572📊9⚡ Powered by xgo.ing"
+      "summary": "Just select “New notebook” in the side panel at gemini.google and add all your relevant sources to get started. Share how you plan to use notebooks in the replies ↓💬10🔄4❤️49👀10468📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "8db142e2acc6755e25bd3e8049564fb2ee49c57a",
@@ -455,7 +466,7 @@
       "title": "Notebooks in Gemini bring organization to complex tasks.\n\nTake the grad school application process: ...",
       "url": "https://x.com/GeminiApp/status/2052805372050604187",
       "published_at": "2026-05-08T17:38:34Z",
-      "summary": "Notebooks in Gemini bring organization to complex tasks. Take the grad school application process: With notebooks, you can gather your transcripts, essay drafts and admission requirements in one place, so Gemini can help track deadlines, give feedback, and assess your progress.💬3…"
+      "summary": "Notebooks in Gemini bring organization to complex tasks. Take the grad school application process: With notebooks, you can gather your transcripts, essay drafts and admission requirements in one place, so Gemini can help track deadlines, give feedback, and assess your progress.💬4…"
     },
     {
       "id": "906eb297ef1ae63600b474cd42e3ee2fa00c3b77",
@@ -466,7 +477,7 @@
       "title": "Just gonna leave this here.\n\nhttps://t.co/EOI980j9e9",
       "url": "https://x.com/OpenAI/status/2052800507727781979",
       "published_at": "2026-05-08T17:19:14Z",
-      "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬189🔄148❤️3589👀288925📊526⚡ Powered by xgo.ing"
+      "summary": "Just gonna leave this here. chatgpt.com/codex/switch-t…💬196🔄156❤️3809👀325518📊556⚡ Powered by xgo.ing"
     },
     {
       "id": "bfaf6bbe6b72b6f8cf596a29282fe2255de8868b",
@@ -488,7 +499,7 @@
       "title": "在非国区 App Store 里搜索 FateTell 这个名字就行",
       "url": "https://x.com/op7418/status/2052788965284171851",
       "published_at": "2026-05-08T16:33:22Z",
-      "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀1525⚡ Powered by xgo.ing"
+      "summary": "在非国区 App Store 里搜索 FateTell 这个名字就行💬0🔄0❤️1👀2002📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "461e2cc1074dae566d4a01e766d71da56a3e177f",
@@ -510,7 +521,7 @@
       "title": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。\n\n他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。\n\n优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down...",
       "url": "https://x.com/op7418/status/2052764933696475279",
       "published_at": "2026-05-08T14:57:53Z",
-      "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬22🔄4❤️63👀13028📊40⚡ Powered by xgo.ing"
+      "summary": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。Your browser does not support the video tag.🔗 View on Twitter💬28🔄7❤️104👀19969📊54⚡ Powered by xgo.ing"
     },
     {
       "id": "7c7e0962809f788666ac89c190676c75fd539cf7",
@@ -532,7 +543,7 @@
       "title": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
       "url": "https://x.com/op7418/status/2052577119633551814",
       "published_at": "2026-05-08T02:31:35Z",
-      "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀5223📊3⚡ Powered by xgo.ing"
+      "summary": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里💬2🔄1❤️0👀5395📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "61c9c2a7f53f7b583c3fe40b7b58d48f2ee95f4d",
@@ -544,39 +555,6 @@
       "url": "https://x.com/op7418/status/2052576841656099037",
       "published_at": "2026-05-08T02:30:28Z",
       "summary": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。 而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个子 SubAgent 帮你操作多个网页。 我试了一下，发现最厉害的一点是：它不仅可以控制 Chrome，任何基于 Chromium 的浏览器都是可以的。比如我这里用的是 Dia 浏览器，我在 Dia 浏览器安装了一个插件，它就可以直接控制我的 Dia 浏览器。 具体如何使用呢？ 在 Codex 的插件库里找到 Chrome 这个插件。 点击添加，随后它会引导你…"
-    },
-    {
-      "id": "e87faf48be7bb23b250d9f14a087bdd2e2227377",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "装了这个AI热点Skill之后，你再也不需要自己去刷AI新闻了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682046&idx=1&sn=f21b88c90627d7269724354359d0a9bd",
-      "published_at": "2026-05-08T02:08:00Z",
-      "summary": "Agent万岁"
-    },
-    {
-      "id": "4c2796bdfe3bbdf80da4ab23651f8a128d2e17b4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-08",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-83",
-      "published_at": "2026-05-08T01:47:03Z",
-      "summary": "AI 早报 2026-05-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布三款实时音频模型，GPT-Realtime-2 具 GPT-5 级推理 ↗ #1 火山方舟上线 Agent Plan 个人订阅套餐支持生成视频图片 ↗ #2 Codex 上线 Chrome 扩展，新增 Vim 模式 ↗ #3 模型发布 OpenAI 推出 GPT-5.5-Cyber 面向网络安全防御人员 ↗ #4 xAI 推出 Grok Imagine Quality Mode API ↗ #5 Zyphra 发布 ZAYA1-74B-Preview，基…"
-    },
-    {
-      "id": "54a1e9663b836854a2f0e11b23e04b3eb458a102",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "May 8, 2026AlignmentTeaching Claude why",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "published_at": "2026-05-08T00:00:00Z",
-      "summary": "May 8, 2026AlignmentTeaching Claude why"
     }
   ]
 }
