@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T15:45:45.347796Z",
+  "generated_at": "2026-05-10T16:45:10.537633Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 666,
+      "duration_ms": 781,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 40,
+      "duration_ms": 65,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1003,
+      "duration_ms": 682,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 879,
+      "duration_ms": 564,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 353,
+      "duration_ms": 422,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1547,
+      "duration_ms": 1501,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1170,
+      "duration_ms": 1088,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 198,
+      "duration_ms": 233,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 977,
+      "duration_ms": 805,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1599,
+      "duration_ms": 1469,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,7 +183,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
@@ -197,7 +197,7 @@
           "title": "歸藏的 PPT Skill \n\n新主题更多内容的预览",
           "url": "https://x.com/op7418/status/2053381253328752903",
           "published_at": "2026-05-10T07:46:55Z",
-          "summary": "歸藏的 PPT Skill 新主题更多内容的预览Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告🔗 View Quoted Tweet💬18🔄9❤️85👀14429📊30⚡ Powered by xgo.ing"
+          "summary": "歸藏的 PPT Skill 新主题更多内容的预览Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告🔗 View Quoted Tweet💬18🔄9❤️93👀15355📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "6d5abe3727af2d053eafc87e4a4af513bf777881",
@@ -209,17 +209,6 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-85",
           "published_at": "2026-05-10T00:44:21Z",
           "summary": "AI 早报 2026-05-10 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 百度宣布文心 5.1 模型正式上线 ↗ #1 HiDream-ai 开源 HiDream-O1-Image 图像生成模型 ↗ #2 开发生态 OpenRouter 推出 Pareto Code 实验性编码路由 ↗ #3 技术与洞察 OpenAI 公开内部 Codex 安全运行实践 ↗ #4 Perplexity 公开内部 Agent Skills 设计维护指南 ↗ #5 行业动态 Nous Research 宣布 Hermes Agent 登顶 OpenRouter…"
-        },
-        {
-          "id": "b2439bfba9f94ed793720c2978eccacf4bef8d31",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "厌倦了千篇一律的衬线字体和排版？\n\n歸藏的 PPT Skill 新主题预告",
-          "url": "https://x.com/op7418/status/2053143307371556944",
-          "published_at": "2026-05-09T16:01:24Z",
-          "summary": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告歸藏(guizang.ai)@op7418x.com/i/article/2047…🔗 View Quoted Tweet💬25🔄34❤️284👀56332📊82⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -245,7 +234,7 @@
       "title": "歸藏的 PPT Skill \n\n新主题更多内容的预览",
       "url": "https://x.com/op7418/status/2053381253328752903",
       "published_at": "2026-05-10T07:46:55Z",
-      "summary": "歸藏的 PPT Skill 新主题更多内容的预览Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告🔗 View Quoted Tweet💬18🔄9❤️85👀14429📊30⚡ Powered by xgo.ing"
+      "summary": "歸藏的 PPT Skill 新主题更多内容的预览Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告🔗 View Quoted Tweet💬18🔄9❤️93👀15355📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "6d5abe3727af2d053eafc87e4a4af513bf777881",
@@ -257,17 +246,6 @@
       "url": "https://imjuya.github.io/juya-ai-daily/issue-85",
       "published_at": "2026-05-10T00:44:21Z",
       "summary": "AI 早报 2026-05-10 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 百度宣布文心 5.1 模型正式上线 ↗ #1 HiDream-ai 开源 HiDream-O1-Image 图像生成模型 ↗ #2 开发生态 OpenRouter 推出 Pareto Code 实验性编码路由 ↗ #3 技术与洞察 OpenAI 公开内部 Codex 安全运行实践 ↗ #4 Perplexity 公开内部 Agent Skills 设计维护指南 ↗ #5 行业动态 Nous Research 宣布 Hermes Agent 登顶 OpenRouter…"
-    },
-    {
-      "id": "b2439bfba9f94ed793720c2978eccacf4bef8d31",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "厌倦了千篇一律的衬线字体和排版？\n\n歸藏的 PPT Skill 新主题预告",
-      "url": "https://x.com/op7418/status/2053143307371556944",
-      "published_at": "2026-05-09T16:01:24Z",
-      "summary": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告歸藏(guizang.ai)@op7418x.com/i/article/2047…🔗 View Quoted Tweet💬25🔄34❤️284👀56332📊82⚡ Powered by xgo.ing"
     }
   ]
 }
