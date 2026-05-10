@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T23:40:36.583414Z",
+  "generated_at": "2026-05-10T02:25:38.020747Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 679,
+      "duration_ms": 750,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 93,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 406,
+      "duration_ms": 638,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 617,
+      "duration_ms": 478,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 384,
+      "duration_ms": 320,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1185,
+      "duration_ms": 1127,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 943,
+      "duration_ms": 945,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 192,
+      "duration_ms": 177,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 632,
+      "duration_ms": 575,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1321,
+      "duration_ms": 1295,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "6d5abe3727af2d053eafc87e4a4af513bf777881",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-10",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-85",
+          "published_at": "2026-05-10T00:44:21Z",
+          "summary": "AI 早报 2026-05-10 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 百度宣布文心 5.1 模型正式上线 ↗ #1 HiDream-ai 开源 HiDream-O1-Image 图像生成模型 ↗ #2 开发生态 OpenRouter 推出 Pareto Code 实验性编码路由 ↗ #3 技术与洞察 OpenAI 公开内部 Codex 安全运行实践 ↗ #4 Perplexity 公开内部 Agent Skills 设计维护指南 ↗ #5 行业动态 Nous Research 宣布 Hermes Agent 登顶 OpenRouter…"
+        },
         {
           "id": "b2439bfba9f94ed793720c2978eccacf4bef8d31",
           "site_id": "featuredrss",
@@ -197,7 +208,7 @@
           "title": "厌倦了千篇一律的衬线字体和排版？\n\n歸藏的 PPT Skill 新主题预告",
           "url": "https://x.com/op7418/status/2053143307371556944",
           "published_at": "2026-05-09T16:01:24Z",
-          "summary": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告歸藏(guizang.ai)@op7418x.com/i/article/2047…🔗 View Quoted Tweet💬11🔄13❤️88👀12807📊31⚡ Powered by xgo.ing"
+          "summary": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告歸藏(guizang.ai)@op7418x.com/i/article/2047…🔗 View Quoted Tweet💬24🔄21❤️139👀19791📊51⚡ Powered by xgo.ing"
         },
         {
           "id": "7ba852d32fb01c2caaae6b89597bafdd144b64f9",
@@ -208,7 +219,7 @@
           "title": "北京这几天的夕阳是真漂亮。",
           "url": "https://x.com/op7418/status/2053065172873560499",
           "published_at": "2026-05-09T10:50:55Z",
-          "summary": "北京这几天的夕阳是真漂亮。💬20🔄0❤️10👀3943📊17⚡ Powered by xgo.ing"
+          "summary": "北京这几天的夕阳是真漂亮。💬24🔄0❤️10👀4190📊21⚡ Powered by xgo.ing"
         },
         {
           "id": "5c53ec9f78b5317deacb8a163a226efd1198dddd",
@@ -219,7 +230,7 @@
           "title": "Mac Studio 也没货了",
           "url": "https://x.com/op7418/status/2053020181853778289",
           "published_at": "2026-05-09T07:52:09Z",
-          "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬34🔄1❤️16👀17402📊24⚡ Powered by xgo.in…"
+          "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬34🔄1❤️16👀18522📊24⚡ Powered by xgo.in…"
         },
         {
           "id": "3f62bef0e98c5529783ad0d4a67ad47b9cb0371f",
@@ -241,7 +252,7 @@
           "title": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
           "url": "https://x.com/op7418/status/2052961068918677554",
           "published_at": "2026-05-09T03:57:15Z",
-          "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀3333⚡ Powered by xgo.ing"
+          "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀3447⚡ Powered by xgo.ing"
         },
         {
           "id": "b1dd7203d515848f49eac2188e989ace3c58d9c7",
@@ -253,28 +264,6 @@
           "url": "https://x.com/op7418/status/2052943672556274040",
           "published_at": "2026-05-09T02:48:08Z",
           "summary": "当前 AI 产品演进已经确立了一个清晰的行业共识： 采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。 这个思路的脉络是，前几天借着 Obsidian 作者提出 Markdown 是 AI 内容谢林点的观点，我发散讨论了当前 AI 原生格式主要分为 Markdown 和 HTML。 刚好今天 Claude Code 的作者也发文印证了这一点，他提到自己主要的对外分享形式已经全面转向 HTML。这两位前沿开发者的观点结合在一起，非常完整地勾勒出了这套方案的底层逻辑。 在这个架构中，Mar…"
-        },
-        {
-          "id": "4accee162e2d7ce3fedfa8a33cb8f2ff750246a2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-09",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-84",
-          "published_at": "2026-05-09T01:38:10Z",
-          "summary": "AI 早报 2026-05-09 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 蚂蚁百灵发布 Ring-2.6-1T，OpenRouter 免费试用一周 ↗ #1 智谱发布 GLM-5V-Turbo 报告，开放Coding Plan用户申请使用 ↗ #2 商汤科技推出SenseNova 6.7 Flash-Lite ↗ #3 阶跃星辰发布 StepAudio 2.5 Realtime 实时语音大模型 ↗ #4 AI2 发布 EMO 模型，实现混合专家语义模块化 ↗ #5 千问团队开源 WebWorld 世界模型面向 Web Agent 训练 ↗…"
-        },
-        {
-          "id": "68f38e320b0d7041cb848cadb7dea8afc13cf60f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司",
-          "url": "https://x.com/op7418/status/2052925146290417977",
-          "published_at": "2026-05-09T01:34:31Z",
-          "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司💬29🔄4❤️101👀73584📊38⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -292,6 +281,17 @@
   },
   "items": [
     {
+      "id": "6d5abe3727af2d053eafc87e4a4af513bf777881",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-10",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-85",
+      "published_at": "2026-05-10T00:44:21Z",
+      "summary": "AI 早报 2026-05-10 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 百度宣布文心 5.1 模型正式上线 ↗ #1 HiDream-ai 开源 HiDream-O1-Image 图像生成模型 ↗ #2 开发生态 OpenRouter 推出 Pareto Code 实验性编码路由 ↗ #3 技术与洞察 OpenAI 公开内部 Codex 安全运行实践 ↗ #4 Perplexity 公开内部 Agent Skills 设计维护指南 ↗ #5 行业动态 Nous Research 宣布 Hermes Agent 登顶 OpenRouter…"
+    },
+    {
       "id": "b2439bfba9f94ed793720c2978eccacf4bef8d31",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -300,7 +300,7 @@
       "title": "厌倦了千篇一律的衬线字体和排版？\n\n歸藏的 PPT Skill 新主题预告",
       "url": "https://x.com/op7418/status/2053143307371556944",
       "published_at": "2026-05-09T16:01:24Z",
-      "summary": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告歸藏(guizang.ai)@op7418x.com/i/article/2047…🔗 View Quoted Tweet💬11🔄13❤️88👀12807📊31⚡ Powered by xgo.ing"
+      "summary": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告歸藏(guizang.ai)@op7418x.com/i/article/2047…🔗 View Quoted Tweet💬24🔄21❤️139👀19791📊51⚡ Powered by xgo.ing"
     },
     {
       "id": "7ba852d32fb01c2caaae6b89597bafdd144b64f9",
@@ -311,7 +311,7 @@
       "title": "北京这几天的夕阳是真漂亮。",
       "url": "https://x.com/op7418/status/2053065172873560499",
       "published_at": "2026-05-09T10:50:55Z",
-      "summary": "北京这几天的夕阳是真漂亮。💬20🔄0❤️10👀3943📊17⚡ Powered by xgo.ing"
+      "summary": "北京这几天的夕阳是真漂亮。💬24🔄0❤️10👀4190📊21⚡ Powered by xgo.ing"
     },
     {
       "id": "5c53ec9f78b5317deacb8a163a226efd1198dddd",
@@ -322,7 +322,7 @@
       "title": "Mac Studio 也没货了",
       "url": "https://x.com/op7418/status/2053020181853778289",
       "published_at": "2026-05-09T07:52:09Z",
-      "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬34🔄1❤️16👀17402📊24⚡ Powered by xgo.in…"
+      "summary": "Mac Studio 也没货了歸藏(guizang.ai)@op7418过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。🔗 View Quoted Tweet💬34🔄1❤️16👀18522📊24⚡ Powered by xgo.in…"
     },
     {
       "id": "3f62bef0e98c5529783ad0d4a67ad47b9cb0371f",
@@ -344,7 +344,7 @@
       "title": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
       "url": "https://x.com/op7418/status/2052961068918677554",
       "published_at": "2026-05-09T03:57:15Z",
-      "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀3333⚡ Powered by xgo.ing"
+      "summary": "哎，这些用 AI 回复的哥们儿真是删都删不完。💬0🔄0❤️0👀3447⚡ Powered by xgo.ing"
     },
     {
       "id": "b1dd7203d515848f49eac2188e989ace3c58d9c7",
@@ -356,28 +356,6 @@
       "url": "https://x.com/op7418/status/2052943672556274040",
       "published_at": "2026-05-09T02:48:08Z",
       "summary": "当前 AI 产品演进已经确立了一个清晰的行业共识： 采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。 这个思路的脉络是，前几天借着 Obsidian 作者提出 Markdown 是 AI 内容谢林点的观点，我发散讨论了当前 AI 原生格式主要分为 Markdown 和 HTML。 刚好今天 Claude Code 的作者也发文印证了这一点，他提到自己主要的对外分享形式已经全面转向 HTML。这两位前沿开发者的观点结合在一起，非常完整地勾勒出了这套方案的底层逻辑。 在这个架构中，Mar…"
-    },
-    {
-      "id": "4accee162e2d7ce3fedfa8a33cb8f2ff750246a2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-09",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-84",
-      "published_at": "2026-05-09T01:38:10Z",
-      "summary": "AI 早报 2026-05-09 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 蚂蚁百灵发布 Ring-2.6-1T，OpenRouter 免费试用一周 ↗ #1 智谱发布 GLM-5V-Turbo 报告，开放Coding Plan用户申请使用 ↗ #2 商汤科技推出SenseNova 6.7 Flash-Lite ↗ #3 阶跃星辰发布 StepAudio 2.5 Realtime 实时语音大模型 ↗ #4 AI2 发布 EMO 模型，实现混合专家语义模块化 ↗ #5 千问团队开源 WebWorld 世界模型面向 Web Agent 训练 ↗…"
-    },
-    {
-      "id": "68f38e320b0d7041cb848cadb7dea8afc13cf60f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司",
-      "url": "https://x.com/op7418/status/2052925146290417977",
-      "published_at": "2026-05-09T01:34:31Z",
-      "summary": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司💬29🔄4❤️101👀73584📊38⚡ Powered by xgo.ing"
     }
   ]
 }
