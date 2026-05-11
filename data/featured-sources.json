@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-11T02:35:08.675413Z",
+  "generated_at": "2026-05-11T06:32:51.875559Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 2019,
+      "duration_ms": 1048,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 23,
+      "duration_ms": 63,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 522,
+      "duration_ms": 558,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 475,
+      "duration_ms": 854,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 303,
+      "duration_ms": 831,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1425,
+      "duration_ms": 1505,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1285,
+      "duration_ms": 1250,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 161,
+      "duration_ms": 214,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 602,
+      "duration_ms": 851,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1117,
+      "duration_ms": 1618,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,66 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "4a5d1917d0d8ada183158baf3b1a8f83c52fbb52",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "更新新版本了：https://t.co/YlSB4MZiDz",
+          "url": "https://x.com/op7418/status/2053665398063784332",
+          "published_at": "2026-05-11T02:36:00Z",
+          "summary": "更新新版本了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️2👀1951📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e169639b1005b921cdfa89d0b445e5c82202a0c3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "观察了三年，我把所有人用AI的水平分成了10个等级。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682080&idx=1&sn=a28669e4d298a57c496d85bd2ce361ea",
+          "published_at": "2026-05-11T02:09:00Z",
+          "summary": "你在第几级"
+        },
+        {
+          "id": "2cb74d557ae7b559e6f4c1e52976cabf104d4c40",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "发布了：https://t.co/YlSB4MZiDz",
+          "url": "https://x.com/op7418/status/2053657747057758423",
+          "published_at": "2026-05-11T02:05:36Z",
+          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️2👀1851📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "7aa4115f633b6e3b78d02cea11ecbbfe0d6c0fef",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "发布了：https://t.co/YlSB4MZiDz",
+          "url": "https://x.com/op7418/status/2053657711892668844",
+          "published_at": "2026-05-11T02:05:28Z",
+          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️1👀1776⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8ac6b316d2ee18f472bcbef95b6b2749acd639b0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/lHQkxeTcRm",
+          "url": "https://x.com/op7418/status/2053657613460771142",
+          "published_at": "2026-05-11T02:05:04Z",
+          "summary": "x.com/i/article/2053…💬24🔄62❤️409👀31021📊163⚡ Powered by xgo.ing"
+        },
         {
           "id": "e20b63c41632077e67497455344810e0ebecb998",
           "site_id": "featuredrss",
@@ -208,7 +263,7 @@
           "title": "歸藏的 PPT Skill \n\n新主题更多内容的预览",
           "url": "https://x.com/op7418/status/2053381253328752903",
           "published_at": "2026-05-10T07:46:55Z",
-          "summary": "歸藏的 PPT Skill 新主题更多内容的预览Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告🔗 View Quoted Tweet💬18🔄13❤️119👀19342📊36⚡ Powered by xgo.ing"
+          "summary": "歸藏的 PPT Skill 新主题更多内容的预览Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告🔗 View Quoted Tweet💬23🔄13❤️128👀23361📊41⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -225,6 +280,61 @@
     }
   },
   "items": [
+    {
+      "id": "4a5d1917d0d8ada183158baf3b1a8f83c52fbb52",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "更新新版本了：https://t.co/YlSB4MZiDz",
+      "url": "https://x.com/op7418/status/2053665398063784332",
+      "published_at": "2026-05-11T02:36:00Z",
+      "summary": "更新新版本了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️2👀1951📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e169639b1005b921cdfa89d0b445e5c82202a0c3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "观察了三年，我把所有人用AI的水平分成了10个等级。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682080&idx=1&sn=a28669e4d298a57c496d85bd2ce361ea",
+      "published_at": "2026-05-11T02:09:00Z",
+      "summary": "你在第几级"
+    },
+    {
+      "id": "2cb74d557ae7b559e6f4c1e52976cabf104d4c40",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "发布了：https://t.co/YlSB4MZiDz",
+      "url": "https://x.com/op7418/status/2053657747057758423",
+      "published_at": "2026-05-11T02:05:36Z",
+      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️2👀1851📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "7aa4115f633b6e3b78d02cea11ecbbfe0d6c0fef",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "发布了：https://t.co/YlSB4MZiDz",
+      "url": "https://x.com/op7418/status/2053657711892668844",
+      "published_at": "2026-05-11T02:05:28Z",
+      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️1👀1776⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8ac6b316d2ee18f472bcbef95b6b2749acd639b0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/lHQkxeTcRm",
+      "url": "https://x.com/op7418/status/2053657613460771142",
+      "published_at": "2026-05-11T02:05:04Z",
+      "summary": "x.com/i/article/2053…💬24🔄62❤️409👀31021📊163⚡ Powered by xgo.ing"
+    },
     {
       "id": "e20b63c41632077e67497455344810e0ebecb998",
       "site_id": "featuredrss",
@@ -245,7 +355,7 @@
       "title": "歸藏的 PPT Skill \n\n新主题更多内容的预览",
       "url": "https://x.com/op7418/status/2053381253328752903",
       "published_at": "2026-05-10T07:46:55Z",
-      "summary": "歸藏的 PPT Skill 新主题更多内容的预览Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告🔗 View Quoted Tweet💬18🔄13❤️119👀19342📊36⚡ Powered by xgo.ing"
+      "summary": "歸藏的 PPT Skill 新主题更多内容的预览Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告🔗 View Quoted Tweet💬23🔄13❤️128👀23361📊41⚡ Powered by xgo.ing"
     }
   ]
 }
