@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-11T23:52:34.053624Z",
+  "generated_at": "2026-05-12T02:28:05.093652Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 413,
+      "duration_ms": 890,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 26,
+      "duration_ms": 66,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 921,
+      "duration_ms": 870,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 783,
+      "duration_ms": 601,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 607,
+      "duration_ms": 548,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1652,
+      "duration_ms": 1498,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1340,
+      "duration_ms": 1124,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 175,
+      "duration_ms": 213,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 940,
+      "duration_ms": 878,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1705,
+      "duration_ms": 1568,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "3f331208a4c5b1ca27647dd0b5e296fee81afbae",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-12",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-87",
+          "published_at": "2026-05-12T00:59:47Z",
+          "summary": "AI 早报 2026-05-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude Code 上线 Agent view 功能并新增 /goal 指令 ↗ #1 模型发布 Thinking Machines Lab 发布实时多模态“交互模型” TML-Interaction-Small ↗ #2 OpenBMB 发布开源多模态模型 MiniCPM-V 4.6 ↗ #3 开发生态 Anthropic 推出 Claude Platform on AWS ↗ #4 OpenAI 为 Codex 推出 OpenAI Developers 插件 ↗…"
+        },
         {
           "id": "9a86c8a70ad4855a49df54bf406ac0dbab8434cb",
           "site_id": "featuredrss",
@@ -208,7 +219,7 @@
           "title": "来了！藏师傅的 PPT Skill 更新了第二套主题\n\n新主题更加简洁美观，适合讲一些数据和事实性的内容\n\n而且支持 4 种颜色、20 多个版式。\n\n支持用 Codex 内置的 GPT-2.0 帮你生...",
           "url": "https://x.com/op7418/status/2053743942097911952",
           "published_at": "2026-05-11T07:48:07Z",
-          "summary": "来了！藏师傅的 PPT Skill 更新了第二套主题 新主题更加简洁美观，适合讲一些数据和事实性的内容 而且支持 4 种颜色、20 多个版式。 支持用 Codex 内置的 GPT-2.0 帮你生成配图和美化截图。 还能让它帮你生成各种平台的封面，以及公众号配图。 文章里详细讲了一下怎么用，还有一些小技巧。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬16🔄2…"
+          "summary": "来了！藏师傅的 PPT Skill 更新了第二套主题 新主题更加简洁美观，适合讲一些数据和事实性的内容 而且支持 4 种颜色、20 多个版式。 支持用 Codex 内置的 GPT-2.0 帮你生成配图和美化截图。 还能让它帮你生成各种平台的封面，以及公众号配图。 文章里详细讲了一下怎么用，还有一些小技巧。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬16🔄3…"
         },
         {
           "id": "4a5d1917d0d8ada183158baf3b1a8f83c52fbb52",
@@ -219,62 +230,7 @@
           "title": "更新新版本了：https://t.co/YlSB4MZiDz",
           "url": "https://x.com/op7418/status/2053665398063784332",
           "published_at": "2026-05-11T02:36:00Z",
-          "summary": "更新新版本了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️3👀3348📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e169639b1005b921cdfa89d0b445e5c82202a0c3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "观察了三年，我把所有人用AI的水平分成了10个等级。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682080&idx=1&sn=a28669e4d298a57c496d85bd2ce361ea",
-          "published_at": "2026-05-11T02:09:00Z",
-          "summary": "你在第几级"
-        },
-        {
-          "id": "2cb74d557ae7b559e6f4c1e52976cabf104d4c40",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "发布了：https://t.co/YlSB4MZiDz",
-          "url": "https://x.com/op7418/status/2053657747057758423",
-          "published_at": "2026-05-11T02:05:36Z",
-          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️3👀3095📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7aa4115f633b6e3b78d02cea11ecbbfe0d6c0fef",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "发布了：https://t.co/YlSB4MZiDz",
-          "url": "https://x.com/op7418/status/2053657711892668844",
-          "published_at": "2026-05-11T02:05:28Z",
-          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄1❤️4👀3622📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8ac6b316d2ee18f472bcbef95b6b2749acd639b0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "https://t.co/lHQkxeTcRm",
-          "url": "https://x.com/op7418/status/2053657613460771142",
-          "published_at": "2026-05-11T02:05:04Z",
-          "summary": "x.com/i/article/2053…💬46🔄229❤️1233👀214320📊521⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e20b63c41632077e67497455344810e0ebecb998",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-11",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-86",
-          "published_at": "2026-05-11T00:39:58Z",
-          "summary": "AI 早报 2026-05-11 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Codex 周安装量达 8610 万，12 倍于 Claude Code ↗ #1 Hermes Agent 新增 LINE 网关通道 ↗ #2 OpenAI终止开发者自助微调通道 ↗ #3 Hugging Face 推出 hf-sandbox，基于 Jobs 打造云端代码沙箱 ↗ #4 技术与洞察 调查曝光“中转站”利用被盗凭证和模型替换盈利，并出售用户数据 ↗ #5 前瞻与传闻 Jarred Sumner 透露正在将 Bun 运行时从 Zig 重写为 Rust ↗…"
+          "summary": "更新新版本了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️3👀3456📊2⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -297,7 +253,7 @@
           "title": "Automate security detection, validation, and response with Daybreak",
           "url": "https://x.com/OpenAI/status/2053939706468139481",
           "published_at": "2026-05-11T20:46:01Z",
-          "summary": "Automate security detection, validation, and response with DaybreakYour browser does not support the video tag.🔗 View on Twitter💬6🔄6❤️202👀48395📊23⚡ Powered by xgo.ing"
+          "summary": "Automate security detection, validation, and response with DaybreakYour browser does not support the video tag.🔗 View on Twitter💬8🔄7❤️246👀61197📊29⚡ Powered by xgo.ing"
         },
         {
           "id": "429cb9e27c82c65b23c5a166221cdda59ea868b0",
@@ -308,7 +264,7 @@
           "title": "https://t.co/EoO5fF9pcT",
           "url": "https://x.com/OpenAI/status/2053939707818692907",
           "published_at": "2026-05-11T20:46:01Z",
-          "summary": "openai.com/daybreak/💬13🔄8❤️229👀47140📊39⚡ Powered by xgo.ing"
+          "summary": "openai.com/daybreak/💬14🔄11❤️279👀59191📊46⚡ Powered by xgo.ing"
         },
         {
           "id": "ab8669f3584e661792b527bc41d5188ff79ae4c7",
@@ -330,7 +286,7 @@
           "title": "Find your next escape.\n\nJust ask Gemini to combine your dream destinations, favorite activities, and...",
           "url": "https://x.com/GeminiApp/status/2053890206798065829",
           "published_at": "2026-05-11T17:29:19Z",
-          "summary": "Find your next escape. Just ask Gemini to combine your dream destinations, favorite activities, and past reservations into a one-of-a-kind brainstorm for future travel.Your browser does not support the video tag.🔗 View on Twitter💬3🔄1❤️35👀9396📊6⚡ Powered by xgo.ing"
+          "summary": "Find your next escape. Just ask Gemini to combine your dream destinations, favorite activities, and past reservations into a one-of-a-kind brainstorm for future travel.Your browser does not support the video tag.🔗 View on Twitter💬3🔄1❤️37👀10518📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "b26a693938737be9eb069ede3dced8cf6f878ead",
@@ -341,7 +297,7 @@
           "title": "How are you using Personal Intelligence in Gemini?",
           "url": "https://x.com/GeminiApp/status/2053890208098382235",
           "published_at": "2026-05-11T17:29:19Z",
-          "summary": "How are you using Personal Intelligence in Gemini?💬7🔄1❤️30👀8612📊9⚡ Powered by xgo.ing"
+          "summary": "How are you using Personal Intelligence in Gemini?💬8🔄1❤️30👀9596📊9⚡ Powered by xgo.ing"
         },
         {
           "id": "d9bfdef13da55a26a60faa32e27980de56da2f13",
@@ -352,7 +308,7 @@
           "title": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you.\n\nIt saves ti...",
           "url": "https://x.com/GeminiApp/status/2053889747752190393",
           "published_at": "2026-05-11T17:27:29Z",
-          "summary": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you. It saves time by connecting dots across your @Gmail, @GooglePhotos, @Google Search, and @YouTube history. Choose which apps to connect and manage your personalization settings at any time 🧵💬51…"
+          "summary": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you. It saves time by connecting dots across your @Gmail, @GooglePhotos, @Google Search, and @YouTube history. Choose which apps to connect and manage your personalization settings at any time 🧵💬58…"
         },
         {
           "id": "c34de62f1df260da876e820dd314da23def8a61d",
@@ -374,12 +330,23 @@
           "title": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and...",
           "url": "https://x.com/OpenAI/status/2053824999736410415",
           "published_at": "2026-05-11T13:10:12Z",
-          "summary": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and Deployment Specialists to the OpenAI Deployment Company from day one.💬51🔄46❤️969👀351341📊144⚡ Powered by xgo.ing"
+          "summary": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and Deployment Specialists to the OpenAI Deployment Company from day one.💬54🔄46❤️1019👀387892📊153⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "3f331208a4c5b1ca27647dd0b5e296fee81afbae",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-12",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-87",
+      "published_at": "2026-05-12T00:59:47Z",
+      "summary": "AI 早报 2026-05-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude Code 上线 Agent view 功能并新增 /goal 指令 ↗ #1 模型发布 Thinking Machines Lab 发布实时多模态“交互模型” TML-Interaction-Small ↗ #2 OpenBMB 发布开源多模态模型 MiniCPM-V 4.6 ↗ #3 开发生态 Anthropic 推出 Claude Platform on AWS ↗ #4 OpenAI 为 Codex 推出 OpenAI Developers 插件 ↗…"
+    },
     {
       "id": "43097d7056eb4606ea1e507d832eb1889a8410f5",
       "site_id": "featuredrss",
@@ -389,7 +356,7 @@
       "title": "Automate security detection, validation, and response with Daybreak",
       "url": "https://x.com/OpenAI/status/2053939706468139481",
       "published_at": "2026-05-11T20:46:01Z",
-      "summary": "Automate security detection, validation, and response with DaybreakYour browser does not support the video tag.🔗 View on Twitter💬6🔄6❤️202👀48395📊23⚡ Powered by xgo.ing"
+      "summary": "Automate security detection, validation, and response with DaybreakYour browser does not support the video tag.🔗 View on Twitter💬8🔄7❤️246👀61197📊29⚡ Powered by xgo.ing"
     },
     {
       "id": "429cb9e27c82c65b23c5a166221cdda59ea868b0",
@@ -400,7 +367,7 @@
       "title": "https://t.co/EoO5fF9pcT",
       "url": "https://x.com/OpenAI/status/2053939707818692907",
       "published_at": "2026-05-11T20:46:01Z",
-      "summary": "openai.com/daybreak/💬13🔄8❤️229👀47140📊39⚡ Powered by xgo.ing"
+      "summary": "openai.com/daybreak/💬14🔄11❤️279👀59191📊46⚡ Powered by xgo.ing"
     },
     {
       "id": "ab8669f3584e661792b527bc41d5188ff79ae4c7",
@@ -422,7 +389,7 @@
       "title": "Find your next escape.\n\nJust ask Gemini to combine your dream destinations, favorite activities, and...",
       "url": "https://x.com/GeminiApp/status/2053890206798065829",
       "published_at": "2026-05-11T17:29:19Z",
-      "summary": "Find your next escape. Just ask Gemini to combine your dream destinations, favorite activities, and past reservations into a one-of-a-kind brainstorm for future travel.Your browser does not support the video tag.🔗 View on Twitter💬3🔄1❤️35👀9396📊6⚡ Powered by xgo.ing"
+      "summary": "Find your next escape. Just ask Gemini to combine your dream destinations, favorite activities, and past reservations into a one-of-a-kind brainstorm for future travel.Your browser does not support the video tag.🔗 View on Twitter💬3🔄1❤️37👀10518📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "b26a693938737be9eb069ede3dced8cf6f878ead",
@@ -433,7 +400,7 @@
       "title": "How are you using Personal Intelligence in Gemini?",
       "url": "https://x.com/GeminiApp/status/2053890208098382235",
       "published_at": "2026-05-11T17:29:19Z",
-      "summary": "How are you using Personal Intelligence in Gemini?💬7🔄1❤️30👀8612📊9⚡ Powered by xgo.ing"
+      "summary": "How are you using Personal Intelligence in Gemini?💬8🔄1❤️30👀9596📊9⚡ Powered by xgo.ing"
     },
     {
       "id": "d9bfdef13da55a26a60faa32e27980de56da2f13",
@@ -444,7 +411,7 @@
       "title": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you.\n\nIt saves ti...",
       "url": "https://x.com/GeminiApp/status/2053889747752190393",
       "published_at": "2026-05-11T17:27:29Z",
-      "summary": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you. It saves time by connecting dots across your @Gmail, @GooglePhotos, @Google Search, and @YouTube history. Choose which apps to connect and manage your personalization settings at any time 🧵💬51…"
+      "summary": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you. It saves time by connecting dots across your @Gmail, @GooglePhotos, @Google Search, and @YouTube history. Choose which apps to connect and manage your personalization settings at any time 🧵💬58…"
     },
     {
       "id": "c34de62f1df260da876e820dd314da23def8a61d",
@@ -466,7 +433,7 @@
       "title": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and...",
       "url": "https://x.com/OpenAI/status/2053824999736410415",
       "published_at": "2026-05-11T13:10:12Z",
-      "summary": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and Deployment Specialists to the OpenAI Deployment Company from day one.💬51🔄46❤️969👀351341📊144⚡ Powered by xgo.ing"
+      "summary": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and Deployment Specialists to the OpenAI Deployment Company from day one.💬54🔄46❤️1019👀387892📊153⚡ Powered by xgo.ing"
     },
     {
       "id": "9a86c8a70ad4855a49df54bf406ac0dbab8434cb",
@@ -488,7 +455,7 @@
       "title": "来了！藏师傅的 PPT Skill 更新了第二套主题\n\n新主题更加简洁美观，适合讲一些数据和事实性的内容\n\n而且支持 4 种颜色、20 多个版式。\n\n支持用 Codex 内置的 GPT-2.0 帮你生...",
       "url": "https://x.com/op7418/status/2053743942097911952",
       "published_at": "2026-05-11T07:48:07Z",
-      "summary": "来了！藏师傅的 PPT Skill 更新了第二套主题 新主题更加简洁美观，适合讲一些数据和事实性的内容 而且支持 4 种颜色、20 多个版式。 支持用 Codex 内置的 GPT-2.0 帮你生成配图和美化截图。 还能让它帮你生成各种平台的封面，以及公众号配图。 文章里详细讲了一下怎么用，还有一些小技巧。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬16🔄2…"
+      "summary": "来了！藏师傅的 PPT Skill 更新了第二套主题 新主题更加简洁美观，适合讲一些数据和事实性的内容 而且支持 4 种颜色、20 多个版式。 支持用 Codex 内置的 GPT-2.0 帮你生成配图和美化截图。 还能让它帮你生成各种平台的封面，以及公众号配图。 文章里详细讲了一下怎么用，还有一些小技巧。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬16🔄3…"
     },
     {
       "id": "4a5d1917d0d8ada183158baf3b1a8f83c52fbb52",
@@ -499,62 +466,7 @@
       "title": "更新新版本了：https://t.co/YlSB4MZiDz",
       "url": "https://x.com/op7418/status/2053665398063784332",
       "published_at": "2026-05-11T02:36:00Z",
-      "summary": "更新新版本了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️3👀3348📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e169639b1005b921cdfa89d0b445e5c82202a0c3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "观察了三年，我把所有人用AI的水平分成了10个等级。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682080&idx=1&sn=a28669e4d298a57c496d85bd2ce361ea",
-      "published_at": "2026-05-11T02:09:00Z",
-      "summary": "你在第几级"
-    },
-    {
-      "id": "2cb74d557ae7b559e6f4c1e52976cabf104d4c40",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "发布了：https://t.co/YlSB4MZiDz",
-      "url": "https://x.com/op7418/status/2053657747057758423",
-      "published_at": "2026-05-11T02:05:36Z",
-      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️3👀3095📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7aa4115f633b6e3b78d02cea11ecbbfe0d6c0fef",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "发布了：https://t.co/YlSB4MZiDz",
-      "url": "https://x.com/op7418/status/2053657711892668844",
-      "published_at": "2026-05-11T02:05:28Z",
-      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄1❤️4👀3622📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8ac6b316d2ee18f472bcbef95b6b2749acd639b0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "https://t.co/lHQkxeTcRm",
-      "url": "https://x.com/op7418/status/2053657613460771142",
-      "published_at": "2026-05-11T02:05:04Z",
-      "summary": "x.com/i/article/2053…💬46🔄229❤️1233👀214320📊521⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e20b63c41632077e67497455344810e0ebecb998",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-11",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-86",
-      "published_at": "2026-05-11T00:39:58Z",
-      "summary": "AI 早报 2026-05-11 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Codex 周安装量达 8610 万，12 倍于 Claude Code ↗ #1 Hermes Agent 新增 LINE 网关通道 ↗ #2 OpenAI终止开发者自助微调通道 ↗ #3 Hugging Face 推出 hf-sandbox，基于 Jobs 打造云端代码沙箱 ↗ #4 技术与洞察 调查曝光“中转站”利用被盗凭证和模型替换盈利，并出售用户数据 ↗ #5 前瞻与传闻 Jarred Sumner 透露正在将 Bun 运行时从 Zig 重写为 Rust ↗…"
+      "summary": "更新新版本了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬0🔄0❤️3👀3456📊2⚡ Powered by xgo.ing"
     }
   ]
 }
