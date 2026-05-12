@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-12T11:15:41.751892Z",
+  "generated_at": "2026-05-12T13:19:00.806575Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 18,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 808,
+      "duration_ms": 965,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 19,
+      "duration_ms": 290,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 737,
+      "duration_ms": 766,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 545,
+      "duration_ms": 742,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 294,
+      "duration_ms": 530,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1363,
+      "duration_ms": 1649,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1208,
+      "duration_ms": 1612,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 177,
+      "duration_ms": 193,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 920,
+      "duration_ms": 936,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1581,
+      "duration_ms": 1819,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 11,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "2127d5c458dd512dee39fb3d40bce2249ff53a81",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "RoboNeo组了个Agent团队帮我做视频，一句话生成的上限又刷新了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507023&idx=1&sn=41d74bf6a37d4d655f945e5fb01d28b6",
+          "published_at": "2026-05-12T09:58:00Z",
+          "summary": "好用到有点陌生了。。。"
+        },
         {
           "id": "6326a9b62c950930f2a37856eddc218fcec85e7c",
           "site_id": "featuredrss",
@@ -197,7 +208,7 @@
           "title": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。\n\n刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了",
           "url": "https://x.com/op7418/status/2054126705703600519",
           "published_at": "2026-05-12T09:09:05Z",
-          "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬22🔄3❤️31👀11265📊23⚡ Powered by xgo.ing"
+          "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬40🔄4❤️43👀19613📊39⚡ Powered by xgo.ing"
         },
         {
           "id": "bc11b219265c78abf6158664a8f73375b4f112d5",
@@ -208,7 +219,7 @@
           "title": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了",
           "url": "https://x.com/op7418/status/2054111096852939248",
           "published_at": "2026-05-12T08:07:03Z",
-          "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬3🔄0❤️7👀2045📊3⚡ Powered by xgo.ing"
+          "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬3🔄0❤️8👀2789📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "18ef3c5c54cb87b7c31ec5c6a4ed0bbcbb0662e8",
@@ -219,7 +230,7 @@
           "title": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。\n\nTypeless 犯了前一个错误，豆包犯了后一个。",
           "url": "https://x.com/op7418/status/2054109822912692656",
           "published_at": "2026-05-12T08:01:59Z",
-          "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬47🔄1❤️37👀9855📊42⚡ Powered by xgo.ing"
+          "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬52🔄3❤️45👀13507📊47⚡ Powered by xgo.ing"
         },
         {
           "id": "84df33a2c8e8f57f2c913a9236b44727d0e12683",
@@ -230,7 +241,7 @@
           "title": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。\n\nhttps://t.co/mHa0pBMnmT",
           "url": "https://x.com/op7418/status/2054033406737142136",
           "published_at": "2026-05-12T02:58:20Z",
-          "summary": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934Vkwi…💬14🔄0❤️17👀5124📊14⚡ Powered by xgo.ing"
+          "summary": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934Vkwi…💬18🔄2❤️22👀5588📊18⚡ Powered by xgo.ing"
         },
         {
           "id": "e9eb8b3d2decefccff158e1ed9efc5b9d2e37d63",
@@ -302,7 +313,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 9,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -319,7 +330,7 @@
           "title": "Automate security detection, validation, and response with Daybreak",
           "url": "https://x.com/OpenAI/status/2053939706468139481",
           "published_at": "2026-05-11T20:46:01Z",
-          "summary": "Automate security detection, validation, and response with DaybreakYour browser does not support the video tag.🔗 View on Twitter💬11🔄11❤️366👀99219📊42⚡ Powered by xgo.ing"
+          "summary": "Automate security detection, validation, and response with DaybreakYour browser does not support the video tag.🔗 View on Twitter💬13🔄11❤️383👀105866📊45⚡ Powered by xgo.ing"
         },
         {
           "id": "429cb9e27c82c65b23c5a166221cdda59ea868b0",
@@ -330,7 +341,7 @@
           "title": "https://t.co/EoO5fF9pcT",
           "url": "https://x.com/OpenAI/status/2053939707818692907",
           "published_at": "2026-05-11T20:46:01Z",
-          "summary": "openai.com/daybreak/💬17🔄19❤️399👀93698📊67⚡ Powered by xgo.ing"
+          "summary": "openai.com/daybreak/💬17🔄19❤️424👀99465📊70⚡ Powered by xgo.ing"
         },
         {
           "id": "749313204f3263fe829758d973e3eabe9457b8d7",
@@ -363,7 +374,7 @@
           "title": "Find your next escape.\n\nJust ask Gemini to combine your dream destinations, favorite activities, and...",
           "url": "https://x.com/GeminiApp/status/2053890206798065829",
           "published_at": "2026-05-11T17:29:19Z",
-          "summary": "Find your next escape. Just ask Gemini to combine your dream destinations, favorite activities, and past reservations into a one-of-a-kind brainstorm for future travel.Your browser does not support the video tag.🔗 View on Twitter💬5🔄2❤️45👀13784📊9⚡ Powered by xgo.ing"
+          "summary": "Find your next escape. Just ask Gemini to combine your dream destinations, favorite activities, and past reservations into a one-of-a-kind brainstorm for future travel.Your browser does not support the video tag.🔗 View on Twitter💬5🔄4❤️49👀14336📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "b26a693938737be9eb069ede3dced8cf6f878ead",
@@ -374,7 +385,7 @@
           "title": "How are you using Personal Intelligence in Gemini?",
           "url": "https://x.com/GeminiApp/status/2053890208098382235",
           "published_at": "2026-05-11T17:29:19Z",
-          "summary": "How are you using Personal Intelligence in Gemini?💬10🔄2❤️42👀12349📊13⚡ Powered by xgo.ing"
+          "summary": "How are you using Personal Intelligence in Gemini?💬10🔄2❤️44👀12799📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "d9bfdef13da55a26a60faa32e27980de56da2f13",
@@ -385,34 +396,23 @@
           "title": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you.\n\nIt saves ti...",
           "url": "https://x.com/GeminiApp/status/2053889747752190393",
           "published_at": "2026-05-11T17:27:29Z",
-          "summary": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you. It saves time by connecting dots across your @Gmail, @GooglePhotos, @Google Search, and @YouTube history. Choose which apps to connect and manage your personalization settings at any time 🧵💬78…"
-        },
-        {
-          "id": "c34de62f1df260da876e820dd314da23def8a61d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Today we’re launching the OpenAI Deployment Company to help businesses build and deploy AI.\n\nIt's ma...",
-          "url": "https://x.com/OpenAI/status/2053824997777457651",
-          "published_at": "2026-05-11T13:10:12Z",
-          "summary": "Today we’re launching the OpenAI Deployment Company to help businesses build and deploy AI. It's majority-owned and controlled by OpenAI. It brings together 19 leading investment firms, consultancies, and system integrators to help organizations deploy frontier AI to production f…"
-        },
-        {
-          "id": "4525e925470b1cca93d0052a210a1efdf11846f4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and...",
-          "url": "https://x.com/OpenAI/status/2053824999736410415",
-          "published_at": "2026-05-11T13:10:12Z",
-          "summary": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and Deployment Specialists to the OpenAI Deployment Company from day one.💬59🔄55❤️1147👀450883📊171⚡ Powered by xgo.ing"
+          "summary": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you. It saves time by connecting dots across your @Gmail, @GooglePhotos, @Google Search, and @YouTube history. Choose which apps to connect and manage your personalization settings at any time 🧵💬80…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "2127d5c458dd512dee39fb3d40bce2249ff53a81",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "RoboNeo组了个Agent团队帮我做视频，一句话生成的上限又刷新了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507023&idx=1&sn=41d74bf6a37d4d655f945e5fb01d28b6",
+      "published_at": "2026-05-12T09:58:00Z",
+      "summary": "好用到有点陌生了。。。"
+    },
     {
       "id": "6326a9b62c950930f2a37856eddc218fcec85e7c",
       "site_id": "featuredrss",
@@ -422,7 +422,7 @@
       "title": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。\n\n刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了",
       "url": "https://x.com/op7418/status/2054126705703600519",
       "published_at": "2026-05-12T09:09:05Z",
-      "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬22🔄3❤️31👀11265📊23⚡ Powered by xgo.ing"
+      "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬40🔄4❤️43👀19613📊39⚡ Powered by xgo.ing"
     },
     {
       "id": "bc11b219265c78abf6158664a8f73375b4f112d5",
@@ -433,7 +433,7 @@
       "title": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了",
       "url": "https://x.com/op7418/status/2054111096852939248",
       "published_at": "2026-05-12T08:07:03Z",
-      "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬3🔄0❤️7👀2045📊3⚡ Powered by xgo.ing"
+      "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬3🔄0❤️8👀2789📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "18ef3c5c54cb87b7c31ec5c6a4ed0bbcbb0662e8",
@@ -444,7 +444,7 @@
       "title": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。\n\nTypeless 犯了前一个错误，豆包犯了后一个。",
       "url": "https://x.com/op7418/status/2054109822912692656",
       "published_at": "2026-05-12T08:01:59Z",
-      "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬47🔄1❤️37👀9855📊42⚡ Powered by xgo.ing"
+      "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬52🔄3❤️45👀13507📊47⚡ Powered by xgo.ing"
     },
     {
       "id": "84df33a2c8e8f57f2c913a9236b44727d0e12683",
@@ -455,7 +455,7 @@
       "title": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。\n\nhttps://t.co/mHa0pBMnmT",
       "url": "https://x.com/op7418/status/2054033406737142136",
       "published_at": "2026-05-12T02:58:20Z",
-      "summary": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934Vkwi…💬14🔄0❤️17👀5124📊14⚡ Powered by xgo.ing"
+      "summary": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934Vkwi…💬18🔄2❤️22👀5588📊18⚡ Powered by xgo.ing"
     },
     {
       "id": "e9eb8b3d2decefccff158e1ed9efc5b9d2e37d63",
@@ -532,7 +532,7 @@
       "title": "Automate security detection, validation, and response with Daybreak",
       "url": "https://x.com/OpenAI/status/2053939706468139481",
       "published_at": "2026-05-11T20:46:01Z",
-      "summary": "Automate security detection, validation, and response with DaybreakYour browser does not support the video tag.🔗 View on Twitter💬11🔄11❤️366👀99219📊42⚡ Powered by xgo.ing"
+      "summary": "Automate security detection, validation, and response with DaybreakYour browser does not support the video tag.🔗 View on Twitter💬13🔄11❤️383👀105866📊45⚡ Powered by xgo.ing"
     },
     {
       "id": "429cb9e27c82c65b23c5a166221cdda59ea868b0",
@@ -543,7 +543,7 @@
       "title": "https://t.co/EoO5fF9pcT",
       "url": "https://x.com/OpenAI/status/2053939707818692907",
       "published_at": "2026-05-11T20:46:01Z",
-      "summary": "openai.com/daybreak/💬17🔄19❤️399👀93698📊67⚡ Powered by xgo.ing"
+      "summary": "openai.com/daybreak/💬17🔄19❤️424👀99465📊70⚡ Powered by xgo.ing"
     },
     {
       "id": "749313204f3263fe829758d973e3eabe9457b8d7",
@@ -576,7 +576,7 @@
       "title": "Find your next escape.\n\nJust ask Gemini to combine your dream destinations, favorite activities, and...",
       "url": "https://x.com/GeminiApp/status/2053890206798065829",
       "published_at": "2026-05-11T17:29:19Z",
-      "summary": "Find your next escape. Just ask Gemini to combine your dream destinations, favorite activities, and past reservations into a one-of-a-kind brainstorm for future travel.Your browser does not support the video tag.🔗 View on Twitter💬5🔄2❤️45👀13784📊9⚡ Powered by xgo.ing"
+      "summary": "Find your next escape. Just ask Gemini to combine your dream destinations, favorite activities, and past reservations into a one-of-a-kind brainstorm for future travel.Your browser does not support the video tag.🔗 View on Twitter💬5🔄4❤️49👀14336📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "b26a693938737be9eb069ede3dced8cf6f878ead",
@@ -587,7 +587,7 @@
       "title": "How are you using Personal Intelligence in Gemini?",
       "url": "https://x.com/GeminiApp/status/2053890208098382235",
       "published_at": "2026-05-11T17:29:19Z",
-      "summary": "How are you using Personal Intelligence in Gemini?💬10🔄2❤️42👀12349📊13⚡ Powered by xgo.ing"
+      "summary": "How are you using Personal Intelligence in Gemini?💬10🔄2❤️44👀12799📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "d9bfdef13da55a26a60faa32e27980de56da2f13",
@@ -598,29 +598,7 @@
       "title": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you.\n\nIt saves ti...",
       "url": "https://x.com/GeminiApp/status/2053889747752190393",
       "published_at": "2026-05-11T17:27:29Z",
-      "summary": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you. It saves time by connecting dots across your @Gmail, @GooglePhotos, @Google Search, and @YouTube history. Choose which apps to connect and manage your personalization settings at any time 🧵💬78…"
-    },
-    {
-      "id": "c34de62f1df260da876e820dd314da23def8a61d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Today we’re launching the OpenAI Deployment Company to help businesses build and deploy AI.\n\nIt's ma...",
-      "url": "https://x.com/OpenAI/status/2053824997777457651",
-      "published_at": "2026-05-11T13:10:12Z",
-      "summary": "Today we’re launching the OpenAI Deployment Company to help businesses build and deploy AI. It's majority-owned and controlled by OpenAI. It brings together 19 leading investment firms, consultancies, and system integrators to help organizations deploy frontier AI to production f…"
-    },
-    {
-      "id": "4525e925470b1cca93d0052a210a1efdf11846f4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and...",
-      "url": "https://x.com/OpenAI/status/2053824999736410415",
-      "published_at": "2026-05-11T13:10:12Z",
-      "summary": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers and Deployment Specialists to the OpenAI Deployment Company from day one.💬59🔄55❤️1147👀450883📊171⚡ Powered by xgo.ing"
+      "summary": "Personal Intelligence can help you build a travel itinerary that’s fully custom to you. It saves time by connecting dots across your @Gmail, @GooglePhotos, @Google Search, and @YouTube history. Choose which apps to connect and manage your personalization settings at any time 🧵💬80…"
     }
   ]
 }
