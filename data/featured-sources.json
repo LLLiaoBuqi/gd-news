@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T06:22:04.655161Z",
+  "generated_at": "2026-05-13T09:23:56.260020Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 715,
+      "duration_ms": 895,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 17,
+      "duration_ms": 66,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 583,
+      "duration_ms": 778,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 551,
+      "duration_ms": 593,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 362,
+      "duration_ms": 471,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1277,
+      "duration_ms": 1370,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 931,
+      "duration_ms": 1050,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 174,
+      "duration_ms": 238,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 786,
+      "duration_ms": 832,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1380,
+      "duration_ms": 1573,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 12,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "b6b4924f38f9839a6d7e70191c1d47c0f21bb5ef",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Skills 已经更新了这个带地图的版式和地图组件\n\n大家让自己的 AI 更新这个 Skills 就行。\n\n地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。",
+          "url": "https://x.com/op7418/status/2054433146532479266",
+          "published_at": "2026-05-13T05:26:46Z",
+          "summary": "Skills 已经更新了这个带地图的版式和地图组件 大家让自己的 AI 更新这个 Skills 就行。 地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬5🔄4❤️22👀5894📊8⚡ Powered by xgo.ing"
+        },
         {
           "id": "68182d7e93321fe65c2c80fb921d01dfa7c413ba",
           "site_id": "featuredrss",
@@ -197,7 +208,7 @@
           "title": "@dotey @vista8 @eze_is_1 跟 @lepadphone 老师聊了一下：\n\n我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。",
           "url": "https://x.com/op7418/status/2054428529736245652",
           "published_at": "2026-05-13T05:08:25Z",
-          "summary": "@dotey@vista8@eze_is_1 跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。💬1🔄0❤️2👀399📊1⚡ Powered by xgo.ing"
+          "summary": "@dotey@vista8@eze_is_1 跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。💬1🔄0❤️6👀2854📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "4728fd49926d653139ee261c8e6005eb71621c9f",
@@ -208,7 +219,7 @@
           "title": "人物卡片",
           "url": "https://x.com/op7418/status/2054423566423413001",
           "published_at": "2026-05-13T04:48:42Z",
-          "summary": "人物卡片💬0🔄0❤️1👀503⚡ Powered by xgo.ing"
+          "summary": "人物卡片💬0🔄0❤️1👀1486⚡ Powered by xgo.ing"
         },
         {
           "id": "9cd798a10d799f5c0848d027c3e9265a8cbea206",
@@ -219,7 +230,7 @@
           "title": "@ 一下提到的几个人 @dotey @vista8 @eze_is_1",
           "url": "https://x.com/op7418/status/2054421417270346049",
           "published_at": "2026-05-13T04:40:09Z",
-          "summary": "@ 一下提到的几个人 @dotey@vista8@eze_is_1💬1🔄0❤️0👀923📊1⚡ Powered by xgo.ing"
+          "summary": "@ 一下提到的几个人 @dotey@vista8@eze_is_1💬1🔄0❤️1👀3491📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "382ee3a299783902eee2bfca73937a665c6c11d8",
@@ -230,7 +241,7 @@
           "title": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。\n\n基本上近代好多名人和好多事件都与住在这儿的人有关系。\n\n所以我就试了一下，用我的这个 PPT Skills 讲一...",
           "url": "https://x.com/op7418/status/2054418678918291482",
           "published_at": "2026-05-13T04:29:16Z",
-          "summary": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬6🔄2❤️14👀3525📊7⚡ Powered…"
+          "summary": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬9🔄2❤️45👀10686📊13⚡ Powere…"
         },
         {
           "id": "11a817f9ea195821389d0e9b4ac10d374c816be9",
@@ -286,39 +297,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507023&idx=1&sn=41d74bf6a37d4d655f945e5fb01d28b6",
           "published_at": "2026-05-12T09:58:00Z",
           "summary": "好用到有点陌生了。。。"
-        },
-        {
-          "id": "6326a9b62c950930f2a37856eddc218fcec85e7c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。\n\n刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了",
-          "url": "https://x.com/op7418/status/2054126705703600519",
-          "published_at": "2026-05-12T09:09:05Z",
-          "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬86🔄4❤️64👀38930📊78⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bc11b219265c78abf6158664a8f73375b4f112d5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了",
-          "url": "https://x.com/op7418/status/2054111096852939248",
-          "published_at": "2026-05-12T08:07:03Z",
-          "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬5🔄0❤️9👀4929📊5⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "18ef3c5c54cb87b7c31ec5c6a4ed0bbcbb0662e8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。\n\nTypeless 犯了前一个错误，豆包犯了后一个。",
-          "url": "https://x.com/op7418/status/2054109822912692656",
-          "published_at": "2026-05-12T08:01:59Z",
-          "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬85🔄5❤️74👀29147📊78⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -336,6 +314,17 @@
   },
   "items": [
     {
+      "id": "b6b4924f38f9839a6d7e70191c1d47c0f21bb5ef",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Skills 已经更新了这个带地图的版式和地图组件\n\n大家让自己的 AI 更新这个 Skills 就行。\n\n地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。",
+      "url": "https://x.com/op7418/status/2054433146532479266",
+      "published_at": "2026-05-13T05:26:46Z",
+      "summary": "Skills 已经更新了这个带地图的版式和地图组件 大家让自己的 AI 更新这个 Skills 就行。 地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬5🔄4❤️22👀5894📊8⚡ Powered by xgo.ing"
+    },
+    {
       "id": "68182d7e93321fe65c2c80fb921d01dfa7c413ba",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -344,7 +333,7 @@
       "title": "@dotey @vista8 @eze_is_1 跟 @lepadphone 老师聊了一下：\n\n我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。",
       "url": "https://x.com/op7418/status/2054428529736245652",
       "published_at": "2026-05-13T05:08:25Z",
-      "summary": "@dotey@vista8@eze_is_1 跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。💬1🔄0❤️2👀399📊1⚡ Powered by xgo.ing"
+      "summary": "@dotey@vista8@eze_is_1 跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。💬1🔄0❤️6👀2854📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "4728fd49926d653139ee261c8e6005eb71621c9f",
@@ -355,7 +344,7 @@
       "title": "人物卡片",
       "url": "https://x.com/op7418/status/2054423566423413001",
       "published_at": "2026-05-13T04:48:42Z",
-      "summary": "人物卡片💬0🔄0❤️1👀503⚡ Powered by xgo.ing"
+      "summary": "人物卡片💬0🔄0❤️1👀1486⚡ Powered by xgo.ing"
     },
     {
       "id": "9cd798a10d799f5c0848d027c3e9265a8cbea206",
@@ -366,7 +355,7 @@
       "title": "@ 一下提到的几个人 @dotey @vista8 @eze_is_1",
       "url": "https://x.com/op7418/status/2054421417270346049",
       "published_at": "2026-05-13T04:40:09Z",
-      "summary": "@ 一下提到的几个人 @dotey@vista8@eze_is_1💬1🔄0❤️0👀923📊1⚡ Powered by xgo.ing"
+      "summary": "@ 一下提到的几个人 @dotey@vista8@eze_is_1💬1🔄0❤️1👀3491📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "382ee3a299783902eee2bfca73937a665c6c11d8",
@@ -377,7 +366,7 @@
       "title": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。\n\n基本上近代好多名人和好多事件都与住在这儿的人有关系。\n\n所以我就试了一下，用我的这个 PPT Skills 讲一...",
       "url": "https://x.com/op7418/status/2054418678918291482",
       "published_at": "2026-05-13T04:29:16Z",
-      "summary": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬6🔄2❤️14👀3525📊7⚡ Powered…"
+      "summary": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬9🔄2❤️45👀10686📊13⚡ Powere…"
     },
     {
       "id": "11a817f9ea195821389d0e9b4ac10d374c816be9",
@@ -433,39 +422,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507023&idx=1&sn=41d74bf6a37d4d655f945e5fb01d28b6",
       "published_at": "2026-05-12T09:58:00Z",
       "summary": "好用到有点陌生了。。。"
-    },
-    {
-      "id": "6326a9b62c950930f2a37856eddc218fcec85e7c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。\n\n刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了",
-      "url": "https://x.com/op7418/status/2054126705703600519",
-      "published_at": "2026-05-12T09:09:05Z",
-      "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬86🔄4❤️64👀38930📊78⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "bc11b219265c78abf6158664a8f73375b4f112d5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了",
-      "url": "https://x.com/op7418/status/2054111096852939248",
-      "published_at": "2026-05-12T08:07:03Z",
-      "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬5🔄0❤️9👀4929📊5⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "18ef3c5c54cb87b7c31ec5c6a4ed0bbcbb0662e8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。\n\nTypeless 犯了前一个错误，豆包犯了后一个。",
-      "url": "https://x.com/op7418/status/2054109822912692656",
-      "published_at": "2026-05-12T08:01:59Z",
-      "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬85🔄5❤️74👀29147📊78⚡ Powered by xgo.ing"
     }
   ]
 }
