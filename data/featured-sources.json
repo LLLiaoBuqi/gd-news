@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-12T23:54:48.495773Z",
+  "generated_at": "2026-05-13T02:34:57.150102Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 938,
+      "duration_ms": 932,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 18,
+      "duration_ms": 35,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 973,
+      "duration_ms": 750,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 515,
+      "duration_ms": 729,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 701,
+      "duration_ms": 433,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1486,
+      "duration_ms": 1523,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1268,
+      "duration_ms": 1146,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 175,
+      "duration_ms": 207,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 861,
+      "duration_ms": 781,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1770,
+      "duration_ms": 1592,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "419d0863f2078ae079174f5193ea2f5034fc37b9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-13",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-88",
+          "published_at": "2026-05-13T01:40:01Z",
+          "summary": "AI 早报 2026-05-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini Intelligence 升级安卓体验 ↗ #1 模型发布 Claude Opus 4.7 快速模式以研究预览形式上线 API 及多款工具 ↗ #2 Jina AI 新模型 jina-embeddings-v5-omni 支持文本图像音视频混合检索 ↗ #3 Perceptron 推出 Mk1 模型，专攻视频理解与具身推理 ↗ #4 开发生态 GitHub更新Copilot计费与订阅：引入弹性配额与Max计划 ↗ #5 Xiaomi Mi…"
+        },
         {
           "id": "2127d5c458dd512dee39fb3d40bce2249ff53a81",
           "site_id": "featuredrss",
@@ -208,7 +219,7 @@
           "title": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。\n\n刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了",
           "url": "https://x.com/op7418/status/2054126705703600519",
           "published_at": "2026-05-12T09:09:05Z",
-          "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬73🔄4❤️59👀31848📊67⚡ Powered by xgo.ing"
+          "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬80🔄4❤️59👀36551📊72⚡ Powered by xgo.ing"
         },
         {
           "id": "bc11b219265c78abf6158664a8f73375b4f112d5",
@@ -219,7 +230,7 @@
           "title": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了",
           "url": "https://x.com/op7418/status/2054111096852939248",
           "published_at": "2026-05-12T08:07:03Z",
-          "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬5🔄0❤️9👀4344📊5⚡ Powered by xgo.ing"
+          "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬5🔄0❤️9👀4680📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "18ef3c5c54cb87b7c31ec5c6a4ed0bbcbb0662e8",
@@ -230,7 +241,7 @@
           "title": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。\n\nTypeless 犯了前一个错误，豆包犯了后一个。",
           "url": "https://x.com/op7418/status/2054109822912692656",
           "published_at": "2026-05-12T08:01:59Z",
-          "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬73🔄5❤️69👀25456📊67⚡ Powered by xgo.ing"
+          "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬80🔄5❤️72👀27895📊74⚡ Powered by xgo.ing"
         },
         {
           "id": "84df33a2c8e8f57f2c913a9236b44727d0e12683",
@@ -241,7 +252,7 @@
           "title": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。\n\nhttps://t.co/mHa0pBMnmT",
           "url": "https://x.com/op7418/status/2054033406737142136",
           "published_at": "2026-05-12T02:58:20Z",
-          "summary": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934Vkwi…💬34🔄2❤️25👀6463📊32⚡ Powered by xgo.ing"
+          "summary": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934Vkwi…💬39🔄2❤️30👀6939📊36⚡ Powered by xgo.ing"
         },
         {
           "id": "e9eb8b3d2decefccff158e1ed9efc5b9d2e37d63",
@@ -264,50 +275,6 @@
           "url": "https://x.com/op7418/status/2054030953039921548",
           "published_at": "2026-05-12T02:48:35Z",
           "summary": "谷歌看起来要发布 Veo 4 了，也有可能是其他的名字。 类似 Seedance 2.0 的全能参考，支持对视频进行：修改参考和内容替换 质量上看起来，在文字生成上要比 Seedance 2.0 稍微好点，但在其他方面看不出更好的质量，可能在清晰度和细节上也会稍微好点。Your browser does not support the video tag.🔗 View on Twitter🚨 AI News | TestingCatalog@testingcatalogGOOGLE 🔥: An upcoming Gemini Omni video mod…"
-        },
-        {
-          "id": "bbd9dd8782519f6f65341ae89ee2d3bd27f5741e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Claude Code 昨天更新了一个新的功能：Agent 视图。你可以在一个终端标签页里管理多个正在运行的 Agent。\n\n你可以启动新的 Agent 并将其放在后台，Agent 视图会标注每个 A...",
-          "url": "https://x.com/op7418/status/2054024888567070925",
-          "published_at": "2026-05-12T02:24:30Z",
-          "summary": "Claude Code 昨天更新了一个新的功能：Agent 视图。你可以在一个终端标签页里管理多个正在运行的 Agent。 你可以启动新的 Agent 并将其放在后台，Agent 视图会标注每个 Agent 的状态，包括：已完成、需要输入、正在进行。 你可以通过以下两种方式打开 Agent 视图： 1. 在任何会话点按左箭头 2. 直接在终端运行命令 `claude agents` 在视图中，每一行代表一个 Agent，会显示当前的对话、是否需要你的输入，以及该 Agent 上一次回复的大概内容。 你可以在视图里查看详细的对话信息，也可以直接进行回复。…"
-        },
-        {
-          "id": "eb3f197d4539f00fe4817cbb3427e285b157aad6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "前 OpenAI CTO Mira 的公司 Thinking Machines 发了一个非常创新的模型，他们叫交互模型。\n\n这个模型能够持续接收音频、视频、文本等原生的多模态内容，并且实时进行思考、响...",
-          "url": "https://x.com/op7418/status/2054023602874491326",
-          "published_at": "2026-05-12T02:19:23Z",
-          "summary": "前 OpenAI CTO Mira 的公司 Thinking Machines 发了一个非常创新的模型，他们叫交互模型。 这个模型能够持续接收音频、视频、文本等原生的多模态内容，并且实时进行思考、响应和行动。 它不像之前那种 Agent 脚手架，把多个模型、多个模态的模型通过 Agent 串起来，而是所有模态都在一整个模型里。 这样就可以让用户和 AI 在任意模态下实时进行交互： 你可以随时打断它，随时进行补充，AI 会实时关注你的状态，输出结果，不会像之前一样，必须等一句话结束了才能跟模型交互。 核心思路就是把交互部分训练到了模型里。他们从零训练的这个…"
-        },
-        {
-          "id": "f27e95f38a0ad0e60eaa99a641f42ac68ae36311",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "分享5个Claude Code + 飞书的超实用Agent办公玩法。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682189&idx=1&sn=ff8bd659085b02bff05a2f0f9fab8942",
-          "published_at": "2026-05-12T02:08:00Z",
-          "summary": "机器人都能自己对账了"
-        },
-        {
-          "id": "3f331208a4c5b1ca27647dd0b5e296fee81afbae",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-12",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-87",
-          "published_at": "2026-05-12T00:59:47Z",
-          "summary": "AI 早报 2026-05-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude Code 上线 Agent view 功能并新增 /goal 指令 ↗ #1 模型发布 Thinking Machines Lab 发布实时多模态“交互模型” TML-Interaction-Small ↗ #2 OpenBMB 发布开源多模态模型 MiniCPM-V 4.6 ↗ #3 开发生态 Anthropic 推出 Claude Platform on AWS ↗ #4 OpenAI 为 Codex 推出 OpenAI Developers 插件 ↗…"
         }
       ]
     },
@@ -324,6 +291,17 @@
     }
   },
   "items": [
+    {
+      "id": "419d0863f2078ae079174f5193ea2f5034fc37b9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-13",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-88",
+      "published_at": "2026-05-13T01:40:01Z",
+      "summary": "AI 早报 2026-05-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini Intelligence 升级安卓体验 ↗ #1 模型发布 Claude Opus 4.7 快速模式以研究预览形式上线 API 及多款工具 ↗ #2 Jina AI 新模型 jina-embeddings-v5-omni 支持文本图像音视频混合检索 ↗ #3 Perceptron 推出 Mk1 模型，专攻视频理解与具身推理 ↗ #4 开发生态 GitHub更新Copilot计费与订阅：引入弹性配额与Max计划 ↗ #5 Xiaomi Mi…"
+    },
     {
       "id": "2127d5c458dd512dee39fb3d40bce2249ff53a81",
       "site_id": "featuredrss",
@@ -344,7 +322,7 @@
       "title": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。\n\n刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了",
       "url": "https://x.com/op7418/status/2054126705703600519",
       "published_at": "2026-05-12T09:09:05Z",
-      "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬73🔄4❤️59👀31848📊67⚡ Powered by xgo.ing"
+      "summary": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了Your browser does not support the video tag.🔗 View on Twitter💬80🔄4❤️59👀36551📊72⚡ Powered by xgo.ing"
     },
     {
       "id": "bc11b219265c78abf6158664a8f73375b4f112d5",
@@ -355,7 +333,7 @@
       "title": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了",
       "url": "https://x.com/op7418/status/2054111096852939248",
       "published_at": "2026-05-12T08:07:03Z",
-      "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬5🔄0❤️9👀4344📊5⚡ Powered by xgo.ing"
+      "summary": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了💬5🔄0❤️9👀4680📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "18ef3c5c54cb87b7c31ec5c6a4ed0bbcbb0662e8",
@@ -366,7 +344,7 @@
       "title": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。\n\nTypeless 犯了前一个错误，豆包犯了后一个。",
       "url": "https://x.com/op7418/status/2054109822912692656",
       "published_at": "2026-05-12T08:01:59Z",
-      "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬73🔄5❤️69👀25456📊67⚡ Powered by xgo.ing"
+      "summary": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。💬80🔄5❤️72👀27895📊74⚡ Powered by xgo.ing"
     },
     {
       "id": "84df33a2c8e8f57f2c913a9236b44727d0e12683",
@@ -377,7 +355,7 @@
       "title": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。\n\nhttps://t.co/mHa0pBMnmT",
       "url": "https://x.com/op7418/status/2054033406737142136",
       "published_at": "2026-05-12T02:58:20Z",
-      "summary": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934Vkwi…💬34🔄2❤️25👀6463📊32⚡ Powered by xgo.ing"
+      "summary": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934Vkwi…💬39🔄2❤️30👀6939📊36⚡ Powered by xgo.ing"
     },
     {
       "id": "e9eb8b3d2decefccff158e1ed9efc5b9d2e37d63",
@@ -400,50 +378,6 @@
       "url": "https://x.com/op7418/status/2054030953039921548",
       "published_at": "2026-05-12T02:48:35Z",
       "summary": "谷歌看起来要发布 Veo 4 了，也有可能是其他的名字。 类似 Seedance 2.0 的全能参考，支持对视频进行：修改参考和内容替换 质量上看起来，在文字生成上要比 Seedance 2.0 稍微好点，但在其他方面看不出更好的质量，可能在清晰度和细节上也会稍微好点。Your browser does not support the video tag.🔗 View on Twitter🚨 AI News | TestingCatalog@testingcatalogGOOGLE 🔥: An upcoming Gemini Omni video mod…"
-    },
-    {
-      "id": "bbd9dd8782519f6f65341ae89ee2d3bd27f5741e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Claude Code 昨天更新了一个新的功能：Agent 视图。你可以在一个终端标签页里管理多个正在运行的 Agent。\n\n你可以启动新的 Agent 并将其放在后台，Agent 视图会标注每个 A...",
-      "url": "https://x.com/op7418/status/2054024888567070925",
-      "published_at": "2026-05-12T02:24:30Z",
-      "summary": "Claude Code 昨天更新了一个新的功能：Agent 视图。你可以在一个终端标签页里管理多个正在运行的 Agent。 你可以启动新的 Agent 并将其放在后台，Agent 视图会标注每个 Agent 的状态，包括：已完成、需要输入、正在进行。 你可以通过以下两种方式打开 Agent 视图： 1. 在任何会话点按左箭头 2. 直接在终端运行命令 `claude agents` 在视图中，每一行代表一个 Agent，会显示当前的对话、是否需要你的输入，以及该 Agent 上一次回复的大概内容。 你可以在视图里查看详细的对话信息，也可以直接进行回复。…"
-    },
-    {
-      "id": "eb3f197d4539f00fe4817cbb3427e285b157aad6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "前 OpenAI CTO Mira 的公司 Thinking Machines 发了一个非常创新的模型，他们叫交互模型。\n\n这个模型能够持续接收音频、视频、文本等原生的多模态内容，并且实时进行思考、响...",
-      "url": "https://x.com/op7418/status/2054023602874491326",
-      "published_at": "2026-05-12T02:19:23Z",
-      "summary": "前 OpenAI CTO Mira 的公司 Thinking Machines 发了一个非常创新的模型，他们叫交互模型。 这个模型能够持续接收音频、视频、文本等原生的多模态内容，并且实时进行思考、响应和行动。 它不像之前那种 Agent 脚手架，把多个模型、多个模态的模型通过 Agent 串起来，而是所有模态都在一整个模型里。 这样就可以让用户和 AI 在任意模态下实时进行交互： 你可以随时打断它，随时进行补充，AI 会实时关注你的状态，输出结果，不会像之前一样，必须等一句话结束了才能跟模型交互。 核心思路就是把交互部分训练到了模型里。他们从零训练的这个…"
-    },
-    {
-      "id": "f27e95f38a0ad0e60eaa99a641f42ac68ae36311",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "分享5个Claude Code + 飞书的超实用Agent办公玩法。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682189&idx=1&sn=ff8bd659085b02bff05a2f0f9fab8942",
-      "published_at": "2026-05-12T02:08:00Z",
-      "summary": "机器人都能自己对账了"
-    },
-    {
-      "id": "3f331208a4c5b1ca27647dd0b5e296fee81afbae",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-12",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-87",
-      "published_at": "2026-05-12T00:59:47Z",
-      "summary": "AI 早报 2026-05-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude Code 上线 Agent view 功能并新增 /goal 指令 ↗ #1 模型发布 Thinking Machines Lab 发布实时多模态“交互模型” TML-Interaction-Small ↗ #2 OpenBMB 发布开源多模态模型 MiniCPM-V 4.6 ↗ #3 开发生态 Anthropic 推出 Claude Platform on AWS ↗ #4 OpenAI 为 Codex 推出 OpenAI Developers 插件 ↗…"
     }
   ]
 }
