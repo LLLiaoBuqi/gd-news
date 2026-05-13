@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T09:23:56.260020Z",
+  "generated_at": "2026-05-13T11:39:15.817436Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 895,
+      "duration_ms": 1002,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 66,
+      "duration_ms": 42,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 778,
+      "duration_ms": 923,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 593,
+      "duration_ms": 707,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 471,
+      "duration_ms": 630,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1370,
+      "duration_ms": 2217,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1050,
+      "duration_ms": 1865,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 238,
+      "duration_ms": 203,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 832,
+      "duration_ms": 929,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1573,
+      "duration_ms": 1886,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,33 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 11,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "19e738758433db597c4c3adcb9dff9469e85c6fd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "用藏师傅的 PPT Skill 让 Codex 配图的技巧\n\n涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片\n\n这样既可以保证真实性...",
+          "url": "https://x.com/op7418/status/2054491392261632448",
+          "published_at": "2026-05-13T09:18:13Z",
+          "summary": "用藏师傅的 PPT Skill 让 Codex 配图的技巧 涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片 这样既可以保证真实性，又可以生成符合比例要求和高清的图片 比如云南这种甲马符 GPT 肯定是不知道长啥样的，但是垫图之后他能画的很好。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬9🔄1❤️21👀3868📊9⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a9aeeead21f683242cae34256dde723c9d2fc3f8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "做游记真的不错",
+          "url": "https://x.com/op7418/status/2054488458446717248",
+          "published_at": "2026-05-13T09:06:33Z",
+          "summary": "做游记真的不错💬1🔄0❤️1👀1190📊1⚡ Powered by xgo.ing"
+        },
         {
           "id": "b6b4924f38f9839a6d7e70191c1d47c0f21bb5ef",
           "site_id": "featuredrss",
@@ -197,7 +219,7 @@
           "title": "Skills 已经更新了这个带地图的版式和地图组件\n\n大家让自己的 AI 更新这个 Skills 就行。\n\n地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。",
           "url": "https://x.com/op7418/status/2054433146532479266",
           "published_at": "2026-05-13T05:26:46Z",
-          "summary": "Skills 已经更新了这个带地图的版式和地图组件 大家让自己的 AI 更新这个 Skills 就行。 地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬5🔄4❤️22👀5894📊8⚡ Powered by xgo.ing"
+          "summary": "Skills 已经更新了这个带地图的版式和地图组件 大家让自己的 AI 更新这个 Skills 就行。 地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬8🔄7❤️34👀9418📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "68182d7e93321fe65c2c80fb921d01dfa7c413ba",
@@ -208,7 +230,7 @@
           "title": "@dotey @vista8 @eze_is_1 跟 @lepadphone 老师聊了一下：\n\n我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。",
           "url": "https://x.com/op7418/status/2054428529736245652",
           "published_at": "2026-05-13T05:08:25Z",
-          "summary": "@dotey@vista8@eze_is_1 跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。💬1🔄0❤️6👀2854📊2⚡ Powered by xgo.ing"
+          "summary": "@dotey@vista8@eze_is_1 跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。💬1🔄0❤️6👀3475📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "4728fd49926d653139ee261c8e6005eb71621c9f",
@@ -219,7 +241,7 @@
           "title": "人物卡片",
           "url": "https://x.com/op7418/status/2054423566423413001",
           "published_at": "2026-05-13T04:48:42Z",
-          "summary": "人物卡片💬0🔄0❤️1👀1486⚡ Powered by xgo.ing"
+          "summary": "人物卡片💬0🔄0❤️1👀2820📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "9cd798a10d799f5c0848d027c3e9265a8cbea206",
@@ -230,7 +252,7 @@
           "title": "@ 一下提到的几个人 @dotey @vista8 @eze_is_1",
           "url": "https://x.com/op7418/status/2054421417270346049",
           "published_at": "2026-05-13T04:40:09Z",
-          "summary": "@ 一下提到的几个人 @dotey@vista8@eze_is_1💬1🔄0❤️1👀3491📊1⚡ Powered by xgo.ing"
+          "summary": "@ 一下提到的几个人 @dotey@vista8@eze_is_1💬1🔄0❤️1👀4193📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "382ee3a299783902eee2bfca73937a665c6c11d8",
@@ -241,7 +263,7 @@
           "title": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。\n\n基本上近代好多名人和好多事件都与住在这儿的人有关系。\n\n所以我就试了一下，用我的这个 PPT Skills 讲一...",
           "url": "https://x.com/op7418/status/2054418678918291482",
           "published_at": "2026-05-13T04:29:16Z",
-          "summary": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬9🔄2❤️45👀10686📊13⚡ Powere…"
+          "summary": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬11🔄4❤️62👀16810📊18⚡ Power…"
         },
         {
           "id": "11a817f9ea195821389d0e9b4ac10d374c816be9",
@@ -286,17 +308,6 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-88",
           "published_at": "2026-05-13T01:40:01Z",
           "summary": "AI 早报 2026-05-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini Intelligence 升级安卓体验 ↗ #1 模型发布 Claude Opus 4.7 快速模式以研究预览形式上线 API 及多款工具 ↗ #2 Jina AI 新模型 jina-embeddings-v5-omni 支持文本图像音视频混合检索 ↗ #3 Perceptron 推出 Mk1 模型，专攻视频理解与具身推理 ↗ #4 开发生态 GitHub更新Copilot计费与订阅：引入弹性配额与Max计划 ↗ #5 Xiaomi Mi…"
-        },
-        {
-          "id": "2127d5c458dd512dee39fb3d40bce2249ff53a81",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "RoboNeo组了个Agent团队帮我做视频，一句话生成的上限又刷新了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507023&idx=1&sn=41d74bf6a37d4d655f945e5fb01d28b6",
-          "published_at": "2026-05-12T09:58:00Z",
-          "summary": "好用到有点陌生了。。。"
         }
       ]
     },
@@ -314,6 +325,28 @@
   },
   "items": [
     {
+      "id": "19e738758433db597c4c3adcb9dff9469e85c6fd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "用藏师傅的 PPT Skill 让 Codex 配图的技巧\n\n涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片\n\n这样既可以保证真实性...",
+      "url": "https://x.com/op7418/status/2054491392261632448",
+      "published_at": "2026-05-13T09:18:13Z",
+      "summary": "用藏师傅的 PPT Skill 让 Codex 配图的技巧 涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片 这样既可以保证真实性，又可以生成符合比例要求和高清的图片 比如云南这种甲马符 GPT 肯定是不知道长啥样的，但是垫图之后他能画的很好。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬9🔄1❤️21👀3868📊9⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a9aeeead21f683242cae34256dde723c9d2fc3f8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "做游记真的不错",
+      "url": "https://x.com/op7418/status/2054488458446717248",
+      "published_at": "2026-05-13T09:06:33Z",
+      "summary": "做游记真的不错💬1🔄0❤️1👀1190📊1⚡ Powered by xgo.ing"
+    },
+    {
       "id": "b6b4924f38f9839a6d7e70191c1d47c0f21bb5ef",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -322,7 +355,7 @@
       "title": "Skills 已经更新了这个带地图的版式和地图组件\n\n大家让自己的 AI 更新这个 Skills 就行。\n\n地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。",
       "url": "https://x.com/op7418/status/2054433146532479266",
       "published_at": "2026-05-13T05:26:46Z",
-      "summary": "Skills 已经更新了这个带地图的版式和地图组件 大家让自己的 AI 更新这个 Skills 就行。 地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬5🔄4❤️22👀5894📊8⚡ Powered by xgo.ing"
+      "summary": "Skills 已经更新了这个带地图的版式和地图组件 大家让自己的 AI 更新这个 Skills 就行。 地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬8🔄7❤️34👀9418📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "68182d7e93321fe65c2c80fb921d01dfa7c413ba",
@@ -333,7 +366,7 @@
       "title": "@dotey @vista8 @eze_is_1 跟 @lepadphone 老师聊了一下：\n\n我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。",
       "url": "https://x.com/op7418/status/2054428529736245652",
       "published_at": "2026-05-13T05:08:25Z",
-      "summary": "@dotey@vista8@eze_is_1 跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。💬1🔄0❤️6👀2854📊2⚡ Powered by xgo.ing"
+      "summary": "@dotey@vista8@eze_is_1 跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。💬1🔄0❤️6👀3475📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "4728fd49926d653139ee261c8e6005eb71621c9f",
@@ -344,7 +377,7 @@
       "title": "人物卡片",
       "url": "https://x.com/op7418/status/2054423566423413001",
       "published_at": "2026-05-13T04:48:42Z",
-      "summary": "人物卡片💬0🔄0❤️1👀1486⚡ Powered by xgo.ing"
+      "summary": "人物卡片💬0🔄0❤️1👀2820📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "9cd798a10d799f5c0848d027c3e9265a8cbea206",
@@ -355,7 +388,7 @@
       "title": "@ 一下提到的几个人 @dotey @vista8 @eze_is_1",
       "url": "https://x.com/op7418/status/2054421417270346049",
       "published_at": "2026-05-13T04:40:09Z",
-      "summary": "@ 一下提到的几个人 @dotey@vista8@eze_is_1💬1🔄0❤️1👀3491📊1⚡ Powered by xgo.ing"
+      "summary": "@ 一下提到的几个人 @dotey@vista8@eze_is_1💬1🔄0❤️1👀4193📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "382ee3a299783902eee2bfca73937a665c6c11d8",
@@ -366,7 +399,7 @@
       "title": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。\n\n基本上近代好多名人和好多事件都与住在这儿的人有关系。\n\n所以我就试了一下，用我的这个 PPT Skills 讲一...",
       "url": "https://x.com/op7418/status/2054418678918291482",
       "published_at": "2026-05-13T04:29:16Z",
-      "summary": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬9🔄2❤️45👀10686📊13⚡ Powere…"
+      "summary": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬11🔄4❤️62👀16810📊18⚡ Power…"
     },
     {
       "id": "11a817f9ea195821389d0e9b4ac10d374c816be9",
@@ -411,17 +444,6 @@
       "url": "https://imjuya.github.io/juya-ai-daily/issue-88",
       "published_at": "2026-05-13T01:40:01Z",
       "summary": "AI 早报 2026-05-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini Intelligence 升级安卓体验 ↗ #1 模型发布 Claude Opus 4.7 快速模式以研究预览形式上线 API 及多款工具 ↗ #2 Jina AI 新模型 jina-embeddings-v5-omni 支持文本图像音视频混合检索 ↗ #3 Perceptron 推出 Mk1 模型，专攻视频理解与具身推理 ↗ #4 开发生态 GitHub更新Copilot计费与订阅：引入弹性配额与Max计划 ↗ #5 Xiaomi Mi…"
-    },
-    {
-      "id": "2127d5c458dd512dee39fb3d40bce2249ff53a81",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "RoboNeo组了个Agent团队帮我做视频，一句话生成的上限又刷新了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507023&idx=1&sn=41d74bf6a37d4d655f945e5fb01d28b6",
-      "published_at": "2026-05-12T09:58:00Z",
-      "summary": "好用到有点陌生了。。。"
     }
   ]
 }
