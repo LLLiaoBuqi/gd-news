@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T08:06:29.417776Z",
+  "generated_at": "2026-05-14T10:41:17.112198Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 6,
   "failed_feeds": [
@@ -23,7 +23,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 107,
+      "duration_ms": 84,
       "error": "HTTPSConnectionPool(host='rsshub.bestblogs.dev', port=443): Max retries exceeded with url: /anthropic/news (Caused by NameResolutionError(\"HTTPSConnection(host='rsshub.bestblogs.dev', port=443): Failed to resolve 'rsshub.bestblogs.dev' ([Errno -2] Name or service not known)\"))",
       "skipped": false,
       "skip_reason": null,
@@ -37,7 +37,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 29,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -51,7 +51,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 953,
+      "duration_ms": 661,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -65,7 +65,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 778,
+      "duration_ms": 675,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -79,7 +79,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 668,
+      "duration_ms": 424,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -93,7 +93,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 71,
       "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Max retries exceeded with url: /feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml (Caused by NameResolutionError(\"HTTPSConnection(host='wechat2rss.bestblogs.dev', port=443): Failed to resolve 'wechat2rss.bestblogs.dev' ([Errno -2] Name or service not known)\"))",
       "skipped": false,
       "skip_reason": null,
@@ -135,7 +135,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 206,
+      "duration_ms": 197,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -149,7 +149,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1011,
+      "duration_ms": 731,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -177,7 +177,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 80,
+      "duration_ms": 70,
       "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Max retries exceeded with url: /feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml (Caused by NameResolutionError(\"HTTPSConnection(host='wechat2rss.bestblogs.dev', port=443): Failed to resolve 'wechat2rss.bestblogs.dev' ([Errno -2] Name or service not known)\"))",
       "skipped": false,
       "skip_reason": null,
@@ -187,7 +187,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 2,
       "failed_feeds": [
@@ -217,28 +217,6 @@
           "url": "https://x.com/op7418/status/2054725474493067482",
           "published_at": "2026-05-14T00:48:22Z",
           "summary": "Claude Code 的每周限额将增加 50%，持续到 7 月 13 号。 但是他们这次终于把类似 OpenClaw 和 Codepilot 这种使用 Agent SDK 构建的应用额度砍了。 6月 15 号开始是双轨制： 只有在 Claude Code 本身及其内部，你的 Max 和 Pro 账户才能享受正常额度。 如果你是用于 Agent SDK 构建的产品（也就是一些支持 Claude 账号登录的三方产品），你的额度会被折算成对应金额的 API 额度。 所以基本上，我们的额度减了十几倍吧。 比如说 Max 账户 20 倍的 200 美元 API…"
-        },
-        {
-          "id": "19e738758433db597c4c3adcb9dff9469e85c6fd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "用藏师傅的 PPT Skill 让 Codex 配图的技巧\n\n涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片\n\n这样既可以保证真实性...",
-          "url": "https://x.com/op7418/status/2054491392261632448",
-          "published_at": "2026-05-13T09:18:13Z",
-          "summary": "用藏师傅的 PPT Skill 让 Codex 配图的技巧 涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片 这样既可以保证真实性，又可以生成符合比例要求和高清的图片 比如云南这种甲马符 GPT 肯定是不知道长啥样的，但是垫图之后他能画的很好。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬12🔄14❤️192👀23415📊47⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a9aeeead21f683242cae34256dde723c9d2fc3f8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "做游记真的不错",
-          "url": "https://x.com/op7418/status/2054488458446717248",
-          "published_at": "2026-05-13T09:06:33Z",
-          "summary": "做游记真的不错💬1🔄0❤️1👀2834📊1⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -300,28 +278,6 @@
       "url": "https://x.com/OpenAI/status/2054620621255192719",
       "published_at": "2026-05-13T17:51:43Z",
       "summary": "Another reason to switch to Codex.OpenAI Developers@OpenAIDevsWant to (officially) use Codex at work? Send this post to your CTO to bring your team to Codex. Eligible enterprise customers who switch in the next 30 days get 2 free months of Codex usage for new users.🔗 View Quoted…"
-    },
-    {
-      "id": "19e738758433db597c4c3adcb9dff9469e85c6fd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "用藏师傅的 PPT Skill 让 Codex 配图的技巧\n\n涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片\n\n这样既可以保证真实性...",
-      "url": "https://x.com/op7418/status/2054491392261632448",
-      "published_at": "2026-05-13T09:18:13Z",
-      "summary": "用藏师傅的 PPT Skill 让 Codex 配图的技巧 涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片 这样既可以保证真实性，又可以生成符合比例要求和高清的图片 比如云南这种甲马符 GPT 肯定是不知道长啥样的，但是垫图之后他能画的很好。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬12🔄14❤️192👀23415📊47⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a9aeeead21f683242cae34256dde723c9d2fc3f8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "做游记真的不错",
-      "url": "https://x.com/op7418/status/2054488458446717248",
-      "published_at": "2026-05-13T09:06:33Z",
-      "summary": "做游记真的不错💬1🔄0❤️1👀2834📊1⚡ Powered by xgo.ing"
     }
   ]
 }
