@@ -1,17 +1,13 @@
 {
-  "generated_at": "2026-05-14T12:23:00.097321Z",
+  "generated_at": "2026-05-14T15:04:06.343815Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 7,
   "feed_total": 12,
-  "ok_feeds": 6,
+  "ok_feeds": 10,
   "failed_feeds": [
-    "https://rsshub.bestblogs.dev/anthropic/news",
-    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
-    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-    "rsshub://bilibili/user/video/385670211",
-    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+    "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -21,10 +17,10 @@
       "feed_title": "Anthropic News",
       "feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 104,
-      "error": "HTTPSConnectionPool(host='rsshub.bestblogs.dev', port=443): Max retries exceeded with url: /anthropic/news (Caused by NameResolutionError(\"HTTPSConnection(host='rsshub.bestblogs.dev', port=443): Failed to resolve 'rsshub.bestblogs.dev' ([Errno -2] Name or service not known)\"))",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 790,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -37,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 19,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -51,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 856,
+      "duration_ms": 776,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -65,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 523,
+      "duration_ms": 516,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -79,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 748,
+      "duration_ms": 582,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -91,10 +87,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 90,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Max retries exceeded with url: /feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml (Caused by NameResolutionError(\"HTTPSConnection(host='wechat2rss.bestblogs.dev', port=443): Failed to resolve 'wechat2rss.bestblogs.dev' ([Errno -2] Name or service not known)\"))",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1257,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -119,10 +115,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 97,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Max retries exceeded with url: /feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml (Caused by NameResolutionError(\"HTTPSConnection(host='wechat2rss.bestblogs.dev', port=443): Failed to resolve 'wechat2rss.bestblogs.dev' ([Errno -2] Name or service not known)\"))",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1203,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -135,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 199,
+      "duration_ms": 211,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -149,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 873,
+      "duration_ms": 831,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -175,10 +171,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 79,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Max retries exceeded with url: /feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml (Caused by NameResolutionError(\"HTTPSConnection(host='wechat2rss.bestblogs.dev', port=443): Failed to resolve 'wechat2rss.bestblogs.dev' ([Errno -2] Name or service not known)\"))",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1577,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -187,15 +183,44 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 5,
       "feed_total": 5,
-      "ok_feeds": 2,
-      "failed_feeds": [
-        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
-      ],
+      "ok_feeds": 5,
+      "failed_feeds": [],
       "items": [
+        {
+          "id": "a7e45237cb2aeb3be529bb34f1957905dc6ac46e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "可以 调用 Skill 舒服了啊",
+          "url": "https://x.com/op7418/status/2054904223788351918",
+          "published_at": "2026-05-14T12:38:39Z",
+          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀2899📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Raycast 居然更新了一个 Beta 版本，也就是 V2 版本。\n\n这一下让它从单纯的启动器，变成了一个“启动器 + AI Agent”的工具了\n\n整体的 UI 和界面全部重做了，更符合现在的 M...",
+          "url": "https://x.com/op7418/status/2054903351222174138",
+          "published_at": "2026-05-14T12:35:11Z",
+          "summary": "Raycast 居然更新了一个 Beta 版本，也就是 V2 版本。 这一下让它从单纯的启动器，变成了一个“启动器 + AI Agent”的工具了 整体的 UI 和界面全部重做了，更符合现在的 Mac 系统设计。 基础架构重构 (a) 启动器底层全部重做 (b) 搜索、调度、扩展功能重新设计 (c) 设置界面被重构 搜索功能升级 (a) 文件搜索被直接整合进主搜索 (b) 提供了更快的文件搜索体验 AI 能力增强 (a) 拥有单独的 AI Chat 输入框和聊天窗口 (b) AI 能力现在支持 Skills、Agent 和 Memory (c) 内置了语…"
+        },
+        {
+          "id": "fe3e5ccb6bb5483e06ba85351822cf480704da5e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "现在，你可以在手机上用AI生成一个APP了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682261&idx=1&sn=3dec447f00a536d2eff27a49c94c6bc2",
+          "published_at": "2026-05-14T04:14:00Z",
+          "summary": "我妈也能搓"
+        },
         {
           "id": "ca2c91624d01911ccac35f52adf6e96cf28c69c0",
           "site_id": "featuredrss",
@@ -222,11 +247,10 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 2,
       "feed_total": 7,
-      "ok_feeds": 4,
+      "ok_feeds": 5,
       "failed_feeds": [
-        "https://rsshub.bestblogs.dev/anthropic/news",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
@@ -241,11 +265,55 @@
           "url": "https://x.com/OpenAI/status/2054620621255192719",
           "published_at": "2026-05-13T17:51:43Z",
           "summary": "Another reason to switch to Codex.OpenAI Developers@OpenAIDevsWant to (officially) use Codex at work? Send this post to your CTO to bring your team to Codex. Eligible enterprise customers who switch in the next 30 days get 2 free months of Codex usage for new users.🔗 View Quoted…"
+        },
+        {
+          "id": "e9cca2d054024ce8bccf69e8a7faba3db4e8b32b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic News",
+          "region": "global",
+          "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+          "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+          "published_at": "2026-05-13T16:00:00Z",
+          "summary": "We’re partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility over the next four years. These programs will be implemented with partner…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "a7e45237cb2aeb3be529bb34f1957905dc6ac46e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "可以 调用 Skill 舒服了啊",
+      "url": "https://x.com/op7418/status/2054904223788351918",
+      "published_at": "2026-05-14T12:38:39Z",
+      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀2899📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Raycast 居然更新了一个 Beta 版本，也就是 V2 版本。\n\n这一下让它从单纯的启动器，变成了一个“启动器 + AI Agent”的工具了\n\n整体的 UI 和界面全部重做了，更符合现在的 M...",
+      "url": "https://x.com/op7418/status/2054903351222174138",
+      "published_at": "2026-05-14T12:35:11Z",
+      "summary": "Raycast 居然更新了一个 Beta 版本，也就是 V2 版本。 这一下让它从单纯的启动器，变成了一个“启动器 + AI Agent”的工具了 整体的 UI 和界面全部重做了，更符合现在的 Mac 系统设计。 基础架构重构 (a) 启动器底层全部重做 (b) 搜索、调度、扩展功能重新设计 (c) 设置界面被重构 搜索功能升级 (a) 文件搜索被直接整合进主搜索 (b) 提供了更快的文件搜索体验 AI 能力增强 (a) 拥有单独的 AI Chat 输入框和聊天窗口 (b) AI 能力现在支持 Skills、Agent 和 Memory (c) 内置了语…"
+    },
+    {
+      "id": "fe3e5ccb6bb5483e06ba85351822cf480704da5e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "现在，你可以在手机上用AI生成一个APP了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682261&idx=1&sn=3dec447f00a536d2eff27a49c94c6bc2",
+      "published_at": "2026-05-14T04:14:00Z",
+      "summary": "我妈也能搓"
+    },
     {
       "id": "ca2c91624d01911ccac35f52adf6e96cf28c69c0",
       "site_id": "featuredrss",
@@ -278,6 +346,17 @@
       "url": "https://x.com/OpenAI/status/2054620621255192719",
       "published_at": "2026-05-13T17:51:43Z",
       "summary": "Another reason to switch to Codex.OpenAI Developers@OpenAIDevsWant to (officially) use Codex at work? Send this post to your CTO to bring your team to Codex. Eligible enterprise customers who switch in the next 30 days get 2 free months of Codex usage for new users.🔗 View Quoted…"
+    },
+    {
+      "id": "e9cca2d054024ce8bccf69e8a7faba3db4e8b32b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic News",
+      "region": "global",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "published_at": "2026-05-13T16:00:00Z",
+      "summary": "We’re partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility over the next four years. These programs will be implemented with partner…"
     }
   ]
 }
