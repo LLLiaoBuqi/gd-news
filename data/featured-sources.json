@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T15:04:06.343815Z",
+  "generated_at": "2026-05-14T17:17:39.550163Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 790,
+      "duration_ms": 247,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 776,
+      "duration_ms": 439,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 516,
+      "duration_ms": 645,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 582,
+      "duration_ms": 695,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1257,
+      "duration_ms": 1092,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1203,
+      "duration_ms": 1028,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 211,
+      "duration_ms": 183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 831,
+      "duration_ms": 739,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1577,
+      "duration_ms": 1364,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -197,7 +197,7 @@
           "title": "可以 调用 Skill 舒服了啊",
           "url": "https://x.com/op7418/status/2054904223788351918",
           "published_at": "2026-05-14T12:38:39Z",
-          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀2899📊1⚡ Powered by xgo.ing"
+          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀3948📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
@@ -247,7 +247,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -265,17 +265,6 @@
           "url": "https://x.com/OpenAI/status/2054620621255192719",
           "published_at": "2026-05-13T17:51:43Z",
           "summary": "Another reason to switch to Codex.OpenAI Developers@OpenAIDevsWant to (officially) use Codex at work? Send this post to your CTO to bring your team to Codex. Eligible enterprise customers who switch in the next 30 days get 2 free months of Codex usage for new users.🔗 View Quoted…"
-        },
-        {
-          "id": "e9cca2d054024ce8bccf69e8a7faba3db4e8b32b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic News",
-          "region": "global",
-          "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-          "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-          "published_at": "2026-05-13T16:00:00Z",
-          "summary": "We’re partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility over the next four years. These programs will be implemented with partner…"
         }
       ]
     }
@@ -290,7 +279,7 @@
       "title": "可以 调用 Skill 舒服了啊",
       "url": "https://x.com/op7418/status/2054904223788351918",
       "published_at": "2026-05-14T12:38:39Z",
-      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀2899📊1⚡ Powered by xgo.ing"
+      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀3948📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
@@ -346,17 +335,6 @@
       "url": "https://x.com/OpenAI/status/2054620621255192719",
       "published_at": "2026-05-13T17:51:43Z",
       "summary": "Another reason to switch to Codex.OpenAI Developers@OpenAIDevsWant to (officially) use Codex at work? Send this post to your CTO to bring your team to Codex. Eligible enterprise customers who switch in the next 30 days get 2 free months of Codex usage for new users.🔗 View Quoted…"
-    },
-    {
-      "id": "e9cca2d054024ce8bccf69e8a7faba3db4e8b32b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic News",
-      "region": "global",
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "published_at": "2026-05-13T16:00:00Z",
-      "summary": "We’re partnering with the Gates Foundation to commit $200 million in grant funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility over the next four years. These programs will be implemented with partner…"
     }
   ]
 }
