@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T20:51:04.364433Z",
+  "generated_at": "2026-05-14T22:04:28.076303Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 298,
+      "duration_ms": 641,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 17,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 752,
+      "duration_ms": 550,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 536,
+      "duration_ms": 501,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 427,
+      "duration_ms": 285,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1474,
+      "duration_ms": 1283,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 993,
+      "duration_ms": 808,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 206,
+      "duration_ms": 186,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 791,
+      "duration_ms": 588,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1571,
+      "duration_ms": 1088,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -197,7 +197,7 @@
           "title": "可以 调用 Skill 舒服了啊",
           "url": "https://x.com/op7418/status/2054904223788351918",
           "published_at": "2026-05-14T12:38:39Z",
-          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀4407📊1⚡ Powered by xgo.ing"
+          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀4438📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
@@ -247,7 +247,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -265,6 +265,17 @@
           "url": "https://x.com/OpenAI/status/2055016850849993072",
           "published_at": "2026-05-14T20:06:12Z",
           "summary": "You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.Your browser does not support…"
+        },
+        {
+          "id": "faeccff3b7b21cd01765df729797de52489532ed",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Rolling out today as a preview on iOS and Android in all supported regions.\n\nSupport for connecting ...",
+          "url": "https://x.com/OpenAI/status/2055016852133417389",
+          "published_at": "2026-05-14T20:06:12Z",
+          "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬85🔄58❤️901👀85253📊160⚡ Powered by xgo.ing"
         },
         {
           "id": "fb99feabea29c641ae4154cd1f72be0e96da85d6",
@@ -293,6 +304,17 @@
       "summary": "You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox.Your browser does not support…"
     },
     {
+      "id": "faeccff3b7b21cd01765df729797de52489532ed",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Rolling out today as a preview on iOS and Android in all supported regions.\n\nSupport for connecting ...",
+      "url": "https://x.com/OpenAI/status/2055016852133417389",
+      "published_at": "2026-05-14T20:06:12Z",
+      "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬85🔄58❤️901👀85253📊160⚡ Powered by xgo.ing"
+    },
+    {
       "id": "a7e45237cb2aeb3be529bb34f1957905dc6ac46e",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -301,7 +323,7 @@
       "title": "可以 调用 Skill 舒服了啊",
       "url": "https://x.com/op7418/status/2054904223788351918",
       "published_at": "2026-05-14T12:38:39Z",
-      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀4407📊1⚡ Powered by xgo.ing"
+      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀4438📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
