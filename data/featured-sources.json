@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-15T01:21:07.888774Z",
+  "generated_at": "2026-05-15T05:08:38.535100Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 269,
+      "duration_ms": 279,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 690,
+      "duration_ms": 410,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 368,
+      "duration_ms": 651,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 612,
+      "duration_ms": 685,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1118,
+      "duration_ms": 1355,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 859,
+      "duration_ms": 984,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 199,
+      "duration_ms": 222,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 641,
+      "duration_ms": 781,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1327,
+      "duration_ms": 1544,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,88 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "b5c1fc7d805079d52b1ba3b808a6a0a81784048e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。\n\n让 codex 调用 computer use 控制就行。\n\n这样的话，如果你是 codex 和 cloud cod...",
+          "url": "https://x.com/op7418/status/2055135882290901063",
+          "published_at": "2026-05-15T03:59:11Z",
+          "summary": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。 让 codex 调用 computer use 控制就行。 这样的话，如果你是 codex 和 cloud code 的协作开发，就可以让就可以都在 ChatGPT 里边进行控制。 你如果你开的是自动审查权限的话，就不太好控制，开那个完整权限才行。 不然自动审查会拒绝他读取终端 claude code 里的内容歸藏(guizang.ai)@op7418Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接…"
+        },
+        {
+          "id": "2a913a2403e7ffc4659f6cebae07b0abbf160a4e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Lex Fridman 居然来中国了，就背个包。\n\n也会跟国内的 AI 工程师录播客，不知道是哪几家，他的量还是很猛的",
+          "url": "https://x.com/op7418/status/2055133915162218942",
+          "published_at": "2026-05-15T03:51:22Z",
+          "summary": "Lex Fridman 居然来中国了，就背个包。 也会跟国内的 AI 工程师录播客，不知道是哪几家，他的量还是很猛的Lex Fridman@lexfridmanI'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks…"
+        },
+        {
+          "id": "bfb6384133e3baae19df18291da31b5b13bdfe7e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex CLI 设置 Chatgpt 远程控制",
+          "url": "https://x.com/op7418/status/2055122578407387420",
+          "published_at": "2026-05-15T03:06:19Z",
+          "summary": "Codex CLI 设置 Chatgpt 远程控制bailey@dima_zy@op7418@jimail0218 支持，修改~/.codex/config.toml，添加[features]remote-control = true，然后终端运行codex remote-control，然后手机端就能看到了，好用😃。🔗 View Quoted Tweet💬4🔄1❤️10👀2984📊5⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "df71f1b0c3912aa0f8d920bd2c23b226f817c9c6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "藏师傅的 PPT Skills，感觉 GitHub star 马上就要破万了呀！\n\n没点 star 的朋友点点 star 吧，谢谢了。\n\n顺便让 Codex 分析了一下安装的数据，还挺有意思的。",
+          "url": "https://x.com/op7418/status/2055121582776021079",
+          "published_at": "2026-05-15T03:02:22Z",
+          "summary": "藏师傅的 PPT Skills，感觉 GitHub star 马上就要破万了呀！ 没点 star 的朋友点点 star 吧，谢谢了。 顺便让 Codex 分析了一下安装的数据，还挺有意思的。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬7🔄1❤️16👀4406📊7⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c402e418c6922611dbde3db3357a5998a933bf76",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "GitHub 发布了 GitHub Copilot 桌面端的技术预览版。\n\n看起来跟 Codex 长得有点像，在 GitHub 相关功能上露出的也比较多。\n\n现在需要申请 waitlist",
+          "url": "https://x.com/op7418/status/2055111180369506481",
+          "published_at": "2026-05-15T02:21:02Z",
+          "summary": "GitHub 发布了 GitHub Copilot 桌面端的技术预览版。 看起来跟 Codex 长得有点像，在 GitHub 相关功能上露出的也比较多。 现在需要申请 waitlistGitHub@githubCooking up something new 🧑‍🍳 Join the waitlist for early access to technical preview of the GitHub Copilot app gh.io/github-copilot…zOAYour browser does not support the video…"
+        },
+        {
+          "id": "5d7d3b2424d2a4538d3af250fbbe6d687cd87989",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 终于支持手机上的 ChatGPT 远程控制了！\n\n可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。\n\n我写一下设置的教程：\n\n1. 点击桌面端...",
+          "url": "https://x.com/op7418/status/2055104256978681980",
+          "published_at": "2026-05-15T01:53:31Z",
+          "summary": "Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。 我写一下设置的教程： 1. 点击桌面端 Codex 客户端左侧的“设置 Codex 移动版”，点击后系统会引导你开始设置。 2. 如果你的 ChatGPT 没有设置多重因素验证（MFA），系统会弹出网页要求你设置。这里推荐使用 Google Authenticator（谷歌身份验证器）App，不要用手机短信。 3. 系统会要求你使用手机 ChatGPT 客户端扫码。如果你直接打开手机端 App，它通常…"
+        },
+        {
+          "id": "480ce611f9268d6e77dc4257b098e254429058cc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "嘉琛的 bridge 有些设计和能力真的很顶",
+          "url": "https://x.com/op7418/status/2055098990123950203",
+          "published_at": "2026-05-15T01:32:35Z",
+          "summary": "嘉琛的 bridge 有些设计和能力真的很顶Jc He@jc_he_afk让一百个人爱上你的产品，好过让一百万个人“有点喜欢”你的产品。 创业以后，特别认可一句话叫“优秀是卓越的阻碍”。就是说，一个很“优秀”的人，一个很“优秀”的产品很难有动力去把事情做到最后一公里。真正做出好东西的founder，很少有履历一路坦途的985高学历大厂高管。 他们会因为“优秀”的退路太多走向平庸。 在@paulg 那里，这也是老生常谈的所谓“Do things that don't scale”. 做东西不能一开始就求快。 所以，我们思前想后，还是给bridge上了邀请码…"
+        },
         {
           "id": "43082e8b10240442607d2eec0146b4cc4998ec92",
           "site_id": "featuredrss",
@@ -208,7 +285,7 @@
           "title": "可以 调用 Skill 舒服了啊",
           "url": "https://x.com/op7418/status/2054904223788351918",
           "published_at": "2026-05-14T12:38:39Z",
-          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️5👀4742📊1⚡ Powered by xgo.ing"
+          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️5👀5190📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
@@ -220,28 +297,6 @@
           "url": "https://x.com/op7418/status/2054903351222174138",
           "published_at": "2026-05-14T12:35:11Z",
           "summary": "Raycast 居然更新了一个 Beta 版本，也就是 V2 版本。 这一下让它从单纯的启动器，变成了一个“启动器 + AI Agent”的工具了 整体的 UI 和界面全部重做了，更符合现在的 Mac 系统设计。 基础架构重构 (a) 启动器底层全部重做 (b) 搜索、调度、扩展功能重新设计 (c) 设置界面被重构 搜索功能升级 (a) 文件搜索被直接整合进主搜索 (b) 提供了更快的文件搜索体验 AI 能力增强 (a) 拥有单独的 AI Chat 输入框和聊天窗口 (b) AI 能力现在支持 Skills、Agent 和 Memory (c) 内置了语…"
-        },
-        {
-          "id": "fe3e5ccb6bb5483e06ba85351822cf480704da5e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "现在，你可以在手机上用AI生成一个APP了。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682261&idx=1&sn=3dec447f00a536d2eff27a49c94c6bc2",
-          "published_at": "2026-05-14T04:14:00Z",
-          "summary": "我妈也能搓"
-        },
-        {
-          "id": "ca2c91624d01911ccac35f52adf6e96cf28c69c0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-14",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-89",
-          "published_at": "2026-05-14T01:22:48Z",
-          "summary": "AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信…"
         }
       ]
     },
@@ -275,12 +330,89 @@
           "title": "Rolling out today as a preview on iOS and Android in all supported regions.\n\nSupport for connecting ...",
           "url": "https://x.com/OpenAI/status/2055016852133417389",
           "published_at": "2026-05-14T20:06:12Z",
-          "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬103🔄104❤️1191👀142542📊217⚡ Powered by xgo.ing"
+          "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬118🔄130❤️1378👀197540📊258⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "b5c1fc7d805079d52b1ba3b808a6a0a81784048e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。\n\n让 codex 调用 computer use 控制就行。\n\n这样的话，如果你是 codex 和 cloud cod...",
+      "url": "https://x.com/op7418/status/2055135882290901063",
+      "published_at": "2026-05-15T03:59:11Z",
+      "summary": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。 让 codex 调用 computer use 控制就行。 这样的话，如果你是 codex 和 cloud code 的协作开发，就可以让就可以都在 ChatGPT 里边进行控制。 你如果你开的是自动审查权限的话，就不太好控制，开那个完整权限才行。 不然自动审查会拒绝他读取终端 claude code 里的内容歸藏(guizang.ai)@op7418Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接…"
+    },
+    {
+      "id": "2a913a2403e7ffc4659f6cebae07b0abbf160a4e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Lex Fridman 居然来中国了，就背个包。\n\n也会跟国内的 AI 工程师录播客，不知道是哪几家，他的量还是很猛的",
+      "url": "https://x.com/op7418/status/2055133915162218942",
+      "published_at": "2026-05-15T03:51:22Z",
+      "summary": "Lex Fridman 居然来中国了，就背个包。 也会跟国内的 AI 工程师录播客，不知道是哪几家，他的量还是很猛的Lex Fridman@lexfridmanI'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks…"
+    },
+    {
+      "id": "bfb6384133e3baae19df18291da31b5b13bdfe7e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex CLI 设置 Chatgpt 远程控制",
+      "url": "https://x.com/op7418/status/2055122578407387420",
+      "published_at": "2026-05-15T03:06:19Z",
+      "summary": "Codex CLI 设置 Chatgpt 远程控制bailey@dima_zy@op7418@jimail0218 支持，修改~/.codex/config.toml，添加[features]remote-control = true，然后终端运行codex remote-control，然后手机端就能看到了，好用😃。🔗 View Quoted Tweet💬4🔄1❤️10👀2984📊5⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "df71f1b0c3912aa0f8d920bd2c23b226f817c9c6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "藏师傅的 PPT Skills，感觉 GitHub star 马上就要破万了呀！\n\n没点 star 的朋友点点 star 吧，谢谢了。\n\n顺便让 Codex 分析了一下安装的数据，还挺有意思的。",
+      "url": "https://x.com/op7418/status/2055121582776021079",
+      "published_at": "2026-05-15T03:02:22Z",
+      "summary": "藏师傅的 PPT Skills，感觉 GitHub star 马上就要破万了呀！ 没点 star 的朋友点点 star 吧，谢谢了。 顺便让 Codex 分析了一下安装的数据，还挺有意思的。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬7🔄1❤️16👀4406📊7⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "c402e418c6922611dbde3db3357a5998a933bf76",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "GitHub 发布了 GitHub Copilot 桌面端的技术预览版。\n\n看起来跟 Codex 长得有点像，在 GitHub 相关功能上露出的也比较多。\n\n现在需要申请 waitlist",
+      "url": "https://x.com/op7418/status/2055111180369506481",
+      "published_at": "2026-05-15T02:21:02Z",
+      "summary": "GitHub 发布了 GitHub Copilot 桌面端的技术预览版。 看起来跟 Codex 长得有点像，在 GitHub 相关功能上露出的也比较多。 现在需要申请 waitlistGitHub@githubCooking up something new 🧑‍🍳 Join the waitlist for early access to technical preview of the GitHub Copilot app gh.io/github-copilot…zOAYour browser does not support the video…"
+    },
+    {
+      "id": "5d7d3b2424d2a4538d3af250fbbe6d687cd87989",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex 终于支持手机上的 ChatGPT 远程控制了！\n\n可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。\n\n我写一下设置的教程：\n\n1. 点击桌面端...",
+      "url": "https://x.com/op7418/status/2055104256978681980",
+      "published_at": "2026-05-15T01:53:31Z",
+      "summary": "Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。 我写一下设置的教程： 1. 点击桌面端 Codex 客户端左侧的“设置 Codex 移动版”，点击后系统会引导你开始设置。 2. 如果你的 ChatGPT 没有设置多重因素验证（MFA），系统会弹出网页要求你设置。这里推荐使用 Google Authenticator（谷歌身份验证器）App，不要用手机短信。 3. 系统会要求你使用手机 ChatGPT 客户端扫码。如果你直接打开手机端 App，它通常…"
+    },
+    {
+      "id": "480ce611f9268d6e77dc4257b098e254429058cc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "嘉琛的 bridge 有些设计和能力真的很顶",
+      "url": "https://x.com/op7418/status/2055098990123950203",
+      "published_at": "2026-05-15T01:32:35Z",
+      "summary": "嘉琛的 bridge 有些设计和能力真的很顶Jc He@jc_he_afk让一百个人爱上你的产品，好过让一百万个人“有点喜欢”你的产品。 创业以后，特别认可一句话叫“优秀是卓越的阻碍”。就是说，一个很“优秀”的人，一个很“优秀”的产品很难有动力去把事情做到最后一公里。真正做出好东西的founder，很少有履历一路坦途的985高学历大厂高管。 他们会因为“优秀”的退路太多走向平庸。 在@paulg 那里，这也是老生常谈的所谓“Do things that don't scale”. 做东西不能一开始就求快。 所以，我们思前想后，还是给bridge上了邀请码…"
+    },
     {
       "id": "43082e8b10240442607d2eec0146b4cc4998ec92",
       "site_id": "featuredrss",
@@ -312,7 +444,7 @@
       "title": "Rolling out today as a preview on iOS and Android in all supported regions.\n\nSupport for connecting ...",
       "url": "https://x.com/OpenAI/status/2055016852133417389",
       "published_at": "2026-05-14T20:06:12Z",
-      "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬103🔄104❤️1191👀142542📊217⚡ Powered by xgo.ing"
+      "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬118🔄130❤️1378👀197540📊258⚡ Powered by xgo.ing"
     },
     {
       "id": "a7e45237cb2aeb3be529bb34f1957905dc6ac46e",
@@ -323,7 +455,7 @@
       "title": "可以 调用 Skill 舒服了啊",
       "url": "https://x.com/op7418/status/2054904223788351918",
       "published_at": "2026-05-14T12:38:39Z",
-      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️5👀4742📊1⚡ Powered by xgo.ing"
+      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️5👀5190📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
@@ -335,28 +467,6 @@
       "url": "https://x.com/op7418/status/2054903351222174138",
       "published_at": "2026-05-14T12:35:11Z",
       "summary": "Raycast 居然更新了一个 Beta 版本，也就是 V2 版本。 这一下让它从单纯的启动器，变成了一个“启动器 + AI Agent”的工具了 整体的 UI 和界面全部重做了，更符合现在的 Mac 系统设计。 基础架构重构 (a) 启动器底层全部重做 (b) 搜索、调度、扩展功能重新设计 (c) 设置界面被重构 搜索功能升级 (a) 文件搜索被直接整合进主搜索 (b) 提供了更快的文件搜索体验 AI 能力增强 (a) 拥有单独的 AI Chat 输入框和聊天窗口 (b) AI 能力现在支持 Skills、Agent 和 Memory (c) 内置了语…"
-    },
-    {
-      "id": "fe3e5ccb6bb5483e06ba85351822cf480704da5e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "现在，你可以在手机上用AI生成一个APP了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682261&idx=1&sn=3dec447f00a536d2eff27a49c94c6bc2",
-      "published_at": "2026-05-14T04:14:00Z",
-      "summary": "我妈也能搓"
-    },
-    {
-      "id": "ca2c91624d01911ccac35f52adf6e96cf28c69c0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-14",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-89",
-      "published_at": "2026-05-14T01:22:48Z",
-      "summary": "AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信…"
     }
   ]
 }
