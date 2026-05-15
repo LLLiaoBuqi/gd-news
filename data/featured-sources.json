@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T23:27:43.664807Z",
+  "generated_at": "2026-05-15T01:21:07.888774Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -18,8 +18,8 @@
       "feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 761,
+      "item_count": 9,
+      "duration_ms": 269,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 556,
+      "duration_ms": 690,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 405,
+      "duration_ms": 368,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 634,
+      "duration_ms": 612,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1198,
+      "duration_ms": 1118,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 982,
+      "duration_ms": 859,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 206,
+      "duration_ms": 199,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 783,
+      "duration_ms": 641,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1512,
+      "duration_ms": 1327,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -189,6 +189,17 @@
       "failed_feeds": [],
       "items": [
         {
+          "id": "43082e8b10240442607d2eec0146b4cc4998ec92",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-15",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-90",
+          "published_at": "2026-05-15T01:00:08Z",
+          "summary": "AI 早报 2026-05-15 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 ChatGPT 移动应用上线 Codex 远程控制功能 ↗ #1 模型发布 蚂蚁百灵正式开源 Ring-2.6-1T ↗ #2 开发生态 Cline 开源 Cline SDK 并重构底层架构，推出 Cline 2.0 ↗ #3 GitHub 推出原生桌面应用 GitHub Copilot app 技术预览版 ↗ #4 SpaceXAI推出编程Agent工具Grok Build早期测试版 ↗ #5 Kimi 发布 WebBridge 扩展，支持第三方 Agent ↗ #6…"
+        },
+        {
           "id": "a7e45237cb2aeb3be529bb34f1957905dc6ac46e",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -197,7 +208,7 @@
           "title": "可以 调用 Skill 舒服了啊",
           "url": "https://x.com/op7418/status/2054904223788351918",
           "published_at": "2026-05-14T12:38:39Z",
-          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀4501📊1⚡ Powered by xgo.ing"
+          "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️5👀4742📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
@@ -231,23 +242,12 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-89",
           "published_at": "2026-05-14T01:22:48Z",
           "summary": "AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信…"
-        },
-        {
-          "id": "9e1ea198a260c1d0b23ed26b459ff6374beeb9fd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Claude Code 的每周限额将增加 50%，持续到 7 月 13 号。\n\n但是他们这次终于把类似 OpenClaw 和 Codepilot 这种使用 Agent SDK 构建的应用额度砍了。\n\n...",
-          "url": "https://x.com/op7418/status/2054725474493067482",
-          "published_at": "2026-05-14T00:48:22Z",
-          "summary": "Claude Code 的每周限额将增加 50%，持续到 7 月 13 号。 但是他们这次终于把类似 OpenClaw 和 Codepilot 这种使用 Agent SDK 构建的应用额度砍了。 6月 15 号开始是双轨制： 只有在 Claude Code 本身及其内部，你的 Max 和 Pro 账户才能享受正常额度。 如果你是用于 Agent SDK 构建的产品（也就是一些支持 Claude 账号登录的三方产品），你的额度会被折算成对应金额的 API 额度。 所以基本上，我们的额度减了十几倍吧。 比如说 Max 账户 20 倍的 200 美元 API…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -275,23 +275,23 @@
           "title": "Rolling out today as a preview on iOS and Android in all supported regions.\n\nSupport for connecting ...",
           "url": "https://x.com/OpenAI/status/2055016852133417389",
           "published_at": "2026-05-14T20:06:12Z",
-          "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬93🔄79❤️1021👀105079📊183⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "fb99feabea29c641ae4154cd1f72be0e96da85d6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "May 14, 2026Policy2028: Two scenarios for global AI leadership",
-          "url": "https://www.anthropic.com/research/2028-ai-leadership",
-          "published_at": "2026-05-14T00:00:00Z",
-          "summary": "May 14, 2026Policy2028: Two scenarios for global AI leadership"
+          "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬103🔄104❤️1191👀142542📊217⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "43082e8b10240442607d2eec0146b4cc4998ec92",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-15",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-90",
+      "published_at": "2026-05-15T01:00:08Z",
+      "summary": "AI 早报 2026-05-15 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 ChatGPT 移动应用上线 Codex 远程控制功能 ↗ #1 模型发布 蚂蚁百灵正式开源 Ring-2.6-1T ↗ #2 开发生态 Cline 开源 Cline SDK 并重构底层架构，推出 Cline 2.0 ↗ #3 GitHub 推出原生桌面应用 GitHub Copilot app 技术预览版 ↗ #4 SpaceXAI推出编程Agent工具Grok Build早期测试版 ↗ #5 Kimi 发布 WebBridge 扩展，支持第三方 Agent ↗ #6…"
+    },
     {
       "id": "dad4f4540f155ada2cb2b2ada595b69d6e0a473f",
       "site_id": "featuredrss",
@@ -312,7 +312,7 @@
       "title": "Rolling out today as a preview on iOS and Android in all supported regions.\n\nSupport for connecting ...",
       "url": "https://x.com/OpenAI/status/2055016852133417389",
       "published_at": "2026-05-14T20:06:12Z",
-      "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬93🔄79❤️1021👀105079📊183⚡ Powered by xgo.ing"
+      "summary": "Rolling out today as a preview on iOS and Android in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon. openai.com/index/work-wit…💬103🔄104❤️1191👀142542📊217⚡ Powered by xgo.ing"
     },
     {
       "id": "a7e45237cb2aeb3be529bb34f1957905dc6ac46e",
@@ -323,7 +323,7 @@
       "title": "可以 调用 Skill 舒服了啊",
       "url": "https://x.com/op7418/status/2054904223788351918",
       "published_at": "2026-05-14T12:38:39Z",
-      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️4👀4501📊1⚡ Powered by xgo.ing"
+      "summary": "可以 调用 Skill 舒服了啊💬0🔄0❤️5👀4742📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "d3c83dfcba32faffd0c6f51f8f3200f7908d8fa8",
@@ -357,28 +357,6 @@
       "url": "https://imjuya.github.io/juya-ai-daily/issue-89",
       "published_at": "2026-05-14T01:22:48Z",
       "summary": "AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信…"
-    },
-    {
-      "id": "9e1ea198a260c1d0b23ed26b459ff6374beeb9fd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Claude Code 的每周限额将增加 50%，持续到 7 月 13 号。\n\n但是他们这次终于把类似 OpenClaw 和 Codepilot 这种使用 Agent SDK 构建的应用额度砍了。\n\n...",
-      "url": "https://x.com/op7418/status/2054725474493067482",
-      "published_at": "2026-05-14T00:48:22Z",
-      "summary": "Claude Code 的每周限额将增加 50%，持续到 7 月 13 号。 但是他们这次终于把类似 OpenClaw 和 Codepilot 这种使用 Agent SDK 构建的应用额度砍了。 6月 15 号开始是双轨制： 只有在 Claude Code 本身及其内部，你的 Max 和 Pro 账户才能享受正常额度。 如果你是用于 Agent SDK 构建的产品（也就是一些支持 Claude 账号登录的三方产品），你的额度会被折算成对应金额的 API 额度。 所以基本上，我们的额度减了十几倍吧。 比如说 Max 账户 20 倍的 200 美元 API…"
-    },
-    {
-      "id": "fb99feabea29c641ae4154cd1f72be0e96da85d6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "May 14, 2026Policy2028: Two scenarios for global AI leadership",
-      "url": "https://www.anthropic.com/research/2028-ai-leadership",
-      "published_at": "2026-05-14T00:00:00Z",
-      "summary": "May 14, 2026Policy2028: Two scenarios for global AI leadership"
     }
   ]
 }
