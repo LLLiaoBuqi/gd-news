@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T02:25:57.846546Z",
+  "generated_at": "2026-05-16T05:39:18.192341Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 368,
+      "duration_ms": 257,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 17,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1089,
+      "duration_ms": 558,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 699,
+      "duration_ms": 485,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 541,
+      "duration_ms": 513,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1525,
+      "duration_ms": 1393,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1116,
+      "duration_ms": 932,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 207,
+      "duration_ms": 183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1109,
+      "duration_ms": 663,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 4,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1668,
+      "duration_ms": 1205,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,33 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 16,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "f59ee7c1620f0a762fe104530253de9f426faebd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "再把  Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了",
+          "url": "https://x.com/op7418/status/2055496585191280894",
+          "published_at": "2026-05-16T03:52:29Z",
+          "summary": "再把 Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了💬3🔄0❤️2👀1800📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e8bbbcbf956992f32c9fe747091b194016e55696",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "尝试一下将 PPT Skills 作为产品去迭代和发布。\n\n藏师傅 PPT Skills 截图美化逻辑更新\n\n不需要消耗 GPT-Image 2.0 即可生成了！\n\n现在内置了跟当前颜色和主题相吻合的...",
+          "url": "https://x.com/op7418/status/2055477163579891897",
+          "published_at": "2026-05-16T02:35:19Z",
+          "summary": "尝试一下将 PPT Skills 作为产品去迭代和发布。 藏师傅 PPT Skills 截图美化逻辑更新 不需要消耗 GPT-Image 2.0 即可生成了！ 现在内置了跟当前颜色和主题相吻合的截图美化背景图。 AI 会根据你的截图大小、长宽比以及 PPT 的模板类型，自动帮你把图片放到截图模板上，添加类似 CleanShot X 这种截图美化软件的背景。 如果你的图片过长或者有其他问题，它也会帮你处理，比如说裁剪成两个并排的形式。Your browser does not support the video tag.🔗 View on Twitter歸…"
+        },
         {
           "id": "4a6adffa42e61f04375778091f7d2930b5ce70fa",
           "site_id": "featuredrss",
@@ -219,7 +241,7 @@
           "title": "Claude 重置了五小时和这周的额度限制，周末可以爽了",
           "url": "https://x.com/op7418/status/2055452499323363335",
           "published_at": "2026-05-16T00:57:18Z",
-          "summary": "Claude 重置了五小时和这周的额度限制，周末可以爽了ClaudeDevs@ClaudeDevsHappy Friday! We've reset everyone's 5-hour and weekly rate limits.🔗 View Quoted Tweet💬9🔄1❤️7👀2844📊7⚡ Powered by xgo.ing"
+          "summary": "Claude 重置了五小时和这周的额度限制，周末可以爽了ClaudeDevs@ClaudeDevsHappy Friday! We've reset everyone's 5-hour and weekly rate limits.🔗 View Quoted Tweet💬19🔄3❤️21👀10387📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "26e2f78f84ad48716d75b301a4683cbd9a95231a",
@@ -241,7 +263,7 @@
           "title": "有些是一个月前老视频，有的是这几天新补的，现在更成体系了",
           "url": "https://x.com/op7418/status/2055300743985500192",
           "published_at": "2026-05-15T14:54:17Z",
-          "summary": "有些是一个月前老视频，有的是这几天新补的，现在更成体系了💬0🔄0❤️0👀3042⚡ Powered by xgo.ing"
+          "summary": "有些是一个月前老视频，有的是这几天新补的，现在更成体系了💬0🔄0❤️0👀3551📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "cd3915d3fc1fa82cf5645ca4c622ccb39e5366d2",
@@ -252,7 +274,7 @@
           "title": "课程地址：https://t.co/7FE0r3ZcEO",
           "url": "https://x.com/op7418/status/2055298554592374808",
           "published_at": "2026-05-15T14:45:35Z",
-          "summary": "课程地址：youtube.com/playlist?list=…💬2🔄2❤️13👀6558📊10⚡ Powered by xgo.ing"
+          "summary": "课程地址：youtube.com/playlist?list=…💬2🔄2❤️14👀7500📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "54fe6ccb90051cf459d309002ada07d05912290c",
@@ -297,72 +319,6 @@
           "url": "https://x.com/op7418/status/2055173939522159052",
           "published_at": "2026-05-15T06:30:25Z",
           "summary": "飞书 CLI 牛皮啊，发布一个月多点就达到 10000 Star 了！ 说明用户和市场相当认可这个动作 最近我们可以发现，越来越多的传统办公产品开始发布 CLI 和 Agent。 AI 时代的 SaaS 软件可能得换个做法了：UI 只是最基本的，接下来还要竞争对 Agent 的适配程度以及覆盖率。在这块，我觉得飞书走得相当靠前。 作为一个 IM 软件，飞书在 AI 时代去做这种开放自己所有能力的 CLI 工具，其实是一种非常不传统互联网的尝试。 这对于之前的互联网产品逻辑和经验来说，是一个非常不应该做的决定。 因为他们这个 CLI 几乎可以控制飞书的所有…"
-        },
-        {
-          "id": "7eadf3fcce4fc1adc88813cb484b78556c8d4d8e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codepilot 新版预览，即将支持 Codex 作为 Agent 引擎",
-          "url": "https://x.com/op7418/status/2055154197956604386",
-          "published_at": "2026-05-15T05:11:58Z",
-          "summary": "Codepilot 新版预览，即将支持 Codex 作为 Agent 引擎💬8🔄1❤️25👀12815📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b5c1fc7d805079d52b1ba3b808a6a0a81784048e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。\n\n让 codex 调用 computer use 控制就行。\n\n这样的话，如果你是 codex 和 cloud cod...",
-          "url": "https://x.com/op7418/status/2055135882290901063",
-          "published_at": "2026-05-15T03:59:11Z",
-          "summary": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。 让 codex 调用 computer use 控制就行。 这样的话，如果你是 codex 和 cloud code 的协作开发，就可以让就可以都在 ChatGPT 里边进行控制。 你如果你开的是自动审查权限的话，就不太好控制，开那个完整权限才行。 不然自动审查会拒绝他读取终端 claude code 里的内容歸藏(guizang.ai)@op7418Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接…"
-        },
-        {
-          "id": "2a913a2403e7ffc4659f6cebae07b0abbf160a4e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Lex Fridman 居然来中国了，就背个包。\n\n也会跟国内的 AI 工程师录播客，不知道是哪几家，他的量还是很猛的",
-          "url": "https://x.com/op7418/status/2055133915162218942",
-          "published_at": "2026-05-15T03:51:22Z",
-          "summary": "Lex Fridman 居然来中国了，就背个包。 也会跟国内的 AI 工程师录播客，不知道是哪几家，他的量还是很猛的Lex Fridman@lexfridmanI'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks…"
-        },
-        {
-          "id": "bfb6384133e3baae19df18291da31b5b13bdfe7e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codex CLI 设置 Chatgpt 远程控制",
-          "url": "https://x.com/op7418/status/2055122578407387420",
-          "published_at": "2026-05-15T03:06:19Z",
-          "summary": "Codex CLI 设置 Chatgpt 远程控制bailey@dima_zy@op7418@jimail0218 支持，修改~/.codex/config.toml，添加[features]remote-control = true，然后终端运行codex remote-control，然后手机端就能看到了，好用😃。🔗 View Quoted Tweet💬7🔄9❤️66👀19155📊19⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "df71f1b0c3912aa0f8d920bd2c23b226f817c9c6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "藏师傅的 PPT Skills，感觉 GitHub star 马上就要破万了呀！\n\n没点 star 的朋友点点 star 吧，谢谢了。\n\n顺便让 Codex 分析了一下安装的数据，还挺有意思的。",
-          "url": "https://x.com/op7418/status/2055121582776021079",
-          "published_at": "2026-05-15T03:02:22Z",
-          "summary": "藏师傅的 PPT Skills，感觉 GitHub star 马上就要破万了呀！ 没点 star 的朋友点点 star 吧，谢谢了。 顺便让 Codex 分析了一下安装的数据，还挺有意思的。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬14🔄16❤️115👀23940📊33⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "cd1ede58d9453eab239b4bcb2da040e49223adc8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "Codex更新远程控制，你也终于可以在手机上随时随地Vibe Coding了。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682286&idx=1&sn=596aee2a6de3542e1e322d76913d738f",
-          "published_at": "2026-05-15T02:29:00Z",
-          "summary": "完全体上线"
         }
       ]
     },
@@ -379,6 +335,28 @@
     }
   },
   "items": [
+    {
+      "id": "f59ee7c1620f0a762fe104530253de9f426faebd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "再把  Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了",
+      "url": "https://x.com/op7418/status/2055496585191280894",
+      "published_at": "2026-05-16T03:52:29Z",
+      "summary": "再把 Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了💬3🔄0❤️2👀1800📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e8bbbcbf956992f32c9fe747091b194016e55696",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "尝试一下将 PPT Skills 作为产品去迭代和发布。\n\n藏师傅 PPT Skills 截图美化逻辑更新\n\n不需要消耗 GPT-Image 2.0 即可生成了！\n\n现在内置了跟当前颜色和主题相吻合的...",
+      "url": "https://x.com/op7418/status/2055477163579891897",
+      "published_at": "2026-05-16T02:35:19Z",
+      "summary": "尝试一下将 PPT Skills 作为产品去迭代和发布。 藏师傅 PPT Skills 截图美化逻辑更新 不需要消耗 GPT-Image 2.0 即可生成了！ 现在内置了跟当前颜色和主题相吻合的截图美化背景图。 AI 会根据你的截图大小、长宽比以及 PPT 的模板类型，自动帮你把图片放到截图模板上，添加类似 CleanShot X 这种截图美化软件的背景。 如果你的图片过长或者有其他问题，它也会帮你处理，比如说裁剪成两个并排的形式。Your browser does not support the video tag.🔗 View on Twitter歸…"
+    },
     {
       "id": "4a6adffa42e61f04375778091f7d2930b5ce70fa",
       "site_id": "featuredrss",
@@ -410,7 +388,7 @@
       "title": "Claude 重置了五小时和这周的额度限制，周末可以爽了",
       "url": "https://x.com/op7418/status/2055452499323363335",
       "published_at": "2026-05-16T00:57:18Z",
-      "summary": "Claude 重置了五小时和这周的额度限制，周末可以爽了ClaudeDevs@ClaudeDevsHappy Friday! We've reset everyone's 5-hour and weekly rate limits.🔗 View Quoted Tweet💬9🔄1❤️7👀2844📊7⚡ Powered by xgo.ing"
+      "summary": "Claude 重置了五小时和这周的额度限制，周末可以爽了ClaudeDevs@ClaudeDevsHappy Friday! We've reset everyone's 5-hour and weekly rate limits.🔗 View Quoted Tweet💬19🔄3❤️21👀10387📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "26e2f78f84ad48716d75b301a4683cbd9a95231a",
@@ -432,7 +410,7 @@
       "title": "有些是一个月前老视频，有的是这几天新补的，现在更成体系了",
       "url": "https://x.com/op7418/status/2055300743985500192",
       "published_at": "2026-05-15T14:54:17Z",
-      "summary": "有些是一个月前老视频，有的是这几天新补的，现在更成体系了💬0🔄0❤️0👀3042⚡ Powered by xgo.ing"
+      "summary": "有些是一个月前老视频，有的是这几天新补的，现在更成体系了💬0🔄0❤️0👀3551📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "cd3915d3fc1fa82cf5645ca4c622ccb39e5366d2",
@@ -443,7 +421,7 @@
       "title": "课程地址：https://t.co/7FE0r3ZcEO",
       "url": "https://x.com/op7418/status/2055298554592374808",
       "published_at": "2026-05-15T14:45:35Z",
-      "summary": "课程地址：youtube.com/playlist?list=…💬2🔄2❤️13👀6558📊10⚡ Powered by xgo.ing"
+      "summary": "课程地址：youtube.com/playlist?list=…💬2🔄2❤️14👀7500📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "54fe6ccb90051cf459d309002ada07d05912290c",
@@ -488,72 +466,6 @@
       "url": "https://x.com/op7418/status/2055173939522159052",
       "published_at": "2026-05-15T06:30:25Z",
       "summary": "飞书 CLI 牛皮啊，发布一个月多点就达到 10000 Star 了！ 说明用户和市场相当认可这个动作 最近我们可以发现，越来越多的传统办公产品开始发布 CLI 和 Agent。 AI 时代的 SaaS 软件可能得换个做法了：UI 只是最基本的，接下来还要竞争对 Agent 的适配程度以及覆盖率。在这块，我觉得飞书走得相当靠前。 作为一个 IM 软件，飞书在 AI 时代去做这种开放自己所有能力的 CLI 工具，其实是一种非常不传统互联网的尝试。 这对于之前的互联网产品逻辑和经验来说，是一个非常不应该做的决定。 因为他们这个 CLI 几乎可以控制飞书的所有…"
-    },
-    {
-      "id": "7eadf3fcce4fc1adc88813cb484b78556c8d4d8e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codepilot 新版预览，即将支持 Codex 作为 Agent 引擎",
-      "url": "https://x.com/op7418/status/2055154197956604386",
-      "published_at": "2026-05-15T05:11:58Z",
-      "summary": "Codepilot 新版预览，即将支持 Codex 作为 Agent 引擎💬8🔄1❤️25👀12815📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b5c1fc7d805079d52b1ba3b808a6a0a81784048e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。\n\n让 codex 调用 computer use 控制就行。\n\n这样的话，如果你是 codex 和 cloud cod...",
-      "url": "https://x.com/op7418/status/2055135882290901063",
-      "published_at": "2026-05-15T03:59:11Z",
-      "summary": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。 让 codex 调用 computer use 控制就行。 这样的话，如果你是 codex 和 cloud code 的协作开发，就可以让就可以都在 ChatGPT 里边进行控制。 你如果你开的是自动审查权限的话，就不太好控制，开那个完整权限才行。 不然自动审查会拒绝他读取终端 claude code 里的内容歸藏(guizang.ai)@op7418Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接…"
-    },
-    {
-      "id": "2a913a2403e7ffc4659f6cebae07b0abbf160a4e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Lex Fridman 居然来中国了，就背个包。\n\n也会跟国内的 AI 工程师录播客，不知道是哪几家，他的量还是很猛的",
-      "url": "https://x.com/op7418/status/2055133915162218942",
-      "published_at": "2026-05-15T03:51:22Z",
-      "summary": "Lex Fridman 居然来中国了，就背个包。 也会跟国内的 AI 工程师录播客，不知道是哪几家，他的量还是很猛的Lex Fridman@lexfridmanI'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks…"
-    },
-    {
-      "id": "bfb6384133e3baae19df18291da31b5b13bdfe7e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codex CLI 设置 Chatgpt 远程控制",
-      "url": "https://x.com/op7418/status/2055122578407387420",
-      "published_at": "2026-05-15T03:06:19Z",
-      "summary": "Codex CLI 设置 Chatgpt 远程控制bailey@dima_zy@op7418@jimail0218 支持，修改~/.codex/config.toml，添加[features]remote-control = true，然后终端运行codex remote-control，然后手机端就能看到了，好用😃。🔗 View Quoted Tweet💬7🔄9❤️66👀19155📊19⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "df71f1b0c3912aa0f8d920bd2c23b226f817c9c6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "藏师傅的 PPT Skills，感觉 GitHub star 马上就要破万了呀！\n\n没点 star 的朋友点点 star 吧，谢谢了。\n\n顺便让 Codex 分析了一下安装的数据，还挺有意思的。",
-      "url": "https://x.com/op7418/status/2055121582776021079",
-      "published_at": "2026-05-15T03:02:22Z",
-      "summary": "藏师傅的 PPT Skills，感觉 GitHub star 马上就要破万了呀！ 没点 star 的朋友点点 star 吧，谢谢了。 顺便让 Codex 分析了一下安装的数据，还挺有意思的。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬14🔄16❤️115👀23940📊33⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "cd1ede58d9453eab239b4bcb2da040e49223adc8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "Codex更新远程控制，你也终于可以在手机上随时随地Vibe Coding了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682286&idx=1&sn=596aee2a6de3542e1e322d76913d738f",
-      "published_at": "2026-05-15T02:29:00Z",
-      "summary": "完全体上线"
     }
   ]
 }
