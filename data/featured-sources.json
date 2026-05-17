@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T02:32:39.371216Z",
+  "generated_at": "2026-05-17T06:17:03.536025Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 256,
+      "duration_ms": 358,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 31,
+      "duration_ms": 48,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 757,
+      "duration_ms": 730,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 765,
+      "duration_ms": 537,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 701,
+      "duration_ms": 560,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1135,
+      "duration_ms": 1128,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 929,
+      "duration_ms": 1105,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 203,
+      "duration_ms": 220,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 460,
+      "duration_ms": 782,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1394,
+      "duration_ms": 1406,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,7 +183,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
@@ -209,28 +209,6 @@
           "url": "https://x.com/op7418/status/2055561525633642762",
           "published_at": "2026-05-16T08:10:32Z",
           "summary": "我终于知道昨天 OpenAI 官方的人回复我是啥意思了! Codex 除了用 ChatGPT 连接和远程控制以外，还可以在 Codex 再控制你的另一台电脑。 这样你就可以在 ChatGPT 上直接控制多台电脑，而不用在 ChatGPT 切换设备，只需要切换项目就好。 比如我这个 Mac Book 的 Codex 可以读取他本地的文件，也可以直接读取我另一台 Mac Mini 的上下文和文件。 说一下怎么做： 1. 首先你去“设置”里的“连接”，选择“控制其他设备”。 2. 在“控制其他设备”里点击加号，选择你其他已经安装 Codex 的设备。 3. 选…"
-        },
-        {
-          "id": "f59ee7c1620f0a762fe104530253de9f426faebd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "再把  Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了",
-          "url": "https://x.com/op7418/status/2055496585191280894",
-          "published_at": "2026-05-16T03:52:29Z",
-          "summary": "再把 Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了💬34🔄0❤️24👀13372📊32⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e8bbbcbf956992f32c9fe747091b194016e55696",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "尝试一下将 PPT Skills 作为产品去迭代和发布。\n\n藏师傅 PPT Skills 截图美化逻辑更新\n\n不需要消耗 GPT-Image 2.0 即可生成了！\n\n现在内置了跟当前颜色和主题相吻合的...",
-          "url": "https://x.com/op7418/status/2055477163579891897",
-          "published_at": "2026-05-16T02:35:19Z",
-          "summary": "尝试一下将 PPT Skills 作为产品去迭代和发布。 藏师傅 PPT Skills 截图美化逻辑更新 不需要消耗 GPT-Image 2.0 即可生成了！ 现在内置了跟当前颜色和主题相吻合的截图美化背景图。 AI 会根据你的截图大小、长宽比以及 PPT 的模板类型，自动帮你把图片放到截图模板上，添加类似 CleanShot X 这种截图美化软件的背景。 如果你的图片过长或者有其他问题，它也会帮你处理，比如说裁剪成两个并排的形式。Your browser does not support the video tag.🔗 View on Twitter歸…"
         }
       ]
     },
@@ -268,28 +246,6 @@
       "url": "https://x.com/op7418/status/2055561525633642762",
       "published_at": "2026-05-16T08:10:32Z",
       "summary": "我终于知道昨天 OpenAI 官方的人回复我是啥意思了! Codex 除了用 ChatGPT 连接和远程控制以外，还可以在 Codex 再控制你的另一台电脑。 这样你就可以在 ChatGPT 上直接控制多台电脑，而不用在 ChatGPT 切换设备，只需要切换项目就好。 比如我这个 Mac Book 的 Codex 可以读取他本地的文件，也可以直接读取我另一台 Mac Mini 的上下文和文件。 说一下怎么做： 1. 首先你去“设置”里的“连接”，选择“控制其他设备”。 2. 在“控制其他设备”里点击加号，选择你其他已经安装 Codex 的设备。 3. 选…"
-    },
-    {
-      "id": "f59ee7c1620f0a762fe104530253de9f426faebd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "再把  Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了",
-      "url": "https://x.com/op7418/status/2055496585191280894",
-      "published_at": "2026-05-16T03:52:29Z",
-      "summary": "再把 Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了💬34🔄0❤️24👀13372📊32⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e8bbbcbf956992f32c9fe747091b194016e55696",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "尝试一下将 PPT Skills 作为产品去迭代和发布。\n\n藏师傅 PPT Skills 截图美化逻辑更新\n\n不需要消耗 GPT-Image 2.0 即可生成了！\n\n现在内置了跟当前颜色和主题相吻合的...",
-      "url": "https://x.com/op7418/status/2055477163579891897",
-      "published_at": "2026-05-16T02:35:19Z",
-      "summary": "尝试一下将 PPT Skills 作为产品去迭代和发布。 藏师傅 PPT Skills 截图美化逻辑更新 不需要消耗 GPT-Image 2.0 即可生成了！ 现在内置了跟当前颜色和主题相吻合的截图美化背景图。 AI 会根据你的截图大小、长宽比以及 PPT 的模板类型，自动帮你把图片放到截图模板上，添加类似 CleanShot X 这种截图美化软件的背景。 如果你的图片过长或者有其他问题，它也会帮你处理，比如说裁剪成两个并排的形式。Your browser does not support the video tag.🔗 View on Twitter歸…"
     }
   ]
 }
