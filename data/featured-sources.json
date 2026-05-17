@@ -1,16 +1,13 @@
 {
-  "generated_at": "2026-05-17T18:59:37.849283Z",
+  "generated_at": "2026-05-17T20:06:25.271883Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 9,
   "feed_total": 12,
-  "ok_feeds": 7,
+  "ok_feeds": 10,
   "failed_feeds": [
-    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
-    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-    "rsshub://bilibili/user/video/385670211",
-    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+    "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -22,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 2211,
+      "duration_ms": 231,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -36,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 30,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -50,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 865,
+      "duration_ms": 599,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -64,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 734,
+      "duration_ms": 580,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -78,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 544,
+      "duration_ms": 357,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,10 +87,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12162,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1031,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -118,10 +115,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12169,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 864,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -134,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 209,
+      "duration_ms": 179,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -148,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 889,
+      "duration_ms": 677,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,10 +171,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12166,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1304,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -188,12 +185,8 @@
       "label": "国内精选",
       "total_items": 9,
       "feed_total": 5,
-      "ok_feeds": 2,
-      "failed_feeds": [
-        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
-      ],
+      "ok_feeds": 5,
+      "failed_feeds": [],
       "items": [
         {
           "id": "233a86426cb2b3c991a414b524d0100d704218c1",
@@ -204,7 +197,7 @@
           "title": "三个月前发布的，居然漏了",
           "url": "https://x.com/op7418/status/2056051172814008808",
           "published_at": "2026-05-17T16:36:13Z",
-          "summary": "三个月前发布的，居然漏了💬0🔄0❤️3👀1171📊1⚡ Powered by xgo.ing"
+          "summary": "三个月前发布的，居然漏了💬0🔄0❤️3👀1425📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "3327106c9692021be7f6241471c8ca82ebd9fa7a",
@@ -215,7 +208,7 @@
           "title": "https://t.co/JMwImJi9Rm",
           "url": "https://x.com/op7418/status/2056048721427927316",
           "published_at": "2026-05-17T16:26:29Z",
-          "summary": "drive.google.com/file/d/1QR-Pq-…💬1🔄0❤️7👀1730📊6⚡ Powered by xgo.ing"
+          "summary": "drive.google.com/file/d/1QR-Pq-…💬1🔄0❤️10👀2096📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "e97386cdcf1d5536173f9e35badf71a6e46fcd41",
@@ -226,7 +219,7 @@
           "title": "Anthropic 官方发布的 Skill 构建指南\n\n我用 AI 翻译了一个双语版本，放下面了",
           "url": "https://x.com/op7418/status/2056048680290103504",
           "published_at": "2026-05-17T16:26:19Z",
-          "summary": "Anthropic 官方发布的 Skill 构建指南 我用 AI 翻译了一个双语版本，放下面了💬7🔄6❤️75👀6128📊29⚡ Powered by xgo.ing"
+          "summary": "Anthropic 官方发布的 Skill 构建指南 我用 AI 翻译了一个双语版本，放下面了💬16🔄13❤️99👀7667📊45⚡ Powered by xgo.ing"
         },
         {
           "id": "a0741328f5c1ebd811eaa6d3040d34e980a8f79a",
@@ -237,7 +230,7 @@
           "title": "Codex 搞得完整版视频演示https://t.co/QyjUfKE8o5",
           "url": "https://x.com/op7418/status/2056021748236382448",
           "published_at": "2026-05-17T14:39:18Z",
-          "summary": "Codex 搞得完整版视频演示x.com/op7418/status/…歸藏(guizang.ai)@op7418让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-rollYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️6👀2867📊1…"
+          "summary": "Codex 搞得完整版视频演示x.com/op7418/status/…歸藏(guizang.ai)@op7418让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-rollYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️6👀2989📊1…"
         },
         {
           "id": "cee429267aa7a81060977bba8cb88d8a4529277e",
@@ -259,7 +252,7 @@
           "title": "这里安装：https://t.co/1a7nAlMbUf",
           "url": "https://x.com/op7418/status/2055992175356514502",
           "published_at": "2026-05-17T12:41:47Z",
-          "summary": "这里安装：weread.qq.com/r/weread-skills💬0🔄1❤️0👀2617📊2⚡ Powered by xgo.ing"
+          "summary": "这里安装：weread.qq.com/r/weread-skills💬0🔄1❤️0👀2659📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "32b0b99142e7cd84748325c1cd537a8dc2dad12a",
@@ -270,7 +263,7 @@
           "title": "微信读书居然出 Skills 了，感觉挺有用的。它能够：\n\n1. 查看你的笔记和划线\n2. 推荐书籍\n3. 查看你的数据统计和阅读统计\n\n我让 CodePilot 整理了一下我的阅读数据，然后基于这些...",
           "url": "https://x.com/op7418/status/2055992093882122727",
           "published_at": "2026-05-17T12:41:28Z",
-          "summary": "微信读书居然出 Skills 了，感觉挺有用的。它能够： 1. 查看你的笔记和划线 2. 推荐书籍 3. 查看你的数据统计和阅读统计 我让 CodePilot 整理了一下我的阅读数据，然后基于这些数据出了一个数据分析，试了一下。💬12🔄2❤️14👀6929📊15⚡ Powered by xgo.ing"
+          "summary": "微信读书居然出 Skills 了，感觉挺有用的。它能够： 1. 查看你的笔记和划线 2. 推荐书籍 3. 查看你的数据统计和阅读统计 我让 CodePilot 整理了一下我的阅读数据，然后基于这些数据出了一个数据分析，试了一下。💬13🔄2❤️14👀7110📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "3b1fc516d034574f7fca8cc5c9c75d86db322c42",
@@ -281,7 +274,7 @@
           "title": "藏师傅的 PPT Skill+Codex+Heygen HyperFrames\n\n这个组合太顶了！\n\n可以直接基于问当生成带动效的解释视频\n\n而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉...",
           "url": "https://x.com/op7418/status/2055984747176939818",
           "published_at": "2026-05-17T12:12:16Z",
-          "summary": "藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉害的。 再加上即梦 CLI 补几个真实视频片段，用来做一些产品更新介绍之类的一点问题没有。Your browser does not support the video tag.🔗 View on Twitter💬27🔄15❤️148👀27899📊67⚡ Powered by xgo.ing"
+          "summary": "藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉害的。 再加上即梦 CLI 补几个真实视频片段，用来做一些产品更新介绍之类的一点问题没有。Your browser does not support the video tag.🔗 View on Twitter💬30🔄19❤️162👀29370📊72⚡ Powered by xgo.ing"
         },
         {
           "id": "5613ee2d82268b7ea2af07fce982f7d163b7f3d0",
@@ -318,7 +311,7 @@
       "title": "三个月前发布的，居然漏了",
       "url": "https://x.com/op7418/status/2056051172814008808",
       "published_at": "2026-05-17T16:36:13Z",
-      "summary": "三个月前发布的，居然漏了💬0🔄0❤️3👀1171📊1⚡ Powered by xgo.ing"
+      "summary": "三个月前发布的，居然漏了💬0🔄0❤️3👀1425📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "3327106c9692021be7f6241471c8ca82ebd9fa7a",
@@ -329,7 +322,7 @@
       "title": "https://t.co/JMwImJi9Rm",
       "url": "https://x.com/op7418/status/2056048721427927316",
       "published_at": "2026-05-17T16:26:29Z",
-      "summary": "drive.google.com/file/d/1QR-Pq-…💬1🔄0❤️7👀1730📊6⚡ Powered by xgo.ing"
+      "summary": "drive.google.com/file/d/1QR-Pq-…💬1🔄0❤️10👀2096📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "e97386cdcf1d5536173f9e35badf71a6e46fcd41",
@@ -340,7 +333,7 @@
       "title": "Anthropic 官方发布的 Skill 构建指南\n\n我用 AI 翻译了一个双语版本，放下面了",
       "url": "https://x.com/op7418/status/2056048680290103504",
       "published_at": "2026-05-17T16:26:19Z",
-      "summary": "Anthropic 官方发布的 Skill 构建指南 我用 AI 翻译了一个双语版本，放下面了💬7🔄6❤️75👀6128📊29⚡ Powered by xgo.ing"
+      "summary": "Anthropic 官方发布的 Skill 构建指南 我用 AI 翻译了一个双语版本，放下面了💬16🔄13❤️99👀7667📊45⚡ Powered by xgo.ing"
     },
     {
       "id": "a0741328f5c1ebd811eaa6d3040d34e980a8f79a",
@@ -351,7 +344,7 @@
       "title": "Codex 搞得完整版视频演示https://t.co/QyjUfKE8o5",
       "url": "https://x.com/op7418/status/2056021748236382448",
       "published_at": "2026-05-17T14:39:18Z",
-      "summary": "Codex 搞得完整版视频演示x.com/op7418/status/…歸藏(guizang.ai)@op7418让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-rollYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️6👀2867📊1…"
+      "summary": "Codex 搞得完整版视频演示x.com/op7418/status/…歸藏(guizang.ai)@op7418让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-rollYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️6👀2989📊1…"
     },
     {
       "id": "cee429267aa7a81060977bba8cb88d8a4529277e",
@@ -373,7 +366,7 @@
       "title": "这里安装：https://t.co/1a7nAlMbUf",
       "url": "https://x.com/op7418/status/2055992175356514502",
       "published_at": "2026-05-17T12:41:47Z",
-      "summary": "这里安装：weread.qq.com/r/weread-skills💬0🔄1❤️0👀2617📊2⚡ Powered by xgo.ing"
+      "summary": "这里安装：weread.qq.com/r/weread-skills💬0🔄1❤️0👀2659📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "32b0b99142e7cd84748325c1cd537a8dc2dad12a",
@@ -384,7 +377,7 @@
       "title": "微信读书居然出 Skills 了，感觉挺有用的。它能够：\n\n1. 查看你的笔记和划线\n2. 推荐书籍\n3. 查看你的数据统计和阅读统计\n\n我让 CodePilot 整理了一下我的阅读数据，然后基于这些...",
       "url": "https://x.com/op7418/status/2055992093882122727",
       "published_at": "2026-05-17T12:41:28Z",
-      "summary": "微信读书居然出 Skills 了，感觉挺有用的。它能够： 1. 查看你的笔记和划线 2. 推荐书籍 3. 查看你的数据统计和阅读统计 我让 CodePilot 整理了一下我的阅读数据，然后基于这些数据出了一个数据分析，试了一下。💬12🔄2❤️14👀6929📊15⚡ Powered by xgo.ing"
+      "summary": "微信读书居然出 Skills 了，感觉挺有用的。它能够： 1. 查看你的笔记和划线 2. 推荐书籍 3. 查看你的数据统计和阅读统计 我让 CodePilot 整理了一下我的阅读数据，然后基于这些数据出了一个数据分析，试了一下。💬13🔄2❤️14👀7110📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "3b1fc516d034574f7fca8cc5c9c75d86db322c42",
@@ -395,7 +388,7 @@
       "title": "藏师傅的 PPT Skill+Codex+Heygen HyperFrames\n\n这个组合太顶了！\n\n可以直接基于问当生成带动效的解释视频\n\n而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉...",
       "url": "https://x.com/op7418/status/2055984747176939818",
       "published_at": "2026-05-17T12:12:16Z",
-      "summary": "藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉害的。 再加上即梦 CLI 补几个真实视频片段，用来做一些产品更新介绍之类的一点问题没有。Your browser does not support the video tag.🔗 View on Twitter💬27🔄15❤️148👀27899📊67⚡ Powered by xgo.ing"
+      "summary": "藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉害的。 再加上即梦 CLI 补几个真实视频片段，用来做一些产品更新介绍之类的一点问题没有。Your browser does not support the video tag.🔗 View on Twitter💬30🔄19❤️162👀29370📊72⚡ Powered by xgo.ing"
     },
     {
       "id": "5613ee2d82268b7ea2af07fce982f7d163b7f3d0",
