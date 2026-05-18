@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-18T13:40:45.895697Z",
+  "generated_at": "2026-05-18T16:44:43.992310Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 316,
+      "duration_ms": 240,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 113,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 633,
+      "duration_ms": 703,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 476,
+      "duration_ms": 569,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 554,
+      "duration_ms": 430,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1214,
+      "duration_ms": 1104,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 857,
+      "duration_ms": 952,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 109,
+      "duration_ms": 154,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 722,
+      "duration_ms": 741,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1205,
+      "duration_ms": 1380,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "d9e02f01d2feeab0b079bc1142aed9f4bf20b3cb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
+          "url": "https://x.com/op7418/status/2056385525007909272",
+          "published_at": "2026-05-18T14:44:49Z",
+          "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬12🔄0❤️18👀5296📊12⚡ Powered by xgo.ing"
+        },
         {
           "id": "b5871be9acbefea85270d9a872946d5f585ec6e0",
           "site_id": "featuredrss",
@@ -220,61 +231,6 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-94",
           "published_at": "2026-05-18T01:19:53Z",
           "summary": "AI 早报 2026-05-18 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 知乎数据开放平台提供搜索、热榜和直答服务，支持 Skills 或 API 调用 ↗ #1 中国电信发布多档Token套餐 月费9.9元起 ↗ #2 行业动态 有关部门计划推进全国一体化算力网建设 ↗ #3 Google DeepMind 面向亚太区推出 AI for the Planet 加速器计划 ↗ #4 前瞻与传闻 消息称 Gemini 应用特定模式悄然路由至疑似 3.2 新模型 ↗ #5 报道称 OpenAI 正在测试 Codex 多设备远程控制与“Locke…"
-        },
-        {
-          "id": "233a86426cb2b3c991a414b524d0100d704218c1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "三个月前发布的，居然漏了",
-          "url": "https://x.com/op7418/status/2056051172814008808",
-          "published_at": "2026-05-17T16:36:13Z",
-          "summary": "三个月前发布的，居然漏了💬0🔄0❤️6👀6247📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3327106c9692021be7f6241471c8ca82ebd9fa7a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "https://t.co/JMwImJi9Rm",
-          "url": "https://x.com/op7418/status/2056048721427927316",
-          "published_at": "2026-05-17T16:26:29Z",
-          "summary": "drive.google.com/file/d/1QR-Pq-…💬1🔄6❤️43👀8106📊22⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e97386cdcf1d5536173f9e35badf71a6e46fcd41",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Anthropic 官方发布的 Skill 构建指南\n\n我用 AI 翻译了一个双语版本，放下面了",
-          "url": "https://x.com/op7418/status/2056048680290103504",
-          "published_at": "2026-05-17T16:26:19Z",
-          "summary": "Anthropic 官方发布的 Skill 构建指南 我用 AI 翻译了一个双语版本，放下面了💬49🔄53❤️402👀40418📊177⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a0741328f5c1ebd811eaa6d3040d34e980a8f79a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codex 搞得完整版视频演示https://t.co/QyjUfKE8o5",
-          "url": "https://x.com/op7418/status/2056021748236382448",
-          "published_at": "2026-05-17T14:39:18Z",
-          "summary": "Codex 搞得完整版视频演示x.com/op7418/status/…歸藏(guizang.ai)@op7418让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-rollYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️11👀5415📊…"
-        },
-        {
-          "id": "cee429267aa7a81060977bba8cb88d8a4529277e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "让 Codex 自己做了一条视频介绍了一下这个视频生成方案\n\n藏师傅的 PPT Skill 负责美学、版式、动效\nHyperFrames 负责时间线和渲染、字幕\nListenhub Skill 负责配...",
-          "url": "https://x.com/op7418/status/2056021133477163298",
-          "published_at": "2026-05-17T14:36:51Z",
-          "summary": "让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-rollYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而…"
         }
       ]
     },
@@ -291,6 +247,17 @@
     }
   },
   "items": [
+    {
+      "id": "d9e02f01d2feeab0b079bc1142aed9f4bf20b3cb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
+      "url": "https://x.com/op7418/status/2056385525007909272",
+      "published_at": "2026-05-18T14:44:49Z",
+      "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬12🔄0❤️18👀5296📊12⚡ Powered by xgo.ing"
+    },
     {
       "id": "b5871be9acbefea85270d9a872946d5f585ec6e0",
       "site_id": "featuredrss",
@@ -323,61 +290,6 @@
       "url": "https://imjuya.github.io/juya-ai-daily/issue-94",
       "published_at": "2026-05-18T01:19:53Z",
       "summary": "AI 早报 2026-05-18 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 知乎数据开放平台提供搜索、热榜和直答服务，支持 Skills 或 API 调用 ↗ #1 中国电信发布多档Token套餐 月费9.9元起 ↗ #2 行业动态 有关部门计划推进全国一体化算力网建设 ↗ #3 Google DeepMind 面向亚太区推出 AI for the Planet 加速器计划 ↗ #4 前瞻与传闻 消息称 Gemini 应用特定模式悄然路由至疑似 3.2 新模型 ↗ #5 报道称 OpenAI 正在测试 Codex 多设备远程控制与“Locke…"
-    },
-    {
-      "id": "233a86426cb2b3c991a414b524d0100d704218c1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "三个月前发布的，居然漏了",
-      "url": "https://x.com/op7418/status/2056051172814008808",
-      "published_at": "2026-05-17T16:36:13Z",
-      "summary": "三个月前发布的，居然漏了💬0🔄0❤️6👀6247📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3327106c9692021be7f6241471c8ca82ebd9fa7a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "https://t.co/JMwImJi9Rm",
-      "url": "https://x.com/op7418/status/2056048721427927316",
-      "published_at": "2026-05-17T16:26:29Z",
-      "summary": "drive.google.com/file/d/1QR-Pq-…💬1🔄6❤️43👀8106📊22⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e97386cdcf1d5536173f9e35badf71a6e46fcd41",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Anthropic 官方发布的 Skill 构建指南\n\n我用 AI 翻译了一个双语版本，放下面了",
-      "url": "https://x.com/op7418/status/2056048680290103504",
-      "published_at": "2026-05-17T16:26:19Z",
-      "summary": "Anthropic 官方发布的 Skill 构建指南 我用 AI 翻译了一个双语版本，放下面了💬49🔄53❤️402👀40418📊177⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a0741328f5c1ebd811eaa6d3040d34e980a8f79a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codex 搞得完整版视频演示https://t.co/QyjUfKE8o5",
-      "url": "https://x.com/op7418/status/2056021748236382448",
-      "published_at": "2026-05-17T14:39:18Z",
-      "summary": "Codex 搞得完整版视频演示x.com/op7418/status/…歸藏(guizang.ai)@op7418让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-rollYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️11👀5415📊…"
-    },
-    {
-      "id": "cee429267aa7a81060977bba8cb88d8a4529277e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "让 Codex 自己做了一条视频介绍了一下这个视频生成方案\n\n藏师傅的 PPT Skill 负责美学、版式、动效\nHyperFrames 负责时间线和渲染、字幕\nListenhub Skill 负责配...",
-      "url": "https://x.com/op7418/status/2056021133477163298",
-      "published_at": "2026-05-17T14:36:51Z",
-      "summary": "让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-rollYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而…"
     }
   ]
 }
