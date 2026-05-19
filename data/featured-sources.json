@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-05-19T00:00:07.109323Z",
+  "generated_at": "2026-05-19T04:12:44.914986Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 14,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 10,
   "failed_feeds": [
-    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
     "rsshub://bilibili/user/video/385670211"
   ],
@@ -20,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 226,
+      "duration_ms": 242,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 67,
+      "duration_ms": 31,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 927,
+      "duration_ms": 1163,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 771,
+      "duration_ms": 975,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 664,
+      "duration_ms": 986,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -88,10 +87,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12057,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 735,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -118,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 6984,
+      "duration_ms": 1383,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 169,
+      "duration_ms": 151,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1030,
+      "duration_ms": 1442,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 11144,
+      "duration_ms": 1563,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +183,121 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 12,
       "feed_total": 5,
-      "ok_feeds": 4,
-      "failed_feeds": [
-        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml"
-      ],
+      "ok_feeds": 5,
+      "failed_feeds": [],
       "items": [
+        {
+          "id": "2a36e4704ca5defc3f7b24d233e9e664a6bbc2f0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这个是生成的视频",
+          "url": "https://x.com/op7418/status/2056575943649763450",
+          "published_at": "2026-05-19T03:21:28Z",
+          "summary": "这个是生成的视频Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️0👀217⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "70e5794f83cdc354d9ccae636f2959492b529297",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。\n\n然后它改掉了生成式 UI widget 里面的视觉样式。\n\n开始用我最喜欢...",
+          "url": "https://x.com/op7418/status/2056575632738553928",
+          "published_at": "2026-05-19T03:20:14Z",
+          "summary": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。 然后它改掉了生成式 UI widget 里面的视觉样式。 开始用我最喜欢的视觉风格来为我生成可视化的内容解释，这个太顶了！ 看一下这三个图，太漂亮了！💬0🔄0❤️2👀486📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5f70a629ac48082aed1935ad474f2852db3db228",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "藏师傅这个通过前端生成讲解视频的 Skill 其实已经搞完了。\n\n但是还是想优化一下效果，提高一下工程化，以及降低一下 Token 的用量。\n\n所以我让 Claude Code 跑了一个 40 秒钟的...",
+          "url": "https://x.com/op7418/status/2056575297810751506",
+          "published_at": "2026-05-19T03:18:54Z",
+          "summary": "藏师傅这个通过前端生成讲解视频的 Skill 其实已经搞完了。 但是还是想优化一下效果，提高一下工程化，以及降低一下 Token 的用量。 所以我让 Claude Code 跑了一个 40 秒钟的案例，然后让他对其中的 Token 进行了一下分析，看一下哪边占比比较多，然后再进行针对性的优化。 看起来其中视频组合消耗的百分比非常大。如果用 Claude Code 的话，会有 92% 的缓存，所以还好。 具体分析如下： 1. 总消耗：一个 40 秒的视频是 145 万 Token 2. 消耗结构： (a) 输入占比非常高 (b) 输出占比很低，仅占 0.7…"
+        },
+        {
+          "id": "7f4cdb72a3c4e87e40f4f3f6fadc193ca0e4131a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "🐂🐸 恭喜橘子",
+          "url": "https://x.com/op7418/status/2056569175246799297",
+          "published_at": "2026-05-19T02:54:35Z",
+          "summary": "🐂🐸 恭喜橘子Orange AI@oran_ge一年前的今天，是个特别的日子。 那天我们发布了第一款产品 ListenHub。 在今天看来，ListenHub 是个小而美的产品。 这款产品虽小，对我们而言意义却很大。 那是这个成立半年的小团队第一次发布产品，把自己推到真实的世界。 后来，做 AI 播客的人越来越少了，竞品一个个地销声匿迹，国内的，海外的。 好像只有 ListenHub 获得健康活得久，还在为用户提供稳定的服务，还在为我们提供稳定的现金流。 一年后，我们的 ColaOS 即将发布 1.0 正式版，其实里面的多媒体服务也都是直接调用了 Lis…"
+        },
+        {
+          "id": "0a9c6f11744e81057d73e5c560a09239eacd2a28",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Lovable 终于支持 Skill 了，他们实在太慢了\n\n如果要用你已有的 Skill 需要将 Skill 变成压缩包上传",
+          "url": "https://x.com/op7418/status/2056568000749420888",
+          "published_at": "2026-05-19T02:49:55Z",
+          "summary": "Lovable 终于支持 Skill 了，他们实在太慢了 如果要用你已有的 Skill 需要将 Skill 变成压缩包上传Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️2👀1399📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e30dbb33a0e90f61532ea2a145666c0dd3ddd7b9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "英伟达开始交付自己设计的通用 CPU NVIDIA Vera了。\n\n重点优化的是长期高并发和高吞吐的场景，专门用来做Agent 编排和工具调用的中枢。\n\n模型可以在 GPU 上进行推理，但所有的调度编...",
+          "url": "https://x.com/op7418/status/2056566924688146891",
+          "published_at": "2026-05-19T02:45:38Z",
+          "summary": "英伟达开始交付自己设计的通用 CPU NVIDIA Vera了。 重点优化的是长期高并发和高吞吐的场景，专门用来做Agent 编排和工具调用的中枢。 模型可以在 GPU 上进行推理，但所有的调度编排和调用工具都放在这个 CPU 上。 这种密集 Agent、密集常驻的强 IO、内存和调度压力的工作，其实都是 CPU 的工作，所以他们专门做了一个 CPU。 这次交付由英伟达自己上门，将这个 CPU 送到了：Anthropic、OpenAI、xAI、OCI，其中 xAI 是由老马亲自接待的。NVIDIA@nvidiaNVIDIA’s Ian Buck hand…"
+        },
+        {
+          "id": "01112912bc0f3928af4a190d5cf25439021639d6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "波士顿动力机器人的新演示，现在可以搬动很重的东西",
+          "url": "https://x.com/op7418/status/2056565847884533928",
+          "published_at": "2026-05-19T02:41:21Z",
+          "summary": "波士顿动力机器人的新演示，现在可以搬动很重的东西Your browser does not support the video tag.🔗 View on Twitter💬0🔄1❤️4👀2354📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "9d548c6587c521959d08b49c7565d70ca950c556",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Telegram 上的机器人现在可以直接跟其他机器人对话了\n\n也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。",
+          "url": "https://x.com/op7418/status/2056565482715795494",
+          "published_at": "2026-05-19T02:39:54Z",
+          "summary": "Telegram 上的机器人现在可以直接跟其他机器人对话了 也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。Pavel Durov@durov🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegram. 🧠 Autonomous agents now have a communication layer humans can follow.🔗 View Quoted Tweet💬4🔄0❤️4👀1888📊3⚡ Power…"
+        },
+        {
+          "id": "7c4e335c5bbd28865c690fe88d91fcd45b712ba4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "今晚谷歌新视频模型的演示。\n\n看起来肯定是可以进行视频编辑了，就是不知道是统一模型还是跟生成分开的",
+          "url": "https://x.com/op7418/status/2056565195007504498",
+          "published_at": "2026-05-19T02:38:46Z",
+          "summary": "今晚谷歌新视频模型的演示。 看起来肯定是可以进行视频编辑了，就是不知道是统一模型还是跟生成分开的Your browser does not support the video tag.🔗 View on TwitterYour browser does not support the video tag.🔗 View on TwitterSundar Pichai@sundarpichaiOn our way to I/O 2026. See you at 10am PT tomorrow!Your browser does not support th…"
+        },
+        {
+          "id": "f5d667ada775801da2a146e460c8e380da4a0409",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-19",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-95",
+          "published_at": "2026-05-19T01:19:25Z",
+          "summary": "AI 早报 2026-05-19 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问上线 Qwen3.7 Max Preview 和 Qwen3.7 Plus Preview ↗ #1 模型发布 Cursor 发布 Composer 2.5 并携手 SpaceXAI 合训新模型 ↗ #2 开发生态 Anthropic 宣布将 Claude Design 各计划 token limits 翻倍 ↗ #3 Claude Code 上线基于 Opus 4.7 的 /fast 模式 ↗ #4 GitHub 发布多项 Copilot 更新 一键修复 Actio…"
+        },
         {
           "id": "d9e02f01d2feeab0b079bc1142aed9f4bf20b3cb",
           "site_id": "featuredrss",
@@ -200,7 +307,7 @@
           "title": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
           "url": "https://x.com/op7418/status/2056385525007909272",
           "published_at": "2026-05-18T14:44:49Z",
-          "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬17🔄0❤️28👀10196📊17⚡ Powered by xgo.ing"
+          "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬18🔄0❤️34👀13711📊18⚡ Powered by xgo.ing"
         },
         {
           "id": "b5871be9acbefea85270d9a872946d5f585ec6e0",
@@ -212,34 +319,12 @@
           "url": "https://x.com/op7418/status/2056314568037761427",
           "published_at": "2026-05-18T10:02:52Z",
           "summary": "基于藏师傅 PPT Skill 的讲解视频生成 Skill，差不多搞定了！ Codex 配合远程控制不在家也可以一键产出视频内容 可以用非常低的成本保证视频内容的可用性和表现力 这里的视频是我随便找了一个徒步文案一次生成的。 主要的内容用前端生成，只有配音和部分分镜使用音频和Seedance 2.0 模型Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太…"
-        },
-        {
-          "id": "e80a6cc0215f28dd45f27c743433925396d20228",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "上周做了场内部分享，关于我做AI这三年来总结的内容创作方法论。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682309&idx=1&sn=aa02004fb326c8311493fd3ed24a5294",
-          "published_at": "2026-05-18T02:09:00Z",
-          "summary": "今天也分享给你们"
-        },
-        {
-          "id": "7dccac13afd14a71f91acb96e265c8ce92b3df51",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-18",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-94",
-          "published_at": "2026-05-18T01:19:53Z",
-          "summary": "AI 早报 2026-05-18 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 知乎数据开放平台提供搜索、热榜和直答服务，支持 Skills 或 API 调用 ↗ #1 中国电信发布多档Token套餐 月费9.9元起 ↗ #2 行业动态 有关部门计划推进全国一体化算力网建设 ↗ #3 Google DeepMind 面向亚太区推出 AI for the Planet 加速器计划 ↗ #4 前瞻与传闻 消息称 Gemini 应用特定模式悄然路由至疑似 3.2 新模型 ↗ #5 报道称 OpenAI 正在测试 Codex 多设备远程控制与“Locke…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -247,6 +332,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "9228bffee11f9b260c57c9e6d2e386fabaee3b12",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for y...",
+          "url": "https://x.com/GeminiApp/status/2056536822986281012",
+          "published_at": "2026-05-19T00:46:01Z",
+          "summary": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for you. Join us to watch the 2026 #GoogleIO livestream tomorrow (5/19) at 10am PT: x.com/i/events/20532…💬19🔄62❤️458👀28334📊77⚡ Powered by xgo.ing"
+        },
         {
           "id": "6974b7e1a5c3582ccaea6222b564aa5b71011886",
           "site_id": "featuredrss",
@@ -262,6 +358,127 @@
     }
   },
   "items": [
+    {
+      "id": "2a36e4704ca5defc3f7b24d233e9e664a6bbc2f0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这个是生成的视频",
+      "url": "https://x.com/op7418/status/2056575943649763450",
+      "published_at": "2026-05-19T03:21:28Z",
+      "summary": "这个是生成的视频Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️0👀217⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "70e5794f83cdc354d9ccae636f2959492b529297",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。\n\n然后它改掉了生成式 UI widget 里面的视觉样式。\n\n开始用我最喜欢...",
+      "url": "https://x.com/op7418/status/2056575632738553928",
+      "published_at": "2026-05-19T03:20:14Z",
+      "summary": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。 然后它改掉了生成式 UI widget 里面的视觉样式。 开始用我最喜欢的视觉风格来为我生成可视化的内容解释，这个太顶了！ 看一下这三个图，太漂亮了！💬0🔄0❤️2👀486📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5f70a629ac48082aed1935ad474f2852db3db228",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "藏师傅这个通过前端生成讲解视频的 Skill 其实已经搞完了。\n\n但是还是想优化一下效果，提高一下工程化，以及降低一下 Token 的用量。\n\n所以我让 Claude Code 跑了一个 40 秒钟的...",
+      "url": "https://x.com/op7418/status/2056575297810751506",
+      "published_at": "2026-05-19T03:18:54Z",
+      "summary": "藏师傅这个通过前端生成讲解视频的 Skill 其实已经搞完了。 但是还是想优化一下效果，提高一下工程化，以及降低一下 Token 的用量。 所以我让 Claude Code 跑了一个 40 秒钟的案例，然后让他对其中的 Token 进行了一下分析，看一下哪边占比比较多，然后再进行针对性的优化。 看起来其中视频组合消耗的百分比非常大。如果用 Claude Code 的话，会有 92% 的缓存，所以还好。 具体分析如下： 1. 总消耗：一个 40 秒的视频是 145 万 Token 2. 消耗结构： (a) 输入占比非常高 (b) 输出占比很低，仅占 0.7…"
+    },
+    {
+      "id": "7f4cdb72a3c4e87e40f4f3f6fadc193ca0e4131a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "🐂🐸 恭喜橘子",
+      "url": "https://x.com/op7418/status/2056569175246799297",
+      "published_at": "2026-05-19T02:54:35Z",
+      "summary": "🐂🐸 恭喜橘子Orange AI@oran_ge一年前的今天，是个特别的日子。 那天我们发布了第一款产品 ListenHub。 在今天看来，ListenHub 是个小而美的产品。 这款产品虽小，对我们而言意义却很大。 那是这个成立半年的小团队第一次发布产品，把自己推到真实的世界。 后来，做 AI 播客的人越来越少了，竞品一个个地销声匿迹，国内的，海外的。 好像只有 ListenHub 获得健康活得久，还在为用户提供稳定的服务，还在为我们提供稳定的现金流。 一年后，我们的 ColaOS 即将发布 1.0 正式版，其实里面的多媒体服务也都是直接调用了 Lis…"
+    },
+    {
+      "id": "0a9c6f11744e81057d73e5c560a09239eacd2a28",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Lovable 终于支持 Skill 了，他们实在太慢了\n\n如果要用你已有的 Skill 需要将 Skill 变成压缩包上传",
+      "url": "https://x.com/op7418/status/2056568000749420888",
+      "published_at": "2026-05-19T02:49:55Z",
+      "summary": "Lovable 终于支持 Skill 了，他们实在太慢了 如果要用你已有的 Skill 需要将 Skill 变成压缩包上传Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️2👀1399📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e30dbb33a0e90f61532ea2a145666c0dd3ddd7b9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "英伟达开始交付自己设计的通用 CPU NVIDIA Vera了。\n\n重点优化的是长期高并发和高吞吐的场景，专门用来做Agent 编排和工具调用的中枢。\n\n模型可以在 GPU 上进行推理，但所有的调度编...",
+      "url": "https://x.com/op7418/status/2056566924688146891",
+      "published_at": "2026-05-19T02:45:38Z",
+      "summary": "英伟达开始交付自己设计的通用 CPU NVIDIA Vera了。 重点优化的是长期高并发和高吞吐的场景，专门用来做Agent 编排和工具调用的中枢。 模型可以在 GPU 上进行推理，但所有的调度编排和调用工具都放在这个 CPU 上。 这种密集 Agent、密集常驻的强 IO、内存和调度压力的工作，其实都是 CPU 的工作，所以他们专门做了一个 CPU。 这次交付由英伟达自己上门，将这个 CPU 送到了：Anthropic、OpenAI、xAI、OCI，其中 xAI 是由老马亲自接待的。NVIDIA@nvidiaNVIDIA’s Ian Buck hand…"
+    },
+    {
+      "id": "01112912bc0f3928af4a190d5cf25439021639d6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "波士顿动力机器人的新演示，现在可以搬动很重的东西",
+      "url": "https://x.com/op7418/status/2056565847884533928",
+      "published_at": "2026-05-19T02:41:21Z",
+      "summary": "波士顿动力机器人的新演示，现在可以搬动很重的东西Your browser does not support the video tag.🔗 View on Twitter💬0🔄1❤️4👀2354📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "9d548c6587c521959d08b49c7565d70ca950c556",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Telegram 上的机器人现在可以直接跟其他机器人对话了\n\n也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。",
+      "url": "https://x.com/op7418/status/2056565482715795494",
+      "published_at": "2026-05-19T02:39:54Z",
+      "summary": "Telegram 上的机器人现在可以直接跟其他机器人对话了 也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。Pavel Durov@durov🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegram. 🧠 Autonomous agents now have a communication layer humans can follow.🔗 View Quoted Tweet💬4🔄0❤️4👀1888📊3⚡ Power…"
+    },
+    {
+      "id": "7c4e335c5bbd28865c690fe88d91fcd45b712ba4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "今晚谷歌新视频模型的演示。\n\n看起来肯定是可以进行视频编辑了，就是不知道是统一模型还是跟生成分开的",
+      "url": "https://x.com/op7418/status/2056565195007504498",
+      "published_at": "2026-05-19T02:38:46Z",
+      "summary": "今晚谷歌新视频模型的演示。 看起来肯定是可以进行视频编辑了，就是不知道是统一模型还是跟生成分开的Your browser does not support the video tag.🔗 View on TwitterYour browser does not support the video tag.🔗 View on TwitterSundar Pichai@sundarpichaiOn our way to I/O 2026. See you at 10am PT tomorrow!Your browser does not support th…"
+    },
+    {
+      "id": "f5d667ada775801da2a146e460c8e380da4a0409",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-19",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-95",
+      "published_at": "2026-05-19T01:19:25Z",
+      "summary": "AI 早报 2026-05-19 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问上线 Qwen3.7 Max Preview 和 Qwen3.7 Plus Preview ↗ #1 模型发布 Cursor 发布 Composer 2.5 并携手 SpaceXAI 合训新模型 ↗ #2 开发生态 Anthropic 宣布将 Claude Design 各计划 token limits 翻倍 ↗ #3 Claude Code 上线基于 Opus 4.7 的 /fast 模式 ↗ #4 GitHub 发布多项 Copilot 更新 一键修复 Actio…"
+    },
+    {
+      "id": "9228bffee11f9b260c57c9e6d2e386fabaee3b12",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for y...",
+      "url": "https://x.com/GeminiApp/status/2056536822986281012",
+      "published_at": "2026-05-19T00:46:01Z",
+      "summary": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for you. Join us to watch the 2026 #GoogleIO livestream tomorrow (5/19) at 10am PT: x.com/i/events/20532…💬19🔄62❤️458👀28334📊77⚡ Powered by xgo.ing"
+    },
     {
       "id": "6974b7e1a5c3582ccaea6222b564aa5b71011886",
       "site_id": "featuredrss",
@@ -282,7 +499,7 @@
       "title": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
       "url": "https://x.com/op7418/status/2056385525007909272",
       "published_at": "2026-05-18T14:44:49Z",
-      "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬17🔄0❤️28👀10196📊17⚡ Powered by xgo.ing"
+      "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬18🔄0❤️34👀13711📊18⚡ Powered by xgo.ing"
     },
     {
       "id": "b5871be9acbefea85270d9a872946d5f585ec6e0",
@@ -294,28 +511,6 @@
       "url": "https://x.com/op7418/status/2056314568037761427",
       "published_at": "2026-05-18T10:02:52Z",
       "summary": "基于藏师傅 PPT Skill 的讲解视频生成 Skill，差不多搞定了！ Codex 配合远程控制不在家也可以一键产出视频内容 可以用非常低的成本保证视频内容的可用性和表现力 这里的视频是我随便找了一个徒步文案一次生成的。 主要的内容用前端生成，只有配音和部分分镜使用音频和Seedance 2.0 模型Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太…"
-    },
-    {
-      "id": "e80a6cc0215f28dd45f27c743433925396d20228",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "上周做了场内部分享，关于我做AI这三年来总结的内容创作方法论。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682309&idx=1&sn=aa02004fb326c8311493fd3ed24a5294",
-      "published_at": "2026-05-18T02:09:00Z",
-      "summary": "今天也分享给你们"
-    },
-    {
-      "id": "7dccac13afd14a71f91acb96e265c8ce92b3df51",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-18",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-94",
-      "published_at": "2026-05-18T01:19:53Z",
-      "summary": "AI 早报 2026-05-18 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 知乎数据开放平台提供搜索、热榜和直答服务，支持 Skills 或 API 调用 ↗ #1 中国电信发布多档Token套餐 月费9.9元起 ↗ #2 行业动态 有关部门计划推进全国一体化算力网建设 ↗ #3 Google DeepMind 面向亚太区推出 AI for the Planet 加速器计划 ↗ #4 前瞻与传闻 消息称 Gemini 应用特定模式悄然路由至疑似 3.2 新模型 ↗ #5 报道称 OpenAI 正在测试 Codex 多设备远程控制与“Locke…"
     }
   ]
 }
