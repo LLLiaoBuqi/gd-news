@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-19T04:12:44.914986Z",
+  "generated_at": "2026-05-19T08:01:51.897340Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 19,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 242,
+      "duration_ms": 770,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 31,
+      "duration_ms": 29,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1163,
+      "duration_ms": 676,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 975,
+      "duration_ms": 397,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 986,
+      "duration_ms": 582,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 735,
+      "duration_ms": 2237,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1383,
+      "duration_ms": 2052,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 151,
+      "duration_ms": 152,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1442,
+      "duration_ms": 714,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 4,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1563,
+      "duration_ms": 1566,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,66 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 12,
+      "total_items": 17,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "83dfe8fa3978c3589927a3e590d91199cf494337",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "安卓也更新了",
+          "url": "https://x.com/op7418/status/2056635831897797087",
+          "published_at": "2026-05-19T07:19:27Z",
+          "summary": "安卓也更新了💬0🔄0❤️3👀420⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "67a5fc21195bd305b579ca58ac38c5837b941590",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Gemini 的 iOS 应用改版了，不得不说，谷歌的 iOS 开发水平确实比他们的网页和客户端高一大截。\n\n整体的质感、细节都非常好，而且对于 iOS 液态玻璃的应用也很好。\n\n就是完全没有为中文、...",
+          "url": "https://x.com/op7418/status/2056609161287458913",
+          "published_at": "2026-05-19T05:33:28Z",
+          "summary": "Gemini 的 iOS 应用改版了，不得不说，谷歌的 iOS 开发水平确实比他们的网页和客户端高一大截。 整体的质感、细节都非常好，而且对于 iOS 液态玻璃的应用也很好。 就是完全没有为中文、日文和韩文这些语言做排版的适配，那个 live 里边的中文感觉字和字之间有空格，这太蛋疼了。歸藏(guizang.ai)@op7418哇！Gemini 网页版大改版了，整体布局跟 GPT 真像啊 之前的那堆功能都收到了加号里面。左侧的字体和间距都变小了，展示内容更多了 聊天的页面背景变成了灰色，感觉辨识度下降了，可读性比原来差我觉得。🔗 View Quoted…"
+        },
+        {
+          "id": "f894abd478a849ed852f637a2a4845ebff9f9b4a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "图标全部重绘了，更加的圆润，表意也清晰了很多，不错",
+          "url": "https://x.com/op7418/status/2056585995697713288",
+          "published_at": "2026-05-19T04:01:25Z",
+          "summary": "图标全部重绘了，更加的圆润，表意也清晰了很多，不错💬0🔄0❤️2👀4727📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "083d0cb46e65237fce56c6abbc145211b7ebe664",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "不过比原来还是好很多的",
+          "url": "https://x.com/op7418/status/2056585299543904620",
+          "published_at": "2026-05-19T03:58:39Z",
+          "summary": "不过比原来还是好很多的💬1🔄0❤️0👀4953📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d4a3e5127f3f2b8d534d43eba337c257b4221e55",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哇！Gemini 网页版大改版了，整体布局跟 GPT 真像啊\n\n之前的那堆功能都收到了加号里面。左侧的字体和间距都变小了，展示内容更多了\n\n聊天的页面背景变成了灰色，感觉辨识度下降了，可读性比原来差我...",
+          "url": "https://x.com/op7418/status/2056584513086730281",
+          "published_at": "2026-05-19T03:55:32Z",
+          "summary": "哇！Gemini 网页版大改版了，整体布局跟 GPT 真像啊 之前的那堆功能都收到了加号里面。左侧的字体和间距都变小了，展示内容更多了 聊天的页面背景变成了灰色，感觉辨识度下降了，可读性比原来差我觉得。💬55🔄0❤️76👀49082📊53⚡ Powered by xgo.ing"
+        },
         {
           "id": "2a36e4704ca5defc3f7b24d233e9e664a6bbc2f0",
           "site_id": "featuredrss",
@@ -197,7 +252,7 @@
           "title": "这个是生成的视频",
           "url": "https://x.com/op7418/status/2056575943649763450",
           "published_at": "2026-05-19T03:21:28Z",
-          "summary": "这个是生成的视频Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️0👀217⚡ Powered by xgo.ing"
+          "summary": "这个是生成的视频Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️1👀1536⚡ Powered by xgo.ing"
         },
         {
           "id": "70e5794f83cdc354d9ccae636f2959492b529297",
@@ -208,7 +263,7 @@
           "title": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。\n\n然后它改掉了生成式 UI widget 里面的视觉样式。\n\n开始用我最喜欢...",
           "url": "https://x.com/op7418/status/2056575632738553928",
           "published_at": "2026-05-19T03:20:14Z",
-          "summary": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。 然后它改掉了生成式 UI widget 里面的视觉样式。 开始用我最喜欢的视觉风格来为我生成可视化的内容解释，这个太顶了！ 看一下这三个图，太漂亮了！💬0🔄0❤️2👀486📊1⚡ Powered by xgo.ing"
+          "summary": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。 然后它改掉了生成式 UI widget 里面的视觉样式。 开始用我最喜欢的视觉风格来为我生成可视化的内容解释，这个太顶了！ 看一下这三个图，太漂亮了！💬4🔄1❤️14👀3922📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "5f70a629ac48082aed1935ad474f2852db3db228",
@@ -241,7 +296,7 @@
           "title": "Lovable 终于支持 Skill 了，他们实在太慢了\n\n如果要用你已有的 Skill 需要将 Skill 变成压缩包上传",
           "url": "https://x.com/op7418/status/2056568000749420888",
           "published_at": "2026-05-19T02:49:55Z",
-          "summary": "Lovable 终于支持 Skill 了，他们实在太慢了 如果要用你已有的 Skill 需要将 Skill 变成压缩包上传Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️2👀1399📊2⚡ Powered by xgo.ing"
+          "summary": "Lovable 终于支持 Skill 了，他们实在太慢了 如果要用你已有的 Skill 需要将 Skill 变成压缩包上传Your browser does not support the video tag.🔗 View on Twitter💬4🔄0❤️4👀4344📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "e30dbb33a0e90f61532ea2a145666c0dd3ddd7b9",
@@ -263,7 +318,7 @@
           "title": "波士顿动力机器人的新演示，现在可以搬动很重的东西",
           "url": "https://x.com/op7418/status/2056565847884533928",
           "published_at": "2026-05-19T02:41:21Z",
-          "summary": "波士顿动力机器人的新演示，现在可以搬动很重的东西Your browser does not support the video tag.🔗 View on Twitter💬0🔄1❤️4👀2354📊1⚡ Powered by xgo.ing"
+          "summary": "波士顿动力机器人的新演示，现在可以搬动很重的东西Your browser does not support the video tag.🔗 View on Twitter💬2🔄2❤️13👀6921📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "9d548c6587c521959d08b49c7565d70ca950c556",
@@ -274,7 +329,7 @@
           "title": "Telegram 上的机器人现在可以直接跟其他机器人对话了\n\n也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。",
           "url": "https://x.com/op7418/status/2056565482715795494",
           "published_at": "2026-05-19T02:39:54Z",
-          "summary": "Telegram 上的机器人现在可以直接跟其他机器人对话了 也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。Pavel Durov@durov🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegram. 🧠 Autonomous agents now have a communication layer humans can follow.🔗 View Quoted Tweet💬4🔄0❤️4👀1888📊3⚡ Power…"
+          "summary": "Telegram 上的机器人现在可以直接跟其他机器人对话了 也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。Pavel Durov@durov🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegram. 🧠 Autonomous agents now have a communication layer humans can follow.🔗 View Quoted Tweet💬4🔄2❤️14👀5442📊5⚡ Powe…"
         },
         {
           "id": "7c4e335c5bbd28865c690fe88d91fcd45b712ba4",
@@ -307,7 +362,7 @@
           "title": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
           "url": "https://x.com/op7418/status/2056385525007909272",
           "published_at": "2026-05-18T14:44:49Z",
-          "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬18🔄0❤️34👀13711📊18⚡ Powered by xgo.ing"
+          "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬18🔄0❤️40👀15721📊19⚡ Powered by xgo.ing"
         },
         {
           "id": "b5871be9acbefea85270d9a872946d5f585ec6e0",
@@ -341,7 +396,7 @@
           "title": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for y...",
           "url": "https://x.com/GeminiApp/status/2056536822986281012",
           "published_at": "2026-05-19T00:46:01Z",
-          "summary": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for you. Join us to watch the 2026 #GoogleIO livestream tomorrow (5/19) at 10am PT: x.com/i/events/20532…💬19🔄62❤️458👀28334📊77⚡ Powered by xgo.ing"
+          "summary": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for you. Join us to watch the 2026 #GoogleIO livestream tomorrow (5/19) at 10am PT: x.com/i/events/20532…💬38🔄102❤️902👀62155📊147⚡ Powered by xgo.ing"
         },
         {
           "id": "6974b7e1a5c3582ccaea6222b564aa5b71011886",
@@ -359,6 +414,61 @@
   },
   "items": [
     {
+      "id": "83dfe8fa3978c3589927a3e590d91199cf494337",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "安卓也更新了",
+      "url": "https://x.com/op7418/status/2056635831897797087",
+      "published_at": "2026-05-19T07:19:27Z",
+      "summary": "安卓也更新了💬0🔄0❤️3👀420⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "67a5fc21195bd305b579ca58ac38c5837b941590",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Gemini 的 iOS 应用改版了，不得不说，谷歌的 iOS 开发水平确实比他们的网页和客户端高一大截。\n\n整体的质感、细节都非常好，而且对于 iOS 液态玻璃的应用也很好。\n\n就是完全没有为中文、...",
+      "url": "https://x.com/op7418/status/2056609161287458913",
+      "published_at": "2026-05-19T05:33:28Z",
+      "summary": "Gemini 的 iOS 应用改版了，不得不说，谷歌的 iOS 开发水平确实比他们的网页和客户端高一大截。 整体的质感、细节都非常好，而且对于 iOS 液态玻璃的应用也很好。 就是完全没有为中文、日文和韩文这些语言做排版的适配，那个 live 里边的中文感觉字和字之间有空格，这太蛋疼了。歸藏(guizang.ai)@op7418哇！Gemini 网页版大改版了，整体布局跟 GPT 真像啊 之前的那堆功能都收到了加号里面。左侧的字体和间距都变小了，展示内容更多了 聊天的页面背景变成了灰色，感觉辨识度下降了，可读性比原来差我觉得。🔗 View Quoted…"
+    },
+    {
+      "id": "f894abd478a849ed852f637a2a4845ebff9f9b4a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "图标全部重绘了，更加的圆润，表意也清晰了很多，不错",
+      "url": "https://x.com/op7418/status/2056585995697713288",
+      "published_at": "2026-05-19T04:01:25Z",
+      "summary": "图标全部重绘了，更加的圆润，表意也清晰了很多，不错💬0🔄0❤️2👀4727📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "083d0cb46e65237fce56c6abbc145211b7ebe664",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "不过比原来还是好很多的",
+      "url": "https://x.com/op7418/status/2056585299543904620",
+      "published_at": "2026-05-19T03:58:39Z",
+      "summary": "不过比原来还是好很多的💬1🔄0❤️0👀4953📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d4a3e5127f3f2b8d534d43eba337c257b4221e55",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哇！Gemini 网页版大改版了，整体布局跟 GPT 真像啊\n\n之前的那堆功能都收到了加号里面。左侧的字体和间距都变小了，展示内容更多了\n\n聊天的页面背景变成了灰色，感觉辨识度下降了，可读性比原来差我...",
+      "url": "https://x.com/op7418/status/2056584513086730281",
+      "published_at": "2026-05-19T03:55:32Z",
+      "summary": "哇！Gemini 网页版大改版了，整体布局跟 GPT 真像啊 之前的那堆功能都收到了加号里面。左侧的字体和间距都变小了，展示内容更多了 聊天的页面背景变成了灰色，感觉辨识度下降了，可读性比原来差我觉得。💬55🔄0❤️76👀49082📊53⚡ Powered by xgo.ing"
+    },
+    {
       "id": "2a36e4704ca5defc3f7b24d233e9e664a6bbc2f0",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -367,7 +477,7 @@
       "title": "这个是生成的视频",
       "url": "https://x.com/op7418/status/2056575943649763450",
       "published_at": "2026-05-19T03:21:28Z",
-      "summary": "这个是生成的视频Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️0👀217⚡ Powered by xgo.ing"
+      "summary": "这个是生成的视频Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️1👀1536⚡ Powered by xgo.ing"
     },
     {
       "id": "70e5794f83cdc354d9ccae636f2959492b529297",
@@ -378,7 +488,7 @@
       "title": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。\n\n然后它改掉了生成式 UI widget 里面的视觉样式。\n\n开始用我最喜欢...",
       "url": "https://x.com/op7418/status/2056575632738553928",
       "published_at": "2026-05-19T03:20:14Z",
-      "summary": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。 然后它改掉了生成式 UI widget 里面的视觉样式。 开始用我最喜欢的视觉风格来为我生成可视化的内容解释，这个太顶了！ 看一下这三个图，太漂亮了！💬0🔄0❤️2👀486📊1⚡ Powered by xgo.ing"
+      "summary": "CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skills 做的比较多，它把我的风格喜好记下来了。 然后它改掉了生成式 UI widget 里面的视觉样式。 开始用我最喜欢的视觉风格来为我生成可视化的内容解释，这个太顶了！ 看一下这三个图，太漂亮了！💬4🔄1❤️14👀3922📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "5f70a629ac48082aed1935ad474f2852db3db228",
@@ -411,7 +521,7 @@
       "title": "Lovable 终于支持 Skill 了，他们实在太慢了\n\n如果要用你已有的 Skill 需要将 Skill 变成压缩包上传",
       "url": "https://x.com/op7418/status/2056568000749420888",
       "published_at": "2026-05-19T02:49:55Z",
-      "summary": "Lovable 终于支持 Skill 了，他们实在太慢了 如果要用你已有的 Skill 需要将 Skill 变成压缩包上传Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️2👀1399📊2⚡ Powered by xgo.ing"
+      "summary": "Lovable 终于支持 Skill 了，他们实在太慢了 如果要用你已有的 Skill 需要将 Skill 变成压缩包上传Your browser does not support the video tag.🔗 View on Twitter💬4🔄0❤️4👀4344📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "e30dbb33a0e90f61532ea2a145666c0dd3ddd7b9",
@@ -433,7 +543,7 @@
       "title": "波士顿动力机器人的新演示，现在可以搬动很重的东西",
       "url": "https://x.com/op7418/status/2056565847884533928",
       "published_at": "2026-05-19T02:41:21Z",
-      "summary": "波士顿动力机器人的新演示，现在可以搬动很重的东西Your browser does not support the video tag.🔗 View on Twitter💬0🔄1❤️4👀2354📊1⚡ Powered by xgo.ing"
+      "summary": "波士顿动力机器人的新演示，现在可以搬动很重的东西Your browser does not support the video tag.🔗 View on Twitter💬2🔄2❤️13👀6921📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "9d548c6587c521959d08b49c7565d70ca950c556",
@@ -444,7 +554,7 @@
       "title": "Telegram 上的机器人现在可以直接跟其他机器人对话了\n\n也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。",
       "url": "https://x.com/op7418/status/2056565482715795494",
       "published_at": "2026-05-19T02:39:54Z",
-      "summary": "Telegram 上的机器人现在可以直接跟其他机器人对话了 也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。Pavel Durov@durov🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegram. 🧠 Autonomous agents now have a communication layer humans can follow.🔗 View Quoted Tweet💬4🔄0❤️4👀1888📊3⚡ Power…"
+      "summary": "Telegram 上的机器人现在可以直接跟其他机器人对话了 也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。Pavel Durov@durov🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegram. 🧠 Autonomous agents now have a communication layer humans can follow.🔗 View Quoted Tweet💬4🔄2❤️14👀5442📊5⚡ Powe…"
     },
     {
       "id": "7c4e335c5bbd28865c690fe88d91fcd45b712ba4",
@@ -477,7 +587,7 @@
       "title": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for y...",
       "url": "https://x.com/GeminiApp/status/2056536822986281012",
       "published_at": "2026-05-19T00:46:01Z",
-      "summary": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for you. Join us to watch the 2026 #GoogleIO livestream tomorrow (5/19) at 10am PT: x.com/i/events/20532…💬19🔄62❤️458👀28334📊77⚡ Powered by xgo.ing"
+      "summary": "Our biggest event of the year is almost here and we've got a virtual front-row seat saved just for you. Join us to watch the 2026 #GoogleIO livestream tomorrow (5/19) at 10am PT: x.com/i/events/20532…💬38🔄102❤️902👀62155📊147⚡ Powered by xgo.ing"
     },
     {
       "id": "6974b7e1a5c3582ccaea6222b564aa5b71011886",
@@ -499,7 +609,7 @@
       "title": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
       "url": "https://x.com/op7418/status/2056385525007909272",
       "published_at": "2026-05-18T14:44:49Z",
-      "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬18🔄0❤️34👀13711📊18⚡ Powered by xgo.ing"
+      "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬18🔄0❤️40👀15721📊19⚡ Powered by xgo.ing"
     },
     {
       "id": "b5871be9acbefea85270d9a872946d5f585ec6e0",
