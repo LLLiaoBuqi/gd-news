@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-05-18T22:54:12.476789Z",
+  "generated_at": "2026-05-19T00:00:07.109323Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 5,
   "feed_total": 12,
-  "ok_feeds": 10,
+  "ok_feeds": 9,
   "failed_feeds": [
+    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
     "rsshub://bilibili/user/video/385670211"
   ],
@@ -19,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1682,
+      "duration_ms": 226,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 21,
+      "duration_ms": 67,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 868,
+      "duration_ms": 927,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 503,
+      "duration_ms": 771,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 710,
+      "duration_ms": 664,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -87,10 +88,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1295,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12057,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -117,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1222,
+      "duration_ms": 6984,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 170,
+      "duration_ms": 169,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 867,
+      "duration_ms": 1030,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1632,
+      "duration_ms": 11144,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -185,8 +186,10 @@
       "label": "国内精选",
       "total_items": 4,
       "feed_total": 5,
-      "ok_feeds": 5,
-      "failed_feeds": [],
+      "ok_feeds": 4,
+      "failed_feeds": [
+        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml"
+      ],
       "items": [
         {
           "id": "d9e02f01d2feeab0b079bc1142aed9f4bf20b3cb",
@@ -197,7 +200,7 @@
           "title": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
           "url": "https://x.com/op7418/status/2056385525007909272",
           "published_at": "2026-05-18T14:44:49Z",
-          "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬17🔄0❤️27👀9505📊17⚡ Powered by xgo.ing"
+          "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬17🔄0❤️28👀10196📊17⚡ Powered by xgo.ing"
         },
         {
           "id": "b5871be9acbefea85270d9a872946d5f585ec6e0",
@@ -279,7 +282,7 @@
       "title": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
       "url": "https://x.com/op7418/status/2056385525007909272",
       "published_at": "2026-05-18T14:44:49Z",
-      "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬17🔄0❤️27👀9505📊17⚡ Powered by xgo.ing"
+      "summary": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。💬17🔄0❤️28👀10196📊17⚡ Powered by xgo.ing"
     },
     {
       "id": "b5871be9acbefea85270d9a872946d5f585ec6e0",
