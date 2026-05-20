@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-20T13:35:30.108459Z",
+  "generated_at": "2026-05-20T16:49:42.401596Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 73,
+  "total_items": 63,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 709,
+      "duration_ms": 391,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 47,
+      "duration_ms": 63,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 363,
+      "duration_ms": 709,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 690,
+      "duration_ms": 469,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 660,
+      "duration_ms": 624,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1747,
+      "duration_ms": 1248,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1705,
+      "duration_ms": 1099,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 184,
+      "duration_ms": 192,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 698,
+      "duration_ms": 610,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1343,
+      "duration_ms": 1044,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,33 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 20,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "2677becdc3af1fbc8fff0b8780bbbf516fee445b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "用了几天 Mac 版豆包输入法，已经离不开了。\n\n准确性、中英文混合输入、专业名词的识别，响应速度，都是市面上最顶的。\n\n我现在手机上已经离不开豆包输入法了，一直在等待桌面端上线。前几天发现 MacO...",
+          "url": "https://x.com/op7418/status/2057123946039058618",
+          "published_at": "2026-05-20T15:39:02Z",
+          "summary": "用了几天 Mac 版豆包输入法，已经离不开了。 准确性、中英文混合输入、专业名词的识别，响应速度，都是市面上最顶的。 我现在手机上已经离不开豆包输入法了，一直在等待桌面端上线。前几天发现 MacOS 版终于来了，赶紧下载试了一下。 我觉得表现最好的就是多语言混合输入。 我日常会涉及到非常多中英文混合输入的场景，因为我们这个行业很多词没有翻译，比如说 Claude Code、AntiGravity、Perplexity，这种词和中文混合的时候，就非常难以去润色和识别。 豆包在这方面处理得巨好。 之前我用其他语音输入法，它主要有两个问题： 首先是过度优化：…"
+        },
+        {
+          "id": "eb4b3d4cef395e2295ec33c678ffff21a230cba3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "终于找到了这种墨水屏硬件最适合的场景：\n\n开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息\n\n把它挂在屏幕边上（用磁吸）\n\n关机的时候，利用墨水屏的特性让它显示名片，这样大...",
+          "url": "https://x.com/op7418/status/2057115669100216826",
+          "published_at": "2026-05-20T15:06:09Z",
+          "summary": "终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候可以玩玩。💬5🔄2❤️19👀3349📊8⚡ Powered by xgo.ing"
+        },
         {
           "id": "ad669ecae6a5bb7b25c3e9b6c57a740743e52e44",
           "site_id": "featuredrss",
@@ -208,7 +230,7 @@
           "title": "天天玩 AI，去央美毕业展看点古法绘画",
           "url": "https://x.com/op7418/status/2057026266818105370",
           "published_at": "2026-05-20T09:10:54Z",
-          "summary": "天天玩 AI，去央美毕业展看点古法绘画💬15🔄0❤️9👀3759📊13⚡ Powered by xgo.ing"
+          "summary": "天天玩 AI，去央美毕业展看点古法绘画💬24🔄0❤️14👀6117📊21⚡ Powered by xgo.ing"
         },
         {
           "id": "add295d5632013f1a19650eab62898d28ac80430",
@@ -219,7 +241,7 @@
           "title": "虽然没能去到谷歌 I/O 大会的现场，但是收到了谷歌这次大会的伴手礼，感谢谷歌和微博 \n\n谷歌还是工程师文化重啊，送的这个伴手礼里边的小东西每个都很实用，数据线、支架之类的，感觉都能用上",
           "url": "https://x.com/op7418/status/2056958833474646253",
           "published_at": "2026-05-20T04:42:57Z",
-          "summary": "虽然没能去到谷歌 I/O 大会的现场，但是收到了谷歌这次大会的伴手礼，感谢谷歌和微博 谷歌还是工程师文化重啊，送的这个伴手礼里边的小东西每个都很实用，数据线、支架之类的，感觉都能用上💬27🔄1❤️89👀11043📊30⚡ Powered by xgo.ing"
+          "summary": "虽然没能去到谷歌 I/O 大会的现场，但是收到了谷歌这次大会的伴手礼，感谢谷歌和微博 谷歌还是工程师文化重啊，送的这个伴手礼里边的小东西每个都很实用，数据线、支架之类的，感觉都能用上💬34🔄1❤️99👀13517📊37⚡ Powered by xgo.ing"
         },
         {
           "id": "3dc0f275c95877ffb4d95029a3741dd0ae297246",
@@ -230,7 +252,7 @@
           "title": "Codex 不语，只是一味重置额度",
           "url": "https://x.com/op7418/status/2056943517658911013",
           "published_at": "2026-05-20T03:42:05Z",
-          "summary": "Codex 不语，只是一味重置额度💬60🔄3❤️93👀23783📊59⚡ Powered by xgo.ing"
+          "summary": "Codex 不语，只是一味重置额度💬66🔄3❤️98👀27028📊64⚡ Powered by xgo.ing"
         },
         {
           "id": "0479175ff12c95ca1d63948151cfafa37fe0b37f",
@@ -241,7 +263,7 @@
           "title": "谷歌 Genie 3 这个新功能很有意思\n\n可以选择美国谷歌街景的任何一个地点作为首帧图片，然后生成 Google Genie 3 可互动的世界。\n\n比如非常知名的黄石公园啊，城市之类的地方，然后你就...",
           "url": "https://x.com/op7418/status/2056931266038239274",
           "published_at": "2026-05-20T02:53:24Z",
-          "summary": "谷歌 Genie 3 这个新功能很有意思 可以选择美国谷歌街景的任何一个地点作为首帧图片，然后生成 Google Genie 3 可互动的世界。 比如非常知名的黄石公园啊，城市之类的地方，然后你就可以进去游览了，代入感很强 而且你可以对这个街景的内容做风格化，比如：变成海底世界、末日后的世界之类的Your browser does not support the video tag.🔗 View on Twitter💬14🔄4❤️47👀8423📊21⚡ Powered by xgo.ing"
+          "summary": "谷歌 Genie 3 这个新功能很有意思 可以选择美国谷歌街景的任何一个地点作为首帧图片，然后生成 Google Genie 3 可互动的世界。 比如非常知名的黄石公园啊，城市之类的地方，然后你就可以进去游览了，代入感很强 而且你可以对这个街景的内容做风格化，比如：变成海底世界、末日后的世界之类的Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️54👀10168📊24⚡ Powered by xgo.ing"
         },
         {
           "id": "d243108ebde83252ff8b69334af76ef0794bcc4a",
@@ -263,7 +285,7 @@
           "title": "AI Studio 的安卓客户端还是没有上线",
           "url": "https://x.com/op7418/status/2056914890481357138",
           "published_at": "2026-05-20T01:48:20Z",
-          "summary": "AI Studio 的安卓客户端还是没有上线💬0🔄0❤️3👀3276📊1⚡ Powered by xgo.ing"
+          "summary": "AI Studio 的安卓客户端还是没有上线💬0🔄0❤️3👀3523📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "45cb2435c37653582c194606abbfd977e3b2ff6f",
@@ -274,7 +296,7 @@
           "title": "AI Studio 昨晚更新主要有两个：\n\n1. 支持从 Google Docs 和 Google Sheets 里面拉数据。你可以把谷歌表格直接作为开发应用的数据库。\n\n2. 支持在网页里开发安卓应...",
           "url": "https://x.com/op7418/status/2056913908489937395",
           "published_at": "2026-05-20T01:44:26Z",
-          "summary": "AI Studio 昨晚更新主要有两个： 1. 支持从 Google Docs 和 Google Sheets 里面拉数据。你可以把谷歌表格直接作为开发应用的数据库。 2. 支持在网页里开发安卓应用程序。 我试了一下，这个 3.1 Pro 的安卓开发水平确实不如前端。 但更吊的是，它在 Studio 里塞了一个安卓模拟器，我去，太离谱了！💬14🔄1❤️31👀10221📊17⚡ Powered by xgo.ing"
+          "summary": "AI Studio 昨晚更新主要有两个： 1. 支持从 Google Docs 和 Google Sheets 里面拉数据。你可以把谷歌表格直接作为开发应用的数据库。 2. 支持在网页里开发安卓应用程序。 我试了一下，这个 3.1 Pro 的安卓开发水平确实不如前端。 但更吊的是，它在 Studio 里塞了一个安卓模拟器，我去，太离谱了！💬14🔄1❤️32👀11109📊17⚡ Powered by xgo.ing"
         },
         {
           "id": "a47baff6a524b23edfe1cd0702b6097f6969158e",
@@ -297,122 +319,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682452&idx=1&sn=3a6f09aece49beaa28df67be89496e04",
           "published_at": "2026-05-19T22:36:00Z",
           "summary": "量大管饱的一夜"
-        },
-        {
-          "id": "4391b63f596f41a0c9d05643122e638e6efffc78",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "测试：https://t.co/8emzSmKjuT",
-          "url": "https://x.com/op7418/status/2056767667110109290",
-          "published_at": "2026-05-19T16:03:19Z",
-          "summary": "测试：x.com/op7418/status/…歸藏(guizang.ai)@op7418谷歌 Gemini Omni Flash 视频编辑测试。 你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️3👀4357📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ca108894206ef1767a5b9e49d26772510383d3ec",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "忽略口音的话，这个表现也不是很自然。\n\n口音是因为我选了它内置的那个 Gemini TTS，所以才有这种英式口音",
-          "url": "https://x.com/op7418/status/2056766209698464020",
-          "published_at": "2026-05-19T15:57:31Z",
-          "summary": "忽略口音的话，这个表现也不是很自然。 口音是因为我选了它内置的那个 Gemini TTS，所以才有这种英式口音Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️3👀3382📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "2b6b00d1cd4b908f5c7a9e3dd05ebc7e6c950598",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这个分镜编排能力以及创作意识都不如 Sora 2，没有创作能力，只能编辑，做素材还行",
-          "url": "https://x.com/op7418/status/2056766073714909196",
-          "published_at": "2026-05-19T15:56:59Z",
-          "summary": "这个分镜编排能力以及创作意识都不如 Sora 2，没有创作能力，只能编辑，做素材还行Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️3👀3539📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "33e6eea87227f88f3bd613f1e1a60da970baefa7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "谷歌 Gemini Omni Flash 视频编辑测试。\n\n你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0",
-          "url": "https://x.com/op7418/status/2056764456311664786",
-          "published_at": "2026-05-19T15:50:33Z",
-          "summary": "谷歌 Gemini Omni Flash 视频编辑测试。 你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418哇！ 谷歌新视频模型 Gemini Omni Flash 已经上线 FLow🔗 View Quoted Tweet💬41🔄1❤️33👀22267📊30⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3522ff9fa38679fee08560e515ef0f998b18772f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "简单测了一下，别抱太大希望",
-          "url": "https://x.com/op7418/status/2056762153592574129",
-          "published_at": "2026-05-19T15:41:24Z",
-          "summary": "简单测了一下，别抱太大希望💬1🔄1❤️6👀3780📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a1d18f9a14bf127cf26e05a1a64a8c93dcfcf8f5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "还有 Flow 智能体模式，可以帮你构思概念和处理视频图像文件",
-          "url": "https://x.com/op7418/status/2056759377387040829",
-          "published_at": "2026-05-19T15:30:22Z",
-          "summary": "还有 Flow 智能体模式，可以帮你构思概念和处理视频图像文件💬0🔄0❤️1👀222⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "fda1b359b66a7b31a74424b7d6856c51fdb023f3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Flow 现在功能超级强大，还内置了一系列图像和视频处理工具",
-          "url": "https://x.com/op7418/status/2056759251658555508",
-          "published_at": "2026-05-19T15:29:52Z",
-          "summary": "Flow 现在功能超级强大，还内置了一系列图像和视频处理工具💬1🔄0❤️3👀258📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5c1780ae089b18cd4c49c6690ef0a5b91f06c025",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "哇！ 谷歌新视频模型 Gemini Omni Flash 已经上线 FLow",
-          "url": "https://x.com/op7418/status/2056758486755844494",
-          "published_at": "2026-05-19T15:26:50Z",
-          "summary": "哇！ 谷歌新视频模型 Gemini Omni Flash 已经上线 FLow💬34🔄0❤️56👀34333📊36⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5b903e2fd0aae99465c75e957589f77379e2216b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我去 Karpathy 居然加入了 Anthropic，这下估计没有教程看了，啥也不会说了，希望还能多分享",
-          "url": "https://x.com/op7418/status/2056754653380124925",
-          "published_at": "2026-05-19T15:11:36Z",
-          "summary": "我去 Karpathy 居然加入了 Anthropic，这下估计没有教程看了，啥也不会说了，希望还能多分享Andrej Karpathy@karpathyPersonal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&D. I remain deeply passi…"
-        },
-        {
-          "id": "6f6a1964f0207652e6f405bc43bcba21afb774be",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "谷歌新的视频模型 Gemini Omni 已经开始放量了",
-          "url": "https://x.com/op7418/status/2056753335261429823",
-          "published_at": "2026-05-19T15:06:22Z",
-          "summary": "谷歌新的视频模型 Gemini Omni 已经开始放量了Charlie L.@whylifeis4Gemini Omni is starting to rollout for some users!🔗 View Quoted Tweet💬7🔄0❤️17👀8836📊7⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 53,
+      "total_items": 51,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -420,6 +332,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "d18f3763d0c58a014eec2f1bc5223cade4e6c3b9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "We partnered with artists, designers, and builders to create new AI tools that solve real problems i...",
+          "url": "https://x.com/GoogleAI/status/2057128296538861943",
+          "published_at": "2026-05-20T15:56:20Z",
+          "summary": "We partnered with artists, designers, and builders to create new AI tools that solve real problems in their creative workflows. Here’s what’s new: — Introducing Google Pics in @GoogleWorkspace: A brand-new image creation & editing tool. Move and resize objects, add text, and tran…"
+        },
         {
           "id": "463798226f707fb5109da1e1611c925b7a1f90c8",
           "site_id": "featuredrss",
@@ -440,7 +363,7 @@
           "title": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers at https...",
           "url": "https://x.com/GeminiApp/status/2056871945300525379",
           "published_at": "2026-05-19T22:57:41Z",
-          "summary": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the mobile app. Try creating an avatar with Gemini Omni at gemini.google or in the mobile app and share your creations in the replies. 👇💬3🔄9❤️68👀14183📊13⚡ Powered b…"
+          "summary": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the mobile app. Try creating an avatar with Gemini Omni at gemini.google or in the mobile app and share your creations in the replies. 👇💬3🔄9❤️74👀15051📊14⚡ Powered b…"
         },
         {
           "id": "aeca6275cfb37b7877d66169974b3ad8b418e7f3",
@@ -462,7 +385,7 @@
           "title": "Create videos with your own voice and likeness using avatars with Gemini Omni.\n\nWhen you create an a...",
           "url": "https://x.com/GeminiApp/status/2056869837511545328",
           "published_at": "2026-05-19T22:49:18Z",
-          "summary": "Create videos with your own voice and likeness using avatars with Gemini Omni. When you create an avatar, you have an AI digital version of yourself so you can easily generate videos that look and sound like you. No need to upload your image every time.💬34🔄51❤️402👀376633📊95⚡ Powe…"
+          "summary": "Create videos with your own voice and likeness using avatars with Gemini Omni. When you create an avatar, you have an AI digital version of yourself so you can easily generate videos that look and sound like you. No need to upload your image every time.💬37🔄55❤️435👀400256📊104⚡ Pow…"
         },
         {
           "id": "87f216a2f0be64ddede12298ae97af8ae6ef6d4c",
@@ -495,7 +418,7 @@
           "title": "Listen to the OpenAI Podcast on—\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/0AdZ1ZteOV\nYouTu...",
           "url": "https://x.com/OpenAI/status/2056849160704503961",
           "published_at": "2026-05-19T21:27:08Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/ope… YouTube youtu.be/bH2nP-aCFjk💬11🔄11❤️76👀56392📊17⚡ Powered by xgo.ing"
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/ope… YouTube youtu.be/bH2nP-aCFjk💬12🔄11❤️84👀60704📊19⚡ Powered by xgo.ing"
         },
         {
           "id": "8fd5c36b9a40b25900224f24104a3c601e40c395",
@@ -506,7 +429,7 @@
           "title": "https://t.co/XDYi2WR3mg",
           "url": "https://x.com/GoogleAI/status/2056848415745769475",
           "published_at": "2026-05-19T21:24:11Z",
-          "summary": "x.com/ThisIsNickyS/s…Nicky Saunders 🏁🦁🏁@ThisIsNickySMy first attempt using Google’s new AI video model: Omni 😳Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️50👀23392📊5⚡ Powered by xgo.ing"
+          "summary": "x.com/ThisIsNickyS/s…Nicky Saunders 🏁🦁🏁@ThisIsNickySMy first attempt using Google’s new AI video model: Omni 😳Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️53👀24493📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "9c1cb4560a20b107a6f446dd9988838935a7db53",
@@ -528,7 +451,7 @@
           "title": "https://t.co/8YnysXRT7P",
           "url": "https://x.com/GoogleAI/status/2056847252279501275",
           "published_at": "2026-05-19T21:19:33Z",
-          "summary": "x.com/LexnLin/status…Leon Lin@LexnLincutting frames and perspectives using Gemini OmniYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️44👀16795📊5⚡ Powered by xgo.ing"
+          "summary": "x.com/LexnLin/status…Leon Lin@LexnLincutting frames and perspectives using Gemini OmniYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️48👀17731📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "ec391b37acb0b2f750d4f0a6a9f9ee4ae4adccb7",
@@ -561,7 +484,7 @@
           "title": "Gemini 3.5 Flash is rolling out to everyone at https://t.co/382WL5xSvc or in the app starting today,...",
           "url": "https://x.com/GeminiApp/status/2056829845091524764",
           "published_at": "2026-05-19T20:10:23Z",
-          "summary": "Gemini 3.5 Flash is rolling out to everyone at gemini.google or in the app starting today, free of charge. #GoogleIO💬3🔄11❤️96👀16127📊14⚡ Powered by xgo.ing"
+          "summary": "Gemini 3.5 Flash is rolling out to everyone at gemini.google or in the app starting today, free of charge. #GoogleIO💬3🔄11❤️102👀16733📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "5fa8c89ee37f472515f72a6e73c3e3f1dfd9377a",
@@ -572,7 +495,7 @@
           "title": "Build your first game with Gemini 3.5 Flash.\n\nTranslate everyday objects directly into interactive, ...",
           "url": "https://x.com/GeminiApp/status/2056829734181585038",
           "published_at": "2026-05-19T20:09:57Z",
-          "summary": "Build your first game with Gemini 3.5 Flash. Translate everyday objects directly into interactive, digital experiences without complex 3D modeling. Start with a Nano Banana prompt, turn your image into a game in Canvas, and refine your vision for optimal gameplay.💬22🔄50❤️494👀1677…"
+          "summary": "Build your first game with Gemini 3.5 Flash. Translate everyday objects directly into interactive, digital experiences without complex 3D modeling. Start with a Nano Banana prompt, turn your image into a game in Canvas, and refine your vision for optimal gameplay.💬25🔄56❤️532👀1809…"
         },
         {
           "id": "de66b6aa752885451d32afd4e53c270cfd786b35",
@@ -605,7 +528,7 @@
           "title": "https://t.co/HAOjjJGrCy",
           "url": "https://x.com/GoogleAI/status/2056829482993095143",
           "published_at": "2026-05-19T20:08:57Z",
-          "summary": "x.com/mrfanduuuuu/st…Fandu@mrfanduuuuuGemini Omni made me this video to explain photosynthesis👀 Google is wining hard 🔥 lingemini.google.com/share/cdba7ac4…kGYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄3❤️70👀27934📊8⚡ Powered by xgo.ing"
+          "summary": "x.com/mrfanduuuuu/st…Fandu@mrfanduuuuuGemini Omni made me this video to explain photosynthesis👀 Google is wining hard 🔥 lingemini.google.com/share/cdba7ac4…kGYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄4❤️73👀29218📊9⚡ Powered by xgo.ing"
         },
         {
           "id": "7e8e28976f8f231c9aa87f723bf96ca8b6481222",
@@ -627,7 +550,7 @@
           "title": "Some fun Gemini Omni use cases from the community👇🧵\n\n(We’ll keep updating this thread throughout t...",
           "url": "https://x.com/GoogleAI/status/2056829478652031224",
           "published_at": "2026-05-19T20:08:56Z",
-          "summary": "Some fun Gemini Omni use cases from the community👇🧵 (We’ll keep updating this thread throughout the day)💬30🔄56❤️916👀148795📊198⚡ Powered by xgo.ing"
+          "summary": "Some fun Gemini Omni use cases from the community👇🧵 (We’ll keep updating this thread throughout the day)💬31🔄62❤️972👀159114📊209⚡ Powered by xgo.ing"
         },
         {
           "id": "91d84984c081223f955e4bd11ac92275cc90468d",
@@ -638,7 +561,7 @@
           "title": "https://t.co/dhAaJ7mu5W",
           "url": "https://x.com/GoogleAI/status/2056829479696400608",
           "published_at": "2026-05-19T20:08:56Z",
-          "summary": "x.com/chrisfirst/sta…CHRIS FIRST@chrisfirstGoogle Omni Flash is able to edit videos accurately without distorting your video. > Make everyone in this shot flamingos. Wearing the same outfit.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄9❤️147👀…"
+          "summary": "x.com/chrisfirst/sta…CHRIS FIRST@chrisfirstGoogle Omni Flash is able to edit videos accurately without distorting your video. > Make everyone in this shot flamingos. Wearing the same outfit.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄9❤️151👀…"
         },
         {
           "id": "ac2e142c417f7fa7afc9e8e39ec07d576572bd6b",
@@ -682,7 +605,7 @@
           "title": "Google AI Plus, Pro, and Ultra subscribers can Gemini Omni Flash today on the @geminiapp, @GoogleFlo...",
           "url": "https://x.com/GoogleAI/status/2056816659084759344",
           "published_at": "2026-05-19T19:17:59Z",
-          "summary": "Google AI Plus, Pro, and Ultra subscribers can Gemini Omni Flash today on the @geminiapp, @GoogleFlow, @GoogleFlowMusic, and for no cost on @Youtube Shorts and the YouTube Create app.Your browser does not support the video tag.🔗 View on Twitter💬5🔄10❤️162👀17989📊25⚡ Powered by xgo.…"
+          "summary": "Google AI Plus, Pro, and Ultra subscribers can Gemini Omni Flash today on the @geminiapp, @GoogleFlow, @GoogleFlowMusic, and for no cost on @Youtube Shorts and the YouTube Create app.Your browser does not support the video tag.🔗 View on Twitter💬6🔄10❤️170👀19225📊27⚡ Powered by xgo.…"
         },
         {
           "id": "8a2e604d53688598edd35598826c6badd2fccbd4",
@@ -704,7 +627,7 @@
           "title": "By now, you've probably heard about Gemini Omni, our new model designed to create anything from any ...",
           "url": "https://x.com/GoogleAI/status/2056816653770625406",
           "published_at": "2026-05-19T19:17:58Z",
-          "summary": "By now, you've probably heard about Gemini Omni, our new model designed to create anything from any input, starting with video. But... what's the big deal? Let’s break it down 🧵👇Your browser does not support the video tag.🔗 View on Twitter💬65🔄207❤️2032👀168577📊380⚡ Powered by xgo.…"
+          "summary": "By now, you've probably heard about Gemini Omni, our new model designed to create anything from any input, starting with video. But... what's the big deal? Let’s break it down 🧵👇Your browser does not support the video tag.🔗 View on Twitter💬69🔄227❤️2212👀184021📊412⚡ Powered by xgo.…"
         },
         {
           "id": "6b928a0369fcb6c6689d2197a278c6c1bc5d72c3",
@@ -715,7 +638,7 @@
           "title": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers globally...",
           "url": "https://x.com/GeminiApp/status/2056814117047132301",
           "published_at": "2026-05-19T19:07:53Z",
-          "summary": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers globally at gemini.google and in the app. Soon, we will support more output formats, like image and audio. Give Gemini Omni a try and share your creations in the replies. 👇💬4🔄14❤️110👀17488…"
+          "summary": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers globally at gemini.google and in the app. Soon, we will support more output formats, like image and audio. Give Gemini Omni a try and share your creations in the replies. 👇💬4🔄14❤️112👀17927…"
         },
         {
           "id": "ecf34c9f446e47f591f1f90928a77989eab7f0ea",
@@ -726,7 +649,7 @@
           "title": "Meet Gemini Omni, our new model that can create anything from any input, starting with video.\n\nWith ...",
           "url": "https://x.com/GeminiApp/status/2056814052039356806",
           "published_at": "2026-05-19T19:07:38Z",
-          "summary": "Meet Gemini Omni, our new model that can create anything from any input, starting with video. With Gemini Omni, you can combine images, videos and text as inputs and generate high-quality videos grounded in Gemini's real-world knowledge. #GoogleIO💬33🔄50❤️384👀66435📊91⚡ Powered by…"
+          "summary": "Meet Gemini Omni, our new model that can create anything from any input, starting with video. With Gemini Omni, you can combine images, videos and text as inputs and generate high-quality videos grounded in Gemini's real-world knowledge. #GoogleIO💬34🔄53❤️393👀70748📊94⚡ Powered by…"
         },
         {
           "id": "9e7068d445c512c1853c3f08d19a8eec4c96742b",
@@ -792,7 +715,7 @@
           "title": "Last month we dropped the Gemini app for macOS.\n\nIn the coming weeks, we’ll be bringing Gemini Spark...",
           "url": "https://x.com/GeminiApp/status/2056802363269329304",
           "published_at": "2026-05-19T18:21:11Z",
-          "summary": "Last month we dropped the Gemini app for macOS. In the coming weeks, we’ll be bringing Gemini Spark to the Gemini desktop app so it can help with tasks like organizing your local files, or extracting PDF data directly into Google Sheets. #GoogleIO💬40🔄107❤️1283👀97702📊199⚡ Powered…"
+          "summary": "Last month we dropped the Gemini app for macOS. In the coming weeks, we’ll be bringing Gemini Spark to the Gemini desktop app so it can help with tasks like organizing your local files, or extracting PDF data directly into Google Sheets. #GoogleIO💬41🔄114❤️1351👀101341📊208⚡ Powered…"
         },
         {
           "id": "ccc269de83c30aaf57091a9518d07ab2ce96e393",
@@ -836,7 +759,7 @@
           "title": "Daily Brief is a new personalized digest that’s designed to be your first stop every morning.\n\nIt ga...",
           "url": "https://x.com/GeminiApp/status/2056800978343764238",
           "published_at": "2026-05-19T18:15:41Z",
-          "summary": "Daily Brief is a new personalized digest that’s designed to be your first stop every morning. It gathers info from your inbox, calendar, and tasks to prioritize, organize, and suggest the next steps for you in a super concise morning digest that's built for skimming. #GoogleIO💬17…"
+          "summary": "Daily Brief is a new personalized digest that’s designed to be your first stop every morning. It gathers info from your inbox, calendar, and tasks to prioritize, organize, and suggest the next steps for you in a super concise morning digest that's built for skimming. #GoogleIO💬18…"
         },
         {
           "id": "c4f8eedf10c31e9622bb9ebfc5bc13a8a61d7c54",
@@ -968,45 +891,45 @@
           "title": "Gemini 3.5 Flash is here and it's our best model yet for getting things done quickly and efficiently...",
           "url": "https://x.com/GeminiApp/status/2056788115893993701",
           "published_at": "2026-05-19T17:24:34Z",
-          "summary": "Gemini 3.5 Flash is here and it's our best model yet for getting things done quickly and efficiently. Whether you need help with everyday tasks or multi-step creative projects, Gemini 3.5 Flash navigates real-world complexity to help you take action. #GoogleIO💬46🔄129❤️1023👀300203…"
-        },
-        {
-          "id": "34e25e4391730de4d0182764825e2760968ae344",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "It’s time for #GoogleIO! Join us virtually.\n\n10:00AM - Consumer Keynote\n1:30PM -  Developer Keynote\n...",
-          "url": "https://x.com/GoogleAI/status/2056767575397462426",
-          "published_at": "2026-05-19T16:02:57Z",
-          "summary": "It’s time for #GoogleIO! Join us virtually. 10:00AM - Consumer Keynote 1:30PM - Developer Keynote (Times in PT) x.com/i/events/20532…💬23🔄33❤️181👀21994📊41⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f1c7d776bd08c9d9891584c44f5be55d8846be78",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "It’s #GoogleIO Day One. Who’s ready to see what’s coming to Gemini?\n\nLivestream starts here at 10am ...",
-          "url": "https://x.com/GeminiApp/status/2056766867109515551",
-          "published_at": "2026-05-19T16:00:08Z",
-          "summary": "It’s #GoogleIO Day One. Who’s ready to see what’s coming to Gemini? Livestream starts here at 10am PT: x.com/i/events/20532…💬38🔄102❤️675👀48324📊127⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a03231f62541653d4dbf438afdcb626943917dd2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic News",
-          "region": "global",
-          "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-          "url": "https://www.anthropic.com/news/anthropic-kpmg",
-          "published_at": "2026-05-19T16:00:00Z",
-          "summary": "KPMG—one of the world's largest professional services firms for audit, tax, legal and advisory services across 138 countries and territories—has announced a global alliance with Anthropic to bring Claude into the heart of its business. As part of this alliance, KPMG is embedding…"
+          "summary": "Gemini 3.5 Flash is here and it's our best model yet for getting things done quickly and efficiently. Whether you need help with everyday tasks or multi-step creative projects, Gemini 3.5 Flash navigates real-world complexity to help you take action. #GoogleIO💬52🔄144❤️1112👀451705…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "d18f3763d0c58a014eec2f1bc5223cade4e6c3b9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "We partnered with artists, designers, and builders to create new AI tools that solve real problems i...",
+      "url": "https://x.com/GoogleAI/status/2057128296538861943",
+      "published_at": "2026-05-20T15:56:20Z",
+      "summary": "We partnered with artists, designers, and builders to create new AI tools that solve real problems in their creative workflows. Here’s what’s new: — Introducing Google Pics in @GoogleWorkspace: A brand-new image creation & editing tool. Move and resize objects, add text, and tran…"
+    },
+    {
+      "id": "2677becdc3af1fbc8fff0b8780bbbf516fee445b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "用了几天 Mac 版豆包输入法，已经离不开了。\n\n准确性、中英文混合输入、专业名词的识别，响应速度，都是市面上最顶的。\n\n我现在手机上已经离不开豆包输入法了，一直在等待桌面端上线。前几天发现 MacO...",
+      "url": "https://x.com/op7418/status/2057123946039058618",
+      "published_at": "2026-05-20T15:39:02Z",
+      "summary": "用了几天 Mac 版豆包输入法，已经离不开了。 准确性、中英文混合输入、专业名词的识别，响应速度，都是市面上最顶的。 我现在手机上已经离不开豆包输入法了，一直在等待桌面端上线。前几天发现 MacOS 版终于来了，赶紧下载试了一下。 我觉得表现最好的就是多语言混合输入。 我日常会涉及到非常多中英文混合输入的场景，因为我们这个行业很多词没有翻译，比如说 Claude Code、AntiGravity、Perplexity，这种词和中文混合的时候，就非常难以去润色和识别。 豆包在这方面处理得巨好。 之前我用其他语音输入法，它主要有两个问题： 首先是过度优化：…"
+    },
+    {
+      "id": "eb4b3d4cef395e2295ec33c678ffff21a230cba3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "终于找到了这种墨水屏硬件最适合的场景：\n\n开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息\n\n把它挂在屏幕边上（用磁吸）\n\n关机的时候，利用墨水屏的特性让它显示名片，这样大...",
+      "url": "https://x.com/op7418/status/2057115669100216826",
+      "published_at": "2026-05-20T15:06:09Z",
+      "summary": "终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候可以玩玩。💬5🔄2❤️19👀3349📊8⚡ Powered by xgo.ing"
+    },
     {
       "id": "ad669ecae6a5bb7b25c3e9b6c57a740743e52e44",
       "site_id": "featuredrss",
@@ -1027,7 +950,7 @@
       "title": "天天玩 AI，去央美毕业展看点古法绘画",
       "url": "https://x.com/op7418/status/2057026266818105370",
       "published_at": "2026-05-20T09:10:54Z",
-      "summary": "天天玩 AI，去央美毕业展看点古法绘画💬15🔄0❤️9👀3759📊13⚡ Powered by xgo.ing"
+      "summary": "天天玩 AI，去央美毕业展看点古法绘画💬24🔄0❤️14👀6117📊21⚡ Powered by xgo.ing"
     },
     {
       "id": "add295d5632013f1a19650eab62898d28ac80430",
@@ -1038,7 +961,7 @@
       "title": "虽然没能去到谷歌 I/O 大会的现场，但是收到了谷歌这次大会的伴手礼，感谢谷歌和微博 \n\n谷歌还是工程师文化重啊，送的这个伴手礼里边的小东西每个都很实用，数据线、支架之类的，感觉都能用上",
       "url": "https://x.com/op7418/status/2056958833474646253",
       "published_at": "2026-05-20T04:42:57Z",
-      "summary": "虽然没能去到谷歌 I/O 大会的现场，但是收到了谷歌这次大会的伴手礼，感谢谷歌和微博 谷歌还是工程师文化重啊，送的这个伴手礼里边的小东西每个都很实用，数据线、支架之类的，感觉都能用上💬27🔄1❤️89👀11043📊30⚡ Powered by xgo.ing"
+      "summary": "虽然没能去到谷歌 I/O 大会的现场，但是收到了谷歌这次大会的伴手礼，感谢谷歌和微博 谷歌还是工程师文化重啊，送的这个伴手礼里边的小东西每个都很实用，数据线、支架之类的，感觉都能用上💬34🔄1❤️99👀13517📊37⚡ Powered by xgo.ing"
     },
     {
       "id": "3dc0f275c95877ffb4d95029a3741dd0ae297246",
@@ -1049,7 +972,7 @@
       "title": "Codex 不语，只是一味重置额度",
       "url": "https://x.com/op7418/status/2056943517658911013",
       "published_at": "2026-05-20T03:42:05Z",
-      "summary": "Codex 不语，只是一味重置额度💬60🔄3❤️93👀23783📊59⚡ Powered by xgo.ing"
+      "summary": "Codex 不语，只是一味重置额度💬66🔄3❤️98👀27028📊64⚡ Powered by xgo.ing"
     },
     {
       "id": "0479175ff12c95ca1d63948151cfafa37fe0b37f",
@@ -1060,7 +983,7 @@
       "title": "谷歌 Genie 3 这个新功能很有意思\n\n可以选择美国谷歌街景的任何一个地点作为首帧图片，然后生成 Google Genie 3 可互动的世界。\n\n比如非常知名的黄石公园啊，城市之类的地方，然后你就...",
       "url": "https://x.com/op7418/status/2056931266038239274",
       "published_at": "2026-05-20T02:53:24Z",
-      "summary": "谷歌 Genie 3 这个新功能很有意思 可以选择美国谷歌街景的任何一个地点作为首帧图片，然后生成 Google Genie 3 可互动的世界。 比如非常知名的黄石公园啊，城市之类的地方，然后你就可以进去游览了，代入感很强 而且你可以对这个街景的内容做风格化，比如：变成海底世界、末日后的世界之类的Your browser does not support the video tag.🔗 View on Twitter💬14🔄4❤️47👀8423📊21⚡ Powered by xgo.ing"
+      "summary": "谷歌 Genie 3 这个新功能很有意思 可以选择美国谷歌街景的任何一个地点作为首帧图片，然后生成 Google Genie 3 可互动的世界。 比如非常知名的黄石公园啊，城市之类的地方，然后你就可以进去游览了，代入感很强 而且你可以对这个街景的内容做风格化，比如：变成海底世界、末日后的世界之类的Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️54👀10168📊24⚡ Powered by xgo.ing"
     },
     {
       "id": "d243108ebde83252ff8b69334af76ef0794bcc4a",
@@ -1082,7 +1005,7 @@
       "title": "AI Studio 的安卓客户端还是没有上线",
       "url": "https://x.com/op7418/status/2056914890481357138",
       "published_at": "2026-05-20T01:48:20Z",
-      "summary": "AI Studio 的安卓客户端还是没有上线💬0🔄0❤️3👀3276📊1⚡ Powered by xgo.ing"
+      "summary": "AI Studio 的安卓客户端还是没有上线💬0🔄0❤️3👀3523📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "45cb2435c37653582c194606abbfd977e3b2ff6f",
@@ -1093,7 +1016,7 @@
       "title": "AI Studio 昨晚更新主要有两个：\n\n1. 支持从 Google Docs 和 Google Sheets 里面拉数据。你可以把谷歌表格直接作为开发应用的数据库。\n\n2. 支持在网页里开发安卓应...",
       "url": "https://x.com/op7418/status/2056913908489937395",
       "published_at": "2026-05-20T01:44:26Z",
-      "summary": "AI Studio 昨晚更新主要有两个： 1. 支持从 Google Docs 和 Google Sheets 里面拉数据。你可以把谷歌表格直接作为开发应用的数据库。 2. 支持在网页里开发安卓应用程序。 我试了一下，这个 3.1 Pro 的安卓开发水平确实不如前端。 但更吊的是，它在 Studio 里塞了一个安卓模拟器，我去，太离谱了！💬14🔄1❤️31👀10221📊17⚡ Powered by xgo.ing"
+      "summary": "AI Studio 昨晚更新主要有两个： 1. 支持从 Google Docs 和 Google Sheets 里面拉数据。你可以把谷歌表格直接作为开发应用的数据库。 2. 支持在网页里开发安卓应用程序。 我试了一下，这个 3.1 Pro 的安卓开发水平确实不如前端。 但更吊的是，它在 Studio 里塞了一个安卓模拟器，我去，太离谱了！💬14🔄1❤️32👀11109📊17⚡ Powered by xgo.ing"
     },
     {
       "id": "a47baff6a524b23edfe1cd0702b6097f6969158e",
@@ -1126,7 +1049,7 @@
       "title": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers at https...",
       "url": "https://x.com/GeminiApp/status/2056871945300525379",
       "published_at": "2026-05-19T22:57:41Z",
-      "summary": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the mobile app. Try creating an avatar with Gemini Omni at gemini.google or in the mobile app and share your creations in the replies. 👇💬3🔄9❤️68👀14183📊13⚡ Powered b…"
+      "summary": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the mobile app. Try creating an avatar with Gemini Omni at gemini.google or in the mobile app and share your creations in the replies. 👇💬3🔄9❤️74👀15051📊14⚡ Powered b…"
     },
     {
       "id": "aeca6275cfb37b7877d66169974b3ad8b418e7f3",
@@ -1148,7 +1071,7 @@
       "title": "Create videos with your own voice and likeness using avatars with Gemini Omni.\n\nWhen you create an a...",
       "url": "https://x.com/GeminiApp/status/2056869837511545328",
       "published_at": "2026-05-19T22:49:18Z",
-      "summary": "Create videos with your own voice and likeness using avatars with Gemini Omni. When you create an avatar, you have an AI digital version of yourself so you can easily generate videos that look and sound like you. No need to upload your image every time.💬34🔄51❤️402👀376633📊95⚡ Powe…"
+      "summary": "Create videos with your own voice and likeness using avatars with Gemini Omni. When you create an avatar, you have an AI digital version of yourself so you can easily generate videos that look and sound like you. No need to upload your image every time.💬37🔄55❤️435👀400256📊104⚡ Pow…"
     },
     {
       "id": "8fc85efb4c273cdd1a1109f18dcd221a1e34f343",
@@ -1192,7 +1115,7 @@
       "title": "Listen to the OpenAI Podcast on—\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/0AdZ1ZteOV\nYouTu...",
       "url": "https://x.com/OpenAI/status/2056849160704503961",
       "published_at": "2026-05-19T21:27:08Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/ope… YouTube youtu.be/bH2nP-aCFjk💬11🔄11❤️76👀56392📊17⚡ Powered by xgo.ing"
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/ope… YouTube youtu.be/bH2nP-aCFjk💬12🔄11❤️84👀60704📊19⚡ Powered by xgo.ing"
     },
     {
       "id": "8fd5c36b9a40b25900224f24104a3c601e40c395",
@@ -1203,7 +1126,7 @@
       "title": "https://t.co/XDYi2WR3mg",
       "url": "https://x.com/GoogleAI/status/2056848415745769475",
       "published_at": "2026-05-19T21:24:11Z",
-      "summary": "x.com/ThisIsNickyS/s…Nicky Saunders 🏁🦁🏁@ThisIsNickySMy first attempt using Google’s new AI video model: Omni 😳Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️50👀23392📊5⚡ Powered by xgo.ing"
+      "summary": "x.com/ThisIsNickyS/s…Nicky Saunders 🏁🦁🏁@ThisIsNickySMy first attempt using Google’s new AI video model: Omni 😳Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️53👀24493📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "9c1cb4560a20b107a6f446dd9988838935a7db53",
@@ -1225,7 +1148,7 @@
       "title": "https://t.co/8YnysXRT7P",
       "url": "https://x.com/GoogleAI/status/2056847252279501275",
       "published_at": "2026-05-19T21:19:33Z",
-      "summary": "x.com/LexnLin/status…Leon Lin@LexnLincutting frames and perspectives using Gemini OmniYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️44👀16795📊5⚡ Powered by xgo.ing"
+      "summary": "x.com/LexnLin/status…Leon Lin@LexnLincutting frames and perspectives using Gemini OmniYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️48👀17731📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "ec391b37acb0b2f750d4f0a6a9f9ee4ae4adccb7",
@@ -1258,7 +1181,7 @@
       "title": "Gemini 3.5 Flash is rolling out to everyone at https://t.co/382WL5xSvc or in the app starting today,...",
       "url": "https://x.com/GeminiApp/status/2056829845091524764",
       "published_at": "2026-05-19T20:10:23Z",
-      "summary": "Gemini 3.5 Flash is rolling out to everyone at gemini.google or in the app starting today, free of charge. #GoogleIO💬3🔄11❤️96👀16127📊14⚡ Powered by xgo.ing"
+      "summary": "Gemini 3.5 Flash is rolling out to everyone at gemini.google or in the app starting today, free of charge. #GoogleIO💬3🔄11❤️102👀16733📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "5fa8c89ee37f472515f72a6e73c3e3f1dfd9377a",
@@ -1269,7 +1192,7 @@
       "title": "Build your first game with Gemini 3.5 Flash.\n\nTranslate everyday objects directly into interactive, ...",
       "url": "https://x.com/GeminiApp/status/2056829734181585038",
       "published_at": "2026-05-19T20:09:57Z",
-      "summary": "Build your first game with Gemini 3.5 Flash. Translate everyday objects directly into interactive, digital experiences without complex 3D modeling. Start with a Nano Banana prompt, turn your image into a game in Canvas, and refine your vision for optimal gameplay.💬22🔄50❤️494👀1677…"
+      "summary": "Build your first game with Gemini 3.5 Flash. Translate everyday objects directly into interactive, digital experiences without complex 3D modeling. Start with a Nano Banana prompt, turn your image into a game in Canvas, and refine your vision for optimal gameplay.💬25🔄56❤️532👀1809…"
     },
     {
       "id": "de66b6aa752885451d32afd4e53c270cfd786b35",
@@ -1302,7 +1225,7 @@
       "title": "https://t.co/HAOjjJGrCy",
       "url": "https://x.com/GoogleAI/status/2056829482993095143",
       "published_at": "2026-05-19T20:08:57Z",
-      "summary": "x.com/mrfanduuuuu/st…Fandu@mrfanduuuuuGemini Omni made me this video to explain photosynthesis👀 Google is wining hard 🔥 lingemini.google.com/share/cdba7ac4…kGYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄3❤️70👀27934📊8⚡ Powered by xgo.ing"
+      "summary": "x.com/mrfanduuuuu/st…Fandu@mrfanduuuuuGemini Omni made me this video to explain photosynthesis👀 Google is wining hard 🔥 lingemini.google.com/share/cdba7ac4…kGYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄4❤️73👀29218📊9⚡ Powered by xgo.ing"
     },
     {
       "id": "7e8e28976f8f231c9aa87f723bf96ca8b6481222",
@@ -1324,7 +1247,7 @@
       "title": "Some fun Gemini Omni use cases from the community👇🧵\n\n(We’ll keep updating this thread throughout t...",
       "url": "https://x.com/GoogleAI/status/2056829478652031224",
       "published_at": "2026-05-19T20:08:56Z",
-      "summary": "Some fun Gemini Omni use cases from the community👇🧵 (We’ll keep updating this thread throughout the day)💬30🔄56❤️916👀148795📊198⚡ Powered by xgo.ing"
+      "summary": "Some fun Gemini Omni use cases from the community👇🧵 (We’ll keep updating this thread throughout the day)💬31🔄62❤️972👀159114📊209⚡ Powered by xgo.ing"
     },
     {
       "id": "91d84984c081223f955e4bd11ac92275cc90468d",
@@ -1335,7 +1258,7 @@
       "title": "https://t.co/dhAaJ7mu5W",
       "url": "https://x.com/GoogleAI/status/2056829479696400608",
       "published_at": "2026-05-19T20:08:56Z",
-      "summary": "x.com/chrisfirst/sta…CHRIS FIRST@chrisfirstGoogle Omni Flash is able to edit videos accurately without distorting your video. > Make everyone in this shot flamingos. Wearing the same outfit.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄9❤️147👀…"
+      "summary": "x.com/chrisfirst/sta…CHRIS FIRST@chrisfirstGoogle Omni Flash is able to edit videos accurately without distorting your video. > Make everyone in this shot flamingos. Wearing the same outfit.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄9❤️151👀…"
     },
     {
       "id": "ac2e142c417f7fa7afc9e8e39ec07d576572bd6b",
@@ -1379,7 +1302,7 @@
       "title": "Google AI Plus, Pro, and Ultra subscribers can Gemini Omni Flash today on the @geminiapp, @GoogleFlo...",
       "url": "https://x.com/GoogleAI/status/2056816659084759344",
       "published_at": "2026-05-19T19:17:59Z",
-      "summary": "Google AI Plus, Pro, and Ultra subscribers can Gemini Omni Flash today on the @geminiapp, @GoogleFlow, @GoogleFlowMusic, and for no cost on @Youtube Shorts and the YouTube Create app.Your browser does not support the video tag.🔗 View on Twitter💬5🔄10❤️162👀17989📊25⚡ Powered by xgo.…"
+      "summary": "Google AI Plus, Pro, and Ultra subscribers can Gemini Omni Flash today on the @geminiapp, @GoogleFlow, @GoogleFlowMusic, and for no cost on @Youtube Shorts and the YouTube Create app.Your browser does not support the video tag.🔗 View on Twitter💬6🔄10❤️170👀19225📊27⚡ Powered by xgo.…"
     },
     {
       "id": "8a2e604d53688598edd35598826c6badd2fccbd4",
@@ -1401,7 +1324,7 @@
       "title": "By now, you've probably heard about Gemini Omni, our new model designed to create anything from any ...",
       "url": "https://x.com/GoogleAI/status/2056816653770625406",
       "published_at": "2026-05-19T19:17:58Z",
-      "summary": "By now, you've probably heard about Gemini Omni, our new model designed to create anything from any input, starting with video. But... what's the big deal? Let’s break it down 🧵👇Your browser does not support the video tag.🔗 View on Twitter💬65🔄207❤️2032👀168577📊380⚡ Powered by xgo.…"
+      "summary": "By now, you've probably heard about Gemini Omni, our new model designed to create anything from any input, starting with video. But... what's the big deal? Let’s break it down 🧵👇Your browser does not support the video tag.🔗 View on Twitter💬69🔄227❤️2212👀184021📊412⚡ Powered by xgo.…"
     },
     {
       "id": "6b928a0369fcb6c6689d2197a278c6c1bc5d72c3",
@@ -1412,7 +1335,7 @@
       "title": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers globally...",
       "url": "https://x.com/GeminiApp/status/2056814117047132301",
       "published_at": "2026-05-19T19:07:53Z",
-      "summary": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers globally at gemini.google and in the app. Soon, we will support more output formats, like image and audio. Give Gemini Omni a try and share your creations in the replies. 👇💬4🔄14❤️110👀17488…"
+      "summary": "Starting today, Gemini Omni is rolling out to all Google AI Plus, Pro and Ultra subscribers globally at gemini.google and in the app. Soon, we will support more output formats, like image and audio. Give Gemini Omni a try and share your creations in the replies. 👇💬4🔄14❤️112👀17927…"
     },
     {
       "id": "ecf34c9f446e47f591f1f90928a77989eab7f0ea",
@@ -1423,7 +1346,7 @@
       "title": "Meet Gemini Omni, our new model that can create anything from any input, starting with video.\n\nWith ...",
       "url": "https://x.com/GeminiApp/status/2056814052039356806",
       "published_at": "2026-05-19T19:07:38Z",
-      "summary": "Meet Gemini Omni, our new model that can create anything from any input, starting with video. With Gemini Omni, you can combine images, videos and text as inputs and generate high-quality videos grounded in Gemini's real-world knowledge. #GoogleIO💬33🔄50❤️384👀66435📊91⚡ Powered by…"
+      "summary": "Meet Gemini Omni, our new model that can create anything from any input, starting with video. With Gemini Omni, you can combine images, videos and text as inputs and generate high-quality videos grounded in Gemini's real-world knowledge. #GoogleIO💬34🔄53❤️393👀70748📊94⚡ Powered by…"
     },
     {
       "id": "9e7068d445c512c1853c3f08d19a8eec4c96742b",
@@ -1489,7 +1412,7 @@
       "title": "Last month we dropped the Gemini app for macOS.\n\nIn the coming weeks, we’ll be bringing Gemini Spark...",
       "url": "https://x.com/GeminiApp/status/2056802363269329304",
       "published_at": "2026-05-19T18:21:11Z",
-      "summary": "Last month we dropped the Gemini app for macOS. In the coming weeks, we’ll be bringing Gemini Spark to the Gemini desktop app so it can help with tasks like organizing your local files, or extracting PDF data directly into Google Sheets. #GoogleIO💬40🔄107❤️1283👀97702📊199⚡ Powered…"
+      "summary": "Last month we dropped the Gemini app for macOS. In the coming weeks, we’ll be bringing Gemini Spark to the Gemini desktop app so it can help with tasks like organizing your local files, or extracting PDF data directly into Google Sheets. #GoogleIO💬41🔄114❤️1351👀101341📊208⚡ Powered…"
     },
     {
       "id": "ccc269de83c30aaf57091a9518d07ab2ce96e393",
@@ -1533,7 +1456,7 @@
       "title": "Daily Brief is a new personalized digest that’s designed to be your first stop every morning.\n\nIt ga...",
       "url": "https://x.com/GeminiApp/status/2056800978343764238",
       "published_at": "2026-05-19T18:15:41Z",
-      "summary": "Daily Brief is a new personalized digest that’s designed to be your first stop every morning. It gathers info from your inbox, calendar, and tasks to prioritize, organize, and suggest the next steps for you in a super concise morning digest that's built for skimming. #GoogleIO💬17…"
+      "summary": "Daily Brief is a new personalized digest that’s designed to be your first stop every morning. It gathers info from your inbox, calendar, and tasks to prioritize, organize, and suggest the next steps for you in a super concise morning digest that's built for skimming. #GoogleIO💬18…"
     },
     {
       "id": "c4f8eedf10c31e9622bb9ebfc5bc13a8a61d7c54",
@@ -1665,150 +1588,7 @@
       "title": "Gemini 3.5 Flash is here and it's our best model yet for getting things done quickly and efficiently...",
       "url": "https://x.com/GeminiApp/status/2056788115893993701",
       "published_at": "2026-05-19T17:24:34Z",
-      "summary": "Gemini 3.5 Flash is here and it's our best model yet for getting things done quickly and efficiently. Whether you need help with everyday tasks or multi-step creative projects, Gemini 3.5 Flash navigates real-world complexity to help you take action. #GoogleIO💬46🔄129❤️1023👀300203…"
-    },
-    {
-      "id": "4391b63f596f41a0c9d05643122e638e6efffc78",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "测试：https://t.co/8emzSmKjuT",
-      "url": "https://x.com/op7418/status/2056767667110109290",
-      "published_at": "2026-05-19T16:03:19Z",
-      "summary": "测试：x.com/op7418/status/…歸藏(guizang.ai)@op7418谷歌 Gemini Omni Flash 视频编辑测试。 你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️3👀4357📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "34e25e4391730de4d0182764825e2760968ae344",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "It’s time for #GoogleIO! Join us virtually.\n\n10:00AM - Consumer Keynote\n1:30PM -  Developer Keynote\n...",
-      "url": "https://x.com/GoogleAI/status/2056767575397462426",
-      "published_at": "2026-05-19T16:02:57Z",
-      "summary": "It’s time for #GoogleIO! Join us virtually. 10:00AM - Consumer Keynote 1:30PM - Developer Keynote (Times in PT) x.com/i/events/20532…💬23🔄33❤️181👀21994📊41⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f1c7d776bd08c9d9891584c44f5be55d8846be78",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "It’s #GoogleIO Day One. Who’s ready to see what’s coming to Gemini?\n\nLivestream starts here at 10am ...",
-      "url": "https://x.com/GeminiApp/status/2056766867109515551",
-      "published_at": "2026-05-19T16:00:08Z",
-      "summary": "It’s #GoogleIO Day One. Who’s ready to see what’s coming to Gemini? Livestream starts here at 10am PT: x.com/i/events/20532…💬38🔄102❤️675👀48324📊127⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a03231f62541653d4dbf438afdcb626943917dd2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic News",
-      "region": "global",
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "url": "https://www.anthropic.com/news/anthropic-kpmg",
-      "published_at": "2026-05-19T16:00:00Z",
-      "summary": "KPMG—one of the world's largest professional services firms for audit, tax, legal and advisory services across 138 countries and territories—has announced a global alliance with Anthropic to bring Claude into the heart of its business. As part of this alliance, KPMG is embedding…"
-    },
-    {
-      "id": "ca108894206ef1767a5b9e49d26772510383d3ec",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "忽略口音的话，这个表现也不是很自然。\n\n口音是因为我选了它内置的那个 Gemini TTS，所以才有这种英式口音",
-      "url": "https://x.com/op7418/status/2056766209698464020",
-      "published_at": "2026-05-19T15:57:31Z",
-      "summary": "忽略口音的话，这个表现也不是很自然。 口音是因为我选了它内置的那个 Gemini TTS，所以才有这种英式口音Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️3👀3382📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2b6b00d1cd4b908f5c7a9e3dd05ebc7e6c950598",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这个分镜编排能力以及创作意识都不如 Sora 2，没有创作能力，只能编辑，做素材还行",
-      "url": "https://x.com/op7418/status/2056766073714909196",
-      "published_at": "2026-05-19T15:56:59Z",
-      "summary": "这个分镜编排能力以及创作意识都不如 Sora 2，没有创作能力，只能编辑，做素材还行Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️3👀3539📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "33e6eea87227f88f3bd613f1e1a60da970baefa7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "谷歌 Gemini Omni Flash 视频编辑测试。\n\n你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0",
-      "url": "https://x.com/op7418/status/2056764456311664786",
-      "published_at": "2026-05-19T15:50:33Z",
-      "summary": "谷歌 Gemini Omni Flash 视频编辑测试。 你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418哇！ 谷歌新视频模型 Gemini Omni Flash 已经上线 FLow🔗 View Quoted Tweet💬41🔄1❤️33👀22267📊30⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3522ff9fa38679fee08560e515ef0f998b18772f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "简单测了一下，别抱太大希望",
-      "url": "https://x.com/op7418/status/2056762153592574129",
-      "published_at": "2026-05-19T15:41:24Z",
-      "summary": "简单测了一下，别抱太大希望💬1🔄1❤️6👀3780📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a1d18f9a14bf127cf26e05a1a64a8c93dcfcf8f5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "还有 Flow 智能体模式，可以帮你构思概念和处理视频图像文件",
-      "url": "https://x.com/op7418/status/2056759377387040829",
-      "published_at": "2026-05-19T15:30:22Z",
-      "summary": "还有 Flow 智能体模式，可以帮你构思概念和处理视频图像文件💬0🔄0❤️1👀222⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "fda1b359b66a7b31a74424b7d6856c51fdb023f3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Flow 现在功能超级强大，还内置了一系列图像和视频处理工具",
-      "url": "https://x.com/op7418/status/2056759251658555508",
-      "published_at": "2026-05-19T15:29:52Z",
-      "summary": "Flow 现在功能超级强大，还内置了一系列图像和视频处理工具💬1🔄0❤️3👀258📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5c1780ae089b18cd4c49c6690ef0a5b91f06c025",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "哇！ 谷歌新视频模型 Gemini Omni Flash 已经上线 FLow",
-      "url": "https://x.com/op7418/status/2056758486755844494",
-      "published_at": "2026-05-19T15:26:50Z",
-      "summary": "哇！ 谷歌新视频模型 Gemini Omni Flash 已经上线 FLow💬34🔄0❤️56👀34333📊36⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5b903e2fd0aae99465c75e957589f77379e2216b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我去 Karpathy 居然加入了 Anthropic，这下估计没有教程看了，啥也不会说了，希望还能多分享",
-      "url": "https://x.com/op7418/status/2056754653380124925",
-      "published_at": "2026-05-19T15:11:36Z",
-      "summary": "我去 Karpathy 居然加入了 Anthropic，这下估计没有教程看了，啥也不会说了，希望还能多分享Andrej Karpathy@karpathyPersonal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&D. I remain deeply passi…"
-    },
-    {
-      "id": "6f6a1964f0207652e6f405bc43bcba21afb774be",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "谷歌新的视频模型 Gemini Omni 已经开始放量了",
-      "url": "https://x.com/op7418/status/2056753335261429823",
-      "published_at": "2026-05-19T15:06:22Z",
-      "summary": "谷歌新的视频模型 Gemini Omni 已经开始放量了Charlie L.@whylifeis4Gemini Omni is starting to rollout for some users!🔗 View Quoted Tweet💬7🔄0❤️17👀8836📊7⚡ Powered by xgo.ing"
+      "summary": "Gemini 3.5 Flash is here and it's our best model yet for getting things done quickly and efficiently. Whether you need help with everyday tasks or multi-step creative projects, Gemini 3.5 Flash navigates real-world complexity to help you take action. #GoogleIO💬52🔄144❤️1112👀451705…"
     }
   ]
 }
