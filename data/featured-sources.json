@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-21T22:47:27.156280Z",
+  "generated_at": "2026-05-21T23:56:13.109740Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 231,
+      "duration_ms": 254,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 634,
+      "duration_ms": 1560,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 418,
+      "duration_ms": 1385,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 411,
+      "duration_ms": 1357,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1000,
+      "duration_ms": 919,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1091,
+      "duration_ms": 631,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 178,
+      "duration_ms": 199,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 624,
+      "duration_ms": 1575,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1296,
+      "duration_ms": 1638,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -230,7 +230,7 @@
           "title": "现在手上项目老多了：\n\n1. Code Pilot 的重构马上就要完成了\n2. 墨水屏的 Skills，应该今天或明天就能完成\n3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成...",
           "url": "https://x.com/op7418/status/2057326833499295978",
           "published_at": "2026-05-21T05:05:15Z",
-          "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬46🔄0❤️42👀6194📊42⚡ Powered by xgo.ing"
+          "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬48🔄0❤️44👀6245📊44⚡ Powered by xgo.ing"
         },
         {
           "id": "00da0c48c5ba7239030c6bf10fbc0a25a0ab137e",
@@ -269,7 +269,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -286,7 +286,7 @@
           "title": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart.\n\nWhether you...",
           "url": "https://x.com/GeminiApp/status/2057550225863246236",
           "published_at": "2026-05-21T19:52:55Z",
-          "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬35🔄43❤️390👀2088…"
+          "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬37🔄48❤️466👀2671…"
         },
         {
           "id": "b551aa079fadd067e485e6daadf1223b8b79813d",
@@ -297,7 +297,7 @@
           "title": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the...",
           "url": "https://x.com/GeminiApp/status/2057500511495143509",
           "published_at": "2026-05-21T16:35:23Z",
-          "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬14🔄9❤️75👀11204📊22⚡ Powe…"
+          "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬14🔄9❤️79👀12207📊22⚡ Powe…"
         },
         {
           "id": "a381c8f690b3fbc045f707852197271bd92f208a",
@@ -308,29 +308,7 @@
           "title": "Get a head start on your day with Daily Brief. \n\nGemini can now proactively flag what matters most i...",
           "url": "https://x.com/GeminiApp/status/2057500470147698936",
           "published_at": "2026-05-21T16:35:13Z",
-          "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬52🔄44❤️496👀127793📊110⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b744bc86a264eb40d2fba6676d3cf3c9c7170d27",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Gemini 3.5 Flash is starting to roll out to everyone globally, free of charge.\n\nTry it by selecting ...",
-          "url": "https://x.com/GeminiApp/status/2057237126526517727",
-          "published_at": "2026-05-20T23:08:47Z",
-          "summary": "Gemini 3.5 Flash is starting to roll out to everyone globally, free of charge. Try it by selecting “3.5 Flash” from the model dropdown menu at gemini.google or in the app.💬21🔄9❤️146👀19427📊34⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "78c54c3b781e9f8607f41cdf9a514b2bda45c542",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Gemini 3.5 Flash understands complex topics and diagrams for your specific needs to visualize the re...",
-          "url": "https://x.com/GeminiApp/status/2057237073397268970",
-          "published_at": "2026-05-20T23:08:34Z",
-          "summary": "Gemini 3.5 Flash understands complex topics and diagrams for your specific needs to visualize the results in a way that’s perfect for you. Watch Gemini take an advanced math paper, explore it visually, and generate the elements that matter most.💬70🔄131❤️1267👀77703📊226⚡ Powered by…"
+          "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬53🔄46❤️545👀132745📊116⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -345,7 +323,7 @@
       "title": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart.\n\nWhether you...",
       "url": "https://x.com/GeminiApp/status/2057550225863246236",
       "published_at": "2026-05-21T19:52:55Z",
-      "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬35🔄43❤️390👀2088…"
+      "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬37🔄48❤️466👀2671…"
     },
     {
       "id": "b551aa079fadd067e485e6daadf1223b8b79813d",
@@ -356,7 +334,7 @@
       "title": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the...",
       "url": "https://x.com/GeminiApp/status/2057500511495143509",
       "published_at": "2026-05-21T16:35:23Z",
-      "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬14🔄9❤️75👀11204📊22⚡ Powe…"
+      "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬14🔄9❤️79👀12207📊22⚡ Powe…"
     },
     {
       "id": "a381c8f690b3fbc045f707852197271bd92f208a",
@@ -367,7 +345,7 @@
       "title": "Get a head start on your day with Daily Brief. \n\nGemini can now proactively flag what matters most i...",
       "url": "https://x.com/GeminiApp/status/2057500470147698936",
       "published_at": "2026-05-21T16:35:13Z",
-      "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬52🔄44❤️496👀127793📊110⚡ Powered by xgo.ing"
+      "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬53🔄46❤️545👀132745📊116⚡ Powered by xgo.ing"
     },
     {
       "id": "3b0c72c149aa331627183398787ec039f880e4bf",
@@ -411,7 +389,7 @@
       "title": "现在手上项目老多了：\n\n1. Code Pilot 的重构马上就要完成了\n2. 墨水屏的 Skills，应该今天或明天就能完成\n3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成...",
       "url": "https://x.com/op7418/status/2057326833499295978",
       "published_at": "2026-05-21T05:05:15Z",
-      "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬46🔄0❤️42👀6194📊42⚡ Powered by xgo.ing"
+      "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬48🔄0❤️44👀6245📊44⚡ Powered by xgo.ing"
     },
     {
       "id": "00da0c48c5ba7239030c6bf10fbc0a25a0ab137e",
@@ -445,28 +423,6 @@
       "url": "https://imjuya.github.io/juya-ai-daily/issue-97",
       "published_at": "2026-05-21T01:21:12Z",
       "summary": "AI 早报 2026-05-21 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 千问发布新一代旗舰 Qwen3.7-Max，即将上线百炼 API ↗ #1 千问发布实时同传模型 Qwen3.5-LiveTranslate ↗ #2 Cohere 发布开源模型 Command A+ ↗ #3 Stability AI 发布 Stable Audio 3.0 系列音频模型 ↗ #4 NVIDIA 推出 SANA-WM 分钟级视频生成模型 ↗ #5 开发生态 Codex 重置使用限制 ↗ #6 Hermes agent 上线 SpaceXAI 网络搜索…"
-    },
-    {
-      "id": "b744bc86a264eb40d2fba6676d3cf3c9c7170d27",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gemini 3.5 Flash is starting to roll out to everyone globally, free of charge.\n\nTry it by selecting ...",
-      "url": "https://x.com/GeminiApp/status/2057237126526517727",
-      "published_at": "2026-05-20T23:08:47Z",
-      "summary": "Gemini 3.5 Flash is starting to roll out to everyone globally, free of charge. Try it by selecting “3.5 Flash” from the model dropdown menu at gemini.google or in the app.💬21🔄9❤️146👀19427📊34⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "78c54c3b781e9f8607f41cdf9a514b2bda45c542",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gemini 3.5 Flash understands complex topics and diagrams for your specific needs to visualize the re...",
-      "url": "https://x.com/GeminiApp/status/2057237073397268970",
-      "published_at": "2026-05-20T23:08:34Z",
-      "summary": "Gemini 3.5 Flash understands complex topics and diagrams for your specific needs to visualize the results in a way that’s perfect for you. Watch Gemini take an advanced math paper, explore it visually, and generate the elements that matter most.💬70🔄131❤️1267👀77703📊226⚡ Powered by…"
     }
   ]
 }
