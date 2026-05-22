@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-22T02:55:41.401890Z",
+  "generated_at": "2026-05-22T06:45:56.537622Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 19,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 607,
+      "duration_ms": 437,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 576,
+      "duration_ms": 1044,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 280,
+      "duration_ms": 674,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 599,
+      "duration_ms": 830,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1295,
+      "duration_ms": 1527,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1349,
+      "duration_ms": 1917,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 189,
+      "duration_ms": 209,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 659,
+      "duration_ms": 1072,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1214,
+      "duration_ms": 1832,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,77 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "bc1df6d7ecb68152dadcbdbdeadfe11a8eb50bf0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "完全体",
+          "url": "https://x.com/op7418/status/2057696111360651724",
+          "published_at": "2026-05-22T05:32:37Z",
+          "summary": "完全体歸藏(guizang.ai)@op7418终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候可以玩玩。🔗 View Quoted Tweet💬6🔄1❤️10👀2594📊6⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "82b50fb5ae07f441e3367f1dc08f998ed394fa2f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "对了！\n\n这条内容所有的这种 3:4 的介绍图片，都是用藏师傅的 PPT Skills 一键直出的",
+          "url": "https://x.com/op7418/status/2057683287091654708",
+          "published_at": "2026-05-22T04:41:40Z",
+          "summary": "对了！ 这条内容所有的这种 3:4 的介绍图片，都是用藏师傅的 PPT Skills 一键直出的歸藏(guizang.ai)@op7418Codex 昨晚发布史诗级更新，体验爆炸提升！ 其中快捷截图添加上下文和内置浏览器高级注释的功能太有用了。 你只需要同时按住左边和右边的 Command 键，它就会把你当前鼠标所在位置的窗口全部截下来，然后自动填入到 Codex 的输入框里。 它这个截图不只是你当前窗口的这个位置，而且它会把屏幕上没有的文本，也都填入到上下文里。 然后 /goal 这个功能已经正式上线到 Codex App 了。 这个功能更猛，你只要给…"
+        },
+        {
+          "id": "a3ac2cd379b7438c26d1f7715e926071052e0423",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "还有一个就是，你可以在电脑锁屏的时候，通过远程控制的方式调用 Codex 去使用 Computer Use 这个功能。",
+          "url": "https://x.com/op7418/status/2057681217231933748",
+          "published_at": "2026-05-22T04:33:26Z",
+          "summary": "还有一个就是，你可以在电脑锁屏的时候，通过远程控制的方式调用 Codex 去使用 Computer Use 这个功能。💬0🔄0❤️1👀1436⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8f8f86c9a0cec5da4ec7d0701b3513df5d25cf3c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "时间到了 Claude 又炸了",
+          "url": "https://x.com/op7418/status/2057680792013394036",
+          "published_at": "2026-05-22T04:31:45Z",
+          "summary": "时间到了 Claude 又炸了💬13🔄0❤️21👀5783📊13⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "56bcbc762f29c37085086bf0f1efdb82a7b9c100",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 昨晚发布史诗级更新，体验爆炸提升！\n\n其中快捷截图添加上下文和内置浏览器高级注释的功能太有用了。\n\n你只需要同时按住左边和右边的 Command 键，它就会把你当前鼠标所在位置的窗口全部截...",
+          "url": "https://x.com/op7418/status/2057678002675413057",
+          "published_at": "2026-05-22T04:20:40Z",
+          "summary": "Codex 昨晚发布史诗级更新，体验爆炸提升！ 其中快捷截图添加上下文和内置浏览器高级注释的功能太有用了。 你只需要同时按住左边和右边的 Command 键，它就会把你当前鼠标所在位置的窗口全部截下来，然后自动填入到 Codex 的输入框里。 它这个截图不只是你当前窗口的这个位置，而且它会把屏幕上没有的文本，也都填入到上下文里。 然后 /goal 这个功能已经正式上线到 Codex App 了。 这个功能更猛，你只要给它一个目标，它就会一直执行直到完成任务。这个过程可能持续几小时甚至几天时间。 而且你还可以：随时更改它的目标和引导、随时暂停，等你需要的时…"
+        },
+        {
+          "id": "21ba8416b3577c22cdaa98c7f22dbe5e499e042f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "分享一个很实用的寓言故事prompt，5分钟帮你理解任何新概念。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682522&idx=1&sn=a7ae7c8a35d5366fff67a2bd8a030d56",
+          "published_at": "2026-05-22T02:08:00Z",
+          "summary": "故事才是母语"
+        },
         {
           "id": "b231ab427f9a8cf6f743b6a90135cad2b61b303b",
           "site_id": "featuredrss",
@@ -231,28 +297,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497655&idx=1&sn=e9aaffc1db844ef92d2f857518e8e4fa",
           "published_at": "2026-05-21T11:42:00Z",
           "summary": "其实证件照艺术照都可以啦～"
-        },
-        {
-          "id": "b5d4091c608b1fe9f1c59bf9afafac3785a4b7bf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "现在手上项目老多了：\n\n1. Code Pilot 的重构马上就要完成了\n2. 墨水屏的 Skills，应该今天或明天就能完成\n3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成...",
-          "url": "https://x.com/op7418/status/2057326833499295978",
-          "published_at": "2026-05-21T05:05:15Z",
-          "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬54🔄0❤️48👀6621📊49⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "00da0c48c5ba7239030c6bf10fbc0a25a0ab137e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这个会打包成 Skill，任何 Agent 都能控制里面显示什么。\n\n可以通过配合定时任务去定期刷新里面的信息和数据，配合磁吸把它吸在你的屏幕边，就是一个常态化的看板。\n\n关机休眠的时候会展示你的介绍...",
-          "url": "https://x.com/op7418/status/2057321749575020799",
-          "published_at": "2026-05-21T04:45:02Z",
-          "summary": "这个会打包成 Skill，任何 Agent 都能控制里面显示什么。 可以通过配合定时任务去定期刷新里面的信息和数据，配合磁吸把它吸在你的屏幕边，就是一个常态化的看板。 关机休眠的时候会展示你的介绍信息和二维码，这样你外出就直接可以加好友歸藏(guizang.ai)@op7418终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候…"
         }
       ]
     },
@@ -275,7 +319,7 @@
           "title": "We’re taking suggestions on what you want to see next week ✍️",
           "url": "https://x.com/OpenAI/status/2057617863977165173",
           "published_at": "2026-05-22T00:21:42Z",
-          "summary": "We’re taking suggestions on what you want to see next week ✍️💬60🔄3❤️104👀25664📊52⚡ Powered by xgo.ing"
+          "summary": "We’re taking suggestions on what you want to see next week ✍️💬83🔄7❤️167👀45004📊74⚡ Powered by xgo.ing"
         },
         {
           "id": "bfa7ceb19793e7d2aa3e81a88f9a1b51af329f42",
@@ -286,7 +330,7 @@
           "title": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback,...",
           "url": "https://x.com/OpenAI/status/2057617862479708650",
           "published_at": "2026-05-22T00:21:41Z",
-          "summary": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, making it even easier to work together with Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄6❤️142👀28019📊22⚡ Powered by xgo.ing"
+          "summary": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, making it even easier to work together with Codex.Your browser does not support the video tag.🔗 View on Twitter💬14🔄15❤️241👀49035📊38⚡ Powered by xgo.ing"
         },
         {
           "id": "de371d2389c457286e7c1cf351c77d481e1cdfbc",
@@ -297,7 +341,7 @@
           "title": "Highlights from today’s Codex Thursday launches:\n\n1️⃣ Codex can now securely use apps on your Mac fr...",
           "url": "https://x.com/OpenAI/status/2057617844800794878",
           "published_at": "2026-05-22T00:21:37Z",
-          "summary": "Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. developers.openai.com/codex/app/comp…💬81🔄105❤️1189👀120740📊217⚡ Powered by xgo.ing"
+          "summary": "Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. developers.openai.com/codex/app/comp…💬124🔄187❤️2069👀250943📊372⚡ Powered by xgo.ing"
         },
         {
           "id": "4849b31fd97d40eba5f3a6f074cf8c913946d411",
@@ -308,7 +352,7 @@
           "title": "https://t.co/ZTYhQ9k2EF",
           "url": "https://x.com/GeminiApp/status/2057616379126415572",
           "published_at": "2026-05-22T00:15:48Z",
-          "summary": "x.com/MRKripto92/sta…kalio.sol@MRKripto92@shlomifruchter Omnimals 🐘+🦒 =Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄2❤️18👀12549📊5⚡ Powered by xgo.ing"
+          "summary": "x.com/MRKripto92/sta…kalio.sol@MRKripto92@shlomifruchter Omnimals 🐘+🦒 =Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄5❤️43👀32466📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "bf1efd314ab34b3830d445a76870a9b8ccc65cb7",
@@ -330,7 +374,7 @@
           "title": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇",
           "url": "https://x.com/GeminiApp/status/2057616371748651054",
           "published_at": "2026-05-22T00:15:46Z",
-          "summary": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇💬36🔄31❤️530👀51502📊100⚡ Powered by xgo.ing"
+          "summary": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇💬70🔄83❤️1809👀249139📊304⚡ Powered by xgo.ing"
         },
         {
           "id": "aaef4b08ca228d580d1506b003713d9e547d2b9f",
@@ -341,7 +385,7 @@
           "title": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart.\n\nWhether you...",
           "url": "https://x.com/GeminiApp/status/2057550225863246236",
           "published_at": "2026-05-21T19:52:55Z",
-          "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬41🔄59❤️598👀3540…"
+          "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬49🔄77❤️741👀4700…"
         },
         {
           "id": "b551aa079fadd067e485e6daadf1223b8b79813d",
@@ -352,7 +396,7 @@
           "title": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the...",
           "url": "https://x.com/GeminiApp/status/2057500511495143509",
           "published_at": "2026-05-21T16:35:23Z",
-          "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬15🔄10❤️84👀13760📊24⚡ Pow…"
+          "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬15🔄10❤️85👀15051📊24⚡ Pow…"
         },
         {
           "id": "a381c8f690b3fbc045f707852197271bd92f208a",
@@ -363,12 +407,78 @@
           "title": "Get a head start on your day with Daily Brief. \n\nGemini can now proactively flag what matters most i...",
           "url": "https://x.com/GeminiApp/status/2057500470147698936",
           "published_at": "2026-05-21T16:35:13Z",
-          "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬56🔄57❤️645👀141124📊133⚡ Powered by xgo.ing"
+          "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬64🔄64❤️710👀149591📊149⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "bc1df6d7ecb68152dadcbdbdeadfe11a8eb50bf0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "完全体",
+      "url": "https://x.com/op7418/status/2057696111360651724",
+      "published_at": "2026-05-22T05:32:37Z",
+      "summary": "完全体歸藏(guizang.ai)@op7418终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候可以玩玩。🔗 View Quoted Tweet💬6🔄1❤️10👀2594📊6⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "82b50fb5ae07f441e3367f1dc08f998ed394fa2f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "对了！\n\n这条内容所有的这种 3:4 的介绍图片，都是用藏师傅的 PPT Skills 一键直出的",
+      "url": "https://x.com/op7418/status/2057683287091654708",
+      "published_at": "2026-05-22T04:41:40Z",
+      "summary": "对了！ 这条内容所有的这种 3:4 的介绍图片，都是用藏师傅的 PPT Skills 一键直出的歸藏(guizang.ai)@op7418Codex 昨晚发布史诗级更新，体验爆炸提升！ 其中快捷截图添加上下文和内置浏览器高级注释的功能太有用了。 你只需要同时按住左边和右边的 Command 键，它就会把你当前鼠标所在位置的窗口全部截下来，然后自动填入到 Codex 的输入框里。 它这个截图不只是你当前窗口的这个位置，而且它会把屏幕上没有的文本，也都填入到上下文里。 然后 /goal 这个功能已经正式上线到 Codex App 了。 这个功能更猛，你只要给…"
+    },
+    {
+      "id": "a3ac2cd379b7438c26d1f7715e926071052e0423",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "还有一个就是，你可以在电脑锁屏的时候，通过远程控制的方式调用 Codex 去使用 Computer Use 这个功能。",
+      "url": "https://x.com/op7418/status/2057681217231933748",
+      "published_at": "2026-05-22T04:33:26Z",
+      "summary": "还有一个就是，你可以在电脑锁屏的时候，通过远程控制的方式调用 Codex 去使用 Computer Use 这个功能。💬0🔄0❤️1👀1436⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8f8f86c9a0cec5da4ec7d0701b3513df5d25cf3c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "时间到了 Claude 又炸了",
+      "url": "https://x.com/op7418/status/2057680792013394036",
+      "published_at": "2026-05-22T04:31:45Z",
+      "summary": "时间到了 Claude 又炸了💬13🔄0❤️21👀5783📊13⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "56bcbc762f29c37085086bf0f1efdb82a7b9c100",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex 昨晚发布史诗级更新，体验爆炸提升！\n\n其中快捷截图添加上下文和内置浏览器高级注释的功能太有用了。\n\n你只需要同时按住左边和右边的 Command 键，它就会把你当前鼠标所在位置的窗口全部截...",
+      "url": "https://x.com/op7418/status/2057678002675413057",
+      "published_at": "2026-05-22T04:20:40Z",
+      "summary": "Codex 昨晚发布史诗级更新，体验爆炸提升！ 其中快捷截图添加上下文和内置浏览器高级注释的功能太有用了。 你只需要同时按住左边和右边的 Command 键，它就会把你当前鼠标所在位置的窗口全部截下来，然后自动填入到 Codex 的输入框里。 它这个截图不只是你当前窗口的这个位置，而且它会把屏幕上没有的文本，也都填入到上下文里。 然后 /goal 这个功能已经正式上线到 Codex App 了。 这个功能更猛，你只要给它一个目标，它就会一直执行直到完成任务。这个过程可能持续几小时甚至几天时间。 而且你还可以：随时更改它的目标和引导、随时暂停，等你需要的时…"
+    },
+    {
+      "id": "21ba8416b3577c22cdaa98c7f22dbe5e499e042f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "分享一个很实用的寓言故事prompt，5分钟帮你理解任何新概念。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682522&idx=1&sn=a7ae7c8a35d5366fff67a2bd8a030d56",
+      "published_at": "2026-05-22T02:08:00Z",
+      "summary": "故事才是母语"
+    },
     {
       "id": "b231ab427f9a8cf6f743b6a90135cad2b61b303b",
       "site_id": "featuredrss",
@@ -389,7 +499,7 @@
       "title": "We’re taking suggestions on what you want to see next week ✍️",
       "url": "https://x.com/OpenAI/status/2057617863977165173",
       "published_at": "2026-05-22T00:21:42Z",
-      "summary": "We’re taking suggestions on what you want to see next week ✍️💬60🔄3❤️104👀25664📊52⚡ Powered by xgo.ing"
+      "summary": "We’re taking suggestions on what you want to see next week ✍️💬83🔄7❤️167👀45004📊74⚡ Powered by xgo.ing"
     },
     {
       "id": "bfa7ceb19793e7d2aa3e81a88f9a1b51af329f42",
@@ -400,7 +510,7 @@
       "title": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback,...",
       "url": "https://x.com/OpenAI/status/2057617862479708650",
       "published_at": "2026-05-22T00:21:41Z",
-      "summary": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, making it even easier to work together with Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄6❤️142👀28019📊22⚡ Powered by xgo.ing"
+      "summary": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, making it even easier to work together with Codex.Your browser does not support the video tag.🔗 View on Twitter💬14🔄15❤️241👀49035📊38⚡ Powered by xgo.ing"
     },
     {
       "id": "de371d2389c457286e7c1cf351c77d481e1cdfbc",
@@ -411,7 +521,7 @@
       "title": "Highlights from today’s Codex Thursday launches:\n\n1️⃣ Codex can now securely use apps on your Mac fr...",
       "url": "https://x.com/OpenAI/status/2057617844800794878",
       "published_at": "2026-05-22T00:21:37Z",
-      "summary": "Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. developers.openai.com/codex/app/comp…💬81🔄105❤️1189👀120740📊217⚡ Powered by xgo.ing"
+      "summary": "Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. developers.openai.com/codex/app/comp…💬124🔄187❤️2069👀250943📊372⚡ Powered by xgo.ing"
     },
     {
       "id": "4849b31fd97d40eba5f3a6f074cf8c913946d411",
@@ -422,7 +532,7 @@
       "title": "https://t.co/ZTYhQ9k2EF",
       "url": "https://x.com/GeminiApp/status/2057616379126415572",
       "published_at": "2026-05-22T00:15:48Z",
-      "summary": "x.com/MRKripto92/sta…kalio.sol@MRKripto92@shlomifruchter Omnimals 🐘+🦒 =Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄2❤️18👀12549📊5⚡ Powered by xgo.ing"
+      "summary": "x.com/MRKripto92/sta…kalio.sol@MRKripto92@shlomifruchter Omnimals 🐘+🦒 =Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄5❤️43👀32466📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "bf1efd314ab34b3830d445a76870a9b8ccc65cb7",
@@ -444,7 +554,7 @@
       "title": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇",
       "url": "https://x.com/GeminiApp/status/2057616371748651054",
       "published_at": "2026-05-22T00:15:46Z",
-      "summary": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇💬36🔄31❤️530👀51502📊100⚡ Powered by xgo.ing"
+      "summary": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇💬70🔄83❤️1809👀249139📊304⚡ Powered by xgo.ing"
     },
     {
       "id": "aaef4b08ca228d580d1506b003713d9e547d2b9f",
@@ -455,7 +565,7 @@
       "title": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart.\n\nWhether you...",
       "url": "https://x.com/GeminiApp/status/2057550225863246236",
       "published_at": "2026-05-21T19:52:55Z",
-      "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬41🔄59❤️598👀3540…"
+      "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬49🔄77❤️741👀4700…"
     },
     {
       "id": "b551aa079fadd067e485e6daadf1223b8b79813d",
@@ -466,7 +576,7 @@
       "title": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the...",
       "url": "https://x.com/GeminiApp/status/2057500511495143509",
       "published_at": "2026-05-21T16:35:23Z",
-      "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬15🔄10❤️84👀13760📊24⚡ Pow…"
+      "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬15🔄10❤️85👀15051📊24⚡ Pow…"
     },
     {
       "id": "a381c8f690b3fbc045f707852197271bd92f208a",
@@ -477,7 +587,7 @@
       "title": "Get a head start on your day with Daily Brief. \n\nGemini can now proactively flag what matters most i...",
       "url": "https://x.com/GeminiApp/status/2057500470147698936",
       "published_at": "2026-05-21T16:35:13Z",
-      "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬56🔄57❤️645👀141124📊133⚡ Powered by xgo.ing"
+      "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬64🔄64❤️710👀149591📊149⚡ Powered by xgo.ing"
     },
     {
       "id": "3b0c72c149aa331627183398787ec039f880e4bf",
@@ -511,28 +621,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497655&idx=1&sn=e9aaffc1db844ef92d2f857518e8e4fa",
       "published_at": "2026-05-21T11:42:00Z",
       "summary": "其实证件照艺术照都可以啦～"
-    },
-    {
-      "id": "b5d4091c608b1fe9f1c59bf9afafac3785a4b7bf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "现在手上项目老多了：\n\n1. Code Pilot 的重构马上就要完成了\n2. 墨水屏的 Skills，应该今天或明天就能完成\n3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成...",
-      "url": "https://x.com/op7418/status/2057326833499295978",
-      "published_at": "2026-05-21T05:05:15Z",
-      "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬54🔄0❤️48👀6621📊49⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "00da0c48c5ba7239030c6bf10fbc0a25a0ab137e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这个会打包成 Skill，任何 Agent 都能控制里面显示什么。\n\n可以通过配合定时任务去定期刷新里面的信息和数据，配合磁吸把它吸在你的屏幕边，就是一个常态化的看板。\n\n关机休眠的时候会展示你的介绍...",
-      "url": "https://x.com/op7418/status/2057321749575020799",
-      "published_at": "2026-05-21T04:45:02Z",
-      "summary": "这个会打包成 Skill，任何 Agent 都能控制里面显示什么。 可以通过配合定时任务去定期刷新里面的信息和数据，配合磁吸把它吸在你的屏幕边，就是一个常态化的看板。 关机休眠的时候会展示你的介绍信息和二维码，这样你外出就直接可以加好友歸藏(guizang.ai)@op7418终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候…"
     }
   ]
 }
