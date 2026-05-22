@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-21T23:56:13.109740Z",
+  "generated_at": "2026-05-22T02:55:41.401890Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 254,
+      "duration_ms": 607,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 23,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1560,
+      "duration_ms": 576,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1385,
+      "duration_ms": 280,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1357,
+      "duration_ms": 599,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 919,
+      "duration_ms": 1295,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 631,
+      "duration_ms": 1349,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 199,
+      "duration_ms": 189,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1575,
+      "duration_ms": 659,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1638,
+      "duration_ms": 1214,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "b231ab427f9a8cf6f743b6a90135cad2b61b303b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-22",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-98",
+          "published_at": "2026-05-22T01:26:24Z",
+          "summary": "AI 早报 2026-05-22 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 引入 API 并发限制和 user_id 隔离 ↗ #1 OpenAI 发布 Codex 多项更新，上线 Appshots 与锁屏控制控制功能 ↗ #2 Qwen3.7-Max 上线 API 和 Qwen Studio ↗ #3 Antigravity 永久提升 Gemini 模型速率限制并重置周配额 #4 模型发布 SpaceXAI 发布编码模型 Grok Build 0.1 ↗ #5 腾讯混元开源多语言翻译模型家族 Hy-MT2 ↗ #6 网易有道开…"
+        },
         {
           "id": "3b0c72c149aa331627183398787ec039f880e4bf",
           "site_id": "featuredrss",
@@ -230,7 +241,7 @@
           "title": "现在手上项目老多了：\n\n1. Code Pilot 的重构马上就要完成了\n2. 墨水屏的 Skills，应该今天或明天就能完成\n3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成...",
           "url": "https://x.com/op7418/status/2057326833499295978",
           "published_at": "2026-05-21T05:05:15Z",
-          "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬48🔄0❤️44👀6245📊44⚡ Powered by xgo.ing"
+          "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬54🔄0❤️48👀6621📊49⚡ Powered by xgo.ing"
         },
         {
           "id": "00da0c48c5ba7239030c6bf10fbc0a25a0ab137e",
@@ -242,34 +253,12 @@
           "url": "https://x.com/op7418/status/2057321749575020799",
           "published_at": "2026-05-21T04:45:02Z",
           "summary": "这个会打包成 Skill，任何 Agent 都能控制里面显示什么。 可以通过配合定时任务去定期刷新里面的信息和数据，配合磁吸把它吸在你的屏幕边，就是一个常态化的看板。 关机休眠的时候会展示你的介绍信息和二维码，这样你外出就直接可以加好友歸藏(guizang.ai)@op7418终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候…"
-        },
-        {
-          "id": "d6482660c4e320390097deec4a2be321d34c7f84",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "OpenAI和Google联手，要让每一张AI图片都无所遁形。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682482&idx=1&sn=a13eab9a7474afe7fd704943fa4bf9f5",
-          "published_at": "2026-05-21T02:34:00Z",
-          "summary": "黑暗森林中照下了光"
-        },
-        {
-          "id": "a698f813c97d7b3b2c3ee975e077ecc54bab2ff5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-21",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-97",
-          "published_at": "2026-05-21T01:21:12Z",
-          "summary": "AI 早报 2026-05-21 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 千问发布新一代旗舰 Qwen3.7-Max，即将上线百炼 API ↗ #1 千问发布实时同传模型 Qwen3.5-LiveTranslate ↗ #2 Cohere 发布开源模型 Command A+ ↗ #3 Stability AI 发布 Stable Audio 3.0 系列音频模型 ↗ #4 NVIDIA 推出 SANA-WM 分钟级视频生成模型 ↗ #5 开发生态 Codex 重置使用限制 ↗ #6 Hermes agent 上线 SpaceXAI 网络搜索…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 9,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -277,6 +266,72 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "8870c40720c1628257e413ec0bf2b17816869c36",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We’re taking suggestions on what you want to see next week ✍️",
+          "url": "https://x.com/OpenAI/status/2057617863977165173",
+          "published_at": "2026-05-22T00:21:42Z",
+          "summary": "We’re taking suggestions on what you want to see next week ✍️💬60🔄3❤️104👀25664📊52⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "bfa7ceb19793e7d2aa3e81a88f9a1b51af329f42",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback,...",
+          "url": "https://x.com/OpenAI/status/2057617862479708650",
+          "published_at": "2026-05-22T00:21:41Z",
+          "summary": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, making it even easier to work together with Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄6❤️142👀28019📊22⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "de371d2389c457286e7c1cf351c77d481e1cdfbc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Highlights from today’s Codex Thursday launches:\n\n1️⃣ Codex can now securely use apps on your Mac fr...",
+          "url": "https://x.com/OpenAI/status/2057617844800794878",
+          "published_at": "2026-05-22T00:21:37Z",
+          "summary": "Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. developers.openai.com/codex/app/comp…💬81🔄105❤️1189👀120740📊217⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "4849b31fd97d40eba5f3a6f074cf8c913946d411",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "https://t.co/ZTYhQ9k2EF",
+          "url": "https://x.com/GeminiApp/status/2057616379126415572",
+          "published_at": "2026-05-22T00:15:48Z",
+          "summary": "x.com/MRKripto92/sta…kalio.sol@MRKripto92@shlomifruchter Omnimals 🐘+🦒 =Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄2❤️18👀12549📊5⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "bf1efd314ab34b3830d445a76870a9b8ccc65cb7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "https://t.co/1IfaojDWiA",
+          "url": "https://x.com/GeminiApp/status/2057616380690841739",
+          "published_at": "2026-05-22T00:15:48Z",
+          "summary": "x.com/DontFearAI/sta…Ryan • Web AI@DontFearAIGoogle Gemini Omni is on another level. Fed it a video and a few photos of my rescue pup Benny, asked for a dream scene, and this is what it gave me back. Sweet dreams are made of bunnies and big bowls of kibble. 🐾Your browser does not…"
+        },
+        {
+          "id": "fb8de65f148f268c2462e2d189ebb593e0550fc1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇",
+          "url": "https://x.com/GeminiApp/status/2057616371748651054",
+          "published_at": "2026-05-22T00:15:46Z",
+          "summary": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇💬36🔄31❤️530👀51502📊100⚡ Powered by xgo.ing"
+        },
         {
           "id": "aaef4b08ca228d580d1506b003713d9e547d2b9f",
           "site_id": "featuredrss",
@@ -286,7 +341,7 @@
           "title": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart.\n\nWhether you...",
           "url": "https://x.com/GeminiApp/status/2057550225863246236",
           "published_at": "2026-05-21T19:52:55Z",
-          "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬37🔄48❤️466👀2671…"
+          "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬41🔄59❤️598👀3540…"
         },
         {
           "id": "b551aa079fadd067e485e6daadf1223b8b79813d",
@@ -297,7 +352,7 @@
           "title": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the...",
           "url": "https://x.com/GeminiApp/status/2057500511495143509",
           "published_at": "2026-05-21T16:35:23Z",
-          "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬14🔄9❤️79👀12207📊22⚡ Powe…"
+          "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬15🔄10❤️84👀13760📊24⚡ Pow…"
         },
         {
           "id": "a381c8f690b3fbc045f707852197271bd92f208a",
@@ -308,12 +363,89 @@
           "title": "Get a head start on your day with Daily Brief. \n\nGemini can now proactively flag what matters most i...",
           "url": "https://x.com/GeminiApp/status/2057500470147698936",
           "published_at": "2026-05-21T16:35:13Z",
-          "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬53🔄46❤️545👀132745📊116⚡ Powered by xgo.ing"
+          "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬56🔄57❤️645👀141124📊133⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "b231ab427f9a8cf6f743b6a90135cad2b61b303b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-22",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-98",
+      "published_at": "2026-05-22T01:26:24Z",
+      "summary": "AI 早报 2026-05-22 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 引入 API 并发限制和 user_id 隔离 ↗ #1 OpenAI 发布 Codex 多项更新，上线 Appshots 与锁屏控制控制功能 ↗ #2 Qwen3.7-Max 上线 API 和 Qwen Studio ↗ #3 Antigravity 永久提升 Gemini 模型速率限制并重置周配额 #4 模型发布 SpaceXAI 发布编码模型 Grok Build 0.1 ↗ #5 腾讯混元开源多语言翻译模型家族 Hy-MT2 ↗ #6 网易有道开…"
+    },
+    {
+      "id": "8870c40720c1628257e413ec0bf2b17816869c36",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We’re taking suggestions on what you want to see next week ✍️",
+      "url": "https://x.com/OpenAI/status/2057617863977165173",
+      "published_at": "2026-05-22T00:21:42Z",
+      "summary": "We’re taking suggestions on what you want to see next week ✍️💬60🔄3❤️104👀25664📊52⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "bfa7ceb19793e7d2aa3e81a88f9a1b51af329f42",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback,...",
+      "url": "https://x.com/OpenAI/status/2057617862479708650",
+      "published_at": "2026-05-22T00:21:41Z",
+      "summary": "4️⃣ Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, making it even easier to work together with Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄6❤️142👀28019📊22⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "de371d2389c457286e7c1cf351c77d481e1cdfbc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Highlights from today’s Codex Thursday launches:\n\n1️⃣ Codex can now securely use apps on your Mac fr...",
+      "url": "https://x.com/OpenAI/status/2057617844800794878",
+      "published_at": "2026-05-22T00:21:37Z",
+      "summary": "Highlights from today’s Codex Thursday launches: 1️⃣ Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off. developers.openai.com/codex/app/comp…💬81🔄105❤️1189👀120740📊217⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "4849b31fd97d40eba5f3a6f074cf8c913946d411",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "https://t.co/ZTYhQ9k2EF",
+      "url": "https://x.com/GeminiApp/status/2057616379126415572",
+      "published_at": "2026-05-22T00:15:48Z",
+      "summary": "x.com/MRKripto92/sta…kalio.sol@MRKripto92@shlomifruchter Omnimals 🐘+🦒 =Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄2❤️18👀12549📊5⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "bf1efd314ab34b3830d445a76870a9b8ccc65cb7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "https://t.co/1IfaojDWiA",
+      "url": "https://x.com/GeminiApp/status/2057616380690841739",
+      "published_at": "2026-05-22T00:15:48Z",
+      "summary": "x.com/DontFearAI/sta…Ryan • Web AI@DontFearAIGoogle Gemini Omni is on another level. Fed it a video and a few photos of my rescue pup Benny, asked for a dream scene, and this is what it gave me back. Sweet dreams are made of bunnies and big bowls of kibble. 🐾Your browser does not…"
+    },
+    {
+      "id": "fb8de65f148f268c2462e2d189ebb593e0550fc1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇",
+      "url": "https://x.com/GeminiApp/status/2057616371748651054",
+      "published_at": "2026-05-22T00:15:46Z",
+      "summary": "Gemini Omni is here, and we’ve been seeing amazing creations all week. Here are some standouts 👇💬36🔄31❤️530👀51502📊100⚡ Powered by xgo.ing"
+    },
     {
       "id": "aaef4b08ca228d580d1506b003713d9e547d2b9f",
       "site_id": "featuredrss",
@@ -323,7 +455,7 @@
       "title": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart.\n\nWhether you...",
       "url": "https://x.com/GeminiApp/status/2057550225863246236",
       "published_at": "2026-05-21T19:52:55Z",
-      "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬37🔄48❤️466👀2671…"
+      "summary": "Gemini can now connect to even more apps, including @OpenTable, @Canva, and @Instacart. Whether you're booking a table at a restaurant, creating a flyer, or ordering groceries, Gemini doesn’t just find info, it helps you take action seamlessly with connected apps.💬41🔄59❤️598👀3540…"
     },
     {
       "id": "b551aa079fadd067e485e6daadf1223b8b79813d",
@@ -334,7 +466,7 @@
       "title": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the...",
       "url": "https://x.com/GeminiApp/status/2057500511495143509",
       "published_at": "2026-05-21T16:35:23Z",
-      "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬14🔄9❤️79👀12207📊22⚡ Powe…"
+      "summary": "Daily Brief is now available to all Google AI Plus, Pro, and Ultra subscribers 18+, beginning in the U.S. To get started, head to gemini.google or the app and select Daily Brief in the side panel. Try it out and let us know how it’s making your day easier.💬15🔄10❤️84👀13760📊24⚡ Pow…"
     },
     {
       "id": "a381c8f690b3fbc045f707852197271bd92f208a",
@@ -345,7 +477,7 @@
       "title": "Get a head start on your day with Daily Brief. \n\nGemini can now proactively flag what matters most i...",
       "url": "https://x.com/GeminiApp/status/2057500470147698936",
       "published_at": "2026-05-21T16:35:13Z",
-      "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬53🔄46❤️545👀132745📊116⚡ Powered by xgo.ing"
+      "summary": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most in an easily digestible to-do list, so you’re ready for the day before you even finish breakfast.💬56🔄57❤️645👀141124📊133⚡ Powered by xgo.ing"
     },
     {
       "id": "3b0c72c149aa331627183398787ec039f880e4bf",
@@ -389,7 +521,7 @@
       "title": "现在手上项目老多了：\n\n1. Code Pilot 的重构马上就要完成了\n2. 墨水屏的 Skills，应该今天或明天就能完成\n3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成...",
       "url": "https://x.com/op7418/status/2057326833499295978",
       "published_at": "2026-05-21T05:05:15Z",
-      "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬48🔄0❤️44👀6245📊44⚡ Powered by xgo.ing"
+      "summary": "现在手上项目老多了： 1. Code Pilot 的重构马上就要完成了 2. 墨水屏的 Skills，应该今天或明天就能完成 3. 还有一个基于 PPT Skills 的项目，是通过 HTML 变成视频的这个 Skill 还在进行中 4. 基于 PPT Skills 生成小红书、微信图文封面的功能，也在进行中 5. PPT Skills 的第三个主题也在进行中💬54🔄0❤️48👀6621📊49⚡ Powered by xgo.ing"
     },
     {
       "id": "00da0c48c5ba7239030c6bf10fbc0a25a0ab137e",
@@ -401,28 +533,6 @@
       "url": "https://x.com/op7418/status/2057321749575020799",
       "published_at": "2026-05-21T04:45:02Z",
       "summary": "这个会打包成 Skill，任何 Agent 都能控制里面显示什么。 可以通过配合定时任务去定期刷新里面的信息和数据，配合磁吸把它吸在你的屏幕边，就是一个常态化的看板。 关机休眠的时候会展示你的介绍信息和二维码，这样你外出就直接可以加好友歸藏(guizang.ai)@op7418终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候…"
-    },
-    {
-      "id": "d6482660c4e320390097deec4a2be321d34c7f84",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "OpenAI和Google联手，要让每一张AI图片都无所遁形。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682482&idx=1&sn=a13eab9a7474afe7fd704943fa4bf9f5",
-      "published_at": "2026-05-21T02:34:00Z",
-      "summary": "黑暗森林中照下了光"
-    },
-    {
-      "id": "a698f813c97d7b3b2c3ee975e077ecc54bab2ff5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-21",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-97",
-      "published_at": "2026-05-21T01:21:12Z",
-      "summary": "AI 早报 2026-05-21 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 千问发布新一代旗舰 Qwen3.7-Max，即将上线百炼 API ↗ #1 千问发布实时同传模型 Qwen3.5-LiveTranslate ↗ #2 Cohere 发布开源模型 Command A+ ↗ #3 Stability AI 发布 Stable Audio 3.0 系列音频模型 ↗ #4 NVIDIA 推出 SANA-WM 分钟级视频生成模型 ↗ #5 开发生态 Codex 重置使用限制 ↗ #6 Hermes agent 上线 SpaceXAI 网络搜索…"
     }
   ]
 }
