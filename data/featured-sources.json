@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-23T11:40:25.278372Z",
+  "generated_at": "2026-05-23T13:10:05.694675Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 989,
+      "duration_ms": 340,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 129,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 917,
+      "duration_ms": 554,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 557,
+      "duration_ms": 668,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 749,
+      "duration_ms": 817,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 7644,
+      "duration_ms": 1170,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 9600,
+      "duration_ms": 1465,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 275,
+      "duration_ms": 201,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 996,
+      "duration_ms": 783,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 7986,
+      "duration_ms": 1487,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,7 +183,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
@@ -197,7 +197,7 @@
           "title": "改了一下 Markdown 的样式",
           "url": "https://x.com/op7418/status/2058129524760715710",
           "published_at": "2026-05-23T10:14:51Z",
-          "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀678⚡ Powered by xgo.ing"
+          "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀1086⚡ Powered by xgo.ing"
         },
         {
           "id": "292a6ef4b7c9d1d0e5065cc141b4a9ff5292ef3e",
@@ -208,7 +208,7 @@
           "title": "随时切换 Agent 引擎",
           "url": "https://x.com/op7418/status/2058110992157188469",
           "published_at": "2026-05-23T09:01:13Z",
-          "summary": "随时切换 Agent 引擎💬2🔄0❤️3👀1697📊2⚡ Powered by xgo.ing"
+          "summary": "随时切换 Agent 引擎💬2🔄0❤️3👀2139📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "6cf578240bfc285d01989e5ca8e8e367bfb01c82",
@@ -230,7 +230,7 @@
           "title": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配",
           "url": "https://x.com/op7418/status/2058098200716992890",
           "published_at": "2026-05-23T08:10:23Z",
-          "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬8🔄0❤️3👀5065📊7⚡ Powered by xgo.ing"
+          "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬8🔄0❤️3👀5767📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "e9e6f87d1ad391fbc0e58c01cdacf1927404652f",
@@ -241,7 +241,18 @@
           "title": "新版 Codepilot",
           "url": "https://x.com/op7418/status/2058095052715630705",
           "published_at": "2026-05-23T07:57:52Z",
-          "summary": "新版 Codepilot💬33🔄2❤️39👀13009📊33⚡ Powered by xgo.ing"
+          "summary": "新版 Codepilot💬42🔄2❤️45👀15072📊41⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "43abafa506d668cea3906576bb3503dc86743057",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "100小时实测EVE的AI伴侣，第一代关系型Agent学会送花了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507267&idx=1&sn=127c02599a0b46d8ce7fe416416eff27",
+          "published_at": "2026-05-23T06:18:00Z",
+          "summary": "下次能送我台特斯拉吗"
         },
         {
           "id": "98d1e382aae680e95015551bc515e0083a614acb",
@@ -263,7 +274,7 @@
           "title": "固件发了：https://t.co/5RXRdLlyRV",
           "url": "https://x.com/op7418/status/2057839763693187549",
           "published_at": "2026-05-22T15:03:27Z",
-          "summary": "固件发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬0🔄0❤️13👀3472📊2⚡ Powered by xgo.ing"
+          "summary": "固件发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬0🔄0❤️13👀3504📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "279f59312688179a41c00269448cb15858ba2c7b",
@@ -274,7 +285,7 @@
           "title": "固件发了：https://t.co/5RXRdLlyRV",
           "url": "https://x.com/op7418/status/2057839710408777845",
           "published_at": "2026-05-22T15:03:14Z",
-          "summary": "固件发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬0🔄0❤️4👀3674📊1⚡ Powered by xgo.ing"
+          "summary": "固件发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬0🔄0❤️4👀3722📊1⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -297,7 +308,7 @@
           "title": "https://t.co/d3TBpOvQoJ",
           "url": "https://x.com/GeminiApp/status/2057974680242512071",
           "published_at": "2026-05-22T23:59:33Z",
-          "summary": "x.com/i/article/2057…💬36🔄51❤️631👀41677📊125⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2057…💬45🔄57❤️715👀49983📊147⚡ Powered by xgo.ing"
         },
         {
           "id": "dbe9adc2d0aad1df480bd45d0f64abc2955e749d",
@@ -308,7 +319,7 @@
           "title": "https://t.co/JMZXBOJtQQ",
           "url": "https://x.com/GoogleAI/status/2057871583843135978",
           "published_at": "2026-05-22T17:09:53Z",
-          "summary": "x.com/i/article/2057…💬29🔄28❤️243👀54078📊55⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2057…💬31🔄30❤️256👀56208📊58⚡ Powered by xgo.ing"
         },
         {
           "id": "4022dc449eacd68ac59514369844a1bdc9bdc2d4",
@@ -319,7 +330,7 @@
           "title": "Built for the AI era. ✨ Meet Neural Expressive, Gemini’s new design language featuring fluid animati...",
           "url": "https://x.com/GeminiApp/status/2057868874134241574",
           "published_at": "2026-05-22T16:59:07Z",
-          "summary": "Built for the AI era. ✨ Meet Neural Expressive, Gemini’s new design language featuring fluid animations, vibrant colors, updated typography, haptic feedback, and visual responses.💬59🔄94❤️791👀52972📊157⚡ Powered by xgo.ing"
+          "summary": "Built for the AI era. ✨ Meet Neural Expressive, Gemini’s new design language featuring fluid animations, vibrant colors, updated typography, haptic feedback, and visual responses.💬61🔄99❤️819👀66190📊162⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -334,7 +345,7 @@
       "title": "改了一下 Markdown 的样式",
       "url": "https://x.com/op7418/status/2058129524760715710",
       "published_at": "2026-05-23T10:14:51Z",
-      "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀678⚡ Powered by xgo.ing"
+      "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀1086⚡ Powered by xgo.ing"
     },
     {
       "id": "292a6ef4b7c9d1d0e5065cc141b4a9ff5292ef3e",
@@ -345,7 +356,7 @@
       "title": "随时切换 Agent 引擎",
       "url": "https://x.com/op7418/status/2058110992157188469",
       "published_at": "2026-05-23T09:01:13Z",
-      "summary": "随时切换 Agent 引擎💬2🔄0❤️3👀1697📊2⚡ Powered by xgo.ing"
+      "summary": "随时切换 Agent 引擎💬2🔄0❤️3👀2139📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "6cf578240bfc285d01989e5ca8e8e367bfb01c82",
@@ -367,7 +378,7 @@
       "title": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配",
       "url": "https://x.com/op7418/status/2058098200716992890",
       "published_at": "2026-05-23T08:10:23Z",
-      "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬8🔄0❤️3👀5065📊7⚡ Powered by xgo.ing"
+      "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬8🔄0❤️3👀5767📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "e9e6f87d1ad391fbc0e58c01cdacf1927404652f",
@@ -378,7 +389,18 @@
       "title": "新版 Codepilot",
       "url": "https://x.com/op7418/status/2058095052715630705",
       "published_at": "2026-05-23T07:57:52Z",
-      "summary": "新版 Codepilot💬33🔄2❤️39👀13009📊33⚡ Powered by xgo.ing"
+      "summary": "新版 Codepilot💬42🔄2❤️45👀15072📊41⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "43abafa506d668cea3906576bb3503dc86743057",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "100小时实测EVE的AI伴侣，第一代关系型Agent学会送花了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507267&idx=1&sn=127c02599a0b46d8ce7fe416416eff27",
+      "published_at": "2026-05-23T06:18:00Z",
+      "summary": "下次能送我台特斯拉吗"
     },
     {
       "id": "98d1e382aae680e95015551bc515e0083a614acb",
@@ -400,7 +422,7 @@
       "title": "https://t.co/d3TBpOvQoJ",
       "url": "https://x.com/GeminiApp/status/2057974680242512071",
       "published_at": "2026-05-22T23:59:33Z",
-      "summary": "x.com/i/article/2057…💬36🔄51❤️631👀41677📊125⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2057…💬45🔄57❤️715👀49983📊147⚡ Powered by xgo.ing"
     },
     {
       "id": "dbe9adc2d0aad1df480bd45d0f64abc2955e749d",
@@ -411,7 +433,7 @@
       "title": "https://t.co/JMZXBOJtQQ",
       "url": "https://x.com/GoogleAI/status/2057871583843135978",
       "published_at": "2026-05-22T17:09:53Z",
-      "summary": "x.com/i/article/2057…💬29🔄28❤️243👀54078📊55⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2057…💬31🔄30❤️256👀56208📊58⚡ Powered by xgo.ing"
     },
     {
       "id": "4022dc449eacd68ac59514369844a1bdc9bdc2d4",
@@ -422,7 +444,7 @@
       "title": "Built for the AI era. ✨ Meet Neural Expressive, Gemini’s new design language featuring fluid animati...",
       "url": "https://x.com/GeminiApp/status/2057868874134241574",
       "published_at": "2026-05-22T16:59:07Z",
-      "summary": "Built for the AI era. ✨ Meet Neural Expressive, Gemini’s new design language featuring fluid animations, vibrant colors, updated typography, haptic feedback, and visual responses.💬59🔄94❤️791👀52972📊157⚡ Powered by xgo.ing"
+      "summary": "Built for the AI era. ✨ Meet Neural Expressive, Gemini’s new design language featuring fluid animations, vibrant colors, updated typography, haptic feedback, and visual responses.💬61🔄99❤️819👀66190📊162⚡ Powered by xgo.ing"
     },
     {
       "id": "f63bc031c4383ff505bf05537f900328329147d6",
@@ -433,7 +455,7 @@
       "title": "固件发了：https://t.co/5RXRdLlyRV",
       "url": "https://x.com/op7418/status/2057839763693187549",
       "published_at": "2026-05-22T15:03:27Z",
-      "summary": "固件发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬0🔄0❤️13👀3472📊2⚡ Powered by xgo.ing"
+      "summary": "固件发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬0🔄0❤️13👀3504📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "279f59312688179a41c00269448cb15858ba2c7b",
@@ -444,7 +466,7 @@
       "title": "固件发了：https://t.co/5RXRdLlyRV",
       "url": "https://x.com/op7418/status/2057839710408777845",
       "published_at": "2026-05-22T15:03:14Z",
-      "summary": "固件发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬0🔄0❤️4👀3674📊1⚡ Powered by xgo.ing"
+      "summary": "固件发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬0🔄0❤️4👀3722📊1⚡ Powered by xgo.ing"
     }
   ]
 }
