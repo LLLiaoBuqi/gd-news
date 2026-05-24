@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T23:52:24.383665Z",
+  "generated_at": "2026-05-24T02:40:20.464779Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 10,
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 1378,
+      "duration_ms": 306,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 56,
+      "duration_ms": 52,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 442,
+      "duration_ms": 712,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 668,
+      "duration_ms": 399,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 494,
+      "duration_ms": 649,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1815,
+      "duration_ms": 1032,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1617,
+      "duration_ms": 1386,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 468,
+      "duration_ms": 253,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 678,
+      "duration_ms": 648,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1325,
+      "duration_ms": 1327,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,33 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "8cbbd03216840e0964213d5c3715e4d65c513035",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-24",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-100",
+          "published_at": "2026-05-24T00:39:39Z",
+          "summary": "AI 早报 2026-05-24 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 DeepSeek 宣布 DeepSeek API 完成提速与扩容 ↗ #1 Codex 修复额度消耗异常并重置所有限额 ↗ #2 Codex 负责人披露流量分布：Pi 与 OpenCode 各占约 5% ↗ #3 前瞻与传闻 报道称Claude网页端曾短暂出现Mythos 1模型 ↗ #4 DeepSeek 宣布 DeepSeek API 完成提速与扩容 #1 DeepSeek工作人员在官方交流群宣布，DeepSeek API已完成输出提速和服务扩容。现在，输出速度更…"
+        },
+        {
+          "id": "575ff4ae896ce6ad4d8c43643cb78adc5367cdb7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 又重置了",
+          "url": "https://x.com/op7418/status/2058333663809638494",
+          "published_at": "2026-05-23T23:46:02Z",
+          "summary": "Codex 又重置了Tibo@thsottiauxSome of you noticed limits drained faster in Codex, we root caused it to an optimization that we rolled back that had an impact on cache hit rates when compacting across long running sessions. We fixed this and have now reset usage limits for all accounts…"
+        },
         {
           "id": "3bbd9307bad9d9da75a06adfb2bf374df35b9200",
           "site_id": "featuredrss",
@@ -197,7 +219,7 @@
           "title": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。",
           "url": "https://x.com/op7418/status/2058202152536011050",
           "published_at": "2026-05-23T15:03:27Z",
-          "summary": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。💬7🔄1❤️31👀4666📊9⚡ Powered by xgo.ing"
+          "summary": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。💬10🔄1❤️34👀5987📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "f53867410014d6a751a5ec2a15bf564d6ee9eb6c",
@@ -208,7 +230,7 @@
           "title": "都在推特上，你拿我图还给我打个码，没必要吧？",
           "url": "https://x.com/op7418/status/2058163649525727718",
           "published_at": "2026-05-23T12:30:27Z",
-          "summary": "都在推特上，你拿我图还给我打个码，没必要吧？黄小木@ai_xiaomu商机啊，把github的skill搬到小红书上架， 速度就是💰🔗 View Quoted Tweet💬190🔄2❤️239👀87247📊145⚡ Powered by xgo.ing"
+          "summary": "都在推特上，你拿我图还给我打个码，没必要吧？黄小木@ai_xiaomu商机啊，把github的skill搬到小红书上架， 速度就是💰🔗 View Quoted Tweet💬196🔄2❤️257👀97142📊151⚡ Powered by xgo.ing"
         },
         {
           "id": "40195fda450f5631700be2a6c090149597104d60",
@@ -219,7 +241,7 @@
           "title": "改了一下 Markdown 的样式",
           "url": "https://x.com/op7418/status/2058129524760715710",
           "published_at": "2026-05-23T10:14:51Z",
-          "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀2947📊1⚡ Powered by xgo.ing"
+          "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀3141📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "292a6ef4b7c9d1d0e5065cc141b4a9ff5292ef3e",
@@ -230,7 +252,7 @@
           "title": "随时切换 Agent 引擎",
           "url": "https://x.com/op7418/status/2058110992157188469",
           "published_at": "2026-05-23T09:01:13Z",
-          "summary": "随时切换 Agent 引擎💬3🔄0❤️3👀4185📊3⚡ Powered by xgo.ing"
+          "summary": "随时切换 Agent 引擎💬3🔄0❤️5👀4427📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "6cf578240bfc285d01989e5ca8e8e367bfb01c82",
@@ -252,7 +274,7 @@
           "title": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配",
           "url": "https://x.com/op7418/status/2058098200716992890",
           "published_at": "2026-05-23T08:10:23Z",
-          "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬14🔄1❤️13👀12129📊12⚡ Powered by xgo.ing"
+          "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬14🔄1❤️16👀13440📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "e9e6f87d1ad391fbc0e58c01cdacf1927404652f",
@@ -275,45 +297,44 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507267&idx=1&sn=127c02599a0b46d8ce7fe416416eff27",
           "published_at": "2026-05-23T06:18:00Z",
           "summary": "下次能送我台特斯拉吗"
-        },
-        {
-          "id": "98d1e382aae680e95015551bc515e0083a614acb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-23",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-99",
-          "published_at": "2026-05-23T01:19:06Z",
-          "summary": "AI 早报 2026-05-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 宣布将 DeepSeek-V4-Pro API 2.5 折优惠转为永久定价 ↗ #1 模型发布 智谱发布 GLM-5.1-HighSpeed，官方称速度达 400 tokens/s ↗ #2 Qwen3.7-Max 上线千问，阿里云百炼提供限时优惠 ↗ #3 OpenBMB 开源基于昇腾 910B 原生训练的 BitCPM-CANN 模型 ↗ #4 网易有道推出Confucius4-TTS，14语言零样本语音克隆引擎即将全量开源 ↗ #5 开发生态 An…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "5d2829fd2088ca2893584acee5aa512c747161a6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "https://t.co/d3TBpOvQoJ",
-          "url": "https://x.com/GeminiApp/status/2057974680242512071",
-          "published_at": "2026-05-22T23:59:33Z",
-          "summary": "x.com/i/article/2057…💬50🔄79❤️934👀68925📊184⚡ Powered by xgo.ing"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
+    {
+      "id": "8cbbd03216840e0964213d5c3715e4d65c513035",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-24",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-100",
+      "published_at": "2026-05-24T00:39:39Z",
+      "summary": "AI 早报 2026-05-24 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 DeepSeek 宣布 DeepSeek API 完成提速与扩容 ↗ #1 Codex 修复额度消耗异常并重置所有限额 ↗ #2 Codex 负责人披露流量分布：Pi 与 OpenCode 各占约 5% ↗ #3 前瞻与传闻 报道称Claude网页端曾短暂出现Mythos 1模型 ↗ #4 DeepSeek 宣布 DeepSeek API 完成提速与扩容 #1 DeepSeek工作人员在官方交流群宣布，DeepSeek API已完成输出提速和服务扩容。现在，输出速度更…"
+    },
+    {
+      "id": "575ff4ae896ce6ad4d8c43643cb78adc5367cdb7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex 又重置了",
+      "url": "https://x.com/op7418/status/2058333663809638494",
+      "published_at": "2026-05-23T23:46:02Z",
+      "summary": "Codex 又重置了Tibo@thsottiauxSome of you noticed limits drained faster in Codex, we root caused it to an optimization that we rolled back that had an impact on cache hit rates when compacting across long running sessions. We fixed this and have now reset usage limits for all accounts…"
+    },
     {
       "id": "3bbd9307bad9d9da75a06adfb2bf374df35b9200",
       "site_id": "featuredrss",
@@ -323,7 +344,7 @@
       "title": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。",
       "url": "https://x.com/op7418/status/2058202152536011050",
       "published_at": "2026-05-23T15:03:27Z",
-      "summary": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。💬7🔄1❤️31👀4666📊9⚡ Powered by xgo.ing"
+      "summary": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。💬10🔄1❤️34👀5987📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "f53867410014d6a751a5ec2a15bf564d6ee9eb6c",
@@ -334,7 +355,7 @@
       "title": "都在推特上，你拿我图还给我打个码，没必要吧？",
       "url": "https://x.com/op7418/status/2058163649525727718",
       "published_at": "2026-05-23T12:30:27Z",
-      "summary": "都在推特上，你拿我图还给我打个码，没必要吧？黄小木@ai_xiaomu商机啊，把github的skill搬到小红书上架， 速度就是💰🔗 View Quoted Tweet💬190🔄2❤️239👀87247📊145⚡ Powered by xgo.ing"
+      "summary": "都在推特上，你拿我图还给我打个码，没必要吧？黄小木@ai_xiaomu商机啊，把github的skill搬到小红书上架， 速度就是💰🔗 View Quoted Tweet💬196🔄2❤️257👀97142📊151⚡ Powered by xgo.ing"
     },
     {
       "id": "40195fda450f5631700be2a6c090149597104d60",
@@ -345,7 +366,7 @@
       "title": "改了一下 Markdown 的样式",
       "url": "https://x.com/op7418/status/2058129524760715710",
       "published_at": "2026-05-23T10:14:51Z",
-      "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀2947📊1⚡ Powered by xgo.ing"
+      "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀3141📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "292a6ef4b7c9d1d0e5065cc141b4a9ff5292ef3e",
@@ -356,7 +377,7 @@
       "title": "随时切换 Agent 引擎",
       "url": "https://x.com/op7418/status/2058110992157188469",
       "published_at": "2026-05-23T09:01:13Z",
-      "summary": "随时切换 Agent 引擎💬3🔄0❤️3👀4185📊3⚡ Powered by xgo.ing"
+      "summary": "随时切换 Agent 引擎💬3🔄0❤️5👀4427📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "6cf578240bfc285d01989e5ca8e8e367bfb01c82",
@@ -378,7 +399,7 @@
       "title": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配",
       "url": "https://x.com/op7418/status/2058098200716992890",
       "published_at": "2026-05-23T08:10:23Z",
-      "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬14🔄1❤️13👀12129📊12⚡ Powered by xgo.ing"
+      "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬14🔄1❤️16👀13440📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "e9e6f87d1ad391fbc0e58c01cdacf1927404652f",
@@ -401,28 +422,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507267&idx=1&sn=127c02599a0b46d8ce7fe416416eff27",
       "published_at": "2026-05-23T06:18:00Z",
       "summary": "下次能送我台特斯拉吗"
-    },
-    {
-      "id": "98d1e382aae680e95015551bc515e0083a614acb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-23",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-99",
-      "published_at": "2026-05-23T01:19:06Z",
-      "summary": "AI 早报 2026-05-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 宣布将 DeepSeek-V4-Pro API 2.5 折优惠转为永久定价 ↗ #1 模型发布 智谱发布 GLM-5.1-HighSpeed，官方称速度达 400 tokens/s ↗ #2 Qwen3.7-Max 上线千问，阿里云百炼提供限时优惠 ↗ #3 OpenBMB 开源基于昇腾 910B 原生训练的 BitCPM-CANN 模型 ↗ #4 网易有道推出Confucius4-TTS，14语言零样本语音克隆引擎即将全量开源 ↗ #5 开发生态 An…"
-    },
-    {
-      "id": "5d2829fd2088ca2893584acee5aa512c747161a6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "https://t.co/d3TBpOvQoJ",
-      "url": "https://x.com/GeminiApp/status/2057974680242512071",
-      "published_at": "2026-05-22T23:59:33Z",
-      "summary": "x.com/i/article/2057…💬50🔄79❤️934👀68925📊184⚡ Powered by xgo.ing"
     }
   ]
 }
