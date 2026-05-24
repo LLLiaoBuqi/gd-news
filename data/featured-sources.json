@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T02:40:20.464779Z",
+  "generated_at": "2026-05-24T06:32:08.677901Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 10,
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 306,
+      "duration_ms": 242,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 52,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 712,
+      "duration_ms": 534,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 399,
+      "duration_ms": 785,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 649,
+      "duration_ms": 716,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1032,
+      "duration_ms": 1599,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1386,
+      "duration_ms": 1600,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 253,
+      "duration_ms": 181,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 648,
+      "duration_ms": 785,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1327,
+      "duration_ms": 1390,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -188,6 +188,17 @@
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "9ea7368c6cffbc80ecaf2a3c2a35a6b07dcc6c41",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。",
+          "url": "https://x.com/op7418/status/2058399416273494292",
+          "published_at": "2026-05-24T04:07:18Z",
+          "summary": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。💬8🔄0❤️11👀3182📊8⚡ Powered by xgo.ing"
+        },
         {
           "id": "8cbbd03216840e0964213d5c3715e4d65c513035",
           "site_id": "featuredrss",
@@ -219,7 +230,7 @@
           "title": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。",
           "url": "https://x.com/op7418/status/2058202152536011050",
           "published_at": "2026-05-23T15:03:27Z",
-          "summary": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。💬10🔄1❤️34👀5987📊11⚡ Powered by xgo.ing"
+          "summary": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。💬12🔄1❤️52👀9851📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "f53867410014d6a751a5ec2a15bf564d6ee9eb6c",
@@ -230,7 +241,7 @@
           "title": "都在推特上，你拿我图还给我打个码，没必要吧？",
           "url": "https://x.com/op7418/status/2058163649525727718",
           "published_at": "2026-05-23T12:30:27Z",
-          "summary": "都在推特上，你拿我图还给我打个码，没必要吧？黄小木@ai_xiaomu商机啊，把github的skill搬到小红书上架， 速度就是💰🔗 View Quoted Tweet💬196🔄2❤️257👀97142📊151⚡ Powered by xgo.ing"
+          "summary": "都在推特上，你拿我图还给我打个码，没必要吧？黄小木@ai_xiaomu商机啊，把github的skill搬到小红书上架， 速度就是💰🔗 View Quoted Tweet💬208🔄2❤️286👀111775📊161⚡ Powered by xgo.ing"
         },
         {
           "id": "40195fda450f5631700be2a6c090149597104d60",
@@ -241,7 +252,7 @@
           "title": "改了一下 Markdown 的样式",
           "url": "https://x.com/op7418/status/2058129524760715710",
           "published_at": "2026-05-23T10:14:51Z",
-          "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀3141📊1⚡ Powered by xgo.ing"
+          "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀3487📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "292a6ef4b7c9d1d0e5065cc141b4a9ff5292ef3e",
@@ -252,7 +263,7 @@
           "title": "随时切换 Agent 引擎",
           "url": "https://x.com/op7418/status/2058110992157188469",
           "published_at": "2026-05-23T09:01:13Z",
-          "summary": "随时切换 Agent 引擎💬3🔄0❤️5👀4427📊3⚡ Powered by xgo.ing"
+          "summary": "随时切换 Agent 引擎💬3🔄0❤️5👀4831📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "6cf578240bfc285d01989e5ca8e8e367bfb01c82",
@@ -274,7 +285,7 @@
           "title": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配",
           "url": "https://x.com/op7418/status/2058098200716992890",
           "published_at": "2026-05-23T08:10:23Z",
-          "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬14🔄1❤️16👀13440📊13⚡ Powered by xgo.ing"
+          "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬15🔄1❤️20👀16308📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "e9e6f87d1ad391fbc0e58c01cdacf1927404652f",
@@ -286,17 +297,6 @@
           "url": "https://x.com/op7418/status/2058095052715630705",
           "published_at": "2026-05-23T07:57:52Z",
           "summary": "新版 Codepilot💬42🔄2❤️45👀15072📊41⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "43abafa506d668cea3906576bb3503dc86743057",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "100小时实测EVE的AI伴侣，第一代关系型Agent学会送花了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507267&idx=1&sn=127c02599a0b46d8ce7fe416416eff27",
-          "published_at": "2026-05-23T06:18:00Z",
-          "summary": "下次能送我台特斯拉吗"
         }
       ]
     },
@@ -313,6 +313,17 @@
     }
   },
   "items": [
+    {
+      "id": "9ea7368c6cffbc80ecaf2a3c2a35a6b07dcc6c41",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。",
+      "url": "https://x.com/op7418/status/2058399416273494292",
+      "published_at": "2026-05-24T04:07:18Z",
+      "summary": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。💬8🔄0❤️11👀3182📊8⚡ Powered by xgo.ing"
+    },
     {
       "id": "8cbbd03216840e0964213d5c3715e4d65c513035",
       "site_id": "featuredrss",
@@ -344,7 +355,7 @@
       "title": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。",
       "url": "https://x.com/op7418/status/2058202152536011050",
       "published_at": "2026-05-23T15:03:27Z",
-      "summary": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。💬10🔄1❤️34👀5987📊11⚡ Powered by xgo.ing"
+      "summary": "我看那哥们还在那自鸣得意，提醒一下大家，Twitter 对于被订阅账号拉黑的惩罚是非常重的，所以以后遇见这种事情，希望大家动动小手。💬12🔄1❤️52👀9851📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "f53867410014d6a751a5ec2a15bf564d6ee9eb6c",
@@ -355,7 +366,7 @@
       "title": "都在推特上，你拿我图还给我打个码，没必要吧？",
       "url": "https://x.com/op7418/status/2058163649525727718",
       "published_at": "2026-05-23T12:30:27Z",
-      "summary": "都在推特上，你拿我图还给我打个码，没必要吧？黄小木@ai_xiaomu商机啊，把github的skill搬到小红书上架， 速度就是💰🔗 View Quoted Tweet💬196🔄2❤️257👀97142📊151⚡ Powered by xgo.ing"
+      "summary": "都在推特上，你拿我图还给我打个码，没必要吧？黄小木@ai_xiaomu商机啊，把github的skill搬到小红书上架， 速度就是💰🔗 View Quoted Tweet💬208🔄2❤️286👀111775📊161⚡ Powered by xgo.ing"
     },
     {
       "id": "40195fda450f5631700be2a6c090149597104d60",
@@ -366,7 +377,7 @@
       "title": "改了一下 Markdown 的样式",
       "url": "https://x.com/op7418/status/2058129524760715710",
       "published_at": "2026-05-23T10:14:51Z",
-      "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀3141📊1⚡ Powered by xgo.ing"
+      "summary": "改了一下 Markdown 的样式💬0🔄0❤️1👀3487📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "292a6ef4b7c9d1d0e5065cc141b4a9ff5292ef3e",
@@ -377,7 +388,7 @@
       "title": "随时切换 Agent 引擎",
       "url": "https://x.com/op7418/status/2058110992157188469",
       "published_at": "2026-05-23T09:01:13Z",
-      "summary": "随时切换 Agent 引擎💬3🔄0❤️5👀4427📊3⚡ Powered by xgo.ing"
+      "summary": "随时切换 Agent 引擎💬3🔄0❤️5👀4831📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "6cf578240bfc285d01989e5ca8e8e367bfb01c82",
@@ -399,7 +410,7 @@
       "title": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配",
       "url": "https://x.com/op7418/status/2058098200716992890",
       "published_at": "2026-05-23T08:10:23Z",
-      "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬14🔄1❤️16👀13440📊13⚡ Powered by xgo.ing"
+      "summary": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配歸藏(guizang.ai)@op7418x.com/i/article/2057…🔗 View Quoted Tweet💬15🔄1❤️20👀16308📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "e9e6f87d1ad391fbc0e58c01cdacf1927404652f",
@@ -411,17 +422,6 @@
       "url": "https://x.com/op7418/status/2058095052715630705",
       "published_at": "2026-05-23T07:57:52Z",
       "summary": "新版 Codepilot💬42🔄2❤️45👀15072📊41⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "43abafa506d668cea3906576bb3503dc86743057",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "100小时实测EVE的AI伴侣，第一代关系型Agent学会送花了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507267&idx=1&sn=127c02599a0b46d8ce7fe416416eff27",
-      "published_at": "2026-05-23T06:18:00Z",
-      "summary": "下次能送我台特斯拉吗"
     }
   ]
 }
