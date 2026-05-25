@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T23:33:48.437272Z",
+  "generated_at": "2026-05-25T02:49:06.848627Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 258,
+      "duration_ms": 238,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 19,
+      "duration_ms": 29,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 661,
+      "duration_ms": 649,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 353,
+      "duration_ms": 339,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 506,
+      "duration_ms": 623,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1346,
+      "duration_ms": 1337,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 957,
+      "duration_ms": 1087,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 161,
+      "duration_ms": 170,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 597,
+      "duration_ms": 589,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1142,
+      "duration_ms": 1135,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "bad15945e6c2d8bbc7680c3ca2eff7c16ef7c50c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-25",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-101",
+          "published_at": "2026-05-25T00:47:51Z",
+          "summary": "AI 早报 2026-05-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 昨日下午突发故障并迅速恢复 ↗ #1 行业动态 vLLM 封禁为刷简历提交无意义 PR 的贡献者 ↗ #2 前瞻与传闻 Codex 负责人探讨为产品引入 /slow mode 批量计算功能 ↗ #3 claude-opus-4.8 疑似现身 Google Vertex 后台 ↗ #4 DeepSeek 昨日下午突发故障并迅速恢复 #1 DeepSeek 的状态页显示，其 API 与网页对话服务在 5 月 24 日 下午突发不可用故障，经紧急排查与修复，现…"
+        },
         {
           "id": "014d56d20179ba927beb510cbfeb062784545022",
           "site_id": "featuredrss",
@@ -208,29 +219,7 @@
           "title": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。",
           "url": "https://x.com/op7418/status/2058399416273494292",
           "published_at": "2026-05-24T04:07:18Z",
-          "summary": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。💬12🔄0❤️21👀8439📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8cbbd03216840e0964213d5c3715e4d65c513035",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-24",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-100",
-          "published_at": "2026-05-24T00:39:39Z",
-          "summary": "AI 早报 2026-05-24 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 DeepSeek 宣布 DeepSeek API 完成提速与扩容 ↗ #1 Codex 修复额度消耗异常并重置所有限额 ↗ #2 Codex 负责人披露流量分布：Pi 与 OpenCode 各占约 5% ↗ #3 前瞻与传闻 报道称Claude网页端曾短暂出现Mythos 1模型 ↗ #4 DeepSeek 宣布 DeepSeek API 完成提速与扩容 #1 DeepSeek工作人员在官方交流群宣布，DeepSeek API已完成输出提速和服务扩容。现在，输出速度更…"
-        },
-        {
-          "id": "575ff4ae896ce6ad4d8c43643cb78adc5367cdb7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codex 又重置了",
-          "url": "https://x.com/op7418/status/2058333663809638494",
-          "published_at": "2026-05-23T23:46:02Z",
-          "summary": "Codex 又重置了Tibo@thsottiauxSome of you noticed limits drained faster in Codex, we root caused it to an optimization that we rolled back that had an impact on cache hit rates when compacting across long running sessions. We fixed this and have now reset usage limits for all accounts…"
+          "summary": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。💬12🔄0❤️23👀9119📊12⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -247,6 +236,17 @@
     }
   },
   "items": [
+    {
+      "id": "bad15945e6c2d8bbc7680c3ca2eff7c16ef7c50c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-25",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-101",
+      "published_at": "2026-05-25T00:47:51Z",
+      "summary": "AI 早报 2026-05-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 昨日下午突发故障并迅速恢复 ↗ #1 行业动态 vLLM 封禁为刷简历提交无意义 PR 的贡献者 ↗ #2 前瞻与传闻 Codex 负责人探讨为产品引入 /slow mode 批量计算功能 ↗ #3 claude-opus-4.8 疑似现身 Google Vertex 后台 ↗ #4 DeepSeek 昨日下午突发故障并迅速恢复 #1 DeepSeek 的状态页显示，其 API 与网页对话服务在 5 月 24 日 下午突发不可用故障，经紧急排查与修复，现…"
+    },
     {
       "id": "014d56d20179ba927beb510cbfeb062784545022",
       "site_id": "featuredrss",
@@ -267,29 +267,7 @@
       "title": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。",
       "url": "https://x.com/op7418/status/2058399416273494292",
       "published_at": "2026-05-24T04:07:18Z",
-      "summary": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。💬12🔄0❤️21👀8439📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8cbbd03216840e0964213d5c3715e4d65c513035",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-24",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-100",
-      "published_at": "2026-05-24T00:39:39Z",
-      "summary": "AI 早报 2026-05-24 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 DeepSeek 宣布 DeepSeek API 完成提速与扩容 ↗ #1 Codex 修复额度消耗异常并重置所有限额 ↗ #2 Codex 负责人披露流量分布：Pi 与 OpenCode 各占约 5% ↗ #3 前瞻与传闻 报道称Claude网页端曾短暂出现Mythos 1模型 ↗ #4 DeepSeek 宣布 DeepSeek API 完成提速与扩容 #1 DeepSeek工作人员在官方交流群宣布，DeepSeek API已完成输出提速和服务扩容。现在，输出速度更…"
-    },
-    {
-      "id": "575ff4ae896ce6ad4d8c43643cb78adc5367cdb7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codex 又重置了",
-      "url": "https://x.com/op7418/status/2058333663809638494",
-      "published_at": "2026-05-23T23:46:02Z",
-      "summary": "Codex 又重置了Tibo@thsottiauxSome of you noticed limits drained faster in Codex, we root caused it to an optimization that we rolled back that had an impact on cache hit rates when compacting across long running sessions. We fixed this and have now reset usage limits for all accounts…"
+      "summary": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。💬12🔄0❤️23👀9119📊12⚡ Powered by xgo.ing"
     }
   ]
 }
