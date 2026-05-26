@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T00:00:37.619062Z",
+  "generated_at": "2026-05-26T04:41:08.831314Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 559,
+      "duration_ms": 6384,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 36,
+      "duration_ms": 65,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1526,
+      "duration_ms": 1736,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 852,
+      "duration_ms": 1107,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 707,
+      "duration_ms": 1008,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 6870,
+      "duration_ms": 1762,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 7697,
+      "duration_ms": 1720,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 163,
+      "duration_ms": 220,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1910,
+      "duration_ms": 2010,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 3,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 10030,
+      "duration_ms": 974,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,66 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 13,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "ce682bbff6dd44dc9e43c804b0ecd7ef951017ba",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "电子杂志风格",
+          "url": "https://x.com/op7418/status/2059117149877395860",
+          "published_at": "2026-05-26T03:39:19Z",
+          "summary": "电子杂志风格💬0🔄0❤️1👀746⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "972d4e4912ac9f1ef58d8ef914d04d3ab93040a7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我去 Krea 卷起来了？\n\n这周他们的 Pro、Max 和 Business 会员 Seedance 2.0 无限用",
+          "url": "https://x.com/op7418/status/2059096803212153202",
+          "published_at": "2026-05-26T02:18:28Z",
+          "summary": "我去 Krea 卷起来了？ 这周他们的 Pro、Max 和 Business 会员 Seedance 2.0 无限用Krea@krea_ainew unlimited Seedance promo. this week we're offering unlimited Seedance 2 generations for Pro, Max, and Business plans. see how to combine it with Krea 2 in this tutorial.Your browser does not support the vid…"
+        },
+        {
+          "id": "366c10495a391db85b1c4a8372c824db5cb6fd62",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "内饰🐂🍺，但这个外观属实都完全看不出法拉利设计语言了",
+          "url": "https://x.com/op7418/status/2059096332409962623",
+          "published_at": "2026-05-26T02:16:36Z",
+          "summary": "内饰🐂🍺，但这个外观属实都完全看不出法拉利设计语言了Mike Matas@mike_matasIntroducing Ferrari Luce, the first electric Ferrari designed by LoveFrom.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬8🔄1❤️2👀4380📊6⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "80be8fca9f93ed051826dfd048a59fe71514d779",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "藏师傅的小红、小绿书组图生成器 Skill 配合 Codex 太好用了！\n\n我给他一张三张拼在一起的图，它自动加进去的时候，我并没有指定位置，它就能自动根据图片内容匹配对应的页数。\n\n而且虽然这三张图...",
+          "url": "https://x.com/op7418/status/2059093924996960308",
+          "published_at": "2026-05-26T02:07:02Z",
+          "summary": "藏师傅的小红、小绿书组图生成器 Skill 配合 Codex 太好用了！ 我给他一张三张拼在一起的图，它自动加进去的时候，我并没有指定位置，它就能自动根据图片内容匹配对应的页数。 而且虽然这三张图是拼在一起的，它在下面还用分开的格子进行了标注，内容都能对上，太省心了。歸藏(guizang.ai)@op7418不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配🔗 View Quoted Tweet💬13🔄…"
+        },
+        {
+          "id": "36e2dc18856db2be54590c28944d698363a2d4f2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-26",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-102",
+          "published_at": "2026-05-26T00:43:31Z",
+          "summary": "AI 早报 2026-05-26 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 SpaceXAI 完成 Grok V9-Medium 模型训练并预告开源计划 ↗ #1 OpenBMB 发布 MiniCPM5-1B 开源模型 ↗ #2 开发生态 Grok Build 面向 SuperGrok 和 X Premium+ 用户开放 ↗ #3 Google Antigravity 新增 Gemini 3.5 Flash (Low) ↗ #4 产品应用 ima 宣布全面开放 copilot 并上线 Skill 发布功能 ↗ #5 技术与洞察 华为发布韬(τ…"
+        },
         {
           "id": "1b1d689d3acf23743ba7adcc25f2d54ab8032d50",
           "site_id": "featuredrss",
@@ -197,7 +252,7 @@
           "title": "瑞士风格",
           "url": "https://x.com/op7418/status/2058949941289197971",
           "published_at": "2026-05-25T16:34:54Z",
-          "summary": "瑞士风格💬0🔄1❤️6👀1765📊2⚡ Powered by xgo.ing"
+          "summary": "瑞士风格💬0🔄1❤️6👀4079📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "9f6d8fff963701d2931a231a4ad82aa55f099410",
@@ -208,7 +263,7 @@
           "title": "不吵架了，预告一下下一个 Skill 项目\n\n基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面\n\n也可以基于文档生成小绿书和小红书图文所需的 3:4 组图\n\n会自动处理你的截图素材，自...",
           "url": "https://x.com/op7418/status/2058925029203882187",
           "published_at": "2026-05-25T14:55:54Z",
-          "summary": "不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配💬67🔄10❤️186👀12804📊90⚡ Powered by xgo.ing"
+          "summary": "不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配💬92🔄20❤️263👀26770📊131⚡ Powered by xgo.ing"
         },
         {
           "id": "925a2f9111fa438d959d7027e2f84b42ddbbfe8c",
@@ -219,7 +274,7 @@
           "title": "有些账号要倒霉了\n\nhttps://t.co/Gb9luppKAl",
           "url": "https://x.com/op7418/status/2058810823645290940",
           "published_at": "2026-05-25T07:22:05Z",
-          "summary": "有些账号要倒霉了 x.com/op7418/status/…歸藏(guizang.ai)@op7418Twitter 官方开始打击这种程序化的内容搬运，有些喜欢抄东西不转发的，可以准备好了。🔗 View Quoted Tweet💬2🔄0❤️21👀8600📊3⚡ Powered by xgo.ing"
+          "summary": "有些账号要倒霉了 x.com/op7418/status/…歸藏(guizang.ai)@op7418Twitter 官方开始打击这种程序化的内容搬运，有些喜欢抄东西不转发的，可以准备好了。🔗 View Quoted Tweet💬2🔄0❤️21👀9733📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "4df74c3d1e916a3ff4d598ff275b1d0a5799b209",
@@ -241,7 +296,7 @@
           "title": "还有这东西原来，感谢正常标注事实的朋友们",
           "url": "https://x.com/op7418/status/2058794259432771784",
           "published_at": "2026-05-25T06:16:16Z",
-          "summary": "还有这东西原来，感谢正常标注事实的朋友们李韭二@li9292韭二 作为中推内容审核员一员 积极参与内容审核事实核查工作 为中推内容环境净化 为优质内容创作生态 尽自己的一份力🔗 View Quoted Tweet💬12🔄1❤️29👀8800📊10⚡ Powered by xgo.ing"
+          "summary": "还有这东西原来，感谢正常标注事实的朋友们李韭二@li9292韭二 作为中推内容审核员一员 积极参与内容审核事实核查工作 为中推内容环境净化 为优质内容创作生态 尽自己的一份力🔗 View Quoted Tweet💬12🔄1❤️30👀9400📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "d1b36bdcb669a1aac9fe8a57b3e88b809df0743d",
@@ -263,73 +318,7 @@
           "title": "然后转发和引用原创的东西是最基本的，尤其是你转发的是当前的平台。\n\n然后中文倒还好，很多人转人家英文的内容死不认账，然后天天被人骂。\n\n伤害的是好好发原创内容的人，和整个中文社区。",
           "url": "https://x.com/op7418/status/2058770595563880544",
           "published_at": "2026-05-25T04:42:14Z",
-          "summary": "然后转发和引用原创的东西是最基本的，尤其是你转发的是当前的平台。 然后中文倒还好，很多人转人家英文的内容死不认账，然后天天被人骂。 伤害的是好好发原创内容的人，和整个中文社区。💬0🔄0❤️17👀5115📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a109e449fd4edbc51103ee1f7989d706b96557d5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "刚好说起这事来了，顺便说一下推特上应该怎么转发别人的内容。\n\n如果你想做大，想做国际化的话，可以看看。毕竟海外的一些人，他不惯着你。\n\n如果说有原文，你最好是转发。然后呢你可以截他的原文在你的转发的推...",
-          "url": "https://x.com/op7418/status/2058769267139690518",
-          "published_at": "2026-05-25T04:36:58Z",
-          "summary": "刚好说起这事来了，顺便说一下推特上应该怎么转发别人的内容。 如果你想做大，想做国际化的话，可以看看。毕竟海外的一些人，他不惯着你。 如果说有原文，你最好是转发。然后呢你可以截他的原文在你的转发的推文上，这个一般大家是不会说你的。 然后如果是视频，你可以长按去引用视频，然后在第二条推串去引用他的原推文，这样是相当于通知他，那么他如果觉得这样不好，他会来找你，那么你删掉就可以。 然后你如果艾特了别人，然后直接截图的话，也可以在推串的第二条贴上它的原文。 这个其实不影响你的阅读量，也分不了你多少流量。就是要有共赢思维，不要想着说把任何事情任何流量要吃干抹净。…"
-        },
-        {
-          "id": "3d6d12ee66dcf81333a4148fb8c91ce4c8842c62",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "看了 Max 这条内容，我才知道这几天发生了这么多事。这行业里门道这么多吗？我一个 10 万粉小卡拉米也配当大 V 了？",
-          "url": "https://x.com/op7418/status/2058765787406688604",
-          "published_at": "2026-05-25T04:23:08Z",
-          "summary": "看了 Max 这条内容，我才知道这几天发生了这么多事。这行业里门道这么多吗？我一个 10 万粉小卡拉米也配当大 V 了？Max For [redacted-email]/i/article/2058…🔗 View Quoted Tweet💬35🔄1❤️62👀25976📊30⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "49fa4291e0d009c835a59780c2d2b2c1598da543",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我看这事发酵的挺大，我说一下。就是冒用截图就是不对的，无论你是从哪拿到的截图，对吧？\n\n然后正主找上门来了，说你冒用，或者人家不喜欢。首先做的什么事呢？道歉。然后呢，把原内容删掉，在自己的内容上发一个...",
-          "url": "https://x.com/op7418/status/2058756725545840745",
-          "published_at": "2026-05-25T03:47:07Z",
-          "summary": "我看这事发酵的挺大，我说一下。就是冒用截图就是不对的，无论你是从哪拿到的截图，对吧？ 然后正主找上门来了，说你冒用，或者人家不喜欢。首先做的什么事呢？道歉。然后呢，把原内容删掉，在自己的内容上发一个澄清的帖子。 这个事大部分都能接过去，没有什么问题。 但是呢你不能说为了这点流量舍不得说道歉，然后装作自己不清楚，态度也不诚恳。然后还搞些有的没的。 没什么好洗的，我也没什么过分的要求。而且拉黑这个事呢，对吧？就是各自的选择。 我可以拉黑你，你也可以拉黑我。就如果大家觉得这事做的对，你就可以关注他。如果你觉得这事做的不对，你不喜欢，你完全可以拉黑他。 如果你不…"
-        },
-        {
-          "id": "dda626e758b7c5bc253be51c5b5b593a2e116ce7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "@XianyuLi 什么选边站，站队？我不知道啊？我这两天没刷推，这事发展到这个地步了？我就发现这东西不地道，转了条推，然后其他的也没说啥了呀，刚才点了一下他，感觉一直在给自己加戏，懒得理了。",
-          "url": "https://x.com/op7418/status/2058737974939144589",
-          "published_at": "2026-05-25T02:32:37Z",
-          "summary": "@XianyuLi 什么选边站，站队？我不知道啊？我这两天没刷推，这事发展到这个地步了？我就发现这东西不地道，转了条推，然后其他的也没说啥了呀，刚才点了一下他，感觉一直在给自己加戏，懒得理了。💬36🔄0❤️69👀26447📊36⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "22cf55a13459041ae66cf13b14772f8b69fe2d8f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "AI时代的人才，我觉得最重要的是这6点特质。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682539&idx=1&sn=3832e9be5b0983bc8d769adec9936604",
-          "published_at": "2026-05-25T02:08:00Z",
-          "summary": "跟学历没啥关系"
-        },
-        {
-          "id": "bad15945e6c2d8bbc7680c3ca2eff7c16ef7c50c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-25",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-101",
-          "published_at": "2026-05-25T00:47:51Z",
-          "summary": "AI 早报 2026-05-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 昨日下午突发故障并迅速恢复 ↗ #1 行业动态 vLLM 封禁为刷简历提交无意义 PR 的贡献者 ↗ #2 前瞻与传闻 Codex 负责人探讨为产品引入 /slow mode 批量计算功能 ↗ #3 claude-opus-4.8 疑似现身 Google Vertex 后台 ↗ #4 DeepSeek 昨日下午突发故障并迅速恢复 #1 DeepSeek 的状态页显示，其 API 与网页对话服务在 5 月 24 日 下午突发不可用故障，经紧急排查与修复，现…"
+          "summary": "然后转发和引用原创的东西是最基本的，尤其是你转发的是当前的平台。 然后中文倒还好，很多人转人家英文的内容死不认账，然后天天被人骂。 伤害的是好好发原创内容的人，和整个中文社区。💬0🔄0❤️17👀5415📊2⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -347,6 +336,61 @@
   },
   "items": [
     {
+      "id": "ce682bbff6dd44dc9e43c804b0ecd7ef951017ba",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "电子杂志风格",
+      "url": "https://x.com/op7418/status/2059117149877395860",
+      "published_at": "2026-05-26T03:39:19Z",
+      "summary": "电子杂志风格💬0🔄0❤️1👀746⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "972d4e4912ac9f1ef58d8ef914d04d3ab93040a7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我去 Krea 卷起来了？\n\n这周他们的 Pro、Max 和 Business 会员 Seedance 2.0 无限用",
+      "url": "https://x.com/op7418/status/2059096803212153202",
+      "published_at": "2026-05-26T02:18:28Z",
+      "summary": "我去 Krea 卷起来了？ 这周他们的 Pro、Max 和 Business 会员 Seedance 2.0 无限用Krea@krea_ainew unlimited Seedance promo. this week we're offering unlimited Seedance 2 generations for Pro, Max, and Business plans. see how to combine it with Krea 2 in this tutorial.Your browser does not support the vid…"
+    },
+    {
+      "id": "366c10495a391db85b1c4a8372c824db5cb6fd62",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "内饰🐂🍺，但这个外观属实都完全看不出法拉利设计语言了",
+      "url": "https://x.com/op7418/status/2059096332409962623",
+      "published_at": "2026-05-26T02:16:36Z",
+      "summary": "内饰🐂🍺，但这个外观属实都完全看不出法拉利设计语言了Mike Matas@mike_matasIntroducing Ferrari Luce, the first electric Ferrari designed by LoveFrom.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬8🔄1❤️2👀4380📊6⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "80be8fca9f93ed051826dfd048a59fe71514d779",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "藏师傅的小红、小绿书组图生成器 Skill 配合 Codex 太好用了！\n\n我给他一张三张拼在一起的图，它自动加进去的时候，我并没有指定位置，它就能自动根据图片内容匹配对应的页数。\n\n而且虽然这三张图...",
+      "url": "https://x.com/op7418/status/2059093924996960308",
+      "published_at": "2026-05-26T02:07:02Z",
+      "summary": "藏师傅的小红、小绿书组图生成器 Skill 配合 Codex 太好用了！ 我给他一张三张拼在一起的图，它自动加进去的时候，我并没有指定位置，它就能自动根据图片内容匹配对应的页数。 而且虽然这三张图是拼在一起的，它在下面还用分开的格子进行了标注，内容都能对上，太省心了。歸藏(guizang.ai)@op7418不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配🔗 View Quoted Tweet💬13🔄…"
+    },
+    {
+      "id": "36e2dc18856db2be54590c28944d698363a2d4f2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-26",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-102",
+      "published_at": "2026-05-26T00:43:31Z",
+      "summary": "AI 早报 2026-05-26 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 SpaceXAI 完成 Grok V9-Medium 模型训练并预告开源计划 ↗ #1 OpenBMB 发布 MiniCPM5-1B 开源模型 ↗ #2 开发生态 Grok Build 面向 SuperGrok 和 X Premium+ 用户开放 ↗ #3 Google Antigravity 新增 Gemini 3.5 Flash (Low) ↗ #4 产品应用 ima 宣布全面开放 copilot 并上线 Skill 发布功能 ↗ #5 技术与洞察 华为发布韬(τ…"
+    },
+    {
       "id": "1b1d689d3acf23743ba7adcc25f2d54ab8032d50",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -355,7 +399,7 @@
       "title": "瑞士风格",
       "url": "https://x.com/op7418/status/2058949941289197971",
       "published_at": "2026-05-25T16:34:54Z",
-      "summary": "瑞士风格💬0🔄1❤️6👀1765📊2⚡ Powered by xgo.ing"
+      "summary": "瑞士风格💬0🔄1❤️6👀4079📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "9f6d8fff963701d2931a231a4ad82aa55f099410",
@@ -366,7 +410,7 @@
       "title": "不吵架了，预告一下下一个 Skill 项目\n\n基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面\n\n也可以基于文档生成小绿书和小红书图文所需的 3:4 组图\n\n会自动处理你的截图素材，自...",
       "url": "https://x.com/op7418/status/2058925029203882187",
       "published_at": "2026-05-25T14:55:54Z",
-      "summary": "不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配💬67🔄10❤️186👀12804📊90⚡ Powered by xgo.ing"
+      "summary": "不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配💬92🔄20❤️263👀26770📊131⚡ Powered by xgo.ing"
     },
     {
       "id": "925a2f9111fa438d959d7027e2f84b42ddbbfe8c",
@@ -377,7 +421,7 @@
       "title": "有些账号要倒霉了\n\nhttps://t.co/Gb9luppKAl",
       "url": "https://x.com/op7418/status/2058810823645290940",
       "published_at": "2026-05-25T07:22:05Z",
-      "summary": "有些账号要倒霉了 x.com/op7418/status/…歸藏(guizang.ai)@op7418Twitter 官方开始打击这种程序化的内容搬运，有些喜欢抄东西不转发的，可以准备好了。🔗 View Quoted Tweet💬2🔄0❤️21👀8600📊3⚡ Powered by xgo.ing"
+      "summary": "有些账号要倒霉了 x.com/op7418/status/…歸藏(guizang.ai)@op7418Twitter 官方开始打击这种程序化的内容搬运，有些喜欢抄东西不转发的，可以准备好了。🔗 View Quoted Tweet💬2🔄0❤️21👀9733📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "4df74c3d1e916a3ff4d598ff275b1d0a5799b209",
@@ -399,7 +443,7 @@
       "title": "还有这东西原来，感谢正常标注事实的朋友们",
       "url": "https://x.com/op7418/status/2058794259432771784",
       "published_at": "2026-05-25T06:16:16Z",
-      "summary": "还有这东西原来，感谢正常标注事实的朋友们李韭二@li9292韭二 作为中推内容审核员一员 积极参与内容审核事实核查工作 为中推内容环境净化 为优质内容创作生态 尽自己的一份力🔗 View Quoted Tweet💬12🔄1❤️29👀8800📊10⚡ Powered by xgo.ing"
+      "summary": "还有这东西原来，感谢正常标注事实的朋友们李韭二@li9292韭二 作为中推内容审核员一员 积极参与内容审核事实核查工作 为中推内容环境净化 为优质内容创作生态 尽自己的一份力🔗 View Quoted Tweet💬12🔄1❤️30👀9400📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "d1b36bdcb669a1aac9fe8a57b3e88b809df0743d",
@@ -421,73 +465,7 @@
       "title": "然后转发和引用原创的东西是最基本的，尤其是你转发的是当前的平台。\n\n然后中文倒还好，很多人转人家英文的内容死不认账，然后天天被人骂。\n\n伤害的是好好发原创内容的人，和整个中文社区。",
       "url": "https://x.com/op7418/status/2058770595563880544",
       "published_at": "2026-05-25T04:42:14Z",
-      "summary": "然后转发和引用原创的东西是最基本的，尤其是你转发的是当前的平台。 然后中文倒还好，很多人转人家英文的内容死不认账，然后天天被人骂。 伤害的是好好发原创内容的人，和整个中文社区。💬0🔄0❤️17👀5115📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a109e449fd4edbc51103ee1f7989d706b96557d5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "刚好说起这事来了，顺便说一下推特上应该怎么转发别人的内容。\n\n如果你想做大，想做国际化的话，可以看看。毕竟海外的一些人，他不惯着你。\n\n如果说有原文，你最好是转发。然后呢你可以截他的原文在你的转发的推...",
-      "url": "https://x.com/op7418/status/2058769267139690518",
-      "published_at": "2026-05-25T04:36:58Z",
-      "summary": "刚好说起这事来了，顺便说一下推特上应该怎么转发别人的内容。 如果你想做大，想做国际化的话，可以看看。毕竟海外的一些人，他不惯着你。 如果说有原文，你最好是转发。然后呢你可以截他的原文在你的转发的推文上，这个一般大家是不会说你的。 然后如果是视频，你可以长按去引用视频，然后在第二条推串去引用他的原推文，这样是相当于通知他，那么他如果觉得这样不好，他会来找你，那么你删掉就可以。 然后你如果艾特了别人，然后直接截图的话，也可以在推串的第二条贴上它的原文。 这个其实不影响你的阅读量，也分不了你多少流量。就是要有共赢思维，不要想着说把任何事情任何流量要吃干抹净。…"
-    },
-    {
-      "id": "3d6d12ee66dcf81333a4148fb8c91ce4c8842c62",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "看了 Max 这条内容，我才知道这几天发生了这么多事。这行业里门道这么多吗？我一个 10 万粉小卡拉米也配当大 V 了？",
-      "url": "https://x.com/op7418/status/2058765787406688604",
-      "published_at": "2026-05-25T04:23:08Z",
-      "summary": "看了 Max 这条内容，我才知道这几天发生了这么多事。这行业里门道这么多吗？我一个 10 万粉小卡拉米也配当大 V 了？Max For [redacted-email]/i/article/2058…🔗 View Quoted Tweet💬35🔄1❤️62👀25976📊30⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "49fa4291e0d009c835a59780c2d2b2c1598da543",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我看这事发酵的挺大，我说一下。就是冒用截图就是不对的，无论你是从哪拿到的截图，对吧？\n\n然后正主找上门来了，说你冒用，或者人家不喜欢。首先做的什么事呢？道歉。然后呢，把原内容删掉，在自己的内容上发一个...",
-      "url": "https://x.com/op7418/status/2058756725545840745",
-      "published_at": "2026-05-25T03:47:07Z",
-      "summary": "我看这事发酵的挺大，我说一下。就是冒用截图就是不对的，无论你是从哪拿到的截图，对吧？ 然后正主找上门来了，说你冒用，或者人家不喜欢。首先做的什么事呢？道歉。然后呢，把原内容删掉，在自己的内容上发一个澄清的帖子。 这个事大部分都能接过去，没有什么问题。 但是呢你不能说为了这点流量舍不得说道歉，然后装作自己不清楚，态度也不诚恳。然后还搞些有的没的。 没什么好洗的，我也没什么过分的要求。而且拉黑这个事呢，对吧？就是各自的选择。 我可以拉黑你，你也可以拉黑我。就如果大家觉得这事做的对，你就可以关注他。如果你觉得这事做的不对，你不喜欢，你完全可以拉黑他。 如果你不…"
-    },
-    {
-      "id": "dda626e758b7c5bc253be51c5b5b593a2e116ce7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "@XianyuLi 什么选边站，站队？我不知道啊？我这两天没刷推，这事发展到这个地步了？我就发现这东西不地道，转了条推，然后其他的也没说啥了呀，刚才点了一下他，感觉一直在给自己加戏，懒得理了。",
-      "url": "https://x.com/op7418/status/2058737974939144589",
-      "published_at": "2026-05-25T02:32:37Z",
-      "summary": "@XianyuLi 什么选边站，站队？我不知道啊？我这两天没刷推，这事发展到这个地步了？我就发现这东西不地道，转了条推，然后其他的也没说啥了呀，刚才点了一下他，感觉一直在给自己加戏，懒得理了。💬36🔄0❤️69👀26447📊36⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "22cf55a13459041ae66cf13b14772f8b69fe2d8f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "AI时代的人才，我觉得最重要的是这6点特质。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682539&idx=1&sn=3832e9be5b0983bc8d769adec9936604",
-      "published_at": "2026-05-25T02:08:00Z",
-      "summary": "跟学历没啥关系"
-    },
-    {
-      "id": "bad15945e6c2d8bbc7680c3ca2eff7c16ef7c50c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-25",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-101",
-      "published_at": "2026-05-25T00:47:51Z",
-      "summary": "AI 早报 2026-05-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 昨日下午突发故障并迅速恢复 ↗ #1 行业动态 vLLM 封禁为刷简历提交无意义 PR 的贡献者 ↗ #2 前瞻与传闻 Codex 负责人探讨为产品引入 /slow mode 批量计算功能 ↗ #3 claude-opus-4.8 疑似现身 Google Vertex 后台 ↗ #4 DeepSeek 昨日下午突发故障并迅速恢复 #1 DeepSeek 的状态页显示，其 API 与网页对话服务在 5 月 24 日 下午突发不可用故障，经紧急排查与修复，现…"
+      "summary": "然后转发和引用原创的东西是最基本的，尤其是你转发的是当前的平台。 然后中文倒还好，很多人转人家英文的内容死不认账，然后天天被人骂。 伤害的是好好发原创内容的人，和整个中文社区。💬0🔄0❤️17👀5415📊2⚡ Powered by xgo.ing"
     }
   ]
 }
