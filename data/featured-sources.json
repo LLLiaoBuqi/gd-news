@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T23:37:53.426033Z",
+  "generated_at": "2026-05-27T02:47:52.266579Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 259,
+      "duration_ms": 220,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 31,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1443,
+      "duration_ms": 1420,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 909,
+      "duration_ms": 1131,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 823,
+      "duration_ms": 976,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1377,
+      "duration_ms": 1658,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1219,
+      "duration_ms": 891,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 161,
+      "duration_ms": 176,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2149,
+      "duration_ms": 2051,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 797,
+      "duration_ms": 1303,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,44 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 16,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "617bfec634921dc9b5e4bcd71ddf035471c41407",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "MiniMax M3模型要上了，好久没发新模型了他们",
+          "url": "https://x.com/op7418/status/2059454592010924329",
+          "published_at": "2026-05-27T02:00:12Z",
+          "summary": "MiniMax M3模型要上了，好久没发新模型了他们MiniMax (official)@MiniMax_AI#MSA#OpenSource#M3 🫣😎🔗 View Quoted Tweet💬5🔄0❤️6👀1881📊4⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "55daf6fc7ab9ccf27aa15d9bdafc1cc9b77c9a77",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-05-27",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-103",
+          "published_at": "2026-05-27T01:32:20Z",
+          "summary": "AI 早报 2026-05-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 小米宣布 MiMo-V2.5 系列模型永久降价，优化 Token Plan 计费体系 ↗ #1 Kimi 升级风控误封 Kimi Code 用户，官方致歉并恢复账号 ↗ #2 模型发布 Kwai-Keye 发布 Keye-VL-2.0-30B-A3B 多模态模型 ↗ #3 PrismML 发布 Bonsai Image 4B 开源图像模型 ↗ #4 微软发布文生图模型 MAI-Image-2.5 强化文本渲染能力 ↗ #5 OpenMOSS 团队发布 MOSS-TTS-v…"
+        },
+        {
+          "id": "d9203a214034c1a7d349d7562c1b54628289bffb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我去，小米 MiMo API大幅降价 \n\n2.5 Pro 输入降价幅度高达 99%！输出也有80%！\n\n而且Token plan 额度也大幅提升，相较以前多了5-8倍。\n\n同时重置了所有人的额度。",
+          "url": "https://x.com/op7418/status/2059437482748637513",
+          "published_at": "2026-05-27T00:52:13Z",
+          "summary": "我去，小米 MiMo API大幅降价 2.5 Pro 输入降价幅度高达 99%！输出也有80%！ 而且Token plan 额度也大幅提升，相较以前多了5-8倍。 同时重置了所有人的额度。💬23🔄2❤️15👀5579📊22⚡ Powered by xgo.ing"
+        },
         {
           "id": "0ef041d7890cb8376634c227afe78b897a4ca586",
           "site_id": "featuredrss",
@@ -197,7 +230,7 @@
           "title": "哈哈 确实适合写日记",
           "url": "https://x.com/op7418/status/2059262018109210990",
           "published_at": "2026-05-26T13:14:59Z",
-          "summary": "哈哈 确实适合写日记💬0🔄0❤️4👀3067📊1⚡ Powered by xgo.ing"
+          "summary": "哈哈 确实适合写日记💬0🔄0❤️4👀3461📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "cd2a3d4d9b41b530a9a8306ee2ccb89c17fdc8ef",
@@ -208,7 +241,7 @@
           "title": "笑死 3:4 这比例一上真成杂志了",
           "url": "https://x.com/op7418/status/2059258742831784053",
           "published_at": "2026-05-26T13:01:58Z",
-          "summary": "笑死 3:4 这比例一上真成杂志了歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬37🔄4❤️70👀10773📊33⚡ Powered by xgo.ing"
+          "summary": "笑死 3:4 这比例一上真成杂志了歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬46🔄4❤️85👀12662📊41⚡ Powered by xgo.ing"
         },
         {
           "id": "67912a3f15c6eab72f6ccbdd5676937bbee86d71",
@@ -219,7 +252,7 @@
           "title": "如果图片质量高的话，也有对应的排版：",
           "url": "https://x.com/op7418/status/2059231497412845902",
           "published_at": "2026-05-26T11:13:42Z",
-          "summary": "如果图片质量高的话，也有对应的排版：歸藏(guizang.ai)@op7418藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。🔗 View Quoted Tweet💬0🔄0❤️2👀5368📊1⚡ Powered by xgo.ing"
+          "summary": "如果图片质量高的话，也有对应的排版：歸藏(guizang.ai)@op7418藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。🔗 View Quoted Tweet💬0🔄0❤️2👀5945📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "f657e6012e969cffee57cfedd97dbafb36e68f60",
@@ -230,7 +263,7 @@
           "title": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话\n\nAI 会选择这种侵入性比较低的排版方式，突出你的图片质量。\n\n在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。",
           "url": "https://x.com/op7418/status/2059230887561060539",
           "published_at": "2026-05-26T11:11:16Z",
-          "summary": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬23🔄4❤️31👀12278📊21⚡ Powered by xgo.ing"
+          "summary": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬25🔄4❤️34👀13590📊22⚡ Powered by xgo.ing"
         },
         {
           "id": "d726c49d9dd5aa4549bbceb640436b387c8161ba",
@@ -241,7 +274,7 @@
           "title": "日活跃粉丝比例是 56%，挺高啊",
           "url": "https://x.com/op7418/status/2059198510105514327",
           "published_at": "2026-05-26T09:02:37Z",
-          "summary": "日活跃粉丝比例是 56%，挺高啊💬15🔄0❤️19👀4656📊14⚡ Powered by xgo.ing"
+          "summary": "日活跃粉丝比例是 56%，挺高啊💬16🔄0❤️20👀5951📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "b2d35648143d44cfdb715d60573ec3b8f33baa25",
@@ -252,7 +285,7 @@
           "title": "AI 会自动帮你寻找合适的配图\nhttps://t.co/AmzdvW3Mqr",
           "url": "https://x.com/op7418/status/2059176774630780985",
           "published_at": "2026-05-26T07:36:15Z",
-          "summary": "AI 会自动帮你寻找合适的配图 x.com/op7418/status/…歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬0🔄1❤️6👀3956📊2⚡ Powered by xgo.ing"
+          "summary": "AI 会自动帮你寻找合适的配图 x.com/op7418/status/…歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬1🔄1❤️6👀4262📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "9b81413d216ceede069a8149207ab29589721ecd",
@@ -263,7 +296,7 @@
           "title": "藏师傅的小红书图文排版 Skill 预览\n\n完全靠 HTML 和实拍图片，不会被标注 AI\n\nAI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况",
           "url": "https://x.com/op7418/status/2059176154125480426",
           "published_at": "2026-05-26T07:33:47Z",
-          "summary": "藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况💬101🔄48❤️483👀66467📊211⚡ Powered by xgo.ing"
+          "summary": "藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况💬108🔄49❤️512👀73053📊226⚡ Powered by xgo.ing"
         },
         {
           "id": "6ab7038609352b94f9a78bff7ebeb57afe3cb9cb",
@@ -274,7 +307,7 @@
           "title": "优化了一下瑞士风格",
           "url": "https://x.com/op7418/status/2059140380524994649",
           "published_at": "2026-05-26T05:11:38Z",
-          "summary": "优化了一下瑞士风格💬1🔄0❤️3👀4493📊1⚡ Powered by xgo.ing"
+          "summary": "优化了一下瑞士风格💬1🔄0❤️3👀4748📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "ce682bbff6dd44dc9e43c804b0ecd7ef951017ba",
@@ -286,89 +319,12 @@
           "url": "https://x.com/op7418/status/2059117149877395860",
           "published_at": "2026-05-26T03:39:19Z",
           "summary": "电子杂志风格💬1🔄0❤️2👀3264📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "972d4e4912ac9f1ef58d8ef914d04d3ab93040a7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我去 Krea 卷起来了？\n\n这周他们的 Pro、Max 和 Business 会员 Seedance 2.0 无限用",
-          "url": "https://x.com/op7418/status/2059096803212153202",
-          "published_at": "2026-05-26T02:18:28Z",
-          "summary": "我去 Krea 卷起来了？ 这周他们的 Pro、Max 和 Business 会员 Seedance 2.0 无限用Krea@krea_ainew unlimited Seedance promo. this week we're offering unlimited Seedance 2 generations for Pro, Max, and Business plans. see how to combine it with Krea 2 in this tutorial.Your browser does not support the vid…"
-        },
-        {
-          "id": "366c10495a391db85b1c4a8372c824db5cb6fd62",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "内饰🐂🍺，但这个外观属实都完全看不出法拉利设计语言了",
-          "url": "https://x.com/op7418/status/2059096332409962623",
-          "published_at": "2026-05-26T02:16:36Z",
-          "summary": "内饰🐂🍺，但这个外观属实都完全看不出法拉利设计语言了Mike Matas@mike_matasIntroducing Ferrari Luce, the first electric Ferrari designed by LoveFrom.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬22🔄0❤️8👀11495📊16⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "57afdc871ca32530ebf839ea8d5d29858f604b94",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "WPS的AI PPT进化成这样了，这几个技巧真好用啊！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497699&idx=1&sn=326bcba4d58911e23935a6f4bb635848",
-          "published_at": "2026-05-26T02:16:00Z",
-          "summary": "年中AI PPT速通，小白也能轻松操作。"
-        },
-        {
-          "id": "80be8fca9f93ed051826dfd048a59fe71514d779",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "藏师傅的小红、小绿书组图生成器 Skill 配合 Codex 太好用了！\n\n我给他一张三张拼在一起的图，它自动加进去的时候，我并没有指定位置，它就能自动根据图片内容匹配对应的页数。\n\n而且虽然这三张图...",
-          "url": "https://x.com/op7418/status/2059093924996960308",
-          "published_at": "2026-05-26T02:07:02Z",
-          "summary": "藏师傅的小红、小绿书组图生成器 Skill 配合 Codex 太好用了！ 我给他一张三张拼在一起的图，它自动加进去的时候，我并没有指定位置，它就能自动根据图片内容匹配对应的页数。 而且虽然这三张图是拼在一起的，它在下面还用分开的格子进行了标注，内容都能对上，太省心了。歸藏(guizang.ai)@op7418不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配🔗 View Quoted Tweet💬27🔄…"
-        },
-        {
-          "id": "ab77a3e2309c4c727acf0bfa92fe0cd7a24d2e58",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "我折腾了好久的Skills团队共享，终于有产品替我做出来了。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682618&idx=1&sn=c1ad0582d8a18c9b233d20aa7bf7977b",
-          "published_at": "2026-05-26T01:58:00Z",
-          "summary": "再也不用打包skill了"
-        },
-        {
-          "id": "114a3b23e532cd9a144c0657ea3747be64d25065",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "开源AI热点Skill，同1条信息不用重看10遍了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507312&idx=1&sn=369b26d39e1076145f57d080dfe05ba9",
-          "published_at": "2026-05-26T01:55:00Z",
-          "summary": "卡尔的AI沃茨 2026-05-26 09:55 浙江 半个月前开源浏览破10w的AI热点Skill【伯乐】更新了！照样是不吃API和服务器，每30分钟从40+我这三年来精简过十几次信息源里获取信息，发布到网页上，自带双语翻译，时间轴，信息去重和打分。任何Agent都可以用这个Skill来解析收录新的信息源，欢迎大家来个star催更。 🔗 github.com/LearnPrompt/ai-news-radar 这次最重要的变化， 是新增了一个「伯乐精选」视图。 以前是把过去24小时的AI更新抓回来，过滤掉一部分标题重复的信息，再按时间展示。但最近大家给…"
-        },
-        {
-          "id": "36e2dc18856db2be54590c28944d698363a2d4f2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-05-26",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-102",
-          "published_at": "2026-05-26T00:43:31Z",
-          "summary": "AI 早报 2026-05-26 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 SpaceXAI 完成 Grok V9-Medium 模型训练并预告开源计划 ↗ #1 OpenBMB 发布 MiniCPM5-1B 开源模型 ↗ #2 开发生态 Grok Build 面向 SuperGrok 和 X Premium+ 用户开放 ↗ #3 Google Antigravity 新增 Gemini 3.5 Flash (Low) ↗ #4 产品应用 ima 宣布全面开放 copilot 并上线 Skill 发布功能 ↗ #5 技术与洞察 华为发布韬(τ…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -376,6 +332,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "7876ff1fcf43b775c9185bbd361fe64f82883a4d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "https://t.co/reAlsqCzAO",
+          "url": "https://x.com/GeminiApp/status/2059443101526331704",
+          "published_at": "2026-05-27T01:14:32Z",
+          "summary": "x.com/genel_ai/statu…GENEL | AIを用いた動画制作@genel_aiGemini Omni Flashで 人物の動作をモーション解析風に可視化Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄2❤️10👀4831📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "50e4ba5864f1065a9c998ab413ce4218cf2fe208",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "https://t.co/j6Qu6uAg1b",
+          "url": "https://x.com/GoogleAI/status/2059381218660270435",
+          "published_at": "2026-05-26T21:08:38Z",
+          "summary": "x.com/i/article/2059…💬9🔄54❤️378👀28650📊118⚡ Powered by xgo.ing"
+        },
         {
           "id": "dc3197267c795b0398e13316dac10b3e941930cd",
           "site_id": "featuredrss",
@@ -385,12 +363,67 @@
           "title": "Catch up on all the Gemini app updates from Google I/O in about a minute.",
           "url": "https://x.com/GeminiApp/status/2059308592457777574",
           "published_at": "2026-05-26T16:20:03Z",
-          "summary": "Catch up on all the Gemini app updates from Google I/O in about a minute.💬39🔄67❤️483👀26963📊100⚡ Powered by xgo.ing"
+          "summary": "Catch up on all the Gemini app updates from Google I/O in about a minute.💬58🔄73❤️530👀30234📊121⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "617bfec634921dc9b5e4bcd71ddf035471c41407",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "MiniMax M3模型要上了，好久没发新模型了他们",
+      "url": "https://x.com/op7418/status/2059454592010924329",
+      "published_at": "2026-05-27T02:00:12Z",
+      "summary": "MiniMax M3模型要上了，好久没发新模型了他们MiniMax (official)@MiniMax_AI#MSA#OpenSource#M3 🫣😎🔗 View Quoted Tweet💬5🔄0❤️6👀1881📊4⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "55daf6fc7ab9ccf27aa15d9bdafc1cc9b77c9a77",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-05-27",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-103",
+      "published_at": "2026-05-27T01:32:20Z",
+      "summary": "AI 早报 2026-05-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 小米宣布 MiMo-V2.5 系列模型永久降价，优化 Token Plan 计费体系 ↗ #1 Kimi 升级风控误封 Kimi Code 用户，官方致歉并恢复账号 ↗ #2 模型发布 Kwai-Keye 发布 Keye-VL-2.0-30B-A3B 多模态模型 ↗ #3 PrismML 发布 Bonsai Image 4B 开源图像模型 ↗ #4 微软发布文生图模型 MAI-Image-2.5 强化文本渲染能力 ↗ #5 OpenMOSS 团队发布 MOSS-TTS-v…"
+    },
+    {
+      "id": "7876ff1fcf43b775c9185bbd361fe64f82883a4d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "https://t.co/reAlsqCzAO",
+      "url": "https://x.com/GeminiApp/status/2059443101526331704",
+      "published_at": "2026-05-27T01:14:32Z",
+      "summary": "x.com/genel_ai/statu…GENEL | AIを用いた動画制作@genel_aiGemini Omni Flashで 人物の動作をモーション解析風に可視化Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄2❤️10👀4831📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d9203a214034c1a7d349d7562c1b54628289bffb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我去，小米 MiMo API大幅降价 \n\n2.5 Pro 输入降价幅度高达 99%！输出也有80%！\n\n而且Token plan 额度也大幅提升，相较以前多了5-8倍。\n\n同时重置了所有人的额度。",
+      "url": "https://x.com/op7418/status/2059437482748637513",
+      "published_at": "2026-05-27T00:52:13Z",
+      "summary": "我去，小米 MiMo API大幅降价 2.5 Pro 输入降价幅度高达 99%！输出也有80%！ 而且Token plan 额度也大幅提升，相较以前多了5-8倍。 同时重置了所有人的额度。💬23🔄2❤️15👀5579📊22⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "50e4ba5864f1065a9c998ab413ce4218cf2fe208",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "https://t.co/j6Qu6uAg1b",
+      "url": "https://x.com/GoogleAI/status/2059381218660270435",
+      "published_at": "2026-05-26T21:08:38Z",
+      "summary": "x.com/i/article/2059…💬9🔄54❤️378👀28650📊118⚡ Powered by xgo.ing"
+    },
     {
       "id": "dc3197267c795b0398e13316dac10b3e941930cd",
       "site_id": "featuredrss",
@@ -400,7 +433,7 @@
       "title": "Catch up on all the Gemini app updates from Google I/O in about a minute.",
       "url": "https://x.com/GeminiApp/status/2059308592457777574",
       "published_at": "2026-05-26T16:20:03Z",
-      "summary": "Catch up on all the Gemini app updates from Google I/O in about a minute.💬39🔄67❤️483👀26963📊100⚡ Powered by xgo.ing"
+      "summary": "Catch up on all the Gemini app updates from Google I/O in about a minute.💬58🔄73❤️530👀30234📊121⚡ Powered by xgo.ing"
     },
     {
       "id": "0ef041d7890cb8376634c227afe78b897a4ca586",
@@ -411,7 +444,7 @@
       "title": "哈哈 确实适合写日记",
       "url": "https://x.com/op7418/status/2059262018109210990",
       "published_at": "2026-05-26T13:14:59Z",
-      "summary": "哈哈 确实适合写日记💬0🔄0❤️4👀3067📊1⚡ Powered by xgo.ing"
+      "summary": "哈哈 确实适合写日记💬0🔄0❤️4👀3461📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "cd2a3d4d9b41b530a9a8306ee2ccb89c17fdc8ef",
@@ -422,7 +455,7 @@
       "title": "笑死 3:4 这比例一上真成杂志了",
       "url": "https://x.com/op7418/status/2059258742831784053",
       "published_at": "2026-05-26T13:01:58Z",
-      "summary": "笑死 3:4 这比例一上真成杂志了歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬37🔄4❤️70👀10773📊33⚡ Powered by xgo.ing"
+      "summary": "笑死 3:4 这比例一上真成杂志了歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬46🔄4❤️85👀12662📊41⚡ Powered by xgo.ing"
     },
     {
       "id": "67912a3f15c6eab72f6ccbdd5676937bbee86d71",
@@ -433,7 +466,7 @@
       "title": "如果图片质量高的话，也有对应的排版：",
       "url": "https://x.com/op7418/status/2059231497412845902",
       "published_at": "2026-05-26T11:13:42Z",
-      "summary": "如果图片质量高的话，也有对应的排版：歸藏(guizang.ai)@op7418藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。🔗 View Quoted Tweet💬0🔄0❤️2👀5368📊1⚡ Powered by xgo.ing"
+      "summary": "如果图片质量高的话，也有对应的排版：歸藏(guizang.ai)@op7418藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。🔗 View Quoted Tweet💬0🔄0❤️2👀5945📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "f657e6012e969cffee57cfedd97dbafb36e68f60",
@@ -444,7 +477,7 @@
       "title": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话\n\nAI 会选择这种侵入性比较低的排版方式，突出你的图片质量。\n\n在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。",
       "url": "https://x.com/op7418/status/2059230887561060539",
       "published_at": "2026-05-26T11:11:16Z",
-      "summary": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬23🔄4❤️31👀12278📊21⚡ Powered by xgo.ing"
+      "summary": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬25🔄4❤️34👀13590📊22⚡ Powered by xgo.ing"
     },
     {
       "id": "d726c49d9dd5aa4549bbceb640436b387c8161ba",
@@ -455,7 +488,7 @@
       "title": "日活跃粉丝比例是 56%，挺高啊",
       "url": "https://x.com/op7418/status/2059198510105514327",
       "published_at": "2026-05-26T09:02:37Z",
-      "summary": "日活跃粉丝比例是 56%，挺高啊💬15🔄0❤️19👀4656📊14⚡ Powered by xgo.ing"
+      "summary": "日活跃粉丝比例是 56%，挺高啊💬16🔄0❤️20👀5951📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "b2d35648143d44cfdb715d60573ec3b8f33baa25",
@@ -466,7 +499,7 @@
       "title": "AI 会自动帮你寻找合适的配图\nhttps://t.co/AmzdvW3Mqr",
       "url": "https://x.com/op7418/status/2059176774630780985",
       "published_at": "2026-05-26T07:36:15Z",
-      "summary": "AI 会自动帮你寻找合适的配图 x.com/op7418/status/…歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬0🔄1❤️6👀3956📊2⚡ Powered by xgo.ing"
+      "summary": "AI 会自动帮你寻找合适的配图 x.com/op7418/status/…歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬1🔄1❤️6👀4262📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "9b81413d216ceede069a8149207ab29589721ecd",
@@ -477,7 +510,7 @@
       "title": "藏师傅的小红书图文排版 Skill 预览\n\n完全靠 HTML 和实拍图片，不会被标注 AI\n\nAI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况",
       "url": "https://x.com/op7418/status/2059176154125480426",
       "published_at": "2026-05-26T07:33:47Z",
-      "summary": "藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况💬101🔄48❤️483👀66467📊211⚡ Powered by xgo.ing"
+      "summary": "藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况💬108🔄49❤️512👀73053📊226⚡ Powered by xgo.ing"
     },
     {
       "id": "6ab7038609352b94f9a78bff7ebeb57afe3cb9cb",
@@ -488,7 +521,7 @@
       "title": "优化了一下瑞士风格",
       "url": "https://x.com/op7418/status/2059140380524994649",
       "published_at": "2026-05-26T05:11:38Z",
-      "summary": "优化了一下瑞士风格💬1🔄0❤️3👀4493📊1⚡ Powered by xgo.ing"
+      "summary": "优化了一下瑞士风格💬1🔄0❤️3👀4748📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "ce682bbff6dd44dc9e43c804b0ecd7ef951017ba",
@@ -500,83 +533,6 @@
       "url": "https://x.com/op7418/status/2059117149877395860",
       "published_at": "2026-05-26T03:39:19Z",
       "summary": "电子杂志风格💬1🔄0❤️2👀3264📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "972d4e4912ac9f1ef58d8ef914d04d3ab93040a7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我去 Krea 卷起来了？\n\n这周他们的 Pro、Max 和 Business 会员 Seedance 2.0 无限用",
-      "url": "https://x.com/op7418/status/2059096803212153202",
-      "published_at": "2026-05-26T02:18:28Z",
-      "summary": "我去 Krea 卷起来了？ 这周他们的 Pro、Max 和 Business 会员 Seedance 2.0 无限用Krea@krea_ainew unlimited Seedance promo. this week we're offering unlimited Seedance 2 generations for Pro, Max, and Business plans. see how to combine it with Krea 2 in this tutorial.Your browser does not support the vid…"
-    },
-    {
-      "id": "366c10495a391db85b1c4a8372c824db5cb6fd62",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "内饰🐂🍺，但这个外观属实都完全看不出法拉利设计语言了",
-      "url": "https://x.com/op7418/status/2059096332409962623",
-      "published_at": "2026-05-26T02:16:36Z",
-      "summary": "内饰🐂🍺，但这个外观属实都完全看不出法拉利设计语言了Mike Matas@mike_matasIntroducing Ferrari Luce, the first electric Ferrari designed by LoveFrom.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬22🔄0❤️8👀11495📊16⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "57afdc871ca32530ebf839ea8d5d29858f604b94",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "WPS的AI PPT进化成这样了，这几个技巧真好用啊！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497699&idx=1&sn=326bcba4d58911e23935a6f4bb635848",
-      "published_at": "2026-05-26T02:16:00Z",
-      "summary": "年中AI PPT速通，小白也能轻松操作。"
-    },
-    {
-      "id": "80be8fca9f93ed051826dfd048a59fe71514d779",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "藏师傅的小红、小绿书组图生成器 Skill 配合 Codex 太好用了！\n\n我给他一张三张拼在一起的图，它自动加进去的时候，我并没有指定位置，它就能自动根据图片内容匹配对应的页数。\n\n而且虽然这三张图...",
-      "url": "https://x.com/op7418/status/2059093924996960308",
-      "published_at": "2026-05-26T02:07:02Z",
-      "summary": "藏师傅的小红、小绿书组图生成器 Skill 配合 Codex 太好用了！ 我给他一张三张拼在一起的图，它自动加进去的时候，我并没有指定位置，它就能自动根据图片内容匹配对应的页数。 而且虽然这三张图是拼在一起的，它在下面还用分开的格子进行了标注，内容都能对上，太省心了。歸藏(guizang.ai)@op7418不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配🔗 View Quoted Tweet💬27🔄…"
-    },
-    {
-      "id": "ab77a3e2309c4c727acf0bfa92fe0cd7a24d2e58",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "我折腾了好久的Skills团队共享，终于有产品替我做出来了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682618&idx=1&sn=c1ad0582d8a18c9b233d20aa7bf7977b",
-      "published_at": "2026-05-26T01:58:00Z",
-      "summary": "再也不用打包skill了"
-    },
-    {
-      "id": "114a3b23e532cd9a144c0657ea3747be64d25065",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "开源AI热点Skill，同1条信息不用重看10遍了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507312&idx=1&sn=369b26d39e1076145f57d080dfe05ba9",
-      "published_at": "2026-05-26T01:55:00Z",
-      "summary": "卡尔的AI沃茨 2026-05-26 09:55 浙江 半个月前开源浏览破10w的AI热点Skill【伯乐】更新了！照样是不吃API和服务器，每30分钟从40+我这三年来精简过十几次信息源里获取信息，发布到网页上，自带双语翻译，时间轴，信息去重和打分。任何Agent都可以用这个Skill来解析收录新的信息源，欢迎大家来个star催更。 🔗 github.com/LearnPrompt/ai-news-radar 这次最重要的变化， 是新增了一个「伯乐精选」视图。 以前是把过去24小时的AI更新抓回来，过滤掉一部分标题重复的信息，再按时间展示。但最近大家给…"
-    },
-    {
-      "id": "36e2dc18856db2be54590c28944d698363a2d4f2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-05-26",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-102",
-      "published_at": "2026-05-26T00:43:31Z",
-      "summary": "AI 早报 2026-05-26 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 SpaceXAI 完成 Grok V9-Medium 模型训练并预告开源计划 ↗ #1 OpenBMB 发布 MiniCPM5-1B 开源模型 ↗ #2 开发生态 Grok Build 面向 SuperGrok 和 X Premium+ 用户开放 ↗ #3 Google Antigravity 新增 Gemini 3.5 Flash (Low) ↗ #4 产品应用 ima 宣布全面开放 copilot 并上线 Skill 发布功能 ↗ #5 技术与洞察 华为发布韬(τ…"
     }
   ]
 }
