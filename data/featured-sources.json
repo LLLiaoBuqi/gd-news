@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-27T10:58:15.529504Z",
+  "generated_at": "2026-05-27T14:27:54.628621Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 225,
+      "duration_ms": 273,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 22,
+      "duration_ms": 65,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1555,
+      "duration_ms": 1565,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1215,
+      "duration_ms": 1227,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 767,
+      "duration_ms": 1204,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1492,
+      "duration_ms": 1084,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1381,
+      "duration_ms": 1517,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 182,
+      "duration_ms": 218,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2219,
+      "duration_ms": 2431,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 707,
+      "duration_ms": 836,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,55 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "5fec26cbcd23f42f00cbb8ab36e1945f3b7f0120",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "是时候把我养了100天的Agent拿出来测个MBTI和职业优势测试了！",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507338&idx=1&sn=40f381e8d30136f5715434aaaea8e54b",
+          "published_at": "2026-05-27T11:30:00Z",
+          "summary": "我一个INFJ怎么养出了ESTJ的Agent啊？"
+        },
+        {
+          "id": "9e8c934b71b6e15795f282ce200a8f3a18ca3182",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "杂志感拉满",
+          "url": "https://x.com/op7418/status/2059592263597187139",
+          "published_at": "2026-05-27T11:07:15Z",
+          "summary": "杂志感拉满💬0🔄0❤️4👀2143📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "dbfa222a003bbf9435e19e87fd67eab0922ba80e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "明天发",
+          "url": "https://x.com/op7418/status/2059588882510086639",
+          "published_at": "2026-05-27T10:53:49Z",
+          "summary": "明天发💬4🔄0❤️5👀1101📊4⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "fc1335857f502ffc8de84bfb87eb91eeaa5ec578",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "guizang-social-card-skill\n\n按照小红书的图文常见类别，每个类别都做了优化。\n\n比如说旅行博主需要的地图组件，已经放进去了\n\n你给了目的地和线路以后，AI 会自动在底图上标记，...",
+          "url": "https://x.com/op7418/status/2059587983289016348",
+          "published_at": "2026-05-27T10:50:15Z",
+          "summary": "guizang-social-card-skill 按照小红书的图文常见类别，每个类别都做了优化。 比如说旅行博主需要的地图组件，已经放进去了 你给了目的地和线路以后，AI 会自动在底图上标记，嵌入到图片里面。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬34🔄3❤️69👀9717📊33⚡ Powered by xgo.ing"
+        },
         {
           "id": "b4df9209f30d6e7b6134ee5fdb5020bb2cf572b8",
           "site_id": "featuredrss",
@@ -197,7 +241,18 @@
           "title": "不是都十年了还能有新 DLC 啊？\n\n不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？",
           "url": "https://x.com/op7418/status/2059577692513841477",
           "published_at": "2026-05-27T10:09:21Z",
-          "summary": "不是都十年了还能有新 DLC 啊？ 不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？💬4🔄0❤️6👀911📊4⚡ Powered by xgo.ing"
+          "summary": "不是都十年了还能有新 DLC 啊？ 不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？💬12🔄2❤️13👀5088📊12⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d651dfaa81dc9cc4a58c06cdd298f283e7a541b9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "飞书Cli一句话出可编辑画板，手搓流程图已经是时代的眼泪了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497705&idx=1&sn=5590a3f45a7e71d4afb7838fe47e8a53",
+          "published_at": "2026-05-27T07:57:00Z",
+          "summary": "流程图完全不想手搓了啊啊。"
         },
         {
           "id": "c56aa62dbfb012863f070e73e558076277293fbc",
@@ -230,7 +285,7 @@
           "title": "MiniMax M3模型要上了，好久没发新模型了他们",
           "url": "https://x.com/op7418/status/2059454592010924329",
           "published_at": "2026-05-27T02:00:12Z",
-          "summary": "MiniMax M3模型要上了，好久没发新模型了他们MiniMax (official)@MiniMax_AI#MSA#OpenSource#M3 🫣😎🔗 View Quoted Tweet💬34🔄2❤️216👀38540📊38⚡ Powered by xgo.ing"
+          "summary": "MiniMax M3模型要上了，好久没发新模型了他们MiniMax (official)@MiniMax_AI#MSA#OpenSource#M3 🫣😎🔗 View Quoted Tweet💬37🔄2❤️254👀44380📊42⚡ Powered by xgo.ing"
         },
         {
           "id": "efeb7158633dd0f87d1260dec131979f66644d3b",
@@ -263,51 +318,7 @@
           "title": "我去，小米 MiMo API大幅降价 \n\n2.5 Pro 输入降价幅度高达 99%！输出也有80%！\n\n而且Token plan 额度也大幅提升，相较以前多了5-8倍。\n\n同时重置了所有人的额度。",
           "url": "https://x.com/op7418/status/2059437482748637513",
           "published_at": "2026-05-27T00:52:13Z",
-          "summary": "我去，小米 MiMo API大幅降价 2.5 Pro 输入降价幅度高达 99%！输出也有80%！ 而且Token plan 额度也大幅提升，相较以前多了5-8倍。 同时重置了所有人的额度。💬40🔄4❤️39👀21941📊39⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0ef041d7890cb8376634c227afe78b897a4ca586",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "哈哈 确实适合写日记",
-          "url": "https://x.com/op7418/status/2059262018109210990",
-          "published_at": "2026-05-26T13:14:59Z",
-          "summary": "哈哈 确实适合写日记💬0🔄0❤️5👀4104📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "cd2a3d4d9b41b530a9a8306ee2ccb89c17fdc8ef",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "笑死 3:4 这比例一上真成杂志了",
-          "url": "https://x.com/op7418/status/2059258742831784053",
-          "published_at": "2026-05-26T13:01:58Z",
-          "summary": "笑死 3:4 这比例一上真成杂志了歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬51🔄5❤️97👀15316📊46⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "67912a3f15c6eab72f6ccbdd5676937bbee86d71",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "如果图片质量高的话，也有对应的排版：",
-          "url": "https://x.com/op7418/status/2059231497412845902",
-          "published_at": "2026-05-26T11:13:42Z",
-          "summary": "如果图片质量高的话，也有对应的排版：歸藏(guizang.ai)@op7418藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。🔗 View Quoted Tweet💬0🔄0❤️2👀6886📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f657e6012e969cffee57cfedd97dbafb36e68f60",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话\n\nAI 会选择这种侵入性比较低的排版方式，突出你的图片质量。\n\n在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。",
-          "url": "https://x.com/op7418/status/2059230887561060539",
-          "published_at": "2026-05-26T11:11:16Z",
-          "summary": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬25🔄4❤️36👀16031📊22⚡ Powered by xgo.ing"
+          "summary": "我去，小米 MiMo API大幅降价 2.5 Pro 输入降价幅度高达 99%！输出也有80%！ 而且Token plan 额度也大幅提升，相较以前多了5-8倍。 同时重置了所有人的额度。💬43🔄6❤️44👀24369📊43⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -330,7 +341,7 @@
           "title": "https://t.co/reAlsqCzAO",
           "url": "https://x.com/GeminiApp/status/2059443101526331704",
           "published_at": "2026-05-27T01:14:32Z",
-          "summary": "x.com/genel_ai/statu…GENEL | AIを用いた動画制作@genel_aiGemini Omni Flashで 人物の動作をモーション解析風に可視化Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄4❤️23👀14788📊5⚡ Powered by xgo.ing"
+          "summary": "x.com/genel_ai/statu…GENEL | AIを用いた動画制作@genel_aiGemini Omni Flashで 人物の動作をモーション解析風に可視化Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄4❤️24👀16489📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "50e4ba5864f1065a9c998ab413ce4218cf2fe208",
@@ -341,7 +352,7 @@
           "title": "https://t.co/j6Qu6uAg1b",
           "url": "https://x.com/GoogleAI/status/2059381218660270435",
           "published_at": "2026-05-26T21:08:38Z",
-          "summary": "x.com/i/article/2059…💬22🔄161❤️1044👀88203📊348⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2059…💬25🔄181❤️1143👀99193📊380⚡ Powered by xgo.ing"
         },
         {
           "id": "dc3197267c795b0398e13316dac10b3e941930cd",
@@ -352,12 +363,56 @@
           "title": "Catch up on all the Gemini app updates from Google I/O in about a minute.",
           "url": "https://x.com/GeminiApp/status/2059308592457777574",
           "published_at": "2026-05-26T16:20:03Z",
-          "summary": "Catch up on all the Gemini app updates from Google I/O in about a minute.💬66🔄86❤️621👀35352📊141⚡ Powered by xgo.ing"
+          "summary": "Catch up on all the Gemini app updates from Google I/O in about a minute.💬68🔄93❤️665👀36972📊148⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "5fec26cbcd23f42f00cbb8ab36e1945f3b7f0120",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "是时候把我养了100天的Agent拿出来测个MBTI和职业优势测试了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507338&idx=1&sn=40f381e8d30136f5715434aaaea8e54b",
+      "published_at": "2026-05-27T11:30:00Z",
+      "summary": "我一个INFJ怎么养出了ESTJ的Agent啊？"
+    },
+    {
+      "id": "9e8c934b71b6e15795f282ce200a8f3a18ca3182",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "杂志感拉满",
+      "url": "https://x.com/op7418/status/2059592263597187139",
+      "published_at": "2026-05-27T11:07:15Z",
+      "summary": "杂志感拉满💬0🔄0❤️4👀2143📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "dbfa222a003bbf9435e19e87fd67eab0922ba80e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "明天发",
+      "url": "https://x.com/op7418/status/2059588882510086639",
+      "published_at": "2026-05-27T10:53:49Z",
+      "summary": "明天发💬4🔄0❤️5👀1101📊4⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "fc1335857f502ffc8de84bfb87eb91eeaa5ec578",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "guizang-social-card-skill\n\n按照小红书的图文常见类别，每个类别都做了优化。\n\n比如说旅行博主需要的地图组件，已经放进去了\n\n你给了目的地和线路以后，AI 会自动在底图上标记，...",
+      "url": "https://x.com/op7418/status/2059587983289016348",
+      "published_at": "2026-05-27T10:50:15Z",
+      "summary": "guizang-social-card-skill 按照小红书的图文常见类别，每个类别都做了优化。 比如说旅行博主需要的地图组件，已经放进去了 你给了目的地和线路以后，AI 会自动在底图上标记，嵌入到图片里面。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬34🔄3❤️69👀9717📊33⚡ Powered by xgo.ing"
+    },
     {
       "id": "b4df9209f30d6e7b6134ee5fdb5020bb2cf572b8",
       "site_id": "featuredrss",
@@ -367,7 +422,18 @@
       "title": "不是都十年了还能有新 DLC 啊？\n\n不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？",
       "url": "https://x.com/op7418/status/2059577692513841477",
       "published_at": "2026-05-27T10:09:21Z",
-      "summary": "不是都十年了还能有新 DLC 啊？ 不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？💬4🔄0❤️6👀911📊4⚡ Powered by xgo.ing"
+      "summary": "不是都十年了还能有新 DLC 啊？ 不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？💬12🔄2❤️13👀5088📊12⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d651dfaa81dc9cc4a58c06cdd298f283e7a541b9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "飞书Cli一句话出可编辑画板，手搓流程图已经是时代的眼泪了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497705&idx=1&sn=5590a3f45a7e71d4afb7838fe47e8a53",
+      "published_at": "2026-05-27T07:57:00Z",
+      "summary": "流程图完全不想手搓了啊啊。"
     },
     {
       "id": "c56aa62dbfb012863f070e73e558076277293fbc",
@@ -400,7 +466,7 @@
       "title": "MiniMax M3模型要上了，好久没发新模型了他们",
       "url": "https://x.com/op7418/status/2059454592010924329",
       "published_at": "2026-05-27T02:00:12Z",
-      "summary": "MiniMax M3模型要上了，好久没发新模型了他们MiniMax (official)@MiniMax_AI#MSA#OpenSource#M3 🫣😎🔗 View Quoted Tweet💬34🔄2❤️216👀38540📊38⚡ Powered by xgo.ing"
+      "summary": "MiniMax M3模型要上了，好久没发新模型了他们MiniMax (official)@MiniMax_AI#MSA#OpenSource#M3 🫣😎🔗 View Quoted Tweet💬37🔄2❤️254👀44380📊42⚡ Powered by xgo.ing"
     },
     {
       "id": "efeb7158633dd0f87d1260dec131979f66644d3b",
@@ -433,7 +499,7 @@
       "title": "https://t.co/reAlsqCzAO",
       "url": "https://x.com/GeminiApp/status/2059443101526331704",
       "published_at": "2026-05-27T01:14:32Z",
-      "summary": "x.com/genel_ai/statu…GENEL | AIを用いた動画制作@genel_aiGemini Omni Flashで 人物の動作をモーション解析風に可視化Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄4❤️23👀14788📊5⚡ Powered by xgo.ing"
+      "summary": "x.com/genel_ai/statu…GENEL | AIを用いた動画制作@genel_aiGemini Omni Flashで 人物の動作をモーション解析風に可視化Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄4❤️24👀16489📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "d9203a214034c1a7d349d7562c1b54628289bffb",
@@ -444,7 +510,7 @@
       "title": "我去，小米 MiMo API大幅降价 \n\n2.5 Pro 输入降价幅度高达 99%！输出也有80%！\n\n而且Token plan 额度也大幅提升，相较以前多了5-8倍。\n\n同时重置了所有人的额度。",
       "url": "https://x.com/op7418/status/2059437482748637513",
       "published_at": "2026-05-27T00:52:13Z",
-      "summary": "我去，小米 MiMo API大幅降价 2.5 Pro 输入降价幅度高达 99%！输出也有80%！ 而且Token plan 额度也大幅提升，相较以前多了5-8倍。 同时重置了所有人的额度。💬40🔄4❤️39👀21941📊39⚡ Powered by xgo.ing"
+      "summary": "我去，小米 MiMo API大幅降价 2.5 Pro 输入降价幅度高达 99%！输出也有80%！ 而且Token plan 额度也大幅提升，相较以前多了5-8倍。 同时重置了所有人的额度。💬43🔄6❤️44👀24369📊43⚡ Powered by xgo.ing"
     },
     {
       "id": "50e4ba5864f1065a9c998ab413ce4218cf2fe208",
@@ -455,7 +521,7 @@
       "title": "https://t.co/j6Qu6uAg1b",
       "url": "https://x.com/GoogleAI/status/2059381218660270435",
       "published_at": "2026-05-26T21:08:38Z",
-      "summary": "x.com/i/article/2059…💬22🔄161❤️1044👀88203📊348⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2059…💬25🔄181❤️1143👀99193📊380⚡ Powered by xgo.ing"
     },
     {
       "id": "dc3197267c795b0398e13316dac10b3e941930cd",
@@ -466,51 +532,7 @@
       "title": "Catch up on all the Gemini app updates from Google I/O in about a minute.",
       "url": "https://x.com/GeminiApp/status/2059308592457777574",
       "published_at": "2026-05-26T16:20:03Z",
-      "summary": "Catch up on all the Gemini app updates from Google I/O in about a minute.💬66🔄86❤️621👀35352📊141⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0ef041d7890cb8376634c227afe78b897a4ca586",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "哈哈 确实适合写日记",
-      "url": "https://x.com/op7418/status/2059262018109210990",
-      "published_at": "2026-05-26T13:14:59Z",
-      "summary": "哈哈 确实适合写日记💬0🔄0❤️5👀4104📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "cd2a3d4d9b41b530a9a8306ee2ccb89c17fdc8ef",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "笑死 3:4 这比例一上真成杂志了",
-      "url": "https://x.com/op7418/status/2059258742831784053",
-      "published_at": "2026-05-26T13:01:58Z",
-      "summary": "笑死 3:4 这比例一上真成杂志了歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬51🔄5❤️97👀15316📊46⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "67912a3f15c6eab72f6ccbdd5676937bbee86d71",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "如果图片质量高的话，也有对应的排版：",
-      "url": "https://x.com/op7418/status/2059231497412845902",
-      "published_at": "2026-05-26T11:13:42Z",
-      "summary": "如果图片质量高的话，也有对应的排版：歸藏(guizang.ai)@op7418藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。🔗 View Quoted Tweet💬0🔄0❤️2👀6886📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f657e6012e969cffee57cfedd97dbafb36e68f60",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话\n\nAI 会选择这种侵入性比较低的排版方式，突出你的图片质量。\n\n在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。",
-      "url": "https://x.com/op7418/status/2059230887561060539",
-      "published_at": "2026-05-26T11:11:16Z",
-      "summary": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话 AI 会选择这种侵入性比较低的排版方式，突出你的图片质量。 在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬25🔄4❤️36👀16031📊22⚡ Powered by xgo.ing"
+      "summary": "Catch up on all the Gemini app updates from Google I/O in about a minute.💬68🔄93❤️665👀36972📊148⚡ Powered by xgo.ing"
     }
   ]
 }

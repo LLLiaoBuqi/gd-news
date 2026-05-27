@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-27T10:58:15.529504Z",
+  "generated_at": "2026-05-27T14:27:54.628621Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 203,
-      "duration_ms": 3143,
+      "item_count": 205,
+      "duration_ms": 9863,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 191,
+      "duration_ms": 1568,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 33,
-      "duration_ms": 25,
+      "duration_ms": 413,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 466,
+      "duration_ms": 326,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 313,
+      "duration_ms": 588,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 465,
-      "duration_ms": 12978,
+      "item_count": 516,
+      "duration_ms": 13665,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 618,
+      "duration_ms": 772,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3045,
-      "duration_ms": 1804,
+      "item_count": 3041,
+      "duration_ms": 1256,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 73,
-      "duration_ms": 464,
+      "item_count": 70,
+      "duration_ms": 432,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 298,
+      "duration_ms": 389,
       "error": null
     },
     {
@@ -86,15 +86,15 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1548,
+      "duration_ms": 1386,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 144,
-      "duration_ms": 393,
+      "item_count": 145,
+      "duration_ms": 552,
       "error": null
     },
     {
@@ -103,7 +103,7 @@
       "ok": true,
       "partial_failures": 2,
       "item_count": 234,
-      "duration_ms": 12494,
+      "duration_ms": 11521,
       "error": "2 feeds failed",
       "feed_count": 13,
       "effective_feed_count": 10,
@@ -116,9 +116,9 @@
   "successful_sites": 13,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5386,
-  "items_before_topic_filter": 6557,
-  "items_in_24h": 632,
+  "fetched_raw_items": 5433,
+  "items_before_topic_filter": 7037,
+  "items_in_24h": 663,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -156,7 +156,7 @@
         "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
         "ok": true,
         "item_count": 9,
-        "duration_ms": 308,
+        "duration_ms": 433,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -170,7 +170,7 @@
         "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 68,
+        "duration_ms": 294,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -184,7 +184,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1378,
+        "duration_ms": 1457,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -198,7 +198,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 908,
+        "duration_ms": 1111,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -212,7 +212,7 @@
         "effective_feed_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 6318,
+        "duration_ms": 4441,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -226,7 +226,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1006,
+        "duration_ms": 1025,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -282,7 +282,7 @@
         "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 264,
+        "duration_ms": 290,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -296,7 +296,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 2244,
+        "duration_ms": 2470,
         "error": null,
         "skipped": false,
         "skip_reason": null,
