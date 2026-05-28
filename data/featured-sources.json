@@ -1,13 +1,17 @@
 {
-  "generated_at": "2026-05-28T02:35:13.553116Z",
+  "generated_at": "2026-05-28T06:49:01.034484Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 17,
   "feed_total": 12,
-  "ok_feeds": 10,
+  "ok_feeds": 6,
   "failed_feeds": [
+    "https://rsshub.bestblogs.dev/anthropic/news",
+    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
-    "rsshub://bilibili/user/video/385670211"
+    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+    "rsshub://bilibili/user/video/385670211",
+    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -17,10 +21,10 @@
       "feed_title": "Anthropic News",
       "feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 244,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12019,
+      "error": "HTTPSConnectionPool(host='rsshub.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -33,7 +37,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 83,
+      "duration_ms": 50,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +51,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1246,
+      "duration_ms": 1290,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +65,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1099,
+      "duration_ms": 967,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +79,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 992,
+      "duration_ms": 812,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -87,10 +91,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1758,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12148,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -115,10 +119,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1651,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12139,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -131,7 +135,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 201,
+      "duration_ms": 132,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +149,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2270,
+      "duration_ms": 2507,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -171,10 +175,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 974,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12128,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -183,11 +187,81 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 11,
       "feed_total": 5,
-      "ok_feeds": 5,
-      "failed_feeds": [],
+      "ok_feeds": 2,
+      "failed_feeds": [
+        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
+        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+      ],
       "items": [
+        {
+          "id": "c2e486d6379eba84a045d6a4fc6389db7aae87aa",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。\n\n如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。...",
+          "url": "https://x.com/op7418/status/2059845909245255965",
+          "published_at": "2026-05-28T03:55:09Z",
+          "summary": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。 如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。 除了商用授权以外，我也会帮你在你的产品里把这个效果调整到最好。💬21🔄3❤️42👀3621📊25⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "4e90d6073eac11fe6e102dcff0e9206271160899",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "来了！这次的小红书图片生成器 Skill 效果太好了\n\n我都没想到他能够这么顶，\n\n这次在图文混排上下了非常大功夫\n\n2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配\n\n如果你自己有...",
+          "url": "https://x.com/op7418/status/2059837199299031265",
+          "published_at": "2026-05-28T03:20:32Z",
+          "summary": "来了！这次的小红书图片生成器 Skill 效果太好了 我都没想到他能够这么顶， 这次在图文混排上下了非常大功夫 2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配 如果你自己有非常漂亮的图片，那么它就会凸显你的图片。 如果你没有图片，它会帮你找很牛逼的图片。 即使你的图片不太行，它也会帮你美化，而且会主动避免使用 AI 图片生成，防止你的内容被打上 AI 标记。 我过去一段时间做这类图文内容的痛点都被解决了，放在这里边Your browser does not support the video tag.🔗 View on Twitter…"
+        },
+        {
+          "id": "9dcf38961c469ff991ccc2e05dbf89c9426a63de",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "在这里：https://t.co/TjJONbEXHr",
+          "url": "https://x.com/op7418/status/2059814870833578412",
+          "published_at": "2026-05-28T01:51:49Z",
+          "summary": "在这里：github.com/op7418/guizang…💬1🔄1❤️3👀1412📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a7a398fbd29a7520024c22cfb40f6ce8cfc82e9f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "发布了：https://t.co/iw3hiDZ34r",
+          "url": "https://x.com/op7418/status/2059814776340193459",
+          "published_at": "2026-05-28T01:51:26Z",
+          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬1🔄1❤️9👀2770📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "72e73be82007edeae1807bbb7ac21635bd474f01",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "发布了：https://t.co/iw3hiDZ34r",
+          "url": "https://x.com/op7418/status/2059814732568396081",
+          "published_at": "2026-05-28T01:51:16Z",
+          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬0🔄0❤️4👀2029📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "6296b6c20fb13f64abc05cb4d135f3fec4f4b043",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/qH6VfrJLqy",
+          "url": "https://x.com/op7418/status/2059812895803011449",
+          "published_at": "2026-05-28T01:43:58Z",
+          "summary": "x.com/i/article/2059…💬45🔄40❤️283👀30732📊138⚡ Powered by xgo.ing"
+        },
         {
           "id": "f5490d585403b152c2a50b3e3671da7666e0408d",
           "site_id": "featuredrss",
@@ -200,17 +274,6 @@
           "summary": "AI 早报 2026-05-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI Foundation 宣布投入 2.5 亿美元应对 AI 经济变革 ↗ #1 模型发布 Biohub 发布蛋白质生物学世界模型 ESMFold2 并全面开源 ↗ #2 开发生态 Claude Code 推出响应速度与可靠性优化更新 ↗ #3 Codex 将于 6 月 2 日下线 GPT-5.2 及 5.3-Codex 模型 ↗ #4 OpenCode 限时免费提供 MiMo V2.5 模型 ↗ #5 SuperGrok 及 X Premium+ 用户可在 K…"
         },
         {
-          "id": "5fec26cbcd23f42f00cbb8ab36e1945f3b7f0120",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "是时候把我养了100天的Agent拿出来测个MBTI和职业优势测试了！",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507338&idx=1&sn=40f381e8d30136f5715434aaaea8e54b",
-          "published_at": "2026-05-27T11:30:00Z",
-          "summary": "我一个INFJ怎么养出了ESTJ的Agent啊？"
-        },
-        {
           "id": "9e8c934b71b6e15795f282ce200a8f3a18ca3182",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -219,7 +282,7 @@
           "title": "杂志感拉满",
           "url": "https://x.com/op7418/status/2059592263597187139",
           "published_at": "2026-05-27T11:07:15Z",
-          "summary": "杂志感拉满💬1🔄0❤️9👀3879📊3⚡ Powered by xgo.ing"
+          "summary": "杂志感拉满💬2🔄0❤️13👀5707📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "dbfa222a003bbf9435e19e87fd67eab0922ba80e",
@@ -230,7 +293,7 @@
           "title": "明天发",
           "url": "https://x.com/op7418/status/2059588882510086639",
           "published_at": "2026-05-27T10:53:49Z",
-          "summary": "明天发💬4🔄0❤️7👀1919📊4⚡ Powered by xgo.ing"
+          "summary": "明天发💬4🔄0❤️9👀2194📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "fc1335857f502ffc8de84bfb87eb91eeaa5ec578",
@@ -241,7 +304,7 @@
           "title": "guizang-social-card-skill\n\n按照小红书的图文常见类别，每个类别都做了优化。\n\n比如说旅行博主需要的地图组件，已经放进去了\n\n你给了目的地和线路以后，AI 会自动在底图上标记，...",
           "url": "https://x.com/op7418/status/2059587983289016348",
           "published_at": "2026-05-27T10:50:15Z",
-          "summary": "guizang-social-card-skill 按照小红书的图文常见类别，每个类别都做了优化。 比如说旅行博主需要的地图组件，已经放进去了 你给了目的地和线路以后，AI 会自动在底图上标记，嵌入到图片里面。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬94🔄11❤️141👀20268📊87⚡ Powered by xgo.ing"
+          "summary": "guizang-social-card-skill 按照小红书的图文常见类别，每个类别都做了优化。 比如说旅行博主需要的地图组件，已经放进去了 你给了目的地和线路以后，AI 会自动在底图上标记，嵌入到图片里面。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬103🔄14❤️160👀24738📊97⚡ Powered by xgo.ing"
         },
         {
           "id": "b4df9209f30d6e7b6134ee5fdb5020bb2cf572b8",
@@ -252,40 +315,7 @@
           "title": "不是都十年了还能有新 DLC 啊？\n\n不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？",
           "url": "https://x.com/op7418/status/2059577692513841477",
           "published_at": "2026-05-27T10:09:21Z",
-          "summary": "不是都十年了还能有新 DLC 啊？ 不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？💬47🔄2❤️17👀9021📊40⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d651dfaa81dc9cc4a58c06cdd298f283e7a541b9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "飞书Cli一句话出可编辑画板，手搓流程图已经是时代的眼泪了。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497705&idx=1&sn=5590a3f45a7e71d4afb7838fe47e8a53",
-          "published_at": "2026-05-27T07:57:00Z",
-          "summary": "流程图完全不想手搓了啊啊。"
-        },
-        {
-          "id": "c56aa62dbfb012863f070e73e558076277293fbc",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "OpenRouter 获得 1.3 亿美元的 B 轮融资\n\n感觉这个估值有点低了，这种聚合 API 后面应该是新的 Token 经济的基础平台",
-          "url": "https://x.com/op7418/status/2059472896322625733",
-          "published_at": "2026-05-27T03:12:56Z",
-          "summary": "OpenRouter 获得 1.3 亿美元的 B 轮融资 感觉这个估值有点低了，这种聚合 API 后面应该是新的 Token 经济的基础平台OpenRouter@OpenRouterToday we’re announcing our $113M Series B led by @CapitalGVC. Over the last 6 months, weekly volume on OpenRouter grew from 5T to 25T tokens as AI rapidly shifts from experimentation into p…"
-        },
-        {
-          "id": "8c25023bf21acf6af435b34b1bef786ab78c73a1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Qwen 3.7 Max 在 Arena Coding Agent 上排第四",
-          "url": "https://x.com/op7418/status/2059472466666455144",
-          "published_at": "2026-05-27T03:11:13Z",
-          "summary": "Qwen 3.7 Max 在 Arena Coding Agent 上排第四Arena.ai@arenaQwen3.7 Max (20250517) debuts at #4 in Code Arena: Frontend - the top-ranked Chinese lab on the board, surpassing GLM-5.1 and is now on par with Claude Opus 4.6 on agentic web development tasks. Huge congrats to @Alibaba_Qwen on…"
+          "summary": "不是都十年了还能有新 DLC 啊？ 不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？💬56🔄2❤️18👀9906📊48⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -293,8 +323,9 @@
       "label": "国外精选",
       "total_items": 6,
       "feed_total": 7,
-      "ok_feeds": 5,
+      "ok_feeds": 4,
       "failed_feeds": [
+        "https://rsshub.bestblogs.dev/anthropic/news",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
@@ -308,7 +339,7 @@
           "title": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and i...",
           "url": "https://x.com/GeminiApp/status/2059754290630320482",
           "published_at": "2026-05-27T21:51:05Z",
-          "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app.💬3🔄4❤️42👀8353📊8⚡ Powered by xgo.ing"
+          "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app.💬9🔄5❤️58👀12551📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "e508e7b04682ba59e0a3ef2b3eab8ebaf6fa2824",
@@ -319,7 +350,7 @@
           "title": "Easily transform your videos into new visual styles with Gemini Omni.\n\nJust upload a video or photo ...",
           "url": "https://x.com/GeminiApp/status/2059754264248139968",
           "published_at": "2026-05-27T21:50:59Z",
-          "summary": "Easily transform your videos into new visual styles with Gemini Omni. Just upload a video or photo and ask Gemini to apply a look or style to your final output.💬29🔄25❤️228👀14438📊57⚡ Powered by xgo.ing"
+          "summary": "Easily transform your videos into new visual styles with Gemini Omni. Just upload a video or photo and ask Gemini to apply a look or style to your final output.💬35🔄46❤️373👀22490📊84⚡ Powered by xgo.ing"
         },
         {
           "id": "e43112d16a7d7955ea9363f3dbc03f2e3447671f",
@@ -330,7 +361,7 @@
           "title": "Look back at last week’s I/O announcements with @NotebookLM.\n\nYou can listen to an audio overview, w...",
           "url": "https://x.com/GoogleAI/status/2059748312236921149",
           "published_at": "2026-05-27T21:27:20Z",
-          "summary": "Look back at last week’s I/O announcements with @NotebookLM. You can listen to an audio overview, watch the video recap, and even check out our detailed slide deck summarizing all of the biggest news and launches. Check it out here: blog.google/innovation-and…💬13🔄12❤️94👀11773📊23⚡…"
+          "summary": "Look back at last week’s I/O announcements with @NotebookLM. You can listen to an audio overview, watch the video recap, and even check out our detailed slide deck summarizing all of the biggest news and launches. Check it out here: blog.google/innovation-and…💬14🔄17❤️127👀17027📊29…"
         },
         {
           "id": "57df95b7267ad3302df9b9cbab65443af174964c",
@@ -352,7 +383,7 @@
           "title": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally at https://t.co/...",
           "url": "https://x.com/GeminiApp/status/2059663558288539658",
           "published_at": "2026-05-27T15:50:33Z",
-          "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally at gemini.google and in the app.💬4🔄4❤️92👀12309📊13⚡ Powered by xgo.ing"
+          "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally at gemini.google and in the app.💬6🔄4❤️103👀13968📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "7b38a9f1f5a2e5c49b88b54204e16e27f28a2065",
@@ -363,12 +394,78 @@
           "title": "Add text, video, or up to five images as your ingredients and Gemini Omni can combine them all into ...",
           "url": "https://x.com/GeminiApp/status/2059663425580695564",
           "published_at": "2026-05-27T15:50:02Z",
-          "summary": "Add text, video, or up to five images as your ingredients and Gemini Omni can combine them all into one cohesive ten-second video. Try it today and share your creations in the replies. 👇💬68🔄50❤️388👀26356📊115⚡ Powered by xgo.ing"
+          "summary": "Add text, video, or up to five images as your ingredients and Gemini Omni can combine them all into one cohesive ten-second video. Try it today and share your creations in the replies. 👇💬72🔄57❤️480👀31381📊131⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "c2e486d6379eba84a045d6a4fc6389db7aae87aa",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。\n\n如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。...",
+      "url": "https://x.com/op7418/status/2059845909245255965",
+      "published_at": "2026-05-28T03:55:09Z",
+      "summary": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。 如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。 除了商用授权以外，我也会帮你在你的产品里把这个效果调整到最好。💬21🔄3❤️42👀3621📊25⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "4e90d6073eac11fe6e102dcff0e9206271160899",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "来了！这次的小红书图片生成器 Skill 效果太好了\n\n我都没想到他能够这么顶，\n\n这次在图文混排上下了非常大功夫\n\n2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配\n\n如果你自己有...",
+      "url": "https://x.com/op7418/status/2059837199299031265",
+      "published_at": "2026-05-28T03:20:32Z",
+      "summary": "来了！这次的小红书图片生成器 Skill 效果太好了 我都没想到他能够这么顶， 这次在图文混排上下了非常大功夫 2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配 如果你自己有非常漂亮的图片，那么它就会凸显你的图片。 如果你没有图片，它会帮你找很牛逼的图片。 即使你的图片不太行，它也会帮你美化，而且会主动避免使用 AI 图片生成，防止你的内容被打上 AI 标记。 我过去一段时间做这类图文内容的痛点都被解决了，放在这里边Your browser does not support the video tag.🔗 View on Twitter…"
+    },
+    {
+      "id": "9dcf38961c469ff991ccc2e05dbf89c9426a63de",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "在这里：https://t.co/TjJONbEXHr",
+      "url": "https://x.com/op7418/status/2059814870833578412",
+      "published_at": "2026-05-28T01:51:49Z",
+      "summary": "在这里：github.com/op7418/guizang…💬1🔄1❤️3👀1412📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a7a398fbd29a7520024c22cfb40f6ce8cfc82e9f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "发布了：https://t.co/iw3hiDZ34r",
+      "url": "https://x.com/op7418/status/2059814776340193459",
+      "published_at": "2026-05-28T01:51:26Z",
+      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬1🔄1❤️9👀2770📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "72e73be82007edeae1807bbb7ac21635bd474f01",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "发布了：https://t.co/iw3hiDZ34r",
+      "url": "https://x.com/op7418/status/2059814732568396081",
+      "published_at": "2026-05-28T01:51:16Z",
+      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬0🔄0❤️4👀2029📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "6296b6c20fb13f64abc05cb4d135f3fec4f4b043",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/qH6VfrJLqy",
+      "url": "https://x.com/op7418/status/2059812895803011449",
+      "published_at": "2026-05-28T01:43:58Z",
+      "summary": "x.com/i/article/2059…💬45🔄40❤️283👀30732📊138⚡ Powered by xgo.ing"
+    },
     {
       "id": "f5490d585403b152c2a50b3e3671da7666e0408d",
       "site_id": "featuredrss",
@@ -389,7 +486,7 @@
       "title": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and i...",
       "url": "https://x.com/GeminiApp/status/2059754290630320482",
       "published_at": "2026-05-27T21:51:05Z",
-      "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app.💬3🔄4❤️42👀8353📊8⚡ Powered by xgo.ing"
+      "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app.💬9🔄5❤️58👀12551📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "e508e7b04682ba59e0a3ef2b3eab8ebaf6fa2824",
@@ -400,7 +497,7 @@
       "title": "Easily transform your videos into new visual styles with Gemini Omni.\n\nJust upload a video or photo ...",
       "url": "https://x.com/GeminiApp/status/2059754264248139968",
       "published_at": "2026-05-27T21:50:59Z",
-      "summary": "Easily transform your videos into new visual styles with Gemini Omni. Just upload a video or photo and ask Gemini to apply a look or style to your final output.💬29🔄25❤️228👀14438📊57⚡ Powered by xgo.ing"
+      "summary": "Easily transform your videos into new visual styles with Gemini Omni. Just upload a video or photo and ask Gemini to apply a look or style to your final output.💬35🔄46❤️373👀22490📊84⚡ Powered by xgo.ing"
     },
     {
       "id": "e43112d16a7d7955ea9363f3dbc03f2e3447671f",
@@ -411,7 +508,7 @@
       "title": "Look back at last week’s I/O announcements with @NotebookLM.\n\nYou can listen to an audio overview, w...",
       "url": "https://x.com/GoogleAI/status/2059748312236921149",
       "published_at": "2026-05-27T21:27:20Z",
-      "summary": "Look back at last week’s I/O announcements with @NotebookLM. You can listen to an audio overview, watch the video recap, and even check out our detailed slide deck summarizing all of the biggest news and launches. Check it out here: blog.google/innovation-and…💬13🔄12❤️94👀11773📊23⚡…"
+      "summary": "Look back at last week’s I/O announcements with @NotebookLM. You can listen to an audio overview, watch the video recap, and even check out our detailed slide deck summarizing all of the biggest news and launches. Check it out here: blog.google/innovation-and…💬14🔄17❤️127👀17027📊29…"
     },
     {
       "id": "57df95b7267ad3302df9b9cbab65443af174964c",
@@ -433,7 +530,7 @@
       "title": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally at https://t.co/...",
       "url": "https://x.com/GeminiApp/status/2059663558288539658",
       "published_at": "2026-05-27T15:50:33Z",
-      "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally at gemini.google and in the app.💬4🔄4❤️92👀12309📊13⚡ Powered by xgo.ing"
+      "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally at gemini.google and in the app.💬6🔄4❤️103👀13968📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "7b38a9f1f5a2e5c49b88b54204e16e27f28a2065",
@@ -444,18 +541,7 @@
       "title": "Add text, video, or up to five images as your ingredients and Gemini Omni can combine them all into ...",
       "url": "https://x.com/GeminiApp/status/2059663425580695564",
       "published_at": "2026-05-27T15:50:02Z",
-      "summary": "Add text, video, or up to five images as your ingredients and Gemini Omni can combine them all into one cohesive ten-second video. Try it today and share your creations in the replies. 👇💬68🔄50❤️388👀26356📊115⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5fec26cbcd23f42f00cbb8ab36e1945f3b7f0120",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "是时候把我养了100天的Agent拿出来测个MBTI和职业优势测试了！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507338&idx=1&sn=40f381e8d30136f5715434aaaea8e54b",
-      "published_at": "2026-05-27T11:30:00Z",
-      "summary": "我一个INFJ怎么养出了ESTJ的Agent啊？"
+      "summary": "Add text, video, or up to five images as your ingredients and Gemini Omni can combine them all into one cohesive ten-second video. Try it today and share your creations in the replies. 👇💬72🔄57❤️480👀31381📊131⚡ Powered by xgo.ing"
     },
     {
       "id": "9e8c934b71b6e15795f282ce200a8f3a18ca3182",
@@ -466,7 +552,7 @@
       "title": "杂志感拉满",
       "url": "https://x.com/op7418/status/2059592263597187139",
       "published_at": "2026-05-27T11:07:15Z",
-      "summary": "杂志感拉满💬1🔄0❤️9👀3879📊3⚡ Powered by xgo.ing"
+      "summary": "杂志感拉满💬2🔄0❤️13👀5707📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "dbfa222a003bbf9435e19e87fd67eab0922ba80e",
@@ -477,7 +563,7 @@
       "title": "明天发",
       "url": "https://x.com/op7418/status/2059588882510086639",
       "published_at": "2026-05-27T10:53:49Z",
-      "summary": "明天发💬4🔄0❤️7👀1919📊4⚡ Powered by xgo.ing"
+      "summary": "明天发💬4🔄0❤️9👀2194📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "fc1335857f502ffc8de84bfb87eb91eeaa5ec578",
@@ -488,7 +574,7 @@
       "title": "guizang-social-card-skill\n\n按照小红书的图文常见类别，每个类别都做了优化。\n\n比如说旅行博主需要的地图组件，已经放进去了\n\n你给了目的地和线路以后，AI 会自动在底图上标记，...",
       "url": "https://x.com/op7418/status/2059587983289016348",
       "published_at": "2026-05-27T10:50:15Z",
-      "summary": "guizang-social-card-skill 按照小红书的图文常见类别，每个类别都做了优化。 比如说旅行博主需要的地图组件，已经放进去了 你给了目的地和线路以后，AI 会自动在底图上标记，嵌入到图片里面。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬94🔄11❤️141👀20268📊87⚡ Powered by xgo.ing"
+      "summary": "guizang-social-card-skill 按照小红书的图文常见类别，每个类别都做了优化。 比如说旅行博主需要的地图组件，已经放进去了 你给了目的地和线路以后，AI 会自动在底图上标记，嵌入到图片里面。歸藏(guizang.ai)@op7418藏师傅的小红书图文排版 Skill 预览 完全靠 HTML 和实拍图片，不会被标注 AI AI 会去高质量图片网站帮你寻找对应的主题图片，让你的图文告别只有生硬文字的尴尬情况🔗 View Quoted Tweet💬103🔄14❤️160👀24738📊97⚡ Powered by xgo.ing"
     },
     {
       "id": "b4df9209f30d6e7b6134ee5fdb5020bb2cf572b8",
@@ -499,40 +585,7 @@
       "title": "不是都十年了还能有新 DLC 啊？\n\n不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？",
       "url": "https://x.com/op7418/status/2059577692513841477",
       "published_at": "2026-05-27T10:09:21Z",
-      "summary": "不是都十年了还能有新 DLC 啊？ 不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？💬47🔄2❤️17👀9021📊40⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d651dfaa81dc9cc4a58c06cdd298f283e7a541b9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "飞书Cli一句话出可编辑画板，手搓流程图已经是时代的眼泪了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497705&idx=1&sn=5590a3f45a7e71d4afb7838fe47e8a53",
-      "published_at": "2026-05-27T07:57:00Z",
-      "summary": "流程图完全不想手搓了啊啊。"
-    },
-    {
-      "id": "c56aa62dbfb012863f070e73e558076277293fbc",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "OpenRouter 获得 1.3 亿美元的 B 轮融资\n\n感觉这个估值有点低了，这种聚合 API 后面应该是新的 Token 经济的基础平台",
-      "url": "https://x.com/op7418/status/2059472896322625733",
-      "published_at": "2026-05-27T03:12:56Z",
-      "summary": "OpenRouter 获得 1.3 亿美元的 B 轮融资 感觉这个估值有点低了，这种聚合 API 后面应该是新的 Token 经济的基础平台OpenRouter@OpenRouterToday we’re announcing our $113M Series B led by @CapitalGVC. Over the last 6 months, weekly volume on OpenRouter grew from 5T to 25T tokens as AI rapidly shifts from experimentation into p…"
-    },
-    {
-      "id": "8c25023bf21acf6af435b34b1bef786ab78c73a1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Qwen 3.7 Max 在 Arena Coding Agent 上排第四",
-      "url": "https://x.com/op7418/status/2059472466666455144",
-      "published_at": "2026-05-27T03:11:13Z",
-      "summary": "Qwen 3.7 Max 在 Arena Coding Agent 上排第四Arena.ai@arenaQwen3.7 Max (20250517) debuts at #4 in Code Arena: Frontend - the top-ranked Chinese lab on the board, surpassing GLM-5.1 and is now on par with Claude Opus 4.6 on agentic web development tasks. Huge congrats to @Alibaba_Qwen on…"
+      "summary": "不是都十年了还能有新 DLC 啊？ 不知道到底有多大体量，应该是为了补齐《巫师4》的一些设定或者是内容？💬56🔄2❤️18👀9906📊48⚡ Powered by xgo.ing"
     }
   ]
 }
