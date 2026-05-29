@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-29T13:54:45.644241Z",
+  "generated_at": "2026-05-29T17:29:47.882246Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 22,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 657,
+      "duration_ms": 408,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 19,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1392,
+      "duration_ms": 1798,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 761,
+      "duration_ms": 687,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1043,
+      "duration_ms": 1653,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1287,
+      "duration_ms": 1212,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 188,
+      "duration_ms": 204,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2395,
+      "duration_ms": 2347,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 622,
+      "duration_ms": 1766,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 11,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "e94a0e509b64d1ae504b84796b23b5d5052690ce",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。\n\n我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。\n\n今天突...",
+          "url": "https://x.com/op7418/status/2060367382884094026",
+          "published_at": "2026-05-29T14:27:18Z",
+          "summary": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。 我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。 今天突然想起来，打开让 Claude Code 帮我装。 打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好 这个未来感觉很有用。💬36🔄2❤️51👀14393📊39⚡ Powered by xgo.ing"
+        },
         {
           "id": "3bd11c14bef286bec146cd8b782326e162cd10b5",
           "site_id": "featuredrss",
@@ -219,7 +230,7 @@
           "title": "笑死，这都行",
           "url": "https://x.com/op7418/status/2060269839563043062",
           "published_at": "2026-05-29T07:59:42Z",
-          "summary": "笑死，这都行Kenton Varda@KentonVardaChinese AI Twitter is obsessing over my wife. How was your day?🔗 View Quoted Tweet💬14🔄0❤️7👀6890📊10⚡ Powered by xgo.ing"
+          "summary": "笑死，这都行Kenton Varda@KentonVardaChinese AI Twitter is obsessing over my wife. How was your day?🔗 View Quoted Tweet💬14🔄0❤️8👀9184📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "271c135d76a722e00ea80eab3c4be257feafbd5e",
@@ -230,7 +241,7 @@
           "title": "Skill 在这里：https://t.co/iw3hiDZ34r",
           "url": "https://x.com/op7418/status/2060192750365180115",
           "published_at": "2026-05-29T02:53:22Z",
-          "summary": "Skill 在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬0🔄4❤️21👀6297📊6⚡ Powered by xgo.ing"
+          "summary": "Skill 在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬0🔄5❤️26👀7212📊9⚡ Powered by xgo.ing"
         },
         {
           "id": "cee0ee4a136fc3a0b201e451bf1f8d95a3f72769",
@@ -241,7 +252,7 @@
           "title": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了\n\n说明这玩意儿确实有用。\n\n你们再发的话可以艾特一下我，我还得给你们点点赞",
           "url": "https://x.com/op7418/status/2060192275301642532",
           "published_at": "2026-05-29T02:51:29Z",
-          "summary": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了 说明这玩意儿确实有用。 你们再发的话可以艾特一下我，我还得给你们点点赞💬72🔄11❤️144👀17318📊88⚡ Powered by xgo.ing"
+          "summary": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了 说明这玩意儿确实有用。 你们再发的话可以艾特一下我，我还得给你们点点赞💬78🔄16❤️190👀21811📊105⚡ Powered by xgo.ing"
         },
         {
           "id": "00fcf420edd0a02f56fe18e31fc8f57f48b74a19",
@@ -274,7 +285,7 @@
           "title": "另外 Fast 模式大幅降价，价格是由原来的三分之一",
           "url": "https://x.com/op7418/status/2060170422742880671",
           "published_at": "2026-05-29T01:24:39Z",
-          "summary": "另外 Fast 模式大幅降价，价格是由原来的三分之一💬0🔄0❤️0👀2830⚡ Powered by xgo.ing"
+          "summary": "另外 Fast 模式大幅降价，价格是由原来的三分之一💬0🔄0❤️0👀3161⚡ Powered by xgo.ing"
         },
         {
           "id": "71d717f47291d8b3e6ce20c8e0b1725786a463b6",
@@ -302,7 +313,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 11,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -310,6 +321,83 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "5c6c6c936ab41aa709367e128948bad707cbf54b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini Spark is now available to all Google AI Ultra subscribers in the U.S.\n\nIt can handle the heav...",
+          "url": "https://x.com/GeminiApp/status/2060405496872579115",
+          "published_at": "2026-05-29T16:58:45Z",
+          "summary": "Gemini Spark is now available to all Google AI Ultra subscribers in the U.S. It can handle the heavy lifting and connect the dots across your digital ecosystem to take action where it matters most. Whether you watch it work or let it run in the background, Gemini Spark is always…"
+        },
+        {
+          "id": "1d00cba5d75d707aa13d8fe022ce4677b2a11d40",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Hear the architects of Gemini reflect on their journey to continue pushing the frontier of AI, on th...",
+          "url": "https://x.com/GoogleAI/status/2060392191508488493",
+          "published_at": "2026-05-29T16:05:53Z",
+          "summary": "Hear the architects of Gemini reflect on their journey to continue pushing the frontier of AI, on this episode of Release Notes. @JeffDean, @koraykv, @OriolVinyalsML, and @NoamShazeer sit down on camera together to share a behind-the-scenes look at the people behind the model, an…"
+        },
+        {
+          "id": "52aa5e33e77a88f7acf4ae120d81fe998dedb864",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Tune in for the full story ↓ https://t.co/EGq2OA3A1n",
+          "url": "https://x.com/GoogleAI/status/2060392194142290294",
+          "published_at": "2026-05-29T16:05:53Z",
+          "summary": "Tune in for the full story ↓ youtube.com/watch?v=8hfpLa…💬1🔄1❤️9👀9675📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1373aef892e5a59c0b5bd25ee10501d936f7e0b2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "That’s a wrap on this month’s Gemini Drops!\n\nTo learn more about everything that’s new, check out th...",
+          "url": "https://x.com/GeminiApp/status/2060390590219731116",
+          "published_at": "2026-05-29T15:59:31Z",
+          "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬0🔄2❤️13👀3735📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "cb22969cf2d5ef2980fc6134eb9aedbd52652c2f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "9) Level up with Google AI Ultra\n\nUnlock higher usage limits and Gemini 3.5 Flash with the new Googl...",
+          "url": "https://x.com/GeminiApp/status/2060390587711492432",
+          "published_at": "2026-05-29T15:59:30Z",
+          "summary": "9) Level up with Google AI Ultra Unlock higher usage limits and Gemini 3.5 Flash with the new Google AI Ultra plan for just $100/month.💬2🔄1❤️18👀4047📊4⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d0e8b54c7b99282216ebcb34b3d06ca32b201e31",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a loo...",
+          "url": "https://x.com/GeminiApp/status/2060389565052096911",
+          "published_at": "2026-05-29T15:55:27Z",
+          "summary": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a look at this month’s Gemini Drops. 🧵💬34🔄41❤️251👀26206📊66⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5f2e3b072df4543fcce1fbcd7044baad66fb18e5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We’re taking steps to accelerate defensive progress in biology:\n\n- Launching Rosalind Biodefense to ...",
+          "url": "https://x.com/OpenAI/status/2060376598642405492",
+          "published_at": "2026-05-29T15:03:55Z",
+          "summary": "We’re taking steps to accelerate defensive progress in biology: - Launching Rosalind Biodefense to help trusted builders develop new biodefense and pandemic preparedness capabilities. - Expanding trusted access to GPT-Rosalind for select U.S. government and allied partners suppor…"
+        },
         {
           "id": "9715014a8a94b355c3279ff2d42b54c074d98dbb",
           "site_id": "featuredrss",
@@ -319,7 +407,7 @@
           "title": "Draw a path that a drone can follow\nhttps://t.co/dpOgAcl7yt",
           "url": "https://x.com/GoogleAI/status/2060156790642299029",
           "published_at": "2026-05-29T00:30:29Z",
-          "summary": "Draw a path that a drone can follow x.com/bilawalsidhu/s…Bilawal Sidhu@bilawalsidhuGave google omni a sketched camera path and asked it to generate drone POV footage.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄3❤️45👀18492📊7⚡ Powered by xgo.i…"
+          "summary": "Draw a path that a drone can follow x.com/bilawalsidhu/s…Bilawal Sidhu@bilawalsidhuGave google omni a sketched camera path and asked it to generate drone POV footage.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄4❤️52👀20791📊8⚡ Powered by xgo.i…"
         },
         {
           "id": "44a8355d0b10d8da6c834e75e4c5657f98a64390",
@@ -341,7 +429,7 @@
           "title": "Some fun Gemini Omni use cases from the community 🧵👇",
           "url": "https://x.com/GoogleAI/status/2060156780311654699",
           "published_at": "2026-05-29T00:30:26Z",
-          "summary": "Some fun Gemini Omni use cases from the community 🧵👇💬22🔄38❤️396👀84211📊95⚡ Powered by xgo.ing"
+          "summary": "Some fun Gemini Omni use cases from the community 🧵👇💬25🔄45❤️531👀109820📊119⚡ Powered by xgo.ing"
         },
         {
           "id": "b4e509955712a48d9a2f16ae98ddb6a11e912aed",
@@ -353,44 +441,99 @@
           "url": "https://x.com/GeminiApp/status/2060074415304610168",
           "published_at": "2026-05-28T19:03:09Z",
           "summary": "You’re in luck! Users in India can now upload videos (from their camera roll or saved files) and use Gemini Omni to edit and transform them. Give it a try and let us know what you think.Vijay Choudhary@_vijaychoudharyGemini Omni seems to outperform everything. Crazy updates for V…"
-        },
-        {
-          "id": "743c5455a1d04ea1b7d5d76dbfe46a1bb9e8f26d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "R&amp;D Part 1: Here to Win",
-          "url": "https://x.com/OpenAI/status/2060032839991914619",
-          "published_at": "2026-05-28T16:17:57Z",
-          "summary": "R&D Part 1: Here to WinYour browser does not support the video tag.🔗 View on Twitter💬163🔄121❤️2175👀310222📊383⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f4fe163edaea44d4fde51ac348562304b3230fdf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and i...",
-          "url": "https://x.com/GeminiApp/status/2060025441155711321",
-          "published_at": "2026-05-28T15:48:33Z",
-          "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app. Learn more: gemini.google/overview/video…💬2🔄8❤️75👀15822📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "84a38cee3d9983facfcd2ecc2b4773ad3c52e546",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! \n\nGet started i...",
-          "url": "https://x.com/GeminiApp/status/2060022813373890648",
-          "published_at": "2026-05-28T15:38:06Z",
-          "summary": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! Get started in the app or gemini.google.com: > Upload your video > Tell Gemini the change you want to make > Enjoy your new creation We can't wait to see what you make!💬79🔄100❤️1199👀90736📊215⚡ Po…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "5c6c6c936ab41aa709367e128948bad707cbf54b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini Spark is now available to all Google AI Ultra subscribers in the U.S.\n\nIt can handle the heav...",
+      "url": "https://x.com/GeminiApp/status/2060405496872579115",
+      "published_at": "2026-05-29T16:58:45Z",
+      "summary": "Gemini Spark is now available to all Google AI Ultra subscribers in the U.S. It can handle the heavy lifting and connect the dots across your digital ecosystem to take action where it matters most. Whether you watch it work or let it run in the background, Gemini Spark is always…"
+    },
+    {
+      "id": "1d00cba5d75d707aa13d8fe022ce4677b2a11d40",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Hear the architects of Gemini reflect on their journey to continue pushing the frontier of AI, on th...",
+      "url": "https://x.com/GoogleAI/status/2060392191508488493",
+      "published_at": "2026-05-29T16:05:53Z",
+      "summary": "Hear the architects of Gemini reflect on their journey to continue pushing the frontier of AI, on this episode of Release Notes. @JeffDean, @koraykv, @OriolVinyalsML, and @NoamShazeer sit down on camera together to share a behind-the-scenes look at the people behind the model, an…"
+    },
+    {
+      "id": "52aa5e33e77a88f7acf4ae120d81fe998dedb864",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Tune in for the full story ↓ https://t.co/EGq2OA3A1n",
+      "url": "https://x.com/GoogleAI/status/2060392194142290294",
+      "published_at": "2026-05-29T16:05:53Z",
+      "summary": "Tune in for the full story ↓ youtube.com/watch?v=8hfpLa…💬1🔄1❤️9👀9675📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1373aef892e5a59c0b5bd25ee10501d936f7e0b2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "That’s a wrap on this month’s Gemini Drops!\n\nTo learn more about everything that’s new, check out th...",
+      "url": "https://x.com/GeminiApp/status/2060390590219731116",
+      "published_at": "2026-05-29T15:59:31Z",
+      "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬0🔄2❤️13👀3735📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "cb22969cf2d5ef2980fc6134eb9aedbd52652c2f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "9) Level up with Google AI Ultra\n\nUnlock higher usage limits and Gemini 3.5 Flash with the new Googl...",
+      "url": "https://x.com/GeminiApp/status/2060390587711492432",
+      "published_at": "2026-05-29T15:59:30Z",
+      "summary": "9) Level up with Google AI Ultra Unlock higher usage limits and Gemini 3.5 Flash with the new Google AI Ultra plan for just $100/month.💬2🔄1❤️18👀4047📊4⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d0e8b54c7b99282216ebcb34b3d06ca32b201e31",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a loo...",
+      "url": "https://x.com/GeminiApp/status/2060389565052096911",
+      "published_at": "2026-05-29T15:55:27Z",
+      "summary": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a look at this month’s Gemini Drops. 🧵💬34🔄41❤️251👀26206📊66⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5f2e3b072df4543fcce1fbcd7044baad66fb18e5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We’re taking steps to accelerate defensive progress in biology:\n\n- Launching Rosalind Biodefense to ...",
+      "url": "https://x.com/OpenAI/status/2060376598642405492",
+      "published_at": "2026-05-29T15:03:55Z",
+      "summary": "We’re taking steps to accelerate defensive progress in biology: - Launching Rosalind Biodefense to help trusted builders develop new biodefense and pandemic preparedness capabilities. - Expanding trusted access to GPT-Rosalind for select U.S. government and allied partners suppor…"
+    },
+    {
+      "id": "e94a0e509b64d1ae504b84796b23b5d5052690ce",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。\n\n我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。\n\n今天突...",
+      "url": "https://x.com/op7418/status/2060367382884094026",
+      "published_at": "2026-05-29T14:27:18Z",
+      "summary": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。 我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。 今天突然想起来，打开让 Claude Code 帮我装。 打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好 这个未来感觉很有用。💬36🔄2❤️51👀14393📊39⚡ Powered by xgo.ing"
+    },
     {
       "id": "3bd11c14bef286bec146cd8b782326e162cd10b5",
       "site_id": "featuredrss",
@@ -422,7 +565,7 @@
       "title": "笑死，这都行",
       "url": "https://x.com/op7418/status/2060269839563043062",
       "published_at": "2026-05-29T07:59:42Z",
-      "summary": "笑死，这都行Kenton Varda@KentonVardaChinese AI Twitter is obsessing over my wife. How was your day?🔗 View Quoted Tweet💬14🔄0❤️7👀6890📊10⚡ Powered by xgo.ing"
+      "summary": "笑死，这都行Kenton Varda@KentonVardaChinese AI Twitter is obsessing over my wife. How was your day?🔗 View Quoted Tweet💬14🔄0❤️8👀9184📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "271c135d76a722e00ea80eab3c4be257feafbd5e",
@@ -433,7 +576,7 @@
       "title": "Skill 在这里：https://t.co/iw3hiDZ34r",
       "url": "https://x.com/op7418/status/2060192750365180115",
       "published_at": "2026-05-29T02:53:22Z",
-      "summary": "Skill 在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬0🔄4❤️21👀6297📊6⚡ Powered by xgo.ing"
+      "summary": "Skill 在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬0🔄5❤️26👀7212📊9⚡ Powered by xgo.ing"
     },
     {
       "id": "cee0ee4a136fc3a0b201e451bf1f8d95a3f72769",
@@ -444,7 +587,7 @@
       "title": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了\n\n说明这玩意儿确实有用。\n\n你们再发的话可以艾特一下我，我还得给你们点点赞",
       "url": "https://x.com/op7418/status/2060192275301642532",
       "published_at": "2026-05-29T02:51:29Z",
-      "summary": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了 说明这玩意儿确实有用。 你们再发的话可以艾特一下我，我还得给你们点点赞💬72🔄11❤️144👀17318📊88⚡ Powered by xgo.ing"
+      "summary": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了 说明这玩意儿确实有用。 你们再发的话可以艾特一下我，我还得给你们点点赞💬78🔄16❤️190👀21811📊105⚡ Powered by xgo.ing"
     },
     {
       "id": "00fcf420edd0a02f56fe18e31fc8f57f48b74a19",
@@ -477,7 +620,7 @@
       "title": "另外 Fast 模式大幅降价，价格是由原来的三分之一",
       "url": "https://x.com/op7418/status/2060170422742880671",
       "published_at": "2026-05-29T01:24:39Z",
-      "summary": "另外 Fast 模式大幅降价，价格是由原来的三分之一💬0🔄0❤️0👀2830⚡ Powered by xgo.ing"
+      "summary": "另外 Fast 模式大幅降价，价格是由原来的三分之一💬0🔄0❤️0👀3161⚡ Powered by xgo.ing"
     },
     {
       "id": "71d717f47291d8b3e6ce20c8e0b1725786a463b6",
@@ -499,7 +642,7 @@
       "title": "Draw a path that a drone can follow\nhttps://t.co/dpOgAcl7yt",
       "url": "https://x.com/GoogleAI/status/2060156790642299029",
       "published_at": "2026-05-29T00:30:29Z",
-      "summary": "Draw a path that a drone can follow x.com/bilawalsidhu/s…Bilawal Sidhu@bilawalsidhuGave google omni a sketched camera path and asked it to generate drone POV footage.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄3❤️45👀18492📊7⚡ Powered by xgo.i…"
+      "summary": "Draw a path that a drone can follow x.com/bilawalsidhu/s…Bilawal Sidhu@bilawalsidhuGave google omni a sketched camera path and asked it to generate drone POV footage.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄4❤️52👀20791📊8⚡ Powered by xgo.i…"
     },
     {
       "id": "44a8355d0b10d8da6c834e75e4c5657f98a64390",
@@ -521,7 +664,7 @@
       "title": "Some fun Gemini Omni use cases from the community 🧵👇",
       "url": "https://x.com/GoogleAI/status/2060156780311654699",
       "published_at": "2026-05-29T00:30:26Z",
-      "summary": "Some fun Gemini Omni use cases from the community 🧵👇💬22🔄38❤️396👀84211📊95⚡ Powered by xgo.ing"
+      "summary": "Some fun Gemini Omni use cases from the community 🧵👇💬25🔄45❤️531👀109820📊119⚡ Powered by xgo.ing"
     },
     {
       "id": "d4b71e23665a4d78c898cda2fdd2c29f7ddafb59",
@@ -544,39 +687,6 @@
       "url": "https://x.com/GeminiApp/status/2060074415304610168",
       "published_at": "2026-05-28T19:03:09Z",
       "summary": "You’re in luck! Users in India can now upload videos (from their camera roll or saved files) and use Gemini Omni to edit and transform them. Give it a try and let us know what you think.Vijay Choudhary@_vijaychoudharyGemini Omni seems to outperform everything. Crazy updates for V…"
-    },
-    {
-      "id": "743c5455a1d04ea1b7d5d76dbfe46a1bb9e8f26d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "R&amp;D Part 1: Here to Win",
-      "url": "https://x.com/OpenAI/status/2060032839991914619",
-      "published_at": "2026-05-28T16:17:57Z",
-      "summary": "R&D Part 1: Here to WinYour browser does not support the video tag.🔗 View on Twitter💬163🔄121❤️2175👀310222📊383⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f4fe163edaea44d4fde51ac348562304b3230fdf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and i...",
-      "url": "https://x.com/GeminiApp/status/2060025441155711321",
-      "published_at": "2026-05-28T15:48:33Z",
-      "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app. Learn more: gemini.google/overview/video…💬2🔄8❤️75👀15822📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "84a38cee3d9983facfcd2ecc2b4773ad3c52e546",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! \n\nGet started i...",
-      "url": "https://x.com/GeminiApp/status/2060022813373890648",
-      "published_at": "2026-05-28T15:38:06Z",
-      "summary": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! Get started in the app or gemini.google.com: > Upload your video > Tell Gemini the change you want to make > Enjoy your new creation We can't wait to see what you make!💬79🔄100❤️1199👀90736📊215⚡ Po…"
     }
   ]
 }
