@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-29T02:38:48.661231Z",
+  "generated_at": "2026-05-29T06:49:12.945260Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 507,
+      "duration_ms": 1923,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 37,
+      "duration_ms": 29,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1894,
+      "duration_ms": 1786,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1257,
+      "duration_ms": 1342,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1157,
+      "duration_ms": 1096,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1838,
+      "duration_ms": 2984,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1737,
+      "duration_ms": 2381,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 229,
+      "duration_ms": 208,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2114,
+      "duration_ms": 2492,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1105,
+      "duration_ms": 2065,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,44 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "271c135d76a722e00ea80eab3c4be257feafbd5e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Skill 在这里：https://t.co/iw3hiDZ34r",
+          "url": "https://x.com/op7418/status/2060192750365180115",
+          "published_at": "2026-05-29T02:53:22Z",
+          "summary": "Skill 在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬0🔄4❤️11👀3367📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "cee0ee4a136fc3a0b201e451bf1f8d95a3f72769",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了\n\n说明这玩意儿确实有用。\n\n你们再发的话可以艾特一下我，我还得给你们点点赞",
+          "url": "https://x.com/op7418/status/2060192275301642532",
+          "published_at": "2026-05-29T02:51:29Z",
+          "summary": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了 说明这玩意儿确实有用。 你们再发的话可以艾特一下我，我还得给你们点点赞💬39🔄4❤️84👀8420📊46⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "00fcf420edd0a02f56fe18e31fc8f57f48b74a19",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "相较于 Opus 4.8，昨晚动态工作流（Dynamic Workflows）的发布，我感觉意义更重大一些。\n\n它延续了那套并发的 Subagent 逻辑，但启动的 Subagent 可能多达数百个，...",
+          "url": "https://x.com/op7418/status/2060186234518184286",
+          "published_at": "2026-05-29T02:27:29Z",
+          "summary": "相较于 Opus 4.8，昨晚动态工作流（Dynamic Workflows）的发布，我感觉意义更重大一些。 它延续了那套并发的 Subagent 逻辑，但启动的 Subagent 可能多达数百个，能帮你完成一些非常重、规模非常大的任务。比如： 1. 调研你整个代码库的问题 2. 快速收集并生成一份庞大的调研报告 看起来官方并不太建议拿它直接去改动代码，而是用它处理一些比较基础但工作量巨大的任务，通过并发的形式来大幅加快处理速度。 触发方式： 1. 更新以后，只要提示词里带 workflow 就会触发。 2. 启动 Ultra Code 模式。启动后，任…"
+        },
         {
           "id": "0988173462487210d9ad6548dec78931069adb6c",
           "site_id": "featuredrss",
@@ -208,7 +241,7 @@
           "title": "另外 Fast 模式大幅降价，价格是由原来的三分之一",
           "url": "https://x.com/op7418/status/2060170422742880671",
           "published_at": "2026-05-29T01:24:39Z",
-          "summary": "另外 Fast 模式大幅降价，价格是由原来的三分之一💬0🔄0❤️0👀499⚡ Powered by xgo.ing"
+          "summary": "另外 Fast 模式大幅降价，价格是由原来的三分之一💬0🔄0❤️0👀2016⚡ Powered by xgo.ing"
         },
         {
           "id": "71d717f47291d8b3e6ce20c8e0b1725786a463b6",
@@ -230,7 +263,7 @@
           "title": "买了 M5Stack 的这个新玩具，还挺好玩的。\n\n   (a) 圆形彩屏，刷新率比较高，不是墨水屏\n   (b) 支持触屏，配有三个按钮\n   (c) 能播放声音，有震动功能\n   (d) 支持磁吸...",
           "url": "https://x.com/op7418/status/2059988012671607251",
           "published_at": "2026-05-28T13:19:49Z",
-          "summary": "买了 M5Stack 的这个新玩具，还挺好玩的。 (a) 圆形彩屏，刷新率比较高，不是墨水屏 (b) 支持触屏，配有三个按钮 (c) 能播放声音，有震动功能 (d) 支持磁吸，完全可以吸在手机后边 除了比 OPPO 新发的那个厚一点，其他地方应该差不多；质感虽然没有 OPPO 的好，但它便宜。 理论上可以用它做很多东西，比如表现力更强的 Cloud Code 或者其他类似的小玩意。 感觉挺好玩，可玩性非常强。Your browser does not support the video tag.🔗 View on Twitter💬54🔄6❤️31👀182…"
+          "summary": "买了 M5Stack 的这个新玩具，还挺好玩的。 (a) 圆形彩屏，刷新率比较高，不是墨水屏 (b) 支持触屏，配有三个按钮 (c) 能播放声音，有震动功能 (d) 支持磁吸，完全可以吸在手机后边 除了比 OPPO 新发的那个厚一点，其他地方应该差不多；质感虽然没有 OPPO 的好，但它便宜。 理论上可以用它做很多东西，比如表现力更强的 Cloud Code 或者其他类似的小玩意。 感觉挺好玩，可玩性非常强。Your browser does not support the video tag.🔗 View on Twitter💬59🔄7❤️43👀236…"
         },
         {
           "id": "c999865dd4fbe5c2c7ec94ac5f2e8507652f1a77",
@@ -241,29 +274,7 @@
           "title": "推特这个自动翻译实装了，效果不错\n\n应该是这几家国际化内容平台里唯一一个全量自动化翻译的\n\n很难想象AI 发达了这些内容和社交软件各个语言用户沟通和内容消费依然这么困难",
           "url": "https://x.com/op7418/status/2059917145702871401",
           "published_at": "2026-05-28T08:38:13Z",
-          "summary": "推特这个自动翻译实装了，效果不错 应该是这几家国际化内容平台里唯一一个全量自动化翻译的 很难想象AI 发达了这些内容和社交软件各个语言用户沟通和内容消费依然这么困难💬143🔄2❤️106👀36227📊129⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c2e486d6379eba84a045d6a4fc6389db7aae87aa",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。\n\n如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。...",
-          "url": "https://x.com/op7418/status/2059845909245255965",
-          "published_at": "2026-05-28T03:55:09Z",
-          "summary": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。 如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。 除了商用授权以外，我也会帮你在你的产品里把这个效果调整到最好。💬54🔄12❤️132👀10993📊71⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4e90d6073eac11fe6e102dcff0e9206271160899",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "来了！这次的小红书图片生成器 Skill 效果太好了\n\n我都没想到他能够这么顶，\n\n这次在图文混排上下了非常大功夫\n\n2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配\n\n如果你自己有...",
-          "url": "https://x.com/op7418/status/2059837199299031265",
-          "published_at": "2026-05-28T03:20:32Z",
-          "summary": "来了！这次的小红书图片生成器 Skill 效果太好了 我都没想到他能够这么顶， 这次在图文混排上下了非常大功夫 2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配 如果你自己有非常漂亮的图片，那么它就会凸显你的图片。 如果你没有图片，它会帮你找很牛逼的图片。 即使你的图片不太行，它也会帮你美化，而且会主动避免使用 AI 图片生成，防止你的内容被打上 AI 标记。 我过去一段时间做这类图文内容的痛点都被解决了，放在这里边Your browser does not support the video tag.🔗 View on Twitter…"
+          "summary": "推特这个自动翻译实装了，效果不错 应该是这几家国际化内容平台里唯一一个全量自动化翻译的 很难想象AI 发达了这些内容和社交软件各个语言用户沟通和内容消费依然这么困难💬146🔄2❤️109👀37712📊131⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -286,7 +297,7 @@
           "title": "Draw a path that a drone can follow\nhttps://t.co/dpOgAcl7yt",
           "url": "https://x.com/GoogleAI/status/2060156790642299029",
           "published_at": "2026-05-29T00:30:29Z",
-          "summary": "Draw a path that a drone can follow x.com/bilawalsidhu/s…Bilawal Sidhu@bilawalsidhuGave google omni a sketched camera path and asked it to generate drone POV footage.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️12👀5646📊2⚡ Powered by xgo.in…"
+          "summary": "Draw a path that a drone can follow x.com/bilawalsidhu/s…Bilawal Sidhu@bilawalsidhuGave google omni a sketched camera path and asked it to generate drone POV footage.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄2❤️22👀12246📊4⚡ Powered by xgo.i…"
         },
         {
           "id": "44a8355d0b10d8da6c834e75e4c5657f98a64390",
@@ -308,7 +319,7 @@
           "title": "Some fun Gemini Omni use cases from the community 🧵👇",
           "url": "https://x.com/GoogleAI/status/2060156780311654699",
           "published_at": "2026-05-29T00:30:26Z",
-          "summary": "Some fun Gemini Omni use cases from the community 🧵👇💬9🔄9❤️47👀8241📊17⚡ Powered by xgo.ing"
+          "summary": "Some fun Gemini Omni use cases from the community 🧵👇💬17🔄26❤️162👀36141📊48⚡ Powered by xgo.ing"
         },
         {
           "id": "b4e509955712a48d9a2f16ae98ddb6a11e912aed",
@@ -330,7 +341,7 @@
           "title": "R&amp;D Part 1: Here to Win",
           "url": "https://x.com/OpenAI/status/2060032839991914619",
           "published_at": "2026-05-28T16:17:57Z",
-          "summary": "R&D Part 1: Here to WinYour browser does not support the video tag.🔗 View on Twitter💬133🔄107❤️1958👀252260📊335⚡ Powered by xgo.ing"
+          "summary": "R&D Part 1: Here to WinYour browser does not support the video tag.🔗 View on Twitter💬147🔄114❤️2064👀281674📊358⚡ Powered by xgo.ing"
         },
         {
           "id": "f4fe163edaea44d4fde51ac348562304b3230fdf",
@@ -341,7 +352,7 @@
           "title": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and i...",
           "url": "https://x.com/GeminiApp/status/2060025441155711321",
           "published_at": "2026-05-28T15:48:33Z",
-          "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app. Learn more: gemini.google/overview/video…💬2🔄6❤️60👀12584📊10⚡ Powered by xgo.ing"
+          "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app. Learn more: gemini.google/overview/video…💬2🔄8❤️67👀14068📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "84a38cee3d9983facfcd2ecc2b4773ad3c52e546",
@@ -352,12 +363,45 @@
           "title": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! \n\nGet started i...",
           "url": "https://x.com/GeminiApp/status/2060022813373890648",
           "published_at": "2026-05-28T15:38:06Z",
-          "summary": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! Get started in the app or gemini.google.com: > Upload your video > Tell Gemini the change you want to make > Enjoy your new creation We can't wait to see what you make!💬65🔄76❤️920👀69372📊168⚡ Powe…"
+          "summary": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! Get started in the app or gemini.google.com: > Upload your video > Tell Gemini the change you want to make > Enjoy your new creation We can't wait to see what you make!💬71🔄91❤️1045👀79981📊190⚡ Pow…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "271c135d76a722e00ea80eab3c4be257feafbd5e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Skill 在这里：https://t.co/iw3hiDZ34r",
+      "url": "https://x.com/op7418/status/2060192750365180115",
+      "published_at": "2026-05-29T02:53:22Z",
+      "summary": "Skill 在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬0🔄4❤️11👀3367📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "cee0ee4a136fc3a0b201e451bf1f8d95a3f72769",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了\n\n说明这玩意儿确实有用。\n\n你们再发的话可以艾特一下我，我还得给你们点点赞",
+      "url": "https://x.com/op7418/status/2060192275301642532",
+      "published_at": "2026-05-29T02:51:29Z",
+      "summary": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了 说明这玩意儿确实有用。 你们再发的话可以艾特一下我，我还得给你们点点赞💬39🔄4❤️84👀8420📊46⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "00fcf420edd0a02f56fe18e31fc8f57f48b74a19",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "相较于 Opus 4.8，昨晚动态工作流（Dynamic Workflows）的发布，我感觉意义更重大一些。\n\n它延续了那套并发的 Subagent 逻辑，但启动的 Subagent 可能多达数百个，...",
+      "url": "https://x.com/op7418/status/2060186234518184286",
+      "published_at": "2026-05-29T02:27:29Z",
+      "summary": "相较于 Opus 4.8，昨晚动态工作流（Dynamic Workflows）的发布，我感觉意义更重大一些。 它延续了那套并发的 Subagent 逻辑，但启动的 Subagent 可能多达数百个，能帮你完成一些非常重、规模非常大的任务。比如： 1. 调研你整个代码库的问题 2. 快速收集并生成一份庞大的调研报告 看起来官方并不太建议拿它直接去改动代码，而是用它处理一些比较基础但工作量巨大的任务，通过并发的形式来大幅加快处理速度。 触发方式： 1. 更新以后，只要提示词里带 workflow 就会触发。 2. 启动 Ultra Code 模式。启动后，任…"
+    },
     {
       "id": "0988173462487210d9ad6548dec78931069adb6c",
       "site_id": "featuredrss",
@@ -378,7 +422,7 @@
       "title": "另外 Fast 模式大幅降价，价格是由原来的三分之一",
       "url": "https://x.com/op7418/status/2060170422742880671",
       "published_at": "2026-05-29T01:24:39Z",
-      "summary": "另外 Fast 模式大幅降价，价格是由原来的三分之一💬0🔄0❤️0👀499⚡ Powered by xgo.ing"
+      "summary": "另外 Fast 模式大幅降价，价格是由原来的三分之一💬0🔄0❤️0👀2016⚡ Powered by xgo.ing"
     },
     {
       "id": "71d717f47291d8b3e6ce20c8e0b1725786a463b6",
@@ -400,7 +444,7 @@
       "title": "Draw a path that a drone can follow\nhttps://t.co/dpOgAcl7yt",
       "url": "https://x.com/GoogleAI/status/2060156790642299029",
       "published_at": "2026-05-29T00:30:29Z",
-      "summary": "Draw a path that a drone can follow x.com/bilawalsidhu/s…Bilawal Sidhu@bilawalsidhuGave google omni a sketched camera path and asked it to generate drone POV footage.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️12👀5646📊2⚡ Powered by xgo.in…"
+      "summary": "Draw a path that a drone can follow x.com/bilawalsidhu/s…Bilawal Sidhu@bilawalsidhuGave google omni a sketched camera path and asked it to generate drone POV footage.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄2❤️22👀12246📊4⚡ Powered by xgo.i…"
     },
     {
       "id": "44a8355d0b10d8da6c834e75e4c5657f98a64390",
@@ -422,7 +466,7 @@
       "title": "Some fun Gemini Omni use cases from the community 🧵👇",
       "url": "https://x.com/GoogleAI/status/2060156780311654699",
       "published_at": "2026-05-29T00:30:26Z",
-      "summary": "Some fun Gemini Omni use cases from the community 🧵👇💬9🔄9❤️47👀8241📊17⚡ Powered by xgo.ing"
+      "summary": "Some fun Gemini Omni use cases from the community 🧵👇💬17🔄26❤️162👀36141📊48⚡ Powered by xgo.ing"
     },
     {
       "id": "b4e509955712a48d9a2f16ae98ddb6a11e912aed",
@@ -444,7 +488,7 @@
       "title": "R&amp;D Part 1: Here to Win",
       "url": "https://x.com/OpenAI/status/2060032839991914619",
       "published_at": "2026-05-28T16:17:57Z",
-      "summary": "R&D Part 1: Here to WinYour browser does not support the video tag.🔗 View on Twitter💬133🔄107❤️1958👀252260📊335⚡ Powered by xgo.ing"
+      "summary": "R&D Part 1: Here to WinYour browser does not support the video tag.🔗 View on Twitter💬147🔄114❤️2064👀281674📊358⚡ Powered by xgo.ing"
     },
     {
       "id": "f4fe163edaea44d4fde51ac348562304b3230fdf",
@@ -455,7 +499,7 @@
       "title": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and i...",
       "url": "https://x.com/GeminiApp/status/2060025441155711321",
       "published_at": "2026-05-28T15:48:33Z",
-      "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app. Learn more: gemini.google/overview/video…💬2🔄6❤️60👀12584📊10⚡ Powered by xgo.ing"
+      "summary": "Gemini Omni is available to all Google AI Plus, Pro, and Ultra subscribers globally on the web and in the Gemini app. Learn more: gemini.google/overview/video…💬2🔄8❤️67👀14068📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "84a38cee3d9983facfcd2ecc2b4773ad3c52e546",
@@ -466,7 +510,7 @@
       "title": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! \n\nGet started i...",
       "url": "https://x.com/GeminiApp/status/2060022813373890648",
       "published_at": "2026-05-28T15:38:06Z",
-      "summary": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! Get started in the app or gemini.google.com: > Upload your video > Tell Gemini the change you want to make > Enjoy your new creation We can't wait to see what you make!💬65🔄76❤️920👀69372📊168⚡ Powe…"
+      "summary": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! Get started in the app or gemini.google.com: > Upload your video > Tell Gemini the change you want to make > Enjoy your new creation We can't wait to see what you make!💬71🔄91❤️1045👀79981📊190⚡ Pow…"
     },
     {
       "id": "e0786bc57ec5b0f35d1606d64b85011f5590b418",
@@ -477,7 +521,7 @@
       "title": "买了 M5Stack 的这个新玩具，还挺好玩的。\n\n   (a) 圆形彩屏，刷新率比较高，不是墨水屏\n   (b) 支持触屏，配有三个按钮\n   (c) 能播放声音，有震动功能\n   (d) 支持磁吸...",
       "url": "https://x.com/op7418/status/2059988012671607251",
       "published_at": "2026-05-28T13:19:49Z",
-      "summary": "买了 M5Stack 的这个新玩具，还挺好玩的。 (a) 圆形彩屏，刷新率比较高，不是墨水屏 (b) 支持触屏，配有三个按钮 (c) 能播放声音，有震动功能 (d) 支持磁吸，完全可以吸在手机后边 除了比 OPPO 新发的那个厚一点，其他地方应该差不多；质感虽然没有 OPPO 的好，但它便宜。 理论上可以用它做很多东西，比如表现力更强的 Cloud Code 或者其他类似的小玩意。 感觉挺好玩，可玩性非常强。Your browser does not support the video tag.🔗 View on Twitter💬54🔄6❤️31👀182…"
+      "summary": "买了 M5Stack 的这个新玩具，还挺好玩的。 (a) 圆形彩屏，刷新率比较高，不是墨水屏 (b) 支持触屏，配有三个按钮 (c) 能播放声音，有震动功能 (d) 支持磁吸，完全可以吸在手机后边 除了比 OPPO 新发的那个厚一点，其他地方应该差不多；质感虽然没有 OPPO 的好，但它便宜。 理论上可以用它做很多东西，比如表现力更强的 Cloud Code 或者其他类似的小玩意。 感觉挺好玩，可玩性非常强。Your browser does not support the video tag.🔗 View on Twitter💬59🔄7❤️43👀236…"
     },
     {
       "id": "c999865dd4fbe5c2c7ec94ac5f2e8507652f1a77",
@@ -488,29 +532,7 @@
       "title": "推特这个自动翻译实装了，效果不错\n\n应该是这几家国际化内容平台里唯一一个全量自动化翻译的\n\n很难想象AI 发达了这些内容和社交软件各个语言用户沟通和内容消费依然这么困难",
       "url": "https://x.com/op7418/status/2059917145702871401",
       "published_at": "2026-05-28T08:38:13Z",
-      "summary": "推特这个自动翻译实装了，效果不错 应该是这几家国际化内容平台里唯一一个全量自动化翻译的 很难想象AI 发达了这些内容和社交软件各个语言用户沟通和内容消费依然这么困难💬143🔄2❤️106👀36227📊129⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c2e486d6379eba84a045d6a4fc6389db7aae87aa",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。\n\n如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。...",
-      "url": "https://x.com/op7418/status/2059845909245255965",
-      "published_at": "2026-05-28T03:55:09Z",
-      "summary": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。 如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。 除了商用授权以外，我也会帮你在你的产品里把这个效果调整到最好。💬54🔄12❤️132👀10993📊71⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4e90d6073eac11fe6e102dcff0e9206271160899",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "来了！这次的小红书图片生成器 Skill 效果太好了\n\n我都没想到他能够这么顶，\n\n这次在图文混排上下了非常大功夫\n\n2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配\n\n如果你自己有...",
-      "url": "https://x.com/op7418/status/2059837199299031265",
-      "published_at": "2026-05-28T03:20:32Z",
-      "summary": "来了！这次的小红书图片生成器 Skill 效果太好了 我都没想到他能够这么顶， 这次在图文混排上下了非常大功夫 2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配 如果你自己有非常漂亮的图片，那么它就会凸显你的图片。 如果你没有图片，它会帮你找很牛逼的图片。 即使你的图片不太行，它也会帮你美化，而且会主动避免使用 AI 图片生成，防止你的内容被打上 AI 标记。 我过去一段时间做这类图文内容的痛点都被解决了，放在这里边Your browser does not support the video tag.🔗 View on Twitter…"
+      "summary": "推特这个自动翻译实装了，效果不错 应该是这几家国际化内容平台里唯一一个全量自动化翻译的 很难想象AI 发达了这些内容和社交软件各个语言用户沟通和内容消费依然这么困难💬146🔄2❤️109👀37712📊131⚡ Powered by xgo.ing"
     }
   ]
 }
