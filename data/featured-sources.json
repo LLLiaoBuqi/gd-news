@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T10:21:51.536936Z",
+  "generated_at": "2026-05-30T11:50:59.007257Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 30,
+  "total_items": 31,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1309,
+      "duration_ms": 578,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 30,
+      "duration_ms": 86,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1470,
+      "duration_ms": 1696,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1268,
+      "duration_ms": 1154,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 742,
+      "duration_ms": 677,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1254,
+      "duration_ms": 1602,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -103,7 +103,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 59,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1025,
+      "duration_ms": 1609,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 170,
+      "duration_ms": 238,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1871,
+      "duration_ms": 2392,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 6,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 647,
+      "duration_ms": 1070,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,33 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 13,
+      "total_items": 14,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "573f6fcf4c307038f07170b4779ac9b12efd3ad5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我去，太牛批了！\n\n我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！\n\n就是这个社交媒体卡片 Skill （guizang-social-card-skill）\n\n还是刚才一...",
+          "url": "https://x.com/op7418/status/2060667214077034978",
+          "published_at": "2026-05-30T10:18:43Z",
+          "summary": "我去，太牛批了！ 我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！ 就是这个社交媒体卡片 Skill （guizang-social-card-skill） 还是刚才一个群友让他的 Agent 找项目的时候发现的。我自己看了一下，果然是第一！歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬19🔄3❤️40👀2536📊19⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5489e131484ce121e69811c0bd6b70b88977d493",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？\n\n我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。",
+          "url": "https://x.com/op7418/status/2060665471066869973",
+          "published_at": "2026-05-30T10:11:48Z",
+          "summary": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？ 我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。💬0🔄0❤️0👀1056⚡ Powered by xgo.ing"
+        },
         {
           "id": "34d87ae4c9306a723c40e00266fe2a1af2a940f9",
           "site_id": "featuredrss",
@@ -197,7 +219,7 @@
           "title": "差不多了，现在写个这种东西太简单了。我去，顺便用 GPT-Image 2.0 画了个图标，真漂亮啊！",
           "url": "https://x.com/op7418/status/2060660883135840453",
           "published_at": "2026-05-30T09:53:34Z",
-          "summary": "差不多了，现在写个这种东西太简单了。我去，顺便用 GPT-Image 2.0 画了个图标，真漂亮啊！💬0🔄0❤️3👀280📊1⚡ Powered by xgo.ing"
+          "summary": "差不多了，现在写个这种东西太简单了。我去，顺便用 GPT-Image 2.0 画了个图标，真漂亮啊！💬0🔄0❤️5👀946📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "bdef885800c3c9817d936b1382f92e488965c7e3",
@@ -208,7 +230,7 @@
           "title": "说干就干朋友们，开新坑了",
           "url": "https://x.com/op7418/status/2060639508002148578",
           "published_at": "2026-05-30T08:28:38Z",
-          "summary": "说干就干朋友们，开新坑了歸藏(guizang.ai)@op7418现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。🔗 View Quoted Tweet💬15🔄0❤️36👀6397📊13⚡ Powered by xgo.ing"
+          "summary": "说干就干朋友们，开新坑了歸藏(guizang.ai)@op7418现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。🔗 View Quoted Tweet💬22🔄0❤️45👀8516📊18⚡ Powered by xgo.ing"
         },
         {
           "id": "40b702790cbb6b31a38a87b4454c66d0b6ff9ac7",
@@ -219,7 +241,7 @@
           "title": "当然，浏览器也可以打开 HTML 文件，但是整个交互链路太复杂、太长了，体验很糟糕。\n\n现在的浏览器其实是为你给它链接、然后它打开网页这种场景设计的，而不是为了从一个文档阅读器的角度去设计的。",
           "url": "https://x.com/op7418/status/2060628867052982400",
           "published_at": "2026-05-30T07:46:21Z",
-          "summary": "当然，浏览器也可以打开 HTML 文件，但是整个交互链路太复杂、太长了，体验很糟糕。 现在的浏览器其实是为你给它链接、然后它打开网页这种场景设计的，而不是为了从一个文档阅读器的角度去设计的。💬0🔄0❤️2👀2341📊1⚡ Powered by xgo.ing"
+          "summary": "当然，浏览器也可以打开 HTML 文件，但是整个交互链路太复杂、太长了，体验很糟糕。 现在的浏览器其实是为你给它链接、然后它打开网页这种场景设计的，而不是为了从一个文档阅读器的角度去设计的。💬2🔄0❤️4👀3451📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "402a0b3580e23ce48d7404413a6acbce13e6280e",
@@ -230,7 +252,7 @@
           "title": "现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。\n\n如果是在外面用手机，别人发过来的 Markdown 和 ...",
           "url": "https://x.com/op7418/status/2060626984200437995",
           "published_at": "2026-05-30T07:38:52Z",
-          "summary": "现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。💬37🔄3❤️49👀20446📊39⚡ Powered by xgo.ing"
+          "summary": "现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。💬51🔄3❤️65👀30668📊52⚡ Powered by xgo.ing"
         },
         {
           "id": "9e570008c75887c8c2cec6b379ea84aa28c56efe",
@@ -241,7 +263,7 @@
           "title": "还有一个是那个 Pro 实在是太重了，我最近出门越来越多了，每次出门抱着它我就烦得要死，尤其是夏天又热",
           "url": "https://x.com/op7418/status/2060624551046975761",
           "published_at": "2026-05-30T07:29:12Z",
-          "summary": "还有一个是那个 Pro 实在是太重了，我最近出门越来越多了，每次出门抱着它我就烦得要死，尤其是夏天又热💬3🔄0❤️3👀1980📊3⚡ Powered by xgo.ing"
+          "summary": "还有一个是那个 Pro 实在是太重了，我最近出门越来越多了，每次出门抱着它我就烦得要死，尤其是夏天又热💬3🔄0❤️4👀2350📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "d7a510513e01baa9fbc71aed673fee1249f8804c",
@@ -252,7 +274,7 @@
           "title": "我发现这个杠精真是多，非得找地方体现一下自己的优越感。\n\n下回就不要问这个内存还是硬盘了，你就当我是傻逼，我分不清内存还是硬盘就行",
           "url": "https://x.com/op7418/status/2060617155985682731",
           "published_at": "2026-05-30T06:59:49Z",
-          "summary": "我发现这个杠精真是多，非得找地方体现一下自己的优越感。 下回就不要问这个内存还是硬盘了，你就当我是傻逼，我分不清内存还是硬盘就行💬5🔄0❤️5👀3945📊5⚡ Powered by xgo.ing"
+          "summary": "我发现这个杠精真是多，非得找地方体现一下自己的优越感。 下回就不要问这个内存还是硬盘了，你就当我是傻逼，我分不清内存还是硬盘就行💬6🔄0❤️6👀4368📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "53c259c8a6dde13984ff97c78aa2574836bf7191",
@@ -274,7 +296,7 @@
           "title": "把自己之前的 M3 MacBook Pro 换成了 M5 的 MacBook Air。\n\n主要是由于原来的是 512G 的内存，随着我自己开始录视频，这个内存就捉襟见肘。\n\n而且确实用不到那么高的性能...",
           "url": "https://x.com/op7418/status/2060613231668801789",
           "published_at": "2026-05-30T06:44:13Z",
-          "summary": "把自己之前的 M3 MacBook Pro 换成了 M5 的 MacBook Air。 主要是由于原来的是 512G 的内存，随着我自己开始录视频，这个内存就捉襟见肘。 而且确实用不到那么高的性能，有了一个 Mac Studio 了。 换了个 32G 两 T 的版本，京东加上国补才 1 万 5。要是同样内存的话，Pro 感觉得两万七八。💬63🔄0❤️52👀20167📊57⚡ Powered by xgo.ing"
+          "summary": "把自己之前的 M3 MacBook Pro 换成了 M5 的 MacBook Air。 主要是由于原来的是 512G 的内存，随着我自己开始录视频，这个内存就捉襟见肘。 而且确实用不到那么高的性能，有了一个 Mac Studio 了。 换了个 32G 两 T 的版本，京东加上国补才 1 万 5。要是同样内存的话，Pro 感觉得两万七八。💬69🔄0❤️55👀23770📊62⚡ Powered by xgo.ing"
         },
         {
           "id": "7c8d9e693930eaa677ac9046da29c3872e9e068e",
@@ -285,7 +307,7 @@
           "title": "我在想藏师傅的这种东西是不是绝佳的前端训练数据可以造非常多",
           "url": "https://x.com/op7418/status/2060577690646888533",
           "published_at": "2026-05-30T04:22:59Z",
-          "summary": "我在想藏师傅的这种东西是不是绝佳的前端训练数据可以造非常多歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬12🔄0❤️34👀7723📊13⚡ Powered by xgo.ing"
+          "summary": "我在想藏师傅的这种东西是不是绝佳的前端训练数据可以造非常多歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬12🔄0❤️34👀8163📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "66272c98b48f6d1c45ac49e75ad107078d9e8c02",
@@ -318,18 +340,7 @@
           "title": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。\n\n我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。\n\n今天突...",
           "url": "https://x.com/op7418/status/2060367382884094026",
           "published_at": "2026-05-29T14:27:18Z",
-          "summary": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。 我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。 今天突然想起来，打开让 Claude Code 帮我装。 打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好 这个未来感觉很有用。💬153🔄9❤️167👀43683📊154⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3bd11c14bef286bec146cd8b782326e162cd10b5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Cursor 发布了一份开发者报告，里面有些数据很有意思\n\n挑几个比较重要的点来说：\n\n头部用户的 AI 代码产出、token 消耗、PR 合并量都远高于中位数，而且差距还在扩大。\n\nAI 写代码前读...",
-          "url": "https://x.com/op7418/status/2060316035790860754",
-          "published_at": "2026-05-29T11:03:16Z",
-          "summary": "Cursor 发布了一份开发者报告，里面有些数据很有意思 挑几个比较重要的点来说： 头部用户的 AI 代码产出、token 消耗、PR 合并量都远高于中位数，而且差距还在扩大。 AI 写代码前读得越来越多，input/output token ratio 大幅上升。真正贵是理解一个代码库和任务。 缓存变得非常重要，如果每次 agent 都从零读上下文，成本会爆炸。这意味着未来 coding agent 的竞争力很可能在上下文缓存、增量理解、长期记忆这些地方。 放权越来越多，手动 diff acceptance 变少，更多 AI 改动直接进入 commit…"
+          "summary": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。 我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。 今天突然想起来，打开让 Claude Code 帮我装。 打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好 这个未来感觉很有用。💬153🔄9❤️172👀44378📊154⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -352,7 +363,7 @@
           "title": "https://t.co/XeKg9xwHOI",
           "url": "https://x.com/GeminiApp/status/2060473824022561245",
           "published_at": "2026-05-29T21:30:16Z",
-          "summary": "x.com/gong_yun74374/…yun long@gong_yun74374Wow! The bird can fly out of the screen!Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬5🔄11❤️83👀26137📊14⚡ Powered by xgo.ing"
+          "summary": "x.com/gong_yun74374/…yun long@gong_yun74374Wow! The bird can fly out of the screen!Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬5🔄11❤️88👀27090📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "a0522d2acb4f26cde6703571a5e1b115e87d99a4",
@@ -374,7 +385,7 @@
           "title": "From the screen to reality in a single prompt. \n\nCheck out these incredible examples of how Gemini O...",
           "url": "https://x.com/GeminiApp/status/2060473816393150965",
           "published_at": "2026-05-29T21:30:14Z",
-          "summary": "From the screen to reality in a single prompt. Check out these incredible examples of how Gemini Omni can understand your video input, apply physics, and generate seamless new motion. Try it out for yourself and share how you're experimenting with Gemini Omni in the replies 👇💬40🔄…"
+          "summary": "From the screen to reality in a single prompt. Check out these incredible examples of how Gemini Omni can understand your video input, apply physics, and generate seamless new motion. Try it out for yourself and share how you're experimenting with Gemini Omni in the replies 👇💬44🔄…"
         },
         {
           "id": "c449d96cf62abf82675e850c34ab7ad753064573",
@@ -385,7 +396,7 @@
           "title": "AI can give researchers the freedom to pursue “crazier” ideas.\n\nFor Terence Tao, AI creates more roo...",
           "url": "https://x.com/OpenAI/status/2060451757818601808",
           "published_at": "2026-05-29T20:02:35Z",
-          "summary": "AI can give researchers the freedom to pursue “crazier” ideas. For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.Your browser does not support the video tag.🔗 View on Twitter💬197🔄391❤️3766👀392002📊633⚡ P…"
+          "summary": "AI can give researchers the freedom to pursue “crazier” ideas. For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.Your browser does not support the video tag.🔗 View on Twitter💬207🔄408❤️3891👀432782📊658⚡ P…"
         },
         {
           "id": "47eaa4158d7b60a33f6708675930eafe239da483",
@@ -396,7 +407,7 @@
           "title": "In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cogniti...",
           "url": "https://x.com/OpenAI/status/2060451760033214653",
           "published_at": "2026-05-29T20:02:35Z",
-          "summary": "In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. forum.openai.com/public/videos/…💬19🔄23❤️251👀64805📊46…"
+          "summary": "In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. forum.openai.com/public/videos/…💬19🔄23❤️255👀66300📊47…"
         },
         {
           "id": "69008c606db4c37e17655d15a25262b7cdcf0c83",
@@ -407,7 +418,7 @@
           "title": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at https://t.co/382WL5xSvc...",
           "url": "https://x.com/GeminiApp/status/2060436094731375008",
           "published_at": "2026-05-29T19:00:20Z",
-          "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app.💬3🔄3❤️35👀12801📊8⚡ Powered by xgo.ing"
+          "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app.💬3🔄3❤️36👀13099📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "6c960545eb5c6e3d439fa531c4ca395db20e599a",
@@ -418,7 +429,7 @@
           "title": "Gemini Omni can transform even a basic sketch into a new reality. \n\nTry for yourself in the Gemini a...",
           "url": "https://x.com/GeminiApp/status/2060435981946503243",
           "published_at": "2026-05-29T18:59:53Z",
-          "summary": "Gemini Omni can transform even a basic sketch into a new reality. Try for yourself in the Gemini app. Upload a video of someone drawing a circle and then enter this prompt: When I finish drawing the circle, it becomes ___.💬35🔄68❤️434👀27221📊95⚡ Powered by xgo.ing"
+          "summary": "Gemini Omni can transform even a basic sketch into a new reality. Try for yourself in the Gemini app. Upload a video of someone drawing a circle and then enter this prompt: When I finish drawing the circle, it becomes ___.💬36🔄70❤️447👀28086📊97⚡ Powered by xgo.ing"
         },
         {
           "id": "11dcc0e8828db8b4962b15c4c46fb72673b4f140",
@@ -440,7 +451,7 @@
           "title": "That’s a wrap on this month’s Gemini Drops!\n\nTo learn more about everything that’s new, check out th...",
           "url": "https://x.com/GeminiApp/status/2060409308001738901",
           "published_at": "2026-05-29T17:13:54Z",
-          "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬4🔄2❤️22👀9874📊6⚡ Powered by xgo.ing"
+          "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬4🔄2❤️22👀10013📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "925bfc78f206d9accee33c79e12cf99b67d870a2",
@@ -451,7 +462,7 @@
           "title": "9) Level up with Google AI Ultra\n\nUnlock higher usage limits and Gemini 3.5 Flash with the new Googl...",
           "url": "https://x.com/GeminiApp/status/2060409306051379323",
           "published_at": "2026-05-29T17:13:53Z",
-          "summary": "9) Level up with Google AI Ultra Unlock higher usage limits and Gemini 3.5 Flash with the new Google AI Ultra plan for just $100/month.💬10🔄2❤️29👀10967📊12⚡ Powered by xgo.ing"
+          "summary": "9) Level up with Google AI Ultra Unlock higher usage limits and Gemini 3.5 Flash with the new Google AI Ultra plan for just $100/month.💬11🔄2❤️29👀11137📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "5c6c6c936ab41aa709367e128948bad707cbf54b",
@@ -484,7 +495,7 @@
           "title": "Tune in for the full story ↓ https://t.co/EGq2OA3A1n",
           "url": "https://x.com/GoogleAI/status/2060392194142290294",
           "published_at": "2026-05-29T16:05:53Z",
-          "summary": "Tune in for the full story ↓ youtube.com/watch?v=8hfpLa…💬2🔄1❤️24👀19416📊6⚡ Powered by xgo.ing"
+          "summary": "Tune in for the full story ↓ youtube.com/watch?v=8hfpLa…💬2🔄1❤️24👀19618📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "1373aef892e5a59c0b5bd25ee10501d936f7e0b2",
@@ -517,7 +528,7 @@
           "title": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a loo...",
           "url": "https://x.com/GeminiApp/status/2060389565052096911",
           "published_at": "2026-05-29T15:55:27Z",
-          "summary": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a look at this month’s Gemini Drops. 🧵💬71🔄94❤️688👀72641📊152⚡ Powered by xgo.ing"
+          "summary": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a look at this month’s Gemini Drops. 🧵💬72🔄98❤️700👀73744📊155⚡ Powered by xgo.ing"
         },
         {
           "id": "5f2e3b072df4543fcce1fbcd7044baad66fb18e5",
@@ -535,6 +546,28 @@
   },
   "items": [
     {
+      "id": "573f6fcf4c307038f07170b4779ac9b12efd3ad5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我去，太牛批了！\n\n我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！\n\n就是这个社交媒体卡片 Skill （guizang-social-card-skill）\n\n还是刚才一...",
+      "url": "https://x.com/op7418/status/2060667214077034978",
+      "published_at": "2026-05-30T10:18:43Z",
+      "summary": "我去，太牛批了！ 我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！ 就是这个社交媒体卡片 Skill （guizang-social-card-skill） 还是刚才一个群友让他的 Agent 找项目的时候发现的。我自己看了一下，果然是第一！歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬19🔄3❤️40👀2536📊19⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5489e131484ce121e69811c0bd6b70b88977d493",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？\n\n我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。",
+      "url": "https://x.com/op7418/status/2060665471066869973",
+      "published_at": "2026-05-30T10:11:48Z",
+      "summary": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？ 我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。💬0🔄0❤️0👀1056⚡ Powered by xgo.ing"
+    },
+    {
       "id": "34d87ae4c9306a723c40e00266fe2a1af2a940f9",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -543,7 +576,7 @@
       "title": "差不多了，现在写个这种东西太简单了。我去，顺便用 GPT-Image 2.0 画了个图标，真漂亮啊！",
       "url": "https://x.com/op7418/status/2060660883135840453",
       "published_at": "2026-05-30T09:53:34Z",
-      "summary": "差不多了，现在写个这种东西太简单了。我去，顺便用 GPT-Image 2.0 画了个图标，真漂亮啊！💬0🔄0❤️3👀280📊1⚡ Powered by xgo.ing"
+      "summary": "差不多了，现在写个这种东西太简单了。我去，顺便用 GPT-Image 2.0 画了个图标，真漂亮啊！💬0🔄0❤️5👀946📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "bdef885800c3c9817d936b1382f92e488965c7e3",
@@ -554,7 +587,7 @@
       "title": "说干就干朋友们，开新坑了",
       "url": "https://x.com/op7418/status/2060639508002148578",
       "published_at": "2026-05-30T08:28:38Z",
-      "summary": "说干就干朋友们，开新坑了歸藏(guizang.ai)@op7418现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。🔗 View Quoted Tweet💬15🔄0❤️36👀6397📊13⚡ Powered by xgo.ing"
+      "summary": "说干就干朋友们，开新坑了歸藏(guizang.ai)@op7418现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。🔗 View Quoted Tweet💬22🔄0❤️45👀8516📊18⚡ Powered by xgo.ing"
     },
     {
       "id": "40b702790cbb6b31a38a87b4454c66d0b6ff9ac7",
@@ -565,7 +598,7 @@
       "title": "当然，浏览器也可以打开 HTML 文件，但是整个交互链路太复杂、太长了，体验很糟糕。\n\n现在的浏览器其实是为你给它链接、然后它打开网页这种场景设计的，而不是为了从一个文档阅读器的角度去设计的。",
       "url": "https://x.com/op7418/status/2060628867052982400",
       "published_at": "2026-05-30T07:46:21Z",
-      "summary": "当然，浏览器也可以打开 HTML 文件，但是整个交互链路太复杂、太长了，体验很糟糕。 现在的浏览器其实是为你给它链接、然后它打开网页这种场景设计的，而不是为了从一个文档阅读器的角度去设计的。💬0🔄0❤️2👀2341📊1⚡ Powered by xgo.ing"
+      "summary": "当然，浏览器也可以打开 HTML 文件，但是整个交互链路太复杂、太长了，体验很糟糕。 现在的浏览器其实是为你给它链接、然后它打开网页这种场景设计的，而不是为了从一个文档阅读器的角度去设计的。💬2🔄0❤️4👀3451📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "402a0b3580e23ce48d7404413a6acbce13e6280e",
@@ -576,7 +609,7 @@
       "title": "现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。\n\n如果是在外面用手机，别人发过来的 Markdown 和 ...",
       "url": "https://x.com/op7418/status/2060626984200437995",
       "published_at": "2026-05-30T07:38:52Z",
-      "summary": "现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。💬37🔄3❤️49👀20446📊39⚡ Powered by xgo.ing"
+      "summary": "现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。💬51🔄3❤️65👀30668📊52⚡ Powered by xgo.ing"
     },
     {
       "id": "9e570008c75887c8c2cec6b379ea84aa28c56efe",
@@ -587,7 +620,7 @@
       "title": "还有一个是那个 Pro 实在是太重了，我最近出门越来越多了，每次出门抱着它我就烦得要死，尤其是夏天又热",
       "url": "https://x.com/op7418/status/2060624551046975761",
       "published_at": "2026-05-30T07:29:12Z",
-      "summary": "还有一个是那个 Pro 实在是太重了，我最近出门越来越多了，每次出门抱着它我就烦得要死，尤其是夏天又热💬3🔄0❤️3👀1980📊3⚡ Powered by xgo.ing"
+      "summary": "还有一个是那个 Pro 实在是太重了，我最近出门越来越多了，每次出门抱着它我就烦得要死，尤其是夏天又热💬3🔄0❤️4👀2350📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "d7a510513e01baa9fbc71aed673fee1249f8804c",
@@ -598,7 +631,7 @@
       "title": "我发现这个杠精真是多，非得找地方体现一下自己的优越感。\n\n下回就不要问这个内存还是硬盘了，你就当我是傻逼，我分不清内存还是硬盘就行",
       "url": "https://x.com/op7418/status/2060617155985682731",
       "published_at": "2026-05-30T06:59:49Z",
-      "summary": "我发现这个杠精真是多，非得找地方体现一下自己的优越感。 下回就不要问这个内存还是硬盘了，你就当我是傻逼，我分不清内存还是硬盘就行💬5🔄0❤️5👀3945📊5⚡ Powered by xgo.ing"
+      "summary": "我发现这个杠精真是多，非得找地方体现一下自己的优越感。 下回就不要问这个内存还是硬盘了，你就当我是傻逼，我分不清内存还是硬盘就行💬6🔄0❤️6👀4368📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "53c259c8a6dde13984ff97c78aa2574836bf7191",
@@ -620,7 +653,7 @@
       "title": "把自己之前的 M3 MacBook Pro 换成了 M5 的 MacBook Air。\n\n主要是由于原来的是 512G 的内存，随着我自己开始录视频，这个内存就捉襟见肘。\n\n而且确实用不到那么高的性能...",
       "url": "https://x.com/op7418/status/2060613231668801789",
       "published_at": "2026-05-30T06:44:13Z",
-      "summary": "把自己之前的 M3 MacBook Pro 换成了 M5 的 MacBook Air。 主要是由于原来的是 512G 的内存，随着我自己开始录视频，这个内存就捉襟见肘。 而且确实用不到那么高的性能，有了一个 Mac Studio 了。 换了个 32G 两 T 的版本，京东加上国补才 1 万 5。要是同样内存的话，Pro 感觉得两万七八。💬63🔄0❤️52👀20167📊57⚡ Powered by xgo.ing"
+      "summary": "把自己之前的 M3 MacBook Pro 换成了 M5 的 MacBook Air。 主要是由于原来的是 512G 的内存，随着我自己开始录视频，这个内存就捉襟见肘。 而且确实用不到那么高的性能，有了一个 Mac Studio 了。 换了个 32G 两 T 的版本，京东加上国补才 1 万 5。要是同样内存的话，Pro 感觉得两万七八。💬69🔄0❤️55👀23770📊62⚡ Powered by xgo.ing"
     },
     {
       "id": "7c8d9e693930eaa677ac9046da29c3872e9e068e",
@@ -631,7 +664,7 @@
       "title": "我在想藏师傅的这种东西是不是绝佳的前端训练数据可以造非常多",
       "url": "https://x.com/op7418/status/2060577690646888533",
       "published_at": "2026-05-30T04:22:59Z",
-      "summary": "我在想藏师傅的这种东西是不是绝佳的前端训练数据可以造非常多歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬12🔄0❤️34👀7723📊13⚡ Powered by xgo.ing"
+      "summary": "我在想藏师傅的这种东西是不是绝佳的前端训练数据可以造非常多歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬12🔄0❤️34👀8163📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "66272c98b48f6d1c45ac49e75ad107078d9e8c02",
@@ -664,7 +697,7 @@
       "title": "https://t.co/XeKg9xwHOI",
       "url": "https://x.com/GeminiApp/status/2060473824022561245",
       "published_at": "2026-05-29T21:30:16Z",
-      "summary": "x.com/gong_yun74374/…yun long@gong_yun74374Wow! The bird can fly out of the screen!Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬5🔄11❤️83👀26137📊14⚡ Powered by xgo.ing"
+      "summary": "x.com/gong_yun74374/…yun long@gong_yun74374Wow! The bird can fly out of the screen!Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬5🔄11❤️88👀27090📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "a0522d2acb4f26cde6703571a5e1b115e87d99a4",
@@ -686,7 +719,7 @@
       "title": "From the screen to reality in a single prompt. \n\nCheck out these incredible examples of how Gemini O...",
       "url": "https://x.com/GeminiApp/status/2060473816393150965",
       "published_at": "2026-05-29T21:30:14Z",
-      "summary": "From the screen to reality in a single prompt. Check out these incredible examples of how Gemini Omni can understand your video input, apply physics, and generate seamless new motion. Try it out for yourself and share how you're experimenting with Gemini Omni in the replies 👇💬40🔄…"
+      "summary": "From the screen to reality in a single prompt. Check out these incredible examples of how Gemini Omni can understand your video input, apply physics, and generate seamless new motion. Try it out for yourself and share how you're experimenting with Gemini Omni in the replies 👇💬44🔄…"
     },
     {
       "id": "c449d96cf62abf82675e850c34ab7ad753064573",
@@ -697,7 +730,7 @@
       "title": "AI can give researchers the freedom to pursue “crazier” ideas.\n\nFor Terence Tao, AI creates more roo...",
       "url": "https://x.com/OpenAI/status/2060451757818601808",
       "published_at": "2026-05-29T20:02:35Z",
-      "summary": "AI can give researchers the freedom to pursue “crazier” ideas. For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.Your browser does not support the video tag.🔗 View on Twitter💬197🔄391❤️3766👀392002📊633⚡ P…"
+      "summary": "AI can give researchers the freedom to pursue “crazier” ideas. For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.Your browser does not support the video tag.🔗 View on Twitter💬207🔄408❤️3891👀432782📊658⚡ P…"
     },
     {
       "id": "47eaa4158d7b60a33f6708675930eafe239da483",
@@ -708,7 +741,7 @@
       "title": "In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cogniti...",
       "url": "https://x.com/OpenAI/status/2060451760033214653",
       "published_at": "2026-05-29T20:02:35Z",
-      "summary": "In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. forum.openai.com/public/videos/…💬19🔄23❤️251👀64805📊46…"
+      "summary": "In conversation with OpenAI’s @markchen90, Terence reflects on a future where AI reduces the cognitive friction of research, helps preserve the paths behind discovery, and expands what mathematicians and scientists can attempt. forum.openai.com/public/videos/…💬19🔄23❤️255👀66300📊47…"
     },
     {
       "id": "69008c606db4c37e17655d15a25262b7cdcf0c83",
@@ -719,7 +752,7 @@
       "title": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at https://t.co/382WL5xSvc...",
       "url": "https://x.com/GeminiApp/status/2060436094731375008",
       "published_at": "2026-05-29T19:00:20Z",
-      "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app.💬3🔄3❤️35👀12801📊8⚡ Powered by xgo.ing"
+      "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app.💬3🔄3❤️36👀13099📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "6c960545eb5c6e3d439fa531c4ca395db20e599a",
@@ -730,7 +763,7 @@
       "title": "Gemini Omni can transform even a basic sketch into a new reality. \n\nTry for yourself in the Gemini a...",
       "url": "https://x.com/GeminiApp/status/2060435981946503243",
       "published_at": "2026-05-29T18:59:53Z",
-      "summary": "Gemini Omni can transform even a basic sketch into a new reality. Try for yourself in the Gemini app. Upload a video of someone drawing a circle and then enter this prompt: When I finish drawing the circle, it becomes ___.💬35🔄68❤️434👀27221📊95⚡ Powered by xgo.ing"
+      "summary": "Gemini Omni can transform even a basic sketch into a new reality. Try for yourself in the Gemini app. Upload a video of someone drawing a circle and then enter this prompt: When I finish drawing the circle, it becomes ___.💬36🔄70❤️447👀28086📊97⚡ Powered by xgo.ing"
     },
     {
       "id": "11dcc0e8828db8b4962b15c4c46fb72673b4f140",
@@ -752,7 +785,7 @@
       "title": "That’s a wrap on this month’s Gemini Drops!\n\nTo learn more about everything that’s new, check out th...",
       "url": "https://x.com/GeminiApp/status/2060409308001738901",
       "published_at": "2026-05-29T17:13:54Z",
-      "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬4🔄2❤️22👀9874📊6⚡ Powered by xgo.ing"
+      "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬4🔄2❤️22👀10013📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "925bfc78f206d9accee33c79e12cf99b67d870a2",
@@ -763,7 +796,7 @@
       "title": "9) Level up with Google AI Ultra\n\nUnlock higher usage limits and Gemini 3.5 Flash with the new Googl...",
       "url": "https://x.com/GeminiApp/status/2060409306051379323",
       "published_at": "2026-05-29T17:13:53Z",
-      "summary": "9) Level up with Google AI Ultra Unlock higher usage limits and Gemini 3.5 Flash with the new Google AI Ultra plan for just $100/month.💬10🔄2❤️29👀10967📊12⚡ Powered by xgo.ing"
+      "summary": "9) Level up with Google AI Ultra Unlock higher usage limits and Gemini 3.5 Flash with the new Google AI Ultra plan for just $100/month.💬11🔄2❤️29👀11137📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "5c6c6c936ab41aa709367e128948bad707cbf54b",
@@ -796,7 +829,7 @@
       "title": "Tune in for the full story ↓ https://t.co/EGq2OA3A1n",
       "url": "https://x.com/GoogleAI/status/2060392194142290294",
       "published_at": "2026-05-29T16:05:53Z",
-      "summary": "Tune in for the full story ↓ youtube.com/watch?v=8hfpLa…💬2🔄1❤️24👀19416📊6⚡ Powered by xgo.ing"
+      "summary": "Tune in for the full story ↓ youtube.com/watch?v=8hfpLa…💬2🔄1❤️24👀19618📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "1373aef892e5a59c0b5bd25ee10501d936f7e0b2",
@@ -829,7 +862,7 @@
       "title": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a loo...",
       "url": "https://x.com/GeminiApp/status/2060389565052096911",
       "published_at": "2026-05-29T15:55:27Z",
-      "summary": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a look at this month’s Gemini Drops. 🧵💬71🔄94❤️688👀72641📊152⚡ Powered by xgo.ing"
+      "summary": "From a newly redesigned Gemini experience to 24/7 agentic assistance with Gemini Spark, here’s a look at this month’s Gemini Drops. 🧵💬72🔄98❤️700👀73744📊155⚡ Powered by xgo.ing"
     },
     {
       "id": "5f2e3b072df4543fcce1fbcd7044baad66fb18e5",
@@ -851,18 +884,7 @@
       "title": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。\n\n我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。\n\n今天突...",
       "url": "https://x.com/op7418/status/2060367382884094026",
       "published_at": "2026-05-29T14:27:18Z",
-      "summary": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。 我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。 今天突然想起来，打开让 Claude Code 帮我装。 打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好 这个未来感觉很有用。💬153🔄9❤️167👀43683📊154⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3bd11c14bef286bec146cd8b782326e162cd10b5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Cursor 发布了一份开发者报告，里面有些数据很有意思\n\n挑几个比较重要的点来说：\n\n头部用户的 AI 代码产出、token 消耗、PR 合并量都远高于中位数，而且差距还在扩大。\n\nAI 写代码前读...",
-      "url": "https://x.com/op7418/status/2060316035790860754",
-      "published_at": "2026-05-29T11:03:16Z",
-      "summary": "Cursor 发布了一份开发者报告，里面有些数据很有意思 挑几个比较重要的点来说： 头部用户的 AI 代码产出、token 消耗、PR 合并量都远高于中位数，而且差距还在扩大。 AI 写代码前读得越来越多，input/output token ratio 大幅上升。真正贵是理解一个代码库和任务。 缓存变得非常重要，如果每次 agent 都从零读上下文，成本会爆炸。这意味着未来 coding agent 的竞争力很可能在上下文缓存、增量理解、长期记忆这些地方。 放权越来越多，手动 diff acceptance 变少，更多 AI 改动直接进入 commit…"
+      "summary": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。 我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。 今天突然想起来，打开让 Claude Code 帮我装。 打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好 这个未来感觉很有用。💬153🔄9❤️172👀44378📊154⚡ Powered by xgo.ing"
     }
   ]
 }
