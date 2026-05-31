@@ -1,13 +1,17 @@
 {
-  "generated_at": "2026-05-31T10:09:55.359895Z",
+  "generated_at": "2026-05-31T11:55:16.556844Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 3,
   "feed_total": 12,
-  "ok_feeds": 10,
+  "ok_feeds": 6,
   "failed_feeds": [
+    "https://rsshub.bestblogs.dev/anthropic/news",
+    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
-    "rsshub://bilibili/user/video/385670211"
+    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+    "rsshub://bilibili/user/video/385670211",
+    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -17,10 +21,10 @@
       "feed_title": "Anthropic News",
       "feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 292,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12053,
+      "error": "HTTPSConnectionPool(host='rsshub.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -33,7 +37,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 298,
+      "duration_ms": 46,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +51,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1736,
+      "duration_ms": 1366,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +65,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1528,
+      "duration_ms": 1132,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +79,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1193,
+      "duration_ms": 530,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -87,10 +91,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1563,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12074,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -115,10 +119,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1245,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12109,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -131,7 +135,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 183,
+      "duration_ms": 150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +149,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2388,
+      "duration_ms": 2176,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -171,10 +175,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1291,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12125,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -183,11 +187,26 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 3,
       "feed_total": 5,
-      "ok_feeds": 5,
-      "failed_feeds": [],
+      "ok_feeds": 2,
+      "failed_feeds": [
+        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
+        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+      ],
       "items": [
+        {
+          "id": "0e797a41c6d2046c21e2a7aa3d60ff600b95c628",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "终于搞定了焖面",
+          "url": "https://x.com/op7418/status/2061033637538414594",
+          "published_at": "2026-05-31T10:34:45Z",
+          "summary": "终于搞定了焖面💬13🔄0❤️15👀1495📊12⚡ Powered by xgo.ing"
+        },
         {
           "id": "ade022aa8d4e20e2f4d8545ff414150b92fd92d9",
           "site_id": "featuredrss",
@@ -208,40 +227,7 @@
           "title": "快搞完了：https://t.co/09UEXIOzze",
           "url": "https://x.com/op7418/status/2060769813560275201",
           "published_at": "2026-05-30T17:06:25Z",
-          "summary": "快搞完了：x.com/op7418/status/…歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️6👀6373📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "2d30ab03dcdbb1665e13b4076fbd6531e8f71a01",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了",
-          "url": "https://x.com/op7418/status/2060689179642916894",
-          "published_at": "2026-05-30T11:46:00Z",
-          "summary": "iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdo…"
-        },
-        {
-          "id": "573f6fcf4c307038f07170b4779ac9b12efd3ad5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我去，太牛批了！\n\n我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！\n\n就是这个社交媒体卡片 Skill （guizang-social-card-skill）\n\n还是刚才一...",
-          "url": "https://x.com/op7418/status/2060667214077034978",
-          "published_at": "2026-05-30T10:18:43Z",
-          "summary": "我去，太牛批了！ 我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！ 就是这个社交媒体卡片 Skill （guizang-social-card-skill） 还是刚才一个群友让他的 Agent 找项目的时候发现的。我自己看了一下，果然是第一！歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬141🔄251❤️1479👀200516📊444⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5489e131484ce121e69811c0bd6b70b88977d493",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？\n\n我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。",
-          "url": "https://x.com/op7418/status/2060665471066869973",
-          "published_at": "2026-05-30T10:11:48Z",
-          "summary": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？ 我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。💬2🔄0❤️5👀9085📊2⚡ Powered by xgo.ing"
+          "summary": "快搞完了：x.com/op7418/status/…歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️7👀6955📊2⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -249,8 +235,9 @@
       "label": "国外精选",
       "total_items": 0,
       "feed_total": 7,
-      "ok_feeds": 5,
+      "ok_feeds": 4,
       "failed_feeds": [
+        "https://rsshub.bestblogs.dev/anthropic/news",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
@@ -258,6 +245,17 @@
     }
   },
   "items": [
+    {
+      "id": "0e797a41c6d2046c21e2a7aa3d60ff600b95c628",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "终于搞定了焖面",
+      "url": "https://x.com/op7418/status/2061033637538414594",
+      "published_at": "2026-05-31T10:34:45Z",
+      "summary": "终于搞定了焖面💬13🔄0❤️15👀1495📊12⚡ Powered by xgo.ing"
+    },
     {
       "id": "ade022aa8d4e20e2f4d8545ff414150b92fd92d9",
       "site_id": "featuredrss",
@@ -278,40 +276,7 @@
       "title": "快搞完了：https://t.co/09UEXIOzze",
       "url": "https://x.com/op7418/status/2060769813560275201",
       "published_at": "2026-05-30T17:06:25Z",
-      "summary": "快搞完了：x.com/op7418/status/…歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️6👀6373📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2d30ab03dcdbb1665e13b4076fbd6531e8f71a01",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了",
-      "url": "https://x.com/op7418/status/2060689179642916894",
-      "published_at": "2026-05-30T11:46:00Z",
-      "summary": "iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdo…"
-    },
-    {
-      "id": "573f6fcf4c307038f07170b4779ac9b12efd3ad5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我去，太牛批了！\n\n我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！\n\n就是这个社交媒体卡片 Skill （guizang-social-card-skill）\n\n还是刚才一...",
-      "url": "https://x.com/op7418/status/2060667214077034978",
-      "published_at": "2026-05-30T10:18:43Z",
-      "summary": "我去，太牛批了！ 我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！ 就是这个社交媒体卡片 Skill （guizang-social-card-skill） 还是刚才一个群友让他的 Agent 找项目的时候发现的。我自己看了一下，果然是第一！歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬141🔄251❤️1479👀200516📊444⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5489e131484ce121e69811c0bd6b70b88977d493",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？\n\n我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。",
-      "url": "https://x.com/op7418/status/2060665471066869973",
-      "published_at": "2026-05-30T10:11:48Z",
-      "summary": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？ 我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。💬2🔄0❤️5👀9085📊2⚡ Powered by xgo.ing"
+      "summary": "快搞完了：x.com/op7418/status/…歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️7👀6955📊2⚡ Powered by xgo.ing"
     }
   ]
 }
