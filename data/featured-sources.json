@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-31T16:14:07.780585Z",
+  "generated_at": "2026-05-31T17:35:59.943376Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 6,
   "failed_feeds": [
@@ -23,7 +23,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12035,
+      "duration_ms": 12043,
       "error": "HTTPSConnectionPool(host='rsshub.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -37,7 +37,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 28,
+      "duration_ms": 55,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -51,7 +51,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1345,
+      "duration_ms": 1632,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -65,7 +65,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1095,
+      "duration_ms": 1504,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -79,7 +79,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 528,
+      "duration_ms": 539,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -93,7 +93,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12173,
+      "duration_ms": 12169,
       "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -121,7 +121,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12174,
+      "duration_ms": 12176,
       "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -135,7 +135,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 156,
+      "duration_ms": 158,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -149,7 +149,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2321,
+      "duration_ms": 2229,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -177,7 +177,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12170,
+      "duration_ms": 12151,
       "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -187,7 +187,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 2,
       "failed_feeds": [
@@ -197,6 +197,39 @@
       ],
       "items": [
         {
+          "id": "1513df97b14e04aa959a00820a6478a4928da5ba",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价",
+          "url": "https://x.com/op7418/status/2061122568283918766",
+          "published_at": "2026-05-31T16:28:08Z",
+          "summary": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价💬1🔄0❤️2👀1306📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "fd616ba2970866bc48d80c3a4e095f03dfded03b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "iPhone 和 iPad 都支持",
+          "url": "https://x.com/op7418/status/2061121003917594702",
+          "published_at": "2026-05-31T16:21:55Z",
+          "summary": "iPhone 和 iPad 都支持💬1🔄0❤️2👀1974📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "4c20e101d20f9e31174e351707c95c7c6ceb092d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了\n\n没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试",
+          "url": "https://x.com/op7418/status/2061120486038450317",
+          "published_at": "2026-05-31T16:19:52Z",
+          "summary": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了 没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬11🔄1❤️16👀4900📊10⚡ Powered by xgo.ing"
+        },
+        {
           "id": "0e797a41c6d2046c21e2a7aa3d60ff600b95c628",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -205,7 +238,7 @@
           "title": "终于搞定了焖面",
           "url": "https://x.com/op7418/status/2061033637538414594",
           "published_at": "2026-05-31T10:34:45Z",
-          "summary": "终于搞定了焖面💬45🔄4❤️44👀5872📊42⚡ Powered by xgo.ing"
+          "summary": "终于搞定了焖面💬51🔄5❤️45👀6835📊47⚡ Powered by xgo.ing"
         },
         {
           "id": "ade022aa8d4e20e2f4d8545ff414150b92fd92d9",
@@ -217,17 +250,6 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-107",
           "published_at": "2026-05-31T00:07:20Z",
           "summary": "AI 早报 2026-05-31 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阶跃星辰为 Hermes Agent 用户提供 Step 3.7 Flash 模型限时免费服务 ↗ #1 开发生态 OpenClaw 发布 2026.5.28 版本 ↗ #2 技术与洞察 小米详解 MiMo-V2.5 推理优化 ↗ #3 行业动态 MiniMax 启动 A 股 IPO 进程 ↗ #4 软银宣布在法国投资最高 750 亿欧元建设 AI 数据中心 ↗ #5 前瞻与传闻 爆料称 ChatGPT 正在开发 \"Translation Block\" ↗ #6 阶跃…"
-        },
-        {
-          "id": "063044bf62f7f00beb2ff4d2256d25bcde538181",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "快搞完了：https://t.co/09UEXIOzze",
-          "url": "https://x.com/op7418/status/2060769813560275201",
-          "published_at": "2026-05-30T17:06:25Z",
-          "summary": "快搞完了：x.com/op7418/status/…歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄0❤️7👀7944📊3⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -246,6 +268,39 @@
   },
   "items": [
     {
+      "id": "1513df97b14e04aa959a00820a6478a4928da5ba",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价",
+      "url": "https://x.com/op7418/status/2061122568283918766",
+      "published_at": "2026-05-31T16:28:08Z",
+      "summary": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价💬1🔄0❤️2👀1306📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "fd616ba2970866bc48d80c3a4e095f03dfded03b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "iPhone 和 iPad 都支持",
+      "url": "https://x.com/op7418/status/2061121003917594702",
+      "published_at": "2026-05-31T16:21:55Z",
+      "summary": "iPhone 和 iPad 都支持💬1🔄0❤️2👀1974📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "4c20e101d20f9e31174e351707c95c7c6ceb092d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了\n\n没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试",
+      "url": "https://x.com/op7418/status/2061120486038450317",
+      "published_at": "2026-05-31T16:19:52Z",
+      "summary": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了 没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬11🔄1❤️16👀4900📊10⚡ Powered by xgo.ing"
+    },
+    {
       "id": "0e797a41c6d2046c21e2a7aa3d60ff600b95c628",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -254,7 +309,7 @@
       "title": "终于搞定了焖面",
       "url": "https://x.com/op7418/status/2061033637538414594",
       "published_at": "2026-05-31T10:34:45Z",
-      "summary": "终于搞定了焖面💬45🔄4❤️44👀5872📊42⚡ Powered by xgo.ing"
+      "summary": "终于搞定了焖面💬51🔄5❤️45👀6835📊47⚡ Powered by xgo.ing"
     },
     {
       "id": "ade022aa8d4e20e2f4d8545ff414150b92fd92d9",
@@ -266,17 +321,6 @@
       "url": "https://imjuya.github.io/juya-ai-daily/issue-107",
       "published_at": "2026-05-31T00:07:20Z",
       "summary": "AI 早报 2026-05-31 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阶跃星辰为 Hermes Agent 用户提供 Step 3.7 Flash 模型限时免费服务 ↗ #1 开发生态 OpenClaw 发布 2026.5.28 版本 ↗ #2 技术与洞察 小米详解 MiMo-V2.5 推理优化 ↗ #3 行业动态 MiniMax 启动 A 股 IPO 进程 ↗ #4 软银宣布在法国投资最高 750 亿欧元建设 AI 数据中心 ↗ #5 前瞻与传闻 爆料称 ChatGPT 正在开发 \"Translation Block\" ↗ #6 阶跃…"
-    },
-    {
-      "id": "063044bf62f7f00beb2ff4d2256d25bcde538181",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "快搞完了：https://t.co/09UEXIOzze",
-      "url": "https://x.com/op7418/status/2060769813560275201",
-      "published_at": "2026-05-30T17:06:25Z",
-      "summary": "快搞完了：x.com/op7418/status/…歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄0❤️7👀7944📊3⚡ Powered by xgo.ing"
     }
   ]
 }
