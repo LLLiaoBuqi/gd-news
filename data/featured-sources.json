@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-01T10:36:46.203751Z",
+  "generated_at": "2026-06-01T16:33:48.910181Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 253,
+      "duration_ms": 212,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 52,
+      "duration_ms": 19,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1551,
+      "duration_ms": 1401,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1346,
+      "duration_ms": 1291,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 590,
+      "duration_ms": 508,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1780,
+      "duration_ms": 1294,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1465,
+      "duration_ms": 1023,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 162,
+      "duration_ms": 148,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2202,
+      "duration_ms": 2010,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 923,
+      "duration_ms": 768,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,55 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "9b71c34d499d19b40d5f336bccef1f71f916f754",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "其实都搞好了，被苹果审核卡脖子了",
+          "url": "https://x.com/op7418/status/2061456989969133796",
+          "published_at": "2026-06-01T14:37:01Z",
+          "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬6🔄0❤️15👀6199📊5⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8d33817a04adcb98649ddfd1a249c1cfd47b608d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "客户端：https://t.co/G5zE442vaT",
+          "url": "https://x.com/op7418/status/2061426855157326299",
+          "published_at": "2026-06-01T12:37:16Z",
+          "summary": "客户端：github.com/op7418/CodePil…💬2🔄0❤️3👀2828📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3b4ee8312d85337388773302edb9eeac57c32869",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codepilot 的重构版本终于好了！\n\nCodePilot 0.55.0-preview.5 \n\n相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎\n\n可以使用 Code...",
+          "url": "https://x.com/op7418/status/2061426771267125649",
+          "published_at": "2026-06-01T12:36:56Z",
+          "summary": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈💬20🔄0❤️14👀5270📊19⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "7e17f321ec0eab8270ea7d7eeed8db3f33bd4df6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "AI视频又出息了，我再不用写千字提示语来描述人物关系和空间位置了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507423&idx=1&sn=cfc3437bbe628cc8a43a0e795fdf062d",
+          "published_at": "2026-06-01T12:22:00Z",
+          "summary": "甚至可以让十个AI演员上下左右做个群舞表演"
+        },
         {
           "id": "bf7f04b8472318c529b1d428a5a847f9c810207b",
           "site_id": "featuredrss",
@@ -208,7 +252,7 @@
           "title": "谁能想到藏师傅有天也能上央视新闻呢",
           "url": "https://x.com/op7418/status/2061336925286629879",
           "published_at": "2026-06-01T06:39:55Z",
-          "summary": "谁能想到藏师傅有天也能上央视新闻呢💬103🔄3❤️217👀17382📊106⚡ Powered by xgo.ing"
+          "summary": "谁能想到藏师傅有天也能上央视新闻呢💬173🔄5❤️319👀32505📊173⚡ Powered by xgo.ing"
         },
         {
           "id": "b0e31608f50fae9963f20ea85dc115c47aef54b0",
@@ -219,7 +263,7 @@
           "title": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！\n\n我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。\n\n我一直以为是自己的网络有问题，但它和我的 ...",
           "url": "https://x.com/op7418/status/2061335964992323744",
           "published_at": "2026-06-01T06:36:06Z",
-          "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬35🔄1❤️74👀21085📊49⚡ Powered by…"
+          "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬98🔄19❤️191👀53994📊136⚡ Powered…"
         },
         {
           "id": "c10a777e2c2e92b1e7e41c47cf039493fbbb1e89",
@@ -242,39 +286,6 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-108",
           "published_at": "2026-06-01T00:44:44Z",
           "summary": "AI 早报 2026-06-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 MiniMax 上线 MiniMax M3 模型，支持多模态和 1M 上下文 ↗ #1 模型发布 SpaceXAI 上线 Grok-Imagine-Video-1.5-Preview API ↗ #2 Qwen-VLA 发布，统一视觉-语言-动作建模 ↗ #3 开发生态 OpenAI 宣布 Codex 用户破 500 万并重置付费用户使用额度 ↗ #4 英特尔联合魔搭社区上线AI PC专区 ↗ #5 OpenClaw推出auto模式：LLM辅助的主机命令自动审批 ↗ #6…"
-        },
-        {
-          "id": "1513df97b14e04aa959a00820a6478a4928da5ba",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价",
-          "url": "https://x.com/op7418/status/2061122568283918766",
-          "published_at": "2026-05-31T16:28:08Z",
-          "summary": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价💬2🔄0❤️6👀4603📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "fd616ba2970866bc48d80c3a4e095f03dfded03b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "iPhone 和 iPad 都支持",
-          "url": "https://x.com/op7418/status/2061121003917594702",
-          "published_at": "2026-05-31T16:21:55Z",
-          "summary": "iPhone 和 iPad 都支持💬1🔄0❤️3👀5379📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4c20e101d20f9e31174e351707c95c7c6ceb092d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了\n\n没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试",
-          "url": "https://x.com/op7418/status/2061120486038450317",
-          "published_at": "2026-05-31T16:19:52Z",
-          "summary": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了 没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬140🔄3❤️68👀27662📊98⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -291,6 +302,50 @@
     }
   },
   "items": [
+    {
+      "id": "9b71c34d499d19b40d5f336bccef1f71f916f754",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "其实都搞好了，被苹果审核卡脖子了",
+      "url": "https://x.com/op7418/status/2061456989969133796",
+      "published_at": "2026-06-01T14:37:01Z",
+      "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬6🔄0❤️15👀6199📊5⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8d33817a04adcb98649ddfd1a249c1cfd47b608d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "客户端：https://t.co/G5zE442vaT",
+      "url": "https://x.com/op7418/status/2061426855157326299",
+      "published_at": "2026-06-01T12:37:16Z",
+      "summary": "客户端：github.com/op7418/CodePil…💬2🔄0❤️3👀2828📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3b4ee8312d85337388773302edb9eeac57c32869",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codepilot 的重构版本终于好了！\n\nCodePilot 0.55.0-preview.5 \n\n相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎\n\n可以使用 Code...",
+      "url": "https://x.com/op7418/status/2061426771267125649",
+      "published_at": "2026-06-01T12:36:56Z",
+      "summary": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈💬20🔄0❤️14👀5270📊19⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "7e17f321ec0eab8270ea7d7eeed8db3f33bd4df6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "AI视频又出息了，我再不用写千字提示语来描述人物关系和空间位置了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507423&idx=1&sn=cfc3437bbe628cc8a43a0e795fdf062d",
+      "published_at": "2026-06-01T12:22:00Z",
+      "summary": "甚至可以让十个AI演员上下左右做个群舞表演"
+    },
     {
       "id": "bf7f04b8472318c529b1d428a5a847f9c810207b",
       "site_id": "featuredrss",
@@ -311,7 +366,7 @@
       "title": "谁能想到藏师傅有天也能上央视新闻呢",
       "url": "https://x.com/op7418/status/2061336925286629879",
       "published_at": "2026-06-01T06:39:55Z",
-      "summary": "谁能想到藏师傅有天也能上央视新闻呢💬103🔄3❤️217👀17382📊106⚡ Powered by xgo.ing"
+      "summary": "谁能想到藏师傅有天也能上央视新闻呢💬173🔄5❤️319👀32505📊173⚡ Powered by xgo.ing"
     },
     {
       "id": "b0e31608f50fae9963f20ea85dc115c47aef54b0",
@@ -322,7 +377,7 @@
       "title": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！\n\n我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。\n\n我一直以为是自己的网络有问题，但它和我的 ...",
       "url": "https://x.com/op7418/status/2061335964992323744",
       "published_at": "2026-06-01T06:36:06Z",
-      "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬35🔄1❤️74👀21085📊49⚡ Powered by…"
+      "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬98🔄19❤️191👀53994📊136⚡ Powered…"
     },
     {
       "id": "c10a777e2c2e92b1e7e41c47cf039493fbbb1e89",
@@ -345,39 +400,6 @@
       "url": "https://imjuya.github.io/juya-ai-daily/issue-108",
       "published_at": "2026-06-01T00:44:44Z",
       "summary": "AI 早报 2026-06-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 MiniMax 上线 MiniMax M3 模型，支持多模态和 1M 上下文 ↗ #1 模型发布 SpaceXAI 上线 Grok-Imagine-Video-1.5-Preview API ↗ #2 Qwen-VLA 发布，统一视觉-语言-动作建模 ↗ #3 开发生态 OpenAI 宣布 Codex 用户破 500 万并重置付费用户使用额度 ↗ #4 英特尔联合魔搭社区上线AI PC专区 ↗ #5 OpenClaw推出auto模式：LLM辅助的主机命令自动审批 ↗ #6…"
-    },
-    {
-      "id": "1513df97b14e04aa959a00820a6478a4928da5ba",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价",
-      "url": "https://x.com/op7418/status/2061122568283918766",
-      "published_at": "2026-05-31T16:28:08Z",
-      "summary": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价💬2🔄0❤️6👀4603📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "fd616ba2970866bc48d80c3a4e095f03dfded03b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "iPhone 和 iPad 都支持",
-      "url": "https://x.com/op7418/status/2061121003917594702",
-      "published_at": "2026-05-31T16:21:55Z",
-      "summary": "iPhone 和 iPad 都支持💬1🔄0❤️3👀5379📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4c20e101d20f9e31174e351707c95c7c6ceb092d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了\n\n没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试",
-      "url": "https://x.com/op7418/status/2061120486038450317",
-      "published_at": "2026-05-31T16:19:52Z",
-      "summary": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了 没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬140🔄3❤️68👀27662📊98⚡ Powered by xgo.ing"
     }
   ]
 }
