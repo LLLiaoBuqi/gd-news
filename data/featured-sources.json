@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-02T00:16:49.343953Z",
+  "generated_at": "2026-06-02T05:08:37.810729Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 19,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 197,
+      "duration_ms": 361,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 23,
+      "duration_ms": 50,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1538,
+      "duration_ms": 1800,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1430,
+      "duration_ms": 1675,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 596,
+      "duration_ms": 1183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1789,
+      "duration_ms": 1064,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2127,
+      "duration_ms": 1608,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 140,
+      "duration_ms": 179,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1883,
+      "duration_ms": 2501,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1399,
+      "duration_ms": 1392,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,55 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "b0cea42b63fe02f62e51cc3aae7e6337d7e09504",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Anthropic 开始准备 IPO 了。\n\nMiniMax 和智谱也同时提交了上 A 股和科创板的申请，同时开始进行上市指导。\n\n大家都有光明的未来，不知道 OpenAI 啥时候开始。",
+          "url": "https://x.com/op7418/status/2061645513964003631",
+          "published_at": "2026-06-02T03:06:08Z",
+          "summary": "Anthropic 开始准备 IPO 了。 MiniMax 和智谱也同时提交了上 A 股和科创板的申请，同时开始进行上市指导。 大家都有光明的未来，不知道 OpenAI 啥时候开始。Anthropic@AnthropicAIAnthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission. Pending completion of SEC review, this gives us the…"
+        },
+        {
+          "id": "597e540d877d756c4ea5d31b4431d5284f59fd4d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/DhMuRKQIDi",
+          "url": "https://x.com/op7418/status/2061645122476097582",
+          "published_at": "2026-06-02T03:04:35Z",
+          "summary": "developer.apple.com/wwdc26/wallpap…💬1🔄0❤️1👀1286📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8587b205521cb58b06e0f42e53c0c93ece7aafc3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。\n\n这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。\n\n点击加载 4K就行，也可以去下...",
+          "url": "https://x.com/op7418/status/2061644847325610329",
+          "published_at": "2026-06-02T03:03:29Z",
+          "summary": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。 这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。 点击加载 4K就行，也可以去下面网站下 6K 原图。Greg Joswiak@gregjozAll systems glow for a great #WWDC26 next week! Tune in June 8 at 10 am PT.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted T…"
+        },
+        {
+          "id": "a3d5c5fd3782c529367abf32e2eed41a4b85af72",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-06-02",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-109",
+          "published_at": "2026-06-02T01:44:04Z",
+          "summary": "AI 早报 2026-06-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问发布多模态智能体模型 Qwen3.7-Plus ↗ #1 MiniMax Token Plan 切换至 Token 计费并补偿老用户 ↗ #2 Claude 修复 Opus 4.8 并行调用异常并重置用户限额 ↗ #3 模型发布 MiniMax 发布模型 M3 并计划未来 10 天内开源权重 ↗ #4 VAST 发布 Project Eden 世界模型研究预览版 ↗ #5 JetBrains 发布 12B 参数 MoE 架构模型 Mellum2 ↗ #6 开发生态 Q…"
+        },
         {
           "id": "9b71c34d499d19b40d5f336bccef1f71f916f754",
           "site_id": "featuredrss",
@@ -197,7 +241,7 @@
           "title": "其实都搞好了，被苹果审核卡脖子了",
           "url": "https://x.com/op7418/status/2061456989969133796",
           "published_at": "2026-06-01T14:37:01Z",
-          "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬73🔄0❤️22👀11894📊49⚡ Powered by xgo.ing"
+          "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬112🔄1❤️29👀16768📊75⚡ Powered by xgo.ing"
         },
         {
           "id": "8d33817a04adcb98649ddfd1a249c1cfd47b608d",
@@ -208,7 +252,7 @@
           "title": "客户端：https://t.co/G5zE442vaT",
           "url": "https://x.com/op7418/status/2061426855157326299",
           "published_at": "2026-06-01T12:37:16Z",
-          "summary": "客户端：github.com/op7418/CodePil…💬3🔄0❤️3👀3404📊3⚡ Powered by xgo.ing"
+          "summary": "客户端：github.com/op7418/CodePil…💬3🔄0❤️5👀3955📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "3b4ee8312d85337388773302edb9eeac57c32869",
@@ -219,7 +263,7 @@
           "title": "Codepilot 的重构版本终于好了！\n\nCodePilot 0.55.0-preview.5 \n\n相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎\n\n可以使用 Code...",
           "url": "https://x.com/op7418/status/2061426771267125649",
           "published_at": "2026-06-01T12:36:56Z",
-          "summary": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈💬84🔄0❤️21👀6947📊71⚡ Powered by xgo.ing"
+          "summary": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈💬116🔄0❤️22👀9030📊97⚡ Powered by xgo.ing"
         },
         {
           "id": "7e17f321ec0eab8270ea7d7eeed8db3f33bd4df6",
@@ -252,7 +296,7 @@
           "title": "谁能想到藏师傅有天也能上央视新闻呢",
           "url": "https://x.com/op7418/status/2061336925286629879",
           "published_at": "2026-06-01T06:39:55Z",
-          "summary": "谁能想到藏师傅有天也能上央视新闻呢💬185🔄5❤️349👀38315📊186⚡ Powered by xgo.ing"
+          "summary": "谁能想到藏师傅有天也能上央视新闻呢💬208🔄6❤️380👀43299📊208⚡ Powered by xgo.ing"
         },
         {
           "id": "b0e31608f50fae9963f20ea85dc115c47aef54b0",
@@ -263,7 +307,7 @@
           "title": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！\n\n我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。\n\n我一直以为是自己的网络有问题，但它和我的 ...",
           "url": "https://x.com/op7418/status/2061335964992323744",
           "published_at": "2026-06-01T06:36:06Z",
-          "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬109🔄26❤️291👀70565📊172⚡ Powere…"
+          "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬113🔄27❤️318👀79263📊186⚡ Powere…"
         },
         {
           "id": "c10a777e2c2e92b1e7e41c47cf039493fbbb1e89",
@@ -275,17 +319,6 @@
           "url": "https://x.com/op7418/status/2061327301644861608",
           "published_at": "2026-06-01T06:01:40Z",
           "summary": "MiniMax 这次终于发布了他们的大版本号模型升级 MiniMax M3。 主要是三个核心能力： 1. 标配了 1M 的超长上下文 2. 采用新的 MSA（MoE with Segment-wise Attention）稀疏注意力架构 3. 从训练起就融合了原生多模态能力，包括强化了文本、图片、视频和桌面操作这些多模态的训练。 MSA 超上下文在算力和速度上更可落地，在 100 万上下文下每 token 计算量只有上一代的约 1/20。。 所以他们这一次的价格也比较给力，Token Plan 更新了新的价格。 在 API 上，小于512k 的 API…"
-        },
-        {
-          "id": "3f9ee4b092ec854563bacea0d14209dafe52ddd7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-06-01",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-108",
-          "published_at": "2026-06-01T00:44:44Z",
-          "summary": "AI 早报 2026-06-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 MiniMax 上线 MiniMax M3 模型，支持多模态和 1M 上下文 ↗ #1 模型发布 SpaceXAI 上线 Grok-Imagine-Video-1.5-Preview API ↗ #2 Qwen-VLA 发布，统一视觉-语言-动作建模 ↗ #3 开发生态 OpenAI 宣布 Codex 用户破 500 万并重置付费用户使用额度 ↗ #4 英特尔联合魔搭社区上线AI PC专区 ↗ #5 OpenClaw推出auto模式：LLM辅助的主机命令自动审批 ↗ #6…"
         }
       ]
     },
@@ -319,7 +352,7 @@
           "title": "Read more about all the fun ways we used AI to bring I/O to life this year: https://t.co/jE7rLCVnfs",
           "url": "https://x.com/GoogleAI/status/2061544208289132791",
           "published_at": "2026-06-01T20:23:35Z",
-          "summary": "Read more about all the fun ways we used AI to bring I/O to life this year: blog.google/innovation-and…💬4🔄1❤️9👀5692📊4⚡ Powered by xgo.ing"
+          "summary": "Read more about all the fun ways we used AI to bring I/O to life this year: blog.google/innovation-and…💬4🔄1❤️14👀7688📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "dddef8b52d4e1ffa52c279ddf088ed3e7f58acbb",
@@ -330,7 +363,7 @@
           "title": "https://t.co/pgkSnOrWP2",
           "url": "https://x.com/GeminiApp/status/2061543806454088032",
           "published_at": "2026-06-01T20:21:59Z",
-          "summary": "x.com/gong_yun74374/…yun long@gong_yun74374@GeminiApp I ran a vase experiment with Gemini Omni~Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️12👀8650📊2⚡ Powered by xgo.ing"
+          "summary": "x.com/gong_yun74374/…yun long@gong_yun74374@GeminiApp I ran a vase experiment with Gemini Omni~Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄2❤️20👀11928📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "015c6200bdb1c99ed44783c2c1e936dfa4982b93",
@@ -341,7 +374,7 @@
           "title": "For more information on availability and step-by-step instructions for creating your avatar ➡️ https...",
           "url": "https://x.com/GeminiApp/status/2061528696159445393",
           "published_at": "2026-06-01T19:21:57Z",
-          "summary": "For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬4🔄1❤️13👀7077📊5⚡ Powered by xgo.ing"
+          "summary": "For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬4🔄2❤️14👀9476📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "60bf453c77511af4c6b3aa36fa6d65b35b909dfc",
@@ -363,7 +396,7 @@
           "title": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at https://t.co/382WL5xSvc...",
           "url": "https://x.com/GeminiApp/status/2061481161046819104",
           "published_at": "2026-06-01T16:13:03Z",
-          "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app. Try creating your own digital avatar with Gemini Omni and let us know what you’re making. 👇💬7🔄4❤️47👀14002📊12⚡ Powered by xgo.ing"
+          "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app. Try creating your own digital avatar with Gemini Omni and let us know what you’re making. 👇💬7🔄4❤️48👀16681📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "c5de2fb3c50c5e61cca19001464f50b75f269c18",
@@ -374,12 +407,56 @@
           "title": "Easily add yourself to your video creations in Gemini.\n\nHere’s how to create your own digital avatar...",
           "url": "https://x.com/GeminiApp/status/2061480944905982276",
           "published_at": "2026-06-01T16:12:12Z",
-          "summary": "Easily add yourself to your video creations in Gemini. Here’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵💬70🔄168❤️1163👀113856📊324⚡ Powered by xgo.ing"
+          "summary": "Easily add yourself to your video creations in Gemini. Here’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵💬83🔄242❤️1480👀183984📊420⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "b0cea42b63fe02f62e51cc3aae7e6337d7e09504",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anthropic 开始准备 IPO 了。\n\nMiniMax 和智谱也同时提交了上 A 股和科创板的申请，同时开始进行上市指导。\n\n大家都有光明的未来，不知道 OpenAI 啥时候开始。",
+      "url": "https://x.com/op7418/status/2061645513964003631",
+      "published_at": "2026-06-02T03:06:08Z",
+      "summary": "Anthropic 开始准备 IPO 了。 MiniMax 和智谱也同时提交了上 A 股和科创板的申请，同时开始进行上市指导。 大家都有光明的未来，不知道 OpenAI 啥时候开始。Anthropic@AnthropicAIAnthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission. Pending completion of SEC review, this gives us the…"
+    },
+    {
+      "id": "597e540d877d756c4ea5d31b4431d5284f59fd4d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/DhMuRKQIDi",
+      "url": "https://x.com/op7418/status/2061645122476097582",
+      "published_at": "2026-06-02T03:04:35Z",
+      "summary": "developer.apple.com/wwdc26/wallpap…💬1🔄0❤️1👀1286📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8587b205521cb58b06e0f42e53c0c93ece7aafc3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。\n\n这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。\n\n点击加载 4K就行，也可以去下...",
+      "url": "https://x.com/op7418/status/2061644847325610329",
+      "published_at": "2026-06-02T03:03:29Z",
+      "summary": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。 这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。 点击加载 4K就行，也可以去下面网站下 6K 原图。Greg Joswiak@gregjozAll systems glow for a great #WWDC26 next week! Tune in June 8 at 10 am PT.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted T…"
+    },
+    {
+      "id": "a3d5c5fd3782c529367abf32e2eed41a4b85af72",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-06-02",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-109",
+      "published_at": "2026-06-02T01:44:04Z",
+      "summary": "AI 早报 2026-06-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问发布多模态智能体模型 Qwen3.7-Plus ↗ #1 MiniMax Token Plan 切换至 Token 计费并补偿老用户 ↗ #2 Claude 修复 Opus 4.8 并行调用异常并重置用户限额 ↗ #3 模型发布 MiniMax 发布模型 M3 并计划未来 10 天内开源权重 ↗ #4 VAST 发布 Project Eden 世界模型研究预览版 ↗ #5 JetBrains 发布 12B 参数 MoE 架构模型 Mellum2 ↗ #6 开发生态 Q…"
+    },
     {
       "id": "5392066f99221c09abe23b1879c3d549c2b1465c",
       "site_id": "featuredrss",
@@ -400,7 +477,7 @@
       "title": "Read more about all the fun ways we used AI to bring I/O to life this year: https://t.co/jE7rLCVnfs",
       "url": "https://x.com/GoogleAI/status/2061544208289132791",
       "published_at": "2026-06-01T20:23:35Z",
-      "summary": "Read more about all the fun ways we used AI to bring I/O to life this year: blog.google/innovation-and…💬4🔄1❤️9👀5692📊4⚡ Powered by xgo.ing"
+      "summary": "Read more about all the fun ways we used AI to bring I/O to life this year: blog.google/innovation-and…💬4🔄1❤️14👀7688📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "dddef8b52d4e1ffa52c279ddf088ed3e7f58acbb",
@@ -411,7 +488,7 @@
       "title": "https://t.co/pgkSnOrWP2",
       "url": "https://x.com/GeminiApp/status/2061543806454088032",
       "published_at": "2026-06-01T20:21:59Z",
-      "summary": "x.com/gong_yun74374/…yun long@gong_yun74374@GeminiApp I ran a vase experiment with Gemini Omni~Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️12👀8650📊2⚡ Powered by xgo.ing"
+      "summary": "x.com/gong_yun74374/…yun long@gong_yun74374@GeminiApp I ran a vase experiment with Gemini Omni~Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄2❤️20👀11928📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "015c6200bdb1c99ed44783c2c1e936dfa4982b93",
@@ -422,7 +499,7 @@
       "title": "For more information on availability and step-by-step instructions for creating your avatar ➡️ https...",
       "url": "https://x.com/GeminiApp/status/2061528696159445393",
       "published_at": "2026-06-01T19:21:57Z",
-      "summary": "For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬4🔄1❤️13👀7077📊5⚡ Powered by xgo.ing"
+      "summary": "For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬4🔄2❤️14👀9476📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "60bf453c77511af4c6b3aa36fa6d65b35b909dfc",
@@ -444,7 +521,7 @@
       "title": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at https://t.co/382WL5xSvc...",
       "url": "https://x.com/GeminiApp/status/2061481161046819104",
       "published_at": "2026-06-01T16:13:03Z",
-      "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app. Try creating your own digital avatar with Gemini Omni and let us know what you’re making. 👇💬7🔄4❤️47👀14002📊12⚡ Powered by xgo.ing"
+      "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app. Try creating your own digital avatar with Gemini Omni and let us know what you’re making. 👇💬7🔄4❤️48👀16681📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "c5de2fb3c50c5e61cca19001464f50b75f269c18",
@@ -455,7 +532,7 @@
       "title": "Easily add yourself to your video creations in Gemini.\n\nHere’s how to create your own digital avatar...",
       "url": "https://x.com/GeminiApp/status/2061480944905982276",
       "published_at": "2026-06-01T16:12:12Z",
-      "summary": "Easily add yourself to your video creations in Gemini. Here’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵💬70🔄168❤️1163👀113856📊324⚡ Powered by xgo.ing"
+      "summary": "Easily add yourself to your video creations in Gemini. Here’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵💬83🔄242❤️1480👀183984📊420⚡ Powered by xgo.ing"
     },
     {
       "id": "9b71c34d499d19b40d5f336bccef1f71f916f754",
@@ -466,7 +543,7 @@
       "title": "其实都搞好了，被苹果审核卡脖子了",
       "url": "https://x.com/op7418/status/2061456989969133796",
       "published_at": "2026-06-01T14:37:01Z",
-      "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬73🔄0❤️22👀11894📊49⚡ Powered by xgo.ing"
+      "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬112🔄1❤️29👀16768📊75⚡ Powered by xgo.ing"
     },
     {
       "id": "8d33817a04adcb98649ddfd1a249c1cfd47b608d",
@@ -477,7 +554,7 @@
       "title": "客户端：https://t.co/G5zE442vaT",
       "url": "https://x.com/op7418/status/2061426855157326299",
       "published_at": "2026-06-01T12:37:16Z",
-      "summary": "客户端：github.com/op7418/CodePil…💬3🔄0❤️3👀3404📊3⚡ Powered by xgo.ing"
+      "summary": "客户端：github.com/op7418/CodePil…💬3🔄0❤️5👀3955📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "3b4ee8312d85337388773302edb9eeac57c32869",
@@ -488,7 +565,7 @@
       "title": "Codepilot 的重构版本终于好了！\n\nCodePilot 0.55.0-preview.5 \n\n相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎\n\n可以使用 Code...",
       "url": "https://x.com/op7418/status/2061426771267125649",
       "published_at": "2026-06-01T12:36:56Z",
-      "summary": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈💬84🔄0❤️21👀6947📊71⚡ Powered by xgo.ing"
+      "summary": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈💬116🔄0❤️22👀9030📊97⚡ Powered by xgo.ing"
     },
     {
       "id": "7e17f321ec0eab8270ea7d7eeed8db3f33bd4df6",
@@ -521,7 +598,7 @@
       "title": "谁能想到藏师傅有天也能上央视新闻呢",
       "url": "https://x.com/op7418/status/2061336925286629879",
       "published_at": "2026-06-01T06:39:55Z",
-      "summary": "谁能想到藏师傅有天也能上央视新闻呢💬185🔄5❤️349👀38315📊186⚡ Powered by xgo.ing"
+      "summary": "谁能想到藏师傅有天也能上央视新闻呢💬208🔄6❤️380👀43299📊208⚡ Powered by xgo.ing"
     },
     {
       "id": "b0e31608f50fae9963f20ea85dc115c47aef54b0",
@@ -532,7 +609,7 @@
       "title": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！\n\n我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。\n\n我一直以为是自己的网络有问题，但它和我的 ...",
       "url": "https://x.com/op7418/status/2061335964992323744",
       "published_at": "2026-06-01T06:36:06Z",
-      "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬109🔄26❤️291👀70565📊172⚡ Powere…"
+      "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬113🔄27❤️318👀79263📊186⚡ Powere…"
     },
     {
       "id": "c10a777e2c2e92b1e7e41c47cf039493fbbb1e89",
@@ -544,17 +621,6 @@
       "url": "https://x.com/op7418/status/2061327301644861608",
       "published_at": "2026-06-01T06:01:40Z",
       "summary": "MiniMax 这次终于发布了他们的大版本号模型升级 MiniMax M3。 主要是三个核心能力： 1. 标配了 1M 的超长上下文 2. 采用新的 MSA（MoE with Segment-wise Attention）稀疏注意力架构 3. 从训练起就融合了原生多模态能力，包括强化了文本、图片、视频和桌面操作这些多模态的训练。 MSA 超上下文在算力和速度上更可落地，在 100 万上下文下每 token 计算量只有上一代的约 1/20。。 所以他们这一次的价格也比较给力，Token Plan 更新了新的价格。 在 API 上，小于512k 的 API…"
-    },
-    {
-      "id": "3f9ee4b092ec854563bacea0d14209dafe52ddd7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-06-01",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-108",
-      "published_at": "2026-06-01T00:44:44Z",
-      "summary": "AI 早报 2026-06-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 MiniMax 上线 MiniMax M3 模型，支持多模态和 1M 上下文 ↗ #1 模型发布 SpaceXAI 上线 Grok-Imagine-Video-1.5-Preview API ↗ #2 Qwen-VLA 发布，统一视觉-语言-动作建模 ↗ #3 开发生态 OpenAI 宣布 Codex 用户破 500 万并重置付费用户使用额度 ↗ #4 英特尔联合魔搭社区上线AI PC专区 ↗ #5 OpenClaw推出auto模式：LLM辅助的主机命令自动审批 ↗ #6…"
     }
   ]
 }
