@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-02T05:08:37.810729Z",
+  "generated_at": "2026-06-02T13:56:23.808437Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 361,
+      "duration_ms": 518,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 50,
+      "duration_ms": 253,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1800,
+      "duration_ms": 1751,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1675,
+      "duration_ms": 1564,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1183,
+      "duration_ms": 797,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1064,
+      "duration_ms": 1432,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1608,
+      "duration_ms": 1634,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 179,
+      "duration_ms": 181,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2501,
+      "duration_ms": 2216,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 2,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1392,
+      "duration_ms": 1030,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -188,6 +188,72 @@
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "60b6d7475a5a0ad6718c27baafecab55f23ed924",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "小红书一个月涨了一万粉，离谱啊，现在三万了",
+          "url": "https://x.com/op7418/status/2061786484341182591",
+          "published_at": "2026-06-02T12:26:18Z",
+          "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬22🔄0❤️25👀1711📊20⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "37298a53a2b0e5c66d91f6a2d2b59622b3db8d6e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "分享一个把万星Github项目拆解成垂直Agent的方法！",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507457&idx=1&sn=2ea32352e93e9345168665e4186aa5e2",
+          "published_at": "2026-06-02T11:32:00Z",
+          "summary": "收藏的Skills一点都没浪费"
+        },
+        {
+          "id": "9d02e315a2925c0dac62eec0bc6b3b36a094f319",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "收到了 @dotey  宝玉老师的图解 Skill，已严肃阅读\n\n里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看",
+          "url": "https://x.com/op7418/status/2061772644215832828",
+          "published_at": "2026-06-02T11:31:18Z",
+          "summary": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看💬6🔄0❤️22👀2324📊8⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "82d1cb82e029c22216949e89268bc8f0bf5f76d1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。\n\n而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了",
+          "url": "https://x.com/op7418/status/2061770605708685410",
+          "published_at": "2026-06-02T11:23:12Z",
+          "summary": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了💬3🔄0❤️2👀1301📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "28de7e38b86c337699224f176aac25271a3d63db",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这里尝试：https://t.co/WXUBRgMxHo",
+          "url": "https://x.com/op7418/status/2061755052382122368",
+          "published_at": "2026-06-02T10:21:24Z",
+          "summary": "这里尝试：claw.360.cn💬3🔄1❤️0👀2405📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8d296b740fa92eef8015da62380404a491fe06bb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！\n\n我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。\n\n基本上是我一个人在一页一页地调，非常耗...",
+          "url": "https://x.com/op7418/status/2061754975685108020",
+          "published_at": "2026-06-02T10:21:06Z",
+          "summary": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！ 我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。 基本上是我一个人在一页一页地调，非常耗时间。所以我开始引入赞助商。 目前产品依然是开源的，赞助商那边会同步更新，我也会帮忙做一些小的适配工作。 使用方式，在360安全龙虾内，点击专家-龙虾专家，第一排就可以使用我的两个skill。 大家也可以去这些赞助商的渠道去使用 PPT Skills，一般都会有一些免费额度供大家使用。 而且还会有其他内置的能力可以配合，比如图片生成、视频生成等 这些都可以添加到…"
+        },
         {
           "id": "b0cea42b63fe02f62e51cc3aae7e6337d7e09504",
           "site_id": "featuredrss",
@@ -208,7 +274,7 @@
           "title": "https://t.co/DhMuRKQIDi",
           "url": "https://x.com/op7418/status/2061645122476097582",
           "published_at": "2026-06-02T03:04:35Z",
-          "summary": "developer.apple.com/wwdc26/wallpap…💬1🔄0❤️1👀1286📊1⚡ Powered by xgo.ing"
+          "summary": "developer.apple.com/wwdc26/wallpap…💬4🔄0❤️1👀3179📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "8587b205521cb58b06e0f42e53c0c93ece7aafc3",
@@ -220,6 +286,17 @@
           "url": "https://x.com/op7418/status/2061644847325610329",
           "published_at": "2026-06-02T03:03:29Z",
           "summary": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。 这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。 点击加载 4K就行，也可以去下面网站下 6K 原图。Greg Joswiak@gregjozAll systems glow for a great #WWDC26 next week! Tune in June 8 at 10 am PT.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted T…"
+        },
+        {
+          "id": "5b4e5530d0bfcf51663834dbcfac9725a3a73a0e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "为了不花那120刀，我把电脑清理软件做成了开源skill。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682858&idx=1&sn=0bdfd10a71c2746e17dab2157aab6369",
+          "published_at": "2026-06-02T01:58:00Z",
+          "summary": "Mac和Windows都有救了"
         },
         {
           "id": "a3d5c5fd3782c529367abf32e2eed41a4b85af72",
@@ -241,90 +318,13 @@
           "title": "其实都搞好了，被苹果审核卡脖子了",
           "url": "https://x.com/op7418/status/2061456989969133796",
           "published_at": "2026-06-01T14:37:01Z",
-          "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬112🔄1❤️29👀16768📊75⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8d33817a04adcb98649ddfd1a249c1cfd47b608d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "客户端：https://t.co/G5zE442vaT",
-          "url": "https://x.com/op7418/status/2061426855157326299",
-          "published_at": "2026-06-01T12:37:16Z",
-          "summary": "客户端：github.com/op7418/CodePil…💬3🔄0❤️5👀3955📊4⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3b4ee8312d85337388773302edb9eeac57c32869",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codepilot 的重构版本终于好了！\n\nCodePilot 0.55.0-preview.5 \n\n相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎\n\n可以使用 Code...",
-          "url": "https://x.com/op7418/status/2061426771267125649",
-          "published_at": "2026-06-01T12:36:56Z",
-          "summary": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈💬116🔄0❤️22👀9030📊97⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7e17f321ec0eab8270ea7d7eeed8db3f33bd4df6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "AI视频又出息了，我再不用写千字提示语来描述人物关系和空间位置了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507423&idx=1&sn=cfc3437bbe628cc8a43a0e795fdf062d",
-          "published_at": "2026-06-01T12:22:00Z",
-          "summary": "甚至可以让十个AI演员上下左右做个群舞表演"
-        },
-        {
-          "id": "bf7f04b8472318c529b1d428a5a847f9c810207b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "英伟达发布全新RTX Spark - 个人PC的新时代。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682855&idx=1&sn=b7d0d623f3c26f5debdfba1c089b0e06",
-          "published_at": "2026-06-01T07:04:00Z",
-          "summary": "A New Line，A New Beginning"
-        },
-        {
-          "id": "4f7c82a4fce621b2a1fddec497c28b12ff5de3ea",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "谁能想到藏师傅有天也能上央视新闻呢",
-          "url": "https://x.com/op7418/status/2061336925286629879",
-          "published_at": "2026-06-01T06:39:55Z",
-          "summary": "谁能想到藏师傅有天也能上央视新闻呢💬208🔄6❤️380👀43299📊208⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b0e31608f50fae9963f20ea85dc115c47aef54b0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！\n\n我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。\n\n我一直以为是自己的网络有问题，但它和我的 ...",
-          "url": "https://x.com/op7418/status/2061335964992323744",
-          "published_at": "2026-06-01T06:36:06Z",
-          "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬113🔄27❤️318👀79263📊186⚡ Powere…"
-        },
-        {
-          "id": "c10a777e2c2e92b1e7e41c47cf039493fbbb1e89",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "MiniMax 这次终于发布了他们的大版本号模型升级 MiniMax M3。\n\n主要是三个核心能力：\n\n1. 标配了 1M 的超长上下文\n\n2. 采用新的 MSA（MoE with Segment-w...",
-          "url": "https://x.com/op7418/status/2061327301644861608",
-          "published_at": "2026-06-01T06:01:40Z",
-          "summary": "MiniMax 这次终于发布了他们的大版本号模型升级 MiniMax M3。 主要是三个核心能力： 1. 标配了 1M 的超长上下文 2. 采用新的 MSA（MoE with Segment-wise Attention）稀疏注意力架构 3. 从训练起就融合了原生多模态能力，包括强化了文本、图片、视频和桌面操作这些多模态的训练。 MSA 超上下文在算力和速度上更可落地，在 100 万上下文下每 token 计算量只有上一代的约 1/20。。 所以他们这一次的价格也比较给力，Token Plan 更新了新的价格。 在 API 上，小于512k 的 API…"
+          "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬117🔄1❤️35👀20830📊79⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -352,7 +352,7 @@
           "title": "Read more about all the fun ways we used AI to bring I/O to life this year: https://t.co/jE7rLCVnfs",
           "url": "https://x.com/GoogleAI/status/2061544208289132791",
           "published_at": "2026-06-01T20:23:35Z",
-          "summary": "Read more about all the fun ways we used AI to bring I/O to life this year: blog.google/innovation-and…💬4🔄1❤️14👀7688📊4⚡ Powered by xgo.ing"
+          "summary": "Read more about all the fun ways we used AI to bring I/O to life this year: blog.google/innovation-and…💬4🔄2❤️18👀9416📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "dddef8b52d4e1ffa52c279ddf088ed3e7f58acbb",
@@ -363,7 +363,7 @@
           "title": "https://t.co/pgkSnOrWP2",
           "url": "https://x.com/GeminiApp/status/2061543806454088032",
           "published_at": "2026-06-01T20:21:59Z",
-          "summary": "x.com/gong_yun74374/…yun long@gong_yun74374@GeminiApp I ran a vase experiment with Gemini Omni~Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄2❤️20👀11928📊3⚡ Powered by xgo.ing"
+          "summary": "x.com/gong_yun74374/…yun long@gong_yun74374@GeminiApp I ran a vase experiment with Gemini Omni~Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄2❤️22👀14795📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "015c6200bdb1c99ed44783c2c1e936dfa4982b93",
@@ -374,7 +374,7 @@
           "title": "For more information on availability and step-by-step instructions for creating your avatar ➡️ https...",
           "url": "https://x.com/GeminiApp/status/2061528696159445393",
           "published_at": "2026-06-01T19:21:57Z",
-          "summary": "For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬4🔄2❤️14👀9476📊6⚡ Powered by xgo.ing"
+          "summary": "For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬4🔄2❤️16👀12022📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "60bf453c77511af4c6b3aa36fa6d65b35b909dfc",
@@ -396,7 +396,7 @@
           "title": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at https://t.co/382WL5xSvc...",
           "url": "https://x.com/GeminiApp/status/2061481161046819104",
           "published_at": "2026-06-01T16:13:03Z",
-          "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app. Try creating your own digital avatar with Gemini Omni and let us know what you’re making. 👇💬7🔄4❤️48👀16681📊12⚡ Powered by xgo.ing"
+          "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app. Try creating your own digital avatar with Gemini Omni and let us know what you’re making. 👇💬8🔄4❤️51👀19538📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "c5de2fb3c50c5e61cca19001464f50b75f269c18",
@@ -407,12 +407,89 @@
           "title": "Easily add yourself to your video creations in Gemini.\n\nHere’s how to create your own digital avatar...",
           "url": "https://x.com/GeminiApp/status/2061480944905982276",
           "published_at": "2026-06-01T16:12:12Z",
-          "summary": "Easily add yourself to your video creations in Gemini. Here’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵💬83🔄242❤️1480👀183984📊420⚡ Powered by xgo.ing"
+          "summary": "Easily add yourself to your video creations in Gemini. Here’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵💬106🔄311❤️1844👀284729📊533⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "15d48afc8d6869ff7545e9051c1526ece74e2b37",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic News",
+          "region": "global",
+          "title": "Expanding Project Glasswing",
+          "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+          "published_at": "2026-06-01T16:00:00Z",
+          "summary": "Project Glasswing is our collaborative effort to secure the world’s most important software. In early April, we announced that roughly 50 initial partners had access to Claude Mythos Preview, and since then, they’ve been deploying the model to scan their codebases for vulnerabili…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "60b6d7475a5a0ad6718c27baafecab55f23ed924",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "小红书一个月涨了一万粉，离谱啊，现在三万了",
+      "url": "https://x.com/op7418/status/2061786484341182591",
+      "published_at": "2026-06-02T12:26:18Z",
+      "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬22🔄0❤️25👀1711📊20⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "37298a53a2b0e5c66d91f6a2d2b59622b3db8d6e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "分享一个把万星Github项目拆解成垂直Agent的方法！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507457&idx=1&sn=2ea32352e93e9345168665e4186aa5e2",
+      "published_at": "2026-06-02T11:32:00Z",
+      "summary": "收藏的Skills一点都没浪费"
+    },
+    {
+      "id": "9d02e315a2925c0dac62eec0bc6b3b36a094f319",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "收到了 @dotey  宝玉老师的图解 Skill，已严肃阅读\n\n里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看",
+      "url": "https://x.com/op7418/status/2061772644215832828",
+      "published_at": "2026-06-02T11:31:18Z",
+      "summary": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看💬6🔄0❤️22👀2324📊8⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "82d1cb82e029c22216949e89268bc8f0bf5f76d1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。\n\n而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了",
+      "url": "https://x.com/op7418/status/2061770605708685410",
+      "published_at": "2026-06-02T11:23:12Z",
+      "summary": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了💬3🔄0❤️2👀1301📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "28de7e38b86c337699224f176aac25271a3d63db",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这里尝试：https://t.co/WXUBRgMxHo",
+      "url": "https://x.com/op7418/status/2061755052382122368",
+      "published_at": "2026-06-02T10:21:24Z",
+      "summary": "这里尝试：claw.360.cn💬3🔄1❤️0👀2405📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8d296b740fa92eef8015da62380404a491fe06bb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！\n\n我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。\n\n基本上是我一个人在一页一页地调，非常耗...",
+      "url": "https://x.com/op7418/status/2061754975685108020",
+      "published_at": "2026-06-02T10:21:06Z",
+      "summary": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！ 我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。 基本上是我一个人在一页一页地调，非常耗时间。所以我开始引入赞助商。 目前产品依然是开源的，赞助商那边会同步更新，我也会帮忙做一些小的适配工作。 使用方式，在360安全龙虾内，点击专家-龙虾专家，第一排就可以使用我的两个skill。 大家也可以去这些赞助商的渠道去使用 PPT Skills，一般都会有一些免费额度供大家使用。 而且还会有其他内置的能力可以配合，比如图片生成、视频生成等 这些都可以添加到…"
+    },
     {
       "id": "b0cea42b63fe02f62e51cc3aae7e6337d7e09504",
       "site_id": "featuredrss",
@@ -433,7 +510,7 @@
       "title": "https://t.co/DhMuRKQIDi",
       "url": "https://x.com/op7418/status/2061645122476097582",
       "published_at": "2026-06-02T03:04:35Z",
-      "summary": "developer.apple.com/wwdc26/wallpap…💬1🔄0❤️1👀1286📊1⚡ Powered by xgo.ing"
+      "summary": "developer.apple.com/wwdc26/wallpap…💬4🔄0❤️1👀3179📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "8587b205521cb58b06e0f42e53c0c93ece7aafc3",
@@ -445,6 +522,17 @@
       "url": "https://x.com/op7418/status/2061644847325610329",
       "published_at": "2026-06-02T03:03:29Z",
       "summary": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。 这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。 点击加载 4K就行，也可以去下面网站下 6K 原图。Greg Joswiak@gregjozAll systems glow for a great #WWDC26 next week! Tune in June 8 at 10 am PT.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted T…"
+    },
+    {
+      "id": "5b4e5530d0bfcf51663834dbcfac9725a3a73a0e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "为了不花那120刀，我把电脑清理软件做成了开源skill。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682858&idx=1&sn=0bdfd10a71c2746e17dab2157aab6369",
+      "published_at": "2026-06-02T01:58:00Z",
+      "summary": "Mac和Windows都有救了"
     },
     {
       "id": "a3d5c5fd3782c529367abf32e2eed41a4b85af72",
@@ -477,7 +565,7 @@
       "title": "Read more about all the fun ways we used AI to bring I/O to life this year: https://t.co/jE7rLCVnfs",
       "url": "https://x.com/GoogleAI/status/2061544208289132791",
       "published_at": "2026-06-01T20:23:35Z",
-      "summary": "Read more about all the fun ways we used AI to bring I/O to life this year: blog.google/innovation-and…💬4🔄1❤️14👀7688📊4⚡ Powered by xgo.ing"
+      "summary": "Read more about all the fun ways we used AI to bring I/O to life this year: blog.google/innovation-and…💬4🔄2❤️18👀9416📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "dddef8b52d4e1ffa52c279ddf088ed3e7f58acbb",
@@ -488,7 +576,7 @@
       "title": "https://t.co/pgkSnOrWP2",
       "url": "https://x.com/GeminiApp/status/2061543806454088032",
       "published_at": "2026-06-01T20:21:59Z",
-      "summary": "x.com/gong_yun74374/…yun long@gong_yun74374@GeminiApp I ran a vase experiment with Gemini Omni~Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄2❤️20👀11928📊3⚡ Powered by xgo.ing"
+      "summary": "x.com/gong_yun74374/…yun long@gong_yun74374@GeminiApp I ran a vase experiment with Gemini Omni~Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄2❤️22👀14795📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "015c6200bdb1c99ed44783c2c1e936dfa4982b93",
@@ -499,7 +587,7 @@
       "title": "For more information on availability and step-by-step instructions for creating your avatar ➡️ https...",
       "url": "https://x.com/GeminiApp/status/2061528696159445393",
       "published_at": "2026-06-01T19:21:57Z",
-      "summary": "For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬4🔄2❤️14👀9476📊6⚡ Powered by xgo.ing"
+      "summary": "For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬4🔄2❤️16👀12022📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "60bf453c77511af4c6b3aa36fa6d65b35b909dfc",
@@ -521,7 +609,7 @@
       "title": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at https://t.co/382WL5xSvc...",
       "url": "https://x.com/GeminiApp/status/2061481161046819104",
       "published_at": "2026-06-01T16:13:03Z",
-      "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app. Try creating your own digital avatar with Gemini Omni and let us know what you’re making. 👇💬7🔄4❤️48👀16681📊12⚡ Powered by xgo.ing"
+      "summary": "Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in the app. Try creating your own digital avatar with Gemini Omni and let us know what you’re making. 👇💬8🔄4❤️51👀19538📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "c5de2fb3c50c5e61cca19001464f50b75f269c18",
@@ -532,7 +620,18 @@
       "title": "Easily add yourself to your video creations in Gemini.\n\nHere’s how to create your own digital avatar...",
       "url": "https://x.com/GeminiApp/status/2061480944905982276",
       "published_at": "2026-06-01T16:12:12Z",
-      "summary": "Easily add yourself to your video creations in Gemini. Here’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵💬83🔄242❤️1480👀183984📊420⚡ Powered by xgo.ing"
+      "summary": "Easily add yourself to your video creations in Gemini. Here’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵💬106🔄311❤️1844👀284729📊533⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "15d48afc8d6869ff7545e9051c1526ece74e2b37",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic News",
+      "region": "global",
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "published_at": "2026-06-01T16:00:00Z",
+      "summary": "Project Glasswing is our collaborative effort to secure the world’s most important software. In early April, we announced that roughly 50 initial partners had access to Claude Mythos Preview, and since then, they’ve been deploying the model to scan their codebases for vulnerabili…"
     },
     {
       "id": "9b71c34d499d19b40d5f336bccef1f71f916f754",
@@ -543,84 +642,7 @@
       "title": "其实都搞好了，被苹果审核卡脖子了",
       "url": "https://x.com/op7418/status/2061456989969133796",
       "published_at": "2026-06-01T14:37:01Z",
-      "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬112🔄1❤️29👀16768📊75⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8d33817a04adcb98649ddfd1a249c1cfd47b608d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "客户端：https://t.co/G5zE442vaT",
-      "url": "https://x.com/op7418/status/2061426855157326299",
-      "published_at": "2026-06-01T12:37:16Z",
-      "summary": "客户端：github.com/op7418/CodePil…💬3🔄0❤️5👀3955📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3b4ee8312d85337388773302edb9eeac57c32869",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codepilot 的重构版本终于好了！\n\nCodePilot 0.55.0-preview.5 \n\n相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎\n\n可以使用 Code...",
-      "url": "https://x.com/op7418/status/2061426771267125649",
-      "published_at": "2026-06-01T12:36:56Z",
-      "summary": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈💬116🔄0❤️22👀9030📊97⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7e17f321ec0eab8270ea7d7eeed8db3f33bd4df6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "AI视频又出息了，我再不用写千字提示语来描述人物关系和空间位置了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507423&idx=1&sn=cfc3437bbe628cc8a43a0e795fdf062d",
-      "published_at": "2026-06-01T12:22:00Z",
-      "summary": "甚至可以让十个AI演员上下左右做个群舞表演"
-    },
-    {
-      "id": "bf7f04b8472318c529b1d428a5a847f9c810207b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "英伟达发布全新RTX Spark - 个人PC的新时代。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682855&idx=1&sn=b7d0d623f3c26f5debdfba1c089b0e06",
-      "published_at": "2026-06-01T07:04:00Z",
-      "summary": "A New Line，A New Beginning"
-    },
-    {
-      "id": "4f7c82a4fce621b2a1fddec497c28b12ff5de3ea",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "谁能想到藏师傅有天也能上央视新闻呢",
-      "url": "https://x.com/op7418/status/2061336925286629879",
-      "published_at": "2026-06-01T06:39:55Z",
-      "summary": "谁能想到藏师傅有天也能上央视新闻呢💬208🔄6❤️380👀43299📊208⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b0e31608f50fae9963f20ea85dc115c47aef54b0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！\n\n我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。\n\n我一直以为是自己的网络有问题，但它和我的 ...",
-      "url": "https://x.com/op7418/status/2061335964992323744",
-      "published_at": "2026-06-01T06:36:06Z",
-      "summary": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。💬113🔄27❤️318👀79263📊186⚡ Powere…"
-    },
-    {
-      "id": "c10a777e2c2e92b1e7e41c47cf039493fbbb1e89",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "MiniMax 这次终于发布了他们的大版本号模型升级 MiniMax M3。\n\n主要是三个核心能力：\n\n1. 标配了 1M 的超长上下文\n\n2. 采用新的 MSA（MoE with Segment-w...",
-      "url": "https://x.com/op7418/status/2061327301644861608",
-      "published_at": "2026-06-01T06:01:40Z",
-      "summary": "MiniMax 这次终于发布了他们的大版本号模型升级 MiniMax M3。 主要是三个核心能力： 1. 标配了 1M 的超长上下文 2. 采用新的 MSA（MoE with Segment-wise Attention）稀疏注意力架构 3. 从训练起就融合了原生多模态能力，包括强化了文本、图片、视频和桌面操作这些多模态的训练。 MSA 超上下文在算力和速度上更可落地，在 100 万上下文下每 token 计算量只有上一代的约 1/20。。 所以他们这一次的价格也比较给力，Token Plan 更新了新的价格。 在 API 上，小于512k 的 API…"
+      "summary": "其实都搞好了，被苹果审核卡脖子了歸藏(guizang.ai)@op7418iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬117🔄1❤️35👀20830📊79⚡ Powered by xgo.ing"
     }
   ]
 }
