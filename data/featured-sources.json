@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-03T07:20:45.158772Z",
+  "generated_at": "2026-06-03T12:18:07.950769Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 23,
+  "total_items": 19,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 257,
+      "duration_ms": 231,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -32,8 +32,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 18,
+      "item_count": 14,
+      "duration_ms": 27,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1295,
+      "duration_ms": 1356,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1372,
+      "duration_ms": 1249,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 432,
+      "duration_ms": 767,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 930,
+      "duration_ms": 1113,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1085,
+      "duration_ms": 1167,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 181,
+      "duration_ms": 191,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1724,
+      "duration_ms": 1775,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 691,
+      "duration_ms": 726,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,7 +183,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 14,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
@@ -197,7 +197,7 @@
           "title": "看来快手确实要分拆可灵单独上市了了。\n\n其实早就该搞，太晚了现在。",
           "url": "https://x.com/op7418/status/2062062986903359546",
           "published_at": "2026-06-03T06:45:02Z",
-          "summary": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。💬1🔄0❤️2👀1067📊1⚡ Powered by xgo.ing"
+          "summary": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。💬16🔄0❤️11👀7365📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "bee804af101dedea6d61b08fd66b7bb24221636d",
@@ -219,7 +219,7 @@
           "title": "哦 是 Sites",
           "url": "https://x.com/op7418/status/2062005746569711901",
           "published_at": "2026-06-03T02:57:34Z",
-          "summary": "哦 是 Sites💬0🔄0❤️0👀3801⚡ Powered by xgo.ing"
+          "summary": "哦 是 Sites💬0🔄0❤️1👀5422⚡ Powered by xgo.ing"
         },
         {
           "id": "e4ba797878f7bda4b22ec0154b96e3b7381bc831",
@@ -230,7 +230,7 @@
           "title": "Codex 昨晚上线的这个 Site 插件非常厉害。\n\n它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。\n\n比较遗憾的是 Pro 用户不能用...",
           "url": "https://x.com/op7418/status/2062005183090233773",
           "published_at": "2026-06-03T02:55:20Z",
-          "summary": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。Your browser does not support the video tag.🔗 View on Twitter💬48🔄10❤️111👀28862📊66⚡ Powered by xgo.ing"
+          "summary": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。Your browser does not support the video tag.🔗 View on Twitter💬59🔄14❤️148👀45450📊85⚡ Powered by xgo.ing"
         },
         {
           "id": "f0c23bdfee670de4dcde4571203d748b9b9a1895",
@@ -241,7 +241,7 @@
           "title": "这里尝试，网站设计依然很顶：https://t.co/ADuOqAyvtV",
           "url": "https://x.com/op7418/status/2062002600686518403",
           "published_at": "2026-06-03T02:45:04Z",
-          "summary": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.com/desktop💬0🔄2❤️9👀3457📊4⚡ Powered by xgo.ing"
+          "summary": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.com/desktop💬0🔄2❤️14👀5301📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "281fce1af6a93ccfa6605194890808b4887a5370",
@@ -252,7 +252,7 @@
           "title": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了",
           "url": "https://x.com/op7418/status/2062002323786985825",
           "published_at": "2026-06-03T02:43:58Z",
-          "summary": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了Your browser does not support the video tag.🔗 View on Twitter💬47🔄5❤️107👀22747📊57⚡ Powered by xgo.ing"
+          "summary": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了Your browser does not support the video tag.🔗 View on Twitter💬58🔄10❤️184👀41104📊85⚡ Powered by xgo.ing"
         },
         {
           "id": "58d2f41861ad4c6010cb4c10279eba343e288702",
@@ -285,68 +285,13 @@
           "title": "小红书一个月涨了一万粉，离谱啊，现在三万了",
           "url": "https://x.com/op7418/status/2061786484341182591",
           "published_at": "2026-06-02T12:26:18Z",
-          "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬362🔄13❤️361👀85691📊338⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "37298a53a2b0e5c66d91f6a2d2b59622b3db8d6e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "分享一个把万星Github项目拆解成垂直Agent的方法！",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507457&idx=1&sn=2ea32352e93e9345168665e4186aa5e2",
-          "published_at": "2026-06-02T11:32:00Z",
-          "summary": "收藏的Skills一点都没浪费"
-        },
-        {
-          "id": "9d02e315a2925c0dac62eec0bc6b3b36a094f319",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "收到了 @dotey  宝玉老师的图解 Skill，已严肃阅读\n\n里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看",
-          "url": "https://x.com/op7418/status/2061772644215832828",
-          "published_at": "2026-06-02T11:31:18Z",
-          "summary": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看💬150🔄9❤️75👀17840📊134⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "82d1cb82e029c22216949e89268bc8f0bf5f76d1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。\n\n而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了",
-          "url": "https://x.com/op7418/status/2061770605708685410",
-          "published_at": "2026-06-02T11:23:12Z",
-          "summary": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了💬5🔄0❤️8👀5177📊5⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "28de7e38b86c337699224f176aac25271a3d63db",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这里尝试：https://t.co/WXUBRgMxHo",
-          "url": "https://x.com/op7418/status/2061755052382122368",
-          "published_at": "2026-06-02T10:21:24Z",
-          "summary": "这里尝试：claw.360.cn💬4🔄1❤️1👀6976📊4⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8d296b740fa92eef8015da62380404a491fe06bb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！\n\n我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。\n\n基本上是我一个人在一页一页地调，非常耗...",
-          "url": "https://x.com/op7418/status/2061754975685108020",
-          "published_at": "2026-06-02T10:21:06Z",
-          "summary": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！ 我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。 基本上是我一个人在一页一页地调，非常耗时间。所以我开始引入赞助商。 目前产品依然是开源的，赞助商那边会同步更新，我也会帮忙做一些小的适配工作。 使用方式，在360安全龙虾内，点击专家-龙虾专家，第一排就可以使用我的两个skill。 大家也可以去这些赞助商的渠道去使用 PPT Skills，一般都会有一些免费额度供大家使用。 而且还会有其他内置的能力可以配合，比如图片生成、视频生成等 这些都可以添加到…"
+          "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬396🔄15❤️402👀96410📊371⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 9,
+      "total_items": 10,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -363,7 +308,7 @@
           "title": "https://t.co/TjPe68b3qY",
           "url": "https://x.com/GeminiApp/status/2061908161074978964",
           "published_at": "2026-06-02T20:29:48Z",
-          "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄2❤️23👀12090📊5⚡ Powered by xgo.ing"
+          "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄2❤️24👀13526📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "adb92d68ed8b738e4b09aeb32fe658952e875360",
@@ -374,7 +319,7 @@
           "title": "From question to model.\n\nThe public equity investing plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061888058459570279",
           "published_at": "2026-06-02T19:09:55Z",
-          "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬10🔄35❤️355👀110787📊74⚡ Powered by xgo.ing"
+          "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬11🔄39❤️407👀135323📊86⚡ Powered by xgo.ing"
         },
         {
           "id": "8bf619cfd177d70fc3f773b649a05131c9e8e2d1",
@@ -385,7 +330,7 @@
           "title": "Prep faster. Sell smarter.\n\nThe sales plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061887949516730502",
           "published_at": "2026-06-02T19:09:29Z",
-          "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄18❤️356👀61153📊50⚡ Powered by xgo.ing"
+          "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬12🔄20❤️397👀67985📊56⚡ Powered by xgo.ing"
         },
         {
           "id": "87b3564bf3eb8cc848466e777cf4b64f55b3880d",
@@ -396,7 +341,7 @@
           "title": "Bring your briefs to life.\n\nThe creative production plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061887828058075190",
           "published_at": "2026-06-02T19:09:00Z",
-          "summary": "Bring your briefs to life. The creative production plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄13❤️343👀35819📊45⚡ Powered by xgo.ing"
+          "summary": "Bring your briefs to life. The creative production plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄14❤️361👀39805📊48⚡ Powered by xgo.ing"
         },
         {
           "id": "f56673cb4758f1f137c365c4f4cff75c9adcb388",
@@ -407,7 +352,7 @@
           "title": "Translate data into answers.\n\nThe data analytics plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061887715520721151",
           "published_at": "2026-06-02T19:08:34Z",
-          "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬14🔄35❤️662👀113351📊93⚡ Powered by xgo.ing"
+          "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬14🔄37❤️712👀138080📊101⚡ Powered by xgo.ing"
         },
         {
           "id": "1961b42f98ebfcca2ffcc6aa5c7b6411c7e8b063",
@@ -440,7 +385,7 @@
           "title": "https://t.co/eZ4SPUQu5x",
           "url": "https://x.com/OpenAI/status/2061845950705140121",
           "published_at": "2026-06-02T16:22:36Z",
-          "summary": "openai.com/index/codex-fo…💬16🔄30❤️565👀224909📊94⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/codex-fo…💬17🔄32❤️596👀248575📊102⚡ Powered by xgo.ing"
         },
         {
           "id": "68627f039662bdf6023d23d8804e97b338396355",
@@ -452,6 +397,17 @@
           "url": "https://x.com/GeminiApp/status/2061842235457720507",
           "published_at": "2026-06-02T16:07:50Z",
           "summary": "See Gemini Omni in action with a live demo from one of the team members who helped build it. Join us on Discord as Product Manager Chloe shares how to use Gemini Omni’s multimodal inputs, real-world knowledge, and easy conversational editing to create videos like never before. 👉J…"
+        },
+        {
+          "id": "cccfa0861ce1e5e91130b87d937ec5d0036e70dc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic News",
+          "region": "global",
+          "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+          "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+          "published_at": "2026-06-02T16:00:00Z",
+          "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question. We examine 832 accounts that were banned for malicious cyber activity between March…"
         }
       ]
     }
@@ -466,7 +422,7 @@
       "title": "看来快手确实要分拆可灵单独上市了了。\n\n其实早就该搞，太晚了现在。",
       "url": "https://x.com/op7418/status/2062062986903359546",
       "published_at": "2026-06-03T06:45:02Z",
-      "summary": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。💬1🔄0❤️2👀1067📊1⚡ Powered by xgo.ing"
+      "summary": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。💬16🔄0❤️11👀7365📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "bee804af101dedea6d61b08fd66b7bb24221636d",
@@ -488,7 +444,7 @@
       "title": "哦 是 Sites",
       "url": "https://x.com/op7418/status/2062005746569711901",
       "published_at": "2026-06-03T02:57:34Z",
-      "summary": "哦 是 Sites💬0🔄0❤️0👀3801⚡ Powered by xgo.ing"
+      "summary": "哦 是 Sites💬0🔄0❤️1👀5422⚡ Powered by xgo.ing"
     },
     {
       "id": "e4ba797878f7bda4b22ec0154b96e3b7381bc831",
@@ -499,7 +455,7 @@
       "title": "Codex 昨晚上线的这个 Site 插件非常厉害。\n\n它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。\n\n比较遗憾的是 Pro 用户不能用...",
       "url": "https://x.com/op7418/status/2062005183090233773",
       "published_at": "2026-06-03T02:55:20Z",
-      "summary": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。Your browser does not support the video tag.🔗 View on Twitter💬48🔄10❤️111👀28862📊66⚡ Powered by xgo.ing"
+      "summary": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。Your browser does not support the video tag.🔗 View on Twitter💬59🔄14❤️148👀45450📊85⚡ Powered by xgo.ing"
     },
     {
       "id": "f0c23bdfee670de4dcde4571203d748b9b9a1895",
@@ -510,7 +466,7 @@
       "title": "这里尝试，网站设计依然很顶：https://t.co/ADuOqAyvtV",
       "url": "https://x.com/op7418/status/2062002600686518403",
       "published_at": "2026-06-03T02:45:04Z",
-      "summary": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.com/desktop💬0🔄2❤️9👀3457📊4⚡ Powered by xgo.ing"
+      "summary": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.com/desktop💬0🔄2❤️14👀5301📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "281fce1af6a93ccfa6605194890808b4887a5370",
@@ -521,7 +477,7 @@
       "title": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了",
       "url": "https://x.com/op7418/status/2062002323786985825",
       "published_at": "2026-06-03T02:43:58Z",
-      "summary": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了Your browser does not support the video tag.🔗 View on Twitter💬47🔄5❤️107👀22747📊57⚡ Powered by xgo.ing"
+      "summary": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了Your browser does not support the video tag.🔗 View on Twitter💬58🔄10❤️184👀41104📊85⚡ Powered by xgo.ing"
     },
     {
       "id": "58d2f41861ad4c6010cb4c10279eba343e288702",
@@ -554,7 +510,7 @@
       "title": "https://t.co/TjPe68b3qY",
       "url": "https://x.com/GeminiApp/status/2061908161074978964",
       "published_at": "2026-06-02T20:29:48Z",
-      "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄2❤️23👀12090📊5⚡ Powered by xgo.ing"
+      "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄2❤️24👀13526📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "adb92d68ed8b738e4b09aeb32fe658952e875360",
@@ -565,7 +521,7 @@
       "title": "From question to model.\n\nThe public equity investing plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061888058459570279",
       "published_at": "2026-06-02T19:09:55Z",
-      "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬10🔄35❤️355👀110787📊74⚡ Powered by xgo.ing"
+      "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬11🔄39❤️407👀135323📊86⚡ Powered by xgo.ing"
     },
     {
       "id": "8bf619cfd177d70fc3f773b649a05131c9e8e2d1",
@@ -576,7 +532,7 @@
       "title": "Prep faster. Sell smarter.\n\nThe sales plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061887949516730502",
       "published_at": "2026-06-02T19:09:29Z",
-      "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄18❤️356👀61153📊50⚡ Powered by xgo.ing"
+      "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬12🔄20❤️397👀67985📊56⚡ Powered by xgo.ing"
     },
     {
       "id": "87b3564bf3eb8cc848466e777cf4b64f55b3880d",
@@ -587,7 +543,7 @@
       "title": "Bring your briefs to life.\n\nThe creative production plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061887828058075190",
       "published_at": "2026-06-02T19:09:00Z",
-      "summary": "Bring your briefs to life. The creative production plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄13❤️343👀35819📊45⚡ Powered by xgo.ing"
+      "summary": "Bring your briefs to life. The creative production plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄14❤️361👀39805📊48⚡ Powered by xgo.ing"
     },
     {
       "id": "f56673cb4758f1f137c365c4f4cff75c9adcb388",
@@ -598,7 +554,7 @@
       "title": "Translate data into answers.\n\nThe data analytics plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061887715520721151",
       "published_at": "2026-06-02T19:08:34Z",
-      "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬14🔄35❤️662👀113351📊93⚡ Powered by xgo.ing"
+      "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬14🔄37❤️712👀138080📊101⚡ Powered by xgo.ing"
     },
     {
       "id": "1961b42f98ebfcca2ffcc6aa5c7b6411c7e8b063",
@@ -631,7 +587,7 @@
       "title": "https://t.co/eZ4SPUQu5x",
       "url": "https://x.com/OpenAI/status/2061845950705140121",
       "published_at": "2026-06-02T16:22:36Z",
-      "summary": "openai.com/index/codex-fo…💬16🔄30❤️565👀224909📊94⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/codex-fo…💬17🔄32❤️596👀248575📊102⚡ Powered by xgo.ing"
     },
     {
       "id": "68627f039662bdf6023d23d8804e97b338396355",
@@ -645,6 +601,17 @@
       "summary": "See Gemini Omni in action with a live demo from one of the team members who helped build it. Join us on Discord as Product Manager Chloe shares how to use Gemini Omni’s multimodal inputs, real-world knowledge, and easy conversational editing to create videos like never before. 👉J…"
     },
     {
+      "id": "cccfa0861ce1e5e91130b87d937ec5d0036e70dc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic News",
+      "region": "global",
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "published_at": "2026-06-02T16:00:00Z",
+      "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question. We examine 832 accounts that were banned for malicious cyber activity between March…"
+    },
+    {
       "id": "60b6d7475a5a0ad6718c27baafecab55f23ed924",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -653,62 +620,7 @@
       "title": "小红书一个月涨了一万粉，离谱啊，现在三万了",
       "url": "https://x.com/op7418/status/2061786484341182591",
       "published_at": "2026-06-02T12:26:18Z",
-      "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬362🔄13❤️361👀85691📊338⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "37298a53a2b0e5c66d91f6a2d2b59622b3db8d6e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "分享一个把万星Github项目拆解成垂直Agent的方法！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507457&idx=1&sn=2ea32352e93e9345168665e4186aa5e2",
-      "published_at": "2026-06-02T11:32:00Z",
-      "summary": "收藏的Skills一点都没浪费"
-    },
-    {
-      "id": "9d02e315a2925c0dac62eec0bc6b3b36a094f319",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "收到了 @dotey  宝玉老师的图解 Skill，已严肃阅读\n\n里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看",
-      "url": "https://x.com/op7418/status/2061772644215832828",
-      "published_at": "2026-06-02T11:31:18Z",
-      "summary": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看💬150🔄9❤️75👀17840📊134⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "82d1cb82e029c22216949e89268bc8f0bf5f76d1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。\n\n而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了",
-      "url": "https://x.com/op7418/status/2061770605708685410",
-      "published_at": "2026-06-02T11:23:12Z",
-      "summary": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了💬5🔄0❤️8👀5177📊5⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "28de7e38b86c337699224f176aac25271a3d63db",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这里尝试：https://t.co/WXUBRgMxHo",
-      "url": "https://x.com/op7418/status/2061755052382122368",
-      "published_at": "2026-06-02T10:21:24Z",
-      "summary": "这里尝试：claw.360.cn💬4🔄1❤️1👀6976📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8d296b740fa92eef8015da62380404a491fe06bb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！\n\n我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。\n\n基本上是我一个人在一页一页地调，非常耗...",
-      "url": "https://x.com/op7418/status/2061754975685108020",
-      "published_at": "2026-06-02T10:21:06Z",
-      "summary": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！ 我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。 基本上是我一个人在一页一页地调，非常耗时间。所以我开始引入赞助商。 目前产品依然是开源的，赞助商那边会同步更新，我也会帮忙做一些小的适配工作。 使用方式，在360安全龙虾内，点击专家-龙虾专家，第一排就可以使用我的两个skill。 大家也可以去这些赞助商的渠道去使用 PPT Skills，一般都会有一些免费额度供大家使用。 而且还会有其他内置的能力可以配合，比如图片生成、视频生成等 这些都可以添加到…"
+      "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬396🔄15❤️402👀96410📊371⚡ Powered by xgo.ing"
     }
   ]
 }
