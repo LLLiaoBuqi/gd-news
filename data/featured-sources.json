@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T12:18:07.950769Z",
+  "generated_at": "2026-06-03T17:25:19.445323Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 19,
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 231,
+      "duration_ms": 406,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 27,
+      "duration_ms": 66,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1356,
+      "duration_ms": 1473,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1249,
+      "duration_ms": 1349,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 767,
+      "duration_ms": 512,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1113,
+      "duration_ms": 1228,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1167,
+      "duration_ms": 1268,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 191,
+      "duration_ms": 248,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1775,
+      "duration_ms": 1812,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 726,
+      "duration_ms": 863,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,44 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 11,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "3ff8af59d0f22c1f31efc273163c7be6bc049c11",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。\n\n 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。",
+          "url": "https://x.com/op7418/status/2062167781538508880",
+          "published_at": "2026-06-03T13:41:27Z",
+          "summary": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。💬1🔄1❤️4👀2232📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e75bc9a6d34766974e6eb0d3f0690807e68d37b6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测MiniMax M3，全链路Agent要的三块拼图终于凑齐了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507489&idx=1&sn=8c423cda9e2c0615a9ffa97f2ed11fb0",
+          "published_at": "2026-06-03T10:40:00Z",
+          "summary": "这还说啥了，国产源神太给力了"
+        },
+        {
+          "id": "f63746ae21be8c3426cea02f1b6a3f73bc351ddc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "AI短剧的Harness模式，LuxReal跑通了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497756&idx=1&sn=921133ade7ece594ae245dc30d42c786",
+          "published_at": "2026-06-03T07:58:00Z",
+          "summary": "抽卡更少，量产更快。"
+        },
         {
           "id": "c226ed9230dcfb977236e9f1c5d248a71501dad8",
           "site_id": "featuredrss",
@@ -197,7 +230,7 @@
           "title": "看来快手确实要分拆可灵单独上市了了。\n\n其实早就该搞，太晚了现在。",
           "url": "https://x.com/op7418/status/2062062986903359546",
           "published_at": "2026-06-03T06:45:02Z",
-          "summary": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。💬16🔄0❤️11👀7365📊15⚡ Powered by xgo.ing"
+          "summary": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。💬30🔄1❤️18👀11875📊27⚡ Powered by xgo.ing"
         },
         {
           "id": "bee804af101dedea6d61b08fd66b7bb24221636d",
@@ -219,7 +252,7 @@
           "title": "哦 是 Sites",
           "url": "https://x.com/op7418/status/2062005746569711901",
           "published_at": "2026-06-03T02:57:34Z",
-          "summary": "哦 是 Sites💬0🔄0❤️1👀5422⚡ Powered by xgo.ing"
+          "summary": "哦 是 Sites💬0🔄0❤️2👀7235⚡ Powered by xgo.ing"
         },
         {
           "id": "e4ba797878f7bda4b22ec0154b96e3b7381bc831",
@@ -230,7 +263,7 @@
           "title": "Codex 昨晚上线的这个 Site 插件非常厉害。\n\n它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。\n\n比较遗憾的是 Pro 用户不能用...",
           "url": "https://x.com/op7418/status/2062005183090233773",
           "published_at": "2026-06-03T02:55:20Z",
-          "summary": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。Your browser does not support the video tag.🔗 View on Twitter💬59🔄14❤️148👀45450📊85⚡ Powered by xgo.ing"
+          "summary": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。Your browser does not support the video tag.🔗 View on Twitter💬62🔄17❤️199👀63068📊100⚡ Powered by xgo.ing"
         },
         {
           "id": "f0c23bdfee670de4dcde4571203d748b9b9a1895",
@@ -241,7 +274,7 @@
           "title": "这里尝试，网站设计依然很顶：https://t.co/ADuOqAyvtV",
           "url": "https://x.com/op7418/status/2062002600686518403",
           "published_at": "2026-06-03T02:45:04Z",
-          "summary": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.com/desktop💬0🔄2❤️14👀5301📊5⚡ Powered by xgo.ing"
+          "summary": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.com/desktop💬0🔄2❤️15👀6778📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "281fce1af6a93ccfa6605194890808b4887a5370",
@@ -252,7 +285,7 @@
           "title": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了",
           "url": "https://x.com/op7418/status/2062002323786985825",
           "published_at": "2026-06-03T02:43:58Z",
-          "summary": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了Your browser does not support the video tag.🔗 View on Twitter💬58🔄10❤️184👀41104📊85⚡ Powered by xgo.ing"
+          "summary": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了Your browser does not support the video tag.🔗 View on Twitter💬66🔄17❤️247👀55907📊110⚡ Powered by xgo.ing"
         },
         {
           "id": "58d2f41861ad4c6010cb4c10279eba343e288702",
@@ -275,23 +308,12 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-110",
           "published_at": "2026-06-03T01:46:50Z",
           "summary": "AI 早报 2026-06-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 为 Codex 推出六款业务插件与 Sites 和 Annotations功能 ↗ #1 Windsurf 升级更名为 Devin Desktop，支持 ACP ↗ #2 小米 MiMo 推出老用户专属福利 ↗ #3 模型发布 H Company 发布 Holo3.1 模型系列 ↗ #4 开发生态 Antigravity 更新 Gemini 3.5 Flash 并推出 CLI 会话同步 ↗ #5 Claude Code 新版 /fork 支持携带完整上下文进…"
-        },
-        {
-          "id": "60b6d7475a5a0ad6718c27baafecab55f23ed924",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "小红书一个月涨了一万粉，离谱啊，现在三万了",
-          "url": "https://x.com/op7418/status/2061786484341182591",
-          "published_at": "2026-06-02T12:26:18Z",
-          "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬396🔄15❤️402👀96410📊371⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 10,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -299,6 +321,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "af4eddfb266ee75798fc2d56a3e7ec10d8aa3291",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.",
+          "url": "https://x.com/GeminiApp/status/2062198153139646613",
+          "published_at": "2026-06-03T15:42:08Z",
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.💬3🔄3❤️38👀6454📊7⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e7c1a8934b05b527f0f6823a7dd7e5cf06d396a5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Join @GoogleDeepMind Principal Engineer @__apf__  to walk through how Gemini Spark helps simplify yo...",
+          "url": "https://x.com/GeminiApp/status/2062194069623988297",
+          "published_at": "2026-06-03T15:25:54Z",
+          "summary": "Join @GoogleDeepMind Principal Engineer @__apf__ to walk through how Gemini Spark helps simplify your daily workflows. Powered by Gemini 3.5 Flash, Spark builds upon Gemini's ability to connect with @GoogleWorkspace apps like Docs and Gmail to execute complex tasks.💬27🔄21❤️196👀14…"
+        },
         {
           "id": "1ad72886845f9379b79ca9eebbb5a93fd1a066cf",
           "site_id": "featuredrss",
@@ -308,7 +352,7 @@
           "title": "https://t.co/TjPe68b3qY",
           "url": "https://x.com/GeminiApp/status/2061908161074978964",
           "published_at": "2026-06-02T20:29:48Z",
-          "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄2❤️24👀13526📊6⚡ Powered by xgo.ing"
+          "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄2❤️25👀14532📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "adb92d68ed8b738e4b09aeb32fe658952e875360",
@@ -319,7 +363,7 @@
           "title": "From question to model.\n\nThe public equity investing plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061888058459570279",
           "published_at": "2026-06-02T19:09:55Z",
-          "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬11🔄39❤️407👀135323📊86⚡ Powered by xgo.ing"
+          "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬15🔄39❤️445👀152205📊95⚡ Powered by xgo.ing"
         },
         {
           "id": "8bf619cfd177d70fc3f773b649a05131c9e8e2d1",
@@ -330,7 +374,7 @@
           "title": "Prep faster. Sell smarter.\n\nThe sales plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061887949516730502",
           "published_at": "2026-06-02T19:09:29Z",
-          "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬12🔄20❤️397👀67985📊56⚡ Powered by xgo.ing"
+          "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬13🔄21❤️428👀73949📊61⚡ Powered by xgo.ing"
         },
         {
           "id": "87b3564bf3eb8cc848466e777cf4b64f55b3880d",
@@ -341,7 +385,7 @@
           "title": "Bring your briefs to life.\n\nThe creative production plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061887828058075190",
           "published_at": "2026-06-02T19:09:00Z",
-          "summary": "Bring your briefs to life. The creative production plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄14❤️361👀39805📊48⚡ Powered by xgo.ing"
+          "summary": "Bring your briefs to life. The creative production plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬10🔄14❤️372👀43195📊50⚡ Powered by xgo.ing"
         },
         {
           "id": "f56673cb4758f1f137c365c4f4cff75c9adcb388",
@@ -352,7 +396,7 @@
           "title": "Translate data into answers.\n\nThe data analytics plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061887715520721151",
           "published_at": "2026-06-02T19:08:34Z",
-          "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬14🔄37❤️712👀138080📊101⚡ Powered by xgo.ing"
+          "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬16🔄43❤️769👀186972📊114⚡ Powered by xgo.ing"
         },
         {
           "id": "1961b42f98ebfcca2ffcc6aa5c7b6411c7e8b063",
@@ -364,55 +408,66 @@
           "url": "https://x.com/OpenAI/status/2061887650391625870",
           "published_at": "2026-06-02T19:08:18Z",
           "summary": "We’re making Codex more useful for your work by expanding plugins beyond individual tools. These plugins turn Codex into a specialist for a specific role with a single install, no coding required. Codex can access 62 popular apps and 110 skills for work across sales, data analyti…"
-        },
-        {
-          "id": "e47fe123df82310745bf4c9de7604dc758fad15a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Building apps has never been easier.\n\nWith Sites, Codex can turn your work, ideas, and plans into an...",
-          "url": "https://x.com/OpenAI/status/2061845949170045346",
-          "published_at": "2026-06-02T16:22:36Z",
-          "summary": "Building apps has never been easier. With Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL. Rolling out to Business and Enterprise plans, before expanding more broadly.Your browser does not suppo…"
-        },
-        {
-          "id": "5f1eb28fe44f6cff9dfbbac47e3ca52d6ad4b732",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "https://t.co/eZ4SPUQu5x",
-          "url": "https://x.com/OpenAI/status/2061845950705140121",
-          "published_at": "2026-06-02T16:22:36Z",
-          "summary": "openai.com/index/codex-fo…💬17🔄32❤️596👀248575📊102⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "68627f039662bdf6023d23d8804e97b338396355",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "See Gemini Omni in action with a live demo from one of the team members who helped build it.\n\nJoin u...",
-          "url": "https://x.com/GeminiApp/status/2061842235457720507",
-          "published_at": "2026-06-02T16:07:50Z",
-          "summary": "See Gemini Omni in action with a live demo from one of the team members who helped build it. Join us on Discord as Product Manager Chloe shares how to use Gemini Omni’s multimodal inputs, real-world knowledge, and easy conversational editing to create videos like never before. 👉J…"
-        },
-        {
-          "id": "cccfa0861ce1e5e91130b87d937ec5d0036e70dc",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic News",
-          "region": "global",
-          "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-          "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-          "published_at": "2026-06-02T16:00:00Z",
-          "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question. We examine 832 accounts that were banned for malicious cyber activity between March…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "af4eddfb266ee75798fc2d56a3e7ec10d8aa3291",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.",
+      "url": "https://x.com/GeminiApp/status/2062198153139646613",
+      "published_at": "2026-06-03T15:42:08Z",
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.💬3🔄3❤️38👀6454📊7⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e7c1a8934b05b527f0f6823a7dd7e5cf06d396a5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Join @GoogleDeepMind Principal Engineer @__apf__  to walk through how Gemini Spark helps simplify yo...",
+      "url": "https://x.com/GeminiApp/status/2062194069623988297",
+      "published_at": "2026-06-03T15:25:54Z",
+      "summary": "Join @GoogleDeepMind Principal Engineer @__apf__ to walk through how Gemini Spark helps simplify your daily workflows. Powered by Gemini 3.5 Flash, Spark builds upon Gemini's ability to connect with @GoogleWorkspace apps like Docs and Gmail to execute complex tasks.💬27🔄21❤️196👀14…"
+    },
+    {
+      "id": "3ff8af59d0f22c1f31efc273163c7be6bc049c11",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。\n\n 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。",
+      "url": "https://x.com/op7418/status/2062167781538508880",
+      "published_at": "2026-06-03T13:41:27Z",
+      "summary": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。💬1🔄1❤️4👀2232📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e75bc9a6d34766974e6eb0d3f0690807e68d37b6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测MiniMax M3，全链路Agent要的三块拼图终于凑齐了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507489&idx=1&sn=8c423cda9e2c0615a9ffa97f2ed11fb0",
+      "published_at": "2026-06-03T10:40:00Z",
+      "summary": "这还说啥了，国产源神太给力了"
+    },
+    {
+      "id": "f63746ae21be8c3426cea02f1b6a3f73bc351ddc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "AI短剧的Harness模式，LuxReal跑通了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497756&idx=1&sn=921133ade7ece594ae245dc30d42c786",
+      "published_at": "2026-06-03T07:58:00Z",
+      "summary": "抽卡更少，量产更快。"
+    },
     {
       "id": "c226ed9230dcfb977236e9f1c5d248a71501dad8",
       "site_id": "featuredrss",
@@ -422,7 +477,7 @@
       "title": "看来快手确实要分拆可灵单独上市了了。\n\n其实早就该搞，太晚了现在。",
       "url": "https://x.com/op7418/status/2062062986903359546",
       "published_at": "2026-06-03T06:45:02Z",
-      "summary": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。💬16🔄0❤️11👀7365📊15⚡ Powered by xgo.ing"
+      "summary": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。💬30🔄1❤️18👀11875📊27⚡ Powered by xgo.ing"
     },
     {
       "id": "bee804af101dedea6d61b08fd66b7bb24221636d",
@@ -444,7 +499,7 @@
       "title": "哦 是 Sites",
       "url": "https://x.com/op7418/status/2062005746569711901",
       "published_at": "2026-06-03T02:57:34Z",
-      "summary": "哦 是 Sites💬0🔄0❤️1👀5422⚡ Powered by xgo.ing"
+      "summary": "哦 是 Sites💬0🔄0❤️2👀7235⚡ Powered by xgo.ing"
     },
     {
       "id": "e4ba797878f7bda4b22ec0154b96e3b7381bc831",
@@ -455,7 +510,7 @@
       "title": "Codex 昨晚上线的这个 Site 插件非常厉害。\n\n它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。\n\n比较遗憾的是 Pro 用户不能用...",
       "url": "https://x.com/op7418/status/2062005183090233773",
       "published_at": "2026-06-03T02:55:20Z",
-      "summary": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。Your browser does not support the video tag.🔗 View on Twitter💬59🔄14❤️148👀45450📊85⚡ Powered by xgo.ing"
+      "summary": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。Your browser does not support the video tag.🔗 View on Twitter💬62🔄17❤️199👀63068📊100⚡ Powered by xgo.ing"
     },
     {
       "id": "f0c23bdfee670de4dcde4571203d748b9b9a1895",
@@ -466,7 +521,7 @@
       "title": "这里尝试，网站设计依然很顶：https://t.co/ADuOqAyvtV",
       "url": "https://x.com/op7418/status/2062002600686518403",
       "published_at": "2026-06-03T02:45:04Z",
-      "summary": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.com/desktop💬0🔄2❤️14👀5301📊5⚡ Powered by xgo.ing"
+      "summary": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.com/desktop💬0🔄2❤️15👀6778📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "281fce1af6a93ccfa6605194890808b4887a5370",
@@ -477,7 +532,7 @@
       "title": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了",
       "url": "https://x.com/op7418/status/2062002323786985825",
       "published_at": "2026-06-03T02:43:58Z",
-      "summary": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了Your browser does not support the video tag.🔗 View on Twitter💬58🔄10❤️184👀41104📊85⚡ Powered by xgo.ing"
+      "summary": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了Your browser does not support the video tag.🔗 View on Twitter💬66🔄17❤️247👀55907📊110⚡ Powered by xgo.ing"
     },
     {
       "id": "58d2f41861ad4c6010cb4c10279eba343e288702",
@@ -510,7 +565,7 @@
       "title": "https://t.co/TjPe68b3qY",
       "url": "https://x.com/GeminiApp/status/2061908161074978964",
       "published_at": "2026-06-02T20:29:48Z",
-      "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄2❤️24👀13526📊6⚡ Powered by xgo.ing"
+      "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄2❤️25👀14532📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "adb92d68ed8b738e4b09aeb32fe658952e875360",
@@ -521,7 +576,7 @@
       "title": "From question to model.\n\nThe public equity investing plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061888058459570279",
       "published_at": "2026-06-02T19:09:55Z",
-      "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬11🔄39❤️407👀135323📊86⚡ Powered by xgo.ing"
+      "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬15🔄39❤️445👀152205📊95⚡ Powered by xgo.ing"
     },
     {
       "id": "8bf619cfd177d70fc3f773b649a05131c9e8e2d1",
@@ -532,7 +587,7 @@
       "title": "Prep faster. Sell smarter.\n\nThe sales plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061887949516730502",
       "published_at": "2026-06-02T19:09:29Z",
-      "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬12🔄20❤️397👀67985📊56⚡ Powered by xgo.ing"
+      "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬13🔄21❤️428👀73949📊61⚡ Powered by xgo.ing"
     },
     {
       "id": "87b3564bf3eb8cc848466e777cf4b64f55b3880d",
@@ -543,7 +598,7 @@
       "title": "Bring your briefs to life.\n\nThe creative production plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061887828058075190",
       "published_at": "2026-06-02T19:09:00Z",
-      "summary": "Bring your briefs to life. The creative production plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬9🔄14❤️361👀39805📊48⚡ Powered by xgo.ing"
+      "summary": "Bring your briefs to life. The creative production plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬10🔄14❤️372👀43195📊50⚡ Powered by xgo.ing"
     },
     {
       "id": "f56673cb4758f1f137c365c4f4cff75c9adcb388",
@@ -554,7 +609,7 @@
       "title": "Translate data into answers.\n\nThe data analytics plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061887715520721151",
       "published_at": "2026-06-02T19:08:34Z",
-      "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬14🔄37❤️712👀138080📊101⚡ Powered by xgo.ing"
+      "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬16🔄43❤️769👀186972📊114⚡ Powered by xgo.ing"
     },
     {
       "id": "1961b42f98ebfcca2ffcc6aa5c7b6411c7e8b063",
@@ -566,61 +621,6 @@
       "url": "https://x.com/OpenAI/status/2061887650391625870",
       "published_at": "2026-06-02T19:08:18Z",
       "summary": "We’re making Codex more useful for your work by expanding plugins beyond individual tools. These plugins turn Codex into a specialist for a specific role with a single install, no coding required. Codex can access 62 popular apps and 110 skills for work across sales, data analyti…"
-    },
-    {
-      "id": "e47fe123df82310745bf4c9de7604dc758fad15a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Building apps has never been easier.\n\nWith Sites, Codex can turn your work, ideas, and plans into an...",
-      "url": "https://x.com/OpenAI/status/2061845949170045346",
-      "published_at": "2026-06-02T16:22:36Z",
-      "summary": "Building apps has never been easier. With Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL. Rolling out to Business and Enterprise plans, before expanding more broadly.Your browser does not suppo…"
-    },
-    {
-      "id": "5f1eb28fe44f6cff9dfbbac47e3ca52d6ad4b732",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "https://t.co/eZ4SPUQu5x",
-      "url": "https://x.com/OpenAI/status/2061845950705140121",
-      "published_at": "2026-06-02T16:22:36Z",
-      "summary": "openai.com/index/codex-fo…💬17🔄32❤️596👀248575📊102⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "68627f039662bdf6023d23d8804e97b338396355",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "See Gemini Omni in action with a live demo from one of the team members who helped build it.\n\nJoin u...",
-      "url": "https://x.com/GeminiApp/status/2061842235457720507",
-      "published_at": "2026-06-02T16:07:50Z",
-      "summary": "See Gemini Omni in action with a live demo from one of the team members who helped build it. Join us on Discord as Product Manager Chloe shares how to use Gemini Omni’s multimodal inputs, real-world knowledge, and easy conversational editing to create videos like never before. 👉J…"
-    },
-    {
-      "id": "cccfa0861ce1e5e91130b87d937ec5d0036e70dc",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic News",
-      "region": "global",
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "published_at": "2026-06-02T16:00:00Z",
-      "summary": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question. We examine 832 accounts that were banned for malicious cyber activity between March…"
-    },
-    {
-      "id": "60b6d7475a5a0ad6718c27baafecab55f23ed924",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "小红书一个月涨了一万粉，离谱啊，现在三万了",
-      "url": "https://x.com/op7418/status/2061786484341182591",
-      "published_at": "2026-06-02T12:26:18Z",
-      "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬396🔄15❤️402👀96410📊371⚡ Powered by xgo.ing"
     }
   ]
 }
