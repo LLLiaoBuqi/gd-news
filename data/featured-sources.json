@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-02T23:16:21.376707Z",
+  "generated_at": "2026-06-03T02:05:37.173185Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 276,
+      "duration_ms": 302,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 21,
+      "duration_ms": 139,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1605,
+      "duration_ms": 1611,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1593,
+      "duration_ms": 1306,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 580,
+      "duration_ms": 782,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1816,
+      "duration_ms": 2889,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1380,
+      "duration_ms": 2097,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 170,
+      "duration_ms": 136,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2126,
+      "duration_ms": 1910,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1094,
+      "duration_ms": 2244,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "8d7177e2e7b6a1bee0f425ceea3f4ed9a0e347b3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-06-03",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-110",
+          "published_at": "2026-06-03T01:46:50Z",
+          "summary": "AI 早报 2026-06-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 为 Codex 推出六款业务插件与 Sites 和 Annotations功能 ↗ #1 Windsurf 升级更名为 Devin Desktop，支持 ACP ↗ #2 小米 MiMo 推出老用户专属福利 ↗ #3 模型发布 H Company 发布 Holo3.1 模型系列 ↗ #4 开发生态 Antigravity 更新 Gemini 3.5 Flash 并推出 CLI 会话同步 ↗ #5 Claude Code 新版 /fork 支持携带完整上下文进…"
+        },
         {
           "id": "60b6d7475a5a0ad6718c27baafecab55f23ed924",
           "site_id": "featuredrss",
@@ -197,7 +208,7 @@
           "title": "小红书一个月涨了一万粉，离谱啊，现在三万了",
           "url": "https://x.com/op7418/status/2061786484341182591",
           "published_at": "2026-06-02T12:26:18Z",
-          "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬270🔄9❤️259👀53346📊250⚡ Powered by xgo.ing"
+          "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬319🔄9❤️297👀65380📊294⚡ Powered by xgo.ing"
         },
         {
           "id": "37298a53a2b0e5c66d91f6a2d2b59622b3db8d6e",
@@ -219,7 +230,7 @@
           "title": "收到了 @dotey  宝玉老师的图解 Skill，已严肃阅读\n\n里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看",
           "url": "https://x.com/op7418/status/2061772644215832828",
           "published_at": "2026-06-02T11:31:18Z",
-          "summary": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看💬100🔄6❤️59👀13674📊91⚡ Powered by xgo.ing"
+          "summary": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看💬136🔄7❤️72👀15986📊121⚡ Powered by xgo.ing"
         },
         {
           "id": "82d1cb82e029c22216949e89268bc8f0bf5f76d1",
@@ -230,7 +241,7 @@
           "title": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。\n\n而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了",
           "url": "https://x.com/op7418/status/2061770605708685410",
           "published_at": "2026-06-02T11:23:12Z",
-          "summary": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了💬5🔄0❤️7👀3891📊5⚡ Powered by xgo.ing"
+          "summary": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了💬5🔄0❤️8👀4441📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "28de7e38b86c337699224f176aac25271a3d63db",
@@ -241,7 +252,7 @@
           "title": "这里尝试：https://t.co/WXUBRgMxHo",
           "url": "https://x.com/op7418/status/2061755052382122368",
           "published_at": "2026-06-02T10:21:24Z",
-          "summary": "这里尝试：claw.360.cn💬4🔄1❤️1👀5349📊4⚡ Powered by xgo.ing"
+          "summary": "这里尝试：claw.360.cn💬4🔄1❤️1👀6066📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "8d296b740fa92eef8015da62380404a491fe06bb",
@@ -274,7 +285,7 @@
           "title": "https://t.co/DhMuRKQIDi",
           "url": "https://x.com/op7418/status/2061645122476097582",
           "published_at": "2026-06-02T03:04:35Z",
-          "summary": "developer.apple.com/wwdc26/wallpap…💬4🔄0❤️2👀4442📊4⚡ Powered by xgo.ing"
+          "summary": "developer.apple.com/wwdc26/wallpap…💬4🔄0❤️2👀4640📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "8587b205521cb58b06e0f42e53c0c93ece7aafc3",
@@ -286,28 +297,6 @@
           "url": "https://x.com/op7418/status/2061644847325610329",
           "published_at": "2026-06-02T03:03:29Z",
           "summary": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。 这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。 点击加载 4K就行，也可以去下面网站下 6K 原图。Greg Joswiak@gregjozAll systems glow for a great #WWDC26 next week! Tune in June 8 at 10 am PT.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted T…"
-        },
-        {
-          "id": "5b4e5530d0bfcf51663834dbcfac9725a3a73a0e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "为了不花那120刀，我把电脑清理软件做成了开源skill。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682858&idx=1&sn=0bdfd10a71c2746e17dab2157aab6369",
-          "published_at": "2026-06-02T01:58:00Z",
-          "summary": "Mac和Windows都有救了"
-        },
-        {
-          "id": "a3d5c5fd3782c529367abf32e2eed41a4b85af72",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-06-02",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-109",
-          "published_at": "2026-06-02T01:44:04Z",
-          "summary": "AI 早报 2026-06-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问发布多模态智能体模型 Qwen3.7-Plus ↗ #1 MiniMax Token Plan 切换至 Token 计费并补偿老用户 ↗ #2 Claude 修复 Opus 4.8 并行调用异常并重置用户限额 ↗ #3 模型发布 MiniMax 发布模型 M3 并计划未来 10 天内开源权重 ↗ #4 VAST 发布 Project Eden 世界模型研究预览版 ↗ #5 JetBrains 发布 12B 参数 MoE 架构模型 Mellum2 ↗ #6 开发生态 Q…"
         }
       ]
     },
@@ -330,7 +319,7 @@
           "title": "https://t.co/TjPe68b3qY",
           "url": "https://x.com/GeminiApp/status/2061908161074978964",
           "published_at": "2026-06-02T20:29:48Z",
-          "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️14👀7048📊3⚡ Powered by xgo.ing"
+          "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄1❤️18👀9583📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "adb92d68ed8b738e4b09aeb32fe658952e875360",
@@ -341,7 +330,7 @@
           "title": "From question to model.\n\nThe public equity investing plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061888058459570279",
           "published_at": "2026-06-02T19:09:55Z",
-          "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬4🔄8❤️140👀41320📊24⚡ Powered by xgo.ing"
+          "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬7🔄16❤️199👀59042📊38⚡ Powered by xgo.ing"
         },
         {
           "id": "8bf619cfd177d70fc3f773b649a05131c9e8e2d1",
@@ -352,7 +341,7 @@
           "title": "Prep faster. Sell smarter.\n\nThe sales plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061887949516730502",
           "published_at": "2026-06-02T19:09:29Z",
-          "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬5🔄12❤️190👀36536📊27⚡ Powered by xgo.ing"
+          "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬7🔄16❤️287👀47974📊40⚡ Powered by xgo.ing"
         },
         {
           "id": "87b3564bf3eb8cc848466e777cf4b64f55b3880d",
@@ -374,7 +363,7 @@
           "title": "Translate data into answers.\n\nThe data analytics plugin for Codex.",
           "url": "https://x.com/OpenAI/status/2061887715520721151",
           "published_at": "2026-06-02T19:08:34Z",
-          "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬12🔄27❤️513👀48250📊70⚡ Powered by xgo.ing"
+          "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬12🔄28❤️545👀53163📊75⚡ Powered by xgo.ing"
         },
         {
           "id": "1961b42f98ebfcca2ffcc6aa5c7b6411c7e8b063",
@@ -407,7 +396,7 @@
           "title": "https://t.co/eZ4SPUQu5x",
           "url": "https://x.com/OpenAI/status/2061845950705140121",
           "published_at": "2026-06-02T16:22:36Z",
-          "summary": "openai.com/index/codex-fo…💬12🔄20❤️433👀153327📊72⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/codex-fo…💬14🔄27❤️490👀185422📊82⚡ Powered by xgo.ing"
         },
         {
           "id": "68627f039662bdf6023d23d8804e97b338396355",
@@ -425,6 +414,17 @@
   },
   "items": [
     {
+      "id": "8d7177e2e7b6a1bee0f425ceea3f4ed9a0e347b3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-06-03",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-110",
+      "published_at": "2026-06-03T01:46:50Z",
+      "summary": "AI 早报 2026-06-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 为 Codex 推出六款业务插件与 Sites 和 Annotations功能 ↗ #1 Windsurf 升级更名为 Devin Desktop，支持 ACP ↗ #2 小米 MiMo 推出老用户专属福利 ↗ #3 模型发布 H Company 发布 Holo3.1 模型系列 ↗ #4 开发生态 Antigravity 更新 Gemini 3.5 Flash 并推出 CLI 会话同步 ↗ #5 Claude Code 新版 /fork 支持携带完整上下文进…"
+    },
+    {
       "id": "1ad72886845f9379b79ca9eebbb5a93fd1a066cf",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -433,7 +433,7 @@
       "title": "https://t.co/TjPe68b3qY",
       "url": "https://x.com/GeminiApp/status/2061908161074978964",
       "published_at": "2026-06-02T20:29:48Z",
-      "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄1❤️14👀7048📊3⚡ Powered by xgo.ing"
+      "summary": "x.com/DavidMaliglowk…David Maliglowka@DavidMaliglowkaGemini Omni 🏕️ prompt in 🧵Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄1❤️18👀9583📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "adb92d68ed8b738e4b09aeb32fe658952e875360",
@@ -444,7 +444,7 @@
       "title": "From question to model.\n\nThe public equity investing plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061888058459570279",
       "published_at": "2026-06-02T19:09:55Z",
-      "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬4🔄8❤️140👀41320📊24⚡ Powered by xgo.ing"
+      "summary": "From question to model. The public equity investing plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬7🔄16❤️199👀59042📊38⚡ Powered by xgo.ing"
     },
     {
       "id": "8bf619cfd177d70fc3f773b649a05131c9e8e2d1",
@@ -455,7 +455,7 @@
       "title": "Prep faster. Sell smarter.\n\nThe sales plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061887949516730502",
       "published_at": "2026-06-02T19:09:29Z",
-      "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬5🔄12❤️190👀36536📊27⚡ Powered by xgo.ing"
+      "summary": "Prep faster. Sell smarter. The sales plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬7🔄16❤️287👀47974📊40⚡ Powered by xgo.ing"
     },
     {
       "id": "87b3564bf3eb8cc848466e777cf4b64f55b3880d",
@@ -477,7 +477,7 @@
       "title": "Translate data into answers.\n\nThe data analytics plugin for Codex.",
       "url": "https://x.com/OpenAI/status/2061887715520721151",
       "published_at": "2026-06-02T19:08:34Z",
-      "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬12🔄27❤️513👀48250📊70⚡ Powered by xgo.ing"
+      "summary": "Translate data into answers. The data analytics plugin for Codex.Your browser does not support the video tag.🔗 View on Twitter💬12🔄28❤️545👀53163📊75⚡ Powered by xgo.ing"
     },
     {
       "id": "1961b42f98ebfcca2ffcc6aa5c7b6411c7e8b063",
@@ -510,7 +510,7 @@
       "title": "https://t.co/eZ4SPUQu5x",
       "url": "https://x.com/OpenAI/status/2061845950705140121",
       "published_at": "2026-06-02T16:22:36Z",
-      "summary": "openai.com/index/codex-fo…💬12🔄20❤️433👀153327📊72⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/codex-fo…💬14🔄27❤️490👀185422📊82⚡ Powered by xgo.ing"
     },
     {
       "id": "68627f039662bdf6023d23d8804e97b338396355",
@@ -532,7 +532,7 @@
       "title": "小红书一个月涨了一万粉，离谱啊，现在三万了",
       "url": "https://x.com/op7418/status/2061786484341182591",
       "published_at": "2026-06-02T12:26:18Z",
-      "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬270🔄9❤️259👀53346📊250⚡ Powered by xgo.ing"
+      "summary": "小红书一个月涨了一万粉，离谱啊，现在三万了💬319🔄9❤️297👀65380📊294⚡ Powered by xgo.ing"
     },
     {
       "id": "37298a53a2b0e5c66d91f6a2d2b59622b3db8d6e",
@@ -554,7 +554,7 @@
       "title": "收到了 @dotey  宝玉老师的图解 Skill，已严肃阅读\n\n里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看",
       "url": "https://x.com/op7418/status/2061772644215832828",
       "published_at": "2026-06-02T11:31:18Z",
-      "summary": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看💬100🔄6❤️59👀13674📊91⚡ Powered by xgo.ing"
+      "summary": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看💬136🔄7❤️72👀15986📊121⚡ Powered by xgo.ing"
     },
     {
       "id": "82d1cb82e029c22216949e89268bc8f0bf5f76d1",
@@ -565,7 +565,7 @@
       "title": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。\n\n而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了",
       "url": "https://x.com/op7418/status/2061770605708685410",
       "published_at": "2026-06-02T11:23:12Z",
-      "summary": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了💬5🔄0❤️7👀3891📊5⚡ Powered by xgo.ing"
+      "summary": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了💬5🔄0❤️8👀4441📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "28de7e38b86c337699224f176aac25271a3d63db",
@@ -576,7 +576,7 @@
       "title": "这里尝试：https://t.co/WXUBRgMxHo",
       "url": "https://x.com/op7418/status/2061755052382122368",
       "published_at": "2026-06-02T10:21:24Z",
-      "summary": "这里尝试：claw.360.cn💬4🔄1❤️1👀5349📊4⚡ Powered by xgo.ing"
+      "summary": "这里尝试：claw.360.cn💬4🔄1❤️1👀6066📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "8d296b740fa92eef8015da62380404a491fe06bb",
@@ -609,7 +609,7 @@
       "title": "https://t.co/DhMuRKQIDi",
       "url": "https://x.com/op7418/status/2061645122476097582",
       "published_at": "2026-06-02T03:04:35Z",
-      "summary": "developer.apple.com/wwdc26/wallpap…💬4🔄0❤️2👀4442📊4⚡ Powered by xgo.ing"
+      "summary": "developer.apple.com/wwdc26/wallpap…💬4🔄0❤️2👀4640📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "8587b205521cb58b06e0f42e53c0c93ece7aafc3",
@@ -621,28 +621,6 @@
       "url": "https://x.com/op7418/status/2061644847325610329",
       "published_at": "2026-06-02T03:03:29Z",
       "summary": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。 这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。 点击加载 4K就行，也可以去下面网站下 6K 原图。Greg Joswiak@gregjozAll systems glow for a great #WWDC26 next week! Tune in June 8 at 10 am PT.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted T…"
-    },
-    {
-      "id": "5b4e5530d0bfcf51663834dbcfac9725a3a73a0e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "为了不花那120刀，我把电脑清理软件做成了开源skill。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647682858&idx=1&sn=0bdfd10a71c2746e17dab2157aab6369",
-      "published_at": "2026-06-02T01:58:00Z",
-      "summary": "Mac和Windows都有救了"
-    },
-    {
-      "id": "a3d5c5fd3782c529367abf32e2eed41a4b85af72",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-06-02",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-109",
-      "published_at": "2026-06-02T01:44:04Z",
-      "summary": "AI 早报 2026-06-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问发布多模态智能体模型 Qwen3.7-Plus ↗ #1 MiniMax Token Plan 切换至 Token 计费并补偿老用户 ↗ #2 Claude 修复 Opus 4.8 并行调用异常并重置用户限额 ↗ #3 模型发布 MiniMax 发布模型 M3 并计划未来 10 天内开源权重 ↗ #4 VAST 发布 Project Eden 世界模型研究预览版 ↗ #5 JetBrains 发布 12B 参数 MoE 架构模型 Mellum2 ↗ #6 开发生态 Q…"
     }
   ]
 }
