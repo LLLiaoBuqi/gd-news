@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-04T06:37:52.876615Z",
+  "generated_at": "2026-06-04T10:36:00.041098Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 221,
-      "duration_ms": 3899,
+      "item_count": 196,
+      "duration_ms": 8648,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 269,
+      "duration_ms": 316,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 39,
-      "duration_ms": 56,
+      "item_count": 40,
+      "duration_ms": 70,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 447,
+      "duration_ms": 466,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 398,
+      "duration_ms": 312,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 423,
-      "duration_ms": 13407,
+      "item_count": 471,
+      "duration_ms": 16676,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 2217,
+      "duration_ms": 2814,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2994,
-      "duration_ms": 1640,
+      "item_count": 2990,
+      "duration_ms": 1386,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 79,
-      "duration_ms": 487,
+      "duration_ms": 621,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 452,
+      "duration_ms": 219,
       "error": null
     },
     {
@@ -86,29 +86,29 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1248,
+      "duration_ms": 11905,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 144,
-      "duration_ms": 493,
+      "item_count": 145,
+      "duration_ms": 469,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 6,
-      "item_count": 34,
-      "duration_ms": 56535,
-      "error": "6 feeds failed",
+      "partial_failures": 2,
+      "item_count": 234,
+      "duration_ms": 11462,
+      "error": "2 feeds failed",
       "feed_count": 13,
       "effective_feed_count": 10,
-      "ok_feed_count": 7,
-      "failed_feed_count": 6,
+      "ok_feed_count": 11,
+      "failed_feed_count": 2,
       "skipped_feed_count": 3,
       "replaced_feed_count": 0
     }
@@ -116,21 +116,17 @@
   "successful_sites": 13,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5123,
-  "items_before_topic_filter": 6261,
-  "items_in_24h": 721,
+  "fetched_raw_items": 5344,
+  "items_before_topic_filter": 6113,
+  "items_in_24h": 753,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 13,
     "effective_feed_total": 10,
-    "ok_feeds": 4,
+    "ok_feeds": 8,
     "failed_feeds": [
-      "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-      "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
-      "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "rsshub://bilibili/user/video/302188068",
-      "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "rsshub://bilibili/user/video/385670211"
     ],
     "zero_item_feeds": [
@@ -160,7 +156,7 @@
         "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 507,
+        "duration_ms": 298,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -174,7 +170,7 @@
         "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
         "ok": true,
         "item_count": 14,
-        "duration_ms": 188,
+        "duration_ms": 17,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -186,10 +182,10 @@
         "feed_title": "Google AI(@GoogleAI)",
         "feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
         "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12364,
-        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1437,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
@@ -200,10 +196,10 @@
         "feed_title": "Google Gemini(@GeminiApp)",
         "feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
         "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12348,
-        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1224,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
@@ -216,7 +212,7 @@
         "effective_feed_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 6172,
+        "duration_ms": 5883,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -228,10 +224,10 @@
         "feed_title": "OpenAI(@OpenAI)",
         "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12351,
-        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 583,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
@@ -286,7 +282,7 @@
         "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 258,
+        "duration_ms": 259,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -298,10 +294,10 @@
         "feed_title": "歸藏(guizang.ai)(@op7418)",
         "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
         "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 12347,
-        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1761,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
