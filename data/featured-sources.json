@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-04T10:36:00.041098Z",
+  "generated_at": "2026-06-04T13:55:18.233673Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 243,
+      "duration_ms": 253,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 47,
+      "duration_ms": 28,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1396,
+      "duration_ms": 1366,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1289,
+      "duration_ms": 1258,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 638,
+      "duration_ms": 557,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1232,
+      "duration_ms": 1121,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1025,
+      "duration_ms": 948,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 201,
+      "duration_ms": 214,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1669,
+      "duration_ms": 1837,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 832,
+      "duration_ms": 730,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,7 +183,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
@@ -197,7 +197,7 @@
           "title": "又发现一个 Codex 好用的点！\n\n我发这个视频，抖音说我违规，我实在不知道哪句话违规了。\n\n然后就让 Codex 直接根据我的视频和我的字幕，帮我视频剪一个不违规的版本，牛逼，果然过审了。",
           "url": "https://x.com/op7418/status/2062403614963126712",
           "published_at": "2026-06-04T05:18:34Z",
-          "summary": "又发现一个 Codex 好用的点！ 我发这个视频，抖音说我违规，我实在不知道哪句话违规了。 然后就让 Codex 直接根据我的视频和我的字幕，帮我视频剪一个不违规的版本，牛逼，果然过审了。💬38🔄4❤️96👀14625📊48⚡ Powered by xgo.ing"
+          "summary": "又发现一个 Codex 好用的点！ 我发这个视频，抖音说我违规，我实在不知道哪句话违规了。 然后就让 Codex 直接根据我的视频和我的字幕，帮我视频剪一个不违规的版本，牛逼，果然过审了。💬48🔄4❤️125👀19365📊60⚡ Powered by xgo.ing"
         },
         {
           "id": "2407758e3c11004d6c1a978691110a3eef0a59bd",
@@ -208,7 +208,7 @@
           "title": "做了个简单的小工具 即览 Glimpse\n\n没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。\n​\n​苹果审核卡了我三天，开放了 8000 个测试名额，...",
           "url": "https://x.com/op7418/status/2062392105860059227",
           "published_at": "2026-06-04T04:32:50Z",
-          "summary": "做了个简单的小工具 即览 Glimpse 没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。 ​ ​苹果审核卡了我三天，开放了 8000 个测试名额，应该够了。如果满了的话，可能等几天我就上架了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2062…🔗 View Quoted Tweet💬21🔄5❤️57👀25650📊24⚡ Powered by xgo.in…"
+          "summary": "做了个简单的小工具 即览 Glimpse 没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。 ​ ​苹果审核卡了我三天，开放了 8000 个测试名额，应该够了。如果满了的话，可能等几天我就上架了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2062…🔗 View Quoted Tweet💬28🔄5❤️65👀32587📊31⚡ Powered by xgo.in…"
         },
         {
           "id": "77a00271095e8551b3590a78351db5154aa101bb",
@@ -230,7 +230,7 @@
           "title": "https://t.co/2WMPDLD613",
           "url": "https://x.com/op7418/status/2062361524367401461",
           "published_at": "2026-06-04T02:31:18Z",
-          "summary": "x.com/i/article/2062…💬18🔄3❤️73👀43138📊35⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2062…💬20🔄3❤️85👀51781📊39⚡ Powered by xgo.ing"
         },
         {
           "id": "215c0254d8d60afbe5803d83e8885443a6a10d6c",
@@ -241,7 +241,7 @@
           "title": "Reve 2.0 这个图像模型强啊\n\n原生 4K 输出，主要是它支持类似于你在 PS 里用到的图像分层之后的编辑能力就。\n\n图像中的每一个部分，你点它就能选中。而且这个不需要中间的处理，他给你处理好了...",
           "url": "https://x.com/op7418/status/2062354974043152673",
           "published_at": "2026-06-04T02:05:17Z",
-          "summary": "Reve 2.0 这个图像模型强啊 原生 4K 输出，主要是它支持类似于你在 PS 里用到的图像分层之后的编辑能力就。 图像中的每一个部分，你点它就能选中。而且这个不需要中间的处理，他给你处理好了。就是你想要编辑哪个部分，就点哪个部分Your browser does not support the video tag.🔗 View on Twitter💬11🔄9❤️60👀9426📊24⚡ Powered by xgo.ing"
+          "summary": "Reve 2.0 这个图像模型强啊 原生 4K 输出，主要是它支持类似于你在 PS 里用到的图像分层之后的编辑能力就。 图像中的每一个部分，你点它就能选中。而且这个不需要中间的处理，他给你处理好了。就是你想要编辑哪个部分，就点哪个部分Your browser does not support the video tag.🔗 View on Twitter💬12🔄9❤️72👀11120📊28⚡ Powered by xgo.ing"
         },
         {
           "id": "d79a1ebfed063d0fb778378ff580d9d15b2ba41a",
@@ -253,28 +253,6 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-111",
           "published_at": "2026-06-04T01:03:39Z",
           "summary": "AI 早报 2026-06-04 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 豆包计划推出专业版 辟谣降体验推会员传闻 ↗ #1 Google 发布 Gemma 4 12B 原生多模态模型 ↗ #2 模型发布 Ideogram 发布开源图像模型 Ideogram 4.0 ↗ #3 Reve 发布 Reve 2.0 图像模型 ↗ #4 OpenAI 升级生命科学模型 GPT-Rosalind ↗ #5 Nex AGI 发布并开源 Nex-N2-Pro 模型 ↗ #6 京东开源 JoyAI-Echo 长音视频生成框架 ↗ #7 开发生态 OpenAI…"
-        },
-        {
-          "id": "3ff8af59d0f22c1f31efc273163c7be6bc049c11",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。\n\n 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。",
-          "url": "https://x.com/op7418/status/2062167781538508880",
-          "published_at": "2026-06-03T13:41:27Z",
-          "summary": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。💬2🔄1❤️12👀3969📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e75bc9a6d34766974e6eb0d3f0690807e68d37b6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测MiniMax M3，全链路Agent要的三块拼图终于凑齐了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507489&idx=1&sn=8c423cda9e2c0615a9ffa97f2ed11fb0",
-          "published_at": "2026-06-03T10:40:00Z",
-          "summary": "这还说啥了，国产源神太给力了"
         }
       ]
     },
@@ -308,7 +286,7 @@
           "title": "https://t.co/lQfuyvJ4Gu",
           "url": "https://x.com/GeminiApp/status/2062276259011539119",
           "published_at": "2026-06-03T20:52:30Z",
-          "summary": "x.com/gcduncombe/sta…Gabi C. Duncombe@gcduncombeToo much screen time for me. Need to go touch grass. (made with Gemini Omni)Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄0❤️21👀13738📊4⚡ Powered by xgo.ing"
+          "summary": "x.com/gcduncombe/sta…Gabi C. Duncombe@gcduncombeToo much screen time for me. Need to go touch grass. (made with Gemini Omni)Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄1❤️24👀14535📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "7eff4543bbfc5a6d0f419662045902ec6c807a96",
@@ -319,7 +297,7 @@
           "title": "It's time to fly.",
           "url": "https://x.com/OpenAI/status/2062249312839434452",
           "published_at": "2026-06-03T19:05:25Z",
-          "summary": "It's time to fly.Your browser does not support the video tag.🔗 View on Twitter💬896🔄728❤️9417👀1660994📊1857⚡ Powered by xgo.ing"
+          "summary": "It's time to fly.Your browser does not support the video tag.🔗 View on Twitter💬954🔄776❤️10004👀1879453📊1972⚡ Powered by xgo.ing"
         },
         {
           "id": "af4eddfb266ee75798fc2d56a3e7ec10d8aa3291",
@@ -330,7 +308,7 @@
           "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.",
           "url": "https://x.com/GeminiApp/status/2062198153139646613",
           "published_at": "2026-06-03T15:42:08Z",
-          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.💬4🔄5❤️59👀14081📊11⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.💬4🔄6❤️61👀14892📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "e7c1a8934b05b527f0f6823a7dd7e5cf06d396a5",
@@ -341,7 +319,7 @@
           "title": "Join @GoogleDeepMind Principal Engineer @__apf__  to walk through how Gemini Spark helps simplify yo...",
           "url": "https://x.com/GeminiApp/status/2062194069623988297",
           "published_at": "2026-06-03T15:25:54Z",
-          "summary": "Join @GoogleDeepMind Principal Engineer @__apf__ to walk through how Gemini Spark helps simplify your daily workflows. Powered by Gemini 3.5 Flash, Spark builds upon Gemini's ability to connect with @GoogleWorkspace apps like Docs and Gmail to execute complex tasks.💬53🔄171❤️722👀1…"
+          "summary": "Join @GoogleDeepMind Principal Engineer @__apf__ to walk through how Gemini Spark helps simplify your daily workflows. Powered by Gemini 3.5 Flash, Spark builds upon Gemini's ability to connect with @GoogleWorkspace apps like Docs and Gmail to execute complex tasks.💬58🔄193❤️818👀2…"
         }
       ]
     }
@@ -356,7 +334,7 @@
       "title": "又发现一个 Codex 好用的点！\n\n我发这个视频，抖音说我违规，我实在不知道哪句话违规了。\n\n然后就让 Codex 直接根据我的视频和我的字幕，帮我视频剪一个不违规的版本，牛逼，果然过审了。",
       "url": "https://x.com/op7418/status/2062403614963126712",
       "published_at": "2026-06-04T05:18:34Z",
-      "summary": "又发现一个 Codex 好用的点！ 我发这个视频，抖音说我违规，我实在不知道哪句话违规了。 然后就让 Codex 直接根据我的视频和我的字幕，帮我视频剪一个不违规的版本，牛逼，果然过审了。💬38🔄4❤️96👀14625📊48⚡ Powered by xgo.ing"
+      "summary": "又发现一个 Codex 好用的点！ 我发这个视频，抖音说我违规，我实在不知道哪句话违规了。 然后就让 Codex 直接根据我的视频和我的字幕，帮我视频剪一个不违规的版本，牛逼，果然过审了。💬48🔄4❤️125👀19365📊60⚡ Powered by xgo.ing"
     },
     {
       "id": "2407758e3c11004d6c1a978691110a3eef0a59bd",
@@ -367,7 +345,7 @@
       "title": "做了个简单的小工具 即览 Glimpse\n\n没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。\n​\n​苹果审核卡了我三天，开放了 8000 个测试名额，...",
       "url": "https://x.com/op7418/status/2062392105860059227",
       "published_at": "2026-06-04T04:32:50Z",
-      "summary": "做了个简单的小工具 即览 Glimpse 没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。 ​ ​苹果审核卡了我三天，开放了 8000 个测试名额，应该够了。如果满了的话，可能等几天我就上架了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2062…🔗 View Quoted Tweet💬21🔄5❤️57👀25650📊24⚡ Powered by xgo.in…"
+      "summary": "做了个简单的小工具 即览 Glimpse 没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。 ​ ​苹果审核卡了我三天，开放了 8000 个测试名额，应该够了。如果满了的话，可能等几天我就上架了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2062…🔗 View Quoted Tweet💬28🔄5❤️65👀32587📊31⚡ Powered by xgo.in…"
     },
     {
       "id": "77a00271095e8551b3590a78351db5154aa101bb",
@@ -389,7 +367,7 @@
       "title": "https://t.co/2WMPDLD613",
       "url": "https://x.com/op7418/status/2062361524367401461",
       "published_at": "2026-06-04T02:31:18Z",
-      "summary": "x.com/i/article/2062…💬18🔄3❤️73👀43138📊35⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2062…💬20🔄3❤️85👀51781📊39⚡ Powered by xgo.ing"
     },
     {
       "id": "215c0254d8d60afbe5803d83e8885443a6a10d6c",
@@ -400,7 +378,7 @@
       "title": "Reve 2.0 这个图像模型强啊\n\n原生 4K 输出，主要是它支持类似于你在 PS 里用到的图像分层之后的编辑能力就。\n\n图像中的每一个部分，你点它就能选中。而且这个不需要中间的处理，他给你处理好了...",
       "url": "https://x.com/op7418/status/2062354974043152673",
       "published_at": "2026-06-04T02:05:17Z",
-      "summary": "Reve 2.0 这个图像模型强啊 原生 4K 输出，主要是它支持类似于你在 PS 里用到的图像分层之后的编辑能力就。 图像中的每一个部分，你点它就能选中。而且这个不需要中间的处理，他给你处理好了。就是你想要编辑哪个部分，就点哪个部分Your browser does not support the video tag.🔗 View on Twitter💬11🔄9❤️60👀9426📊24⚡ Powered by xgo.ing"
+      "summary": "Reve 2.0 这个图像模型强啊 原生 4K 输出，主要是它支持类似于你在 PS 里用到的图像分层之后的编辑能力就。 图像中的每一个部分，你点它就能选中。而且这个不需要中间的处理，他给你处理好了。就是你想要编辑哪个部分，就点哪个部分Your browser does not support the video tag.🔗 View on Twitter💬12🔄9❤️72👀11120📊28⚡ Powered by xgo.ing"
     },
     {
       "id": "d79a1ebfed063d0fb778378ff580d9d15b2ba41a",
@@ -433,7 +411,7 @@
       "title": "https://t.co/lQfuyvJ4Gu",
       "url": "https://x.com/GeminiApp/status/2062276259011539119",
       "published_at": "2026-06-03T20:52:30Z",
-      "summary": "x.com/gcduncombe/sta…Gabi C. Duncombe@gcduncombeToo much screen time for me. Need to go touch grass. (made with Gemini Omni)Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬3🔄0❤️21👀13738📊4⚡ Powered by xgo.ing"
+      "summary": "x.com/gcduncombe/sta…Gabi C. Duncombe@gcduncombeToo much screen time for me. Need to go touch grass. (made with Gemini Omni)Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄1❤️24👀14535📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "7eff4543bbfc5a6d0f419662045902ec6c807a96",
@@ -444,7 +422,7 @@
       "title": "It's time to fly.",
       "url": "https://x.com/OpenAI/status/2062249312839434452",
       "published_at": "2026-06-03T19:05:25Z",
-      "summary": "It's time to fly.Your browser does not support the video tag.🔗 View on Twitter💬896🔄728❤️9417👀1660994📊1857⚡ Powered by xgo.ing"
+      "summary": "It's time to fly.Your browser does not support the video tag.🔗 View on Twitter💬954🔄776❤️10004👀1879453📊1972⚡ Powered by xgo.ing"
     },
     {
       "id": "af4eddfb266ee75798fc2d56a3e7ec10d8aa3291",
@@ -455,7 +433,7 @@
       "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.",
       "url": "https://x.com/GeminiApp/status/2062198153139646613",
       "published_at": "2026-06-03T15:42:08Z",
-      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.💬4🔄5❤️59👀14081📊11⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.💬4🔄6❤️61👀14892📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "e7c1a8934b05b527f0f6823a7dd7e5cf06d396a5",
@@ -466,29 +444,7 @@
       "title": "Join @GoogleDeepMind Principal Engineer @__apf__  to walk through how Gemini Spark helps simplify yo...",
       "url": "https://x.com/GeminiApp/status/2062194069623988297",
       "published_at": "2026-06-03T15:25:54Z",
-      "summary": "Join @GoogleDeepMind Principal Engineer @__apf__ to walk through how Gemini Spark helps simplify your daily workflows. Powered by Gemini 3.5 Flash, Spark builds upon Gemini's ability to connect with @GoogleWorkspace apps like Docs and Gmail to execute complex tasks.💬53🔄171❤️722👀1…"
-    },
-    {
-      "id": "3ff8af59d0f22c1f31efc273163c7be6bc049c11",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。\n\n 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。",
-      "url": "https://x.com/op7418/status/2062167781538508880",
-      "published_at": "2026-06-03T13:41:27Z",
-      "summary": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。💬2🔄1❤️12👀3969📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e75bc9a6d34766974e6eb0d3f0690807e68d37b6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测MiniMax M3，全链路Agent要的三块拼图终于凑齐了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507489&idx=1&sn=8c423cda9e2c0615a9ffa97f2ed11fb0",
-      "published_at": "2026-06-03T10:40:00Z",
-      "summary": "这还说啥了，国产源神太给力了"
+      "summary": "Join @GoogleDeepMind Principal Engineer @__apf__ to walk through how Gemini Spark helps simplify your daily workflows. Powered by Gemini 3.5 Flash, Spark builds upon Gemini's ability to connect with @GoogleWorkspace apps like Docs and Gmail to execute complex tasks.💬58🔄193❤️818👀2…"
     }
   ]
 }
