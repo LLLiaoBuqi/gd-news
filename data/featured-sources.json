@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-05T14:52:32.450521Z",
+  "generated_at": "2026-06-05T17:10:06.489529Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 285,
+      "duration_ms": 834,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 21,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1692,
+      "duration_ms": 1647,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1566,
+      "duration_ms": 1418,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 604,
+      "duration_ms": 808,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1899,
+      "duration_ms": 1189,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1552,
+      "duration_ms": 1390,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 240,
+      "duration_ms": 248,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2090,
+      "duration_ms": 1927,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1174,
+      "duration_ms": 753,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +183,22 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "b563b83741924eb3157c1f5d03193c3a19c59778",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 个人资料页的这个 Token 消耗数据可以分享了。\n\n这个分享图做得真挺好的，打开设置、个人资料页，点击右上角的分享图标，就可以生成分享图了",
+          "url": "https://x.com/op7418/status/2062922085748621464",
+          "published_at": "2026-06-05T15:38:47Z",
+          "summary": "Codex 个人资料页的这个 Token 消耗数据可以分享了。 这个分享图做得真挺好的，打开设置、个人资料页，点击右上角的分享图标，就可以生成分享图了OpenAI Developers@OpenAIDevsYour Codex activity now has a home, and an easier way to share it. Codex profiles show your activity graph, streaks, lifetime tokens, peak daily tokens, and top features like pl…"
+        },
         {
           "id": "dc7fe3c86980648c1cca10b1f00bdaf345189014",
           "site_id": "featuredrss",
@@ -197,7 +208,7 @@
           "title": "啊？咋就抖音精选了",
           "url": "https://x.com/op7418/status/2062864675658977349",
           "published_at": "2026-06-05T11:50:39Z",
-          "summary": "啊？咋就抖音精选了💬11🔄0❤️13👀2901📊10⚡ Powered by xgo.ing"
+          "summary": "啊？咋就抖音精选了💬16🔄0❤️16👀3715📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "4f89e3ac06694fafe098ab6e88f62a84848ff49c",
@@ -253,56 +264,12 @@
           "url": "https://imjuya.github.io/juya-ai-daily/issue-112",
           "published_at": "2026-06-05T01:08:06Z",
           "summary": "AI 早报 2026-06-05 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 NVIDIA 正式发布并开源 Nemotron 3 Ultra 模型 ↗ #1 OpenAI 发布 ChatGPT 新记忆架构 Dreaming ↗ #2 Anthropic 称 AI 递归自我改进或比预期更快到来 ↗ #3 模型发布 字节跳动开源 Bernini 统一视频生成与编辑框架 ↗ #4 Higgs Audio v3 TTS 发布 支持百种语言与声音克隆 ↗ #5 Google Magenta 发布实时音乐生成模型 Magenta RealTime 2 ↗ #6…"
-        },
-        {
-          "id": "89d8621cf8bd628042766fe1ee8e3d64bb78f72f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "详情：https://t.co/wI2cSBZobV",
-          "url": "https://x.com/op7418/status/2062567543076987098",
-          "published_at": "2026-06-04T16:09:57Z",
-          "summary": "详情：github.com/op7418/CodePil…💬1🔄0❤️3👀4057📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d75be223651fd3ecd4df4e7ef082bf514d0dc392",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "CodePilot v0.55.0 正式版已经更新！\n\n重构完成的正式版：\n\n多执行引擎（Claude Code / 自建 Native / OpenAI Codex）、上下文用量可视化、Codex ...",
-          "url": "https://x.com/op7418/status/2062567442568933720",
-          "published_at": "2026-06-04T16:09:33Z",
-          "summary": "CodePilot v0.55.0 正式版已经更新！ 重构完成的正式版： 多执行引擎（Claude Code / 自建 Native / OpenAI Codex）、上下文用量可视化、Codex 账号原生能力全部落地为稳定版，并集中修复了 macOS 视觉与托盘、Windows 安装与交互、服务商型号映射等内测反馈问题。 🆕新增功能 多执行引擎，可整体切换也可按会话切换 — 同一个应用里支持 Anthropic Claude Code、CodePilot 自建 Native、OpenAI Codex 三种执行引擎；可以设全局默认，也能在单个对话的输入框下…"
-        },
-        {
-          "id": "ac575646054aaa44969e42b3ea0318309bfdb025",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "即览的新版已经上传，各位可以去 TestFlight 里面更新新版了。\n\n本次更新内容：\n1. 修复了一堆 Bug\n2. 同时支持了 iOS 17 和 iOS 18 系统",
-          "url": "https://x.com/op7418/status/2062563287225733565",
-          "published_at": "2026-06-04T15:53:02Z",
-          "summary": "即览的新版已经上传，各位可以去 TestFlight 里面更新新版了。 本次更新内容： 1. 修复了一堆 Bug 2. 同时支持了 iOS 17 和 iOS 18 系统歸藏(guizang.ai)@op7418x.com/i/article/2062…🔗 View Quoted Tweet💬24🔄0❤️26👀13741📊19⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6c92c1b71a72df8b548802f4aad627b4354b2045",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "说一下 guizang PPT Skills 还会继续更新啊。\n\n得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。\n\n同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT S...",
-          "url": "https://x.com/op7418/status/2062558698107797562",
-          "published_at": "2026-06-04T15:34:48Z",
-          "summary": "说一下 guizang PPT Skills 还会继续更新啊。 得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。 同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT Skills 的新版里面。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬18🔄20❤️138👀32783📊44⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 9,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -310,6 +277,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
+          "url": "https://x.com/OpenAI/status/2062927046448431587",
+          "published_at": "2026-06-05T15:58:29Z",
+          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬197🔄127❤️1219👀104487📊294⚡ Powered by xgo.ing"
+        },
         {
           "id": "192c35768df5d43209b1224b3924f9f061e5aaf9",
           "site_id": "featuredrss",
@@ -319,7 +297,7 @@
           "title": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻\n\nSimply press both Co...",
           "url": "https://x.com/GeminiApp/status/2062652523945836770",
           "published_at": "2026-06-04T21:47:38Z",
-          "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬49🔄79❤️741👀73514📊161⚡ Powered by xgo.ing"
+          "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄88❤️776👀78190📊168⚡ Powered by xgo.ing"
         },
         {
           "id": "7eb7ff729704f1cd9e6935543b29527168eedea9",
@@ -330,7 +308,7 @@
           "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/1sYUSLF1cJ\n\nApple\nhttps://t.co/zel5cpTVqT\n\nYo...",
           "url": "https://x.com/OpenAI/status/2062630458433917126",
           "published_at": "2026-06-04T20:19:57Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬10🔄6❤️89👀64099📊18⚡ Powered by xgo.ing"
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬12🔄6❤️94👀68212📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "cfe07160349d83e3a1d5697620d52673e68f7ebd",
@@ -342,77 +320,33 @@
           "url": "https://x.com/OpenAI/status/2062630454537424930",
           "published_at": "2026-06-04T20:19:56Z",
           "summary": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture? Researchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with @AndrewMayne and explained how mathematicians and models can work together to make new disc…"
-        },
-        {
-          "id": "ec6c7cb7d5f6c0d6d379f31d3d8847c10b40a930",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Prompt: \"A gigantic version of me wearing the exact same outfit and sharing the same face walks into...",
-          "url": "https://x.com/GeminiApp/status/2062576290251809050",
-          "published_at": "2026-06-04T16:44:43Z",
-          "summary": "Prompt: \"A gigantic version of me wearing the exact same outfit and sharing the same face walks into the scene from the left. We both look at each other and wave enthusiastically.\" Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in t…"
-        },
-        {
-          "id": "67c5a715f2f975a49c5f9f187169f8d228190388",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "See how easy it is to bring your wildest ideas to life with Gemini Omni. \n\nJust select \"Create video...",
-          "url": "https://x.com/GeminiApp/status/2062576239001690146",
-          "published_at": "2026-06-04T16:44:30Z",
-          "summary": "See how easy it is to bring your wildest ideas to life with Gemini Omni. Just select \"Create videos\" in Gemini, add text, video, or up to five images, and let your imagination run wild.💬61🔄66❤️701👀2063844📊150⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "927e71511eb89297ce6dfbed31740150c23e6696",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "With the new memory system, you can review and steer what ChatGPT remembers through a memory summary...",
-          "url": "https://x.com/OpenAI/status/2062567559673856346",
-          "published_at": "2026-06-04T16:10:01Z",
-          "summary": "With the new memory system, you can review and steer what ChatGPT remembers through a memory summary, with more visibility and control over how context is used.Your browser does not support the video tag.🔗 View on Twitter💬27🔄77❤️1432👀204257📊165⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "25957d8934b1d43edf11b4cab6943a9fe8a6dfc4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "The new memory system will keep track of important details automatically. If you prefer the legacy s...",
-          "url": "https://x.com/OpenAI/status/2062567561276100809",
-          "published_at": "2026-06-04T16:10:01Z",
-          "summary": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings. The new memory system is rolling out to Plus and Pro users in the US today, along with 2x more memory. To access it on iO…"
-        },
-        {
-          "id": "525800aa53fc41536d8cacee1d537648a42c3d0a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt ...",
-          "url": "https://x.com/OpenAI/status/2062567558252007554",
-          "published_at": "2026-06-04T16:10:01Z",
-          "summary": "We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change. If you tell ChatGPT you’re planning a trip in July, memory should understand when the trip is upcoming, happening, and already over. That helps ChatGPT keep givin…"
-        },
-        {
-          "id": "4acd20edd91d365aa797b358143a290db6cf72e4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it...",
-          "url": "https://x.com/OpenAI/status/2062567556524003631",
-          "published_at": "2026-06-04T16:10:00Z",
-          "summary": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time. Today, that work is rolling out as a more capable memory system in ChatGPT. openai.com/index/chatgpt-…💬587🔄890❤️8609👀1843975📊1648⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
+      "url": "https://x.com/OpenAI/status/2062927046448431587",
+      "published_at": "2026-06-05T15:58:29Z",
+      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬197🔄127❤️1219👀104487📊294⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b563b83741924eb3157c1f5d03193c3a19c59778",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex 个人资料页的这个 Token 消耗数据可以分享了。\n\n这个分享图做得真挺好的，打开设置、个人资料页，点击右上角的分享图标，就可以生成分享图了",
+      "url": "https://x.com/op7418/status/2062922085748621464",
+      "published_at": "2026-06-05T15:38:47Z",
+      "summary": "Codex 个人资料页的这个 Token 消耗数据可以分享了。 这个分享图做得真挺好的，打开设置、个人资料页，点击右上角的分享图标，就可以生成分享图了OpenAI Developers@OpenAIDevsYour Codex activity now has a home, and an easier way to share it. Codex profiles show your activity graph, streaks, lifetime tokens, peak daily tokens, and top features like pl…"
+    },
     {
       "id": "dc7fe3c86980648c1cca10b1f00bdaf345189014",
       "site_id": "featuredrss",
@@ -422,7 +356,7 @@
       "title": "啊？咋就抖音精选了",
       "url": "https://x.com/op7418/status/2062864675658977349",
       "published_at": "2026-06-05T11:50:39Z",
-      "summary": "啊？咋就抖音精选了💬11🔄0❤️13👀2901📊10⚡ Powered by xgo.ing"
+      "summary": "啊？咋就抖音精选了💬16🔄0❤️16👀3715📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "4f89e3ac06694fafe098ab6e88f62a84848ff49c",
@@ -488,7 +422,7 @@
       "title": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻\n\nSimply press both Co...",
       "url": "https://x.com/GeminiApp/status/2062652523945836770",
       "published_at": "2026-06-04T21:47:38Z",
-      "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬49🔄79❤️741👀73514📊161⚡ Powered by xgo.ing"
+      "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄88❤️776👀78190📊168⚡ Powered by xgo.ing"
     },
     {
       "id": "7eb7ff729704f1cd9e6935543b29527168eedea9",
@@ -499,7 +433,7 @@
       "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/1sYUSLF1cJ\n\nApple\nhttps://t.co/zel5cpTVqT\n\nYo...",
       "url": "https://x.com/OpenAI/status/2062630458433917126",
       "published_at": "2026-06-04T20:19:57Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬10🔄6❤️89👀64099📊18⚡ Powered by xgo.ing"
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬12🔄6❤️94👀68212📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "cfe07160349d83e3a1d5697620d52673e68f7ebd",
@@ -511,116 +445,6 @@
       "url": "https://x.com/OpenAI/status/2062630454537424930",
       "published_at": "2026-06-04T20:19:56Z",
       "summary": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture? Researchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with @AndrewMayne and explained how mathematicians and models can work together to make new disc…"
-    },
-    {
-      "id": "ec6c7cb7d5f6c0d6d379f31d3d8847c10b40a930",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Prompt: \"A gigantic version of me wearing the exact same outfit and sharing the same face walks into...",
-      "url": "https://x.com/GeminiApp/status/2062576290251809050",
-      "published_at": "2026-06-04T16:44:43Z",
-      "summary": "Prompt: \"A gigantic version of me wearing the exact same outfit and sharing the same face walks into the scene from the left. We both look at each other and wave enthusiastically.\" Gemini Omni is available to all Google AI Plus, Pro and Ultra subscribers at gemini.google and in t…"
-    },
-    {
-      "id": "67c5a715f2f975a49c5f9f187169f8d228190388",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "See how easy it is to bring your wildest ideas to life with Gemini Omni. \n\nJust select \"Create video...",
-      "url": "https://x.com/GeminiApp/status/2062576239001690146",
-      "published_at": "2026-06-04T16:44:30Z",
-      "summary": "See how easy it is to bring your wildest ideas to life with Gemini Omni. Just select \"Create videos\" in Gemini, add text, video, or up to five images, and let your imagination run wild.💬61🔄66❤️701👀2063844📊150⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "927e71511eb89297ce6dfbed31740150c23e6696",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "With the new memory system, you can review and steer what ChatGPT remembers through a memory summary...",
-      "url": "https://x.com/OpenAI/status/2062567559673856346",
-      "published_at": "2026-06-04T16:10:01Z",
-      "summary": "With the new memory system, you can review and steer what ChatGPT remembers through a memory summary, with more visibility and control over how context is used.Your browser does not support the video tag.🔗 View on Twitter💬27🔄77❤️1432👀204257📊165⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "25957d8934b1d43edf11b4cab6943a9fe8a6dfc4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "The new memory system will keep track of important details automatically. If you prefer the legacy s...",
-      "url": "https://x.com/OpenAI/status/2062567561276100809",
-      "published_at": "2026-06-04T16:10:01Z",
-      "summary": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings. The new memory system is rolling out to Plus and Pro users in the US today, along with 2x more memory. To access it on iO…"
-    },
-    {
-      "id": "525800aa53fc41536d8cacee1d537648a42c3d0a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt ...",
-      "url": "https://x.com/OpenAI/status/2062567558252007554",
-      "published_at": "2026-06-04T16:10:01Z",
-      "summary": "We’re building ChatGPT to remember what matters, follow your preferences and constraints, and adapt as things change. If you tell ChatGPT you’re planning a trip in July, memory should understand when the trip is upcoming, happening, and already over. That helps ChatGPT keep givin…"
-    },
-    {
-      "id": "4acd20edd91d365aa797b358143a290db6cf72e4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it...",
-      "url": "https://x.com/OpenAI/status/2062567556524003631",
-      "published_at": "2026-06-04T16:10:00Z",
-      "summary": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time. Today, that work is rolling out as a more capable memory system in ChatGPT. openai.com/index/chatgpt-…💬587🔄890❤️8609👀1843975📊1648⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "89d8621cf8bd628042766fe1ee8e3d64bb78f72f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "详情：https://t.co/wI2cSBZobV",
-      "url": "https://x.com/op7418/status/2062567543076987098",
-      "published_at": "2026-06-04T16:09:57Z",
-      "summary": "详情：github.com/op7418/CodePil…💬1🔄0❤️3👀4057📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d75be223651fd3ecd4df4e7ef082bf514d0dc392",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "CodePilot v0.55.0 正式版已经更新！\n\n重构完成的正式版：\n\n多执行引擎（Claude Code / 自建 Native / OpenAI Codex）、上下文用量可视化、Codex ...",
-      "url": "https://x.com/op7418/status/2062567442568933720",
-      "published_at": "2026-06-04T16:09:33Z",
-      "summary": "CodePilot v0.55.0 正式版已经更新！ 重构完成的正式版： 多执行引擎（Claude Code / 自建 Native / OpenAI Codex）、上下文用量可视化、Codex 账号原生能力全部落地为稳定版，并集中修复了 macOS 视觉与托盘、Windows 安装与交互、服务商型号映射等内测反馈问题。 🆕新增功能 多执行引擎，可整体切换也可按会话切换 — 同一个应用里支持 Anthropic Claude Code、CodePilot 自建 Native、OpenAI Codex 三种执行引擎；可以设全局默认，也能在单个对话的输入框下…"
-    },
-    {
-      "id": "ac575646054aaa44969e42b3ea0318309bfdb025",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "即览的新版已经上传，各位可以去 TestFlight 里面更新新版了。\n\n本次更新内容：\n1. 修复了一堆 Bug\n2. 同时支持了 iOS 17 和 iOS 18 系统",
-      "url": "https://x.com/op7418/status/2062563287225733565",
-      "published_at": "2026-06-04T15:53:02Z",
-      "summary": "即览的新版已经上传，各位可以去 TestFlight 里面更新新版了。 本次更新内容： 1. 修复了一堆 Bug 2. 同时支持了 iOS 17 和 iOS 18 系统歸藏(guizang.ai)@op7418x.com/i/article/2062…🔗 View Quoted Tweet💬24🔄0❤️26👀13741📊19⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "6c92c1b71a72df8b548802f4aad627b4354b2045",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "说一下 guizang PPT Skills 还会继续更新啊。\n\n得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。\n\n同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT S...",
-      "url": "https://x.com/op7418/status/2062558698107797562",
-      "published_at": "2026-06-04T15:34:48Z",
-      "summary": "说一下 guizang PPT Skills 还会继续更新啊。 得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。 同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT Skills 的新版里面。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬18🔄20❤️138👀32783📊44⚡ Powered by xgo.ing"
     }
   ]
 }
