@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-05T19:15:15.244540Z",
+  "generated_at": "2026-06-05T21:06:31.326718Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 383,
+      "duration_ms": 2328,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 37,
+      "duration_ms": 145,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1914,
+      "duration_ms": 1975,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1949,
+      "duration_ms": 1891,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 730,
+      "duration_ms": 1217,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1658,
+      "duration_ms": 3164,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -103,7 +103,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2281,
+      "duration_ms": 2303,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 232,
+      "duration_ms": 169,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2373,
+      "duration_ms": 2664,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +159,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2149,
+      "duration_ms": 2588,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -208,7 +208,7 @@
           "title": "啊？咋就抖音精选了",
           "url": "https://x.com/op7418/status/2062864675658977349",
           "published_at": "2026-06-05T11:50:39Z",
-          "summary": "啊？咋就抖音精选了💬21🔄0❤️19👀4284📊19⚡ Powered by xgo.ing"
+          "summary": "啊？咋就抖音精选了💬22🔄0❤️20👀4494📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "4f89e3ac06694fafe098ab6e88f62a84848ff49c",
@@ -269,7 +269,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -297,7 +297,7 @@
           "title": "You can now create and edit images directly in Gemini Live.\n\nWhether testing out room decor, getting...",
           "url": "https://x.com/GeminiApp/status/2062936486509785385",
           "published_at": "2026-06-05T16:36:00Z",
-          "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬40…"
+          "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬53…"
         },
         {
           "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
@@ -308,7 +308,18 @@
           "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
           "url": "https://x.com/OpenAI/status/2062927046448431587",
           "published_at": "2026-06-05T15:58:29Z",
-          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬263🔄176❤️1728👀187327📊400⚡ Powered by xgo.ing"
+          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬288🔄197❤️1967👀226138📊446⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1bfb4d3257668072b111dc4d7024887b2056d452",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "Jun 5, 2026ScienceMaking Claude a chemist",
+          "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+          "published_at": "2026-06-05T00:00:00Z",
+          "summary": "Jun 5, 2026ScienceMaking Claude a chemist"
         },
         {
           "id": "192c35768df5d43209b1224b3924f9f061e5aaf9",
@@ -319,29 +330,7 @@
           "title": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻\n\nSimply press both Co...",
           "url": "https://x.com/GeminiApp/status/2062652523945836770",
           "published_at": "2026-06-04T21:47:38Z",
-          "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄92❤️802👀81279📊171⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7eb7ff729704f1cd9e6935543b29527168eedea9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/1sYUSLF1cJ\n\nApple\nhttps://t.co/zel5cpTVqT\n\nYo...",
-          "url": "https://x.com/OpenAI/status/2062630458433917126",
-          "published_at": "2026-06-04T20:19:57Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬12🔄6❤️96👀70185📊20⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "cfe07160349d83e3a1d5697620d52673e68f7ebd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture?\n\nRes...",
-          "url": "https://x.com/OpenAI/status/2062630454537424930",
-          "published_at": "2026-06-04T20:19:56Z",
-          "summary": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture? Researchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with @AndrewMayne and explained how mathematicians and models can work together to make new disc…"
+          "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄94❤️823👀84338📊174⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -367,7 +356,7 @@
       "title": "You can now create and edit images directly in Gemini Live.\n\nWhether testing out room decor, getting...",
       "url": "https://x.com/GeminiApp/status/2062936486509785385",
       "published_at": "2026-06-05T16:36:00Z",
-      "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬40…"
+      "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬53…"
     },
     {
       "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
@@ -378,7 +367,7 @@
       "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
       "url": "https://x.com/OpenAI/status/2062927046448431587",
       "published_at": "2026-06-05T15:58:29Z",
-      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬263🔄176❤️1728👀187327📊400⚡ Powered by xgo.ing"
+      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬288🔄197❤️1967👀226138📊446⚡ Powered by xgo.ing"
     },
     {
       "id": "b563b83741924eb3157c1f5d03193c3a19c59778",
@@ -400,7 +389,7 @@
       "title": "啊？咋就抖音精选了",
       "url": "https://x.com/op7418/status/2062864675658977349",
       "published_at": "2026-06-05T11:50:39Z",
-      "summary": "啊？咋就抖音精选了💬21🔄0❤️19👀4284📊19⚡ Powered by xgo.ing"
+      "summary": "啊？咋就抖音精选了💬22🔄0❤️20👀4494📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "4f89e3ac06694fafe098ab6e88f62a84848ff49c",
@@ -458,6 +447,17 @@
       "summary": "AI 早报 2026-06-05 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 NVIDIA 正式发布并开源 Nemotron 3 Ultra 模型 ↗ #1 OpenAI 发布 ChatGPT 新记忆架构 Dreaming ↗ #2 Anthropic 称 AI 递归自我改进或比预期更快到来 ↗ #3 模型发布 字节跳动开源 Bernini 统一视频生成与编辑框架 ↗ #4 Higgs Audio v3 TTS 发布 支持百种语言与声音克隆 ↗ #5 Google Magenta 发布实时音乐生成模型 Magenta RealTime 2 ↗ #6…"
     },
     {
+      "id": "1bfb4d3257668072b111dc4d7024887b2056d452",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "Jun 5, 2026ScienceMaking Claude a chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "published_at": "2026-06-05T00:00:00Z",
+      "summary": "Jun 5, 2026ScienceMaking Claude a chemist"
+    },
+    {
       "id": "192c35768df5d43209b1224b3924f9f061e5aaf9",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -466,29 +466,7 @@
       "title": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻\n\nSimply press both Co...",
       "url": "https://x.com/GeminiApp/status/2062652523945836770",
       "published_at": "2026-06-04T21:47:38Z",
-      "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄92❤️802👀81279📊171⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7eb7ff729704f1cd9e6935543b29527168eedea9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/1sYUSLF1cJ\n\nApple\nhttps://t.co/zel5cpTVqT\n\nYo...",
-      "url": "https://x.com/OpenAI/status/2062630458433917126",
-      "published_at": "2026-06-04T20:19:57Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬12🔄6❤️96👀70185📊20⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "cfe07160349d83e3a1d5697620d52673e68f7ebd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture?\n\nRes...",
-      "url": "https://x.com/OpenAI/status/2062630454537424930",
-      "published_at": "2026-06-04T20:19:56Z",
-      "summary": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture? Researchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with @AndrewMayne and explained how mathematicians and models can work together to make new disc…"
+      "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄94❤️823👀84338📊174⚡ Powered by xgo.ing"
     }
   ]
 }
