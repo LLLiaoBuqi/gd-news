@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-05T17:10:06.489529Z",
+  "generated_at": "2026-06-05T19:15:15.244540Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 10,
   "failed_feeds": [
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 834,
+      "duration_ms": 383,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 22,
+      "duration_ms": 37,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1647,
+      "duration_ms": 1914,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1418,
+      "duration_ms": 1949,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 808,
+      "duration_ms": 730,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1189,
+      "duration_ms": 1658,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -103,7 +103,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1390,
+      "duration_ms": 2281,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 248,
+      "duration_ms": 232,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1927,
+      "duration_ms": 2373,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 753,
+      "duration_ms": 2149,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -208,7 +208,7 @@
           "title": "啊？咋就抖音精选了",
           "url": "https://x.com/op7418/status/2062864675658977349",
           "published_at": "2026-06-05T11:50:39Z",
-          "summary": "啊？咋就抖音精选了💬16🔄0❤️16👀3715📊15⚡ Powered by xgo.ing"
+          "summary": "啊？咋就抖音精选了💬21🔄0❤️19👀4284📊19⚡ Powered by xgo.ing"
         },
         {
           "id": "4f89e3ac06694fafe098ab6e88f62a84848ff49c",
@@ -269,7 +269,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 6,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -277,6 +277,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "bf6e41eb901efa0f0851c6b10d138c5d43cdb55f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Here’s this week’s shipping recap 👇\n\n— Nano Banana 2 & Nano Banana Pro are now GA and available via...",
+          "url": "https://x.com/GoogleAI/status/2062942864288387430",
+          "published_at": "2026-06-05T17:01:21Z",
+          "summary": "Here’s this week’s shipping recap 👇 — Nano Banana 2 & Nano Banana Pro are now GA and available via the Gemini Enterprise Agent Platform, Gemini API, and in @GoogleAIStudio —Co-Scientist, our new multi-agent system for structured scientific thinking, generates and refines novel hy…"
+        },
+        {
+          "id": "a1fbf5002bc6693ea56765edca84d249a2731b2c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "You can now create and edit images directly in Gemini Live.\n\nWhether testing out room decor, getting...",
+          "url": "https://x.com/GeminiApp/status/2062936486509785385",
+          "published_at": "2026-06-05T16:36:00Z",
+          "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬40…"
+        },
         {
           "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
           "site_id": "featuredrss",
@@ -286,7 +308,7 @@
           "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
           "url": "https://x.com/OpenAI/status/2062927046448431587",
           "published_at": "2026-06-05T15:58:29Z",
-          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬197🔄127❤️1219👀104487📊294⚡ Powered by xgo.ing"
+          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬263🔄176❤️1728👀187327📊400⚡ Powered by xgo.ing"
         },
         {
           "id": "192c35768df5d43209b1224b3924f9f061e5aaf9",
@@ -297,7 +319,7 @@
           "title": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻\n\nSimply press both Co...",
           "url": "https://x.com/GeminiApp/status/2062652523945836770",
           "published_at": "2026-06-04T21:47:38Z",
-          "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄88❤️776👀78190📊168⚡ Powered by xgo.ing"
+          "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄92❤️802👀81279📊171⚡ Powered by xgo.ing"
         },
         {
           "id": "7eb7ff729704f1cd9e6935543b29527168eedea9",
@@ -308,7 +330,7 @@
           "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/1sYUSLF1cJ\n\nApple\nhttps://t.co/zel5cpTVqT\n\nYo...",
           "url": "https://x.com/OpenAI/status/2062630458433917126",
           "published_at": "2026-06-04T20:19:57Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬12🔄6❤️94👀68212📊20⚡ Powered by xgo.ing"
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬12🔄6❤️96👀70185📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "cfe07160349d83e3a1d5697620d52673e68f7ebd",
@@ -326,6 +348,28 @@
   },
   "items": [
     {
+      "id": "bf6e41eb901efa0f0851c6b10d138c5d43cdb55f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Here’s this week’s shipping recap 👇\n\n— Nano Banana 2 & Nano Banana Pro are now GA and available via...",
+      "url": "https://x.com/GoogleAI/status/2062942864288387430",
+      "published_at": "2026-06-05T17:01:21Z",
+      "summary": "Here’s this week’s shipping recap 👇 — Nano Banana 2 & Nano Banana Pro are now GA and available via the Gemini Enterprise Agent Platform, Gemini API, and in @GoogleAIStudio —Co-Scientist, our new multi-agent system for structured scientific thinking, generates and refines novel hy…"
+    },
+    {
+      "id": "a1fbf5002bc6693ea56765edca84d249a2731b2c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "You can now create and edit images directly in Gemini Live.\n\nWhether testing out room decor, getting...",
+      "url": "https://x.com/GeminiApp/status/2062936486509785385",
+      "published_at": "2026-06-05T16:36:00Z",
+      "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬40…"
+    },
+    {
       "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -334,7 +378,7 @@
       "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
       "url": "https://x.com/OpenAI/status/2062927046448431587",
       "published_at": "2026-06-05T15:58:29Z",
-      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬197🔄127❤️1219👀104487📊294⚡ Powered by xgo.ing"
+      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬263🔄176❤️1728👀187327📊400⚡ Powered by xgo.ing"
     },
     {
       "id": "b563b83741924eb3157c1f5d03193c3a19c59778",
@@ -356,7 +400,7 @@
       "title": "啊？咋就抖音精选了",
       "url": "https://x.com/op7418/status/2062864675658977349",
       "published_at": "2026-06-05T11:50:39Z",
-      "summary": "啊？咋就抖音精选了💬16🔄0❤️16👀3715📊15⚡ Powered by xgo.ing"
+      "summary": "啊？咋就抖音精选了💬21🔄0❤️19👀4284📊19⚡ Powered by xgo.ing"
     },
     {
       "id": "4f89e3ac06694fafe098ab6e88f62a84848ff49c",
@@ -422,7 +466,7 @@
       "title": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻\n\nSimply press both Co...",
       "url": "https://x.com/GeminiApp/status/2062652523945836770",
       "published_at": "2026-06-04T21:47:38Z",
-      "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄88❤️776👀78190📊168⚡ Powered by xgo.ing"
+      "summary": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Command ⌘ keys at the same time to seamlessly attach your active window to the chat, without needing to take manual screenshots or switch tabs.💬50🔄92❤️802👀81279📊171⚡ Powered by xgo.ing"
     },
     {
       "id": "7eb7ff729704f1cd9e6935543b29527168eedea9",
@@ -433,7 +477,7 @@
       "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/1sYUSLF1cJ\n\nApple\nhttps://t.co/zel5cpTVqT\n\nYo...",
       "url": "https://x.com/OpenAI/status/2062630458433917126",
       "published_at": "2026-06-04T20:19:57Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬12🔄6❤️94👀68212📊20⚡ Powered by xgo.ing"
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/3ca5s3… Apple podcasts.apple.com/us/podcast/how… YouTube youtu.be/wNWz5Hbh5VQ💬12🔄6❤️96👀70185📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "cfe07160349d83e3a1d5697620d52673e68f7ebd",
