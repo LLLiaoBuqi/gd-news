@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T04:34:08.695860Z",
+  "generated_at": "2026-06-06T07:43:06.500442Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 7,
@@ -19,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 296,
+      "duration_ms": 306,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 56,
+      "duration_ms": 252,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1346,
+      "duration_ms": 1534,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1146,
+      "duration_ms": 1342,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 670,
+      "duration_ms": 677,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +89,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 6142,
+      "duration_ms": 4512,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 4574,
+      "duration_ms": 3296,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -131,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 256,
+      "duration_ms": 229,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1695,
+      "duration_ms": 2165,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 5417,
+      "duration_ms": 5840,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -188,6 +188,17 @@
       "ok_feeds": 5,
       "failed_feeds": [],
       "items": [
+        {
+          "id": "325e90732fe62b55204aed60c36ee0c35b086a33",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这个点子好，在朋友或者是父母的电脑上装个 codex。\n\n然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。",
+          "url": "https://x.com/op7418/status/2063154662417866900",
+          "published_at": "2026-06-06T07:02:57Z",
+          "summary": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。Andrew Ambrosino@ajambrosinoinstall codex on your parents’ computers so you can fix stuff remotely🔗 View Quoted Tweet💬0🔄0❤️0👀233⚡ Powered by xgo.ing"
+        },
         {
           "id": "88bc6d094ebc0c366cf99f7e83d1c1407993abf2",
           "site_id": "featuredrss",
@@ -219,18 +230,7 @@
           "title": "啊？咋就抖音精选了",
           "url": "https://x.com/op7418/status/2062864675658977349",
           "published_at": "2026-06-05T11:50:39Z",
-          "summary": "啊？咋就抖音精选了💬33🔄0❤️27👀5573📊29⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4f89e3ac06694fafe098ab6e88f62a84848ff49c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "发现有些朋友在用 GitHub 的时候，什么发言啊什么的，什么原生啊，看得老重了。\n\n但是就是不知道看那个版权协议。\n\n注意哦，这个 PPT skill 的版权求必须署名并且开源。如果不想开源的话，联...",
-          "url": "https://x.com/op7418/status/2062801259544068176",
-          "published_at": "2026-06-05T07:38:39Z",
-          "summary": "发现有些朋友在用 GitHub 的时候，什么发言啊什么的，什么原生啊，看得老重了。 但是就是不知道看那个版权协议。 注意哦，这个 PPT skill 的版权求必须署名并且开源。如果不想开源的话，联系我走商业授权。 就是抄点子也就算了，直接抄代码，还有的直接抄名字。歸藏(guizang.ai)@op7418说一下 guizang PPT Skills 还会继续更新啊。 得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。 同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT Skills 的新版里面。🔗 View Quoted Twe…"
+          "summary": "啊？咋就抖音精选了💬39🔄0❤️29👀6120📊35⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -264,7 +264,7 @@
           "title": "You can now create and edit images directly in Gemini Live.\n\nWhether testing out room decor, getting...",
           "url": "https://x.com/GeminiApp/status/2062936486509785385",
           "published_at": "2026-06-05T16:36:00Z",
-          "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬67…"
+          "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬68…"
         },
         {
           "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
@@ -275,12 +275,23 @@
           "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
           "url": "https://x.com/OpenAI/status/2062927046448431587",
           "published_at": "2026-06-05T15:58:29Z",
-          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬370🔄262❤️2519👀367191📊578⚡ Powered by xgo.ing"
+          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬387🔄289❤️2671👀415342📊611⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "325e90732fe62b55204aed60c36ee0c35b086a33",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这个点子好，在朋友或者是父母的电脑上装个 codex。\n\n然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。",
+      "url": "https://x.com/op7418/status/2063154662417866900",
+      "published_at": "2026-06-06T07:02:57Z",
+      "summary": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。Andrew Ambrosino@ajambrosinoinstall codex on your parents’ computers so you can fix stuff remotely🔗 View Quoted Tweet💬0🔄0❤️0👀233⚡ Powered by xgo.ing"
+    },
     {
       "id": "88bc6d094ebc0c366cf99f7e83d1c1407993abf2",
       "site_id": "featuredrss",
@@ -312,7 +323,7 @@
       "title": "You can now create and edit images directly in Gemini Live.\n\nWhether testing out room decor, getting...",
       "url": "https://x.com/GeminiApp/status/2062936486509785385",
       "published_at": "2026-06-05T16:36:00Z",
-      "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬67…"
+      "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬68…"
     },
     {
       "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
@@ -323,7 +334,7 @@
       "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
       "url": "https://x.com/OpenAI/status/2062927046448431587",
       "published_at": "2026-06-05T15:58:29Z",
-      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬370🔄262❤️2519👀367191📊578⚡ Powered by xgo.ing"
+      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬387🔄289❤️2671👀415342📊611⚡ Powered by xgo.ing"
     },
     {
       "id": "b563b83741924eb3157c1f5d03193c3a19c59778",
@@ -345,18 +356,7 @@
       "title": "啊？咋就抖音精选了",
       "url": "https://x.com/op7418/status/2062864675658977349",
       "published_at": "2026-06-05T11:50:39Z",
-      "summary": "啊？咋就抖音精选了💬33🔄0❤️27👀5573📊29⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4f89e3ac06694fafe098ab6e88f62a84848ff49c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "发现有些朋友在用 GitHub 的时候，什么发言啊什么的，什么原生啊，看得老重了。\n\n但是就是不知道看那个版权协议。\n\n注意哦，这个 PPT skill 的版权求必须署名并且开源。如果不想开源的话，联...",
-      "url": "https://x.com/op7418/status/2062801259544068176",
-      "published_at": "2026-06-05T07:38:39Z",
-      "summary": "发现有些朋友在用 GitHub 的时候，什么发言啊什么的，什么原生啊，看得老重了。 但是就是不知道看那个版权协议。 注意哦，这个 PPT skill 的版权求必须署名并且开源。如果不想开源的话，联系我走商业授权。 就是抄点子也就算了，直接抄代码，还有的直接抄名字。歸藏(guizang.ai)@op7418说一下 guizang PPT Skills 还会继续更新啊。 得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。 同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT Skills 的新版里面。🔗 View Quoted Twe…"
+      "summary": "啊？咋就抖音精选了💬39🔄0❤️29👀6120📊35⚡ Powered by xgo.ing"
     }
   ]
 }
