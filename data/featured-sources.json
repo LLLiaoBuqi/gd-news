@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-06-06T07:43:06.500442Z",
+  "generated_at": "2026-06-06T09:58:04.558822Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "feed_total": 12,
-  "ok_feeds": 10,
+  "ok_feeds": 9,
   "failed_feeds": [
     "rsshub://bilibili/user/video/302188068",
+    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -19,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 306,
+      "duration_ms": 319,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 252,
+      "duration_ms": 31,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1534,
+      "duration_ms": 5425,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1342,
+      "duration_ms": 1513,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 677,
+      "duration_ms": 802,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -89,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 4512,
+      "duration_ms": 10052,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -115,10 +116,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 3296,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12080,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -131,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 229,
+      "duration_ms": 251,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2165,
+      "duration_ms": 2212,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -159,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -173,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 5840,
+      "duration_ms": 3332,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -183,11 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 5,
       "feed_total": 5,
-      "ok_feeds": 5,
-      "failed_feeds": [],
+      "ok_feeds": 4,
+      "failed_feeds": [
+        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml"
+      ],
       "items": [
+        {
+          "id": "085e574cdbcfb25d5de0c04b3020e547827d481a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "北京这几天的天气是真的好",
+          "url": "https://x.com/op7418/status/2063161575410893268",
+          "published_at": "2026-06-06T07:30:25Z",
+          "summary": "北京这几天的天气是真的好💬14🔄0❤️17👀2440📊13⚡ Powered by xgo.ing"
+        },
         {
           "id": "325e90732fe62b55204aed60c36ee0c35b086a33",
           "site_id": "featuredrss",
@@ -197,7 +211,7 @@
           "title": "这个点子好，在朋友或者是父母的电脑上装个 codex。\n\n然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。",
           "url": "https://x.com/op7418/status/2063154662417866900",
           "published_at": "2026-06-06T07:02:57Z",
-          "summary": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。Andrew Ambrosino@ajambrosinoinstall codex on your parents’ computers so you can fix stuff remotely🔗 View Quoted Tweet💬0🔄0❤️0👀233⚡ Powered by xgo.ing"
+          "summary": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。Andrew Ambrosino@ajambrosinoinstall codex on your parents’ computers so you can fix stuff remotely🔗 View Quoted Tweet💬12🔄0❤️17👀6302📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "88bc6d094ebc0c366cf99f7e83d1c1407993abf2",
@@ -230,7 +244,7 @@
           "title": "啊？咋就抖音精选了",
           "url": "https://x.com/op7418/status/2062864675658977349",
           "published_at": "2026-06-05T11:50:39Z",
-          "summary": "啊？咋就抖音精选了💬39🔄0❤️29👀6120📊35⚡ Powered by xgo.ing"
+          "summary": "啊？咋就抖音精选了💬42🔄0❤️30👀6457📊37⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -264,7 +278,7 @@
           "title": "You can now create and edit images directly in Gemini Live.\n\nWhether testing out room decor, getting...",
           "url": "https://x.com/GeminiApp/status/2062936486509785385",
           "published_at": "2026-06-05T16:36:00Z",
-          "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬68…"
+          "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬72…"
         },
         {
           "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
@@ -275,12 +289,23 @@
           "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
           "url": "https://x.com/OpenAI/status/2062927046448431587",
           "published_at": "2026-06-05T15:58:29Z",
-          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬387🔄289❤️2671👀415342📊611⚡ Powered by xgo.ing"
+          "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬398🔄300❤️2747👀442674📊629⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "085e574cdbcfb25d5de0c04b3020e547827d481a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "北京这几天的天气是真的好",
+      "url": "https://x.com/op7418/status/2063161575410893268",
+      "published_at": "2026-06-06T07:30:25Z",
+      "summary": "北京这几天的天气是真的好💬14🔄0❤️17👀2440📊13⚡ Powered by xgo.ing"
+    },
     {
       "id": "325e90732fe62b55204aed60c36ee0c35b086a33",
       "site_id": "featuredrss",
@@ -290,7 +315,7 @@
       "title": "这个点子好，在朋友或者是父母的电脑上装个 codex。\n\n然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。",
       "url": "https://x.com/op7418/status/2063154662417866900",
       "published_at": "2026-06-06T07:02:57Z",
-      "summary": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。Andrew Ambrosino@ajambrosinoinstall codex on your parents’ computers so you can fix stuff remotely🔗 View Quoted Tweet💬0🔄0❤️0👀233⚡ Powered by xgo.ing"
+      "summary": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。Andrew Ambrosino@ajambrosinoinstall codex on your parents’ computers so you can fix stuff remotely🔗 View Quoted Tweet💬12🔄0❤️17👀6302📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "88bc6d094ebc0c366cf99f7e83d1c1407993abf2",
@@ -323,7 +348,7 @@
       "title": "You can now create and edit images directly in Gemini Live.\n\nWhether testing out room decor, getting...",
       "url": "https://x.com/GeminiApp/status/2062936486509785385",
       "published_at": "2026-06-05T16:36:00Z",
-      "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬68…"
+      "summary": "You can now create and edit images directly in Gemini Live. Whether testing out room decor, getting help with math, or creating shareable memes, it all happens in real-time. Just open the Gemini app, tap the Live button, share your camera, and tell Gemini what you want to see.💬72…"
     },
     {
       "id": "4055cd69812c6032920380c20bdfa17c6eb25257",
@@ -334,7 +359,7 @@
       "title": "An issue caused some user accounts to be incorrectly suspended. \n\nWe’re restoring access and working...",
       "url": "https://x.com/OpenAI/status/2062927046448431587",
       "published_at": "2026-06-05T15:58:29Z",
-      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬387🔄289❤️2671👀415342📊611⚡ Powered by xgo.ing"
+      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. status.openai.com/incidents/ejj4…💬398🔄300❤️2747👀442674📊629⚡ Powered by xgo.ing"
     },
     {
       "id": "b563b83741924eb3157c1f5d03193c3a19c59778",
@@ -356,7 +381,7 @@
       "title": "啊？咋就抖音精选了",
       "url": "https://x.com/op7418/status/2062864675658977349",
       "published_at": "2026-06-05T11:50:39Z",
-      "summary": "啊？咋就抖音精选了💬39🔄0❤️29👀6120📊35⚡ Powered by xgo.ing"
+      "summary": "啊？咋就抖音精选了💬42🔄0❤️30👀6457📊37⚡ Powered by xgo.ing"
     }
   ]
 }
