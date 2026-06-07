@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-06-07T08:33:35.007096Z",
+  "generated_at": "2026-06-07T11:03:49.017132Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 2,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 10,
   "failed_feeds": [
-    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
     "rsshub://bilibili/user/video/385670211"
   ],
@@ -34,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 22,
+      "duration_ms": 19,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1292,
+      "duration_ms": 1355,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1165,
+      "duration_ms": 1230,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 555,
+      "duration_ms": 544,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -88,10 +87,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12102,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 2415,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -118,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 11106,
+      "duration_ms": 1811,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1838,
+      "duration_ms": 2058,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 8908,
+      "duration_ms": 2033,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -186,10 +185,8 @@
       "label": "国内精选",
       "total_items": 2,
       "feed_total": 5,
-      "ok_feeds": 4,
-      "failed_feeds": [
-        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml"
-      ],
+      "ok_feeds": 5,
+      "failed_feeds": [],
       "items": [
         {
           "id": "ad34f3123fe5c3fcadce57e77a21f085ec2a502d",
@@ -211,7 +208,7 @@
           "title": "一定有人说了，向日葵不行吗\n\n向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作",
           "url": "https://x.com/op7418/status/2063228766894334159",
           "published_at": "2026-06-06T11:57:25Z",
-          "summary": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作💬0🔄0❤️3👀4431📊1⚡ Powered by xgo.ing"
+          "summary": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作💬0🔄0❤️4👀4558📊1⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -248,7 +245,7 @@
       "title": "一定有人说了，向日葵不行吗\n\n向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作",
       "url": "https://x.com/op7418/status/2063228766894334159",
       "published_at": "2026-06-06T11:57:25Z",
-      "summary": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作💬0🔄0❤️3👀4431📊1⚡ Powered by xgo.ing"
+      "summary": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作💬0🔄0❤️4👀4558📊1⚡ Powered by xgo.ing"
     }
   ]
 }
