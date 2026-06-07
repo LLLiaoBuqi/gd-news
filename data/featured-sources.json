@@ -1,16 +1,14 @@
 {
-  "generated_at": "2026-06-07T00:04:41.949555Z",
+  "generated_at": "2026-06-07T08:33:35.007096Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 2,
   "feed_total": 12,
-  "ok_feeds": 7,
+  "ok_feeds": 9,
   "failed_feeds": [
     "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
-    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-    "rsshub://bilibili/user/video/385670211",
-    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+    "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -22,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 296,
+      "duration_ms": 277,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -36,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 20,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -50,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1449,
+      "duration_ms": 1292,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -64,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1263,
+      "duration_ms": 1165,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -78,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 599,
+      "duration_ms": 555,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -92,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12134,
+      "duration_ms": 12102,
       "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -118,10 +116,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12139,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 11106,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -134,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 254,
+      "duration_ms": 235,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -148,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1764,
+      "duration_ms": 1838,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,10 +172,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12132,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 8908,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -186,15 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 2,
       "feed_total": 5,
-      "ok_feeds": 2,
+      "ok_feeds": 4,
       "failed_feeds": [
-        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml"
       ],
       "items": [
+        {
+          "id": "ad34f3123fe5c3fcadce57e77a21f085ec2a502d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "橘鸦AI早报",
+          "region": "domestic",
+          "title": "2026-06-07",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-114",
+          "published_at": "2026-06-07T00:58:51Z",
+          "summary": "AI 早报 2026-06-07 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 Cohere 发布其首个编程模型 BLS-Mini-Code-1.0 早期权重 ↗ #1 研究团队推出开源 20B 搜索 Agent Harness-1 ↗ #2 开发生态 Nous Research 发布 Hermes Agent v0.16.0 ↗ #3 前瞻与传闻 消息称OpenAI与美政府正谈判入股事宜 ↗ #4 消息称 Anthropic 新模型 Claude Mythos 5 在 API 中短暂现身 ↗ #5 Cohere 发布其首个编程模型 BLS-Mi…"
+        },
         {
           "id": "02fca920ce273d710ccabec87fedc819d2e6e2f3",
           "site_id": "featuredrss",
@@ -204,40 +211,7 @@
           "title": "一定有人说了，向日葵不行吗\n\n向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作",
           "url": "https://x.com/op7418/status/2063228766894334159",
           "published_at": "2026-06-06T11:57:25Z",
-          "summary": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作💬0🔄0❤️2👀3668📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "085e574cdbcfb25d5de0c04b3020e547827d481a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "北京这几天的天气是真的好",
-          "url": "https://x.com/op7418/status/2063161575410893268",
-          "published_at": "2026-06-06T07:30:25Z",
-          "summary": "北京这几天的天气是真的好💬45🔄0❤️50👀14291📊41⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "325e90732fe62b55204aed60c36ee0c35b086a33",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这个点子好，在朋友或者是父母的电脑上装个 codex。\n\n然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。",
-          "url": "https://x.com/op7418/status/2063154662417866900",
-          "published_at": "2026-06-06T07:02:57Z",
-          "summary": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。💬47🔄1❤️46👀33801📊48⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "88bc6d094ebc0c366cf99f7e83d1c1407993abf2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "橘鸦AI早报",
-          "region": "domestic",
-          "title": "2026-06-06",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-113",
-          "published_at": "2026-06-06T01:06:47Z",
-          "summary": "AI 早报 2026-06-06 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 确认系统 Bug 导致部分账户被误封 ↗ #1 OpenAI 发布 Codex 更新：新增设置搜索与状态保存功能 ↗ #2 ChatGPT web端writing blocks新增直接发送邮件功能 ↗ #3 模型发布 Google 发布 Gemma 4 QAT 权重及全新移动端量化格式 ↗ #4 小红书 rednote-hilab 开源 20 亿参数 dots.tts ↗ #5 OpenRouter上线图像模型Riverflow 2.5并提供限时免费调用 ↗…"
+          "summary": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作💬0🔄0❤️3👀4431📊1⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -255,6 +229,17 @@
   },
   "items": [
     {
+      "id": "ad34f3123fe5c3fcadce57e77a21f085ec2a502d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "橘鸦AI早报",
+      "region": "domestic",
+      "title": "2026-06-07",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-114",
+      "published_at": "2026-06-07T00:58:51Z",
+      "summary": "AI 早报 2026-06-07 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 Cohere 发布其首个编程模型 BLS-Mini-Code-1.0 早期权重 ↗ #1 研究团队推出开源 20B 搜索 Agent Harness-1 ↗ #2 开发生态 Nous Research 发布 Hermes Agent v0.16.0 ↗ #3 前瞻与传闻 消息称OpenAI与美政府正谈判入股事宜 ↗ #4 消息称 Anthropic 新模型 Claude Mythos 5 在 API 中短暂现身 ↗ #5 Cohere 发布其首个编程模型 BLS-Mi…"
+    },
+    {
       "id": "02fca920ce273d710ccabec87fedc819d2e6e2f3",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -263,40 +248,7 @@
       "title": "一定有人说了，向日葵不行吗\n\n向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作",
       "url": "https://x.com/op7418/status/2063228766894334159",
       "published_at": "2026-06-06T11:57:25Z",
-      "summary": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作💬0🔄0❤️2👀3668📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "085e574cdbcfb25d5de0c04b3020e547827d481a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "北京这几天的天气是真的好",
-      "url": "https://x.com/op7418/status/2063161575410893268",
-      "published_at": "2026-06-06T07:30:25Z",
-      "summary": "北京这几天的天气是真的好💬45🔄0❤️50👀14291📊41⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "325e90732fe62b55204aed60c36ee0c35b086a33",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这个点子好，在朋友或者是父母的电脑上装个 codex。\n\n然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。",
-      "url": "https://x.com/op7418/status/2063154662417866900",
-      "published_at": "2026-06-06T07:02:57Z",
-      "summary": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。💬47🔄1❤️46👀33801📊48⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "88bc6d094ebc0c366cf99f7e83d1c1407993abf2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "橘鸦AI早报",
-      "region": "domestic",
-      "title": "2026-06-06",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-113",
-      "published_at": "2026-06-06T01:06:47Z",
-      "summary": "AI 早报 2026-06-06 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 确认系统 Bug 导致部分账户被误封 ↗ #1 OpenAI 发布 Codex 更新：新增设置搜索与状态保存功能 ↗ #2 ChatGPT web端writing blocks新增直接发送邮件功能 ↗ #3 模型发布 Google 发布 Gemma 4 QAT 权重及全新移动端量化格式 ↗ #4 小红书 rednote-hilab 开源 20 亿参数 dots.tts ↗ #5 OpenRouter上线图像模型Riverflow 2.5并提供限时免费调用 ↗…"
+      "summary": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作💬0🔄0❤️3👀4431📊1⚡ Powered by xgo.ing"
     }
   ]
 }
