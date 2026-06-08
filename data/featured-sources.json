@@ -1,13 +1,16 @@
 {
-  "generated_at": "2026-06-07T23:10:58.071887Z",
+  "generated_at": "2026-06-08T01:39:01.284215Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 1,
   "feed_total": 12,
-  "ok_feeds": 10,
+  "ok_feeds": 7,
   "failed_feeds": [
+    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
-    "rsshub://bilibili/user/video/385670211"
+    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+    "rsshub://bilibili/user/video/385670211",
+    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -19,7 +22,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 329,
+      "duration_ms": 271,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +36,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 55,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -47,7 +50,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1502,
+      "duration_ms": 1245,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -61,7 +64,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1382,
+      "duration_ms": 1091,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,7 +78,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 754,
+      "duration_ms": 570,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -87,10 +90,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1152,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12102,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -103,7 +106,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -115,10 +118,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 974,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12135,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -131,7 +134,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 294,
+      "duration_ms": 219,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -145,7 +148,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2045,
+      "duration_ms": 2105,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -171,10 +174,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 662,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12117,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -185,19 +188,23 @@
       "label": "国内精选",
       "total_items": 1,
       "feed_total": 5,
-      "ok_feeds": 5,
-      "failed_feeds": [],
+      "ok_feeds": 2,
+      "failed_feeds": [
+        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
+        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
+        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+      ],
       "items": [
         {
-          "id": "ad34f3123fe5c3fcadce57e77a21f085ec2a502d",
+          "id": "239ebb1e01d6035e6da55611620ff4757edb654e",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "橘鸦AI早报",
           "region": "domestic",
-          "title": "2026-06-07",
-          "url": "https://imjuya.github.io/juya-ai-daily/issue-114",
-          "published_at": "2026-06-07T00:58:51Z",
-          "summary": "AI 早报 2026-06-07 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 Cohere 发布其首个编程模型 BLS-Mini-Code-1.0 早期权重 ↗ #1 研究团队推出开源 20B 搜索 Agent Harness-1 ↗ #2 开发生态 Nous Research 发布 Hermes Agent v0.16.0 ↗ #3 前瞻与传闻 消息称OpenAI与美政府正谈判入股事宜 ↗ #4 消息称 Anthropic 新模型 Claude Mythos 5 在 API 中短暂现身 ↗ #5 Cohere 发布其首个编程模型 BLS-Mi…"
+          "title": "2026-06-08",
+          "url": "https://imjuya.github.io/juya-ai-daily/issue-115",
+          "published_at": "2026-06-08T00:52:31Z",
+          "summary": "AI 早报 2026-06-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 剪映宣布将首发 Seedance 2.0 系列的新模型 ↗ #1 开发生态 Codex 负责人宣布 100 天每日评选计划，入选者将获月度 10 倍用量 ↗ #2 产品应用 Notion 因 Opus 模型服务不稳定暂时禁用所有 Anthropic 模型引发争议 ↗ #3 前瞻与传闻 媒体报道 OpenAI 计划将 ChatGPT 改版为“超级应用” ↗ #4 行业动态 OpenAI定制芯片核心成员Clive Chan跳槽至Anthropic ↗ #5 剪映宣布将首发 S…"
         }
       ]
     },
@@ -215,15 +222,15 @@
   },
   "items": [
     {
-      "id": "ad34f3123fe5c3fcadce57e77a21f085ec2a502d",
+      "id": "239ebb1e01d6035e6da55611620ff4757edb654e",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "橘鸦AI早报",
       "region": "domestic",
-      "title": "2026-06-07",
-      "url": "https://imjuya.github.io/juya-ai-daily/issue-114",
-      "published_at": "2026-06-07T00:58:51Z",
-      "summary": "AI 早报 2026-06-07 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 Cohere 发布其首个编程模型 BLS-Mini-Code-1.0 早期权重 ↗ #1 研究团队推出开源 20B 搜索 Agent Harness-1 ↗ #2 开发生态 Nous Research 发布 Hermes Agent v0.16.0 ↗ #3 前瞻与传闻 消息称OpenAI与美政府正谈判入股事宜 ↗ #4 消息称 Anthropic 新模型 Claude Mythos 5 在 API 中短暂现身 ↗ #5 Cohere 发布其首个编程模型 BLS-Mi…"
+      "title": "2026-06-08",
+      "url": "https://imjuya.github.io/juya-ai-daily/issue-115",
+      "published_at": "2026-06-08T00:52:31Z",
+      "summary": "AI 早报 2026-06-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 剪映宣布将首发 Seedance 2.0 系列的新模型 ↗ #1 开发生态 Codex 负责人宣布 100 天每日评选计划，入选者将获月度 10 倍用量 ↗ #2 产品应用 Notion 因 Opus 模型服务不稳定暂时禁用所有 Anthropic 模型引发争议 ↗ #3 前瞻与传闻 媒体报道 OpenAI 计划将 ChatGPT 改版为“超级应用” ↗ #4 行业动态 OpenAI定制芯片核心成员Clive Chan跳槽至Anthropic ↗ #5 剪映宣布将首发 S…"
     }
   ]
 }
