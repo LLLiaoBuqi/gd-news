@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-06-08T18:21:30.928562Z",
+  "generated_at": "2026-06-08T20:38:25.729470Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 17,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 10,
   "failed_feeds": [
-    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
     "rsshub://bilibili/user/video/385670211"
   ],
@@ -20,7 +19,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1071,
+      "duration_ms": 296,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +33,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 20,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +47,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1499,
+      "duration_ms": 1550,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +61,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1564,
+      "duration_ms": 1425,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +75,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 672,
+      "duration_ms": 580,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -88,10 +87,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12112,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1271,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -104,7 +103,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +117,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 11823,
+      "duration_ms": 976,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +131,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 196,
+      "duration_ms": 215,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +145,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2196,
+      "duration_ms": 10965,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +173,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 6968,
+      "duration_ms": 1042,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,12 +183,10 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 13,
+      "total_items": 15,
       "feed_total": 5,
-      "ok_feeds": 4,
-      "failed_feeds": [
-        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml"
-      ],
+      "ok_feeds": 5,
+      "failed_feeds": [],
       "items": [
         {
           "id": "82cef9d23cc970ff082764d8c57d6c23273d32a5",
@@ -200,7 +197,18 @@
           "title": "苹果的做设计现在也是面多了加水，水多了加面。\n\niOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别，\n液态玻璃效果完全没了。\n\n侧边栏从卡片又改回了原来的那个填满的效果",
           "url": "https://x.com/op7418/status/2064034755621118378",
           "published_at": "2026-06-08T17:20:08Z",
-          "summary": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果💬1🔄0❤️4👀477📊1⚡ Powered by xgo.ing"
+          "summary": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果💬9🔄4❤️42👀7684📊12⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e12d6f5931beadc092a4afc38d3111d3e13f4909",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "@dotey 哈哈 你的判断是对的，重新定义 Skill",
+          "url": "https://x.com/op7418/status/2064029622304710955",
+          "published_at": "2026-06-08T16:59:44Z",
+          "summary": "@dotey 哈哈 你的判断是对的，重新定义 Skill💬1🔄0❤️4👀1855📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "d76a9001d1de39f179e67b61ddf28ff086459d30",
@@ -211,7 +219,7 @@
           "title": "提醒一下今晚一点有 WWDC 哦",
           "url": "https://x.com/op7418/status/2063993648350736532",
           "published_at": "2026-06-08T14:36:47Z",
-          "summary": "提醒一下今晚一点有 WWDC 哦💬4🔄0❤️5👀2395📊4⚡ Powered by xgo.ing"
+          "summary": "提醒一下今晚一点有 WWDC 哦💬7🔄0❤️5👀2976📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "9fd583dc1ccf1ac1307a532cb85fd622780db57e",
@@ -222,7 +230,7 @@
           "title": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。",
           "url": "https://x.com/op7418/status/2063991326132383988",
           "published_at": "2026-06-08T14:27:33Z",
-          "summary": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬4🔄2❤️13👀5023📊5⚡ Powered by xgo.ing"
+          "summary": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬5🔄3❤️14👀6082📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "58eea27a47f74348b03dfb703a4562c4ef9ab415",
@@ -255,7 +263,7 @@
           "title": "微信终于要加 AI Agent 能力了？\n\n微信发布了《开发者接入微信 AI 生态的指引》这篇文章，引导小程序开发者接入微信 AI 生态，让微信的 AI 控制小程序。\n\n感觉这个可能是未来微信 AI ...",
           "url": "https://x.com/op7418/status/2063900613990371759",
           "published_at": "2026-06-08T08:27:06Z",
-          "summary": "微信终于要加 AI Agent 能力了？ 微信发布了《开发者接入微信 AI 生态的指引》这篇文章，引导小程序开发者接入微信 AI 生态，让微信的 AI 控制小程序。 感觉这个可能是未来微信 AI 上一个非常重要的功能💬32🔄4❤️24👀14519📊31⚡ Powered by xgo.ing"
+          "summary": "微信终于要加 AI Agent 能力了？ 微信发布了《开发者接入微信 AI 生态的指引》这篇文章，引导小程序开发者接入微信 AI 生态，让微信的 AI 控制小程序。 感觉这个可能是未来微信 AI 上一个非常重要的功能💬52🔄4❤️24👀24511📊46⚡ Powered by xgo.ing"
         },
         {
           "id": "aed0adc40423e13e3c37ce2f705101615f1f658c",
@@ -266,7 +274,7 @@
           "title": "试了一下，公众号图文卡片也是支持 Live Photo 的。\n\n只不过要从 iPhone 上上传，这下爽了呀！",
           "url": "https://x.com/op7418/status/2063889888186167504",
           "published_at": "2026-06-08T07:44:29Z",
-          "summary": "试了一下，公众号图文卡片也是支持 Live Photo 的。 只不过要从 iPhone 上上传，这下爽了呀！歸藏(guizang.ai)@op7418藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。🔗 View Quoted Tweet💬10🔄0❤️9👀4800📊8⚡ Powered by xgo.ing"
+          "summary": "试了一下，公众号图文卡片也是支持 Live Photo 的。 只不过要从 iPhone 上上传，这下爽了呀！歸藏(guizang.ai)@op7418藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。🔗 View Quoted Tweet💬10🔄0❤️9👀4908📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "509562241d33b65942336165edd9e4ed08c65881",
@@ -277,7 +285,7 @@
           "title": "藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。\n\n可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo\n\n这样你可以在发布一些...",
           "url": "https://x.com/op7418/status/2063883141287399589",
           "published_at": "2026-06-08T07:17:40Z",
-          "summary": "藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬13🔄7❤️65👀15431📊22⚡ Powered by xgo.ing"
+          "summary": "藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。💬13🔄7❤️67👀16141📊28⚡ Powered by xgo.ing"
         },
         {
           "id": "423265822850dc0807160cb8759ec0950a590d83",
@@ -288,7 +296,7 @@
           "title": "又被骗了 删了删了",
           "url": "https://x.com/op7418/status/2063875591997390912",
           "published_at": "2026-06-08T06:47:40Z",
-          "summary": "又被骗了 删了删了💬0🔄0❤️0👀1925⚡ Powered by xgo.ing"
+          "summary": "又被骗了 删了删了💬0🔄0❤️0👀1954⚡ Powered by xgo.ing"
         },
         {
           "id": "f1420639530e31f89229eb4fface221016abec27",
@@ -311,6 +319,17 @@
           "url": "https://x.com/op7418/status/2063862596764348576",
           "published_at": "2026-06-08T05:56:02Z",
           "summary": "也是没招了，Notion直接点名 Anthropic Opus 4.7 和 Opus 4.8 模型性能下降的问题。 他们也澄清了，说都会存在这种问题，目前性能下降问题已经恢复。 但是 Anthropic 这个模型出问题的概率真是比其他两家高非常多。 我截了一下这三家的状态页面，Anthropic 甚至连 99% 的可用性都保不住。Notion Status@NotionStatusAnthropic's Opus 4.7 and 4.8 models are experiencing degraded performance, which is caus…"
+        },
+        {
+          "id": "ab45865373375f98a286065cb296a4b1bfb2996d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "我把13个顶级AI送去数学高考，并列第一居然是它们。。。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507555&idx=1&sn=16728e2f95d6a2dcf6c979e8d7efd1b0",
+          "published_at": "2026-06-08T03:55:00Z",
+          "summary": "12个月过去了，AI做高考是不是真就场场满分了"
         },
         {
           "id": "cbb429e92b40b2ded67ab3289ae78921a20937d0",
@@ -338,7 +357,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -355,7 +374,18 @@
           "title": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delive...",
           "url": "https://x.com/GeminiApp/status/2064029133802446984",
           "published_at": "2026-06-08T16:57:47Z",
-          "summary": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delivered in one shot. What are you building first with Canvas?💬12🔄9❤️186👀8329📊31⚡ Powered by xgo.ing"
+          "summary": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delivered in one shot. What are you building first with Canvas?💬30🔄34❤️507👀30969📊84⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "48e1a30e167bb47ce7b0e5c9a4e6e54d29bf61b2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "Jun 8, 2026SciencePaving the way for agents in biology",
+          "url": "https://www.anthropic.com/research/agents-in-biology",
+          "published_at": "2026-06-08T00:00:00Z",
+          "summary": "Jun 8, 2026SciencePaving the way for agents in biology"
         }
       ]
     }
@@ -370,7 +400,18 @@
       "title": "苹果的做设计现在也是面多了加水，水多了加面。\n\niOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别，\n液态玻璃效果完全没了。\n\n侧边栏从卡片又改回了原来的那个填满的效果",
       "url": "https://x.com/op7418/status/2064034755621118378",
       "published_at": "2026-06-08T17:20:08Z",
-      "summary": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果💬1🔄0❤️4👀477📊1⚡ Powered by xgo.ing"
+      "summary": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果💬9🔄4❤️42👀7684📊12⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e12d6f5931beadc092a4afc38d3111d3e13f4909",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "@dotey 哈哈 你的判断是对的，重新定义 Skill",
+      "url": "https://x.com/op7418/status/2064029622304710955",
+      "published_at": "2026-06-08T16:59:44Z",
+      "summary": "@dotey 哈哈 你的判断是对的，重新定义 Skill💬1🔄0❤️4👀1855📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "2a31353736ed89e5af70eabb7935f007e00a733c",
@@ -381,7 +422,7 @@
       "title": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delive...",
       "url": "https://x.com/GeminiApp/status/2064029133802446984",
       "published_at": "2026-06-08T16:57:47Z",
-      "summary": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delivered in one shot. What are you building first with Canvas?💬12🔄9❤️186👀8329📊31⚡ Powered by xgo.ing"
+      "summary": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delivered in one shot. What are you building first with Canvas?💬30🔄34❤️507👀30969📊84⚡ Powered by xgo.ing"
     },
     {
       "id": "d76a9001d1de39f179e67b61ddf28ff086459d30",
@@ -392,7 +433,7 @@
       "title": "提醒一下今晚一点有 WWDC 哦",
       "url": "https://x.com/op7418/status/2063993648350736532",
       "published_at": "2026-06-08T14:36:47Z",
-      "summary": "提醒一下今晚一点有 WWDC 哦💬4🔄0❤️5👀2395📊4⚡ Powered by xgo.ing"
+      "summary": "提醒一下今晚一点有 WWDC 哦💬7🔄0❤️5👀2976📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "9fd583dc1ccf1ac1307a532cb85fd622780db57e",
@@ -403,7 +444,7 @@
       "title": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。",
       "url": "https://x.com/op7418/status/2063991326132383988",
       "published_at": "2026-06-08T14:27:33Z",
-      "summary": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬4🔄2❤️13👀5023📊5⚡ Powered by xgo.ing"
+      "summary": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬5🔄3❤️14👀6082📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "58eea27a47f74348b03dfb703a4562c4ef9ab415",
@@ -436,7 +477,7 @@
       "title": "微信终于要加 AI Agent 能力了？\n\n微信发布了《开发者接入微信 AI 生态的指引》这篇文章，引导小程序开发者接入微信 AI 生态，让微信的 AI 控制小程序。\n\n感觉这个可能是未来微信 AI ...",
       "url": "https://x.com/op7418/status/2063900613990371759",
       "published_at": "2026-06-08T08:27:06Z",
-      "summary": "微信终于要加 AI Agent 能力了？ 微信发布了《开发者接入微信 AI 生态的指引》这篇文章，引导小程序开发者接入微信 AI 生态，让微信的 AI 控制小程序。 感觉这个可能是未来微信 AI 上一个非常重要的功能💬32🔄4❤️24👀14519📊31⚡ Powered by xgo.ing"
+      "summary": "微信终于要加 AI Agent 能力了？ 微信发布了《开发者接入微信 AI 生态的指引》这篇文章，引导小程序开发者接入微信 AI 生态，让微信的 AI 控制小程序。 感觉这个可能是未来微信 AI 上一个非常重要的功能💬52🔄4❤️24👀24511📊46⚡ Powered by xgo.ing"
     },
     {
       "id": "aed0adc40423e13e3c37ce2f705101615f1f658c",
@@ -447,7 +488,7 @@
       "title": "试了一下，公众号图文卡片也是支持 Live Photo 的。\n\n只不过要从 iPhone 上上传，这下爽了呀！",
       "url": "https://x.com/op7418/status/2063889888186167504",
       "published_at": "2026-06-08T07:44:29Z",
-      "summary": "试了一下，公众号图文卡片也是支持 Live Photo 的。 只不过要从 iPhone 上上传，这下爽了呀！歸藏(guizang.ai)@op7418藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。🔗 View Quoted Tweet💬10🔄0❤️9👀4800📊8⚡ Powered by xgo.ing"
+      "summary": "试了一下，公众号图文卡片也是支持 Live Photo 的。 只不过要从 iPhone 上上传，这下爽了呀！歸藏(guizang.ai)@op7418藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。🔗 View Quoted Tweet💬10🔄0❤️9👀4908📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "509562241d33b65942336165edd9e4ed08c65881",
@@ -458,7 +499,7 @@
       "title": "藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。\n\n可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo\n\n这样你可以在发布一些...",
       "url": "https://x.com/op7418/status/2063883141287399589",
       "published_at": "2026-06-08T07:17:40Z",
-      "summary": "藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬13🔄7❤️65👀15431📊22⚡ Powered by xgo.ing"
+      "summary": "藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。💬13🔄7❤️67👀16141📊28⚡ Powered by xgo.ing"
     },
     {
       "id": "423265822850dc0807160cb8759ec0950a590d83",
@@ -469,7 +510,7 @@
       "title": "又被骗了 删了删了",
       "url": "https://x.com/op7418/status/2063875591997390912",
       "published_at": "2026-06-08T06:47:40Z",
-      "summary": "又被骗了 删了删了💬0🔄0❤️0👀1925⚡ Powered by xgo.ing"
+      "summary": "又被骗了 删了删了💬0🔄0❤️0👀1954⚡ Powered by xgo.ing"
     },
     {
       "id": "f1420639530e31f89229eb4fface221016abec27",
@@ -494,6 +535,17 @@
       "summary": "也是没招了，Notion直接点名 Anthropic Opus 4.7 和 Opus 4.8 模型性能下降的问题。 他们也澄清了，说都会存在这种问题，目前性能下降问题已经恢复。 但是 Anthropic 这个模型出问题的概率真是比其他两家高非常多。 我截了一下这三家的状态页面，Anthropic 甚至连 99% 的可用性都保不住。Notion Status@NotionStatusAnthropic's Opus 4.7 and 4.8 models are experiencing degraded performance, which is caus…"
     },
     {
+      "id": "ab45865373375f98a286065cb296a4b1bfb2996d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "我把13个顶级AI送去数学高考，并列第一居然是它们。。。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507555&idx=1&sn=16728e2f95d6a2dcf6c979e8d7efd1b0",
+      "published_at": "2026-06-08T03:55:00Z",
+      "summary": "12个月过去了，AI做高考是不是真就场场满分了"
+    },
+    {
       "id": "cbb429e92b40b2ded67ab3289ae78921a20937d0",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -514,6 +566,17 @@
       "url": "https://imjuya.github.io/juya-ai-daily/issue-115",
       "published_at": "2026-06-08T00:52:31Z",
       "summary": "AI 早报 2026-06-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 剪映宣布将首发 Seedance 2.0 系列的新模型 ↗ #1 开发生态 Codex 负责人宣布 100 天每日评选计划，入选者将获月度 10 倍用量 ↗ #2 产品应用 Notion 因 Opus 模型服务不稳定暂时禁用所有 Anthropic 模型引发争议 ↗ #3 前瞻与传闻 媒体报道 OpenAI 计划将 ChatGPT 改版为“超级应用” ↗ #4 行业动态 OpenAI定制芯片核心成员Clive Chan跳槽至Anthropic ↗ #5 剪映宣布将首发 S…"
+    },
+    {
+      "id": "48e1a30e167bb47ce7b0e5c9a4e6e54d29bf61b2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "Jun 8, 2026SciencePaving the way for agents in biology",
+      "url": "https://www.anthropic.com/research/agents-in-biology",
+      "published_at": "2026-06-08T00:00:00Z",
+      "summary": "Jun 8, 2026SciencePaving the way for agents in biology"
     }
   ]
 }
