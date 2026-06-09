@@ -1,17 +1,14 @@
 {
-  "generated_at": "2026-06-09T10:30:52.949184Z",
+  "generated_at": "2026-06-09T13:41:00.043384Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "feed_total": 12,
-  "ok_feeds": 6,
+  "ok_feeds": 9,
   "failed_feeds": [
-    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
-    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
-    "rsshub://bilibili/user/video/385670211",
-    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+    "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -23,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 276,
+      "duration_ms": 200,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -37,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 28,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -51,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1312,
+      "duration_ms": 1458,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -65,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1099,
+      "duration_ms": 1246,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -79,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 396,
+      "duration_ms": 872,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -91,10 +88,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12137,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 444,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -119,10 +116,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12139,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1032,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -135,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -149,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1537,
+      "duration_ms": 1875,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -175,10 +172,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12136,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 835,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -187,16 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 13,
+      "total_items": 14,
       "feed_total": 5,
-      "ok_feeds": 1,
+      "ok_feeds": 4,
       "failed_feeds": [
-        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-        "https://imjuya.github.io/juya-ai-daily/rss.xml",
-        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "106ef0adfe180cc8e4529783670869e0706a49cc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍",
+          "url": "https://x.com/op7418/status/2064314551475327365",
+          "published_at": "2026-06-09T11:51:56Z",
+          "summary": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍💬0🔄0❤️4👀969📊1⚡ Powered by xgo.ing"
+        },
         {
           "id": "6b802ab07c426722e89f5eb38b7377c6bac9ae0f",
           "site_id": "featuredrss",
@@ -206,7 +211,7 @@
           "title": "才知道腾讯科技搞了这么个榜单。\n​\n​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。",
           "url": "https://x.com/op7418/status/2064275004477550637",
           "published_at": "2026-06-09T09:14:48Z",
-          "summary": "才知道腾讯科技搞了这么个榜单。 ​ ​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。💬12🔄0❤️21👀2912📊12⚡ Powered by xgo.ing"
+          "summary": "才知道腾讯科技搞了这么个榜单。 ​ ​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。💬32🔄0❤️61👀19598📊35⚡ Powered by xgo.ing"
         },
         {
           "id": "6e32f63aaf71909a5ac933fff9dfd64091a5ddd8",
@@ -217,7 +222,7 @@
           "title": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。",
           "url": "https://x.com/op7418/status/2064271989297258629",
           "published_at": "2026-06-09T09:02:49Z",
-          "summary": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。💬4🔄0❤️7👀1190📊4⚡ Powered by xgo.ing"
+          "summary": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。💬15🔄0❤️50👀6860📊18⚡ Powered by xgo.ing"
         },
         {
           "id": "bd3eef74333724308473402f61b797d9ea2a762b",
@@ -228,7 +233,7 @@
           "title": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作",
           "url": "https://x.com/op7418/status/2064260089385713841",
           "published_at": "2026-06-09T08:15:32Z",
-          "summary": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作Polymarket Money@PolymarketMoneyJUST IN: Anthropic will reportedly release its new AI model “Mythos” tomorrow.🔗 View Quoted Tweet💬9🔄0❤️7👀5539📊7⚡ Powered by xgo.ing"
+          "summary": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作Polymarket Money@PolymarketMoneyJUST IN: Anthropic will reportedly release its new AI model “Mythos” tomorrow.🔗 View Quoted Tweet💬12🔄1❤️11👀8852📊9⚡ Powered by xgo.ing"
         },
         {
           "id": "694ba032921baba7ba79543ecb7c237a2963488b",
@@ -261,7 +266,7 @@
           "title": "哦 还有 iPhone air",
           "url": "https://x.com/op7418/status/2064158962371694838",
           "published_at": "2026-06-09T01:33:41Z",
-          "summary": "哦 还有 iPhone air💬0🔄0❤️6👀4624📊1⚡ Powered by xgo.ing"
+          "summary": "哦 还有 iPhone air💬0🔄0❤️6👀4989📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "f28d035d3f1df65897b172ee63fb07b3fecfc740",
@@ -272,7 +277,7 @@
           "title": "昨晚苹果 WWDC 唯一的亮点就是这个灵动岛的新 Siri AI 了。\n\n而且本地端侧模型居然只支持 17Pro 这一款设备，当然欧洲和中国还是不可用。",
           "url": "https://x.com/op7418/status/2064154387879186760",
           "published_at": "2026-06-09T01:15:30Z",
-          "summary": "昨晚苹果 WWDC 唯一的亮点就是这个灵动岛的新 Siri AI 了。 而且本地端侧模型居然只支持 17Pro 这一款设备，当然欧洲和中国还是不可用。Your browser does not support the video tag.🔗 View on Twitter💬60🔄2❤️53👀39400📊58⚡ Powered by xgo.ing"
+          "summary": "昨晚苹果 WWDC 唯一的亮点就是这个灵动岛的新 Siri AI 了。 而且本地端侧模型居然只支持 17Pro 这一款设备，当然欧洲和中国还是不可用。Your browser does not support the video tag.🔗 View on Twitter💬81🔄2❤️59👀44466📊75⚡ Powered by xgo.ing"
         },
         {
           "id": "a5148f5e32313a3d4765dc9560f18bd431ff3556",
@@ -283,7 +288,18 @@
           "title": "打错了，应该是欧洲不能用，美国可以",
           "url": "https://x.com/op7418/status/2064154232736096372",
           "published_at": "2026-06-09T01:14:53Z",
-          "summary": "打错了，应该是欧洲不能用，美国可以💬0🔄0❤️0👀1601⚡ Powered by xgo.ing"
+          "summary": "打错了，应该是欧洲不能用，美国可以💬0🔄0❤️0👀1743⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "43c506d52ecff801972f6263eaef147c90009e22",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "帮大家总结了一下凌晨的苹果WWDC26。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683172&idx=1&sn=50eb7a3404f9b6a4fcc19e0e9b3cae7b",
+          "published_at": "2026-06-08T22:08:00Z",
+          "summary": "库克的最后一场"
         },
         {
           "id": "82cef9d23cc970ff082764d8c57d6c23273d32a5",
@@ -294,7 +310,7 @@
           "title": "苹果的做设计现在也是面多了加水，水多了加面。\n\niOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别，\n液态玻璃效果完全没了。\n\n侧边栏从卡片又改回了原来的那个填满的效果",
           "url": "https://x.com/op7418/status/2064034755621118378",
           "published_at": "2026-06-08T17:20:08Z",
-          "summary": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果💬79🔄6❤️131👀44875📊79⚡ Powered by xgo.ing"
+          "summary": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果💬99🔄6❤️138👀46455📊96⚡ Powered by xgo.ing"
         },
         {
           "id": "e12d6f5931beadc092a4afc38d3111d3e13f4909",
@@ -316,7 +332,7 @@
           "title": "提醒一下今晚一点有 WWDC 哦",
           "url": "https://x.com/op7418/status/2063993648350736532",
           "published_at": "2026-06-08T14:36:47Z",
-          "summary": "提醒一下今晚一点有 WWDC 哦💬12🔄0❤️5👀4429📊10⚡ Powered by xgo.ing"
+          "summary": "提醒一下今晚一点有 WWDC 哦💬12🔄0❤️5👀4611📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "9fd583dc1ccf1ac1307a532cb85fd622780db57e",
@@ -327,18 +343,7 @@
           "title": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。",
           "url": "https://x.com/op7418/status/2063991326132383988",
           "published_at": "2026-06-08T14:27:33Z",
-          "summary": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬26🔄3❤️31👀11097📊23⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "58eea27a47f74348b03dfb703a4562c4ef9ab415",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "转一下笑林老师关于设计工程师定义，想找类似工作的可以看看",
-          "url": "https://x.com/op7418/status/2063949818033229966",
-          "published_at": "2026-06-08T11:42:37Z",
-          "summary": "转一下笑林老师关于设计工程师定义，想找类似工作的可以看看笑林@xiaolinbytheseaCursor 招聘设计工程师了，非常令人心动，但我还犹豫着不能行动； 我在字节工作了8年，一直游走在动效设计师和设计工程师之间。最近我的团队（豆包手机团队）也在招聘设计工程师，但是我们需要的方向更多要有一些对 Android 平台的了解，和硅谷大多数设计工程师围绕 Web 展开工作有所区别。 前一阵我也对市面上招聘设计工程师的 JD 做了调研，和 ChatGPT 一起做出以下几个画像，虽然 Title 都是设计工程师，但还是有不同的侧重的： 画像一：AI Desi…"
+          "summary": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬26🔄3❤️33👀11588📊23⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -361,12 +366,23 @@
           "title": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delive...",
           "url": "https://x.com/GeminiApp/status/2064029133802446984",
           "published_at": "2026-06-08T16:57:47Z",
-          "summary": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delivered in one shot. What are you building first with Canvas?💬59🔄71❤️923👀1444217📊161⚡ Powered by xgo.ing"
+          "summary": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delivered in one shot. What are you building first with Canvas?💬63🔄76❤️979👀1745040📊172⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "106ef0adfe180cc8e4529783670869e0706a49cc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍",
+      "url": "https://x.com/op7418/status/2064314551475327365",
+      "published_at": "2026-06-09T11:51:56Z",
+      "summary": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍💬0🔄0❤️4👀969📊1⚡ Powered by xgo.ing"
+    },
     {
       "id": "6b802ab07c426722e89f5eb38b7377c6bac9ae0f",
       "site_id": "featuredrss",
@@ -376,7 +392,7 @@
       "title": "才知道腾讯科技搞了这么个榜单。\n​\n​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。",
       "url": "https://x.com/op7418/status/2064275004477550637",
       "published_at": "2026-06-09T09:14:48Z",
-      "summary": "才知道腾讯科技搞了这么个榜单。 ​ ​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。💬12🔄0❤️21👀2912📊12⚡ Powered by xgo.ing"
+      "summary": "才知道腾讯科技搞了这么个榜单。 ​ ​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。💬32🔄0❤️61👀19598📊35⚡ Powered by xgo.ing"
     },
     {
       "id": "6e32f63aaf71909a5ac933fff9dfd64091a5ddd8",
@@ -387,7 +403,7 @@
       "title": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。",
       "url": "https://x.com/op7418/status/2064271989297258629",
       "published_at": "2026-06-09T09:02:49Z",
-      "summary": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。💬4🔄0❤️7👀1190📊4⚡ Powered by xgo.ing"
+      "summary": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。💬15🔄0❤️50👀6860📊18⚡ Powered by xgo.ing"
     },
     {
       "id": "bd3eef74333724308473402f61b797d9ea2a762b",
@@ -398,7 +414,7 @@
       "title": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作",
       "url": "https://x.com/op7418/status/2064260089385713841",
       "published_at": "2026-06-09T08:15:32Z",
-      "summary": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作Polymarket Money@PolymarketMoneyJUST IN: Anthropic will reportedly release its new AI model “Mythos” tomorrow.🔗 View Quoted Tweet💬9🔄0❤️7👀5539📊7⚡ Powered by xgo.ing"
+      "summary": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作Polymarket Money@PolymarketMoneyJUST IN: Anthropic will reportedly release its new AI model “Mythos” tomorrow.🔗 View Quoted Tweet💬12🔄1❤️11👀8852📊9⚡ Powered by xgo.ing"
     },
     {
       "id": "694ba032921baba7ba79543ecb7c237a2963488b",
@@ -431,7 +447,7 @@
       "title": "哦 还有 iPhone air",
       "url": "https://x.com/op7418/status/2064158962371694838",
       "published_at": "2026-06-09T01:33:41Z",
-      "summary": "哦 还有 iPhone air💬0🔄0❤️6👀4624📊1⚡ Powered by xgo.ing"
+      "summary": "哦 还有 iPhone air💬0🔄0❤️6👀4989📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "f28d035d3f1df65897b172ee63fb07b3fecfc740",
@@ -442,7 +458,7 @@
       "title": "昨晚苹果 WWDC 唯一的亮点就是这个灵动岛的新 Siri AI 了。\n\n而且本地端侧模型居然只支持 17Pro 这一款设备，当然欧洲和中国还是不可用。",
       "url": "https://x.com/op7418/status/2064154387879186760",
       "published_at": "2026-06-09T01:15:30Z",
-      "summary": "昨晚苹果 WWDC 唯一的亮点就是这个灵动岛的新 Siri AI 了。 而且本地端侧模型居然只支持 17Pro 这一款设备，当然欧洲和中国还是不可用。Your browser does not support the video tag.🔗 View on Twitter💬60🔄2❤️53👀39400📊58⚡ Powered by xgo.ing"
+      "summary": "昨晚苹果 WWDC 唯一的亮点就是这个灵动岛的新 Siri AI 了。 而且本地端侧模型居然只支持 17Pro 这一款设备，当然欧洲和中国还是不可用。Your browser does not support the video tag.🔗 View on Twitter💬81🔄2❤️59👀44466📊75⚡ Powered by xgo.ing"
     },
     {
       "id": "a5148f5e32313a3d4765dc9560f18bd431ff3556",
@@ -453,7 +469,18 @@
       "title": "打错了，应该是欧洲不能用，美国可以",
       "url": "https://x.com/op7418/status/2064154232736096372",
       "published_at": "2026-06-09T01:14:53Z",
-      "summary": "打错了，应该是欧洲不能用，美国可以💬0🔄0❤️0👀1601⚡ Powered by xgo.ing"
+      "summary": "打错了，应该是欧洲不能用，美国可以💬0🔄0❤️0👀1743⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "43c506d52ecff801972f6263eaef147c90009e22",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "帮大家总结了一下凌晨的苹果WWDC26。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683172&idx=1&sn=50eb7a3404f9b6a4fcc19e0e9b3cae7b",
+      "published_at": "2026-06-08T22:08:00Z",
+      "summary": "库克的最后一场"
     },
     {
       "id": "82cef9d23cc970ff082764d8c57d6c23273d32a5",
@@ -464,7 +491,7 @@
       "title": "苹果的做设计现在也是面多了加水，水多了加面。\n\niOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别，\n液态玻璃效果完全没了。\n\n侧边栏从卡片又改回了原来的那个填满的效果",
       "url": "https://x.com/op7418/status/2064034755621118378",
       "published_at": "2026-06-08T17:20:08Z",
-      "summary": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果💬79🔄6❤️131👀44875📊79⚡ Powered by xgo.ing"
+      "summary": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果💬99🔄6❤️138👀46455📊96⚡ Powered by xgo.ing"
     },
     {
       "id": "e12d6f5931beadc092a4afc38d3111d3e13f4909",
@@ -486,7 +513,7 @@
       "title": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delive...",
       "url": "https://x.com/GeminiApp/status/2064029133802446984",
       "published_at": "2026-06-08T16:57:47Z",
-      "summary": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delivered in one shot. What are you building first with Canvas?💬59🔄71❤️923👀1444217📊161⚡ Powered by xgo.ing"
+      "summary": "We asked Gemini 3.5 Flash to bring back the classic early-2000s PC drawing experience, and it delivered in one shot. What are you building first with Canvas?💬63🔄76❤️979👀1745040📊172⚡ Powered by xgo.ing"
     },
     {
       "id": "d76a9001d1de39f179e67b61ddf28ff086459d30",
@@ -497,7 +524,7 @@
       "title": "提醒一下今晚一点有 WWDC 哦",
       "url": "https://x.com/op7418/status/2063993648350736532",
       "published_at": "2026-06-08T14:36:47Z",
-      "summary": "提醒一下今晚一点有 WWDC 哦💬12🔄0❤️5👀4429📊10⚡ Powered by xgo.ing"
+      "summary": "提醒一下今晚一点有 WWDC 哦💬12🔄0❤️5👀4611📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "9fd583dc1ccf1ac1307a532cb85fd622780db57e",
@@ -508,18 +535,7 @@
       "title": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。",
       "url": "https://x.com/op7418/status/2063991326132383988",
       "published_at": "2026-06-08T14:27:33Z",
-      "summary": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬26🔄3❤️31👀11097📊23⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "58eea27a47f74348b03dfb703a4562c4ef9ab415",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "转一下笑林老师关于设计工程师定义，想找类似工作的可以看看",
-      "url": "https://x.com/op7418/status/2063949818033229966",
-      "published_at": "2026-06-08T11:42:37Z",
-      "summary": "转一下笑林老师关于设计工程师定义，想找类似工作的可以看看笑林@xiaolinbytheseaCursor 招聘设计工程师了，非常令人心动，但我还犹豫着不能行动； 我在字节工作了8年，一直游走在动效设计师和设计工程师之间。最近我的团队（豆包手机团队）也在招聘设计工程师，但是我们需要的方向更多要有一些对 Android 平台的了解，和硅谷大多数设计工程师围绕 Web 展开工作有所区别。 前一阵我也对市面上招聘设计工程师的 JD 做了调研，和 ChatGPT 一起做出以下几个画像，虽然 Title 都是设计工程师，但还是有不同的侧重的： 画像一：AI Desi…"
+      "summary": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬26🔄3❤️33👀11588📊23⚡ Powered by xgo.ing"
     }
   ]
 }
