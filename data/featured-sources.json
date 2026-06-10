@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-06-10T07:04:38.696095Z",
+  "generated_at": "2026-06-10T11:07:33.351325Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 15,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 8,
   "failed_feeds": [
+    "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
     "rsshub://bilibili/user/video/385670211"
@@ -20,7 +21,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 180,
+      "duration_ms": 169,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +35,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 18,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +49,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1254,
+      "duration_ms": 1798,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +63,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1116,
+      "duration_ms": 1901,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +77,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 740,
+      "duration_ms": 1052,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -88,10 +89,10 @@
       "feed_title": "卡尔的AI沃茨",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 460,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12062,
+      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -118,7 +119,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 660,
+      "duration_ms": 659,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +133,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 12,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +147,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2545,
+      "duration_ms": 2658,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +175,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 877,
+      "duration_ms": 380,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,10 +185,11 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 15,
+      "total_items": 12,
       "feed_total": 5,
-      "ok_feeds": 4,
+      "ok_feeds": 3,
       "failed_feeds": [
+        "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
@@ -200,7 +202,7 @@
           "title": "笑死，藏师傅 PPT Skill 也上央视了，感谢腾讯云和 workbuddy",
           "url": "https://x.com/op7418/status/2064585238395920395",
           "published_at": "2026-06-10T05:47:33Z",
-          "summary": "笑死，藏师傅 PPT Skill 也上央视了，感谢腾讯云和 workbuddyYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬7🔄2❤️18👀1820📊7⚡ Powered by xgo.ing"
+          "summary": "笑死，藏师傅 PPT Skill 也上央视了，感谢腾讯云和 workbuddyYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬38🔄21❤️206👀40484📊61⚡ Powered by xgo.ing"
         },
         {
           "id": "c8606e1684c9ce7da37e88b5c562b31e099557fe",
@@ -222,7 +224,7 @@
           "title": "一些尝试：",
           "url": "https://x.com/op7418/status/2064575636082192646",
           "published_at": "2026-06-10T05:09:24Z",
-          "summary": "一些尝试：歸藏(guizang.ai)@op7418试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。🔗 View Quoted Tweet💬0🔄0❤️1👀1449⚡ Powered by xgo.ing"
+          "summary": "一些尝试：歸藏(guizang.ai)@op7418试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。🔗 View Quoted Tweet💬0🔄0❤️2👀2844⚡ Powered by xgo.ing"
         },
         {
           "id": "3d96673ff9068e8ccced1652a9cac3c7f537c09a",
@@ -233,7 +235,7 @@
           "title": "CodePilot v0.56.0 发布\n\n本次更新的部分修复由 Claude Fable 5 完成。\n\n模型与渠道扩充版本\n\n新增 Claude Fable 5、小米 MiMo UltraSpeed...",
           "url": "https://x.com/op7418/status/2064572793124245998",
           "published_at": "2026-06-10T04:58:06Z",
-          "summary": "CodePilot v0.56.0 发布 本次更新的部分修复由 Claude Fable 5 完成。 模型与渠道扩充版本 新增 Claude Fable 5、小米 MiMo UltraSpeed 模型与通用 OpenAI 兼容第三方渠道。 并修复用量统计、回复状态丢失、服务商列表刷新等一批问题。推荐所有用户升级。 github.com/op7418/CodePil…歸藏(guizang.ai)@op7418在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题🔗 View Quoted Tweet💬1🔄0❤️2👀…"
+          "summary": "CodePilot v0.56.0 发布 本次更新的部分修复由 Claude Fable 5 完成。 模型与渠道扩充版本 新增 Claude Fable 5、小米 MiMo UltraSpeed 模型与通用 OpenAI 兼容第三方渠道。 并修复用量统计、回复状态丢失、服务商列表刷新等一批问题。推荐所有用户升级。 github.com/op7418/CodePil…歸藏(guizang.ai)@op7418在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题🔗 View Quoted Tweet💬2🔄0❤️5👀…"
         },
         {
           "id": "1bc623788621fdada8d75998e48c05b2940011c8",
@@ -244,7 +246,7 @@
           "title": "一些结果：https://t.co/79kDyKmmqN",
           "url": "https://x.com/op7418/status/2064564749308953006",
           "published_at": "2026-06-10T04:26:08Z",
-          "summary": "一些结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。🔗 View Quoted Tweet💬0🔄0❤️1👀2937⚡ Powered by xgo.ing"
+          "summary": "一些结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。🔗 View Quoted Tweet💬0🔄0❤️4👀4035⚡ Powered by xgo.ing"
         },
         {
           "id": "242f8b76d53b1aba2a1ab5184b744a7fb51da16c",
@@ -255,7 +257,7 @@
           "title": "试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。\n\n但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。\n\n所以在这块，我觉得它可能是...",
           "url": "https://x.com/op7418/status/2064562215345381472",
           "published_at": "2026-06-10T04:16:04Z",
-          "summary": "试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。歸藏(guizang.ai)@op7418在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题🔗 View Quoted Tweet💬12🔄0❤️19👀14852📊10⚡ Powered by xgo.in…"
+          "summary": "试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。歸藏(guizang.ai)@op7418在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题🔗 View Quoted Tweet💬20🔄1❤️35👀25179📊17⚡ Powered by xgo.in…"
         },
         {
           "id": "f89bceeae7b7a8c1cc9204cfb62c6d2c088e6c7d",
@@ -266,7 +268,7 @@
           "title": "因为害怕额度问题，所以先让他找问题、写计划，没让他改代码。\n\n结果发现他找问题找得老快了，而且也挺准的",
           "url": "https://x.com/op7418/status/2064525619581657195",
           "published_at": "2026-06-10T01:50:39Z",
-          "summary": "因为害怕额度问题，所以先让他找问题、写计划，没让他改代码。 结果发现他找问题找得老快了，而且也挺准的💬4🔄0❤️9👀5347📊4⚡ Powered by xgo.ing"
+          "summary": "因为害怕额度问题，所以先让他找问题、写计划，没让他改代码。 结果发现他找问题找得老快了，而且也挺准的💬4🔄0❤️11👀6221📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "7b97d85c8134e6c2495af4586180cd01e306d956",
@@ -277,7 +279,7 @@
           "title": "在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题",
           "url": "https://x.com/op7418/status/2064522814955368782",
           "published_at": "2026-06-10T01:39:30Z",
-          "summary": "在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题💬22🔄0❤️20👀32628📊21⚡ Powered by xgo.ing"
+          "summary": "在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题💬31🔄0❤️24👀46130📊29⚡ Powered by xgo.ing"
         },
         {
           "id": "762b019cf117c42ba9115461fb71f7dd7863608f",
@@ -289,6 +291,17 @@
           "url": "https://x.com/op7418/status/2064522566711246863",
           "published_at": "2026-06-10T01:38:31Z",
           "summary": "亏了呀，早上六点重置了，少用了一些 Fable 5Alex Albert@alexalbert__We've reset usage limits across our products! For those just starting to test Fable, here's four tips for using it more effectively: 1. Give it bigger, more ambitious tasks than what previous models could handle. 2. Use xhigh/high…"
+        },
+        {
+          "id": "6573e571415a2a5b3985085a2c818c7acd607b70",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "Claude Fable 5正式发布 - 王者归航。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683485&idx=1&sn=310421ab80ddac4996667c546b6c3e02",
+          "published_at": "2026-06-09T21:04:00Z",
+          "summary": "神话的开篇"
         },
         {
           "id": "138cd136bbea66f5ac510e6b3ddce1a713efb206",
@@ -310,51 +323,7 @@
           "title": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍",
           "url": "https://x.com/op7418/status/2064314551475327365",
           "published_at": "2026-06-09T11:51:56Z",
-          "summary": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍💬3🔄0❤️4👀2793📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6b802ab07c426722e89f5eb38b7377c6bac9ae0f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "才知道腾讯科技搞了这么个榜单。\n​\n​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。",
-          "url": "https://x.com/op7418/status/2064275004477550637",
-          "published_at": "2026-06-09T09:14:48Z",
-          "summary": "才知道腾讯科技搞了这么个榜单。 ​ ​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。💬73🔄3❤️109👀51801📊77⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6e32f63aaf71909a5ac933fff9dfd64091a5ddd8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。",
-          "url": "https://x.com/op7418/status/2064271989297258629",
-          "published_at": "2026-06-09T09:02:49Z",
-          "summary": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。💬23🔄0❤️79👀13198📊27⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bd3eef74333724308473402f61b797d9ea2a762b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作",
-          "url": "https://x.com/op7418/status/2064260089385713841",
-          "published_at": "2026-06-09T08:15:32Z",
-          "summary": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作Polymarket Money@PolymarketMoneyJUST IN: Anthropic will reportedly release its new AI model “Mythos” tomorrow.🔗 View Quoted Tweet💬13🔄1❤️16👀14946📊10⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "694ba032921baba7ba79543ecb7c237a2963488b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "MiMo推出1000 Token/s超高速模型｜体验测评\n\nMiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。...",
-          "url": "https://x.com/op7418/status/2064257622803710463",
-          "published_at": "2026-06-09T08:05:43Z",
-          "summary": "MiMo推出1000 Token/s超高速模型｜体验测评 MiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。 同时，这应该也是全球第一个达到这个速度的万亿（1T）参数模型。 藏师傅提前试了一下，做了三个测试，确实爽。 第一个跑了一个比较复杂的 3D 采矿小游戏测试。在没有素材的情况下，我让它全部用 Three.js 前端代码来生成素材。整体要求比较完整，虽然第一次实践时出了一些小问题，但在跟他沟通修改建议后，非常完美地实现了任务。 这次测试的各项指标如下：思考的 T…"
+          "summary": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍💬3🔄0❤️4👀2937📊3⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -377,7 +346,7 @@
           "title": "Gemini 3.5 Flash can process complex visual data and translate it into functional, interactive code....",
           "url": "https://x.com/GeminiApp/status/2064380262021214639",
           "published_at": "2026-06-09T16:13:03Z",
-          "summary": "Gemini 3.5 Flash can process complex visual data and translate it into functional, interactive code. Watch Gemini analyze lighting from a reference image, and build an interactive 3D visualizer to preview the setup.💬53🔄105❤️1110👀355931📊209⚡ Powered by xgo.ing"
+          "summary": "Gemini 3.5 Flash can process complex visual data and translate it into functional, interactive code. Watch Gemini analyze lighting from a reference image, and build an interactive 3D visualizer to preview the setup.💬63🔄123❤️1227👀373724📊234⚡ Powered by xgo.ing"
         },
         {
           "id": "6777063da65439d4e3a6a93341fb8e906ee5b9fd",
@@ -399,7 +368,7 @@
           "title": "Read the blog to learn more: https://t.co/vmrrdu7lwt",
           "url": "https://x.com/GoogleAI/status/2064366505630802081",
           "published_at": "2026-06-09T15:18:23Z",
-          "summary": "Read the blog to learn more: blog.google/innovation-and…💬4🔄2❤️49👀12469📊9⚡ Powered by xgo.ing"
+          "summary": "Read the blog to learn more: blog.google/innovation-and…💬4🔄5❤️53👀13305📊10⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -414,7 +383,7 @@
       "title": "笑死，藏师傅 PPT Skill 也上央视了，感谢腾讯云和 workbuddy",
       "url": "https://x.com/op7418/status/2064585238395920395",
       "published_at": "2026-06-10T05:47:33Z",
-      "summary": "笑死，藏师傅 PPT Skill 也上央视了，感谢腾讯云和 workbuddyYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬7🔄2❤️18👀1820📊7⚡ Powered by xgo.ing"
+      "summary": "笑死，藏师傅 PPT Skill 也上央视了，感谢腾讯云和 workbuddyYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬38🔄21❤️206👀40484📊61⚡ Powered by xgo.ing"
     },
     {
       "id": "c8606e1684c9ce7da37e88b5c562b31e099557fe",
@@ -436,7 +405,7 @@
       "title": "一些尝试：",
       "url": "https://x.com/op7418/status/2064575636082192646",
       "published_at": "2026-06-10T05:09:24Z",
-      "summary": "一些尝试：歸藏(guizang.ai)@op7418试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。🔗 View Quoted Tweet💬0🔄0❤️1👀1449⚡ Powered by xgo.ing"
+      "summary": "一些尝试：歸藏(guizang.ai)@op7418试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。🔗 View Quoted Tweet💬0🔄0❤️2👀2844⚡ Powered by xgo.ing"
     },
     {
       "id": "3d96673ff9068e8ccced1652a9cac3c7f537c09a",
@@ -447,7 +416,7 @@
       "title": "CodePilot v0.56.0 发布\n\n本次更新的部分修复由 Claude Fable 5 完成。\n\n模型与渠道扩充版本\n\n新增 Claude Fable 5、小米 MiMo UltraSpeed...",
       "url": "https://x.com/op7418/status/2064572793124245998",
       "published_at": "2026-06-10T04:58:06Z",
-      "summary": "CodePilot v0.56.0 发布 本次更新的部分修复由 Claude Fable 5 完成。 模型与渠道扩充版本 新增 Claude Fable 5、小米 MiMo UltraSpeed 模型与通用 OpenAI 兼容第三方渠道。 并修复用量统计、回复状态丢失、服务商列表刷新等一批问题。推荐所有用户升级。 github.com/op7418/CodePil…歸藏(guizang.ai)@op7418在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题🔗 View Quoted Tweet💬1🔄0❤️2👀…"
+      "summary": "CodePilot v0.56.0 发布 本次更新的部分修复由 Claude Fable 5 完成。 模型与渠道扩充版本 新增 Claude Fable 5、小米 MiMo UltraSpeed 模型与通用 OpenAI 兼容第三方渠道。 并修复用量统计、回复状态丢失、服务商列表刷新等一批问题。推荐所有用户升级。 github.com/op7418/CodePil…歸藏(guizang.ai)@op7418在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题🔗 View Quoted Tweet💬2🔄0❤️5👀…"
     },
     {
       "id": "1bc623788621fdada8d75998e48c05b2940011c8",
@@ -458,7 +427,7 @@
       "title": "一些结果：https://t.co/79kDyKmmqN",
       "url": "https://x.com/op7418/status/2064564749308953006",
       "published_at": "2026-06-10T04:26:08Z",
-      "summary": "一些结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。🔗 View Quoted Tweet💬0🔄0❤️1👀2937⚡ Powered by xgo.ing"
+      "summary": "一些结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。🔗 View Quoted Tweet💬0🔄0❤️4👀4035⚡ Powered by xgo.ing"
     },
     {
       "id": "242f8b76d53b1aba2a1ab5184b744a7fb51da16c",
@@ -469,7 +438,7 @@
       "title": "试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。\n\n但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。\n\n所以在这块，我觉得它可能是...",
       "url": "https://x.com/op7418/status/2064562215345381472",
       "published_at": "2026-06-10T04:16:04Z",
-      "summary": "试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。歸藏(guizang.ai)@op7418在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题🔗 View Quoted Tweet💬12🔄0❤️19👀14852📊10⚡ Powered by xgo.in…"
+      "summary": "试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。歸藏(guizang.ai)@op7418在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题🔗 View Quoted Tweet💬20🔄1❤️35👀25179📊17⚡ Powered by xgo.in…"
     },
     {
       "id": "f89bceeae7b7a8c1cc9204cfb62c6d2c088e6c7d",
@@ -480,7 +449,7 @@
       "title": "因为害怕额度问题，所以先让他找问题、写计划，没让他改代码。\n\n结果发现他找问题找得老快了，而且也挺准的",
       "url": "https://x.com/op7418/status/2064525619581657195",
       "published_at": "2026-06-10T01:50:39Z",
-      "summary": "因为害怕额度问题，所以先让他找问题、写计划，没让他改代码。 结果发现他找问题找得老快了，而且也挺准的💬4🔄0❤️9👀5347📊4⚡ Powered by xgo.ing"
+      "summary": "因为害怕额度问题，所以先让他找问题、写计划，没让他改代码。 结果发现他找问题找得老快了，而且也挺准的💬4🔄0❤️11👀6221📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "7b97d85c8134e6c2495af4586180cd01e306d956",
@@ -491,7 +460,7 @@
       "title": "在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题",
       "url": "https://x.com/op7418/status/2064522814955368782",
       "published_at": "2026-06-10T01:39:30Z",
-      "summary": "在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题💬22🔄0❤️20👀32628📊21⚡ Powered by xgo.ing"
+      "summary": "在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题💬31🔄0❤️24👀46130📊29⚡ Powered by xgo.ing"
     },
     {
       "id": "762b019cf117c42ba9115461fb71f7dd7863608f",
@@ -503,6 +472,17 @@
       "url": "https://x.com/op7418/status/2064522566711246863",
       "published_at": "2026-06-10T01:38:31Z",
       "summary": "亏了呀，早上六点重置了，少用了一些 Fable 5Alex Albert@alexalbert__We've reset usage limits across our products! For those just starting to test Fable, here's four tips for using it more effectively: 1. Give it bigger, more ambitious tasks than what previous models could handle. 2. Use xhigh/high…"
+    },
+    {
+      "id": "6573e571415a2a5b3985085a2c818c7acd607b70",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "Claude Fable 5正式发布 - 王者归航。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683485&idx=1&sn=310421ab80ddac4996667c546b6c3e02",
+      "published_at": "2026-06-09T21:04:00Z",
+      "summary": "神话的开篇"
     },
     {
       "id": "138cd136bbea66f5ac510e6b3ddce1a713efb206",
@@ -524,7 +504,7 @@
       "title": "Gemini 3.5 Flash can process complex visual data and translate it into functional, interactive code....",
       "url": "https://x.com/GeminiApp/status/2064380262021214639",
       "published_at": "2026-06-09T16:13:03Z",
-      "summary": "Gemini 3.5 Flash can process complex visual data and translate it into functional, interactive code. Watch Gemini analyze lighting from a reference image, and build an interactive 3D visualizer to preview the setup.💬53🔄105❤️1110👀355931📊209⚡ Powered by xgo.ing"
+      "summary": "Gemini 3.5 Flash can process complex visual data and translate it into functional, interactive code. Watch Gemini analyze lighting from a reference image, and build an interactive 3D visualizer to preview the setup.💬63🔄123❤️1227👀373724📊234⚡ Powered by xgo.ing"
     },
     {
       "id": "6777063da65439d4e3a6a93341fb8e906ee5b9fd",
@@ -546,7 +526,7 @@
       "title": "Read the blog to learn more: https://t.co/vmrrdu7lwt",
       "url": "https://x.com/GoogleAI/status/2064366505630802081",
       "published_at": "2026-06-09T15:18:23Z",
-      "summary": "Read the blog to learn more: blog.google/innovation-and…💬4🔄2❤️49👀12469📊9⚡ Powered by xgo.ing"
+      "summary": "Read the blog to learn more: blog.google/innovation-and…💬4🔄5❤️53👀13305📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "106ef0adfe180cc8e4529783670869e0706a49cc",
@@ -557,51 +537,7 @@
       "title": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍",
       "url": "https://x.com/op7418/status/2064314551475327365",
       "published_at": "2026-06-09T11:51:56Z",
-      "summary": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍💬3🔄0❤️4👀2793📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "6b802ab07c426722e89f5eb38b7377c6bac9ae0f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "才知道腾讯科技搞了这么个榜单。\n​\n​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。",
-      "url": "https://x.com/op7418/status/2064275004477550637",
-      "published_at": "2026-06-09T09:14:48Z",
-      "summary": "才知道腾讯科技搞了这么个榜单。 ​ ​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。💬73🔄3❤️109👀51801📊77⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "6e32f63aaf71909a5ac933fff9dfd64091a5ddd8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。",
-      "url": "https://x.com/op7418/status/2064271989297258629",
-      "published_at": "2026-06-09T09:02:49Z",
-      "summary": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。💬23🔄0❤️79👀13198📊27⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "bd3eef74333724308473402f61b797d9ea2a762b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作",
-      "url": "https://x.com/op7418/status/2064260089385713841",
-      "published_at": "2026-06-09T08:15:32Z",
-      "summary": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作Polymarket Money@PolymarketMoneyJUST IN: Anthropic will reportedly release its new AI model “Mythos” tomorrow.🔗 View Quoted Tweet💬13🔄1❤️16👀14946📊10⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "694ba032921baba7ba79543ecb7c237a2963488b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "MiMo推出1000 Token/s超高速模型｜体验测评\n\nMiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。...",
-      "url": "https://x.com/op7418/status/2064257622803710463",
-      "published_at": "2026-06-09T08:05:43Z",
-      "summary": "MiMo推出1000 Token/s超高速模型｜体验测评 MiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。 同时，这应该也是全球第一个达到这个速度的万亿（1T）参数模型。 藏师傅提前试了一下，做了三个测试，确实爽。 第一个跑了一个比较复杂的 3D 采矿小游戏测试。在没有素材的情况下，我让它全部用 Three.js 前端代码来生成素材。整体要求比较完整，虽然第一次实践时出了一些小问题，但在跟他沟通修改建议后，非常完美地实现了任务。 这次测试的各项指标如下：思考的 T…"
+      "summary": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍💬3🔄0❤️4👀2937📊3⚡ Powered by xgo.ing"
     }
   ]
 }
