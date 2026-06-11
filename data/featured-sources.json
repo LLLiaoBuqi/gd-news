@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T19:30:14.875362Z",
+  "generated_at": "2026-06-11T21:35:53.324876Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 669,
+      "duration_ms": 1165,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 22,
+      "duration_ms": 39,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1827,
+      "duration_ms": 1660,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1912,
+      "duration_ms": 1551,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1296,
+      "duration_ms": 850,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 671,
+      "duration_ms": 653,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1234,
+      "duration_ms": 1094,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12,
+      "duration_ms": 30,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2653,
+      "duration_ms": 2386,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1300,
+      "duration_ms": 800,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
           "url": "https://x.com/op7418/status/2065075399231693153",
           "published_at": "2026-06-11T14:15:17Z",
-          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬19🔄4❤️62👀6125📊24⚡ Powered by xgo.ing"
+          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬19🔄4❤️67👀6435📊25⚡ Powered by xgo.ing"
         },
         {
           "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
@@ -250,7 +250,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -258,6 +258,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "57976d32f01b4be158272e9cf49c57d01c860eb6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Get a closer look at Gemini's new Neural Expressive design language at our next Discord community ev...",
+          "url": "https://x.com/GeminiApp/status/2065183026884296963",
+          "published_at": "2026-06-11T21:22:57Z",
+          "summary": "Get a closer look at Gemini's new Neural Expressive design language at our next Discord community event. Product Marketing Manager Megan C. will be discussing some of her favorite highlights that help improve the Gemini experience, from dynamic visual responses to seamless mode s…"
+        },
         {
           "id": "fbc50e79667c0898cf23cefc34f85eeb93f3c040",
           "site_id": "featuredrss",
@@ -273,6 +284,17 @@
     }
   },
   "items": [
+    {
+      "id": "57976d32f01b4be158272e9cf49c57d01c860eb6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Get a closer look at Gemini's new Neural Expressive design language at our next Discord community ev...",
+      "url": "https://x.com/GeminiApp/status/2065183026884296963",
+      "published_at": "2026-06-11T21:22:57Z",
+      "summary": "Get a closer look at Gemini's new Neural Expressive design language at our next Discord community event. Product Marketing Manager Megan C. will be discussing some of her favorite highlights that help improve the Gemini experience, from dynamic visual responses to seamless mode s…"
+    },
     {
       "id": "fbc50e79667c0898cf23cefc34f85eeb93f3c040",
       "site_id": "featuredrss",
@@ -293,7 +315,7 @@
       "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
       "url": "https://x.com/op7418/status/2065075399231693153",
       "published_at": "2026-06-11T14:15:17Z",
-      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬19🔄4❤️62👀6125📊24⚡ Powered by xgo.ing"
+      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬19🔄4❤️67👀6435📊25⚡ Powered by xgo.ing"
     },
     {
       "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
