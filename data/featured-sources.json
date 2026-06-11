@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T12:26:03.972059Z",
+  "generated_at": "2026-06-11T16:33:44.010170Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 192,
+      "duration_ms": 204,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 23,
+      "duration_ms": 30,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1531,
+      "duration_ms": 1479,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1298,
+      "duration_ms": 1568,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 953,
+      "duration_ms": 643,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 841,
+      "duration_ms": 718,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1052,
+      "duration_ms": 953,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 32,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2662,
+      "duration_ms": 2642,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 414,
+      "duration_ms": 419,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "f3db8d3f004139c5a5a1c138b21389f2284cc6ea",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
+          "url": "https://x.com/op7418/status/2065075399231693153",
+          "published_at": "2026-06-11T14:15:17Z",
+          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬16🔄4❤️50👀4740📊20⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "开源「鲁班」Skill，Claude Fable 5下线前我最想跑通的工作流！",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507601&idx=1&sn=1a380ff822eec24c4631dc9383c9cd12",
+          "published_at": "2026-06-11T10:37:00Z",
+          "summary": "用Fable 5给自己的Skill打磨升级！"
+        },
         {
           "id": "3d0e337efa72dacdc877b83c0192229f8af8774a",
           "site_id": "featuredrss",
@@ -228,17 +250,62 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "fbc50e79667c0898cf23cefc34f85eeb93f3c040",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland...",
+          "url": "https://x.com/GeminiApp/status/2065097165433983253",
+          "published_at": "2026-06-11T15:41:46Z",
+          "summary": "Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland. With notebooks, you can organize your projects in a dedicated, focused space that remembers your sources, instructions, and chats. Create your own notebook at gemini.google or in…"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "fbc50e79667c0898cf23cefc34f85eeb93f3c040",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland...",
+      "url": "https://x.com/GeminiApp/status/2065097165433983253",
+      "published_at": "2026-06-11T15:41:46Z",
+      "summary": "Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland. With notebooks, you can organize your projects in a dedicated, focused space that remembers your sources, instructions, and chats. Create your own notebook at gemini.google or in…"
+    },
+    {
+      "id": "f3db8d3f004139c5a5a1c138b21389f2284cc6ea",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
+      "url": "https://x.com/op7418/status/2065075399231693153",
+      "published_at": "2026-06-11T14:15:17Z",
+      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬16🔄4❤️50👀4740📊20⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "开源「鲁班」Skill，Claude Fable 5下线前我最想跑通的工作流！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507601&idx=1&sn=1a380ff822eec24c4631dc9383c9cd12",
+      "published_at": "2026-06-11T10:37:00Z",
+      "summary": "用Fable 5给自己的Skill打磨升级！"
+    },
     {
       "id": "3d0e337efa72dacdc877b83c0192229f8af8774a",
       "site_id": "featuredrss",
