@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T08:02:46.711628Z",
+  "generated_at": "2026-06-11T12:26:03.972059Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 3,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 201,
+      "duration_ms": 192,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 37,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1485,
+      "duration_ms": 1531,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1376,
+      "duration_ms": 1298,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 690,
+      "duration_ms": 953,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 507,
+      "duration_ms": 841,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 933,
+      "duration_ms": 1052,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 16,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2466,
+      "duration_ms": 2662,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 624,
+      "duration_ms": 414,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -191,6 +191,17 @@
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "3d0e337efa72dacdc877b83c0192229f8af8774a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。",
+          "url": "https://x.com/op7418/status/2064984016005242961",
+          "published_at": "2026-06-11T08:12:09Z",
+          "summary": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。ClaudeDevs@ClaudeDevsWe’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and…"
+        },
         {
           "id": "be48d38ee0c4dd6b6a3b0efc73e84c89a3ce6e15",
           "site_id": "featuredrss",
@@ -212,17 +223,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683487&idx=1&sn=195063e8db911ac43256a80dcb556a2e",
           "published_at": "2026-06-11T01:58:00Z",
           "summary": "开箱即用"
-        },
-        {
-          "id": "bc56a401f501164457c3d7102ecf9af75bf28cc3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测小米MiMo-V2.5-Pro UltraSpeed，谁说推理模型里没有超跑的",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507580&idx=1&sn=4e387b47495fff030e80103e518af9f2",
-          "published_at": "2026-06-10T09:00:00Z",
-          "summary": "1000 token/s，GPT5.5的14倍。。。"
         }
       ]
     },
@@ -239,6 +239,17 @@
     }
   },
   "items": [
+    {
+      "id": "3d0e337efa72dacdc877b83c0192229f8af8774a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。",
+      "url": "https://x.com/op7418/status/2064984016005242961",
+      "published_at": "2026-06-11T08:12:09Z",
+      "summary": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。ClaudeDevs@ClaudeDevsWe’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and…"
+    },
     {
       "id": "be48d38ee0c4dd6b6a3b0efc73e84c89a3ce6e15",
       "site_id": "featuredrss",
@@ -260,17 +271,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683487&idx=1&sn=195063e8db911ac43256a80dcb556a2e",
       "published_at": "2026-06-11T01:58:00Z",
       "summary": "开箱即用"
-    },
-    {
-      "id": "bc56a401f501164457c3d7102ecf9af75bf28cc3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测小米MiMo-V2.5-Pro UltraSpeed，谁说推理模型里没有超跑的",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507580&idx=1&sn=4e387b47495fff030e80103e518af9f2",
-      "published_at": "2026-06-10T09:00:00Z",
-      "summary": "1000 token/s，GPT5.5的14倍。。。"
     }
   ]
 }
