@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T10:49:26.523319Z",
+  "generated_at": "2026-06-12T13:59:37.062721Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 361,
+      "duration_ms": 205,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 38,
+      "duration_ms": 34,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1446,
+      "duration_ms": 1378,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1552,
+      "duration_ms": 1567,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 967,
+      "duration_ms": 923,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 799,
+      "duration_ms": 623,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1231,
+      "duration_ms": 953,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2459,
+      "duration_ms": 2499,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 839,
+      "duration_ms": 399,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c85575e7df626cb638b81fc2da2dd5fd4b149214",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "13个顶级AI重考2026高考数学，咋还没一个拿到满分",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507630&idx=1&sn=b4e128d638e195bfc342dc98fd0114fd",
+          "published_at": "2026-06-12T04:07:00Z",
+          "summary": "这次每个模型的耗时都出来了"
+        },
         {
           "id": "068674bd6dd709a9cae04cfa6998f8029338dd64",
           "site_id": "featuredrss",
@@ -222,7 +233,7 @@
           "title": "发了",
           "url": "https://x.com/op7418/status/2065232533521138043",
           "published_at": "2026-06-12T00:39:40Z",
-          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬2🔄4❤️37👀10783📊11⚡ Powered by xgo.ing"
+          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄4❤️39👀13064📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -233,7 +244,7 @@
           "title": "https://t.co/0l7zI5k4X9",
           "url": "https://x.com/op7418/status/2065232309310427565",
           "published_at": "2026-06-12T00:38:47Z",
-          "summary": "x.com/i/article/2065…💬43🔄150❤️743👀99954📊326⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2065…💬49🔄171❤️865👀122881📊379⚡ Powered by xgo.ing"
         },
         {
           "id": "f3db8d3f004139c5a5a1c138b21389f2284cc6ea",
@@ -244,7 +255,7 @@
           "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
           "url": "https://x.com/op7418/status/2065075399231693153",
           "published_at": "2026-06-11T14:15:17Z",
-          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️80👀14827📊31⚡ Powered by xgo.ing"
+          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️84👀16182📊31⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -267,7 +278,7 @@
           "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
           "url": "https://x.com/OpenAI/status/2065225374737543376",
           "published_at": "2026-06-12T00:11:14Z",
-          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬66🔄77❤️1884👀202042📊246⚡ Powered by xgo.ing"
+          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬67🔄83❤️2025👀231255📊262⚡ Powered by xgo.ing"
         },
         {
           "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -307,6 +318,17 @@
   },
   "items": [
     {
+      "id": "c85575e7df626cb638b81fc2da2dd5fd4b149214",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "13个顶级AI重考2026高考数学，咋还没一个拿到满分",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507630&idx=1&sn=b4e128d638e195bfc342dc98fd0114fd",
+      "published_at": "2026-06-12T04:07:00Z",
+      "summary": "这次每个模型的耗时都出来了"
+    },
+    {
       "id": "068674bd6dd709a9cae04cfa6998f8029338dd64",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -337,7 +359,7 @@
       "title": "发了",
       "url": "https://x.com/op7418/status/2065232533521138043",
       "published_at": "2026-06-12T00:39:40Z",
-      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬2🔄4❤️37👀10783📊11⚡ Powered by xgo.ing"
+      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄4❤️39👀13064📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -348,7 +370,7 @@
       "title": "https://t.co/0l7zI5k4X9",
       "url": "https://x.com/op7418/status/2065232309310427565",
       "published_at": "2026-06-12T00:38:47Z",
-      "summary": "x.com/i/article/2065…💬43🔄150❤️743👀99954📊326⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2065…💬49🔄171❤️865👀122881📊379⚡ Powered by xgo.ing"
     },
     {
       "id": "5441b21c93f498ebea72f3317478841ea47ef4f0",
@@ -359,7 +381,7 @@
       "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
       "url": "https://x.com/OpenAI/status/2065225374737543376",
       "published_at": "2026-06-12T00:11:14Z",
-      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬66🔄77❤️1884👀202042📊246⚡ Powered by xgo.ing"
+      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬67🔄83❤️2025👀231255📊262⚡ Powered by xgo.ing"
     },
     {
       "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -403,7 +425,7 @@
       "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
       "url": "https://x.com/op7418/status/2065075399231693153",
       "published_at": "2026-06-11T14:15:17Z",
-      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️80👀14827📊31⚡ Powered by xgo.ing"
+      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️84👀16182📊31⚡ Powered by xgo.ing"
     }
   ]
 }
