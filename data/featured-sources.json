@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T01:55:13.633700Z",
+  "generated_at": "2026-06-12T06:28:30.837671Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 341,
+      "duration_ms": 333,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 66,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1887,
+      "duration_ms": 1538,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1994,
+      "duration_ms": 1644,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1061,
+      "duration_ms": 949,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 563,
+      "duration_ms": 1238,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 801,
+      "duration_ms": 1012,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 10,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3559,
+      "duration_ms": 2894,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1023,
+      "duration_ms": 675,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "1a04eb6bd45ebf2a081bdb64e3a2d6902e6e0ed5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "万字长文：做了些爆款 Skills 以后，我对 Skills 的看法\n\n最近做了几个传播还不错的 Skills后，我对 Skills 的理解也有些变化。\n\n这篇文章算是我目前对 Skills 最系统的...",
+          "url": "https://x.com/op7418/status/2065250352266637532",
+          "published_at": "2026-06-12T01:50:29Z",
+          "summary": "万字长文：做了些爆款 Skills 以后，我对 Skills 的看法 最近做了几个传播还不错的 Skills后，我对 Skills 的理解也有些变化。 这篇文章算是我目前对 Skills 最系统的一次复盘。 我写了为什么 Agent 不是聊天框，为什么 Agent 会放大人的能力差距，为什么 Skill 可能是普通用户真正用好 Agent 的关键中间层； 也写了一个好 Skill 应该怎么设计、怎么维护、怎么分发，为什么 Skill 生态不能只做成仓库列表，以及内容、产品、案例、反馈之间如何形成一个持续迭代的飞轮。 这不是一篇概念科普，也不是对别人观点的…"
+        },
         {
           "id": "5c6e7d87ffbbc215dd585dd30a0b68c7ccaaff5e",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "发了",
           "url": "https://x.com/op7418/status/2065232533521138043",
           "published_at": "2026-06-12T00:39:40Z",
-          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬0🔄0❤️5👀1959📊1⚡ Powered by xgo.ing"
+          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬1🔄3❤️22👀6007📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -211,7 +222,7 @@
           "title": "https://t.co/0l7zI5k4X9",
           "url": "https://x.com/op7418/status/2065232309310427565",
           "published_at": "2026-06-12T00:38:47Z",
-          "summary": "x.com/i/article/2065…💬12🔄24❤️118👀10462📊60⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2065…💬36🔄99❤️532👀60631📊234⚡ Powered by xgo.ing"
         },
         {
           "id": "f3db8d3f004139c5a5a1c138b21389f2284cc6ea",
@@ -222,7 +233,7 @@
           "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
           "url": "https://x.com/op7418/status/2065075399231693153",
           "published_at": "2026-06-11T14:15:17Z",
-          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬23🔄4❤️73👀9187📊29⚡ Powered by xgo.ing"
+          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️80👀11949📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
@@ -245,28 +256,6 @@
           "url": "https://x.com/op7418/status/2064984016005242961",
           "published_at": "2026-06-11T08:12:09Z",
           "summary": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。ClaudeDevs@ClaudeDevsWe’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and…"
-        },
-        {
-          "id": "be48d38ee0c4dd6b6a3b0efc73e84c89a3ce6e15",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我现在 Twitter 时间线上只有两类内容，非常诡异：\n\n一种是充斥着所谓“一句话生成”的很漂亮的那种用 Fable 5 生成的网页；\n\n第二种是除了 Anthropic 自家的 AI 研究员，全在...",
-          "url": "https://x.com/op7418/status/2064909864867074294",
-          "published_at": "2026-06-11T03:17:30Z",
-          "summary": "我现在 Twitter 时间线上只有两类内容，非常诡异： 一种是充斥着所谓“一句话生成”的很漂亮的那种用 Fable 5 生成的网页； 第二种是除了 Anthropic 自家的 AI 研究员，全在抨击 Anthropic 这次发布 Fable 5 的各种行为。 这次 Anthropic 真是惹了众怒，几乎所有我关注的研究员都在骂他们。大家主要抨击的是以下几个问题： 安全风险 它的安全护栏极其严格。你哪怕问它最基本的初中生物学问题，都会被拒绝回答。这导致很多生物学研究员和团队无法获得正常许可来进行科学研究。 数据存储政策 Mythos 和 Fable 模型…"
-        },
-        {
-          "id": "00893276f2497822847484364137dd7608e2dfa2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "从0到1带你速通WorkBuddy，这可能是最适合国内的Agent产品。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683487&idx=1&sn=195063e8db911ac43256a80dcb556a2e",
-          "published_at": "2026-06-11T01:58:00Z",
-          "summary": "开箱即用"
         }
       ]
     },
@@ -289,7 +278,7 @@
           "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
           "url": "https://x.com/OpenAI/status/2065225374737543376",
           "published_at": "2026-06-12T00:11:14Z",
-          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬35🔄32❤️645👀48290📊92⚡ Powered by xgo.ing"
+          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬57🔄69❤️1513👀152674📊202⚡ Powered by xgo.ing"
         },
         {
           "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -329,6 +318,17 @@
   },
   "items": [
     {
+      "id": "1a04eb6bd45ebf2a081bdb64e3a2d6902e6e0ed5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "万字长文：做了些爆款 Skills 以后，我对 Skills 的看法\n\n最近做了几个传播还不错的 Skills后，我对 Skills 的理解也有些变化。\n\n这篇文章算是我目前对 Skills 最系统的...",
+      "url": "https://x.com/op7418/status/2065250352266637532",
+      "published_at": "2026-06-12T01:50:29Z",
+      "summary": "万字长文：做了些爆款 Skills 以后，我对 Skills 的看法 最近做了几个传播还不错的 Skills后，我对 Skills 的理解也有些变化。 这篇文章算是我目前对 Skills 最系统的一次复盘。 我写了为什么 Agent 不是聊天框，为什么 Agent 会放大人的能力差距，为什么 Skill 可能是普通用户真正用好 Agent 的关键中间层； 也写了一个好 Skill 应该怎么设计、怎么维护、怎么分发，为什么 Skill 生态不能只做成仓库列表，以及内容、产品、案例、反馈之间如何形成一个持续迭代的飞轮。 这不是一篇概念科普，也不是对别人观点的…"
+    },
+    {
       "id": "5c6e7d87ffbbc215dd585dd30a0b68c7ccaaff5e",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -337,7 +337,7 @@
       "title": "发了",
       "url": "https://x.com/op7418/status/2065232533521138043",
       "published_at": "2026-06-12T00:39:40Z",
-      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬0🔄0❤️5👀1959📊1⚡ Powered by xgo.ing"
+      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬1🔄3❤️22👀6007📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -348,7 +348,7 @@
       "title": "https://t.co/0l7zI5k4X9",
       "url": "https://x.com/op7418/status/2065232309310427565",
       "published_at": "2026-06-12T00:38:47Z",
-      "summary": "x.com/i/article/2065…💬12🔄24❤️118👀10462📊60⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2065…💬36🔄99❤️532👀60631📊234⚡ Powered by xgo.ing"
     },
     {
       "id": "5441b21c93f498ebea72f3317478841ea47ef4f0",
@@ -359,7 +359,7 @@
       "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
       "url": "https://x.com/OpenAI/status/2065225374737543376",
       "published_at": "2026-06-12T00:11:14Z",
-      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬35🔄32❤️645👀48290📊92⚡ Powered by xgo.ing"
+      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬57🔄69❤️1513👀152674📊202⚡ Powered by xgo.ing"
     },
     {
       "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -403,7 +403,7 @@
       "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
       "url": "https://x.com/op7418/status/2065075399231693153",
       "published_at": "2026-06-11T14:15:17Z",
-      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬23🔄4❤️73👀9187📊29⚡ Powered by xgo.ing"
+      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️80👀11949📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
@@ -426,28 +426,6 @@
       "url": "https://x.com/op7418/status/2064984016005242961",
       "published_at": "2026-06-11T08:12:09Z",
       "summary": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。ClaudeDevs@ClaudeDevsWe’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and…"
-    },
-    {
-      "id": "be48d38ee0c4dd6b6a3b0efc73e84c89a3ce6e15",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我现在 Twitter 时间线上只有两类内容，非常诡异：\n\n一种是充斥着所谓“一句话生成”的很漂亮的那种用 Fable 5 生成的网页；\n\n第二种是除了 Anthropic 自家的 AI 研究员，全在...",
-      "url": "https://x.com/op7418/status/2064909864867074294",
-      "published_at": "2026-06-11T03:17:30Z",
-      "summary": "我现在 Twitter 时间线上只有两类内容，非常诡异： 一种是充斥着所谓“一句话生成”的很漂亮的那种用 Fable 5 生成的网页； 第二种是除了 Anthropic 自家的 AI 研究员，全在抨击 Anthropic 这次发布 Fable 5 的各种行为。 这次 Anthropic 真是惹了众怒，几乎所有我关注的研究员都在骂他们。大家主要抨击的是以下几个问题： 安全风险 它的安全护栏极其严格。你哪怕问它最基本的初中生物学问题，都会被拒绝回答。这导致很多生物学研究员和团队无法获得正常许可来进行科学研究。 数据存储政策 Mythos 和 Fable 模型…"
-    },
-    {
-      "id": "00893276f2497822847484364137dd7608e2dfa2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "从0到1带你速通WorkBuddy，这可能是最适合国内的Agent产品。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683487&idx=1&sn=195063e8db911ac43256a80dcb556a2e",
-      "published_at": "2026-06-11T01:58:00Z",
-      "summary": "开箱即用"
     }
   ]
 }
