@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T23:17:12.668533Z",
+  "generated_at": "2026-06-12T01:55:13.633700Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 484,
+      "duration_ms": 341,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 30,
+      "duration_ms": 66,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1331,
+      "duration_ms": 1887,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1496,
+      "duration_ms": 1994,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 720,
+      "duration_ms": 1061,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 921,
+      "duration_ms": 563,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 648,
+      "duration_ms": 801,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 62,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2350,
+      "duration_ms": 3559,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 330,
+      "duration_ms": 1023,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "5c6e7d87ffbbc215dd585dd30a0b68c7ccaaff5e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "发了",
+          "url": "https://x.com/op7418/status/2065232533521138043",
+          "published_at": "2026-06-12T00:39:40Z",
+          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬0🔄0❤️5👀1959📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/0l7zI5k4X9",
+          "url": "https://x.com/op7418/status/2065232309310427565",
+          "published_at": "2026-06-12T00:38:47Z",
+          "summary": "x.com/i/article/2065…💬12🔄24❤️118👀10462📊60⚡ Powered by xgo.ing"
+        },
         {
           "id": "f3db8d3f004139c5a5a1c138b21389f2284cc6ea",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
           "url": "https://x.com/op7418/status/2065075399231693153",
           "published_at": "2026-06-11T14:15:17Z",
-          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬20🔄4❤️69👀6851📊26⚡ Powered by xgo.ing"
+          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬23🔄4❤️73👀9187📊29⚡ Powered by xgo.ing"
         },
         {
           "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
@@ -250,7 +272,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -258,6 +280,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "5441b21c93f498ebea72f3317478841ea47ef4f0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
+          "url": "https://x.com/OpenAI/status/2065225374737543376",
+          "published_at": "2026-06-12T00:11:14Z",
+          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬35🔄32❤️645👀48290📊92⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We heard you wanted to use Codex rate limit resets on your own time.\n\nStarting today, we’re rolling ...",
+          "url": "https://x.com/OpenAI/status/2065225362544726371",
+          "published_at": "2026-06-12T00:11:11Z",
+          "summary": "We heard you wanted to use Codex rate limit resets on your own time. Starting today, we’re rolling out the ability to save rate limit resets to use later. We’re starting Go, Plus, Pro, and Business users with one free reset:Your browser does not support the video tag.🔗 View on Tw…"
+        },
         {
           "id": "57976d32f01b4be158272e9cf49c57d01c860eb6",
           "site_id": "featuredrss",
@@ -284,6 +328,50 @@
     }
   },
   "items": [
+    {
+      "id": "5c6e7d87ffbbc215dd585dd30a0b68c7ccaaff5e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "发了",
+      "url": "https://x.com/op7418/status/2065232533521138043",
+      "published_at": "2026-06-12T00:39:40Z",
+      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬0🔄0❤️5👀1959📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/0l7zI5k4X9",
+      "url": "https://x.com/op7418/status/2065232309310427565",
+      "published_at": "2026-06-12T00:38:47Z",
+      "summary": "x.com/i/article/2065…💬12🔄24❤️118👀10462📊60⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5441b21c93f498ebea72f3317478841ea47ef4f0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
+      "url": "https://x.com/OpenAI/status/2065225374737543376",
+      "published_at": "2026-06-12T00:11:14Z",
+      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬35🔄32❤️645👀48290📊92⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We heard you wanted to use Codex rate limit resets on your own time.\n\nStarting today, we’re rolling ...",
+      "url": "https://x.com/OpenAI/status/2065225362544726371",
+      "published_at": "2026-06-12T00:11:11Z",
+      "summary": "We heard you wanted to use Codex rate limit resets on your own time. Starting today, we’re rolling out the ability to save rate limit resets to use later. We’re starting Go, Plus, Pro, and Business users with one free reset:Your browser does not support the video tag.🔗 View on Tw…"
+    },
     {
       "id": "57976d32f01b4be158272e9cf49c57d01c860eb6",
       "site_id": "featuredrss",
@@ -315,7 +403,7 @@
       "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
       "url": "https://x.com/op7418/status/2065075399231693153",
       "published_at": "2026-06-11T14:15:17Z",
-      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬20🔄4❤️69👀6851📊26⚡ Powered by xgo.ing"
+      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬23🔄4❤️73👀9187📊29⚡ Powered by xgo.ing"
     },
     {
       "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
