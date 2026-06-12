@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T13:59:37.062721Z",
+  "generated_at": "2026-06-12T16:47:07.668082Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 205,
+      "duration_ms": 417,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 34,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1378,
+      "duration_ms": 1322,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1567,
+      "duration_ms": 1413,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 923,
+      "duration_ms": 583,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 623,
+      "duration_ms": 455,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 953,
+      "duration_ms": 950,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 22,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2499,
+      "duration_ms": 2442,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 399,
+      "duration_ms": 755,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -233,7 +233,7 @@
           "title": "发了",
           "url": "https://x.com/op7418/status/2065232533521138043",
           "published_at": "2026-06-12T00:39:40Z",
-          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄4❤️39👀13064📊14⚡ Powered by xgo.ing"
+          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄5❤️45👀15491📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -244,24 +244,13 @@
           "title": "https://t.co/0l7zI5k4X9",
           "url": "https://x.com/op7418/status/2065232309310427565",
           "published_at": "2026-06-12T00:38:47Z",
-          "summary": "x.com/i/article/2065…💬49🔄171❤️865👀122881📊379⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f3db8d3f004139c5a5a1c138b21389f2284cc6ea",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
-          "url": "https://x.com/op7418/status/2065075399231693153",
-          "published_at": "2026-06-11T14:15:17Z",
-          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️84👀16182📊31⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2065…💬52🔄198❤️986👀144675📊430⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -278,7 +267,7 @@
           "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
           "url": "https://x.com/OpenAI/status/2065225374737543376",
           "published_at": "2026-06-12T00:11:14Z",
-          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬67🔄83❤️2025👀231255📊262⚡ Powered by xgo.ing"
+          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬73🔄86❤️2138👀253000📊278⚡ Powered by xgo.ing"
         },
         {
           "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -301,17 +290,6 @@
           "url": "https://x.com/GeminiApp/status/2065183026884296963",
           "published_at": "2026-06-11T21:22:57Z",
           "summary": "Get a closer look at Gemini's new Neural Expressive design language at our next Discord community event. Product Marketing Manager Megan C. will be discussing some of her favorite highlights that help improve the Gemini experience, from dynamic visual responses to seamless mode s…"
-        },
-        {
-          "id": "fbc50e79667c0898cf23cefc34f85eeb93f3c040",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland...",
-          "url": "https://x.com/GeminiApp/status/2065097165433983253",
-          "published_at": "2026-06-11T15:41:46Z",
-          "summary": "Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland. With notebooks, you can organize your projects in a dedicated, focused space that remembers your sources, instructions, and chats. Create your own notebook at gemini.google or in…"
         }
       ]
     }
@@ -359,7 +337,7 @@
       "title": "发了",
       "url": "https://x.com/op7418/status/2065232533521138043",
       "published_at": "2026-06-12T00:39:40Z",
-      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄4❤️39👀13064📊14⚡ Powered by xgo.ing"
+      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄5❤️45👀15491📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -370,7 +348,7 @@
       "title": "https://t.co/0l7zI5k4X9",
       "url": "https://x.com/op7418/status/2065232309310427565",
       "published_at": "2026-06-12T00:38:47Z",
-      "summary": "x.com/i/article/2065…💬49🔄171❤️865👀122881📊379⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2065…💬52🔄198❤️986👀144675📊430⚡ Powered by xgo.ing"
     },
     {
       "id": "5441b21c93f498ebea72f3317478841ea47ef4f0",
@@ -381,7 +359,7 @@
       "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
       "url": "https://x.com/OpenAI/status/2065225374737543376",
       "published_at": "2026-06-12T00:11:14Z",
-      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬67🔄83❤️2025👀231255📊262⚡ Powered by xgo.ing"
+      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬73🔄86❤️2138👀253000📊278⚡ Powered by xgo.ing"
     },
     {
       "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -404,28 +382,6 @@
       "url": "https://x.com/GeminiApp/status/2065183026884296963",
       "published_at": "2026-06-11T21:22:57Z",
       "summary": "Get a closer look at Gemini's new Neural Expressive design language at our next Discord community event. Product Marketing Manager Megan C. will be discussing some of her favorite highlights that help improve the Gemini experience, from dynamic visual responses to seamless mode s…"
-    },
-    {
-      "id": "fbc50e79667c0898cf23cefc34f85eeb93f3c040",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland...",
-      "url": "https://x.com/GeminiApp/status/2065097165433983253",
-      "published_at": "2026-06-11T15:41:46Z",
-      "summary": "Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland. With notebooks, you can organize your projects in a dedicated, focused space that remembers your sources, instructions, and chats. Create your own notebook at gemini.google or in…"
-    },
-    {
-      "id": "f3db8d3f004139c5a5a1c138b21389f2284cc6ea",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
-      "url": "https://x.com/op7418/status/2065075399231693153",
-      "published_at": "2026-06-11T14:15:17Z",
-      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️84👀16182📊31⚡ Powered by xgo.ing"
     }
   ]
 }
