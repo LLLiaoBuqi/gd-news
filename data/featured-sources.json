@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T06:28:30.837671Z",
+  "generated_at": "2026-06-12T10:49:26.523319Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 333,
+      "duration_ms": 361,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 18,
+      "duration_ms": 38,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1538,
+      "duration_ms": 1446,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1644,
+      "duration_ms": 1552,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 949,
+      "duration_ms": 967,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1238,
+      "duration_ms": 799,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1012,
+      "duration_ms": 1231,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 10,
+      "duration_ms": 30,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2894,
+      "duration_ms": 2459,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 675,
+      "duration_ms": 839,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "068674bd6dd709a9cae04cfa6998f8029338dd64",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683508&idx=1&sn=aa14e401d44137aa648fb242b97f2473",
+          "published_at": "2026-06-12T02:08:00Z",
+          "summary": "涌现比对齐更可怕"
+        },
         {
           "id": "1a04eb6bd45ebf2a081bdb64e3a2d6902e6e0ed5",
           "site_id": "featuredrss",
@@ -211,7 +222,7 @@
           "title": "发了",
           "url": "https://x.com/op7418/status/2065232533521138043",
           "published_at": "2026-06-12T00:39:40Z",
-          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬1🔄3❤️22👀6007📊6⚡ Powered by xgo.ing"
+          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬2🔄4❤️37👀10783📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -222,7 +233,7 @@
           "title": "https://t.co/0l7zI5k4X9",
           "url": "https://x.com/op7418/status/2065232309310427565",
           "published_at": "2026-06-12T00:38:47Z",
-          "summary": "x.com/i/article/2065…💬36🔄99❤️532👀60631📊234⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2065…💬43🔄150❤️743👀99954📊326⚡ Powered by xgo.ing"
         },
         {
           "id": "f3db8d3f004139c5a5a1c138b21389f2284cc6ea",
@@ -233,29 +244,7 @@
           "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
           "url": "https://x.com/op7418/status/2065075399231693153",
           "published_at": "2026-06-11T14:15:17Z",
-          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️80👀11949📊31⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "开源「鲁班」Skill，Claude Fable 5下线前我最想跑通的工作流！",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507601&idx=1&sn=1a380ff822eec24c4631dc9383c9cd12",
-          "published_at": "2026-06-11T10:37:00Z",
-          "summary": "用Fable 5给自己的Skill打磨升级！"
-        },
-        {
-          "id": "3d0e337efa72dacdc877b83c0192229f8af8774a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。",
-          "url": "https://x.com/op7418/status/2064984016005242961",
-          "published_at": "2026-06-11T08:12:09Z",
-          "summary": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。ClaudeDevs@ClaudeDevsWe’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and…"
+          "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️80👀14827📊31⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -278,7 +267,7 @@
           "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
           "url": "https://x.com/OpenAI/status/2065225374737543376",
           "published_at": "2026-06-12T00:11:14Z",
-          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬57🔄69❤️1513👀152674📊202⚡ Powered by xgo.ing"
+          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬66🔄77❤️1884👀202042📊246⚡ Powered by xgo.ing"
         },
         {
           "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -318,6 +307,17 @@
   },
   "items": [
     {
+      "id": "068674bd6dd709a9cae04cfa6998f8029338dd64",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683508&idx=1&sn=aa14e401d44137aa648fb242b97f2473",
+      "published_at": "2026-06-12T02:08:00Z",
+      "summary": "涌现比对齐更可怕"
+    },
+    {
       "id": "1a04eb6bd45ebf2a081bdb64e3a2d6902e6e0ed5",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -337,7 +337,7 @@
       "title": "发了",
       "url": "https://x.com/op7418/status/2065232533521138043",
       "published_at": "2026-06-12T00:39:40Z",
-      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬1🔄3❤️22👀6007📊6⚡ Powered by xgo.ing"
+      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬2🔄4❤️37👀10783📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -348,7 +348,7 @@
       "title": "https://t.co/0l7zI5k4X9",
       "url": "https://x.com/op7418/status/2065232309310427565",
       "published_at": "2026-06-12T00:38:47Z",
-      "summary": "x.com/i/article/2065…💬36🔄99❤️532👀60631📊234⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2065…💬43🔄150❤️743👀99954📊326⚡ Powered by xgo.ing"
     },
     {
       "id": "5441b21c93f498ebea72f3317478841ea47ef4f0",
@@ -359,7 +359,7 @@
       "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
       "url": "https://x.com/OpenAI/status/2065225374737543376",
       "published_at": "2026-06-12T00:11:14Z",
-      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬57🔄69❤️1513👀152674📊202⚡ Powered by xgo.ing"
+      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬66🔄77❤️1884👀202042📊246⚡ Powered by xgo.ing"
     },
     {
       "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -403,29 +403,7 @@
       "title": "搞了一篇万字长文，聊一聊 Skill，\n\n创作、分发、展示、边界，明天早上发",
       "url": "https://x.com/op7418/status/2065075399231693153",
       "published_at": "2026-06-11T14:15:17Z",
-      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️80👀11949📊31⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2d63a1b42a7a0e8b1569bdc9eabb0303cdd63164",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "开源「鲁班」Skill，Claude Fable 5下线前我最想跑通的工作流！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507601&idx=1&sn=1a380ff822eec24c4631dc9383c9cd12",
-      "published_at": "2026-06-11T10:37:00Z",
-      "summary": "用Fable 5给自己的Skill打磨升级！"
-    },
-    {
-      "id": "3d0e337efa72dacdc877b83c0192229f8af8774a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。",
-      "url": "https://x.com/op7418/status/2064984016005242961",
-      "published_at": "2026-06-11T08:12:09Z",
-      "summary": "Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候提供明显的通知。ClaudeDevs@ClaudeDevsWe’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and…"
+      "summary": "搞了一篇万字长文，聊一聊 Skill， 创作、分发、展示、边界，明天早上发💬24🔄4❤️80👀14827📊31⚡ Powered by xgo.ing"
     }
   ]
 }
