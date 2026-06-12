@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T16:47:07.668082Z",
+  "generated_at": "2026-06-12T19:00:18.633586Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 417,
+      "duration_ms": 206,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 18,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1322,
+      "duration_ms": 1328,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1413,
+      "duration_ms": 1214,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 583,
+      "duration_ms": 752,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 455,
+      "duration_ms": 588,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 950,
+      "duration_ms": 954,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 23,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2442,
+      "duration_ms": 2427,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 755,
+      "duration_ms": 623,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -233,7 +233,7 @@
           "title": "发了",
           "url": "https://x.com/op7418/status/2065232533521138043",
           "published_at": "2026-06-12T00:39:40Z",
-          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄5❤️45👀15491📊16⚡ Powered by xgo.ing"
+          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄8❤️47👀16490📊17⚡ Powered by xgo.ing"
         },
         {
           "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -244,13 +244,13 @@
           "title": "https://t.co/0l7zI5k4X9",
           "url": "https://x.com/op7418/status/2065232309310427565",
           "published_at": "2026-06-12T00:38:47Z",
-          "summary": "x.com/i/article/2065…💬52🔄198❤️986👀144675📊430⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2065…💬55🔄205❤️1050👀155474📊455⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -258,6 +258,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "d5d2b3ceb7838480072e3b6a51623d9cc03f419e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "This event is happening soon! Join the Gemini Discord here: https://t.co/HP167R2KrM",
+          "url": "https://x.com/GeminiApp/status/2065479404273471650",
+          "published_at": "2026-06-12T17:00:39Z",
+          "summary": "This event is happening soon! Join the Gemini Discord here: discord.gg/geminiGoogle Gemini@GeminiAppGet a closer look at Gemini's new Neural Expressive design language at our next Discord community event. Product Marketing Manager Megan C. will be discussing some of her favorite…"
+        },
+        {
+          "id": "6e80e1de89cd3bbfe4157df1a8812cd2aa2cc1cb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Here’s what launched this week:\n\n— Gemini 3.5 Live Translate our latest audio model for live speech-...",
+          "url": "https://x.com/GoogleAI/status/2065478191247130703",
+          "published_at": "2026-06-12T16:55:50Z",
+          "summary": "Here’s what launched this week: — Gemini 3.5 Live Translate our latest audio model for live speech-to-speech translation — @NotebookLM got a major upgrade including agentic capabilities in chat, more advanced reasoning, and a suite of new output formats — Project Genie from @Goog…"
+        },
         {
           "id": "5441b21c93f498ebea72f3317478841ea47ef4f0",
           "site_id": "featuredrss",
@@ -267,7 +289,7 @@
           "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
           "url": "https://x.com/OpenAI/status/2065225374737543376",
           "published_at": "2026-06-12T00:11:14Z",
-          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬73🔄86❤️2138👀253000📊278⚡ Powered by xgo.ing"
+          "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬74🔄89❤️2183👀263679📊283⚡ Powered by xgo.ing"
         },
         {
           "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
@@ -295,6 +317,28 @@
     }
   },
   "items": [
+    {
+      "id": "d5d2b3ceb7838480072e3b6a51623d9cc03f419e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "This event is happening soon! Join the Gemini Discord here: https://t.co/HP167R2KrM",
+      "url": "https://x.com/GeminiApp/status/2065479404273471650",
+      "published_at": "2026-06-12T17:00:39Z",
+      "summary": "This event is happening soon! Join the Gemini Discord here: discord.gg/geminiGoogle Gemini@GeminiAppGet a closer look at Gemini's new Neural Expressive design language at our next Discord community event. Product Marketing Manager Megan C. will be discussing some of her favorite…"
+    },
+    {
+      "id": "6e80e1de89cd3bbfe4157df1a8812cd2aa2cc1cb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Here’s what launched this week:\n\n— Gemini 3.5 Live Translate our latest audio model for live speech-...",
+      "url": "https://x.com/GoogleAI/status/2065478191247130703",
+      "published_at": "2026-06-12T16:55:50Z",
+      "summary": "Here’s what launched this week: — Gemini 3.5 Live Translate our latest audio model for live speech-to-speech translation — @NotebookLM got a major upgrade including agentic capabilities in chat, more advanced reasoning, and a suite of new output formats — Project Genie from @Goog…"
+    },
     {
       "id": "c85575e7df626cb638b81fc2da2dd5fd4b149214",
       "site_id": "featuredrss",
@@ -337,7 +381,7 @@
       "title": "发了",
       "url": "https://x.com/op7418/status/2065232533521138043",
       "published_at": "2026-06-12T00:39:40Z",
-      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄5❤️45👀15491📊16⚡ Powered by xgo.ing"
+      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄8❤️47👀16490📊17⚡ Powered by xgo.ing"
     },
     {
       "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
@@ -348,7 +392,7 @@
       "title": "https://t.co/0l7zI5k4X9",
       "url": "https://x.com/op7418/status/2065232309310427565",
       "published_at": "2026-06-12T00:38:47Z",
-      "summary": "x.com/i/article/2065…💬52🔄198❤️986👀144675📊430⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2065…💬55🔄205❤️1050👀155474📊455⚡ Powered by xgo.ing"
     },
     {
       "id": "5441b21c93f498ebea72f3317478841ea47ef4f0",
@@ -359,7 +403,7 @@
       "title": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.\n\nWhen a frie...",
       "url": "https://x.com/OpenAI/status/2065225374737543376",
       "published_at": "2026-06-12T00:11:14Z",
-      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬73🔄86❤️2138👀253000📊278⚡ Powered by xgo.ing"
+      "summary": "For the next two weeks, Plus and Pro users can invite up to three friends to try Codex. When a friend sends their first Codex message, you’ll both get another banked reset.💬74🔄89❤️2183👀263679📊283⚡ Powered by xgo.ing"
     },
     {
       "id": "5bff776d2d632fa9fe108ee9c5b23ac059cf5754",
