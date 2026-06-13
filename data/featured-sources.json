@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T00:15:22.011850Z",
+  "generated_at": "2026-06-13T04:57:57.942084Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 345,
+      "duration_ms": 339,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 68,
+      "duration_ms": 66,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1353,
+      "duration_ms": 1500,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1546,
+      "duration_ms": 1589,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1011,
+      "duration_ms": 992,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1080,
+      "duration_ms": 675,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1210,
+      "duration_ms": 1079,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 60,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2386,
+      "duration_ms": 2466,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 698,
+      "duration_ms": 1035,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,59 +192,15 @@
       ],
       "items": [
         {
-          "id": "c85575e7df626cb638b81fc2da2dd5fd4b149214",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "13个顶级AI重考2026高考数学，咋还没一个拿到满分",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507630&idx=1&sn=b4e128d638e195bfc342dc98fd0114fd",
-          "published_at": "2026-06-12T04:07:00Z",
-          "summary": "这次每个模型的耗时都出来了"
-        },
-        {
-          "id": "068674bd6dd709a9cae04cfa6998f8029338dd64",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683508&idx=1&sn=aa14e401d44137aa648fb242b97f2473",
-          "published_at": "2026-06-12T02:08:00Z",
-          "summary": "涌现比对齐更可怕"
-        },
-        {
-          "id": "1a04eb6bd45ebf2a081bdb64e3a2d6902e6e0ed5",
+          "id": "dcc9f74bf18e35e3deb7c9f59d99e1743af5856b",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "万字长文：做了些爆款 Skills 以后，我对 Skills 的看法\n\n最近做了几个传播还不错的 Skills后，我对 Skills 的理解也有些变化。\n\n这篇文章算是我目前对 Skills 最系统的...",
-          "url": "https://x.com/op7418/status/2065250352266637532",
-          "published_at": "2026-06-12T01:50:29Z",
-          "summary": "万字长文：做了些爆款 Skills 以后，我对 Skills 的看法 最近做了几个传播还不错的 Skills后，我对 Skills 的理解也有些变化。 这篇文章算是我目前对 Skills 最系统的一次复盘。 我写了为什么 Agent 不是聊天框，为什么 Agent 会放大人的能力差距，为什么 Skill 可能是普通用户真正用好 Agent 的关键中间层； 也写了一个好 Skill 应该怎么设计、怎么维护、怎么分发，为什么 Skill 生态不能只做成仓库列表，以及内容、产品、案例、反馈之间如何形成一个持续迭代的飞轮。 这不是一篇概念科普，也不是对别人观点的…"
-        },
-        {
-          "id": "5c6e7d87ffbbc215dd585dd30a0b68c7ccaaff5e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "发了",
-          "url": "https://x.com/op7418/status/2065232533521138043",
-          "published_at": "2026-06-12T00:39:40Z",
-          "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄9❤️57👀17853📊19⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "https://t.co/0l7zI5k4X9",
-          "url": "https://x.com/op7418/status/2065232309310427565",
-          "published_at": "2026-06-12T00:38:47Z",
-          "summary": "x.com/i/article/2065…💬60🔄223❤️1142👀175899📊500⚡ Powered by xgo.ing"
+          "title": "Anthropic 这个公司太搞笑了。\n\n天天技术恐吓，天天让国家注意 AI 安全，这下把自己套进去了。\n\n美国政府要求他们禁止给任何非美国公民，哪怕是在美国的人提供 fable 5 的访问。\n\n他们...",
+          "url": "https://x.com/op7418/status/2065602682644250862",
+          "published_at": "2026-06-13T01:10:31Z",
+          "summary": "Anthropic 这个公司太搞笑了。 天天技术恐吓，天天让国家注意 AI 安全，这下把自己套进去了。 美国政府要求他们禁止给任何非美国公民，哪怕是在美国的人提供 fable 5 的访问。 他们没办法保证这个，只能先下掉了所有人的访问权限。Anthropic@AnthropicAIThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos…"
         }
       ]
     },
@@ -285,6 +241,17 @@
   },
   "items": [
     {
+      "id": "dcc9f74bf18e35e3deb7c9f59d99e1743af5856b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anthropic 这个公司太搞笑了。\n\n天天技术恐吓，天天让国家注意 AI 安全，这下把自己套进去了。\n\n美国政府要求他们禁止给任何非美国公民，哪怕是在美国的人提供 fable 5 的访问。\n\n他们...",
+      "url": "https://x.com/op7418/status/2065602682644250862",
+      "published_at": "2026-06-13T01:10:31Z",
+      "summary": "Anthropic 这个公司太搞笑了。 天天技术恐吓，天天让国家注意 AI 安全，这下把自己套进去了。 美国政府要求他们禁止给任何非美国公民，哪怕是在美国的人提供 fable 5 的访问。 他们没办法保证这个，只能先下掉了所有人的访问权限。Anthropic@AnthropicAIThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos…"
+    },
+    {
       "id": "d5d2b3ceb7838480072e3b6a51623d9cc03f419e",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -305,61 +272,6 @@
       "url": "https://x.com/GoogleAI/status/2065478191247130703",
       "published_at": "2026-06-12T16:55:50Z",
       "summary": "Here’s what launched this week: — Gemini 3.5 Live Translate our latest audio model for live speech-to-speech translation — @NotebookLM got a major upgrade including agentic capabilities in chat, more advanced reasoning, and a suite of new output formats — Project Genie from @Goog…"
-    },
-    {
-      "id": "c85575e7df626cb638b81fc2da2dd5fd4b149214",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "13个顶级AI重考2026高考数学，咋还没一个拿到满分",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507630&idx=1&sn=b4e128d638e195bfc342dc98fd0114fd",
-      "published_at": "2026-06-12T04:07:00Z",
-      "summary": "这次每个模型的耗时都出来了"
-    },
-    {
-      "id": "068674bd6dd709a9cae04cfa6998f8029338dd64",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683508&idx=1&sn=aa14e401d44137aa648fb242b97f2473",
-      "published_at": "2026-06-12T02:08:00Z",
-      "summary": "涌现比对齐更可怕"
-    },
-    {
-      "id": "1a04eb6bd45ebf2a081bdb64e3a2d6902e6e0ed5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "万字长文：做了些爆款 Skills 以后，我对 Skills 的看法\n\n最近做了几个传播还不错的 Skills后，我对 Skills 的理解也有些变化。\n\n这篇文章算是我目前对 Skills 最系统的...",
-      "url": "https://x.com/op7418/status/2065250352266637532",
-      "published_at": "2026-06-12T01:50:29Z",
-      "summary": "万字长文：做了些爆款 Skills 以后，我对 Skills 的看法 最近做了几个传播还不错的 Skills后，我对 Skills 的理解也有些变化。 这篇文章算是我目前对 Skills 最系统的一次复盘。 我写了为什么 Agent 不是聊天框，为什么 Agent 会放大人的能力差距，为什么 Skill 可能是普通用户真正用好 Agent 的关键中间层； 也写了一个好 Skill 应该怎么设计、怎么维护、怎么分发，为什么 Skill 生态不能只做成仓库列表，以及内容、产品、案例、反馈之间如何形成一个持续迭代的飞轮。 这不是一篇概念科普，也不是对别人观点的…"
-    },
-    {
-      "id": "5c6e7d87ffbbc215dd585dd30a0b68c7ccaaff5e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "发了",
-      "url": "https://x.com/op7418/status/2065232533521138043",
-      "published_at": "2026-06-12T00:39:40Z",
-      "summary": "发了歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬3🔄9❤️57👀17853📊19⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "9baf216e3bcf29a800b2a727f57c5fb2cf97f6c0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "https://t.co/0l7zI5k4X9",
-      "url": "https://x.com/op7418/status/2065232309310427565",
-      "published_at": "2026-06-12T00:38:47Z",
-      "summary": "x.com/i/article/2065…💬60🔄223❤️1142👀175899📊500⚡ Powered by xgo.ing"
     }
   ]
 }
