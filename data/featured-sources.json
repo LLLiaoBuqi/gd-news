@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T12:21:31.448800Z",
+  "generated_at": "2026-06-13T14:35:40.303693Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 188,
+      "duration_ms": 178,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1248,
+      "duration_ms": 1433,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1366,
+      "duration_ms": 1303,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 930,
+      "duration_ms": 560,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 703,
+      "duration_ms": 1098,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1062,
+      "duration_ms": 843,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2541,
+      "duration_ms": 2336,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 701,
+      "duration_ms": 452,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "a89576e50587fb1b049858e379d208a5de448580",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "想换份工吗？阿真搓了一个简历生成器，30秒做10版简历！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497783&idx=1&sn=fa3c81799ed9f4d6cf57e3dbe41d2be5",
+          "published_at": "2026-06-13T06:14:00Z",
+          "summary": "朋友们有需要可以试试，下次有需要记得来找这篇~"
+        },
         {
           "id": "d103ef0811027df984991d7911a6c4a895256139",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "重置了",
           "url": "https://x.com/op7418/status/2065666521507209465",
           "published_at": "2026-06-13T05:24:11Z",
-          "summary": "重置了ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬0🔄0❤️6👀6755📊1⚡ Powered by xgo.ing"
+          "summary": "重置了ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬0🔄0❤️6👀7486📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "dcc9f74bf18e35e3deb7c9f59d99e1743af5856b",
@@ -252,6 +263,17 @@
   },
   "items": [
     {
+      "id": "a89576e50587fb1b049858e379d208a5de448580",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "想换份工吗？阿真搓了一个简历生成器，30秒做10版简历！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497783&idx=1&sn=fa3c81799ed9f4d6cf57e3dbe41d2be5",
+      "published_at": "2026-06-13T06:14:00Z",
+      "summary": "朋友们有需要可以试试，下次有需要记得来找这篇~"
+    },
+    {
       "id": "d103ef0811027df984991d7911a6c4a895256139",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -260,7 +282,7 @@
       "title": "重置了",
       "url": "https://x.com/op7418/status/2065666521507209465",
       "published_at": "2026-06-13T05:24:11Z",
-      "summary": "重置了ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬0🔄0❤️6👀6755📊1⚡ Powered by xgo.ing"
+      "summary": "重置了ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬0🔄0❤️6👀7486📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "dcc9f74bf18e35e3deb7c9f59d99e1743af5856b",
