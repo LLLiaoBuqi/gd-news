@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T16:10:24.519996Z",
+  "generated_at": "2026-06-13T17:51:27.571467Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 165,
+      "duration_ms": 219,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 15,
+      "duration_ms": 26,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1240,
+      "duration_ms": 1310,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1326,
+      "duration_ms": 1471,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 729,
+      "duration_ms": 934,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 476,
+      "duration_ms": 851,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 682,
+      "duration_ms": 956,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2543,
+      "duration_ms": 2275,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 455,
+      "duration_ms": 404,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -211,7 +211,7 @@
           "title": "重置了",
           "url": "https://x.com/op7418/status/2065666521507209465",
           "published_at": "2026-06-13T05:24:11Z",
-          "summary": "重置了ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬0🔄0❤️6👀7783📊1⚡ Powered by xgo.ing"
+          "summary": "重置了ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬0🔄0❤️6👀8313📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "dcc9f74bf18e35e3deb7c9f59d99e1743af5856b",
@@ -228,37 +228,14 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "d5d2b3ceb7838480072e3b6a51623d9cc03f419e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "This event is happening soon! Join the Gemini Discord here: https://t.co/HP167R2KrM",
-          "url": "https://x.com/GeminiApp/status/2065479404273471650",
-          "published_at": "2026-06-12T17:00:39Z",
-          "summary": "This event is happening soon! Join the Gemini Discord here: discord.gg/geminiGoogle Gemini@GeminiAppGet a closer look at Gemini's new Neural Expressive design language at our next Discord community event. Product Marketing Manager Megan C. will be discussing some of her favorite…"
-        },
-        {
-          "id": "6e80e1de89cd3bbfe4157df1a8812cd2aa2cc1cb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Here’s what launched this week:\n\n— Gemini 3.5 Live Translate our latest audio model for live speech-...",
-          "url": "https://x.com/GoogleAI/status/2065478191247130703",
-          "published_at": "2026-06-12T16:55:50Z",
-          "summary": "Here’s what launched this week: — Gemini 3.5 Live Translate our latest audio model for live speech-to-speech translation — @NotebookLM got a major upgrade including agentic capabilities in chat, more advanced reasoning, and a suite of new output formats — Project Genie from @Goog…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -282,7 +259,7 @@
       "title": "重置了",
       "url": "https://x.com/op7418/status/2065666521507209465",
       "published_at": "2026-06-13T05:24:11Z",
-      "summary": "重置了ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬0🔄0❤️6👀7783📊1⚡ Powered by xgo.ing"
+      "summary": "重置了ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬0🔄0❤️6👀8313📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "dcc9f74bf18e35e3deb7c9f59d99e1743af5856b",
@@ -294,28 +271,6 @@
       "url": "https://x.com/op7418/status/2065602682644250862",
       "published_at": "2026-06-13T01:10:31Z",
       "summary": "Anthropic 这个公司太搞笑了。 天天技术恐吓，天天让国家注意 AI 安全，这下把自己套进去了。 美国政府要求他们禁止给任何非美国公民，哪怕是在美国的人提供 fable 5 的访问。 他们没办法保证这个，只能先下掉了所有人的访问权限。Anthropic@AnthropicAIThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos…"
-    },
-    {
-      "id": "d5d2b3ceb7838480072e3b6a51623d9cc03f419e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "This event is happening soon! Join the Gemini Discord here: https://t.co/HP167R2KrM",
-      "url": "https://x.com/GeminiApp/status/2065479404273471650",
-      "published_at": "2026-06-12T17:00:39Z",
-      "summary": "This event is happening soon! Join the Gemini Discord here: discord.gg/geminiGoogle Gemini@GeminiAppGet a closer look at Gemini's new Neural Expressive design language at our next Discord community event. Product Marketing Manager Megan C. will be discussing some of her favorite…"
-    },
-    {
-      "id": "6e80e1de89cd3bbfe4157df1a8812cd2aa2cc1cb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Here’s what launched this week:\n\n— Gemini 3.5 Live Translate our latest audio model for live speech-...",
-      "url": "https://x.com/GoogleAI/status/2065478191247130703",
-      "published_at": "2026-06-12T16:55:50Z",
-      "summary": "Here’s what launched this week: — Gemini 3.5 Live Translate our latest audio model for live speech-to-speech translation — @NotebookLM got a major upgrade including agentic capabilities in chat, more advanced reasoning, and a suite of new output formats — Project Genie from @Goog…"
     }
   ]
 }
