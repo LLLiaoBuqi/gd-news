@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14T23:43:42.117660Z",
+  "generated_at": "2026-06-15T03:32:04.752522Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 200,
+      "duration_ms": 349,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 20,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1419,
+      "duration_ms": 1674,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1293,
+      "duration_ms": 1547,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 577,
+      "duration_ms": 925,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1046,
+      "duration_ms": 748,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 796,
+      "duration_ms": 1195,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 20,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2575,
+      "duration_ms": 2888,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 4,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 407,
+      "duration_ms": 836,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,25 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "807febb82d6a3468d173e73c0793eb14c3f06264",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "周一上午痛苦摸鱼的时候可以看看",
+          "url": "https://x.com/op7418/status/2066334201767776554",
+          "published_at": "2026-06-15T01:37:18Z",
+          "summary": "周一上午痛苦摸鱼的时候可以看看歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬10🔄3❤️13👀6269📊10⚡ Powered by xgo.ing"
+        }
+      ]
     },
     "global": {
       "label": "国外精选",
@@ -211,12 +223,23 @@
           "title": "What a race for @LandoNorris and @McLarenF1 💪 Another podium finish in the books 🧡",
           "url": "https://x.com/GeminiApp/status/2066174657129267248",
           "published_at": "2026-06-14T15:03:20Z",
-          "summary": "What a race for @LandoNorris and @McLarenF1 💪 Another podium finish in the books 🧡💬14🔄12❤️174👀17922📊30⚡ Powered by xgo.ing"
+          "summary": "What a race for @LandoNorris and @McLarenF1 💪 Another podium finish in the books 🧡💬14🔄12❤️186👀20956📊30⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "807febb82d6a3468d173e73c0793eb14c3f06264",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "周一上午痛苦摸鱼的时候可以看看",
+      "url": "https://x.com/op7418/status/2066334201767776554",
+      "published_at": "2026-06-15T01:37:18Z",
+      "summary": "周一上午痛苦摸鱼的时候可以看看歸藏(guizang.ai)@op7418x.com/i/article/2065…🔗 View Quoted Tweet💬10🔄3❤️13👀6269📊10⚡ Powered by xgo.ing"
+    },
     {
       "id": "e1b478574196448eab16847869a272e56e586b19",
       "site_id": "featuredrss",
@@ -226,7 +249,7 @@
       "title": "What a race for @LandoNorris and @McLarenF1 💪 Another podium finish in the books 🧡",
       "url": "https://x.com/GeminiApp/status/2066174657129267248",
       "published_at": "2026-06-14T15:03:20Z",
-      "summary": "What a race for @LandoNorris and @McLarenF1 💪 Another podium finish in the books 🧡💬14🔄12❤️174👀17922📊30⚡ Powered by xgo.ing"
+      "summary": "What a race for @LandoNorris and @McLarenF1 💪 Another podium finish in the books 🧡💬14🔄12❤️186👀20956📊30⚡ Powered by xgo.ing"
     }
   ]
 }
