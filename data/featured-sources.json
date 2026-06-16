@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16T16:00:26.442284Z",
+  "generated_at": "2026-06-16T19:42:50.316966Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 494,
+      "duration_ms": 143,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 28,
+      "duration_ms": 38,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1367,
+      "duration_ms": 1400,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1472,
+      "duration_ms": 1546,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 787,
+      "duration_ms": 682,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 415,
+      "duration_ms": 1195,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1093,
+      "duration_ms": 595,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 31,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2659,
+      "duration_ms": 2825,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 811,
+      "duration_ms": 973,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c11795bf0b64251a17b7f9cd9c819c2ece7c56ba",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Space X 用股票交易，600 亿美元收购了 Cursor\n\n考虑到 Cursor 只有几十个人这个人效太猛了，同时 Cursor 除了软件也还有自己基于开源模型训练的编码模型\n\n感觉新的 Gor...",
+          "url": "https://x.com/op7418/status/2066921764735832162",
+          "published_at": "2026-06-16T16:32:04Z",
+          "summary": "Space X 用股票交易，600 亿美元收购了 Cursor 考虑到 Cursor 只有几十个人这个人效太猛了，同时 Cursor 除了软件也还有自己基于开源模型训练的编码模型 感觉新的 Gork 有戏了啊SpaceX@SpaceXSpaceX has exercised the option to acquire @cursor_ai in an all-stock transaction with the goal of building the world’s most useful AI models. For the past few mon…"
+        },
         {
           "id": "973d8bd74db44d6a5dd2b8cd05df8ae0626ed12c",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "看来是想先稳定一下用户",
           "url": "https://x.com/op7418/status/2066717100597752023",
           "published_at": "2026-06-16T02:58:49Z",
-          "summary": "看来是想先稳定一下用户💬0🔄0❤️1👀4080⚡ Powered by xgo.ing"
+          "summary": "看来是想先稳定一下用户💬0🔄0❤️1👀4294⚡ Powered by xgo.ing"
         },
         {
           "id": "1bae754c751b67be607bab8b4da8853a91355871",
@@ -211,7 +222,7 @@
           "title": "Anthropic 叫停了关于 Agent SDK  六月以后不能使用 Claude 订阅额度的这个改动\n\n就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Cla...",
           "url": "https://x.com/op7418/status/2066716449062989856",
           "published_at": "2026-06-16T02:56:13Z",
-          "summary": "Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。 用不完的朋友们可以继续爽了Aron Prins@aronprinsBreaking News: Claude is pausing the Agent SDK credit change!🔗 View Quoted Tweet💬36🔄0❤️25👀17804📊26⚡ Powered by xgo.…"
+          "summary": "Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。 用不完的朋友们可以继续爽了Aron Prins@aronprinsBreaking News: Claude is pausing the Agent SDK credit change!🔗 View Quoted Tweet💬40🔄0❤️25👀18673📊29⚡ Powered by xgo.…"
         },
         {
           "id": "c1450db8cd8ff12891b1d32f3e5990462ff4cf60",
@@ -250,17 +261,117 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "897bb4de45e88c4bc9d4b139a8535fe42d92a3f2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/5u8ANPIHBe\n\nApple\nhttps://t.co/ZhhRA1ZB27\n\nYo...",
+          "url": "https://x.com/OpenAI/status/2066934697004089626",
+          "published_at": "2026-06-16T17:23:28Z",
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/5pkjhU… Apple podcasts.apple.com/us/podcast/why… YouTube youtu.be/CFqjjKp9Y-Q💬8🔄4❤️52👀25802📊12⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "f4082161aec685839041da5ac65882b59ee994f6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Let’s talk about evals.\n\nWe’re always looking for better ways to measure and forecast model progress...",
+          "url": "https://x.com/OpenAI/status/2066934692641956231",
+          "published_at": "2026-06-16T17:23:27Z",
+          "summary": "Let’s talk about evals. We’re always looking for better ways to measure and forecast model progress, especially as benchmarks get saturated or gamed. @tejalpatwardhan, who leads our frontier evals team, spoke to @andrewmayne about why evals matter and what models need to be judge…"
+        },
+        {
+          "id": "8cc30ed90c6b73bb91db36f30dbc6d1fc3edccb2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Organize your day before you even wake up with Daily Brief, your new morning AI agent. Here are some...",
+          "url": "https://x.com/GeminiApp/status/2066917638568333400",
+          "published_at": "2026-06-16T16:15:41Z",
+          "summary": "Organize your day before you even wake up with Daily Brief, your new morning AI agent. Here are some helpful tips from the Gemini app team to help you get the most out of your Daily Brief: 1) Thumbs up 👍 or thumbs down 👎to give feedback: This is the quickest and most direct way t…"
+        },
+        {
+          "id": "2f2b64b76af30861469bbb81ad580c5c02f49317",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S....",
+          "url": "https://x.com/GeminiApp/status/2066917639692353673",
+          "published_at": "2026-06-16T16:15:41Z",
+          "summary": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S. Learn more about Daily Brief in Gemini: gemini.google/overview/daily…💬4🔄5❤️60👀9222📊11⚡ Powered by xgo.ing"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "897bb4de45e88c4bc9d4b139a8535fe42d92a3f2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/5u8ANPIHBe\n\nApple\nhttps://t.co/ZhhRA1ZB27\n\nYo...",
+      "url": "https://x.com/OpenAI/status/2066934697004089626",
+      "published_at": "2026-06-16T17:23:28Z",
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/5pkjhU… Apple podcasts.apple.com/us/podcast/why… YouTube youtu.be/CFqjjKp9Y-Q💬8🔄4❤️52👀25802📊12⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "f4082161aec685839041da5ac65882b59ee994f6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Let’s talk about evals.\n\nWe’re always looking for better ways to measure and forecast model progress...",
+      "url": "https://x.com/OpenAI/status/2066934692641956231",
+      "published_at": "2026-06-16T17:23:27Z",
+      "summary": "Let’s talk about evals. We’re always looking for better ways to measure and forecast model progress, especially as benchmarks get saturated or gamed. @tejalpatwardhan, who leads our frontier evals team, spoke to @andrewmayne about why evals matter and what models need to be judge…"
+    },
+    {
+      "id": "c11795bf0b64251a17b7f9cd9c819c2ece7c56ba",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Space X 用股票交易，600 亿美元收购了 Cursor\n\n考虑到 Cursor 只有几十个人这个人效太猛了，同时 Cursor 除了软件也还有自己基于开源模型训练的编码模型\n\n感觉新的 Gor...",
+      "url": "https://x.com/op7418/status/2066921764735832162",
+      "published_at": "2026-06-16T16:32:04Z",
+      "summary": "Space X 用股票交易，600 亿美元收购了 Cursor 考虑到 Cursor 只有几十个人这个人效太猛了，同时 Cursor 除了软件也还有自己基于开源模型训练的编码模型 感觉新的 Gork 有戏了啊SpaceX@SpaceXSpaceX has exercised the option to acquire @cursor_ai in an all-stock transaction with the goal of building the world’s most useful AI models. For the past few mon…"
+    },
+    {
+      "id": "8cc30ed90c6b73bb91db36f30dbc6d1fc3edccb2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Organize your day before you even wake up with Daily Brief, your new morning AI agent. Here are some...",
+      "url": "https://x.com/GeminiApp/status/2066917638568333400",
+      "published_at": "2026-06-16T16:15:41Z",
+      "summary": "Organize your day before you even wake up with Daily Brief, your new morning AI agent. Here are some helpful tips from the Gemini app team to help you get the most out of your Daily Brief: 1) Thumbs up 👍 or thumbs down 👎to give feedback: This is the quickest and most direct way t…"
+    },
+    {
+      "id": "2f2b64b76af30861469bbb81ad580c5c02f49317",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S....",
+      "url": "https://x.com/GeminiApp/status/2066917639692353673",
+      "published_at": "2026-06-16T16:15:41Z",
+      "summary": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S. Learn more about Daily Brief in Gemini: gemini.google/overview/daily…💬4🔄5❤️60👀9222📊11⚡ Powered by xgo.ing"
+    },
     {
       "id": "973d8bd74db44d6a5dd2b8cd05df8ae0626ed12c",
       "site_id": "featuredrss",
@@ -270,7 +381,7 @@
       "title": "看来是想先稳定一下用户",
       "url": "https://x.com/op7418/status/2066717100597752023",
       "published_at": "2026-06-16T02:58:49Z",
-      "summary": "看来是想先稳定一下用户💬0🔄0❤️1👀4080⚡ Powered by xgo.ing"
+      "summary": "看来是想先稳定一下用户💬0🔄0❤️1👀4294⚡ Powered by xgo.ing"
     },
     {
       "id": "1bae754c751b67be607bab8b4da8853a91355871",
@@ -281,7 +392,7 @@
       "title": "Anthropic 叫停了关于 Agent SDK  六月以后不能使用 Claude 订阅额度的这个改动\n\n就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Cla...",
       "url": "https://x.com/op7418/status/2066716449062989856",
       "published_at": "2026-06-16T02:56:13Z",
-      "summary": "Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。 用不完的朋友们可以继续爽了Aron Prins@aronprinsBreaking News: Claude is pausing the Agent SDK credit change!🔗 View Quoted Tweet💬36🔄0❤️25👀17804📊26⚡ Powered by xgo.…"
+      "summary": "Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。 用不完的朋友们可以继续爽了Aron Prins@aronprinsBreaking News: Claude is pausing the Agent SDK credit change!🔗 View Quoted Tweet💬40🔄0❤️25👀18673📊29⚡ Powered by xgo.…"
     },
     {
       "id": "c1450db8cd8ff12891b1d32f3e5990462ff4cf60",
