@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-17T16:34:04.919279Z",
+  "generated_at": "2026-06-17T19:21:11.166995Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 19,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 158,
+      "duration_ms": 153,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 14,
-      "duration_ms": 137,
+      "item_count": 16,
+      "duration_ms": 165,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1643,
+      "duration_ms": 1651,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1515,
+      "duration_ms": 1755,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 970,
+      "duration_ms": 789,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 802,
+      "duration_ms": 653,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1263,
+      "duration_ms": 1267,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 12,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2610,
+      "duration_ms": 2685,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 3,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 944,
+      "duration_ms": 995,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 11,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "bea3a5a8b950b40b818aecc39f50615da29f64e6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。\n\n当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了",
+          "url": "https://x.com/op7418/status/2067308157026882001",
+          "published_at": "2026-06-17T18:07:28Z",
+          "summary": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。 当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了Your browser does not support the video tag.🔗 View on Twitter💬3🔄0❤️6👀2589📊4⚡ Powered by xgo.ing"
+        },
         {
           "id": "63cb464c1fa664ed0f8521b54bf5c44650b0672d",
           "site_id": "featuredrss",
@@ -211,7 +222,7 @@
           "title": "即梦上了 Seedance 2.0  Mini，便宜了不少\n\n可以玩玩了",
           "url": "https://x.com/op7418/status/2067190464449749255",
           "published_at": "2026-06-17T10:19:47Z",
-          "summary": "即梦上了 Seedance 2.0 Mini，便宜了不少 可以玩玩了💬12🔄0❤️14👀5081📊11⚡ Powered by xgo.ing"
+          "summary": "即梦上了 Seedance 2.0 Mini，便宜了不少 可以玩玩了💬15🔄0❤️18👀5823📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "656bbe7ee654d073f72d3c5a12b0032bf41195ed",
@@ -222,7 +233,7 @@
           "title": "可以 跟他说了要加图之后加的不错",
           "url": "https://x.com/op7418/status/2067095014677856644",
           "published_at": "2026-06-17T04:00:30Z",
-          "summary": "可以 跟他说了要加图之后加的不错💬3🔄0❤️7👀8938📊3⚡ Powered by xgo.ing"
+          "summary": "可以 跟他说了要加图之后加的不错💬3🔄0❤️8👀9518📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "8066979704b10e114d35a87b8b86f9bf2aff0fc8",
@@ -233,7 +244,7 @@
           "title": "GLM-5.2 指令遵循不错，调模板的能力也不错，但在自主性和创造性上可能差一点。\n\n文档里虽然有图片链接，但他不知道把图片加进去\n丢了不少内容",
           "url": "https://x.com/op7418/status/2067091909890421193",
           "published_at": "2026-06-17T03:48:10Z",
-          "summary": "GLM-5.2 指令遵循不错，调模板的能力也不错，但在自主性和创造性上可能差一点。 文档里虽然有图片链接，但他不知道把图片加进去 丢了不少内容💬3🔄0❤️12👀9594📊4⚡ Powered by xgo.ing"
+          "summary": "GLM-5.2 指令遵循不错，调模板的能力也不错，但在自主性和创造性上可能差一点。 文档里虽然有图片链接，但他不知道把图片加进去 丢了不少内容💬3🔄0❤️13👀10193📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "204917e95d2f539bdad7b71cc3d9362c415ca503",
@@ -255,7 +266,7 @@
           "title": "智谱 GLM-5.2 可以在 Codepilot 模型管理里面自行添加哈",
           "url": "https://x.com/op7418/status/2067088428047770016",
           "published_at": "2026-06-17T03:34:20Z",
-          "summary": "智谱 GLM-5.2 可以在 Codepilot 模型管理里面自行添加哈歸藏(guizang.ai)@op7418智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。🔗 View Quoted Tweet💬1🔄0❤️22👀9032📊3⚡ Powered by xgo.ing"
+          "summary": "智谱 GLM-5.2 可以在 Codepilot 模型管理里面自行添加哈歸藏(guizang.ai)@op7418智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。🔗 View Quoted Tweet💬1🔄0❤️23👀9784📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "b7a3b4bfa9f2b6b1c63347636469846e4752be60",
@@ -266,7 +277,7 @@
           "title": "现在发现 OpenAI 在服务上是真的牛逼。\n\n在 Codex 这么补贴的情况下，用户增长也很快，依然能提供非常稳定而且快速的服务。\n\n最近其他几家都慢得不行了，再不然就是给你降额度。",
           "url": "https://x.com/op7418/status/2067082963905651064",
           "published_at": "2026-06-17T03:12:37Z",
-          "summary": "现在发现 OpenAI 在服务上是真的牛逼。 在 Codex 这么补贴的情况下，用户增长也很快，依然能提供非常稳定而且快速的服务。 最近其他几家都慢得不行了，再不然就是给你降额度。💬89🔄1❤️197👀44053📊90⚡ Powered by xgo.ing"
+          "summary": "现在发现 OpenAI 在服务上是真的牛逼。 在 Codex 这么补贴的情况下，用户增长也很快，依然能提供非常稳定而且快速的服务。 最近其他几家都慢得不行了，再不然就是给你降额度。💬95🔄1❤️214👀47319📊96⚡ Powered by xgo.ing"
         },
         {
           "id": "3cf01348780944ac04e34da38fc430ad7d16b4fb",
@@ -288,7 +299,7 @@
           "title": "网页构建工具 Framer 终于上线了 Agent 能力\n\n由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了",
           "url": "https://x.com/op7418/status/2067073608393109651",
           "published_at": "2026-06-17T02:35:27Z",
-          "summary": "网页构建工具 Framer 终于上线了 Agent 能力 由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了Your browser does not support the video tag.🔗 View on Twitter💬5🔄0❤️23👀7091📊8⚡ Powered by xgo.ing"
+          "summary": "网页构建工具 Framer 终于上线了 Agent 能力 由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了Your browser does not support the video tag.🔗 View on Twitter💬5🔄0❤️25👀7443📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "a36f7caf6374b312407d2909252489077e9bde2b",
@@ -305,7 +316,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -313,6 +324,61 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "5398c3b61f4f7293326b7b26214ad1df274aaef1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "The full process took about 2.5 months, plus another half month for human chemists to write up the r...",
+          "url": "https://x.com/OpenAI/status/2067293751362679170",
+          "published_at": "2026-06-17T17:10:13Z",
+          "summary": "The full process took about 2.5 months, plus another half month for human chemists to write up the results. This is an early example of frontier models supporting more of the scientific research loop: reviewing studies, proposing hypotheses, designing experiments, interpreting da…"
+        },
+        {
+          "id": "2c67a9b77f460d46683d8468f2836a1732fd31fc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Maria tested the idea across 10,080 reactions, and human chemists later validated representative res...",
+          "url": "https://x.com/OpenAI/status/2067293749412339980",
+          "published_at": "2026-06-17T17:10:12Z",
+          "summary": "Maria tested the idea across 10,080 reactions, and human chemists later validated representative results by hand. Under the optimized conditions, yields improved for 88% of the boronic acids and 83% of the sulfonamides tested. Human chemists then repeated 14 representative reacti…"
+        },
+        {
+          "id": "46ab3cca678b4947a802257b5c8686fa6d1e5062",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimenta...",
+          "url": "https://x.com/OpenAI/status/2067293745075442171",
+          "published_at": "2026-06-17T17:10:11Z",
+          "summary": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result. Paired with Molecule.one’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery.Your browser does not su…"
+        },
+        {
+          "id": "453c58f6fc7780bb8d6ea3cecbf60f0f07c54a50",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "To get started:\n1) Head to https://t.co/382WL5xSvc or the app\n2) Select “Images” in the side panel\n3...",
+          "url": "https://x.com/GeminiApp/status/2067286585893356007",
+          "published_at": "2026-06-17T16:41:45Z",
+          "summary": "To get started: 1) Head to gemini.google or the app 2) Select “Images” in the side panel 3) Choose from any of the “Get in the game” templates 4) Upload your photo and share your creations in the replies!💬2🔄3❤️21👀5612📊5⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "eeb444ecd5a3a86e74d7210ce7a510ace666f9a5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and mo...",
+          "url": "https://x.com/GeminiApp/status/2067286544373940406",
+          "published_at": "2026-06-17T16:41:35Z",
+          "summary": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and more with the new Nano Banana 2 templates in Gemini. ⚽️💬22🔄21❤️158👀11458📊40⚡ Powered by xgo.ing"
+        },
         {
           "id": "7adf8a71669a3058a7cc89799b9cd8a8b0568934",
           "site_id": "featuredrss",
@@ -344,34 +410,78 @@
           "title": "We’re sharing new research on a method for anticipating how models may behave in real-world use befo...",
           "url": "https://x.com/OpenAI/status/2066969635099144682",
           "published_at": "2026-06-16T19:42:18Z",
-          "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. openai.com/index/deployme…💬200🔄216❤️2326👀270030📊459⚡ Powered by x…"
-        },
-        {
-          "id": "897bb4de45e88c4bc9d4b139a8535fe42d92a3f2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/5u8ANPIHBe\n\nApple\nhttps://t.co/ZhhRA1ZB27\n\nYo...",
-          "url": "https://x.com/OpenAI/status/2066934697004089626",
-          "published_at": "2026-06-16T17:23:28Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/5pkjhU… Apple podcasts.apple.com/us/podcast/why… YouTube youtu.be/CFqjjKp9Y-Q💬9🔄5❤️97👀57593📊18⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f4082161aec685839041da5ac65882b59ee994f6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Let’s talk about evals.\n\nWe’re always looking for better ways to measure and forecast model progress...",
-          "url": "https://x.com/OpenAI/status/2066934692641956231",
-          "published_at": "2026-06-16T17:23:27Z",
-          "summary": "Let’s talk about evals. We’re always looking for better ways to measure and forecast model progress, especially as benchmarks get saturated or gamed. @tejalpatwardhan, who leads our frontier evals team, spoke to @andrewmayne about why evals matter and what models need to be judge…"
+          "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. openai.com/index/deployme…💬206🔄225❤️2393👀282498📊476⚡ Powered by x…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "bea3a5a8b950b40b818aecc39f50615da29f64e6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。\n\n当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了",
+      "url": "https://x.com/op7418/status/2067308157026882001",
+      "published_at": "2026-06-17T18:07:28Z",
+      "summary": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。 当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了Your browser does not support the video tag.🔗 View on Twitter💬3🔄0❤️6👀2589📊4⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5398c3b61f4f7293326b7b26214ad1df274aaef1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "The full process took about 2.5 months, plus another half month for human chemists to write up the r...",
+      "url": "https://x.com/OpenAI/status/2067293751362679170",
+      "published_at": "2026-06-17T17:10:13Z",
+      "summary": "The full process took about 2.5 months, plus another half month for human chemists to write up the results. This is an early example of frontier models supporting more of the scientific research loop: reviewing studies, proposing hypotheses, designing experiments, interpreting da…"
+    },
+    {
+      "id": "2c67a9b77f460d46683d8468f2836a1732fd31fc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Maria tested the idea across 10,080 reactions, and human chemists later validated representative res...",
+      "url": "https://x.com/OpenAI/status/2067293749412339980",
+      "published_at": "2026-06-17T17:10:12Z",
+      "summary": "Maria tested the idea across 10,080 reactions, and human chemists later validated representative results by hand. Under the optimized conditions, yields improved for 88% of the boronic acids and 83% of the sulfonamides tested. Human chemists then repeated 14 representative reacti…"
+    },
+    {
+      "id": "46ab3cca678b4947a802257b5c8686fa6d1e5062",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimenta...",
+      "url": "https://x.com/OpenAI/status/2067293745075442171",
+      "published_at": "2026-06-17T17:10:11Z",
+      "summary": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result. Paired with Molecule.one’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery.Your browser does not su…"
+    },
+    {
+      "id": "453c58f6fc7780bb8d6ea3cecbf60f0f07c54a50",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "To get started:\n1) Head to https://t.co/382WL5xSvc or the app\n2) Select “Images” in the side panel\n3...",
+      "url": "https://x.com/GeminiApp/status/2067286585893356007",
+      "published_at": "2026-06-17T16:41:45Z",
+      "summary": "To get started: 1) Head to gemini.google or the app 2) Select “Images” in the side panel 3) Choose from any of the “Get in the game” templates 4) Upload your photo and share your creations in the replies!💬2🔄3❤️21👀5612📊5⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "eeb444ecd5a3a86e74d7210ce7a510ace666f9a5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and mo...",
+      "url": "https://x.com/GeminiApp/status/2067286544373940406",
+      "published_at": "2026-06-17T16:41:35Z",
+      "summary": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and more with the new Nano Banana 2 templates in Gemini. ⚽️💬22🔄21❤️158👀11458📊40⚡ Powered by xgo.ing"
+    },
     {
       "id": "63cb464c1fa664ed0f8521b54bf5c44650b0672d",
       "site_id": "featuredrss",
@@ -392,7 +502,7 @@
       "title": "即梦上了 Seedance 2.0  Mini，便宜了不少\n\n可以玩玩了",
       "url": "https://x.com/op7418/status/2067190464449749255",
       "published_at": "2026-06-17T10:19:47Z",
-      "summary": "即梦上了 Seedance 2.0 Mini，便宜了不少 可以玩玩了💬12🔄0❤️14👀5081📊11⚡ Powered by xgo.ing"
+      "summary": "即梦上了 Seedance 2.0 Mini，便宜了不少 可以玩玩了💬15🔄0❤️18👀5823📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "656bbe7ee654d073f72d3c5a12b0032bf41195ed",
@@ -403,7 +513,7 @@
       "title": "可以 跟他说了要加图之后加的不错",
       "url": "https://x.com/op7418/status/2067095014677856644",
       "published_at": "2026-06-17T04:00:30Z",
-      "summary": "可以 跟他说了要加图之后加的不错💬3🔄0❤️7👀8938📊3⚡ Powered by xgo.ing"
+      "summary": "可以 跟他说了要加图之后加的不错💬3🔄0❤️8👀9518📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "8066979704b10e114d35a87b8b86f9bf2aff0fc8",
@@ -414,7 +524,7 @@
       "title": "GLM-5.2 指令遵循不错，调模板的能力也不错，但在自主性和创造性上可能差一点。\n\n文档里虽然有图片链接，但他不知道把图片加进去\n丢了不少内容",
       "url": "https://x.com/op7418/status/2067091909890421193",
       "published_at": "2026-06-17T03:48:10Z",
-      "summary": "GLM-5.2 指令遵循不错，调模板的能力也不错，但在自主性和创造性上可能差一点。 文档里虽然有图片链接，但他不知道把图片加进去 丢了不少内容💬3🔄0❤️12👀9594📊4⚡ Powered by xgo.ing"
+      "summary": "GLM-5.2 指令遵循不错，调模板的能力也不错，但在自主性和创造性上可能差一点。 文档里虽然有图片链接，但他不知道把图片加进去 丢了不少内容💬3🔄0❤️13👀10193📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "204917e95d2f539bdad7b71cc3d9362c415ca503",
@@ -436,7 +546,7 @@
       "title": "智谱 GLM-5.2 可以在 Codepilot 模型管理里面自行添加哈",
       "url": "https://x.com/op7418/status/2067088428047770016",
       "published_at": "2026-06-17T03:34:20Z",
-      "summary": "智谱 GLM-5.2 可以在 Codepilot 模型管理里面自行添加哈歸藏(guizang.ai)@op7418智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。🔗 View Quoted Tweet💬1🔄0❤️22👀9032📊3⚡ Powered by xgo.ing"
+      "summary": "智谱 GLM-5.2 可以在 Codepilot 模型管理里面自行添加哈歸藏(guizang.ai)@op7418智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。🔗 View Quoted Tweet💬1🔄0❤️23👀9784📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "b7a3b4bfa9f2b6b1c63347636469846e4752be60",
@@ -447,7 +557,7 @@
       "title": "现在发现 OpenAI 在服务上是真的牛逼。\n\n在 Codex 这么补贴的情况下，用户增长也很快，依然能提供非常稳定而且快速的服务。\n\n最近其他几家都慢得不行了，再不然就是给你降额度。",
       "url": "https://x.com/op7418/status/2067082963905651064",
       "published_at": "2026-06-17T03:12:37Z",
-      "summary": "现在发现 OpenAI 在服务上是真的牛逼。 在 Codex 这么补贴的情况下，用户增长也很快，依然能提供非常稳定而且快速的服务。 最近其他几家都慢得不行了，再不然就是给你降额度。💬89🔄1❤️197👀44053📊90⚡ Powered by xgo.ing"
+      "summary": "现在发现 OpenAI 在服务上是真的牛逼。 在 Codex 这么补贴的情况下，用户增长也很快，依然能提供非常稳定而且快速的服务。 最近其他几家都慢得不行了，再不然就是给你降额度。💬95🔄1❤️214👀47319📊96⚡ Powered by xgo.ing"
     },
     {
       "id": "3cf01348780944ac04e34da38fc430ad7d16b4fb",
@@ -469,7 +579,7 @@
       "title": "网页构建工具 Framer 终于上线了 Agent 能力\n\n由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了",
       "url": "https://x.com/op7418/status/2067073608393109651",
       "published_at": "2026-06-17T02:35:27Z",
-      "summary": "网页构建工具 Framer 终于上线了 Agent 能力 由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了Your browser does not support the video tag.🔗 View on Twitter💬5🔄0❤️23👀7091📊8⚡ Powered by xgo.ing"
+      "summary": "网页构建工具 Framer 终于上线了 Agent 能力 由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了Your browser does not support the video tag.🔗 View on Twitter💬5🔄0❤️25👀7443📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "a36f7caf6374b312407d2909252489077e9bde2b",
@@ -513,29 +623,7 @@
       "title": "We’re sharing new research on a method for anticipating how models may behave in real-world use befo...",
       "url": "https://x.com/OpenAI/status/2066969635099144682",
       "published_at": "2026-06-16T19:42:18Z",
-      "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. openai.com/index/deployme…💬200🔄216❤️2326👀270030📊459⚡ Powered by x…"
-    },
-    {
-      "id": "897bb4de45e88c4bc9d4b139a8535fe42d92a3f2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/5u8ANPIHBe\n\nApple\nhttps://t.co/ZhhRA1ZB27\n\nYo...",
-      "url": "https://x.com/OpenAI/status/2066934697004089626",
-      "published_at": "2026-06-16T17:23:28Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/5pkjhU… Apple podcasts.apple.com/us/podcast/why… YouTube youtu.be/CFqjjKp9Y-Q💬9🔄5❤️97👀57593📊18⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f4082161aec685839041da5ac65882b59ee994f6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Let’s talk about evals.\n\nWe’re always looking for better ways to measure and forecast model progress...",
-      "url": "https://x.com/OpenAI/status/2066934692641956231",
-      "published_at": "2026-06-16T17:23:27Z",
-      "summary": "Let’s talk about evals. We’re always looking for better ways to measure and forecast model progress, especially as benchmarks get saturated or gamed. @tejalpatwardhan, who leads our frontier evals team, spoke to @andrewmayne about why evals matter and what models need to be judge…"
+      "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. openai.com/index/deployme…💬206🔄225❤️2393👀282498📊476⚡ Powered by x…"
     }
   ]
 }
