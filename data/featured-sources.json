@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16T23:53:58.333965Z",
+  "generated_at": "2026-06-17T03:25:16.060260Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 430,
+      "duration_ms": 165,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 24,
+      "duration_ms": 29,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1353,
+      "duration_ms": 1827,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1444,
+      "duration_ms": 2073,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 766,
+      "duration_ms": 1019,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 989,
+      "duration_ms": 850,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 363,
+      "duration_ms": 830,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 21,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2627,
+      "duration_ms": 3227,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 655,
+      "duration_ms": 355,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "3cf01348780944ac04e34da38fc430ad7d16b4fb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人\n\n核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。\n\n架构层面，GLM-5.2 提出了 IndexSh...",
+          "url": "https://x.com/op7418/status/2067077537721954542",
+          "published_at": "2026-06-17T02:51:04Z",
+          "summary": "智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。Z.ai@Zai_orgIntroducing GLM-5.2: Frontier Intelligence, Open Weights - Significant improvements in coding and agen…"
+        },
+        {
+          "id": "ac616a04f17a3138b315c7e68032246f745904c7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "网页构建工具 Framer 终于上线了 Agent 能力\n\n由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了",
+          "url": "https://x.com/op7418/status/2067073608393109651",
+          "published_at": "2026-06-17T02:35:27Z",
+          "summary": "网页构建工具 Framer 终于上线了 Agent 能力 由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️3👀681📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a36f7caf6374b312407d2909252489077e9bde2b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Midjourney 居然要发硬件了",
+          "url": "https://x.com/op7418/status/2067066053465927871",
+          "published_at": "2026-06-17T02:05:26Z",
+          "summary": "Midjourney 居然要发硬件了Midjourney@midjourneyMidjourney will be announcing its first hardware project tomorrow (Wednesday 6/17) at 6pm PT. Stay tuned for a livestream of our in-person launch event in San Francisco. If you're in town and want an invite, reply below, we have just a few s…"
+        },
         {
           "id": "c11795bf0b64251a17b7f9cd9c819c2ece7c56ba",
           "site_id": "featuredrss",
@@ -201,67 +234,12 @@
           "url": "https://x.com/op7418/status/2066921764735832162",
           "published_at": "2026-06-16T16:32:04Z",
           "summary": "Space X 用股票交易，600 亿美元收购了 Cursor 考虑到 Cursor 只有几十个人这个人效太猛了，同时 Cursor 除了软件也还有自己基于开源模型训练的编码模型 感觉新的 Gork 有戏了啊SpaceX@SpaceXSpaceX has exercised the option to acquire @cursor_ai in an all-stock transaction with the goal of building the world’s most useful AI models. For the past few mon…"
-        },
-        {
-          "id": "973d8bd74db44d6a5dd2b8cd05df8ae0626ed12c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "看来是想先稳定一下用户",
-          "url": "https://x.com/op7418/status/2066717100597752023",
-          "published_at": "2026-06-16T02:58:49Z",
-          "summary": "看来是想先稳定一下用户💬0🔄0❤️1👀4489⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1bae754c751b67be607bab8b4da8853a91355871",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Anthropic 叫停了关于 Agent SDK  六月以后不能使用 Claude 订阅额度的这个改动\n\n就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Cla...",
-          "url": "https://x.com/op7418/status/2066716449062989856",
-          "published_at": "2026-06-16T02:56:13Z",
-          "summary": "Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。 用不完的朋友们可以继续爽了Aron Prins@aronprinsBreaking News: Claude is pausing the Agent SDK credit change!🔗 View Quoted Tweet💬42🔄0❤️27👀19339📊30⚡ Powered by xgo.…"
-        },
-        {
-          "id": "c1450db8cd8ff12891b1d32f3e5990462ff4cf60",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "ColaOS制作世界杯答题H5，附H5制作教程分享！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497793&idx=1&sn=c3e259ff46b3444ce59ae149c7890c07",
-          "published_at": "2026-06-16T02:55:00Z",
-          "summary": "保姆级AI生成H5教程～"
-        },
-        {
-          "id": "943e27c245a2c3386c37f6b6dee76d6a402041b5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "Agent可算开始明码接单了，但我发现最难的不是标价",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507719&idx=1&sn=3d2dda289262d37c04fa65099c78e153",
-          "published_at": "2026-06-16T02:45:00Z",
-          "summary": "难的是怎么证明它把活干完了"
-        },
-        {
-          "id": "0c20e7ec9f19494b1d26bef4ffb62822441f8b89",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "2026年的毕业生们，正在花钱向AI证明自己是人类。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683664&idx=1&sn=65f259ffc12a29f754fb94cfc6d5ad5e",
-          "published_at": "2026-06-16T02:06:00Z",
-          "summary": "荒诞的死循环"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 8,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -278,7 +256,7 @@
           "title": "Simulated deployments also reduced evaluation awareness to levels close to real production traffic. ...",
           "url": "https://x.com/OpenAI/status/2066969640727969845",
           "published_at": "2026-06-16T19:42:19Z",
-          "summary": "Simulated deployments also reduced evaluation awareness to levels close to real production traffic. We extended the method to agentic deployments with stateful tools, showing that tool simulators can produce realistic trajectories when given sufficient context and capabilities.💬7…"
+          "summary": "Simulated deployments also reduced evaluation awareness to levels close to real production traffic. We extended the method to agentic deployments with stateful tools, showing that tool simulators can produce realistic trajectories when given sufficient context and capabilities.💬1…"
         },
         {
           "id": "c23af15ddc6063f4e8b83d33d88ae9f293cb7f84",
@@ -300,7 +278,7 @@
           "title": "We’re sharing new research on a method for anticipating how models may behave in real-world use befo...",
           "url": "https://x.com/OpenAI/status/2066969635099144682",
           "published_at": "2026-06-16T19:42:18Z",
-          "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. openai.com/index/deployme…💬103🔄111❤️1376👀112749📊253⚡ Powered by x…"
+          "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. openai.com/index/deployme…💬142🔄155❤️1815👀174223📊343⚡ Powered by x…"
         },
         {
           "id": "897bb4de45e88c4bc9d4b139a8535fe42d92a3f2",
@@ -311,7 +289,7 @@
           "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/5u8ANPIHBe\n\nApple\nhttps://t.co/ZhhRA1ZB27\n\nYo...",
           "url": "https://x.com/OpenAI/status/2066934697004089626",
           "published_at": "2026-06-16T17:23:28Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/5pkjhU… Apple podcasts.apple.com/us/podcast/why… YouTube youtu.be/CFqjjKp9Y-Q💬8🔄4❤️75👀39474📊14⚡ Powered by xgo.ing"
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/5pkjhU… Apple podcasts.apple.com/us/podcast/why… YouTube youtu.be/CFqjjKp9Y-Q💬8🔄5❤️85👀46847📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "f4082161aec685839041da5ac65882b59ee994f6",
@@ -344,23 +322,45 @@
           "title": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S....",
           "url": "https://x.com/GeminiApp/status/2066917639692353673",
           "published_at": "2026-06-16T16:15:41Z",
-          "summary": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S. Learn more about Daily Brief in Gemini: gemini.google/overview/daily…💬5🔄6❤️80👀13987📊14⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5209b642bbd190b6488958a073d97badcde632c1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
-          "url": "https://www.anthropic.com/research/claude-code-expertise",
-          "published_at": "2026-06-16T00:00:00Z",
-          "summary": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise"
+          "summary": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S. Learn more about Daily Brief in Gemini: gemini.google/overview/daily…💬5🔄6❤️85👀15806📊14⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "3cf01348780944ac04e34da38fc430ad7d16b4fb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人\n\n核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。\n\n架构层面，GLM-5.2 提出了 IndexSh...",
+      "url": "https://x.com/op7418/status/2067077537721954542",
+      "published_at": "2026-06-17T02:51:04Z",
+      "summary": "智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。Z.ai@Zai_orgIntroducing GLM-5.2: Frontier Intelligence, Open Weights - Significant improvements in coding and agen…"
+    },
+    {
+      "id": "ac616a04f17a3138b315c7e68032246f745904c7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "网页构建工具 Framer 终于上线了 Agent 能力\n\n由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了",
+      "url": "https://x.com/op7418/status/2067073608393109651",
+      "published_at": "2026-06-17T02:35:27Z",
+      "summary": "网页构建工具 Framer 终于上线了 Agent 能力 由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️3👀681📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a36f7caf6374b312407d2909252489077e9bde2b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Midjourney 居然要发硬件了",
+      "url": "https://x.com/op7418/status/2067066053465927871",
+      "published_at": "2026-06-17T02:05:26Z",
+      "summary": "Midjourney 居然要发硬件了Midjourney@midjourneyMidjourney will be announcing its first hardware project tomorrow (Wednesday 6/17) at 6pm PT. Stay tuned for a livestream of our in-person launch event in San Francisco. If you're in town and want an invite, reply below, we have just a few s…"
+    },
     {
       "id": "7adf8a71669a3058a7cc89799b9cd8a8b0568934",
       "site_id": "featuredrss",
@@ -370,7 +370,7 @@
       "title": "Simulated deployments also reduced evaluation awareness to levels close to real production traffic. ...",
       "url": "https://x.com/OpenAI/status/2066969640727969845",
       "published_at": "2026-06-16T19:42:19Z",
-      "summary": "Simulated deployments also reduced evaluation awareness to levels close to real production traffic. We extended the method to agentic deployments with stateful tools, showing that tool simulators can produce realistic trajectories when given sufficient context and capabilities.💬7…"
+      "summary": "Simulated deployments also reduced evaluation awareness to levels close to real production traffic. We extended the method to agentic deployments with stateful tools, showing that tool simulators can produce realistic trajectories when given sufficient context and capabilities.💬1…"
     },
     {
       "id": "c23af15ddc6063f4e8b83d33d88ae9f293cb7f84",
@@ -392,7 +392,7 @@
       "title": "We’re sharing new research on a method for anticipating how models may behave in real-world use befo...",
       "url": "https://x.com/OpenAI/status/2066969635099144682",
       "published_at": "2026-06-16T19:42:18Z",
-      "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. openai.com/index/deployme…💬103🔄111❤️1376👀112749📊253⚡ Powered by x…"
+      "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. openai.com/index/deployme…💬142🔄155❤️1815👀174223📊343⚡ Powered by x…"
     },
     {
       "id": "897bb4de45e88c4bc9d4b139a8535fe42d92a3f2",
@@ -403,7 +403,7 @@
       "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/5u8ANPIHBe\n\nApple\nhttps://t.co/ZhhRA1ZB27\n\nYo...",
       "url": "https://x.com/OpenAI/status/2066934697004089626",
       "published_at": "2026-06-16T17:23:28Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/5pkjhU… Apple podcasts.apple.com/us/podcast/why… YouTube youtu.be/CFqjjKp9Y-Q💬8🔄4❤️75👀39474📊14⚡ Powered by xgo.ing"
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/episode/5pkjhU… Apple podcasts.apple.com/us/podcast/why… YouTube youtu.be/CFqjjKp9Y-Q💬8🔄5❤️85👀46847📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "f4082161aec685839041da5ac65882b59ee994f6",
@@ -447,73 +447,7 @@
       "title": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S....",
       "url": "https://x.com/GeminiApp/status/2066917639692353673",
       "published_at": "2026-06-16T16:15:41Z",
-      "summary": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S. Learn more about Daily Brief in Gemini: gemini.google/overview/daily…💬5🔄6❤️80👀13987📊14⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "973d8bd74db44d6a5dd2b8cd05df8ae0626ed12c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "看来是想先稳定一下用户",
-      "url": "https://x.com/op7418/status/2066717100597752023",
-      "published_at": "2026-06-16T02:58:49Z",
-      "summary": "看来是想先稳定一下用户💬0🔄0❤️1👀4489⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1bae754c751b67be607bab8b4da8853a91355871",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Anthropic 叫停了关于 Agent SDK  六月以后不能使用 Claude 订阅额度的这个改动\n\n就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Cla...",
-      "url": "https://x.com/op7418/status/2066716449062989856",
-      "published_at": "2026-06-16T02:56:13Z",
-      "summary": "Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。 用不完的朋友们可以继续爽了Aron Prins@aronprinsBreaking News: Claude is pausing the Agent SDK credit change!🔗 View Quoted Tweet💬42🔄0❤️27👀19339📊30⚡ Powered by xgo.…"
-    },
-    {
-      "id": "c1450db8cd8ff12891b1d32f3e5990462ff4cf60",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "ColaOS制作世界杯答题H5，附H5制作教程分享！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497793&idx=1&sn=c3e259ff46b3444ce59ae149c7890c07",
-      "published_at": "2026-06-16T02:55:00Z",
-      "summary": "保姆级AI生成H5教程～"
-    },
-    {
-      "id": "943e27c245a2c3386c37f6b6dee76d6a402041b5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "Agent可算开始明码接单了，但我发现最难的不是标价",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507719&idx=1&sn=3d2dda289262d37c04fa65099c78e153",
-      "published_at": "2026-06-16T02:45:00Z",
-      "summary": "难的是怎么证明它把活干完了"
-    },
-    {
-      "id": "0c20e7ec9f19494b1d26bef4ffb62822441f8b89",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "2026年的毕业生们，正在花钱向AI证明自己是人类。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683664&idx=1&sn=65f259ffc12a29f754fb94cfc6d5ad5e",
-      "published_at": "2026-06-16T02:06:00Z",
-      "summary": "荒诞的死循环"
-    },
-    {
-      "id": "5209b642bbd190b6488958a073d97badcde632c1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
-      "url": "https://www.anthropic.com/research/claude-code-expertise",
-      "published_at": "2026-06-16T00:00:00Z",
-      "summary": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise"
+      "summary": "Daily Brief is available to all Google AI Plus, Pro, and Ultra subscribers 18+, starting in the U.S. Learn more about Daily Brief in Gemini: gemini.google/overview/daily…💬5🔄6❤️85👀15806📊14⚡ Powered by xgo.ing"
     }
   ]
 }
