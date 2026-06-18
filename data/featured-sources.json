@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18T12:47:18.394298Z",
+  "generated_at": "2026-06-18T16:23:10.352994Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 18,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 239,
+      "duration_ms": 524,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 56,
+      "duration_ms": 24,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1553,
+      "duration_ms": 1455,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1660,
+      "duration_ms": 1559,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1034,
+      "duration_ms": 827,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1144,
+      "duration_ms": 1191,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 866,
+      "duration_ms": 1067,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 42,
+      "duration_ms": 17,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2675,
+      "duration_ms": 2793,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 472,
+      "duration_ms": 444,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "b4bf95d1d3d267159575ad1aed4e7efefa930637",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "来了！ 那个游戏将于 6 月 25 号开启预售",
+          "url": "https://x.com/op7418/status/2067612425957040406",
+          "published_at": "2026-06-18T14:16:31Z",
+          "summary": "来了！ 那个游戏将于 6 月 25 号开启预售Rockstar Games@RockstarGamesPre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Check out the official cover art, also available as downloadable artwork at rockstargames.com/VIYour browse…"
+        },
         {
           "id": "ed8bdb9412e77c4999fd15d6bfa127db95d434db",
           "site_id": "featuredrss",
@@ -211,7 +222,7 @@
           "title": "啊？没人能想到 Midjourney 发布的硬件是这个东西。\n\n他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。",
           "url": "https://x.com/op7418/status/2067426863308591523",
           "published_at": "2026-06-18T01:59:09Z",
-          "summary": "啊？没人能想到 Midjourney 发布的硬件是这个东西。 他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。Your browser does not support the video tag.🔗 View on Twitter💬36🔄8❤️57👀16545📊40⚡ Powered by xgo.ing"
+          "summary": "啊？没人能想到 Midjourney 发布的硬件是这个东西。 他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。Your browser does not support the video tag.🔗 View on Twitter💬44🔄8❤️59👀18080📊47⚡ Powered by xgo.ing"
         },
         {
           "id": "bf23cf6fd019e18e8a7236367a37dc6c18b11fd4",
@@ -222,7 +233,7 @@
           "title": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置",
           "url": "https://x.com/op7418/status/2067426345693622675",
           "published_at": "2026-06-18T01:57:06Z",
-          "summary": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置Tibo@thsottiauxDearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy🔗 View Quoted Tweet💬28🔄2❤️78👀25285📊26⚡ Powered by xgo…"
+          "summary": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置Tibo@thsottiauxDearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy🔗 View Quoted Tweet💬28🔄2❤️81👀27724📊26⚡ Powered by xgo…"
         },
         {
           "id": "ffca73db47916fa7b635b48972b9821f5d0b0f24",
@@ -244,13 +255,13 @@
           "title": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。\n\n当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了",
           "url": "https://x.com/op7418/status/2067308157026882001",
           "published_at": "2026-06-17T18:07:28Z",
-          "summary": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。 当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了Your browser does not support the video tag.🔗 View on Twitter💬58🔄12❤️249👀130622📊85⚡ Powered by xgo.ing"
+          "summary": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。 当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了Your browser does not support the video tag.🔗 View on Twitter💬64🔄12❤️267👀142129📊93⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 9,
+      "total_items": 12,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -258,6 +269,39 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "c8fadb2f0ee544ddf386824d6bb8843a305274e7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Rare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical k...",
+          "url": "https://x.com/OpenAI/status/2067625113193951611",
+          "published_at": "2026-06-18T15:06:56Z",
+          "summary": "Rare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical knowledge changes constantly. o3 Deep Research helped connect clinical features, inheritance patterns, variant evidence, and scientific literature into hypotheses for specialists to…"
+        },
+        {
+          "id": "8dcac8846b4f767d11f22e15cdeaf8eaf57df890",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Many of these cases had evaded years of expert analysis.\n\nThis study suggests AI could make expert-l...",
+          "url": "https://x.com/OpenAI/status/2067625115182120972",
+          "published_at": "2026-06-18T15:06:56Z",
+          "summary": "Many of these cases had evaded years of expert analysis. This study suggests AI could make expert-led periodic reanalysis more scalable, helping clinicians revisit old cases as medical knowledge advances, identify leads worth investigating, and potentially bring answers to more f…"
+        },
+        {
+          "id": "a78f9838b73861a70c9d98fe25c2dfdf749718a4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI...",
+          "url": "https://x.com/OpenAI/status/2067625110199247353",
+          "published_at": "2026-06-18T15:06:55Z",
+          "summary": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.Your browser does not s…"
+        },
         {
           "id": "c97edaac1710643eaa306f9300ce1d1d8d5018d3",
           "site_id": "featuredrss",
@@ -289,7 +333,7 @@
           "title": "LifeSciBench is a foundation for more realistic evaluation, targeted improvements, and continued par...",
           "url": "https://x.com/OpenAI/status/2067346920230838387",
           "published_at": "2026-06-17T20:41:29Z",
-          "summary": "LifeSciBench is a foundation for more realistic evaluation, targeted improvements, and continued partnership with the life sciences community—helping the field measure progress, identify gaps, and improve AI together for the benefit of everyone.💬10🔄7❤️184👀56863📊23⚡ Powered by xgo…"
+          "summary": "LifeSciBench is a foundation for more realistic evaluation, targeted improvements, and continued partnership with the life sciences community—helping the field measure progress, identify gaps, and improve AI together for the benefit of everyone.💬10🔄7❤️189👀59880📊23⚡ Powered by xgo…"
         },
         {
           "id": "f15b568b01e9f95450b8d3b34fac748c6d952bd2",
@@ -344,7 +388,7 @@
           "title": "To get started:\n1) Head to https://t.co/382WL5xSvc or the app\n2) Select “Images” in the side panel\n3...",
           "url": "https://x.com/GeminiApp/status/2067286585893356007",
           "published_at": "2026-06-17T16:41:45Z",
-          "summary": "To get started: 1) Head to gemini.google or the app 2) Select “Images” in the side panel 3) Choose from any of the “Get in the game” templates 4) Upload your photo and share your creations in the replies!💬3🔄5❤️34👀10962📊8⚡ Powered by xgo.ing"
+          "summary": "To get started: 1) Head to gemini.google or the app 2) Select “Images” in the side panel 3) Choose from any of the “Get in the game” templates 4) Upload your photo and share your creations in the replies!💬3🔄5❤️36👀11580📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "eeb444ecd5a3a86e74d7210ce7a510ace666f9a5",
@@ -355,12 +399,56 @@
           "title": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and mo...",
           "url": "https://x.com/GeminiApp/status/2067286544373940406",
           "published_at": "2026-06-17T16:41:35Z",
-          "summary": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and more with the new Nano Banana 2 templates in Gemini. ⚽️💬37🔄39❤️321👀407003📊74⚡ Powered by xgo.ing"
+          "summary": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and more with the new Nano Banana 2 templates in Gemini. ⚽️💬44🔄39❤️343👀533349📊82⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "c8fadb2f0ee544ddf386824d6bb8843a305274e7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Rare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical k...",
+      "url": "https://x.com/OpenAI/status/2067625113193951611",
+      "published_at": "2026-06-18T15:06:56Z",
+      "summary": "Rare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical knowledge changes constantly. o3 Deep Research helped connect clinical features, inheritance patterns, variant evidence, and scientific literature into hypotheses for specialists to…"
+    },
+    {
+      "id": "8dcac8846b4f767d11f22e15cdeaf8eaf57df890",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Many of these cases had evaded years of expert analysis.\n\nThis study suggests AI could make expert-l...",
+      "url": "https://x.com/OpenAI/status/2067625115182120972",
+      "published_at": "2026-06-18T15:06:56Z",
+      "summary": "Many of these cases had evaded years of expert analysis. This study suggests AI could make expert-led periodic reanalysis more scalable, helping clinicians revisit old cases as medical knowledge advances, identify leads worth investigating, and potentially bring answers to more f…"
+    },
+    {
+      "id": "a78f9838b73861a70c9d98fe25c2dfdf749718a4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI...",
+      "url": "https://x.com/OpenAI/status/2067625110199247353",
+      "published_at": "2026-06-18T15:06:55Z",
+      "summary": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.Your browser does not s…"
+    },
+    {
+      "id": "b4bf95d1d3d267159575ad1aed4e7efefa930637",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "来了！ 那个游戏将于 6 月 25 号开启预售",
+      "url": "https://x.com/op7418/status/2067612425957040406",
+      "published_at": "2026-06-18T14:16:31Z",
+      "summary": "来了！ 那个游戏将于 6 月 25 号开启预售Rockstar Games@RockstarGamesPre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Check out the official cover art, also available as downloadable artwork at rockstargames.com/VIYour browse…"
+    },
     {
       "id": "ed8bdb9412e77c4999fd15d6bfa127db95d434db",
       "site_id": "featuredrss",
@@ -381,7 +469,7 @@
       "title": "啊？没人能想到 Midjourney 发布的硬件是这个东西。\n\n他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。",
       "url": "https://x.com/op7418/status/2067426863308591523",
       "published_at": "2026-06-18T01:59:09Z",
-      "summary": "啊？没人能想到 Midjourney 发布的硬件是这个东西。 他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。Your browser does not support the video tag.🔗 View on Twitter💬36🔄8❤️57👀16545📊40⚡ Powered by xgo.ing"
+      "summary": "啊？没人能想到 Midjourney 发布的硬件是这个东西。 他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。Your browser does not support the video tag.🔗 View on Twitter💬44🔄8❤️59👀18080📊47⚡ Powered by xgo.ing"
     },
     {
       "id": "bf23cf6fd019e18e8a7236367a37dc6c18b11fd4",
@@ -392,7 +480,7 @@
       "title": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置",
       "url": "https://x.com/op7418/status/2067426345693622675",
       "published_at": "2026-06-18T01:57:06Z",
-      "summary": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置Tibo@thsottiauxDearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy🔗 View Quoted Tweet💬28🔄2❤️78👀25285📊26⚡ Powered by xgo…"
+      "summary": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置Tibo@thsottiauxDearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy🔗 View Quoted Tweet💬28🔄2❤️81👀27724📊26⚡ Powered by xgo…"
     },
     {
       "id": "ffca73db47916fa7b635b48972b9821f5d0b0f24",
@@ -436,7 +524,7 @@
       "title": "LifeSciBench is a foundation for more realistic evaluation, targeted improvements, and continued par...",
       "url": "https://x.com/OpenAI/status/2067346920230838387",
       "published_at": "2026-06-17T20:41:29Z",
-      "summary": "LifeSciBench is a foundation for more realistic evaluation, targeted improvements, and continued partnership with the life sciences community—helping the field measure progress, identify gaps, and improve AI together for the benefit of everyone.💬10🔄7❤️184👀56863📊23⚡ Powered by xgo…"
+      "summary": "LifeSciBench is a foundation for more realistic evaluation, targeted improvements, and continued partnership with the life sciences community—helping the field measure progress, identify gaps, and improve AI together for the benefit of everyone.💬10🔄7❤️189👀59880📊23⚡ Powered by xgo…"
     },
     {
       "id": "f15b568b01e9f95450b8d3b34fac748c6d952bd2",
@@ -458,7 +546,7 @@
       "title": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。\n\n当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了",
       "url": "https://x.com/op7418/status/2067308157026882001",
       "published_at": "2026-06-17T18:07:28Z",
-      "summary": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。 当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了Your browser does not support the video tag.🔗 View on Twitter💬58🔄12❤️249👀130622📊85⚡ Powered by xgo.ing"
+      "summary": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。 当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了Your browser does not support the video tag.🔗 View on Twitter💬64🔄12❤️267👀142129📊93⚡ Powered by xgo.ing"
     },
     {
       "id": "5398c3b61f4f7293326b7b26214ad1df274aaef1",
@@ -502,7 +590,7 @@
       "title": "To get started:\n1) Head to https://t.co/382WL5xSvc or the app\n2) Select “Images” in the side panel\n3...",
       "url": "https://x.com/GeminiApp/status/2067286585893356007",
       "published_at": "2026-06-17T16:41:45Z",
-      "summary": "To get started: 1) Head to gemini.google or the app 2) Select “Images” in the side panel 3) Choose from any of the “Get in the game” templates 4) Upload your photo and share your creations in the replies!💬3🔄5❤️34👀10962📊8⚡ Powered by xgo.ing"
+      "summary": "To get started: 1) Head to gemini.google or the app 2) Select “Images” in the side panel 3) Choose from any of the “Get in the game” templates 4) Upload your photo and share your creations in the replies!💬3🔄5❤️36👀11580📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "eeb444ecd5a3a86e74d7210ce7a510ace666f9a5",
@@ -513,7 +601,7 @@
       "title": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and mo...",
       "url": "https://x.com/GeminiApp/status/2067286544373940406",
       "published_at": "2026-06-17T16:41:35Z",
-      "summary": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and more with the new Nano Banana 2 templates in Gemini. ⚽️💬37🔄39❤️321👀407003📊74⚡ Powered by xgo.ing"
+      "summary": "Show off your team loyalty and turn your selfies into custom trading cards, murals, cartoons, and more with the new Nano Banana 2 templates in Gemini. ⚽️💬44🔄39❤️343👀533349📊82⚡ Powered by xgo.ing"
     }
   ]
 }
