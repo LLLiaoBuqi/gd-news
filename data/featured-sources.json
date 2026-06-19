@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18T23:15:42.960679Z",
+  "generated_at": "2026-06-19T02:14:03.068334Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 153,
+      "duration_ms": 311,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 20,
+      "duration_ms": 57,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1686,
+      "duration_ms": 1305,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1561,
+      "duration_ms": 1411,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 836,
+      "duration_ms": 890,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1295,
+      "duration_ms": 967,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 733,
+      "duration_ms": 993,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12,
+      "duration_ms": 49,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2584,
+      "duration_ms": 2785,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1099,
+      "duration_ms": 1187,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "GPT-5.6 快来了",
           "url": "https://x.com/op7418/status/2067651452227764458",
           "published_at": "2026-06-18T16:51:35Z",
-          "summary": "GPT-5.6 快来了🚨 AI News | TestingCatalog@testingcatalogOPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀🔗 View Quoted Tweet💬12🔄2❤️26👀7149📊11⚡ Powered by xgo.ing"
+          "summary": "GPT-5.6 快来了🚨 AI News | TestingCatalog@testingcatalogOPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀🔗 View Quoted Tweet💬21🔄2❤️36👀10725📊17⚡ Powered by xgo.ing"
         },
         {
           "id": "b4bf95d1d3d267159575ad1aed4e7efefa930637",
@@ -222,46 +222,13 @@
           "title": "Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。\n\n谷歌之前用 27 亿美元收购...",
           "url": "https://x.com/op7418/status/2067432296127557888",
           "published_at": "2026-06-18T02:20:45Z",
-          "summary": "Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。 谷歌之前用 27 亿美元收购了 Character 换他加入谷歌，结果这呆了没多久就跑到Open AI 了💬69🔄3❤️77👀63076📊67⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "961b218e34d89bf4203081e1befcb03e52ab14ce",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "啊？没人能想到 Midjourney 发布的硬件是这个东西。\n\n他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。",
-          "url": "https://x.com/op7418/status/2067426863308591523",
-          "published_at": "2026-06-18T01:59:09Z",
-          "summary": "啊？没人能想到 Midjourney 发布的硬件是这个东西。 他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。Your browser does not support the video tag.🔗 View on Twitter💬50🔄9❤️63👀18849📊53⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bf23cf6fd019e18e8a7236367a37dc6c18b11fd4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置",
-          "url": "https://x.com/op7418/status/2067426345693622675",
-          "published_at": "2026-06-18T01:57:06Z",
-          "summary": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置Tibo@thsottiauxDearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy🔗 View Quoted Tweet💬28🔄2❤️82👀29074📊26⚡ Powered by xgo…"
-        },
-        {
-          "id": "ffca73db47916fa7b635b48972b9821f5d0b0f24",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "分享10本我觉得AI时代应该必读的好书。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683688&idx=1&sn=b08ac6a670f4a29805f37d05215a5771",
-          "published_at": "2026-06-18T01:03:00Z",
-          "summary": "不会过期的能力"
+          "summary": "Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。 谷歌之前用 27 亿美元收购了 Character 换他加入谷歌，结果这呆了没多久就跑到Open AI 了Noam Shazeer@NoamShazeerI’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there. It was a…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 13,
+      "total_items": 12,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -278,7 +245,7 @@
           "title": "We also tested whether alignment persisted under pressure. \n\nThe model was harder to steer toward ha...",
           "url": "https://x.com/OpenAI/status/2067722695270334549",
           "published_at": "2026-06-18T21:34:41Z",
-          "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬4🔄1❤️76👀19353📊9…"
+          "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬7🔄4❤️123👀35356📊…"
         },
         {
           "id": "f308d2c1b084631df156e17a11865beb3b700870",
@@ -289,7 +256,7 @@
           "title": "This is an early step toward more robustly beneficial and aligned models: training models to carry b...",
           "url": "https://x.com/OpenAI/status/2067722696759329125",
           "published_at": "2026-06-18T21:34:41Z",
-          "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬4🔄2❤️77👀16883📊9⚡ Powered by xgo.ing"
+          "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬6🔄3❤️116👀30737📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "88d55fc706d715782f03cfc23419a1a735b28066",
@@ -366,7 +333,7 @@
           "title": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash.\n\nGemini can grab your flight itin...",
           "url": "https://x.com/GeminiApp/status/2067654431953547590",
           "published_at": "2026-06-18T17:03:26Z",
-          "summary": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash. Gemini can grab your flight itinerary from @gmail, build a custom sleep schedule based on your time zone, and add it right to your calendar for helpful reminders.💬21🔄23❤️312👀114817📊57⚡ Powered by xgo.ing"
+          "summary": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash. Gemini can grab your flight itinerary from @gmail, build a custom sleep schedule based on your time zone, and add it right to your calendar for helpful reminders.💬28🔄39❤️377👀310442📊73⚡ Powered by xgo.ing"
         },
         {
           "id": "c8fadb2f0ee544ddf386824d6bb8843a305274e7",
@@ -400,17 +367,6 @@
           "url": "https://x.com/OpenAI/status/2067625110199247353",
           "published_at": "2026-06-18T15:06:55Z",
           "summary": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.Your browser does not s…"
-        },
-        {
-          "id": "cb530beb6dc3544aa1b21089c3a26d8a242f0961",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
-          "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-          "published_at": "2026-06-18T00:00:00Z",
-          "summary": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two"
         }
       ]
     }
@@ -425,7 +381,7 @@
       "title": "We also tested whether alignment persisted under pressure. \n\nThe model was harder to steer toward ha...",
       "url": "https://x.com/OpenAI/status/2067722695270334549",
       "published_at": "2026-06-18T21:34:41Z",
-      "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬4🔄1❤️76👀19353📊9…"
+      "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬7🔄4❤️123👀35356📊…"
     },
     {
       "id": "f308d2c1b084631df156e17a11865beb3b700870",
@@ -436,7 +392,7 @@
       "title": "This is an early step toward more robustly beneficial and aligned models: training models to carry b...",
       "url": "https://x.com/OpenAI/status/2067722696759329125",
       "published_at": "2026-06-18T21:34:41Z",
-      "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬4🔄2❤️77👀16883📊9⚡ Powered by xgo.ing"
+      "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬6🔄3❤️116👀30737📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "88d55fc706d715782f03cfc23419a1a735b28066",
@@ -513,7 +469,7 @@
       "title": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash.\n\nGemini can grab your flight itin...",
       "url": "https://x.com/GeminiApp/status/2067654431953547590",
       "published_at": "2026-06-18T17:03:26Z",
-      "summary": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash. Gemini can grab your flight itinerary from @gmail, build a custom sleep schedule based on your time zone, and add it right to your calendar for helpful reminders.💬21🔄23❤️312👀114817📊57⚡ Powered by xgo.ing"
+      "summary": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash. Gemini can grab your flight itinerary from @gmail, build a custom sleep schedule based on your time zone, and add it right to your calendar for helpful reminders.💬28🔄39❤️377👀310442📊73⚡ Powered by xgo.ing"
     },
     {
       "id": "2f75d6ef0e10d2b98e61b8ab882dc24b3bcceda4",
@@ -524,7 +480,7 @@
       "title": "GPT-5.6 快来了",
       "url": "https://x.com/op7418/status/2067651452227764458",
       "published_at": "2026-06-18T16:51:35Z",
-      "summary": "GPT-5.6 快来了🚨 AI News | TestingCatalog@testingcatalogOPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀🔗 View Quoted Tweet💬12🔄2❤️26👀7149📊11⚡ Powered by xgo.ing"
+      "summary": "GPT-5.6 快来了🚨 AI News | TestingCatalog@testingcatalogOPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀🔗 View Quoted Tweet💬21🔄2❤️36👀10725📊17⚡ Powered by xgo.ing"
     },
     {
       "id": "c8fadb2f0ee544ddf386824d6bb8843a305274e7",
@@ -579,51 +535,7 @@
       "title": "Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。\n\n谷歌之前用 27 亿美元收购...",
       "url": "https://x.com/op7418/status/2067432296127557888",
       "published_at": "2026-06-18T02:20:45Z",
-      "summary": "Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。 谷歌之前用 27 亿美元收购了 Character 换他加入谷歌，结果这呆了没多久就跑到Open AI 了💬69🔄3❤️77👀63076📊67⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "961b218e34d89bf4203081e1befcb03e52ab14ce",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "啊？没人能想到 Midjourney 发布的硬件是这个东西。\n\n他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。",
-      "url": "https://x.com/op7418/status/2067426863308591523",
-      "published_at": "2026-06-18T01:59:09Z",
-      "summary": "啊？没人能想到 Midjourney 发布的硬件是这个东西。 他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。Your browser does not support the video tag.🔗 View on Twitter💬50🔄9❤️63👀18849📊53⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "bf23cf6fd019e18e8a7236367a37dc6c18b11fd4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置",
-      "url": "https://x.com/op7418/status/2067426345693622675",
-      "published_at": "2026-06-18T01:57:06Z",
-      "summary": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置Tibo@thsottiauxDearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy🔗 View Quoted Tweet💬28🔄2❤️82👀29074📊26⚡ Powered by xgo…"
-    },
-    {
-      "id": "ffca73db47916fa7b635b48972b9821f5d0b0f24",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "分享10本我觉得AI时代应该必读的好书。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683688&idx=1&sn=b08ac6a670f4a29805f37d05215a5771",
-      "published_at": "2026-06-18T01:03:00Z",
-      "summary": "不会过期的能力"
-    },
-    {
-      "id": "cb530beb6dc3544aa1b21089c3a26d8a242f0961",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "published_at": "2026-06-18T00:00:00Z",
-      "summary": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two"
+      "summary": "Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。 谷歌之前用 27 亿美元收购了 Character 换他加入谷歌，结果这呆了没多久就跑到Open AI 了Noam Shazeer@NoamShazeerI’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there. It was a…"
     }
   ]
 }
