@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T21:03:23.804639Z",
+  "generated_at": "2026-06-19T22:29:33.731830Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 980,
+      "duration_ms": 500,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 22,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1710,
+      "duration_ms": 1212,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1824,
+      "duration_ms": 1366,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1130,
+      "duration_ms": 741,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 544,
+      "duration_ms": 1092,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 889,
+      "duration_ms": 423,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3280,
+      "duration_ms": 2514,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1042,
+      "duration_ms": 1091,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -222,7 +222,7 @@
           "title": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了",
           "url": "https://x.com/op7418/status/2067885932897038780",
           "published_at": "2026-06-19T08:23:20Z",
-          "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬39🔄1❤️39👀17906📊29⚡ Powered by xgo.ing"
+          "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬42🔄1❤️39👀18029📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "6d07c1d096aebaa6ba7d3e1931f21dcb01c0f39f",
@@ -233,7 +233,7 @@
           "title": "Bear  团队推出了一款新的独立的 Markdown 本地编辑器Lettera\n\n目前正在免费测试，可以试试",
           "url": "https://x.com/op7418/status/2067884713340252646",
           "published_at": "2026-06-19T08:18:29Z",
-          "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬29🔄2❤️29👀14004📊25⚡ Powered by xgo.ing"
+          "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬33🔄2❤️30👀14143📊28⚡ Powered by xgo.ing"
         },
         {
           "id": "80abf9d02545adfd48db64090bc1b66a7ed22b7c",
@@ -244,76 +244,20 @@
           "title": "梦珂老师又回推特了",
           "url": "https://x.com/op7418/status/2067882172397265036",
           "published_at": "2026-06-19T08:08:23Z",
-          "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬20🔄26❤️134👀72842📊49⚡ Powered by xgo.ing"
+          "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬20🔄26❤️135👀74273📊50⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "fb7e8f1bdbc390ae28b792be80fdbfaf94862989",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We also tested whether alignment persisted under pressure. \n\nThe model was harder to steer toward ha...",
-          "url": "https://x.com/OpenAI/status/2067722695270334549",
-          "published_at": "2026-06-18T21:34:41Z",
-          "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬13🔄7❤️200👀62919…"
-        },
-        {
-          "id": "f308d2c1b084631df156e17a11865beb3b700870",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "This is an early step toward more robustly beneficial and aligned models: training models to carry b...",
-          "url": "https://x.com/OpenAI/status/2067722696759329125",
-          "published_at": "2026-06-18T21:34:41Z",
-          "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬10🔄5❤️189👀53878📊24⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "88d55fc706d715782f03cfc23419a1a735b28066",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "A small amount of this data produced broad gains beyond the training scenarios.\n\nCompared with a com...",
-          "url": "https://x.com/OpenAI/status/2067722691675824637",
-          "published_at": "2026-06-18T21:34:40Z",
-          "summary": "A small amount of this data produced broad gains beyond the training scenarios. Compared with a compute-matched baseline, the trained model improved on 44 of 53 independent evaluations of alignment and benefits, spanning deception, reward hacking, safety, health, and mental healt…"
-        },
-        {
-          "id": "2a5461d6ef57037cf205af1dccb4cb28e304dc18",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We trained models with reinforcement learning on realistic conversations to reinforce beneficial tra...",
-          "url": "https://x.com/OpenAI/status/2067722689515856262",
-          "published_at": "2026-06-18T21:34:40Z",
-          "summary": "We trained models with reinforcement learning on realistic conversations to reinforce beneficial traits like truthfulness, humility under uncertainty, openness to correction, fairness, and concern for human welfare, across 12 domains, including health, science, and education.💬12🔄…"
-        },
-        {
-          "id": "87bbe77b01b48108257548a86fb5024a843a8f5b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior int...",
-          "url": "https://x.com/OpenAI/status/2067722688165232654",
-          "published_at": "2026-06-18T21:34:39Z",
-          "summary": "As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure. That’s the idea behind our new research on training models to be broadly and persistently beneficial. alignment.…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -348,7 +292,7 @@
       "title": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了",
       "url": "https://x.com/op7418/status/2067885932897038780",
       "published_at": "2026-06-19T08:23:20Z",
-      "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬39🔄1❤️39👀17906📊29⚡ Powered by xgo.ing"
+      "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬42🔄1❤️39👀18029📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "6d07c1d096aebaa6ba7d3e1931f21dcb01c0f39f",
@@ -359,7 +303,7 @@
       "title": "Bear  团队推出了一款新的独立的 Markdown 本地编辑器Lettera\n\n目前正在免费测试，可以试试",
       "url": "https://x.com/op7418/status/2067884713340252646",
       "published_at": "2026-06-19T08:18:29Z",
-      "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬29🔄2❤️29👀14004📊25⚡ Powered by xgo.ing"
+      "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬33🔄2❤️30👀14143📊28⚡ Powered by xgo.ing"
     },
     {
       "id": "80abf9d02545adfd48db64090bc1b66a7ed22b7c",
@@ -370,62 +314,7 @@
       "title": "梦珂老师又回推特了",
       "url": "https://x.com/op7418/status/2067882172397265036",
       "published_at": "2026-06-19T08:08:23Z",
-      "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬20🔄26❤️134👀72842📊49⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "fb7e8f1bdbc390ae28b792be80fdbfaf94862989",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We also tested whether alignment persisted under pressure. \n\nThe model was harder to steer toward ha...",
-      "url": "https://x.com/OpenAI/status/2067722695270334549",
-      "published_at": "2026-06-18T21:34:41Z",
-      "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬13🔄7❤️200👀62919…"
-    },
-    {
-      "id": "f308d2c1b084631df156e17a11865beb3b700870",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "This is an early step toward more robustly beneficial and aligned models: training models to carry b...",
-      "url": "https://x.com/OpenAI/status/2067722696759329125",
-      "published_at": "2026-06-18T21:34:41Z",
-      "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬10🔄5❤️189👀53878📊24⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "88d55fc706d715782f03cfc23419a1a735b28066",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "A small amount of this data produced broad gains beyond the training scenarios.\n\nCompared with a com...",
-      "url": "https://x.com/OpenAI/status/2067722691675824637",
-      "published_at": "2026-06-18T21:34:40Z",
-      "summary": "A small amount of this data produced broad gains beyond the training scenarios. Compared with a compute-matched baseline, the trained model improved on 44 of 53 independent evaluations of alignment and benefits, spanning deception, reward hacking, safety, health, and mental healt…"
-    },
-    {
-      "id": "2a5461d6ef57037cf205af1dccb4cb28e304dc18",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We trained models with reinforcement learning on realistic conversations to reinforce beneficial tra...",
-      "url": "https://x.com/OpenAI/status/2067722689515856262",
-      "published_at": "2026-06-18T21:34:40Z",
-      "summary": "We trained models with reinforcement learning on realistic conversations to reinforce beneficial traits like truthfulness, humility under uncertainty, openness to correction, fairness, and concern for human welfare, across 12 domains, including health, science, and education.💬12🔄…"
-    },
-    {
-      "id": "87bbe77b01b48108257548a86fb5024a843a8f5b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior int...",
-      "url": "https://x.com/OpenAI/status/2067722688165232654",
-      "published_at": "2026-06-18T21:34:39Z",
-      "summary": "As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure. That’s the idea behind our new research on training models to be broadly and persistently beneficial. alignment.…"
+      "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬20🔄26❤️135👀74273📊50⚡ Powered by xgo.ing"
     }
   ]
 }
