@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T12:00:52.476713Z",
+  "generated_at": "2026-06-19T15:46:37.180192Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 571,
+      "duration_ms": 178,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 29,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1314,
+      "duration_ms": 1595,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1413,
+      "duration_ms": 1701,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 492,
+      "duration_ms": 995,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 852,
+      "duration_ms": 1439,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 399,
+      "duration_ms": 1329,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2694,
+      "duration_ms": 3085,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 961,
+      "duration_ms": 754,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -191,6 +191,17 @@
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "7afc536d16c9af5b8e93fe37ef3e9e88d1334e63",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "开源一个为演讲而生的PPT Skill，再不用跟观众大眼瞪小眼了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507824&idx=1&sn=f39e0474d1cbd6beaadcf7ee6029b771",
+          "published_at": "2026-06-19T09:48:00Z",
+          "summary": "一页好看的PPT首先要是一页有信息量的PPT"
+        },
         {
           "id": "b5896586563240b79b5dc94d7bc2d248b2893aca",
           "site_id": "featuredrss",
@@ -211,7 +222,7 @@
           "title": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了",
           "url": "https://x.com/op7418/status/2067885932897038780",
           "published_at": "2026-06-19T08:23:20Z",
-          "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬17🔄0❤️21👀9745📊13⚡ Powered by xgo.ing"
+          "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬27🔄0❤️35👀15377📊21⚡ Powered by xgo.ing"
         },
         {
           "id": "6d07c1d096aebaa6ba7d3e1931f21dcb01c0f39f",
@@ -222,7 +233,7 @@
           "title": "Bear  团队推出了一款新的独立的 Markdown 本地编辑器Lettera\n\n目前正在免费测试，可以试试",
           "url": "https://x.com/op7418/status/2067884713340252646",
           "published_at": "2026-06-19T08:18:29Z",
-          "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬6🔄1❤️12👀5446📊6⚡ Powered by xgo.ing"
+          "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬18🔄2❤️23👀10812📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "80abf9d02545adfd48db64090bc1b66a7ed22b7c",
@@ -233,7 +244,7 @@
           "title": "梦珂老师又回推特了",
           "url": "https://x.com/op7418/status/2067882172397265036",
           "published_at": "2026-06-19T08:08:23Z",
-          "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬10🔄6❤️32👀19588📊15⚡ Powered by xgo.ing"
+          "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬17🔄16❤️82👀51133📊36⚡ Powered by xgo.ing"
         },
         {
           "id": "2f75d6ef0e10d2b98e61b8ab882dc24b3bcceda4",
@@ -244,24 +255,13 @@
           "title": "GPT-5.6 快来了",
           "url": "https://x.com/op7418/status/2067651452227764458",
           "published_at": "2026-06-18T16:51:35Z",
-          "summary": "GPT-5.6 快来了🚨 AI News | TestingCatalog@testingcatalogOPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀🔗 View Quoted Tweet💬51🔄5❤️57👀18346📊38⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b4bf95d1d3d267159575ad1aed4e7efefa930637",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "来了！ 那个游戏将于 6 月 25 号开启预售",
-          "url": "https://x.com/op7418/status/2067612425957040406",
-          "published_at": "2026-06-18T14:16:31Z",
-          "summary": "来了！ 那个游戏将于 6 月 25 号开启预售Rockstar Games@RockstarGamesPre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Check out the official cover art, also available as downloadable artwork at rockstargames.com/VIYour browse…"
+          "summary": "GPT-5.6 快来了🚨 AI News | TestingCatalog@testingcatalogOPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀🔗 View Quoted Tweet💬51🔄6❤️65👀21129📊39⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 12,
+      "total_items": 9,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -278,7 +278,7 @@
           "title": "We also tested whether alignment persisted under pressure. \n\nThe model was harder to steer toward ha...",
           "url": "https://x.com/OpenAI/status/2067722695270334549",
           "published_at": "2026-06-18T21:34:41Z",
-          "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬12🔄6❤️177👀54497…"
+          "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬12🔄6❤️187👀58941…"
         },
         {
           "id": "f308d2c1b084631df156e17a11865beb3b700870",
@@ -289,7 +289,7 @@
           "title": "This is an early step toward more robustly beneficial and aligned models: training models to carry b...",
           "url": "https://x.com/OpenAI/status/2067722696759329125",
           "published_at": "2026-06-18T21:34:41Z",
-          "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬8🔄5❤️168👀47217📊20⚡ Powered by xgo.ing"
+          "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬9🔄5❤️177👀50776📊22⚡ Powered by xgo.ing"
         },
         {
           "id": "88d55fc706d715782f03cfc23419a1a735b28066",
@@ -366,45 +366,23 @@
           "title": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash.\n\nGemini can grab your flight itin...",
           "url": "https://x.com/GeminiApp/status/2067654431953547590",
           "published_at": "2026-06-18T17:03:26Z",
-          "summary": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash. Gemini can grab your flight itinerary from @gmail, build a custom sleep schedule based on your time zone, and add it right to your calendar for helpful reminders.💬51🔄72❤️605👀1097423📊122⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c8fadb2f0ee544ddf386824d6bb8843a305274e7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Rare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical k...",
-          "url": "https://x.com/OpenAI/status/2067625113193951611",
-          "published_at": "2026-06-18T15:06:56Z",
-          "summary": "Rare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical knowledge changes constantly. o3 Deep Research helped connect clinical features, inheritance patterns, variant evidence, and scientific literature into hypotheses for specialists to…"
-        },
-        {
-          "id": "8dcac8846b4f767d11f22e15cdeaf8eaf57df890",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Many of these cases had evaded years of expert analysis.\n\nThis study suggests AI could make expert-l...",
-          "url": "https://x.com/OpenAI/status/2067625115182120972",
-          "published_at": "2026-06-18T15:06:56Z",
-          "summary": "Many of these cases had evaded years of expert analysis. This study suggests AI could make expert-led periodic reanalysis more scalable, helping clinicians revisit old cases as medical knowledge advances, identify leads worth investigating, and potentially bring answers to more f…"
-        },
-        {
-          "id": "a78f9838b73861a70c9d98fe25c2dfdf749718a4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI...",
-          "url": "https://x.com/OpenAI/status/2067625110199247353",
-          "published_at": "2026-06-18T15:06:55Z",
-          "summary": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.Your browser does not s…"
+          "summary": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash. Gemini can grab your flight itinerary from @gmail, build a custom sleep schedule based on your time zone, and add it right to your calendar for helpful reminders.💬61🔄78❤️687👀1626235📊139⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "7afc536d16c9af5b8e93fe37ef3e9e88d1334e63",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "开源一个为演讲而生的PPT Skill，再不用跟观众大眼瞪小眼了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507824&idx=1&sn=f39e0474d1cbd6beaadcf7ee6029b771",
+      "published_at": "2026-06-19T09:48:00Z",
+      "summary": "一页好看的PPT首先要是一页有信息量的PPT"
+    },
     {
       "id": "b5896586563240b79b5dc94d7bc2d248b2893aca",
       "site_id": "featuredrss",
@@ -425,7 +403,7 @@
       "title": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了",
       "url": "https://x.com/op7418/status/2067885932897038780",
       "published_at": "2026-06-19T08:23:20Z",
-      "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬17🔄0❤️21👀9745📊13⚡ Powered by xgo.ing"
+      "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬27🔄0❤️35👀15377📊21⚡ Powered by xgo.ing"
     },
     {
       "id": "6d07c1d096aebaa6ba7d3e1931f21dcb01c0f39f",
@@ -436,7 +414,7 @@
       "title": "Bear  团队推出了一款新的独立的 Markdown 本地编辑器Lettera\n\n目前正在免费测试，可以试试",
       "url": "https://x.com/op7418/status/2067884713340252646",
       "published_at": "2026-06-19T08:18:29Z",
-      "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬6🔄1❤️12👀5446📊6⚡ Powered by xgo.ing"
+      "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬18🔄2❤️23👀10812📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "80abf9d02545adfd48db64090bc1b66a7ed22b7c",
@@ -447,7 +425,7 @@
       "title": "梦珂老师又回推特了",
       "url": "https://x.com/op7418/status/2067882172397265036",
       "published_at": "2026-06-19T08:08:23Z",
-      "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬10🔄6❤️32👀19588📊15⚡ Powered by xgo.ing"
+      "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬17🔄16❤️82👀51133📊36⚡ Powered by xgo.ing"
     },
     {
       "id": "fb7e8f1bdbc390ae28b792be80fdbfaf94862989",
@@ -458,7 +436,7 @@
       "title": "We also tested whether alignment persisted under pressure. \n\nThe model was harder to steer toward ha...",
       "url": "https://x.com/OpenAI/status/2067722695270334549",
       "published_at": "2026-06-18T21:34:41Z",
-      "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬12🔄6❤️177👀54497…"
+      "summary": "We also tested whether alignment persisted under pressure. The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions. We saw preliminary evidence of greater resistance to harmful fine-tuning.💬12🔄6❤️187👀58941…"
     },
     {
       "id": "f308d2c1b084631df156e17a11865beb3b700870",
@@ -469,7 +447,7 @@
       "title": "This is an early step toward more robustly beneficial and aligned models: training models to carry b...",
       "url": "https://x.com/OpenAI/status/2067722696759329125",
       "published_at": "2026-06-18T21:34:41Z",
-      "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬8🔄5❤️168👀47217📊20⚡ Powered by xgo.ing"
+      "summary": "This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.💬9🔄5❤️177👀50776📊22⚡ Powered by xgo.ing"
     },
     {
       "id": "88d55fc706d715782f03cfc23419a1a735b28066",
@@ -546,7 +524,7 @@
       "title": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash.\n\nGemini can grab your flight itin...",
       "url": "https://x.com/GeminiApp/status/2067654431953547590",
       "published_at": "2026-06-18T17:03:26Z",
-      "summary": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash. Gemini can grab your flight itinerary from @gmail, build a custom sleep schedule based on your time zone, and add it right to your calendar for helpful reminders.💬51🔄72❤️605👀1097423📊122⚡ Powered by xgo.ing"
+      "summary": "Build a jet lag strategy for your next trip with Gemini 3.5 Flash. Gemini can grab your flight itinerary from @gmail, build a custom sleep schedule based on your time zone, and add it right to your calendar for helpful reminders.💬61🔄78❤️687👀1626235📊139⚡ Powered by xgo.ing"
     },
     {
       "id": "2f75d6ef0e10d2b98e61b8ab882dc24b3bcceda4",
@@ -557,51 +535,7 @@
       "title": "GPT-5.6 快来了",
       "url": "https://x.com/op7418/status/2067651452227764458",
       "published_at": "2026-06-18T16:51:35Z",
-      "summary": "GPT-5.6 快来了🚨 AI News | TestingCatalog@testingcatalogOPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀🔗 View Quoted Tweet💬51🔄5❤️57👀18346📊38⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c8fadb2f0ee544ddf386824d6bb8843a305274e7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Rare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical k...",
-      "url": "https://x.com/OpenAI/status/2067625113193951611",
-      "published_at": "2026-06-18T15:06:56Z",
-      "summary": "Rare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical knowledge changes constantly. o3 Deep Research helped connect clinical features, inheritance patterns, variant evidence, and scientific literature into hypotheses for specialists to…"
-    },
-    {
-      "id": "8dcac8846b4f767d11f22e15cdeaf8eaf57df890",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Many of these cases had evaded years of expert analysis.\n\nThis study suggests AI could make expert-l...",
-      "url": "https://x.com/OpenAI/status/2067625115182120972",
-      "published_at": "2026-06-18T15:06:56Z",
-      "summary": "Many of these cases had evaded years of expert analysis. This study suggests AI could make expert-led periodic reanalysis more scalable, helping clinicians revisit old cases as medical knowledge advances, identify leads worth investigating, and potentially bring answers to more f…"
-    },
-    {
-      "id": "a78f9838b73861a70c9d98fe25c2dfdf749718a4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI...",
-      "url": "https://x.com/OpenAI/status/2067625110199247353",
-      "published_at": "2026-06-18T15:06:55Z",
-      "summary": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.Your browser does not s…"
-    },
-    {
-      "id": "b4bf95d1d3d267159575ad1aed4e7efefa930637",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "来了！ 那个游戏将于 6 月 25 号开启预售",
-      "url": "https://x.com/op7418/status/2067612425957040406",
-      "published_at": "2026-06-18T14:16:31Z",
-      "summary": "来了！ 那个游戏将于 6 月 25 号开启预售Rockstar Games@RockstarGamesPre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Check out the official cover art, also available as downloadable artwork at rockstargames.com/VIYour browse…"
+      "summary": "GPT-5.6 快来了🚨 AI News | TestingCatalog@testingcatalogOPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀🔗 View Quoted Tweet💬51🔄6❤️65👀21129📊39⚡ Powered by xgo.ing"
     }
   ]
 }
