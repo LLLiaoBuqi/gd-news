@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T02:45:09.400613Z",
+  "generated_at": "2026-06-20T06:57:06.734581Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 147,
+      "duration_ms": 158,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 20,
+      "duration_ms": 145,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1478,
+      "duration_ms": 1422,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1583,
+      "duration_ms": 1557,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 965,
+      "duration_ms": 720,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 541,
+      "duration_ms": 976,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1161,
+      "duration_ms": 715,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3005,
+      "duration_ms": 2769,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 867,
+      "duration_ms": 1169,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "540d2d35f1674271e915f4928c629c1c809df362",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "前情提要：https://t.co/vViROXEG4z",
+          "url": "https://x.com/op7418/status/2068190821216895072",
+          "published_at": "2026-06-20T04:34:51Z",
+          "summary": "前情提要：x.com/op7418/status/…歸藏(guizang.ai)@op7418Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。 谷歌之前用 27 亿美元收购了 Character 换他加入谷歌，结果这呆了没多久就跑到Open AI 了🔗 View Quoted Tweet💬1🔄0❤️3👀2905📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "23e414c106c30075c4df07d0f443edb161010c3e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "看起来谷歌 DeepMind 最近出了点问题。\n\n今天 AlphaFold 的作者，诺贝尔奖获得者 John Jumper 也宣布离开 DeepMind，加入了 Anthropic。\n\n就在前几天 T...",
+          "url": "https://x.com/op7418/status/2068190452554281412",
+          "published_at": "2026-06-20T04:33:23Z",
+          "summary": "看起来谷歌 DeepMind 最近出了点问题。 今天 AlphaFold 的作者，诺贝尔奖获得者 John Jumper 也宣布离开 DeepMind，加入了 Anthropic。 就在前几天 Transformer 作者、MoE 提出者 Noam Shazeer 加入 OpenAI 以后。John Jumper@JohnJumperSciA bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking…"
+        },
         {
           "id": "7afc536d16c9af5b8e93fe37ef3e9e88d1334e63",
           "site_id": "featuredrss",
@@ -222,7 +244,7 @@
           "title": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了",
           "url": "https://x.com/op7418/status/2067885932897038780",
           "published_at": "2026-06-19T08:23:20Z",
-          "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬53🔄1❤️39👀19128📊38⚡ Powered by xgo.ing"
+          "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬64🔄2❤️45👀21013📊46⚡ Powered by xgo.ing"
         },
         {
           "id": "6d07c1d096aebaa6ba7d3e1931f21dcb01c0f39f",
@@ -233,7 +255,7 @@
           "title": "Bear  团队推出了一款新的独立的 Markdown 本地编辑器Lettera\n\n目前正在免费测试，可以试试",
           "url": "https://x.com/op7418/status/2067884713340252646",
           "published_at": "2026-06-19T08:18:29Z",
-          "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬44🔄4❤️44👀17570📊38⚡ Powered by xgo.ing"
+          "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬53🔄4❤️54👀22434📊46⚡ Powered by xgo.ing"
         },
         {
           "id": "80abf9d02545adfd48db64090bc1b66a7ed22b7c",
@@ -244,7 +266,7 @@
           "title": "梦珂老师又回推特了",
           "url": "https://x.com/op7418/status/2067882172397265036",
           "published_at": "2026-06-19T08:08:23Z",
-          "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬20🔄35❤️169👀90896📊58⚡ Powered by xgo.ing"
+          "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬20🔄38❤️192👀106663📊64⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -261,6 +283,28 @@
     }
   },
   "items": [
+    {
+      "id": "540d2d35f1674271e915f4928c629c1c809df362",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "前情提要：https://t.co/vViROXEG4z",
+      "url": "https://x.com/op7418/status/2068190821216895072",
+      "published_at": "2026-06-20T04:34:51Z",
+      "summary": "前情提要：x.com/op7418/status/…歸藏(guizang.ai)@op7418Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。 谷歌之前用 27 亿美元收购了 Character 换他加入谷歌，结果这呆了没多久就跑到Open AI 了🔗 View Quoted Tweet💬1🔄0❤️3👀2905📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "23e414c106c30075c4df07d0f443edb161010c3e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "看起来谷歌 DeepMind 最近出了点问题。\n\n今天 AlphaFold 的作者，诺贝尔奖获得者 John Jumper 也宣布离开 DeepMind，加入了 Anthropic。\n\n就在前几天 T...",
+      "url": "https://x.com/op7418/status/2068190452554281412",
+      "published_at": "2026-06-20T04:33:23Z",
+      "summary": "看起来谷歌 DeepMind 最近出了点问题。 今天 AlphaFold 的作者，诺贝尔奖获得者 John Jumper 也宣布离开 DeepMind，加入了 Anthropic。 就在前几天 Transformer 作者、MoE 提出者 Noam Shazeer 加入 OpenAI 以后。John Jumper@JohnJumperSciA bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking…"
+    },
     {
       "id": "7afc536d16c9af5b8e93fe37ef3e9e88d1334e63",
       "site_id": "featuredrss",
@@ -292,7 +336,7 @@
       "title": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了",
       "url": "https://x.com/op7418/status/2067885932897038780",
       "published_at": "2026-06-19T08:23:20Z",
-      "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬53🔄1❤️39👀19128📊38⚡ Powered by xgo.ing"
+      "summary": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了jietang@jietang@elonmusk@teortaxesTex won’t take that long🔗 View Quoted Tweet💬64🔄2❤️45👀21013📊46⚡ Powered by xgo.ing"
     },
     {
       "id": "6d07c1d096aebaa6ba7d3e1931f21dcb01c0f39f",
@@ -303,7 +347,7 @@
       "title": "Bear  团队推出了一款新的独立的 Markdown 本地编辑器Lettera\n\n目前正在免费测试，可以试试",
       "url": "https://x.com/op7418/status/2067884713340252646",
       "published_at": "2026-06-19T08:18:29Z",
-      "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬44🔄4❤️44👀17570📊38⚡ Powered by xgo.ing"
+      "summary": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试Bear - Markdown Notes@BearNotesAppMeet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md🔗 View Quoted Tweet💬53🔄4❤️54👀22434📊46⚡ Powered by xgo.ing"
     },
     {
       "id": "80abf9d02545adfd48db64090bc1b66a7ed22b7c",
@@ -314,7 +358,7 @@
       "title": "梦珂老师又回推特了",
       "url": "https://x.com/op7418/status/2067882172397265036",
       "published_at": "2026-06-19T08:08:23Z",
-      "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬20🔄35❤️169👀90896📊58⚡ Powered by xgo.ing"
+      "summary": "梦珂老师又回推特了Mengke [redacted-email]/i/article/2067…🔗 View Quoted Tweet💬20🔄38❤️192👀106663📊64⚡ Powered by xgo.ing"
     }
   ]
 }
