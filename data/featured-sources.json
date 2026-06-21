@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-21T08:14:32.753372Z",
+  "generated_at": "2026-06-21T11:27:39.813367Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 751,
+      "duration_ms": 861,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 22,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1305,
+      "duration_ms": 1363,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1197,
+      "duration_ms": 1307,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 566,
+      "duration_ms": 762,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1057,
+      "duration_ms": 1134,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 593,
+      "duration_ms": 814,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2517,
+      "duration_ms": 2359,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 835,
+      "duration_ms": 428,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,62 +200,7 @@
           "title": "这天气太爽了，差了两天又好了。",
           "url": "https://x.com/op7418/status/2068302693760966985",
           "published_at": "2026-06-20T11:59:24Z",
-          "summary": "这天气太爽了，差了两天又好了。💬36🔄0❤️10👀4284📊30⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "dcbcce0cc9477ca21e67d79096ef9d8a9f3bef74",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "一个预告",
-          "url": "https://x.com/op7418/status/2068262369852342495",
-          "published_at": "2026-06-20T09:19:10Z",
-          "summary": "一个预告歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬54🔄9❤️108👀18665📊55⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7bc36e35b6852e18926bf286a2137f6cb7d34b42",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "基于你自己IP的卡通配图怎么做？阿真今天教会你！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497798&idx=1&sn=32fd5a2098ba7376845b0ed19d9056fb",
-          "published_at": "2026-06-20T09:11:00Z",
-          "summary": "整点属于自己的IP信息图玩玩！"
-        },
-        {
-          "id": "453f046e9b198f6437843049e6559e3304a65f76",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "左边 GPT，右边 Nano Banana 2",
-          "url": "https://x.com/op7418/status/2068253424182059452",
-          "published_at": "2026-06-20T08:43:37Z",
-          "summary": "左边 GPT，右边 Nano Banana 2💬1🔄0❤️4👀3985📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "888bb900414e5d259fa903ee94a65d28afa3593d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "但是这个细节依然有问题，只是观感好点",
-          "url": "https://x.com/op7418/status/2068251976673169763",
-          "published_at": "2026-06-20T08:37:52Z",
-          "summary": "但是这个细节依然有问题，只是观感好点💬1🔄0❤️0👀4053📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "9831b0b76afe6aa33feb3f299dc4267bab70e141",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这个更明显点，左边 GPT 右边 NanoBanana 2",
-          "url": "https://x.com/op7418/status/2068251392196915618",
-          "published_at": "2026-06-20T08:35:32Z",
-          "summary": "这个更明显点，左边 GPT 右边 NanoBanana 2💬1🔄0❤️1👀106📊1⚡ Powered by xgo.ing"
+          "summary": "这天气太爽了，差了两天又好了。💬37🔄0❤️10👀4587📊31⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -281,62 +226,7 @@
       "title": "这天气太爽了，差了两天又好了。",
       "url": "https://x.com/op7418/status/2068302693760966985",
       "published_at": "2026-06-20T11:59:24Z",
-      "summary": "这天气太爽了，差了两天又好了。💬36🔄0❤️10👀4284📊30⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "dcbcce0cc9477ca21e67d79096ef9d8a9f3bef74",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "一个预告",
-      "url": "https://x.com/op7418/status/2068262369852342495",
-      "published_at": "2026-06-20T09:19:10Z",
-      "summary": "一个预告歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬54🔄9❤️108👀18665📊55⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7bc36e35b6852e18926bf286a2137f6cb7d34b42",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "基于你自己IP的卡通配图怎么做？阿真今天教会你！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497798&idx=1&sn=32fd5a2098ba7376845b0ed19d9056fb",
-      "published_at": "2026-06-20T09:11:00Z",
-      "summary": "整点属于自己的IP信息图玩玩！"
-    },
-    {
-      "id": "453f046e9b198f6437843049e6559e3304a65f76",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "左边 GPT，右边 Nano Banana 2",
-      "url": "https://x.com/op7418/status/2068253424182059452",
-      "published_at": "2026-06-20T08:43:37Z",
-      "summary": "左边 GPT，右边 Nano Banana 2💬1🔄0❤️4👀3985📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "888bb900414e5d259fa903ee94a65d28afa3593d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "但是这个细节依然有问题，只是观感好点",
-      "url": "https://x.com/op7418/status/2068251976673169763",
-      "published_at": "2026-06-20T08:37:52Z",
-      "summary": "但是这个细节依然有问题，只是观感好点💬1🔄0❤️0👀4053📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "9831b0b76afe6aa33feb3f299dc4267bab70e141",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这个更明显点，左边 GPT 右边 NanoBanana 2",
-      "url": "https://x.com/op7418/status/2068251392196915618",
-      "published_at": "2026-06-20T08:35:32Z",
-      "summary": "这个更明显点，左边 GPT 右边 NanoBanana 2💬1🔄0❤️1👀106📊1⚡ Powered by xgo.ing"
+      "summary": "这天气太爽了，差了两天又好了。💬37🔄0❤️10👀4587📊31⚡ Powered by xgo.ing"
     }
   ]
 }
