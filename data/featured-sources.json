@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-21T11:27:39.813367Z",
+  "generated_at": "2026-06-21T13:21:42.077022Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 0,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 861,
+      "duration_ms": 531,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 21,
+      "duration_ms": 15,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1363,
+      "duration_ms": 1210,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1307,
+      "duration_ms": 1280,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 762,
+      "duration_ms": 607,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1134,
+      "duration_ms": 780,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 814,
+      "duration_ms": 476,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 11,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2359,
+      "duration_ms": 2512,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 428,
+      "duration_ms": 309,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,25 +184,13 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": [
-        {
-          "id": "0c9a8f11bfd125dae9b87add0fee9ea1f56d9be1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这天气太爽了，差了两天又好了。",
-          "url": "https://x.com/op7418/status/2068302693760966985",
-          "published_at": "2026-06-20T11:59:24Z",
-          "summary": "这天气太爽了，差了两天又好了。💬37🔄0❤️10👀4587📊31⚡ Powered by xgo.ing"
-        }
-      ]
+      "items": []
     },
     "global": {
       "label": "国外精选",
@@ -216,17 +204,5 @@
       "items": []
     }
   },
-  "items": [
-    {
-      "id": "0c9a8f11bfd125dae9b87add0fee9ea1f56d9be1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这天气太爽了，差了两天又好了。",
-      "url": "https://x.com/op7418/status/2068302693760966985",
-      "published_at": "2026-06-20T11:59:24Z",
-      "summary": "这天气太爽了，差了两天又好了。💬37🔄0❤️10👀4587📊31⚡ Powered by xgo.ing"
-    }
-  ]
+  "items": []
 }
