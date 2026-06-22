@@ -1,13 +1,16 @@
 {
-  "generated_at": "2026-06-22T21:18:39.686014Z",
+  "generated_at": "2026-06-22T22:59:40.914304Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 5,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 6,
   "failed_feeds": [
+    "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
+    "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
+    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -20,7 +23,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 618,
+      "duration_ms": 499,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +37,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 29,
+      "duration_ms": 55,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -46,10 +49,10 @@
       "feed_title": "Google AI(@GoogleAI)",
       "feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 1597,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12204,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -62,7 +65,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1846,
+      "duration_ms": 3529,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -74,10 +77,10 @@
       "feed_title": "OpenAI(@OpenAI)",
       "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 846,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12230,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -90,7 +93,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 418,
+      "duration_ms": 580,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +121,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1118,
+      "duration_ms": 1062,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +135,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 42,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -144,10 +147,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 4139,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12226,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -174,7 +177,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 711,
+      "duration_ms": 774,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,11 +187,12 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 2,
       "feed_total": 5,
-      "ok_feeds": 4,
+      "ok_feeds": 3,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
       ],
       "items": [
         {
@@ -201,28 +205,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507882&idx=1&sn=545e96223453714dd7eaa92d061cdcbe",
           "published_at": "2026-06-22T11:10:00Z",
           "summary": "是把短剧当中长剧来拍的节奏啊"
-        },
-        {
-          "id": "78c2d034e48102f7b6f984b9243c06a3dc883ca5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。\n\n他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。\n\n冠军最高会有一万块...",
-          "url": "https://x.com/op7418/status/2068919158486827425",
-          "published_at": "2026-06-22T04:49:00Z",
-          "summary": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。 他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。 冠军最高会有一万块的奖金。如果你有一些自己的东西，可以找时间来试试。💬33🔄1❤️16👀5952📊29⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0df1f3b8f2ee1a2503cbc9c22a112c0feac9de6a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "小道消息，他没说来源\n\nAnthropic 已经完成了一个更强的 Mythos 模型的训练\n\n感觉训练是肯定不会停止的，就看是不是有了新的就会放出旧的了",
-          "url": "https://x.com/op7418/status/2068902523914903929",
-          "published_at": "2026-06-22T03:42:54Z",
-          "summary": "小道消息，他没说来源 Anthropic 已经完成了一个更强的 Mythos 模型的训练 感觉训练是肯定不会停止的，就看是不是有了新的就会放出旧的了Andrew Curran@AndrewCurran_A new, more capable version of Mythos has emerged from training. I don't know whether it will be called Mythos 5.1 or Mythos 6, or if Anthropic will keep it internal to accelerate…"
         },
         {
           "id": "0371a11b07f94cd4ec9e3e2cc19d36609a9201e5",
@@ -239,10 +221,12 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 3,
       "feed_total": 7,
-      "ok_feeds": 5,
+      "ok_feeds": 3,
       "failed_feeds": [
+        "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
+        "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
@@ -279,39 +263,6 @@
           "url": "https://x.com/GeminiApp/status/2069143097586700794",
           "published_at": "2026-06-22T19:38:51Z",
           "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬22🔄12❤️212👀22209📊50⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6aacd95b232f7d0e6a58afeac81c4d418f8868a6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Patch the Planet is our effort to help open source maintainers move from security findings to merged...",
-          "url": "https://x.com/OpenAI/status/2069104288417390688",
-          "published_at": "2026-06-22T17:04:39Z",
-          "summary": "Patch the Planet is our effort to help open source maintainers move from security findings to merged fixes. We’re working with Trail of Bits, HackerOne, Calif, researchers, and maintainers to bring Codex Security and advanced models into the remediation process, with human review…"
-        },
-        {
-          "id": "47826298abe487164eedd10c3bca2e1412152e31",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and se...",
-          "url": "https://x.com/OpenAI/status/2069104290065776881",
-          "published_at": "2026-06-22T17:04:39Z",
-          "summary": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the security products and services they provide to customers. This allows their customers…"
-        },
-        {
-          "id": "216689365cb54046e947f1f9dac1b3d318dafc51",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed:\n\n...",
-          "url": "https://x.com/OpenAI/status/2069104283824640023",
-          "published_at": "2026-06-22T17:04:38Z",
-          "summary": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed: - Codex Security plugin: find, validate, and fix vulnerabilities right inside Codex - The full version of GPT-5.5-Cyber model: a great model for trusted defenders - Cyber Partner Pr…"
         }
       ]
     }
@@ -351,39 +302,6 @@
       "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬22🔄12❤️212👀22209📊50⚡ Powered by xgo.ing"
     },
     {
-      "id": "6aacd95b232f7d0e6a58afeac81c4d418f8868a6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Patch the Planet is our effort to help open source maintainers move from security findings to merged...",
-      "url": "https://x.com/OpenAI/status/2069104288417390688",
-      "published_at": "2026-06-22T17:04:39Z",
-      "summary": "Patch the Planet is our effort to help open source maintainers move from security findings to merged fixes. We’re working with Trail of Bits, HackerOne, Calif, researchers, and maintainers to bring Codex Security and advanced models into the remediation process, with human review…"
-    },
-    {
-      "id": "47826298abe487164eedd10c3bca2e1412152e31",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and se...",
-      "url": "https://x.com/OpenAI/status/2069104290065776881",
-      "published_at": "2026-06-22T17:04:39Z",
-      "summary": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the security products and services they provide to customers. This allows their customers…"
-    },
-    {
-      "id": "216689365cb54046e947f1f9dac1b3d318dafc51",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed:\n\n...",
-      "url": "https://x.com/OpenAI/status/2069104283824640023",
-      "published_at": "2026-06-22T17:04:38Z",
-      "summary": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed: - Codex Security plugin: find, validate, and fix vulnerabilities right inside Codex - The full version of GPT-5.5-Cyber model: a great model for trusted defenders - Cyber Partner Pr…"
-    },
-    {
       "id": "78e5b0ba58deeb55c25562f01c374ffd68cfac83",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -393,28 +311,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507882&idx=1&sn=545e96223453714dd7eaa92d061cdcbe",
       "published_at": "2026-06-22T11:10:00Z",
       "summary": "是把短剧当中长剧来拍的节奏啊"
-    },
-    {
-      "id": "78c2d034e48102f7b6f984b9243c06a3dc883ca5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。\n\n他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。\n\n冠军最高会有一万块...",
-      "url": "https://x.com/op7418/status/2068919158486827425",
-      "published_at": "2026-06-22T04:49:00Z",
-      "summary": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。 他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。 冠军最高会有一万块的奖金。如果你有一些自己的东西，可以找时间来试试。💬33🔄1❤️16👀5952📊29⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0df1f3b8f2ee1a2503cbc9c22a112c0feac9de6a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "小道消息，他没说来源\n\nAnthropic 已经完成了一个更强的 Mythos 模型的训练\n\n感觉训练是肯定不会停止的，就看是不是有了新的就会放出旧的了",
-      "url": "https://x.com/op7418/status/2068902523914903929",
-      "published_at": "2026-06-22T03:42:54Z",
-      "summary": "小道消息，他没说来源 Anthropic 已经完成了一个更强的 Mythos 模型的训练 感觉训练是肯定不会停止的，就看是不是有了新的就会放出旧的了Andrew Curran@AndrewCurran_A new, more capable version of Mythos has emerged from training. I don't know whether it will be called Mythos 5.1 or Mythos 6, or if Anthropic will keep it internal to accelerate…"
     },
     {
       "id": "0371a11b07f94cd4ec9e3e2cc19d36609a9201e5",
