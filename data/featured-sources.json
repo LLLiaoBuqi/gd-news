@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-22T07:32:17.754294Z",
+  "generated_at": "2026-06-22T13:29:22.895579Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 326,
+      "duration_ms": 179,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 17,
-      "duration_ms": 65,
+      "item_count": 16,
+      "duration_ms": 17,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1485,
+      "duration_ms": 1564,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1375,
+      "duration_ms": 1438,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1014,
+      "duration_ms": 980,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 677,
+      "duration_ms": 1203,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1101,
+      "duration_ms": 1321,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 60,
+      "duration_ms": 20,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2853,
+      "duration_ms": 2812,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 840,
+      "duration_ms": 621,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "78e5b0ba58deeb55c25562f01c374ffd68cfac83",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测小云雀短剧Agent2.0，字节自家的工作流用起来比德芙还丝滑",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507882&idx=1&sn=545e96223453714dd7eaa92d061cdcbe",
+          "published_at": "2026-06-22T11:10:00Z",
+          "summary": "是把短剧当中长剧来拍的节奏啊"
+        },
         {
           "id": "78c2d034e48102f7b6f984b9243c06a3dc883ca5",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。\n\n他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。\n\n冠军最高会有一万块...",
           "url": "https://x.com/op7418/status/2068919158486827425",
           "published_at": "2026-06-22T04:49:00Z",
-          "summary": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。 他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。 冠军最高会有一万块的奖金。如果你有一些自己的东西，可以找时间来试试。💬9🔄1❤️10👀2968📊9⚡ Powered by xgo.ing"
+          "summary": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。 他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。 冠军最高会有一万块的奖金。如果你有一些自己的东西，可以找时间来试试。💬14🔄1❤️13👀5012📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "0df1f3b8f2ee1a2503cbc9c22a112c0feac9de6a",
@@ -212,6 +223,17 @@
           "url": "https://x.com/op7418/status/2068902523914903929",
           "published_at": "2026-06-22T03:42:54Z",
           "summary": "小道消息，他没说来源 Anthropic 已经完成了一个更强的 Mythos 模型的训练 感觉训练是肯定不会停止的，就看是不是有了新的就会放出旧的了Andrew Curran@AndrewCurran_A new, more capable version of Mythos has emerged from training. I don't know whether it will be called Mythos 5.1 or Mythos 6, or if Anthropic will keep it internal to accelerate…"
+        },
+        {
+          "id": "0371a11b07f94cd4ec9e3e2cc19d36609a9201e5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "AI用得好不好，跟你会不会管人，我觉得越来越是同一件事。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683699&idx=1&sn=b33fa1dde9afc67a8b97587dd4efd6d6",
+          "published_at": "2026-06-22T02:08:00Z",
+          "summary": "残忍但真实"
         }
       ]
     },
@@ -229,6 +251,17 @@
   },
   "items": [
     {
+      "id": "78e5b0ba58deeb55c25562f01c374ffd68cfac83",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测小云雀短剧Agent2.0，字节自家的工作流用起来比德芙还丝滑",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507882&idx=1&sn=545e96223453714dd7eaa92d061cdcbe",
+      "published_at": "2026-06-22T11:10:00Z",
+      "summary": "是把短剧当中长剧来拍的节奏啊"
+    },
+    {
       "id": "78c2d034e48102f7b6f984b9243c06a3dc883ca5",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -237,7 +270,7 @@
       "title": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。\n\n他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。\n\n冠军最高会有一万块...",
       "url": "https://x.com/op7418/status/2068919158486827425",
       "published_at": "2026-06-22T04:49:00Z",
-      "summary": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。 他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。 冠军最高会有一万块的奖金。如果你有一些自己的东西，可以找时间来试试。💬9🔄1❤️10👀2968📊9⚡ Powered by xgo.ing"
+      "summary": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。 他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。 冠军最高会有一万块的奖金。如果你有一些自己的东西，可以找时间来试试。💬14🔄1❤️13👀5012📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "0df1f3b8f2ee1a2503cbc9c22a112c0feac9de6a",
@@ -249,6 +282,17 @@
       "url": "https://x.com/op7418/status/2068902523914903929",
       "published_at": "2026-06-22T03:42:54Z",
       "summary": "小道消息，他没说来源 Anthropic 已经完成了一个更强的 Mythos 模型的训练 感觉训练是肯定不会停止的，就看是不是有了新的就会放出旧的了Andrew Curran@AndrewCurran_A new, more capable version of Mythos has emerged from training. I don't know whether it will be called Mythos 5.1 or Mythos 6, or if Anthropic will keep it internal to accelerate…"
+    },
+    {
+      "id": "0371a11b07f94cd4ec9e3e2cc19d36609a9201e5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "AI用得好不好，跟你会不会管人，我觉得越来越是同一件事。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683699&idx=1&sn=b33fa1dde9afc67a8b97587dd4efd6d6",
+      "published_at": "2026-06-22T02:08:00Z",
+      "summary": "残忍但真实"
     }
   ]
 }
