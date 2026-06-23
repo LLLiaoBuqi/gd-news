@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-23T14:34:49.252939Z",
+  "generated_at": "2026-06-23T17:12:27.064493Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 5,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 8,
   "failed_feeds": [
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
+    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -20,7 +21,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 928,
+      "duration_ms": 162,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +49,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1363,
+      "duration_ms": 5678,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +63,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1242,
+      "duration_ms": 5553,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +77,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 758,
+      "duration_ms": 5784,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +91,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 659,
+      "duration_ms": 1195,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +119,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1008,
+      "duration_ms": 934,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +133,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 22,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -144,10 +145,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 2444,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12300,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -174,7 +175,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 343,
+      "duration_ms": 632,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,11 +185,12 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 2,
       "feed_total": 5,
-      "ok_feeds": 4,
+      "ok_feeds": 3,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
       ],
       "items": [
         {
@@ -201,28 +203,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507922&idx=1&sn=300b2d9e866a2fb160cacc5d9c7d7d2f",
           "published_at": "2026-06-23T08:33:00Z",
           "summary": "豆你变了，不用Skill也那么厉害了"
-        },
-        {
-          "id": "657631003471417ec58731c5cbb1d7d5bd653284",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "视频信息和价格",
-          "url": "https://x.com/op7418/status/2069273120830271569",
-          "published_at": "2026-06-23T04:15:31Z",
-          "summary": "视频信息和价格💬1🔄0❤️1👀8974📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "cdc1428bb1d43d10c1028f9c58705781635c35a3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。\n\n看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。\n\n4K 分辨率生成的视频码率为 50M，感觉是为那些做...",
-          "url": "https://x.com/op7418/status/2069272992664924426",
-          "published_at": "2026-06-23T04:15:01Z",
-          "summary": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。Your browser does not support the video tag.🔗 View on Twitter💬51🔄2❤️84👀34695📊53⚡ Powered by xgo.ing"
         },
         {
           "id": "4943ed3ab1f3b385f5e358929b956b465f5787fc",
@@ -239,7 +219,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 8,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -267,7 +247,7 @@
           "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.\n\nShare how y...",
           "url": "https://x.com/GeminiApp/status/2069143100736565745",
           "published_at": "2026-06-22T19:38:52Z",
-          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬30🔄9❤️185👀43335📊46⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬30🔄9❤️197👀46396📊47⚡ Powered by xgo.ing"
         },
         {
           "id": "3eaa458662afe2e0810f8524eab8a096df533322",
@@ -278,62 +258,7 @@
           "title": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under y...",
           "url": "https://x.com/GeminiApp/status/2069143097586700794",
           "published_at": "2026-06-22T19:38:51Z",
-          "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬118🔄118❤️2215👀381507📊462⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6aacd95b232f7d0e6a58afeac81c4d418f8868a6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Patch the Planet is our effort to help open source maintainers move from security findings to merged...",
-          "url": "https://x.com/OpenAI/status/2069104288417390688",
-          "published_at": "2026-06-22T17:04:39Z",
-          "summary": "Patch the Planet is our effort to help open source maintainers move from security findings to merged fixes. We’re working with Trail of Bits, HackerOne, Calif, researchers, and maintainers to bring Codex Security and advanced models into the remediation process, with human review…"
-        },
-        {
-          "id": "47826298abe487164eedd10c3bca2e1412152e31",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and se...",
-          "url": "https://x.com/OpenAI/status/2069104290065776881",
-          "published_at": "2026-06-22T17:04:39Z",
-          "summary": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the security products and services they provide to customers. This allows their customers…"
-        },
-        {
-          "id": "216689365cb54046e947f1f9dac1b3d318dafc51",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed:\n\n...",
-          "url": "https://x.com/OpenAI/status/2069104283824640023",
-          "published_at": "2026-06-22T17:04:38Z",
-          "summary": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed: - Codex Security plugin: find, validate, and fix vulnerabilities right inside Codex - The full version of GPT-5.5-Cyber model: a great model for trusted defenders - Cyber Partner Pr…"
-        },
-        {
-          "id": "cb696a21035cf06c37e469106102a2e16fa17f76",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work:...",
-          "url": "https://x.com/OpenAI/status/2069104286479618296",
-          "published_at": "2026-06-22T17:04:38Z",
-          "summary": "GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work: tracing vulnerable code, validating issues, developing patches, and preparing evidence for human review.💬47🔄145❤️1682👀474687📊244⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "089373acac7f153354c03240f46482c342ac59f5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Codex Security empowers defenders with out-of-the-box security workflows.\n\nTeams can run deep scans,...",
-          "url": "https://x.com/OpenAI/status/2069104284982263810",
-          "published_at": "2026-06-22T17:04:38Z",
-          "summary": "Codex Security empowers defenders with out-of-the-box security workflows. Teams can run deep scans, validate findings, trace attack paths, build threat models, generate codebase-specific patches for review, and export into the tools they already use.💬9🔄23❤️598👀89707📊64⚡ Powered b…"
+          "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬123🔄133❤️2358👀419765📊491⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -349,28 +274,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507922&idx=1&sn=300b2d9e866a2fb160cacc5d9c7d7d2f",
       "published_at": "2026-06-23T08:33:00Z",
       "summary": "豆你变了，不用Skill也那么厉害了"
-    },
-    {
-      "id": "657631003471417ec58731c5cbb1d7d5bd653284",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "视频信息和价格",
-      "url": "https://x.com/op7418/status/2069273120830271569",
-      "published_at": "2026-06-23T04:15:31Z",
-      "summary": "视频信息和价格💬1🔄0❤️1👀8974📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "cdc1428bb1d43d10c1028f9c58705781635c35a3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。\n\n看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。\n\n4K 分辨率生成的视频码率为 50M，感觉是为那些做...",
-      "url": "https://x.com/op7418/status/2069272992664924426",
-      "published_at": "2026-06-23T04:15:01Z",
-      "summary": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。Your browser does not support the video tag.🔗 View on Twitter💬51🔄2❤️84👀34695📊53⚡ Powered by xgo.ing"
     },
     {
       "id": "4943ed3ab1f3b385f5e358929b956b465f5787fc",
@@ -403,7 +306,7 @@
       "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.\n\nShare how y...",
       "url": "https://x.com/GeminiApp/status/2069143100736565745",
       "published_at": "2026-06-22T19:38:52Z",
-      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬30🔄9❤️185👀43335📊46⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬30🔄9❤️197👀46396📊47⚡ Powered by xgo.ing"
     },
     {
       "id": "3eaa458662afe2e0810f8524eab8a096df533322",
@@ -414,62 +317,7 @@
       "title": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under y...",
       "url": "https://x.com/GeminiApp/status/2069143097586700794",
       "published_at": "2026-06-22T19:38:51Z",
-      "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬118🔄118❤️2215👀381507📊462⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "6aacd95b232f7d0e6a58afeac81c4d418f8868a6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Patch the Planet is our effort to help open source maintainers move from security findings to merged...",
-      "url": "https://x.com/OpenAI/status/2069104288417390688",
-      "published_at": "2026-06-22T17:04:39Z",
-      "summary": "Patch the Planet is our effort to help open source maintainers move from security findings to merged fixes. We’re working with Trail of Bits, HackerOne, Calif, researchers, and maintainers to bring Codex Security and advanced models into the remediation process, with human review…"
-    },
-    {
-      "id": "47826298abe487164eedd10c3bca2e1412152e31",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and se...",
-      "url": "https://x.com/OpenAI/status/2069104290065776881",
-      "published_at": "2026-06-22T17:04:39Z",
-      "summary": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the security products and services they provide to customers. This allows their customers…"
-    },
-    {
-      "id": "216689365cb54046e947f1f9dac1b3d318dafc51",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed:\n\n...",
-      "url": "https://x.com/OpenAI/status/2069104283824640023",
-      "published_at": "2026-06-22T17:04:38Z",
-      "summary": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed: - Codex Security plugin: find, validate, and fix vulnerabilities right inside Codex - The full version of GPT-5.5-Cyber model: a great model for trusted defenders - Cyber Partner Pr…"
-    },
-    {
-      "id": "cb696a21035cf06c37e469106102a2e16fa17f76",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work:...",
-      "url": "https://x.com/OpenAI/status/2069104286479618296",
-      "published_at": "2026-06-22T17:04:38Z",
-      "summary": "GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work: tracing vulnerable code, validating issues, developing patches, and preparing evidence for human review.💬47🔄145❤️1682👀474687📊244⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "089373acac7f153354c03240f46482c342ac59f5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Codex Security empowers defenders with out-of-the-box security workflows.\n\nTeams can run deep scans,...",
-      "url": "https://x.com/OpenAI/status/2069104284982263810",
-      "published_at": "2026-06-22T17:04:38Z",
-      "summary": "Codex Security empowers defenders with out-of-the-box security workflows. Teams can run deep scans, validate findings, trace attack paths, build threat models, generate codebase-specific patches for review, and export into the tools they already use.💬9🔄23❤️598👀89707📊64⚡ Powered b…"
+      "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬123🔄133❤️2358👀419765📊491⚡ Powered by xgo.ing"
     }
   ]
 }
