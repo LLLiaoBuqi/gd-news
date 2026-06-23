@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-06-23T17:12:27.064493Z",
+  "generated_at": "2026-06-23T19:24:00.871339Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 11,
   "feed_total": 12,
-  "ok_feeds": 8,
+  "ok_feeds": 9,
   "failed_feeds": [
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
-    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -21,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 162,
+      "duration_ms": 159,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -35,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 19,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -49,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 5678,
+      "duration_ms": 1631,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -63,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 5553,
+      "duration_ms": 1453,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -77,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 5784,
+      "duration_ms": 946,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -91,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1195,
+      "duration_ms": 540,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -119,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 934,
+      "duration_ms": 889,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -133,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -145,10 +144,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12300,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 2705,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -175,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 632,
+      "duration_ms": 3060,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -185,14 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 6,
       "feed_total": 5,
-      "ok_feeds": 3,
+      "ok_feeds": 4,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml",
-        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "dbeb333cdfcc174dc3a66f1b92a6190d22299cb1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "测了一下，没想到 Seed 2.1 Pro 还不错啊\n\n补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。\n\n更多的案例和提示词在文章里",
+          "url": "https://x.com/op7418/status/2069424221399519238",
+          "published_at": "2026-06-23T14:15:57Z",
+          "summary": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2069…🔗 View Quoted Tweet💬12🔄2❤️25👀12383📊12⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "fd20fd6b2afdb40275f449ee2d04733a9d284cdb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/M54kg0Klvn",
+          "url": "https://x.com/op7418/status/2069423803957146077",
+          "published_at": "2026-06-23T14:14:17Z",
+          "summary": "x.com/i/article/2069…💬4🔄2❤️40👀21818📊14⚡ Powered by xgo.ing"
+        },
         {
           "id": "68cf4077e00bd11aed92d2fcc4b0549e8776d23f",
           "site_id": "featuredrss",
@@ -203,6 +223,28 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507922&idx=1&sn=300b2d9e866a2fb160cacc5d9c7d7d2f",
           "published_at": "2026-06-23T08:33:00Z",
           "summary": "豆你变了，不用Skill也那么厉害了"
+        },
+        {
+          "id": "657631003471417ec58731c5cbb1d7d5bd653284",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "视频信息和价格",
+          "url": "https://x.com/op7418/status/2069273120830271569",
+          "published_at": "2026-06-23T04:15:31Z",
+          "summary": "视频信息和价格💬1🔄0❤️3👀9935📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "cdc1428bb1d43d10c1028f9c58705781635c35a3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。\n\n看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。\n\n4K 分辨率生成的视频码率为 50M，感觉是为那些做...",
+          "url": "https://x.com/op7418/status/2069272992664924426",
+          "published_at": "2026-06-23T04:15:01Z",
+          "summary": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。Your browser does not support the video tag.🔗 View on Twitter💬64🔄3❤️101👀41849📊67⚡ Powered by xgo.ing"
         },
         {
           "id": "4943ed3ab1f3b385f5e358929b956b465f5787fc",
@@ -219,7 +261,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -227,6 +269,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "1df5e0de7da7a75229b89d1e14c1d1ee0e0a97a2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "OpenAI DevDay 2026 applications are now open!\n\nOur biggest developer event gets even bigger.\n\n📍 San...",
+          "url": "https://x.com/OpenAI/status/2069483224158646739",
+          "published_at": "2026-06-23T18:10:24Z",
+          "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬72🔄55❤️510👀86916📊119⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "7787b0e413c2b2d8285575e1b7c54f95f2b912bb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "You can also tune in from home.\n\nThe opening keynote will be livestreamed on September 29.",
+          "url": "https://x.com/OpenAI/status/2069483225492357326",
+          "published_at": "2026-06-23T18:10:24Z",
+          "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬9🔄7❤️138👀20895📊19⚡ Powered by xgo.ing"
+        },
         {
           "id": "3912394688c6bb510c870dae61bb164c904bff2f",
           "site_id": "featuredrss",
@@ -247,7 +311,7 @@
           "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.\n\nShare how y...",
           "url": "https://x.com/GeminiApp/status/2069143100736565745",
           "published_at": "2026-06-22T19:38:52Z",
-          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬30🔄9❤️197👀46396📊47⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬31🔄9❤️205👀48536📊49⚡ Powered by xgo.ing"
         },
         {
           "id": "3eaa458662afe2e0810f8524eab8a096df533322",
@@ -258,12 +322,56 @@
           "title": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under y...",
           "url": "https://x.com/GeminiApp/status/2069143097586700794",
           "published_at": "2026-06-22T19:38:51Z",
-          "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬123🔄133❤️2358👀419765📊491⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬132🔄146❤️2484👀456824📊523⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "1df5e0de7da7a75229b89d1e14c1d1ee0e0a97a2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "OpenAI DevDay 2026 applications are now open!\n\nOur biggest developer event gets even bigger.\n\n📍 San...",
+      "url": "https://x.com/OpenAI/status/2069483224158646739",
+      "published_at": "2026-06-23T18:10:24Z",
+      "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬72🔄55❤️510👀86916📊119⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "7787b0e413c2b2d8285575e1b7c54f95f2b912bb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "You can also tune in from home.\n\nThe opening keynote will be livestreamed on September 29.",
+      "url": "https://x.com/OpenAI/status/2069483225492357326",
+      "published_at": "2026-06-23T18:10:24Z",
+      "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬9🔄7❤️138👀20895📊19⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "dbeb333cdfcc174dc3a66f1b92a6190d22299cb1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "测了一下，没想到 Seed 2.1 Pro 还不错啊\n\n补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。\n\n更多的案例和提示词在文章里",
+      "url": "https://x.com/op7418/status/2069424221399519238",
+      "published_at": "2026-06-23T14:15:57Z",
+      "summary": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2069…🔗 View Quoted Tweet💬12🔄2❤️25👀12383📊12⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "fd20fd6b2afdb40275f449ee2d04733a9d284cdb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/M54kg0Klvn",
+      "url": "https://x.com/op7418/status/2069423803957146077",
+      "published_at": "2026-06-23T14:14:17Z",
+      "summary": "x.com/i/article/2069…💬4🔄2❤️40👀21818📊14⚡ Powered by xgo.ing"
+    },
     {
       "id": "68cf4077e00bd11aed92d2fcc4b0549e8776d23f",
       "site_id": "featuredrss",
@@ -274,6 +382,28 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507922&idx=1&sn=300b2d9e866a2fb160cacc5d9c7d7d2f",
       "published_at": "2026-06-23T08:33:00Z",
       "summary": "豆你变了，不用Skill也那么厉害了"
+    },
+    {
+      "id": "657631003471417ec58731c5cbb1d7d5bd653284",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "视频信息和价格",
+      "url": "https://x.com/op7418/status/2069273120830271569",
+      "published_at": "2026-06-23T04:15:31Z",
+      "summary": "视频信息和价格💬1🔄0❤️3👀9935📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "cdc1428bb1d43d10c1028f9c58705781635c35a3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。\n\n看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。\n\n4K 分辨率生成的视频码率为 50M，感觉是为那些做...",
+      "url": "https://x.com/op7418/status/2069272992664924426",
+      "published_at": "2026-06-23T04:15:01Z",
+      "summary": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。Your browser does not support the video tag.🔗 View on Twitter💬64🔄3❤️101👀41849📊67⚡ Powered by xgo.ing"
     },
     {
       "id": "4943ed3ab1f3b385f5e358929b956b465f5787fc",
@@ -306,7 +436,7 @@
       "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.\n\nShare how y...",
       "url": "https://x.com/GeminiApp/status/2069143100736565745",
       "published_at": "2026-06-22T19:38:52Z",
-      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬30🔄9❤️197👀46396📊47⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬31🔄9❤️205👀48536📊49⚡ Powered by xgo.ing"
     },
     {
       "id": "3eaa458662afe2e0810f8524eab8a096df533322",
@@ -317,7 +447,7 @@
       "title": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under y...",
       "url": "https://x.com/GeminiApp/status/2069143097586700794",
       "published_at": "2026-06-22T19:38:51Z",
-      "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬123🔄133❤️2358👀419765📊491⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬132🔄146❤️2484👀456824📊523⚡ Powered by xgo.ing"
     }
   ]
 }
