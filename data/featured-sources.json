@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T00:13:50.634532Z",
+  "generated_at": "2026-06-23T04:38:18.558642Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 5,
   "failed_feeds": [
@@ -24,7 +24,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 442,
+      "duration_ms": 632,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -38,7 +38,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 26,
+      "duration_ms": 27,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -52,7 +52,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12612,
+      "duration_ms": 12066,
       "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -66,7 +66,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12736,
+      "duration_ms": 12063,
       "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -80,7 +80,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12637,
+      "duration_ms": 12084,
       "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -94,7 +94,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1042,
+      "duration_ms": 490,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -108,7 +108,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -122,7 +122,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 576,
+      "duration_ms": 889,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -136,7 +136,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 32,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -150,7 +150,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12604,
+      "duration_ms": 12072,
       "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
@@ -164,7 +164,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -178,7 +178,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 774,
+      "duration_ms": 563,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -188,7 +188,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 3,
       "failed_feeds": [
@@ -206,17 +206,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507882&idx=1&sn=545e96223453714dd7eaa92d061cdcbe",
           "published_at": "2026-06-22T11:10:00Z",
           "summary": "是把短剧当中长剧来拍的节奏啊"
-        },
-        {
-          "id": "0371a11b07f94cd4ec9e3e2cc19d36609a9201e5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "AI用得好不好，跟你会不会管人，我觉得越来越是同一件事。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683699&idx=1&sn=b33fa1dde9afc67a8b97587dd4efd6d6",
-          "published_at": "2026-06-22T02:08:00Z",
-          "summary": "残忍但真实"
         }
       ]
     },
@@ -246,17 +235,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507882&idx=1&sn=545e96223453714dd7eaa92d061cdcbe",
       "published_at": "2026-06-22T11:10:00Z",
       "summary": "是把短剧当中长剧来拍的节奏啊"
-    },
-    {
-      "id": "0371a11b07f94cd4ec9e3e2cc19d36609a9201e5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "AI用得好不好，跟你会不会管人，我觉得越来越是同一件事。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683699&idx=1&sn=b33fa1dde9afc67a8b97587dd4efd6d6",
-      "published_at": "2026-06-22T02:08:00Z",
-      "summary": "残忍但真实"
     }
   ]
 }
