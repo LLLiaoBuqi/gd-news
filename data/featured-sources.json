@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T11:37:19.361578Z",
+  "generated_at": "2026-06-23T14:34:49.252939Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 707,
+      "duration_ms": 928,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 37,
+      "duration_ms": 19,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1454,
+      "duration_ms": 1363,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1345,
+      "duration_ms": 1242,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 969,
+      "duration_ms": 758,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1048,
+      "duration_ms": 659,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 482,
+      "duration_ms": 1008,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 21,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2394,
+      "duration_ms": 2444,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 845,
+      "duration_ms": 343,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "68cf4077e00bd11aed92d2fcc4b0549e8776d23f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测豆包Seed 2.1 Pro，把我六个真实工作流都稳稳接住了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507922&idx=1&sn=300b2d9e866a2fb160cacc5d9c7d7d2f",
+          "published_at": "2026-06-23T08:33:00Z",
+          "summary": "豆你变了，不用Skill也那么厉害了"
+        },
         {
           "id": "657631003471417ec58731c5cbb1d7d5bd653284",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "视频信息和价格",
           "url": "https://x.com/op7418/status/2069273120830271569",
           "published_at": "2026-06-23T04:15:31Z",
-          "summary": "视频信息和价格💬1🔄0❤️0👀7274📊1⚡ Powered by xgo.ing"
+          "summary": "视频信息和价格💬1🔄0❤️1👀8974📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "cdc1428bb1d43d10c1028f9c58705781635c35a3",
@@ -211,7 +222,7 @@
           "title": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。\n\n看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。\n\n4K 分辨率生成的视频码率为 50M，感觉是为那些做...",
           "url": "https://x.com/op7418/status/2069272992664924426",
           "published_at": "2026-06-23T04:15:01Z",
-          "summary": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。Your browser does not support the video tag.🔗 View on Twitter💬41🔄2❤️72👀26083📊44⚡ Powered by xgo.ing"
+          "summary": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。Your browser does not support the video tag.🔗 View on Twitter💬51🔄2❤️84👀34695📊53⚡ Powered by xgo.ing"
         },
         {
           "id": "4943ed3ab1f3b385f5e358929b956b465f5787fc",
@@ -256,7 +267,7 @@
           "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.\n\nShare how y...",
           "url": "https://x.com/GeminiApp/status/2069143100736565745",
           "published_at": "2026-06-22T19:38:52Z",
-          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬29🔄8❤️177👀40076📊44⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬30🔄9❤️185👀43335📊46⚡ Powered by xgo.ing"
         },
         {
           "id": "3eaa458662afe2e0810f8524eab8a096df533322",
@@ -267,7 +278,7 @@
           "title": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under y...",
           "url": "https://x.com/GeminiApp/status/2069143097586700794",
           "published_at": "2026-06-22T19:38:51Z",
-          "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬107🔄109❤️2061👀338924📊428⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬118🔄118❤️2215👀381507📊462⚡ Powered by xgo.ing"
         },
         {
           "id": "6aacd95b232f7d0e6a58afeac81c4d418f8868a6",
@@ -329,6 +340,17 @@
   },
   "items": [
     {
+      "id": "68cf4077e00bd11aed92d2fcc4b0549e8776d23f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测豆包Seed 2.1 Pro，把我六个真实工作流都稳稳接住了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507922&idx=1&sn=300b2d9e866a2fb160cacc5d9c7d7d2f",
+      "published_at": "2026-06-23T08:33:00Z",
+      "summary": "豆你变了，不用Skill也那么厉害了"
+    },
+    {
       "id": "657631003471417ec58731c5cbb1d7d5bd653284",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -337,7 +359,7 @@
       "title": "视频信息和价格",
       "url": "https://x.com/op7418/status/2069273120830271569",
       "published_at": "2026-06-23T04:15:31Z",
-      "summary": "视频信息和价格💬1🔄0❤️0👀7274📊1⚡ Powered by xgo.ing"
+      "summary": "视频信息和价格💬1🔄0❤️1👀8974📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "cdc1428bb1d43d10c1028f9c58705781635c35a3",
@@ -348,7 +370,7 @@
       "title": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。\n\n看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。\n\n4K 分辨率生成的视频码率为 50M，感觉是为那些做...",
       "url": "https://x.com/op7418/status/2069272992664924426",
       "published_at": "2026-06-23T04:15:01Z",
-      "summary": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。Your browser does not support the video tag.🔗 View on Twitter💬41🔄2❤️72👀26083📊44⚡ Powered by xgo.ing"
+      "summary": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。Your browser does not support the video tag.🔗 View on Twitter💬51🔄2❤️84👀34695📊53⚡ Powered by xgo.ing"
     },
     {
       "id": "4943ed3ab1f3b385f5e358929b956b465f5787fc",
@@ -381,7 +403,7 @@
       "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S.\n\nShare how y...",
       "url": "https://x.com/GeminiApp/status/2069143100736565745",
       "published_at": "2026-06-22T19:38:52Z",
-      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬29🔄8❤️177👀40076📊44⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers, starting in the U.S. Share how you’re using it in the replies 👇💬30🔄9❤️185👀43335📊46⚡ Powered by xgo.ing"
     },
     {
       "id": "3eaa458662afe2e0810f8524eab8a096df533322",
@@ -392,7 +414,7 @@
       "title": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under y...",
       "url": "https://x.com/GeminiApp/status/2069143097586700794",
       "published_at": "2026-06-22T19:38:51Z",
-      "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬107🔄109❤️2061👀338924📊428⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction. Here are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵💬118🔄118❤️2215👀381507📊462⚡ Powered by xgo.ing"
     },
     {
       "id": "6aacd95b232f7d0e6a58afeac81c4d418f8868a6",
