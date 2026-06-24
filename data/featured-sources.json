@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T12:32:30.284025Z",
+  "generated_at": "2026-06-24T15:30:23.425565Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 7,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 496,
+      "duration_ms": 152,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 53,
+      "duration_ms": 163,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1289,
+      "duration_ms": 1513,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1171,
+      "duration_ms": 1405,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 716,
+      "duration_ms": 1173,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1018,
+      "duration_ms": 1103,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 426,
+      "duration_ms": 1132,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 56,
+      "duration_ms": 34,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2617,
+      "duration_ms": 2734,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 763,
+      "duration_ms": 1054,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "df5457cb340e25c5ba99df740a30d44f73adf2c3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "分享一个把Skill工作流打包成电脑App的新玩法，再不用每次都靠对话框了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507946&idx=1&sn=75e834dc723e4ae867d31775b9c5bf2a",
+          "published_at": "2026-06-24T10:57:00Z",
+          "summary": "这次跟快手KroWork一拍即合了"
+        },
         {
           "id": "5e6066e8c275428336d46d987cf1c5220ad5f3d8",
           "site_id": "featuredrss",
@@ -212,45 +223,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683790&idx=1&sn=43c90d4ebe98a2ff2cd241a95a94a38d",
           "published_at": "2026-06-24T02:02:00Z",
           "summary": "迈向Agent时代"
-        },
-        {
-          "id": "055f4aa6b5c98154bc986e7a43bd7303366f981a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "刚从火山FORCE大会回来，心情真的比较激动啊，这次更新的内容非常多，我准时到的现场结果根本挤不进去，但是我还是从开始一直站到结束听",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497816&idx=1&sn=8fe7cf24a6536f2d04238d99850ab414",
-          "published_at": "2026-06-23T14:19:52Z",
-          "summary": "刚从火山FORCE大会回来，心情真的比较激动啊，这次更新的内容非常多，我准时到的现场结果根本挤不进去，但是我还是从开始一直站到结束听完了。 这次核心发布内容就是Doubao-Seed-2.1 Pro和Turbo模型，重点强化了Coding、Agent 长链路任务、多模态理解的几个方向。另外还有面向企业的很多产品和服务。 然后多模态的方向，Seedream 5.0 Pro，Seedance 系列有更新。 图片模型预告了Seedream 5.0 Pro，主打交互式的精准编辑、并且可以多图层分离、也可以生成高密度信息图了、并且可以原生生成多语种文字、还可以直出…"
-        },
-        {
-          "id": "dbeb333cdfcc174dc3a66f1b92a6190d22299cb1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "测了一下，没想到 Seed 2.1 Pro 还不错啊\n\n补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。\n\n更多的案例和提示词在文章里",
-          "url": "https://x.com/op7418/status/2069424221399519238",
-          "published_at": "2026-06-23T14:15:57Z",
-          "summary": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2069…🔗 View Quoted Tweet💬48🔄4❤️48👀26056📊41⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "fd20fd6b2afdb40275f449ee2d04733a9d284cdb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "https://t.co/M54kg0Klvn",
-          "url": "https://x.com/op7418/status/2069423803957146077",
-          "published_at": "2026-06-23T14:14:17Z",
-          "summary": "x.com/i/article/2069…💬8🔄5❤️66👀47912📊26⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -258,6 +236,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "004355405e2aad79edfcb333eede755a2f71e1fa",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "https://t.co/FlbllRaSeb",
+          "url": "https://x.com/OpenAI/status/2069770175709335653",
+          "published_at": "2026-06-24T13:10:39Z",
+          "summary": "openai.com/index/openai-b…💬12🔄29❤️399👀105828📊57⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "f11f8089b28cabe5b7d202085dfee6765492f12d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We’ve designed and built our first AI chip: Jalapeño.\n\nDesigned from the ground up by OpenAI and bro...",
+          "url": "https://x.com/OpenAI/status/2069770172802773292",
+          "published_at": "2026-06-24T13:10:38Z",
+          "summary": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products. Chips are foundational to the AI ec…"
+        },
         {
           "id": "1df5e0de7da7a75229b89d1e14c1d1ee0e0a97a2",
           "site_id": "featuredrss",
@@ -267,7 +267,7 @@
           "title": "OpenAI DevDay 2026 applications are now open!\n\nOur biggest developer event gets even bigger.\n\n📍 San...",
           "url": "https://x.com/OpenAI/status/2069483224158646739",
           "published_at": "2026-06-23T18:10:24Z",
-          "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬140🔄162❤️1579👀325030📊307⚡ Powered by xgo.ing"
+          "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬144🔄169❤️1674👀349089📊320⚡ Powered by xgo.ing"
         },
         {
           "id": "7787b0e413c2b2d8285575e1b7c54f95f2b912bb",
@@ -278,12 +278,45 @@
           "title": "You can also tune in from home.\n\nThe opening keynote will be livestreamed on September 29.",
           "url": "https://x.com/OpenAI/status/2069483225492357326",
           "published_at": "2026-06-23T18:10:24Z",
-          "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬15🔄9❤️259👀66981📊34⚡ Powered by xgo.ing"
+          "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬15🔄10❤️277👀71246📊35⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "004355405e2aad79edfcb333eede755a2f71e1fa",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "https://t.co/FlbllRaSeb",
+      "url": "https://x.com/OpenAI/status/2069770175709335653",
+      "published_at": "2026-06-24T13:10:39Z",
+      "summary": "openai.com/index/openai-b…💬12🔄29❤️399👀105828📊57⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "f11f8089b28cabe5b7d202085dfee6765492f12d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We’ve designed and built our first AI chip: Jalapeño.\n\nDesigned from the ground up by OpenAI and bro...",
+      "url": "https://x.com/OpenAI/status/2069770172802773292",
+      "published_at": "2026-06-24T13:10:38Z",
+      "summary": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products. Chips are foundational to the AI ec…"
+    },
+    {
+      "id": "df5457cb340e25c5ba99df740a30d44f73adf2c3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "分享一个把Skill工作流打包成电脑App的新玩法，再不用每次都靠对话框了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507946&idx=1&sn=75e834dc723e4ae867d31775b9c5bf2a",
+      "published_at": "2026-06-24T10:57:00Z",
+      "summary": "这次跟快手KroWork一拍即合了"
+    },
     {
       "id": "5e6066e8c275428336d46d987cf1c5220ad5f3d8",
       "site_id": "featuredrss",
@@ -315,7 +348,7 @@
       "title": "OpenAI DevDay 2026 applications are now open!\n\nOur biggest developer event gets even bigger.\n\n📍 San...",
       "url": "https://x.com/OpenAI/status/2069483224158646739",
       "published_at": "2026-06-23T18:10:24Z",
-      "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬140🔄162❤️1579👀325030📊307⚡ Powered by xgo.ing"
+      "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬144🔄169❤️1674👀349089📊320⚡ Powered by xgo.ing"
     },
     {
       "id": "7787b0e413c2b2d8285575e1b7c54f95f2b912bb",
@@ -326,40 +359,7 @@
       "title": "You can also tune in from home.\n\nThe opening keynote will be livestreamed on September 29.",
       "url": "https://x.com/OpenAI/status/2069483225492357326",
       "published_at": "2026-06-23T18:10:24Z",
-      "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬15🔄9❤️259👀66981📊34⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "055f4aa6b5c98154bc986e7a43bd7303366f981a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "刚从火山FORCE大会回来，心情真的比较激动啊，这次更新的内容非常多，我准时到的现场结果根本挤不进去，但是我还是从开始一直站到结束听",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497816&idx=1&sn=8fe7cf24a6536f2d04238d99850ab414",
-      "published_at": "2026-06-23T14:19:52Z",
-      "summary": "刚从火山FORCE大会回来，心情真的比较激动啊，这次更新的内容非常多，我准时到的现场结果根本挤不进去，但是我还是从开始一直站到结束听完了。 这次核心发布内容就是Doubao-Seed-2.1 Pro和Turbo模型，重点强化了Coding、Agent 长链路任务、多模态理解的几个方向。另外还有面向企业的很多产品和服务。 然后多模态的方向，Seedream 5.0 Pro，Seedance 系列有更新。 图片模型预告了Seedream 5.0 Pro，主打交互式的精准编辑、并且可以多图层分离、也可以生成高密度信息图了、并且可以原生生成多语种文字、还可以直出…"
-    },
-    {
-      "id": "dbeb333cdfcc174dc3a66f1b92a6190d22299cb1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "测了一下，没想到 Seed 2.1 Pro 还不错啊\n\n补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。\n\n更多的案例和提示词在文章里",
-      "url": "https://x.com/op7418/status/2069424221399519238",
-      "published_at": "2026-06-23T14:15:57Z",
-      "summary": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2069…🔗 View Quoted Tweet💬48🔄4❤️48👀26056📊41⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "fd20fd6b2afdb40275f449ee2d04733a9d284cdb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "https://t.co/M54kg0Klvn",
-      "url": "https://x.com/op7418/status/2069423803957146077",
-      "published_at": "2026-06-23T14:14:17Z",
-      "summary": "x.com/i/article/2069…💬8🔄5❤️66👀47912📊26⚡ Powered by xgo.ing"
+      "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬15🔄10❤️277👀71246📊35⚡ Powered by xgo.ing"
     }
   ]
 }
