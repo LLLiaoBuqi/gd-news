@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T06:40:34.104645Z",
+  "generated_at": "2026-06-24T10:16:51.236907Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 6,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1067,
+      "duration_ms": 309,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 23,
+      "duration_ms": 67,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1504,
+      "duration_ms": 1624,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1277,
+      "duration_ms": 1515,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 831,
+      "duration_ms": 895,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 987,
+      "duration_ms": 594,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1216,
+      "duration_ms": 845,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 59,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2841,
+      "duration_ms": 2613,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 323,
+      "duration_ms": 1072,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -203,6 +203,17 @@
           "summary": "我用的素材收集产品 mymind 终于有 mcp 了 找参考不需要我自己从上面搬运了，舒服，又自动化了一部分mymind@mymind˗ˏˋ BIG NEWS ˎˊ˗ We now have an API. We have an MCP. We have a Claude Connection. We have a ChatGPT Connection. All of this is now in Public BETA starting today and opens up a thousand new possibilities for how yo…"
         },
         {
+          "id": "acb9b1de4c14233ce232d3e205c07a73d9b0aa57",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "体验完微信Agent以后，我觉得这就是微信有史以来最大的更新。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683790&idx=1&sn=43c90d4ebe98a2ff2cd241a95a94a38d",
+          "published_at": "2026-06-24T02:02:00Z",
+          "summary": "迈向Agent时代"
+        },
+        {
           "id": "dbeb333cdfcc174dc3a66f1b92a6190d22299cb1",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -211,7 +222,7 @@
           "title": "测了一下，没想到 Seed 2.1 Pro 还不错啊\n\n补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。\n\n更多的案例和提示词在文章里",
           "url": "https://x.com/op7418/status/2069424221399519238",
           "published_at": "2026-06-23T14:15:57Z",
-          "summary": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2069…🔗 View Quoted Tweet💬38🔄3❤️44👀23289📊33⚡ Powered by xgo.ing"
+          "summary": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2069…🔗 View Quoted Tweet💬43🔄3❤️48👀25202📊37⚡ Powered by xgo.ing"
         },
         {
           "id": "fd20fd6b2afdb40275f449ee2d04733a9d284cdb",
@@ -222,18 +233,7 @@
           "title": "https://t.co/M54kg0Klvn",
           "url": "https://x.com/op7418/status/2069423803957146077",
           "published_at": "2026-06-23T14:14:17Z",
-          "summary": "x.com/i/article/2069…💬7🔄5❤️63👀39939📊24⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "68cf4077e00bd11aed92d2fcc4b0549e8776d23f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测豆包Seed 2.1 Pro，把我六个真实工作流都稳稳接住了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507922&idx=1&sn=300b2d9e866a2fb160cacc5d9c7d7d2f",
-          "published_at": "2026-06-23T08:33:00Z",
-          "summary": "豆你变了，不用Skill也那么厉害了"
+          "summary": "x.com/i/article/2069…💬8🔄5❤️65👀44385📊26⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -256,7 +256,7 @@
           "title": "OpenAI DevDay 2026 applications are now open!\n\nOur biggest developer event gets even bigger.\n\n📍 San...",
           "url": "https://x.com/OpenAI/status/2069483224158646739",
           "published_at": "2026-06-23T18:10:24Z",
-          "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬124🔄144❤️1443👀282025📊276⚡ Powered by xgo.ing"
+          "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬133🔄156❤️1539👀311464📊296⚡ Powered by xgo.ing"
         },
         {
           "id": "7787b0e413c2b2d8285575e1b7c54f95f2b912bb",
@@ -267,7 +267,7 @@
           "title": "You can also tune in from home.\n\nThe opening keynote will be livestreamed on September 29.",
           "url": "https://x.com/OpenAI/status/2069483225492357326",
           "published_at": "2026-06-23T18:10:24Z",
-          "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬13🔄9❤️241👀59208📊31⚡ Powered by xgo.ing"
+          "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬14🔄9❤️255👀64592📊33⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -285,6 +285,17 @@
       "summary": "我用的素材收集产品 mymind 终于有 mcp 了 找参考不需要我自己从上面搬运了，舒服，又自动化了一部分mymind@mymind˗ˏˋ BIG NEWS ˎˊ˗ We now have an API. We have an MCP. We have a Claude Connection. We have a ChatGPT Connection. All of this is now in Public BETA starting today and opens up a thousand new possibilities for how yo…"
     },
     {
+      "id": "acb9b1de4c14233ce232d3e205c07a73d9b0aa57",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "体验完微信Agent以后，我觉得这就是微信有史以来最大的更新。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683790&idx=1&sn=43c90d4ebe98a2ff2cd241a95a94a38d",
+      "published_at": "2026-06-24T02:02:00Z",
+      "summary": "迈向Agent时代"
+    },
+    {
       "id": "1df5e0de7da7a75229b89d1e14c1d1ee0e0a97a2",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -293,7 +304,7 @@
       "title": "OpenAI DevDay 2026 applications are now open!\n\nOur biggest developer event gets even bigger.\n\n📍 San...",
       "url": "https://x.com/OpenAI/status/2069483224158646739",
       "published_at": "2026-06-23T18:10:24Z",
-      "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬124🔄144❤️1443👀282025📊276⚡ Powered by xgo.ing"
+      "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬133🔄156❤️1539👀311464📊296⚡ Powered by xgo.ing"
     },
     {
       "id": "7787b0e413c2b2d8285575e1b7c54f95f2b912bb",
@@ -304,7 +315,7 @@
       "title": "You can also tune in from home.\n\nThe opening keynote will be livestreamed on September 29.",
       "url": "https://x.com/OpenAI/status/2069483225492357326",
       "published_at": "2026-06-23T18:10:24Z",
-      "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬13🔄9❤️241👀59208📊31⚡ Powered by xgo.ing"
+      "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬14🔄9❤️255👀64592📊33⚡ Powered by xgo.ing"
     },
     {
       "id": "dbeb333cdfcc174dc3a66f1b92a6190d22299cb1",
@@ -315,7 +326,7 @@
       "title": "测了一下，没想到 Seed 2.1 Pro 还不错啊\n\n补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。\n\n更多的案例和提示词在文章里",
       "url": "https://x.com/op7418/status/2069424221399519238",
       "published_at": "2026-06-23T14:15:57Z",
-      "summary": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2069…🔗 View Quoted Tweet💬38🔄3❤️44👀23289📊33⚡ Powered by xgo.ing"
+      "summary": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2069…🔗 View Quoted Tweet💬43🔄3❤️48👀25202📊37⚡ Powered by xgo.ing"
     },
     {
       "id": "fd20fd6b2afdb40275f449ee2d04733a9d284cdb",
@@ -326,18 +337,7 @@
       "title": "https://t.co/M54kg0Klvn",
       "url": "https://x.com/op7418/status/2069423803957146077",
       "published_at": "2026-06-23T14:14:17Z",
-      "summary": "x.com/i/article/2069…💬7🔄5❤️63👀39939📊24⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "68cf4077e00bd11aed92d2fcc4b0549e8776d23f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测豆包Seed 2.1 Pro，把我六个真实工作流都稳稳接住了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507922&idx=1&sn=300b2d9e866a2fb160cacc5d9c7d7d2f",
-      "published_at": "2026-06-23T08:33:00Z",
-      "summary": "豆你变了，不用Skill也那么厉害了"
+      "summary": "x.com/i/article/2069…💬8🔄5❤️65👀44385📊26⚡ Powered by xgo.ing"
     }
   ]
 }
