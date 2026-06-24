@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-24T17:28:11.294130Z",
+  "generated_at": "2026-06-24T19:11:17.198619Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 23,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1418,
+      "duration_ms": 1563,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1285,
+      "duration_ms": 1479,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 902,
+      "duration_ms": 881,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 405,
+      "duration_ms": 855,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1095,
+      "duration_ms": 428,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2566,
+      "duration_ms": 3278,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 892,
+      "duration_ms": 985,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -228,7 +228,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -236,6 +236,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "aa4c132bfcdcdd6157daaa0a3287120904dd6c90",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to.\n\nOur most-used ...",
+          "url": "https://x.com/OpenAI/status/2069843083701915755",
+          "published_at": "2026-06-24T18:00:21Z",
+          "summary": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and loc…"
+        },
         {
           "id": "004355405e2aad79edfcb333eede755a2f71e1fa",
           "site_id": "featuredrss",
@@ -245,7 +256,7 @@
           "title": "https://t.co/FlbllRaSeb",
           "url": "https://x.com/OpenAI/status/2069770175709335653",
           "published_at": "2026-06-24T13:10:39Z",
-          "summary": "openai.com/index/openai-b…💬13🔄39❤️581👀155500📊80⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/openai-b…💬14🔄43❤️664👀179584📊89⚡ Powered by xgo.ing"
         },
         {
           "id": "f11f8089b28cabe5b7d202085dfee6765492f12d",
@@ -257,33 +268,22 @@
           "url": "https://x.com/OpenAI/status/2069770172802773292",
           "published_at": "2026-06-24T13:10:38Z",
           "summary": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products. Chips are foundational to the AI ec…"
-        },
-        {
-          "id": "1df5e0de7da7a75229b89d1e14c1d1ee0e0a97a2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "OpenAI DevDay 2026 applications are now open!\n\nOur biggest developer event gets even bigger.\n\n📍 San...",
-          "url": "https://x.com/OpenAI/status/2069483224158646739",
-          "published_at": "2026-06-23T18:10:24Z",
-          "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬147🔄172❤️1729👀363237📊329⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7787b0e413c2b2d8285575e1b7c54f95f2b912bb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "You can also tune in from home.\n\nThe opening keynote will be livestreamed on September 29.",
-          "url": "https://x.com/OpenAI/status/2069483225492357326",
-          "published_at": "2026-06-23T18:10:24Z",
-          "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬17🔄11❤️281👀73794📊37⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "aa4c132bfcdcdd6157daaa0a3287120904dd6c90",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to.\n\nOur most-used ...",
+      "url": "https://x.com/OpenAI/status/2069843083701915755",
+      "published_at": "2026-06-24T18:00:21Z",
+      "summary": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and loc…"
+    },
     {
       "id": "004355405e2aad79edfcb333eede755a2f71e1fa",
       "site_id": "featuredrss",
@@ -293,7 +293,7 @@
       "title": "https://t.co/FlbllRaSeb",
       "url": "https://x.com/OpenAI/status/2069770175709335653",
       "published_at": "2026-06-24T13:10:39Z",
-      "summary": "openai.com/index/openai-b…💬13🔄39❤️581👀155500📊80⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/openai-b…💬14🔄43❤️664👀179584📊89⚡ Powered by xgo.ing"
     },
     {
       "id": "f11f8089b28cabe5b7d202085dfee6765492f12d",
@@ -338,28 +338,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683790&idx=1&sn=43c90d4ebe98a2ff2cd241a95a94a38d",
       "published_at": "2026-06-24T02:02:00Z",
       "summary": "迈向Agent时代"
-    },
-    {
-      "id": "1df5e0de7da7a75229b89d1e14c1d1ee0e0a97a2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "OpenAI DevDay 2026 applications are now open!\n\nOur biggest developer event gets even bigger.\n\n📍 San...",
-      "url": "https://x.com/OpenAI/status/2069483224158646739",
-      "published_at": "2026-06-23T18:10:24Z",
-      "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10devday.openai.comuu💬147🔄172❤️1729👀363237📊329⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7787b0e413c2b2d8285575e1b7c54f95f2b912bb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "You can also tune in from home.\n\nThe opening keynote will be livestreamed on September 29.",
-      "url": "https://x.com/OpenAI/status/2069483225492357326",
-      "published_at": "2026-06-23T18:10:24Z",
-      "summary": "You can also tune in from home. The opening keynote will be livestreamed on September 29.💬17🔄11❤️281👀73794📊37⚡ Powered by xgo.ing"
     }
   ]
 }
