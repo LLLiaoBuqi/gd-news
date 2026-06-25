@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T18:30:30.040541Z",
+  "generated_at": "2026-06-25T20:52:24.545332Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 876,
+      "duration_ms": 681,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 37,
+      "duration_ms": 88,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1543,
+      "duration_ms": 1369,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1410,
+      "duration_ms": 1255,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 863,
+      "duration_ms": 936,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 801,
+      "duration_ms": 399,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 67,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 433,
+      "duration_ms": 961,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 84,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2465,
+      "duration_ms": 2405,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 981,
+      "duration_ms": 852,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c09680e3a1d2c96f87d6c9a27173e7706e1e20b5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "等等党难了，新款没到呢，旧款涨价了",
+          "url": "https://x.com/op7418/status/2070202385063186755",
+          "published_at": "2026-06-25T17:48:05Z",
+          "summary": "等等党难了，新款没到呢，旧款涨价了The Kobeissi Letter@KobeissiLetterBREAKING: Apple, $AAPL, has raised the prices of its Macs and iPads due to soaring chip costs. Among the price increases: 1. MacBook Air increased +$200 to $1,299 2. Base MacBook Pro increased +$300 to $1,999 3. Base MacBook Neo…"
+        },
         {
           "id": "a7caffc22a140630a91f1eb0a7824c3404a5c50b",
           "site_id": "featuredrss",
@@ -223,7 +234,7 @@
           "title": "https://t.co/C0hhXzOmSP",
           "url": "https://x.com/OpenAI/status/2070196107699970398",
           "published_at": "2026-06-25T17:23:09Z",
-          "summary": "openai.com/index/how-agen…💬9🔄6❤️137👀29559📊28⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/how-agen…💬12🔄13❤️196👀46347📊41⚡ Powered by xgo.ing"
         },
         {
           "id": "562298ddfd55fccbfe31454178b87634ea311c34",
@@ -245,7 +256,7 @@
           "title": "Study notebooks are available at no-cost and rolling out globally on the web in every region and lan...",
           "url": "https://x.com/GeminiApp/status/2070176164057137346",
           "published_at": "2026-06-25T16:03:54Z",
-          "summary": "Study notebooks are available at no-cost and rolling out globally on the web in every region and language the Gemini app supports, with availability on mobile and for school-issued accounts (including for users under 18) launching later this summer.💬0🔄1❤️20👀5207📊3⚡ Powered by xgo…"
+          "summary": "Study notebooks are available at no-cost and rolling out globally on the web in every region and language the Gemini app supports, with availability on mobile and for school-issued accounts (including for users under 18) launching later this summer.💬0🔄2❤️26👀6194📊3⚡ Powered by xgo…"
         },
         {
           "id": "4d7d88c7f4b1f33cf7e9fc578d981d5663a7995e",
@@ -256,7 +267,7 @@
           "title": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessl...",
           "url": "https://x.com/GeminiApp/status/2070176162756878819",
           "published_at": "2026-06-25T16:03:53Z",
-          "summary": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessly continue learning, ask questions about your course materials, and create flashcards, infographics, and more.💬2🔄1❤️22👀6000📊4⚡ Powered by xgo.ing"
+          "summary": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessly continue learning, ask questions about your course materials, and create flashcards, infographics, and more.💬2🔄2❤️28👀7089📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "5e626d9225788e16570e71fbdd3508bb861e7d3b",
@@ -267,12 +278,23 @@
           "title": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓\n\nStudy notebook...",
           "url": "https://x.com/GeminiApp/status/2070175974151573533",
           "published_at": "2026-06-25T16:03:08Z",
-          "summary": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓 Study notebooks can be grounded in your course materials and turn Gemini into an interactive, adaptive learning space with personalized lessons based on your quiz performance to help you learn.💬33…"
+          "summary": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓 Study notebooks can be grounded in your course materials and turn Gemini into an interactive, adaptive learning space with personalized lessons based on your quiz performance to help you learn.💬39…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "c09680e3a1d2c96f87d6c9a27173e7706e1e20b5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "等等党难了，新款没到呢，旧款涨价了",
+      "url": "https://x.com/op7418/status/2070202385063186755",
+      "published_at": "2026-06-25T17:48:05Z",
+      "summary": "等等党难了，新款没到呢，旧款涨价了The Kobeissi Letter@KobeissiLetterBREAKING: Apple, $AAPL, has raised the prices of its Macs and iPads due to soaring chip costs. Among the price increases: 1. MacBook Air increased +$200 to $1,299 2. Base MacBook Pro increased +$300 to $1,999 3. Base MacBook Neo…"
+    },
     {
       "id": "571c6202f6f8bead0b66c08c028081b724fee822",
       "site_id": "featuredrss",
@@ -282,7 +304,7 @@
       "title": "https://t.co/C0hhXzOmSP",
       "url": "https://x.com/OpenAI/status/2070196107699970398",
       "published_at": "2026-06-25T17:23:09Z",
-      "summary": "openai.com/index/how-agen…💬9🔄6❤️137👀29559📊28⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/how-agen…💬12🔄13❤️196👀46347📊41⚡ Powered by xgo.ing"
     },
     {
       "id": "562298ddfd55fccbfe31454178b87634ea311c34",
@@ -304,7 +326,7 @@
       "title": "Study notebooks are available at no-cost and rolling out globally on the web in every region and lan...",
       "url": "https://x.com/GeminiApp/status/2070176164057137346",
       "published_at": "2026-06-25T16:03:54Z",
-      "summary": "Study notebooks are available at no-cost and rolling out globally on the web in every region and language the Gemini app supports, with availability on mobile and for school-issued accounts (including for users under 18) launching later this summer.💬0🔄1❤️20👀5207📊3⚡ Powered by xgo…"
+      "summary": "Study notebooks are available at no-cost and rolling out globally on the web in every region and language the Gemini app supports, with availability on mobile and for school-issued accounts (including for users under 18) launching later this summer.💬0🔄2❤️26👀6194📊3⚡ Powered by xgo…"
     },
     {
       "id": "4d7d88c7f4b1f33cf7e9fc578d981d5663a7995e",
@@ -315,7 +337,7 @@
       "title": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessl...",
       "url": "https://x.com/GeminiApp/status/2070176162756878819",
       "published_at": "2026-06-25T16:03:53Z",
-      "summary": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessly continue learning, ask questions about your course materials, and create flashcards, infographics, and more.💬2🔄1❤️22👀6000📊4⚡ Powered by xgo.ing"
+      "summary": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessly continue learning, ask questions about your course materials, and create flashcards, infographics, and more.💬2🔄2❤️28👀7089📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "5e626d9225788e16570e71fbdd3508bb861e7d3b",
@@ -326,7 +348,7 @@
       "title": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓\n\nStudy notebook...",
       "url": "https://x.com/GeminiApp/status/2070175974151573533",
       "published_at": "2026-06-25T16:03:08Z",
-      "summary": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓 Study notebooks can be grounded in your course materials and turn Gemini into an interactive, adaptive learning space with personalized lessons based on your quiz performance to help you learn.💬33…"
+      "summary": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓 Study notebooks can be grounded in your course materials and turn Gemini into an interactive, adaptive learning space with personalized lessons based on your quiz performance to help you learn.💬39…"
     },
     {
       "id": "a7caffc22a140630a91f1eb0a7824c3404a5c50b",
