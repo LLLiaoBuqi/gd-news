@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T11:12:39.919008Z",
+  "generated_at": "2026-06-25T13:33:22.486321Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 784,
+      "duration_ms": 908,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 20,
+      "duration_ms": 25,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1338,
+      "duration_ms": 1419,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1212,
+      "duration_ms": 1285,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 580,
+      "duration_ms": 564,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 406,
+      "duration_ms": 1138,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1076,
+      "duration_ms": 921,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12,
+      "duration_ms": 16,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2377,
+      "duration_ms": 2729,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 778,
+      "duration_ms": 507,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -206,7 +206,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -224,28 +224,6 @@
           "url": "https://x.com/OpenAI/status/2069843083701915755",
           "published_at": "2026-06-24T18:00:21Z",
           "summary": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and loc…"
-        },
-        {
-          "id": "004355405e2aad79edfcb333eede755a2f71e1fa",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "https://t.co/FlbllRaSeb",
-          "url": "https://x.com/OpenAI/status/2069770175709335653",
-          "published_at": "2026-06-24T13:10:39Z",
-          "summary": "openai.com/index/openai-b…💬17🔄57❤️845👀294124📊116⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f11f8089b28cabe5b7d202085dfee6765492f12d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’ve designed and built our first AI chip: Jalapeño.\n\nDesigned from the ground up by OpenAI and bro...",
-          "url": "https://x.com/OpenAI/status/2069770172802773292",
-          "published_at": "2026-06-24T13:10:38Z",
-          "summary": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products. Chips are foundational to the AI ec…"
         }
       ]
     }
@@ -272,28 +250,6 @@
       "url": "https://x.com/OpenAI/status/2069843083701915755",
       "published_at": "2026-06-24T18:00:21Z",
       "summary": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and loc…"
-    },
-    {
-      "id": "004355405e2aad79edfcb333eede755a2f71e1fa",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "https://t.co/FlbllRaSeb",
-      "url": "https://x.com/OpenAI/status/2069770175709335653",
-      "published_at": "2026-06-24T13:10:39Z",
-      "summary": "openai.com/index/openai-b…💬17🔄57❤️845👀294124📊116⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f11f8089b28cabe5b7d202085dfee6765492f12d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’ve designed and built our first AI chip: Jalapeño.\n\nDesigned from the ground up by OpenAI and bro...",
-      "url": "https://x.com/OpenAI/status/2069770172802773292",
-      "published_at": "2026-06-24T13:10:38Z",
-      "summary": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products. Chips are foundational to the AI ec…"
     }
   ]
 }
