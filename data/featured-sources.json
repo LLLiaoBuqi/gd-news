@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T08:18:54.786231Z",
+  "generated_at": "2026-06-25T11:12:39.919008Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 4,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 726,
+      "duration_ms": 784,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 30,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1264,
+      "duration_ms": 1338,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1151,
+      "duration_ms": 1212,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 650,
+      "duration_ms": 580,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 602,
+      "duration_ms": 406,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 967,
+      "duration_ms": 1076,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 12,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2416,
+      "duration_ms": 2377,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 589,
+      "duration_ms": 778,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -192,15 +192,15 @@
       ],
       "items": [
         {
-          "id": "df5457cb340e25c5ba99df740a30d44f73adf2c3",
+          "id": "a7caffc22a140630a91f1eb0a7824c3404a5c50b",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
+          "source": "数字生命卡兹克",
           "region": "domestic",
-          "title": "分享一个把Skill工作流打包成电脑App的新玩法，再不用每次都靠对话框了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507946&idx=1&sn=75e834dc723e4ae867d31775b9c5bf2a",
-          "published_at": "2026-06-24T10:57:00Z",
-          "summary": "这次跟快手KroWork一拍即合了"
+          "title": "盘点16个把自己蒸馏成Skills的国民级App。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683875&idx=1&sn=ef0b89b28e2be5117a690c2c869b2920",
+          "published_at": "2026-06-25T02:02:00Z",
+          "summary": "比我想象的还要多"
         }
       ]
     },
@@ -234,7 +234,7 @@
           "title": "https://t.co/FlbllRaSeb",
           "url": "https://x.com/OpenAI/status/2069770175709335653",
           "published_at": "2026-06-24T13:10:39Z",
-          "summary": "openai.com/index/openai-b…💬15🔄57❤️818👀271634📊111⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/openai-b…💬17🔄57❤️845👀294124📊116⚡ Powered by xgo.ing"
         },
         {
           "id": "f11f8089b28cabe5b7d202085dfee6765492f12d",
@@ -251,6 +251,17 @@
     }
   },
   "items": [
+    {
+      "id": "a7caffc22a140630a91f1eb0a7824c3404a5c50b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "盘点16个把自己蒸馏成Skills的国民级App。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683875&idx=1&sn=ef0b89b28e2be5117a690c2c869b2920",
+      "published_at": "2026-06-25T02:02:00Z",
+      "summary": "比我想象的还要多"
+    },
     {
       "id": "aa4c132bfcdcdd6157daaa0a3287120904dd6c90",
       "site_id": "featuredrss",
@@ -271,7 +282,7 @@
       "title": "https://t.co/FlbllRaSeb",
       "url": "https://x.com/OpenAI/status/2069770175709335653",
       "published_at": "2026-06-24T13:10:39Z",
-      "summary": "openai.com/index/openai-b…💬15🔄57❤️818👀271634📊111⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/openai-b…💬17🔄57❤️845👀294124📊116⚡ Powered by xgo.ing"
     },
     {
       "id": "f11f8089b28cabe5b7d202085dfee6765492f12d",
@@ -283,17 +294,6 @@
       "url": "https://x.com/OpenAI/status/2069770172802773292",
       "published_at": "2026-06-24T13:10:38Z",
       "summary": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products. Chips are foundational to the AI ec…"
-    },
-    {
-      "id": "df5457cb340e25c5ba99df740a30d44f73adf2c3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "分享一个把Skill工作流打包成电脑App的新玩法，再不用每次都靠对话框了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247507946&idx=1&sn=75e834dc723e4ae867d31775b9c5bf2a",
-      "published_at": "2026-06-24T10:57:00Z",
-      "summary": "这次跟快手KroWork一拍即合了"
     }
   ]
 }
