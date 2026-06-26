@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T06:49:01.617444Z",
+  "generated_at": "2026-06-26T10:18:06.694602Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 177,
+      "duration_ms": 142,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 18,
+      "duration_ms": 40,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1674,
+      "duration_ms": 1676,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1436,
+      "duration_ms": 1380,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 942,
+      "duration_ms": 1273,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 610,
+      "duration_ms": 1269,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1189,
+      "duration_ms": 1025,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 11,
+      "duration_ms": 42,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2796,
+      "duration_ms": 2912,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 811,
+      "duration_ms": 1040,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "我感觉今年新发布的手机和电脑会出现配置不如去年，但价格却比去年更贵的情况",
           "url": "https://x.com/op7418/status/2070356875833729099",
           "published_at": "2026-06-26T04:01:59Z",
-          "summary": "我感觉今年新发布的手机和电脑会出现配置不如去年，但价格却比去年更贵的情况💬0🔄0❤️1👀3091📊1⚡ Powered by xgo.ing"
+          "summary": "我感觉今年新发布的手机和电脑会出现配置不如去年，但价格却比去年更贵的情况💬0🔄0❤️2👀4804📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "6879bd79600f32afed2c729711a96e4e703f0e15",
@@ -211,7 +211,7 @@
           "title": "不知道我上回买 Max Studio 下面那条内容，讨论里的兄弟有多少买了的？",
           "url": "https://x.com/op7418/status/2070356490578460729",
           "published_at": "2026-06-26T04:00:27Z",
-          "summary": "不知道我上回买 Max Studio 下面那条内容，讨论里的兄弟有多少买了的？💬1🔄0❤️1👀3267📊1⚡ Powered by xgo.ing"
+          "summary": "不知道我上回买 Max Studio 下面那条内容，讨论里的兄弟有多少买了的？💬1🔄0❤️1👀5061📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "5ae3190769945e0a302eb2997c69bedf047153e2",
@@ -222,7 +222,7 @@
           "title": "谁能想到这俩玩意成理财产品了呢\n\n上面的 Mac Mini 买的时候 2800，现在官方起售价 5999\n涨了 3200\n\n下面的 Mac Studio 买的时候 17000，现在 22000，涨了 ...",
           "url": "https://x.com/op7418/status/2070351443278864842",
           "published_at": "2026-06-26T03:40:24Z",
-          "summary": "谁能想到这俩玩意成理财产品了呢 上面的 Mac Mini 买的时候 2800，现在官方起售价 5999 涨了 3200 下面的 Mac Studio 买的时候 17000，现在 22000，涨了 5000 太离谱了歸藏(guizang.ai)@op7418等等党难了，新款没到呢，旧款涨价了🔗 View Quoted Tweet💬44🔄0❤️38👀24034📊32⚡ Powered by xgo.ing"
+          "summary": "谁能想到这俩玩意成理财产品了呢 上面的 Mac Mini 买的时候 2800，现在官方起售价 5999 涨了 3200 下面的 Mac Studio 买的时候 17000，现在 22000，涨了 5000 太离谱了歸藏(guizang.ai)@op7418等等党难了，新款没到呢，旧款涨价了🔗 View Quoted Tweet💬55🔄0❤️51👀30693📊40⚡ Powered by xgo.ing"
         },
         {
           "id": "7276c00272b4e3adf7442a0c401f72b22777e830",
@@ -234,6 +234,17 @@
           "url": "https://x.com/op7418/status/2070336764620026339",
           "published_at": "2026-06-26T02:42:04Z",
           "summary": "Anthropic 还是达成了他的目的。 现在 OpenAI 的模型已经不能按照之前的模式正常推送上线了，需要先向一些符合要求的 B 端客户提供，并由美国政府对这些客户逐一审核。 结合这几天 GLM 5.2 以及 Anthropic 指控中国公司“蒸馏”他们模型的事来看，我们已经无法将模型发布当作正常的互联网产品上线逻辑来看待了。 它已经变成了类似军民两用的战略资产、网络武器这一等级的管控。谁能使用先进模型，已经变成了一个国家安全问题。 这会带来以下几个变化： 发布节奏放缓 整个头部模型的发布节奏会严重放缓。虽然模型训练的节奏会变慢，但拿到许可的公司会先…"
+        },
+        {
+          "id": "60e34687729d758502308e8b4af102c63fcc3cdf",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "想玩Loop Engineering，可以先从这6个Hook玩法开始。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683904&idx=1&sn=6e328251d73dcf7e86ea4a42fe8e1f8d",
+          "published_at": "2026-06-26T02:02:00Z",
+          "summary": "让AI主动来找你"
         },
         {
           "id": "c09680e3a1d2c96f87d6c9a27173e7706e1e20b5",
@@ -267,7 +278,7 @@
           "title": "https://t.co/C0hhXzOmSP",
           "url": "https://x.com/OpenAI/status/2070196107699970398",
           "published_at": "2026-06-25T17:23:09Z",
-          "summary": "openai.com/index/how-agen…💬15🔄25❤️301👀77126📊61⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/how-agen…💬18🔄27❤️311👀81438📊65⚡ Powered by xgo.ing"
         },
         {
           "id": "562298ddfd55fccbfe31454178b87634ea311c34",
@@ -289,7 +300,7 @@
           "title": "Study notebooks are available at no-cost and rolling out globally on the web in every region and lan...",
           "url": "https://x.com/GeminiApp/status/2070176164057137346",
           "published_at": "2026-06-25T16:03:54Z",
-          "summary": "Study notebooks are available at no-cost and rolling out globally on the web in every region and language the Gemini app supports, with availability on mobile and for school-issued accounts (including for users under 18) launching later this summer.💬0🔄2❤️35👀8630📊4⚡ Powered by xgo…"
+          "summary": "Study notebooks are available at no-cost and rolling out globally on the web in every region and language the Gemini app supports, with availability on mobile and for school-issued accounts (including for users under 18) launching later this summer.💬0🔄3❤️38👀8972📊5⚡ Powered by xgo…"
         },
         {
           "id": "4d7d88c7f4b1f33cf7e9fc578d981d5663a7995e",
@@ -300,7 +311,7 @@
           "title": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessl...",
           "url": "https://x.com/GeminiApp/status/2070176162756878819",
           "published_at": "2026-06-25T16:03:53Z",
-          "summary": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessly continue learning, ask questions about your course materials, and create flashcards, infographics, and more.💬2🔄3❤️37👀9937📊6⚡ Powered by xgo.ing"
+          "summary": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessly continue learning, ask questions about your course materials, and create flashcards, infographics, and more.💬2🔄4❤️39👀10354📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "5e626d9225788e16570e71fbdd3508bb861e7d3b",
@@ -311,7 +322,7 @@
           "title": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓\n\nStudy notebook...",
           "url": "https://x.com/GeminiApp/status/2070175974151573533",
           "published_at": "2026-06-25T16:03:08Z",
-          "summary": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓 Study notebooks can be grounded in your course materials and turn Gemini into an interactive, adaptive learning space with personalized lessons based on your quiz performance to help you learn.💬46…"
+          "summary": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓 Study notebooks can be grounded in your course materials and turn Gemini into an interactive, adaptive learning space with personalized lessons based on your quiz performance to help you learn.💬50…"
         }
       ]
     }
@@ -326,7 +337,7 @@
       "title": "我感觉今年新发布的手机和电脑会出现配置不如去年，但价格却比去年更贵的情况",
       "url": "https://x.com/op7418/status/2070356875833729099",
       "published_at": "2026-06-26T04:01:59Z",
-      "summary": "我感觉今年新发布的手机和电脑会出现配置不如去年，但价格却比去年更贵的情况💬0🔄0❤️1👀3091📊1⚡ Powered by xgo.ing"
+      "summary": "我感觉今年新发布的手机和电脑会出现配置不如去年，但价格却比去年更贵的情况💬0🔄0❤️2👀4804📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "6879bd79600f32afed2c729711a96e4e703f0e15",
@@ -337,7 +348,7 @@
       "title": "不知道我上回买 Max Studio 下面那条内容，讨论里的兄弟有多少买了的？",
       "url": "https://x.com/op7418/status/2070356490578460729",
       "published_at": "2026-06-26T04:00:27Z",
-      "summary": "不知道我上回买 Max Studio 下面那条内容，讨论里的兄弟有多少买了的？💬1🔄0❤️1👀3267📊1⚡ Powered by xgo.ing"
+      "summary": "不知道我上回买 Max Studio 下面那条内容，讨论里的兄弟有多少买了的？💬1🔄0❤️1👀5061📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "5ae3190769945e0a302eb2997c69bedf047153e2",
@@ -348,7 +359,7 @@
       "title": "谁能想到这俩玩意成理财产品了呢\n\n上面的 Mac Mini 买的时候 2800，现在官方起售价 5999\n涨了 3200\n\n下面的 Mac Studio 买的时候 17000，现在 22000，涨了 ...",
       "url": "https://x.com/op7418/status/2070351443278864842",
       "published_at": "2026-06-26T03:40:24Z",
-      "summary": "谁能想到这俩玩意成理财产品了呢 上面的 Mac Mini 买的时候 2800，现在官方起售价 5999 涨了 3200 下面的 Mac Studio 买的时候 17000，现在 22000，涨了 5000 太离谱了歸藏(guizang.ai)@op7418等等党难了，新款没到呢，旧款涨价了🔗 View Quoted Tweet💬44🔄0❤️38👀24034📊32⚡ Powered by xgo.ing"
+      "summary": "谁能想到这俩玩意成理财产品了呢 上面的 Mac Mini 买的时候 2800，现在官方起售价 5999 涨了 3200 下面的 Mac Studio 买的时候 17000，现在 22000，涨了 5000 太离谱了歸藏(guizang.ai)@op7418等等党难了，新款没到呢，旧款涨价了🔗 View Quoted Tweet💬55🔄0❤️51👀30693📊40⚡ Powered by xgo.ing"
     },
     {
       "id": "7276c00272b4e3adf7442a0c401f72b22777e830",
@@ -360,6 +371,17 @@
       "url": "https://x.com/op7418/status/2070336764620026339",
       "published_at": "2026-06-26T02:42:04Z",
       "summary": "Anthropic 还是达成了他的目的。 现在 OpenAI 的模型已经不能按照之前的模式正常推送上线了，需要先向一些符合要求的 B 端客户提供，并由美国政府对这些客户逐一审核。 结合这几天 GLM 5.2 以及 Anthropic 指控中国公司“蒸馏”他们模型的事来看，我们已经无法将模型发布当作正常的互联网产品上线逻辑来看待了。 它已经变成了类似军民两用的战略资产、网络武器这一等级的管控。谁能使用先进模型，已经变成了一个国家安全问题。 这会带来以下几个变化： 发布节奏放缓 整个头部模型的发布节奏会严重放缓。虽然模型训练的节奏会变慢，但拿到许可的公司会先…"
+    },
+    {
+      "id": "60e34687729d758502308e8b4af102c63fcc3cdf",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "想玩Loop Engineering，可以先从这6个Hook玩法开始。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683904&idx=1&sn=6e328251d73dcf7e86ea4a42fe8e1f8d",
+      "published_at": "2026-06-26T02:02:00Z",
+      "summary": "让AI主动来找你"
     },
     {
       "id": "c09680e3a1d2c96f87d6c9a27173e7706e1e20b5",
@@ -381,7 +403,7 @@
       "title": "https://t.co/C0hhXzOmSP",
       "url": "https://x.com/OpenAI/status/2070196107699970398",
       "published_at": "2026-06-25T17:23:09Z",
-      "summary": "openai.com/index/how-agen…💬15🔄25❤️301👀77126📊61⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/how-agen…💬18🔄27❤️311👀81438📊65⚡ Powered by xgo.ing"
     },
     {
       "id": "562298ddfd55fccbfe31454178b87634ea311c34",
@@ -403,7 +425,7 @@
       "title": "Study notebooks are available at no-cost and rolling out globally on the web in every region and lan...",
       "url": "https://x.com/GeminiApp/status/2070176164057137346",
       "published_at": "2026-06-25T16:03:54Z",
-      "summary": "Study notebooks are available at no-cost and rolling out globally on the web in every region and language the Gemini app supports, with availability on mobile and for school-issued accounts (including for users under 18) launching later this summer.💬0🔄2❤️35👀8630📊4⚡ Powered by xgo…"
+      "summary": "Study notebooks are available at no-cost and rolling out globally on the web in every region and language the Gemini app supports, with availability on mobile and for school-issued accounts (including for users under 18) launching later this summer.💬0🔄3❤️38👀8972📊5⚡ Powered by xgo…"
     },
     {
       "id": "4d7d88c7f4b1f33cf7e9fc578d981d5663a7995e",
@@ -414,7 +436,7 @@
       "title": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessl...",
       "url": "https://x.com/GeminiApp/status/2070176162756878819",
       "published_at": "2026-06-25T16:03:53Z",
-      "summary": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessly continue learning, ask questions about your course materials, and create flashcards, infographics, and more.💬2🔄3❤️37👀9937📊6⚡ Powered by xgo.ing"
+      "summary": "Study notebooks also sync your uploaded sources and past chats with @NotebookLM so you can seamlessly continue learning, ask questions about your course materials, and create flashcards, infographics, and more.💬2🔄4❤️39👀10354📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "5e626d9225788e16570e71fbdd3508bb861e7d3b",
@@ -425,7 +447,7 @@
       "title": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓\n\nStudy notebook...",
       "url": "https://x.com/GeminiApp/status/2070175974151573533",
       "published_at": "2026-06-25T16:03:08Z",
-      "summary": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓 Study notebooks can be grounded in your course materials and turn Gemini into an interactive, adaptive learning space with personalized lessons based on your quiz performance to help you learn.💬46…"
+      "summary": "Personalize how you study and learn any topic with new study notebooks in Gemini. 📓 Study notebooks can be grounded in your course materials and turn Gemini into an interactive, adaptive learning space with personalized lessons based on your quiz performance to help you learn.💬50…"
     }
   ]
 }
