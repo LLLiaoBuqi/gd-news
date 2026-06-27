@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-27T17:02:38.180787Z",
+  "generated_at": "2026-06-27T18:42:49.270496Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 694,
+      "duration_ms": 253,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 30,
+      "duration_ms": 67,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1667,
+      "duration_ms": 1575,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1756,
+      "duration_ms": 1679,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 955,
+      "duration_ms": 1013,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1178,
+      "duration_ms": 1023,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 625,
+      "duration_ms": 1132,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 58,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2819,
+      "duration_ms": 2687,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 437,
+      "duration_ms": 775,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "4K 的效果也太猛了https://t.co/2FicSjURWm",
           "url": "https://x.com/op7418/status/2070873626929443236",
           "published_at": "2026-06-27T14:15:22Z",
-          "summary": "4K 的效果也太猛了x.com/op7418/status/…歸藏(guizang.ai)@op7418我去，Seedance 2.0 4K 这个文字清晰度太牛批了 重新用原生 4K 分辨率跑了一条 Codepilot 的宣传片，这个文字清晰度也太牛批了 而且整个材质的质感也高了非常多，这绝对是 1080P 超分做不到的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀2372📊1⚡ Powered by xgo.ing"
+          "summary": "4K 的效果也太猛了x.com/op7418/status/…歸藏(guizang.ai)@op7418我去，Seedance 2.0 4K 这个文字清晰度太牛批了 重新用原生 4K 分辨率跑了一条 Codepilot 的宣传片，这个文字清晰度也太牛批了 而且整个材质的质感也高了非常多，这绝对是 1080P 超分做不到的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀2646📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "a252d6a41748cd4a918e48cbbfa037bcd15316d7",
@@ -222,98 +222,20 @@
           "title": "用 Seedance 2.0 重新做了一下 Codepilot 的宣传片",
           "url": "https://x.com/op7418/status/2070767472958140467",
           "published_at": "2026-06-27T07:13:33Z",
-          "summary": "用 Seedance 2.0 重新做了一下 Codepilot 的宣传片Your browser does not support the video tag.🔗 View on Twitter💬23🔄5❤️97👀37665📊36⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e181d5a5da862e68f874bfbecc04c2756a6aa012",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Moxt 更新了多agent编排的工作流。\n\n支持自动一群 Agent 帮你协作完成任务，而且还能重复驱动完成更长的任务",
-          "url": "https://x.com/op7418/status/2070554759896142280",
-          "published_at": "2026-06-26T17:08:18Z",
-          "summary": "Moxt 更新了多agent编排的工作流。 支持自动一群 Agent 帮你协作完成任务，而且还能重复驱动完成更长的任务Moxt@moxt_aiToday, most people use AI as a tool. Soon, everyone will have a team of Agents. Not one assistant working harder — specialized Agents, each with its own memory and skills, working in parallel to get real work…"
+          "summary": "用 Seedance 2.0 重新做了一下 Codepilot 的宣传片Your browser does not support the video tag.🔗 View on Twitter💬23🔄5❤️99👀41904📊37⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "10d8a2f8dcbb014b950bd5d1f34edfbc8916379b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-5.6 Sol is our most capable model yet for cybersecurity.\n\nIt shifts the performance-efficiency f...",
-          "url": "https://x.com/OpenAI/status/2070555278576439306",
-          "published_at": "2026-06-26T17:10:22Z",
-          "summary": "GPT-5.6 Sol is our most capable model yet for cybersecurity. It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.💬69🔄171❤️3004👀776247📊361⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c7445b65026bf78a9a0cc2d4ada2decceaa1ceb9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT‑5.6 Sol launches with our most robust safety stack yet.\n\nWe strengthened real-time protections a...",
-          "url": "https://x.com/OpenAI/status/2070555280052826429",
-          "published_at": "2026-06-26T17:10:22Z",
-          "summary": "GPT‑5.6 Sol launches with our most robust safety stack yet. We strengthened real-time protections against high-risk cyber activity and repeated misuse, then spent weeks hardening the system with human red teaming and over 700,000 A100-equivalent GPU hours of automated testing.💬68…"
-        },
-        {
-          "id": "5f0af508cd3a74a72c5337830e24a46f307ace04",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line work...",
-          "url": "https://x.com/OpenAI/status/2070555276370169969",
-          "published_at": "2026-06-26T17:10:21Z",
-          "summary": "GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.💬77🔄218❤️3544👀974611📊463⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "25ba7dc5e0a4f6ba5b36505eb4e4c27eb60b8f22",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Sol is our new flagship and a step function better than GPT-5.5.\n\nTerra delivers performance competi...",
-          "url": "https://x.com/OpenAI/status/2070555274835046430",
-          "published_at": "2026-06-26T17:10:21Z",
-          "summary": "Sol is our new flagship and a step function better than GPT-5.5. Terra delivers performance competitive to GPT-5.5 at 2x lower cost. Luna is our most cost-efficient model, delivering strong capability at our lowest cost. Together, the GPT-5.6 family gives people and developers mo…"
-        },
-        {
-          "id": "a0162cb48cb0bf7431b4ee8f7c979702759f77f7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6...",
-          "url": "https://x.com/OpenAI/status/2070555272230384038",
-          "published_at": "2026-06-26T17:10:20Z",
-          "summary": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work. openai.com/index/previewi…💬3113🔄5333❤️37328👀14683714📊8209…"
-        },
-        {
-          "id": "c241b9103238b7d3a56aa81893c383e49308b7e7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the ...",
-          "url": "https://x.com/OpenAI/status/2070555273467687257",
-          "published_at": "2026-06-26T17:10:20Z",
-          "summary": "We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks. For now, at the request of the U.S. government, we’re starting with a limited preview among a small group of trusted partners in Codex and the API.💬323🔄348❤️5885👀2225…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -326,7 +248,7 @@
       "title": "4K 的效果也太猛了https://t.co/2FicSjURWm",
       "url": "https://x.com/op7418/status/2070873626929443236",
       "published_at": "2026-06-27T14:15:22Z",
-      "summary": "4K 的效果也太猛了x.com/op7418/status/…歸藏(guizang.ai)@op7418我去，Seedance 2.0 4K 这个文字清晰度太牛批了 重新用原生 4K 分辨率跑了一条 Codepilot 的宣传片，这个文字清晰度也太牛批了 而且整个材质的质感也高了非常多，这绝对是 1080P 超分做不到的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀2372📊1⚡ Powered by xgo.ing"
+      "summary": "4K 的效果也太猛了x.com/op7418/status/…歸藏(guizang.ai)@op7418我去，Seedance 2.0 4K 这个文字清晰度太牛批了 重新用原生 4K 分辨率跑了一条 Codepilot 的宣传片，这个文字清晰度也太牛批了 而且整个材质的质感也高了非常多，这绝对是 1080P 超分做不到的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀2646📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "a252d6a41748cd4a918e48cbbfa037bcd15316d7",
@@ -348,84 +270,7 @@
       "title": "用 Seedance 2.0 重新做了一下 Codepilot 的宣传片",
       "url": "https://x.com/op7418/status/2070767472958140467",
       "published_at": "2026-06-27T07:13:33Z",
-      "summary": "用 Seedance 2.0 重新做了一下 Codepilot 的宣传片Your browser does not support the video tag.🔗 View on Twitter💬23🔄5❤️97👀37665📊36⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "10d8a2f8dcbb014b950bd5d1f34edfbc8916379b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-5.6 Sol is our most capable model yet for cybersecurity.\n\nIt shifts the performance-efficiency f...",
-      "url": "https://x.com/OpenAI/status/2070555278576439306",
-      "published_at": "2026-06-26T17:10:22Z",
-      "summary": "GPT-5.6 Sol is our most capable model yet for cybersecurity. It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.💬69🔄171❤️3004👀776247📊361⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c7445b65026bf78a9a0cc2d4ada2decceaa1ceb9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT‑5.6 Sol launches with our most robust safety stack yet.\n\nWe strengthened real-time protections a...",
-      "url": "https://x.com/OpenAI/status/2070555280052826429",
-      "published_at": "2026-06-26T17:10:22Z",
-      "summary": "GPT‑5.6 Sol launches with our most robust safety stack yet. We strengthened real-time protections against high-risk cyber activity and repeated misuse, then spent weeks hardening the system with human red teaming and over 700,000 A100-equivalent GPU hours of automated testing.💬68…"
-    },
-    {
-      "id": "5f0af508cd3a74a72c5337830e24a46f307ace04",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line work...",
-      "url": "https://x.com/OpenAI/status/2070555276370169969",
-      "published_at": "2026-06-26T17:10:21Z",
-      "summary": "GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.💬77🔄218❤️3544👀974611📊463⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "25ba7dc5e0a4f6ba5b36505eb4e4c27eb60b8f22",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Sol is our new flagship and a step function better than GPT-5.5.\n\nTerra delivers performance competi...",
-      "url": "https://x.com/OpenAI/status/2070555274835046430",
-      "published_at": "2026-06-26T17:10:21Z",
-      "summary": "Sol is our new flagship and a step function better than GPT-5.5. Terra delivers performance competitive to GPT-5.5 at 2x lower cost. Luna is our most cost-efficient model, delivering strong capability at our lowest cost. Together, the GPT-5.6 family gives people and developers mo…"
-    },
-    {
-      "id": "a0162cb48cb0bf7431b4ee8f7c979702759f77f7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6...",
-      "url": "https://x.com/OpenAI/status/2070555272230384038",
-      "published_at": "2026-06-26T17:10:20Z",
-      "summary": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work. openai.com/index/previewi…💬3113🔄5333❤️37328👀14683714📊8209…"
-    },
-    {
-      "id": "c241b9103238b7d3a56aa81893c383e49308b7e7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the ...",
-      "url": "https://x.com/OpenAI/status/2070555273467687257",
-      "published_at": "2026-06-26T17:10:20Z",
-      "summary": "We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks. For now, at the request of the U.S. government, we’re starting with a limited preview among a small group of trusted partners in Codex and the API.💬323🔄348❤️5885👀2225…"
-    },
-    {
-      "id": "e181d5a5da862e68f874bfbecc04c2756a6aa012",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Moxt 更新了多agent编排的工作流。\n\n支持自动一群 Agent 帮你协作完成任务，而且还能重复驱动完成更长的任务",
-      "url": "https://x.com/op7418/status/2070554759896142280",
-      "published_at": "2026-06-26T17:08:18Z",
-      "summary": "Moxt 更新了多agent编排的工作流。 支持自动一群 Agent 帮你协作完成任务，而且还能重复驱动完成更长的任务Moxt@moxt_aiToday, most people use AI as a tool. Soon, everyone will have a team of Agents. Not one assistant working harder — specialized Agents, each with its own memory and skills, working in parallel to get real work…"
+      "summary": "用 Seedance 2.0 重新做了一下 Codepilot 的宣传片Your browser does not support the video tag.🔗 View on Twitter💬23🔄5❤️99👀41904📊37⚡ Powered by xgo.ing"
     }
   ]
 }
