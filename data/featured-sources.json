@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T14:21:17.005188Z",
+  "generated_at": "2026-06-28T15:47:09.141236Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 265,
+      "duration_ms": 465,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 68,
+      "duration_ms": 64,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1494,
+      "duration_ms": 1662,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1364,
+      "duration_ms": 1554,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 926,
+      "duration_ms": 976,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 693,
+      "duration_ms": 779,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 892,
+      "duration_ms": 943,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 58,
+      "duration_ms": 59,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2506,
+      "duration_ms": 2767,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1106,
+      "duration_ms": 393,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,17 +201,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508035&idx=1&sn=c0ab2253e4624cd869774669da02a7dc",
           "published_at": "2026-06-28T04:04:00Z",
           "summary": "也不用写提示语了，电脑就是我的人生上下文"
-        },
-        {
-          "id": "d3bf90665b688454f26def557088d996bd158919",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "今年AI填高考志愿已经卷到能看MBTI，食堂和校区宿舍了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508065&idx=1&sn=008a89f573e366cd4a7d7c38ea7d2bb2",
-          "published_at": "2026-06-27T14:22:00Z",
-          "summary": "我当年要是有这条件10分钟就填完了"
         }
       ]
     },
@@ -238,17 +227,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508035&idx=1&sn=c0ab2253e4624cd869774669da02a7dc",
       "published_at": "2026-06-28T04:04:00Z",
       "summary": "也不用写提示语了，电脑就是我的人生上下文"
-    },
-    {
-      "id": "d3bf90665b688454f26def557088d996bd158919",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "今年AI填高考志愿已经卷到能看MBTI，食堂和校区宿舍了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508065&idx=1&sn=008a89f573e366cd4a7d7c38ea7d2bb2",
-      "published_at": "2026-06-27T14:22:00Z",
-      "summary": "我当年要是有这条件10分钟就填完了"
     }
   ]
 }
