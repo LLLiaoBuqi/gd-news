@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-28T20:08:42.573225Z",
+  "generated_at": "2026-06-28T21:36:06.170685Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 194,
-      "duration_ms": 7284,
+      "item_count": 193,
+      "duration_ms": 4121,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 497,
+      "duration_ms": 237,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 27,
-      "duration_ms": 106,
+      "duration_ms": 36,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 320,
+      "duration_ms": 495,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 396,
+      "duration_ms": 377,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 345,
-      "duration_ms": 14580,
+      "duration_ms": 14304,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1897,
+      "duration_ms": 737,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2981,
-      "duration_ms": 1342,
+      "item_count": 2892,
+      "duration_ms": 1895,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 67,
-      "duration_ms": 526,
+      "item_count": 61,
+      "duration_ms": 435,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 247,
+      "duration_ms": 321,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1882,
+      "duration_ms": 1723,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 123,
-      "duration_ms": 901,
+      "duration_ms": 663,
       "error": null
     },
     {
@@ -103,7 +103,7 @@
       "ok": true,
       "partial_failures": 3,
       "item_count": 226,
-      "duration_ms": 16264,
+      "duration_ms": 12168,
       "error": "3 feeds failed",
       "feed_count": 13,
       "effective_feed_count": 10,
@@ -116,9 +116,9 @@
   "successful_sites": 13,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5143,
-  "items_before_topic_filter": 4887,
-  "items_in_24h": 459,
+  "fetched_raw_items": 5047,
+  "items_before_topic_filter": 4933,
+  "items_in_24h": 458,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -157,7 +157,7 @@
         "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 336,
+        "duration_ms": 327,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -171,7 +171,7 @@
         "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
         "ok": true,
         "item_count": 16,
-        "duration_ms": 124,
+        "duration_ms": 23,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -185,7 +185,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 2464,
+        "duration_ms": 1406,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -199,7 +199,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1912,
+        "duration_ms": 1278,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -213,7 +213,7 @@
         "effective_feed_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 5329,
+        "duration_ms": 6233,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -227,7 +227,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1004,
+        "duration_ms": 457,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -255,7 +255,7 @@
         "effective_feed_url": "rsshub://bilibili/user/video/302188068",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 0,
+        "duration_ms": 1,
         "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
         "skipped": false,
         "skip_reason": null,
@@ -283,7 +283,7 @@
         "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 78,
+        "duration_ms": 26,
         "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -297,7 +297,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 5017,
+        "duration_ms": 2416,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -311,7 +311,7 @@
         "effective_feed_url": "rsshub://bilibili/user/video/385670211",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 0,
+        "duration_ms": 1,
         "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
         "skipped": false,
         "skip_reason": null,
