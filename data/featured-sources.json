@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-06-29T10:06:05.008351Z",
+  "generated_at": "2026-06-29T14:32:39.785338Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 3,
   "feed_total": 12,
-  "ok_feeds": 8,
+  "ok_feeds": 9,
   "failed_feeds": [
-    "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
     "rsshub://bilibili/user/video/385670211"
@@ -21,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 147,
+      "duration_ms": 146,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -35,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 19,
+      "duration_ms": 276,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -49,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1657,
+      "duration_ms": 3428,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -63,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1494,
+      "duration_ms": 3533,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -75,10 +74,10 @@
       "feed_title": "OpenAI(@OpenAI)",
       "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12410,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 2742,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -91,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 889,
+      "duration_ms": 751,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -119,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1133,
+      "duration_ms": 972,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -133,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 33,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -147,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2619,
+      "duration_ms": 4661,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -175,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 653,
+      "duration_ms": 870,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -185,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "00de539acb9c8d640c3c5dbe6fe883554a6da5ab",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "快速系统学习！分享我学习新知识的SRL学习法。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497829&idx=1&sn=97c7bbc9109deb618b6d9f5a05efca30",
+          "published_at": "2026-06-29T08:10:00Z",
+          "summary": "快速学习知识的简单又省钱的方式。"
+        },
+        {
+          "id": "7cf69e2d3e78e200c2e9b7ff63afef73896e8986",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "开源Bugu，解决胡彦斌的vibe coding困境",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508094&idx=1&sn=c127f579559b04a69ff542098605d033",
+          "published_at": "2026-06-29T05:44:00Z",
+          "summary": "盒盖之后，声音就是我们唯一界面"
+        },
         {
           "id": "448c73124762b2f88079196dd2d6bd6d8e6e0379",
           "site_id": "featuredrss",
@@ -209,9 +230,8 @@
       "label": "国外精选",
       "total_items": 0,
       "feed_total": 7,
-      "ok_feeds": 4,
+      "ok_feeds": 5,
       "failed_feeds": [
-        "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
@@ -219,6 +239,28 @@
     }
   },
   "items": [
+    {
+      "id": "00de539acb9c8d640c3c5dbe6fe883554a6da5ab",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "快速系统学习！分享我学习新知识的SRL学习法。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497829&idx=1&sn=97c7bbc9109deb618b6d9f5a05efca30",
+      "published_at": "2026-06-29T08:10:00Z",
+      "summary": "快速学习知识的简单又省钱的方式。"
+    },
+    {
+      "id": "7cf69e2d3e78e200c2e9b7ff63afef73896e8986",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "开源Bugu，解决胡彦斌的vibe coding困境",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508094&idx=1&sn=c127f579559b04a69ff542098605d033",
+      "published_at": "2026-06-29T05:44:00Z",
+      "summary": "盒盖之后，声音就是我们唯一界面"
+    },
     {
       "id": "448c73124762b2f88079196dd2d6bd6d8e6e0379",
       "site_id": "featuredrss",
