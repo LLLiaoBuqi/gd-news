@@ -1,16 +1,13 @@
 {
-  "generated_at": "2026-06-29T23:57:24.438213Z",
+  "generated_at": "2026-06-30T03:37:28.655649Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 2,
   "feed_total": 12,
-  "ok_feeds": 6,
+  "ok_feeds": 9,
   "failed_feeds": [
-    "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-    "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
-    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -23,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 588,
+      "duration_ms": 183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -37,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 26,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -49,10 +46,10 @@
       "feed_title": "Google AI(@GoogleAI)",
       "feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12211,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 3748,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -65,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3266,
+      "duration_ms": 3570,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -77,10 +74,10 @@
       "feed_title": "OpenAI(@OpenAI)",
       "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12212,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 2827,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -93,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 955,
+      "duration_ms": 1006,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -121,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 723,
+      "duration_ms": 776,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -135,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 23,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -147,10 +144,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12241,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 5086,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -163,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -177,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 374,
+      "duration_ms": 574,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -187,12 +184,11 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 2,
       "feed_total": 5,
-      "ok_feeds": 3,
+      "ok_feeds": 4,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml",
-        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
         {
@@ -216,17 +212,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508094&idx=1&sn=c127f579559b04a69ff542098605d033",
           "published_at": "2026-06-29T05:44:00Z",
           "summary": "盒盖之后，声音就是我们唯一界面"
-        },
-        {
-          "id": "448c73124762b2f88079196dd2d6bd6d8e6e0379",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "分享2个Vibe Coding必备的超实用Prompt。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683924&idx=1&sn=76d9327a863ff3da67e736da1b97e8c6",
-          "published_at": "2026-06-29T02:08:00Z",
-          "summary": "两招打天下"
         }
       ]
     },
@@ -234,10 +219,8 @@
       "label": "国外精选",
       "total_items": 0,
       "feed_total": 7,
-      "ok_feeds": 3,
+      "ok_feeds": 5,
       "failed_feeds": [
-        "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-        "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
@@ -266,17 +249,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508094&idx=1&sn=c127f579559b04a69ff542098605d033",
       "published_at": "2026-06-29T05:44:00Z",
       "summary": "盒盖之后，声音就是我们唯一界面"
-    },
-    {
-      "id": "448c73124762b2f88079196dd2d6bd6d8e6e0379",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "分享2个Vibe Coding必备的超实用Prompt。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683924&idx=1&sn=76d9327a863ff3da67e736da1b97e8c6",
-      "published_at": "2026-06-29T02:08:00Z",
-      "summary": "两招打天下"
     }
   ]
 }
