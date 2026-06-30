@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T03:37:28.655649Z",
+  "generated_at": "2026-06-30T07:45:06.789172Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 183,
+      "duration_ms": 148,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 20,
+      "duration_ms": 19,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3748,
+      "duration_ms": 1605,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3570,
+      "duration_ms": 1692,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2827,
+      "duration_ms": 1088,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1006,
+      "duration_ms": 634,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 776,
+      "duration_ms": 1042,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 22,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 5086,
+      "duration_ms": 2445,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 574,
+      "duration_ms": 851,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,101 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "4971731dbcaffd58f967a25a9a87c2df9f95c278",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Anthropic 封号挺猛啊，很多都炸了",
+          "url": "https://x.com/op7418/status/2071828083083190280",
+          "published_at": "2026-06-30T05:28:02Z",
+          "summary": "Anthropic 封号挺猛啊，很多都炸了💬24🔄0❤️10👀8793📊21⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5528f065f1bbeed78e36b0a139aaf601655f5d61",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "写错数了，应该是 0.001",
+          "url": "https://x.com/op7418/status/2071822255236276618",
+          "published_at": "2026-06-30T05:04:52Z",
+          "summary": "写错数了，应该是 0.001💬0🔄0❤️0👀1854⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8ea8566f2a777952cf1ebfb9c7236520d48cd7e9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "官方文档地址：https://t.co/PWkQYvrGJW",
+          "url": "https://x.com/op7418/status/2071817144619397465",
+          "published_at": "2026-06-30T04:44:34Z",
+          "summary": "官方文档地址：docs.x.com/tools/mcp💬2🔄1❤️5👀2467📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "22cda74b522a060faaba402a0dac3a8d9c99c831",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Twitter 终于有 MCP 了，这个非常有用！\n\n如果你像我一样依赖 Twitter 信息的话，就可以让 AI 帮你自动整理、总结和对你的数据进行分析\n\n不过依然需要你注册 Twitter 的 A...",
+          "url": "https://x.com/op7418/status/2071816099986022650",
+          "published_at": "2026-06-30T04:40:25Z",
+          "summary": "Twitter 终于有 MCP 了，这个非常有用！ 如果你像我一样依赖 Twitter 信息的话，就可以让 AI 帮你自动整理、总结和对你的数据进行分析 不过依然需要你注册 Twitter 的 API，然后按量付费。 我今天早上配置了一下，它针对个人信息（就是你自己的信息）其实有一个比较大的优惠： 调用一次是 0.01 美元，也就是 1 美元可以调用 1000 次。我拉取了一下最近三天的书签，只花了 0.1 美元。 我大致做了几张图，简单写一下如何配置： 1. 创建 APP 与充值：去 Twitter 开发者后台创建一个 APP。注意，充钱是必须的。 2…"
+        },
+        {
+          "id": "301716cc0ba4600533931230b4713600ba3e8fc0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Open AI 要出 Codex 定制的 Vibecoding 键盘了\n\n跟 Work Louder 合作，型号应该是 Creator Micro 2，做了些外观的变动。\n\n键盘包含 13 个机械按键...",
+          "url": "https://x.com/op7418/status/2071788264655397088",
+          "published_at": "2026-06-30T02:49:48Z",
+          "summary": "Open AI 要出 Codex 定制的 Vibecoding 键盘了 跟 Work Louder 合作，型号应该是 Creator Micro 2，做了些外观的变动。 键盘包含 13 个机械按键和一个旋钮、一个摇杆、触摸传感器，支持RGB 背光 + RGB 底部灯光。 推动摇杆即可弹出屏幕上的圆形快捷菜单，完全可自定义。6 层映射，每层包含 13 个按键 + 7 个径向菜单槽位 + 旋钮映射，总共可配置大量快捷方式。 Creator Micro 2 现在的售价是 144 美元起，不知道 OpenAI 这个会卖多少钱OpenAI Developers@O…"
+        },
+        {
+          "id": "5feaf54e0d6d95e17a2d557e675b912c5e86f312",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 因为消耗速度过快的问题又重置了",
+          "url": "https://x.com/op7418/status/2071784245530689770",
+          "published_at": "2026-06-30T02:33:50Z",
+          "summary": "Codex 因为消耗速度过快的问题又重置了Tibo@thsottiauxCodex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours. We investigated reports that Codex usage was being consumed faster than expected. Th…"
+        },
+        {
+          "id": "097635c76478529206ded957609a9d7ed28ab5fa",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2  \n\n现在好像还有 1.99 美元的优惠...",
+          "url": "https://x.com/op7418/status/2071784028634775895",
+          "published_at": "2026-06-30T02:32:58Z",
+          "summary": "Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡Cline@clineWe’ve been impressed with GLM-5.2 and so are introducing a $9.99/month subscription to give you 2-5x discounted acce…"
+        },
+        {
+          "id": "d1c3fc3df6cfa2e6ec4e0460d025d5613af6b6af",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Cursor 的 iOS 版上线了，完成度很高啊\n\n锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核\n\n当前，针对付费用户的 beta 测试已经开放",
+          "url": "https://x.com/op7418/status/2071778259994546590",
+          "published_at": "2026-06-30T02:10:03Z",
+          "summary": "Cursor 的 iOS 版上线了，完成度很高啊 锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核 当前，针对付费用户的 beta 测试已经开放Your browser does not support the video tag.🔗 View on Twitter💬6🔄3❤️19👀10969📊9⚡ Powered by xgo.ing"
+        },
         {
           "id": "00de539acb9c8d640c3c5dbe6fe883554a6da5ab",
           "site_id": "featuredrss",
@@ -201,33 +289,133 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497829&idx=1&sn=97c7bbc9109deb618b6d9f5a05efca30",
           "published_at": "2026-06-29T08:10:00Z",
           "summary": "快速学习知识的简单又省钱的方式。"
-        },
-        {
-          "id": "7cf69e2d3e78e200c2e9b7ff63afef73896e8986",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "开源Bugu，解决胡彦斌的vibe coding困境",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508094&idx=1&sn=c127f579559b04a69ff542098605d033",
-          "published_at": "2026-06-29T05:44:00Z",
-          "summary": "盒盖之后，声音就是我们唯一界面"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "eb3f320acd323db4f1d5043dae6dd6afeb94a1dd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "More users in the U.S. can now create personalized images for free.\n\nBy choosing to connect your Goo...",
+          "url": "https://x.com/GeminiApp/status/2071653811110998226",
+          "published_at": "2026-06-29T17:55:32Z",
+          "summary": "More users in the U.S. can now create personalized images for free. By choosing to connect your Google apps to Gemini in settings, Gemini is able to better understand your preferences, so it can automatically fill in the blanks and ground image creation in the things you care abo…"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "4971731dbcaffd58f967a25a9a87c2df9f95c278",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anthropic 封号挺猛啊，很多都炸了",
+      "url": "https://x.com/op7418/status/2071828083083190280",
+      "published_at": "2026-06-30T05:28:02Z",
+      "summary": "Anthropic 封号挺猛啊，很多都炸了💬24🔄0❤️10👀8793📊21⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5528f065f1bbeed78e36b0a139aaf601655f5d61",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "写错数了，应该是 0.001",
+      "url": "https://x.com/op7418/status/2071822255236276618",
+      "published_at": "2026-06-30T05:04:52Z",
+      "summary": "写错数了，应该是 0.001💬0🔄0❤️0👀1854⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8ea8566f2a777952cf1ebfb9c7236520d48cd7e9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "官方文档地址：https://t.co/PWkQYvrGJW",
+      "url": "https://x.com/op7418/status/2071817144619397465",
+      "published_at": "2026-06-30T04:44:34Z",
+      "summary": "官方文档地址：docs.x.com/tools/mcp💬2🔄1❤️5👀2467📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "22cda74b522a060faaba402a0dac3a8d9c99c831",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Twitter 终于有 MCP 了，这个非常有用！\n\n如果你像我一样依赖 Twitter 信息的话，就可以让 AI 帮你自动整理、总结和对你的数据进行分析\n\n不过依然需要你注册 Twitter 的 A...",
+      "url": "https://x.com/op7418/status/2071816099986022650",
+      "published_at": "2026-06-30T04:40:25Z",
+      "summary": "Twitter 终于有 MCP 了，这个非常有用！ 如果你像我一样依赖 Twitter 信息的话，就可以让 AI 帮你自动整理、总结和对你的数据进行分析 不过依然需要你注册 Twitter 的 API，然后按量付费。 我今天早上配置了一下，它针对个人信息（就是你自己的信息）其实有一个比较大的优惠： 调用一次是 0.01 美元，也就是 1 美元可以调用 1000 次。我拉取了一下最近三天的书签，只花了 0.1 美元。 我大致做了几张图，简单写一下如何配置： 1. 创建 APP 与充值：去 Twitter 开发者后台创建一个 APP。注意，充钱是必须的。 2…"
+    },
+    {
+      "id": "301716cc0ba4600533931230b4713600ba3e8fc0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Open AI 要出 Codex 定制的 Vibecoding 键盘了\n\n跟 Work Louder 合作，型号应该是 Creator Micro 2，做了些外观的变动。\n\n键盘包含 13 个机械按键...",
+      "url": "https://x.com/op7418/status/2071788264655397088",
+      "published_at": "2026-06-30T02:49:48Z",
+      "summary": "Open AI 要出 Codex 定制的 Vibecoding 键盘了 跟 Work Louder 合作，型号应该是 Creator Micro 2，做了些外观的变动。 键盘包含 13 个机械按键和一个旋钮、一个摇杆、触摸传感器，支持RGB 背光 + RGB 底部灯光。 推动摇杆即可弹出屏幕上的圆形快捷菜单，完全可自定义。6 层映射，每层包含 13 个按键 + 7 个径向菜单槽位 + 旋钮映射，总共可配置大量快捷方式。 Creator Micro 2 现在的售价是 144 美元起，不知道 OpenAI 这个会卖多少钱OpenAI Developers@O…"
+    },
+    {
+      "id": "5feaf54e0d6d95e17a2d557e675b912c5e86f312",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex 因为消耗速度过快的问题又重置了",
+      "url": "https://x.com/op7418/status/2071784245530689770",
+      "published_at": "2026-06-30T02:33:50Z",
+      "summary": "Codex 因为消耗速度过快的问题又重置了Tibo@thsottiauxCodex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours. We investigated reports that Codex usage was being consumed faster than expected. Th…"
+    },
+    {
+      "id": "097635c76478529206ded957609a9d7ed28ab5fa",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2  \n\n现在好像还有 1.99 美元的优惠...",
+      "url": "https://x.com/op7418/status/2071784028634775895",
+      "published_at": "2026-06-30T02:32:58Z",
+      "summary": "Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡Cline@clineWe’ve been impressed with GLM-5.2 and so are introducing a $9.99/month subscription to give you 2-5x discounted acce…"
+    },
+    {
+      "id": "d1c3fc3df6cfa2e6ec4e0460d025d5613af6b6af",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Cursor 的 iOS 版上线了，完成度很高啊\n\n锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核\n\n当前，针对付费用户的 beta 测试已经开放",
+      "url": "https://x.com/op7418/status/2071778259994546590",
+      "published_at": "2026-06-30T02:10:03Z",
+      "summary": "Cursor 的 iOS 版上线了，完成度很高啊 锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核 当前，针对付费用户的 beta 测试已经开放Your browser does not support the video tag.🔗 View on Twitter💬6🔄3❤️19👀10969📊9⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "eb3f320acd323db4f1d5043dae6dd6afeb94a1dd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "More users in the U.S. can now create personalized images for free.\n\nBy choosing to connect your Goo...",
+      "url": "https://x.com/GeminiApp/status/2071653811110998226",
+      "published_at": "2026-06-29T17:55:32Z",
+      "summary": "More users in the U.S. can now create personalized images for free. By choosing to connect your Google apps to Gemini in settings, Gemini is able to better understand your preferences, so it can automatically fill in the blanks and ground image creation in the things you care abo…"
+    },
     {
       "id": "00de539acb9c8d640c3c5dbe6fe883554a6da5ab",
       "site_id": "featuredrss",
@@ -238,17 +426,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497829&idx=1&sn=97c7bbc9109deb618b6d9f5a05efca30",
       "published_at": "2026-06-29T08:10:00Z",
       "summary": "快速学习知识的简单又省钱的方式。"
-    },
-    {
-      "id": "7cf69e2d3e78e200c2e9b7ff63afef73896e8986",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "开源Bugu，解决胡彦斌的vibe coding困境",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508094&idx=1&sn=c127f579559b04a69ff542098605d033",
-      "published_at": "2026-06-29T05:44:00Z",
-      "summary": "盒盖之后，声音就是我们唯一界面"
     }
   ]
 }
