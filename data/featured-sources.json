@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T10:51:06.641401Z",
+  "generated_at": "2026-06-30T13:06:31.339382Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 957,
+      "duration_ms": 449,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 23,
+      "duration_ms": 31,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1436,
+      "duration_ms": 1433,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1281,
+      "duration_ms": 1315,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1050,
+      "duration_ms": 638,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 783,
+      "duration_ms": 907,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 996,
+      "duration_ms": 377,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 34,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2286,
+      "duration_ms": 2388,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 355,
+      "duration_ms": 830,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "a5f708d865dcb40caa75b82400b4b76a85604516",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展\n\n最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。\n\n这三个人的 AI 视频都做得挺好...",
+          "url": "https://x.com/op7418/status/2071919748456304733",
+          "published_at": "2026-06-30T11:32:17Z",
+          "summary": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展 最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。 这三个人的 AI 视频都做得挺好的，粉丝也不少。 结果那些小说粉丝就去把《神秘复苏》动画片官方的 PV 给举报下架了💬9🔄0❤️6👀1337📊8⚡ Powered by xgo.ing"
+        },
         {
           "id": "0b7fa053423ade984597d877e384c1b385027a3b",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "卧槽 这么离谱啊",
           "url": "https://x.com/op7418/status/2071874457682215391",
           "published_at": "2026-06-30T08:32:18Z",
-          "summary": "卧槽 这么离谱啊居然sir@juransir账号没被封的时候一直忍住没骂过 A 社，这下被封了可以放心开骂了。 通知邮件里还装追踪器，看我在什么位置打开的邮件。 ​ ​全球 AI 厂就属你丫最心术不正，还整天搁那装大尾(yǐ) 巴狼。 ​ ​早晚得遭报应。❤️🔗 View Quoted Tweet💬11🔄1❤️12👀5810📊9⚡ Powered by xgo.ing"
+          "summary": "卧槽 这么离谱啊居然sir@juransir账号没被封的时候一直忍住没骂过 A 社，这下被封了可以放心开骂了。 通知邮件里还装追踪器，看我在什么位置打开的邮件。 ​ ​全球 AI 厂就属你丫最心术不正，还整天搁那装大尾(yǐ) 巴狼。 ​ ​早晚得遭报应。❤️🔗 View Quoted Tweet💬14🔄1❤️18👀11816📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "4971731dbcaffd58f967a25a9a87c2df9f95c278",
@@ -211,7 +222,7 @@
           "title": "Anthropic 封号挺猛啊，很多都炸了",
           "url": "https://x.com/op7418/status/2071828083083190280",
           "published_at": "2026-06-30T05:28:02Z",
-          "summary": "Anthropic 封号挺猛啊，很多都炸了💬59🔄0❤️36👀22842📊51⚡ Powered by xgo.ing"
+          "summary": "Anthropic 封号挺猛啊，很多都炸了💬69🔄0❤️47👀28856📊61⚡ Powered by xgo.ing"
         },
         {
           "id": "5528f065f1bbeed78e36b0a139aaf601655f5d61",
@@ -222,7 +233,7 @@
           "title": "写错数了，应该是 0.001",
           "url": "https://x.com/op7418/status/2071822255236276618",
           "published_at": "2026-06-30T05:04:52Z",
-          "summary": "写错数了，应该是 0.001💬0🔄0❤️1👀3091📊1⚡ Powered by xgo.ing"
+          "summary": "写错数了，应该是 0.001💬0🔄0❤️1👀3874📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "8ea8566f2a777952cf1ebfb9c7236520d48cd7e9",
@@ -233,7 +244,7 @@
           "title": "官方文档地址：https://t.co/PWkQYvrGJW",
           "url": "https://x.com/op7418/status/2071817144619397465",
           "published_at": "2026-06-30T04:44:34Z",
-          "summary": "官方文档地址：docs.x.com/tools/mcp💬2🔄1❤️7👀3829📊4⚡ Powered by xgo.ing"
+          "summary": "官方文档地址：docs.x.com/tools/mcp💬2🔄1❤️8👀4655📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "22cda74b522a060faaba402a0dac3a8d9c99c831",
@@ -288,7 +299,7 @@
           "title": "Cursor 的 iOS 版上线了，完成度很高啊\n\n锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核\n\n当前，针对付费用户的 beta 测试已经开放",
           "url": "https://x.com/op7418/status/2071778259994546590",
           "published_at": "2026-06-30T02:10:03Z",
-          "summary": "Cursor 的 iOS 版上线了，完成度很高啊 锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核 当前，针对付费用户的 beta 测试已经开放Your browser does not support the video tag.🔗 View on Twitter💬7🔄3❤️19👀12983📊11⚡ Powered by xgo.ing"
+          "summary": "Cursor 的 iOS 版上线了，完成度很高啊 锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核 当前，针对付费用户的 beta 测试已经开放Your browser does not support the video tag.🔗 View on Twitter💬8🔄3❤️21👀14274📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "34cb939a2c1cfb771e545ae35c871f5aeceaa794",
@@ -300,6 +311,17 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683959&idx=1&sn=c0b48752ca1e898d86c75cfce7538e39",
           "published_at": "2026-06-30T01:58:00Z",
           "summary": "细思极恐"
+        },
+        {
+          "id": "f38be6911ce372ff9e66ec2c8ef11489acd44767",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "大更新我的AI热点Skill，这次把国内外自媒体大神都包圆了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508116&idx=1&sn=2d7ea897ce7018dea16ba1ddc5f7a2c4",
+          "published_at": "2026-06-30T01:47:00Z",
+          "summary": "这三周的codex和claude额度大头都在这了"
         }
       ]
     },
@@ -329,6 +351,17 @@
   },
   "items": [
     {
+      "id": "a5f708d865dcb40caa75b82400b4b76a85604516",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展\n\n最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。\n\n这三个人的 AI 视频都做得挺好...",
+      "url": "https://x.com/op7418/status/2071919748456304733",
+      "published_at": "2026-06-30T11:32:17Z",
+      "summary": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展 最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。 这三个人的 AI 视频都做得挺好的，粉丝也不少。 结果那些小说粉丝就去把《神秘复苏》动画片官方的 PV 给举报下架了💬9🔄0❤️6👀1337📊8⚡ Powered by xgo.ing"
+    },
+    {
       "id": "0b7fa053423ade984597d877e384c1b385027a3b",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -337,7 +370,7 @@
       "title": "卧槽 这么离谱啊",
       "url": "https://x.com/op7418/status/2071874457682215391",
       "published_at": "2026-06-30T08:32:18Z",
-      "summary": "卧槽 这么离谱啊居然sir@juransir账号没被封的时候一直忍住没骂过 A 社，这下被封了可以放心开骂了。 通知邮件里还装追踪器，看我在什么位置打开的邮件。 ​ ​全球 AI 厂就属你丫最心术不正，还整天搁那装大尾(yǐ) 巴狼。 ​ ​早晚得遭报应。❤️🔗 View Quoted Tweet💬11🔄1❤️12👀5810📊9⚡ Powered by xgo.ing"
+      "summary": "卧槽 这么离谱啊居然sir@juransir账号没被封的时候一直忍住没骂过 A 社，这下被封了可以放心开骂了。 通知邮件里还装追踪器，看我在什么位置打开的邮件。 ​ ​全球 AI 厂就属你丫最心术不正，还整天搁那装大尾(yǐ) 巴狼。 ​ ​早晚得遭报应。❤️🔗 View Quoted Tweet💬14🔄1❤️18👀11816📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "4971731dbcaffd58f967a25a9a87c2df9f95c278",
@@ -348,7 +381,7 @@
       "title": "Anthropic 封号挺猛啊，很多都炸了",
       "url": "https://x.com/op7418/status/2071828083083190280",
       "published_at": "2026-06-30T05:28:02Z",
-      "summary": "Anthropic 封号挺猛啊，很多都炸了💬59🔄0❤️36👀22842📊51⚡ Powered by xgo.ing"
+      "summary": "Anthropic 封号挺猛啊，很多都炸了💬69🔄0❤️47👀28856📊61⚡ Powered by xgo.ing"
     },
     {
       "id": "5528f065f1bbeed78e36b0a139aaf601655f5d61",
@@ -359,7 +392,7 @@
       "title": "写错数了，应该是 0.001",
       "url": "https://x.com/op7418/status/2071822255236276618",
       "published_at": "2026-06-30T05:04:52Z",
-      "summary": "写错数了，应该是 0.001💬0🔄0❤️1👀3091📊1⚡ Powered by xgo.ing"
+      "summary": "写错数了，应该是 0.001💬0🔄0❤️1👀3874📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "8ea8566f2a777952cf1ebfb9c7236520d48cd7e9",
@@ -370,7 +403,7 @@
       "title": "官方文档地址：https://t.co/PWkQYvrGJW",
       "url": "https://x.com/op7418/status/2071817144619397465",
       "published_at": "2026-06-30T04:44:34Z",
-      "summary": "官方文档地址：docs.x.com/tools/mcp💬2🔄1❤️7👀3829📊4⚡ Powered by xgo.ing"
+      "summary": "官方文档地址：docs.x.com/tools/mcp💬2🔄1❤️8👀4655📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "22cda74b522a060faaba402a0dac3a8d9c99c831",
@@ -425,7 +458,7 @@
       "title": "Cursor 的 iOS 版上线了，完成度很高啊\n\n锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核\n\n当前，针对付费用户的 beta 测试已经开放",
       "url": "https://x.com/op7418/status/2071778259994546590",
       "published_at": "2026-06-30T02:10:03Z",
-      "summary": "Cursor 的 iOS 版上线了，完成度很高啊 锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核 当前，针对付费用户的 beta 测试已经开放Your browser does not support the video tag.🔗 View on Twitter💬7🔄3❤️19👀12983📊11⚡ Powered by xgo.ing"
+      "summary": "Cursor 的 iOS 版上线了，完成度很高啊 锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核 当前，针对付费用户的 beta 测试已经开放Your browser does not support the video tag.🔗 View on Twitter💬8🔄3❤️21👀14274📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "34cb939a2c1cfb771e545ae35c871f5aeceaa794",
@@ -437,6 +470,17 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683959&idx=1&sn=c0b48752ca1e898d86c75cfce7538e39",
       "published_at": "2026-06-30T01:58:00Z",
       "summary": "细思极恐"
+    },
+    {
+      "id": "f38be6911ce372ff9e66ec2c8ef11489acd44767",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "大更新我的AI热点Skill，这次把国内外自媒体大神都包圆了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508116&idx=1&sn=2d7ea897ce7018dea16ba1ddc5f7a2c4",
+      "published_at": "2026-06-30T01:47:00Z",
+      "summary": "这三周的codex和claude额度大头都在这了"
     },
     {
       "id": "eb3f320acd323db4f1d5043dae6dd6afeb94a1dd",
