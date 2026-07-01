@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T06:19:56.955294Z",
+  "generated_at": "2026-07-01T10:27:38.959639Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 180,
+      "duration_ms": 685,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 30,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1623,
+      "duration_ms": 1198,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1492,
+      "duration_ms": 1372,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1035,
+      "duration_ms": 596,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 569,
+      "duration_ms": 485,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 748,
+      "duration_ms": 883,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 33,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2923,
+      "duration_ms": 2745,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1032,
+      "duration_ms": 509,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -266,7 +266,7 @@
           "title": "https://t.co/J3TA6HjIQU",
           "url": "https://x.com/op7418/status/2071974240069517712",
           "published_at": "2026-06-30T15:08:48Z",
-          "summary": "github.com/op7418/CodePil…💬0🔄0❤️2👀4361📊1⚡ Powered by xgo.ing"
+          "summary": "github.com/op7418/CodePil…💬0🔄0❤️2👀4549📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "5c3110879eee6d8065e0e5d76c1dd530197c1217",
@@ -277,7 +277,7 @@
           "title": "CodePilot 0.5.6.3 已经更新。\n\n今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试",
           "url": "https://x.com/op7418/status/2071974194200633787",
           "published_at": "2026-06-30T15:08:37Z",
-          "summary": "CodePilot 0.5.6.3 已经更新。 今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试歸藏(guizang.ai)@op7418Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡🔗 View Quoted Tweet💬8🔄1❤️…"
+          "summary": "CodePilot 0.5.6.3 已经更新。 今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试歸藏(guizang.ai)@op7418Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡🔗 View Quoted Tweet💬9🔄1❤️…"
         },
         {
           "id": "a5f708d865dcb40caa75b82400b4b76a85604516",
@@ -288,18 +288,7 @@
           "title": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展\n\n最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。\n\n这三个人的 AI 视频都做得挺好...",
           "url": "https://x.com/op7418/status/2071919748456304733",
           "published_at": "2026-06-30T11:32:17Z",
-          "summary": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展 最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。 这三个人的 AI 视频都做得挺好的，粉丝也不少。 结果那些小说粉丝就去把《神秘复苏》动画片官方的 PV 给举报下架了💬19🔄1❤️31👀11246📊20⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0b7fa053423ade984597d877e384c1b385027a3b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "卧槽 这么离谱啊",
-          "url": "https://x.com/op7418/status/2071874457682215391",
-          "published_at": "2026-06-30T08:32:18Z",
-          "summary": "卧槽 这么离谱啊居然sir@juransir账号没被封的时候一直忍住没骂过 A 社，这下被封了可以放心开骂了。 通知邮件里还装追踪器，看我在什么位置打开的邮件。 ​ ​全球 AI 厂就属你丫最心术不正，还整天搁那装大尾(yǐ) 巴狼。 ​ ​早晚得遭报应。❤️🔗 View Quoted Tweet💬14🔄1❤️24👀21718📊12⚡ Powered by xgo.ing"
+          "summary": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展 最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。 这三个人的 AI 视频都做得挺好的，粉丝也不少。 结果那些小说粉丝就去把《神秘复苏》动画片官方的 PV 给举报下架了💬19🔄1❤️31👀12077📊20⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -322,7 +311,7 @@
           "title": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how we...",
           "url": "https://x.com/OpenAI/status/2072004836674167294",
           "published_at": "2026-06-30T17:10:23Z",
-          "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. openai.com/index/introduc…💬228🔄30…"
+          "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. openai.com/index/introduc…💬248🔄33…"
         },
         {
           "id": "38cf4b45adedcbdc8b17912274b48c5bb03cbdc9",
@@ -344,7 +333,7 @@
           "title": "Explore ideas, scale visual concepts, and start creating: https://t.co/JbyK5FM3H0",
           "url": "https://x.com/GoogleAI/status/2071989060483113405",
           "published_at": "2026-06-30T16:07:42Z",
-          "summary": "Explore ideas, scale visual concepts, and start creating: goo.gle/4bcThNtYour browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️30👀9512📊4⚡ Powered by xgo.ing"
+          "summary": "Explore ideas, scale visual concepts, and start creating: goo.gle/4bcThNtYour browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️31👀10000📊4⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -425,7 +414,7 @@
       "title": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how we...",
       "url": "https://x.com/OpenAI/status/2072004836674167294",
       "published_at": "2026-06-30T17:10:23Z",
-      "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. openai.com/index/introduc…💬228🔄30…"
+      "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. openai.com/index/introduc…💬248🔄33…"
     },
     {
       "id": "38cf4b45adedcbdc8b17912274b48c5bb03cbdc9",
@@ -447,7 +436,7 @@
       "title": "Explore ideas, scale visual concepts, and start creating: https://t.co/JbyK5FM3H0",
       "url": "https://x.com/GoogleAI/status/2071989060483113405",
       "published_at": "2026-06-30T16:07:42Z",
-      "summary": "Explore ideas, scale visual concepts, and start creating: goo.gle/4bcThNtYour browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️30👀9512📊4⚡ Powered by xgo.ing"
+      "summary": "Explore ideas, scale visual concepts, and start creating: goo.gle/4bcThNtYour browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️31👀10000📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "4bf66b02275683a9648cbde264a1df0e3f334d03",
@@ -458,7 +447,7 @@
       "title": "https://t.co/J3TA6HjIQU",
       "url": "https://x.com/op7418/status/2071974240069517712",
       "published_at": "2026-06-30T15:08:48Z",
-      "summary": "github.com/op7418/CodePil…💬0🔄0❤️2👀4361📊1⚡ Powered by xgo.ing"
+      "summary": "github.com/op7418/CodePil…💬0🔄0❤️2👀4549📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "5c3110879eee6d8065e0e5d76c1dd530197c1217",
@@ -469,7 +458,7 @@
       "title": "CodePilot 0.5.6.3 已经更新。\n\n今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试",
       "url": "https://x.com/op7418/status/2071974194200633787",
       "published_at": "2026-06-30T15:08:37Z",
-      "summary": "CodePilot 0.5.6.3 已经更新。 今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试歸藏(guizang.ai)@op7418Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡🔗 View Quoted Tweet💬8🔄1❤️…"
+      "summary": "CodePilot 0.5.6.3 已经更新。 今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试歸藏(guizang.ai)@op7418Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡🔗 View Quoted Tweet💬9🔄1❤️…"
     },
     {
       "id": "a5f708d865dcb40caa75b82400b4b76a85604516",
@@ -480,18 +469,7 @@
       "title": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展\n\n最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。\n\n这三个人的 AI 视频都做得挺好...",
       "url": "https://x.com/op7418/status/2071919748456304733",
       "published_at": "2026-06-30T11:32:17Z",
-      "summary": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展 最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。 这三个人的 AI 视频都做得挺好的，粉丝也不少。 结果那些小说粉丝就去把《神秘复苏》动画片官方的 PV 给举报下架了💬19🔄1❤️31👀11246📊20⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0b7fa053423ade984597d877e384c1b385027a3b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "卧槽 这么离谱啊",
-      "url": "https://x.com/op7418/status/2071874457682215391",
-      "published_at": "2026-06-30T08:32:18Z",
-      "summary": "卧槽 这么离谱啊居然sir@juransir账号没被封的时候一直忍住没骂过 A 社，这下被封了可以放心开骂了。 通知邮件里还装追踪器，看我在什么位置打开的邮件。 ​ ​全球 AI 厂就属你丫最心术不正，还整天搁那装大尾(yǐ) 巴狼。 ​ ​早晚得遭报应。❤️🔗 View Quoted Tweet💬14🔄1❤️24👀21718📊12⚡ Powered by xgo.ing"
+      "summary": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展 最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。 这三个人的 AI 视频都做得挺好的，粉丝也不少。 结果那些小说粉丝就去把《神秘复苏》动画片官方的 PV 给举报下架了💬19🔄1❤️31👀12077📊20⚡ Powered by xgo.ing"
     }
   ]
 }
