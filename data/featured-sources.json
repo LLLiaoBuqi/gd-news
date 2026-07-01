@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T13:16:37.942458Z",
+  "generated_at": "2026-07-01T16:02:45.800223Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 805,
+      "duration_ms": 566,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 22,
+      "duration_ms": 29,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1443,
+      "duration_ms": 1271,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1239,
+      "duration_ms": 1470,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 719,
+      "duration_ms": 854,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1045,
+      "duration_ms": 406,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 651,
+      "duration_ms": 1101,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2687,
+      "duration_ms": 2518,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 475,
+      "duration_ms": 856,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -278,34 +278,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684025&idx=1&sn=8b4a8bd2dc728ffccfbeffb9fc013ff5",
           "published_at": "2026-07-01T00:11:00Z",
           "summary": "你的时区出卖了你"
-        },
-        {
-          "id": "4bf66b02275683a9648cbde264a1df0e3f334d03",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "https://t.co/J3TA6HjIQU",
-          "url": "https://x.com/op7418/status/2071974240069517712",
-          "published_at": "2026-06-30T15:08:48Z",
-          "summary": "github.com/op7418/CodePil…💬0🔄0❤️2👀4613📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5c3110879eee6d8065e0e5d76c1dd530197c1217",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "CodePilot 0.5.6.3 已经更新。\n\n今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试",
-          "url": "https://x.com/op7418/status/2071974194200633787",
-          "published_at": "2026-06-30T15:08:37Z",
-          "summary": "CodePilot 0.5.6.3 已经更新。 今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试歸藏(guizang.ai)@op7418Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡🔗 View Quoted Tweet💬10🔄1❤…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -313,6 +291,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "8858a7e22df75611c0991eec8e8cb6d17a37aa7b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "As generative AI tools continue to evolve, we believe it's more important than ever to know what's A...",
+          "url": "https://x.com/GoogleAI/status/2072318809277390940",
+          "published_at": "2026-07-01T13:58:00Z",
+          "summary": "As generative AI tools continue to evolve, we believe it's more important than ever to know what's AI-generated and what isn't. That’s why @GoogleDeepMind launched SynthID in 2023—a technology that adds a hidden digital watermark to AI content. Here’s a summary of SynthID’s journ…"
+        },
         {
           "id": "908c80c4dc20a5e703d97ecada60ee907ff9fe4d",
           "site_id": "featuredrss",
@@ -322,7 +311,7 @@
           "title": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how we...",
           "url": "https://x.com/OpenAI/status/2072004836674167294",
           "published_at": "2026-06-30T17:10:23Z",
-          "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. openai.com/index/introduc…💬258🔄34…"
+          "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. openai.com/index/introduc…💬266🔄35…"
         },
         {
           "id": "38cf4b45adedcbdc8b17912274b48c5bb03cbdc9",
@@ -344,12 +333,23 @@
           "title": "Explore ideas, scale visual concepts, and start creating: https://t.co/JbyK5FM3H0",
           "url": "https://x.com/GoogleAI/status/2071989060483113405",
           "published_at": "2026-06-30T16:07:42Z",
-          "summary": "Explore ideas, scale visual concepts, and start creating: goo.gle/4bcThNtYour browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️33👀10251📊4⚡ Powered by xgo.ing"
+          "summary": "Explore ideas, scale visual concepts, and start creating: goo.gle/4bcThNtYour browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️33👀10577📊4⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "8858a7e22df75611c0991eec8e8cb6d17a37aa7b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "As generative AI tools continue to evolve, we believe it's more important than ever to know what's A...",
+      "url": "https://x.com/GoogleAI/status/2072318809277390940",
+      "published_at": "2026-07-01T13:58:00Z",
+      "summary": "As generative AI tools continue to evolve, we believe it's more important than ever to know what's AI-generated and what isn't. That’s why @GoogleDeepMind launched SynthID in 2023—a technology that adds a hidden digital watermark to AI content. Here’s a summary of SynthID’s journ…"
+    },
     {
       "id": "a71cf02df011805b1875acc4dde185e4c1d1b255",
       "site_id": "featuredrss",
@@ -447,7 +447,7 @@
       "title": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how we...",
       "url": "https://x.com/OpenAI/status/2072004836674167294",
       "published_at": "2026-06-30T17:10:23Z",
-      "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. openai.com/index/introduc…💬258🔄34…"
+      "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. openai.com/index/introduc…💬266🔄35…"
     },
     {
       "id": "38cf4b45adedcbdc8b17912274b48c5bb03cbdc9",
@@ -469,29 +469,7 @@
       "title": "Explore ideas, scale visual concepts, and start creating: https://t.co/JbyK5FM3H0",
       "url": "https://x.com/GoogleAI/status/2071989060483113405",
       "published_at": "2026-06-30T16:07:42Z",
-      "summary": "Explore ideas, scale visual concepts, and start creating: goo.gle/4bcThNtYour browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️33👀10251📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4bf66b02275683a9648cbde264a1df0e3f334d03",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "https://t.co/J3TA6HjIQU",
-      "url": "https://x.com/op7418/status/2071974240069517712",
-      "published_at": "2026-06-30T15:08:48Z",
-      "summary": "github.com/op7418/CodePil…💬0🔄0❤️2👀4613📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5c3110879eee6d8065e0e5d76c1dd530197c1217",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "CodePilot 0.5.6.3 已经更新。\n\n今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试",
-      "url": "https://x.com/op7418/status/2071974194200633787",
-      "published_at": "2026-06-30T15:08:37Z",
-      "summary": "CodePilot 0.5.6.3 已经更新。 今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试歸藏(guizang.ai)@op7418Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡🔗 View Quoted Tweet💬10🔄1❤…"
+      "summary": "Explore ideas, scale visual concepts, and start creating: goo.gle/4bcThNtYour browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️33👀10577📊4⚡ Powered by xgo.ing"
     }
   ]
 }
