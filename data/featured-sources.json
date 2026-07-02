@@ -1,15 +1,13 @@
 {
-  "generated_at": "2026-07-02T08:45:39.956971Z",
+  "generated_at": "2026-07-02T11:28:35.345449Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 9,
   "feed_total": 12,
-  "ok_feeds": 7,
+  "ok_feeds": 9,
   "failed_feeds": [
-    "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
-    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -22,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 149,
+      "duration_ms": 566,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -36,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 19,
+      "duration_ms": 28,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,10 +46,10 @@
       "feed_title": "Google AI(@GoogleAI)",
       "feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12952,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 1681,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -64,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4823,
+      "duration_ms": 1345,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -78,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3624,
+      "duration_ms": 861,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -92,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 965,
+      "duration_ms": 418,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -120,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1044,
+      "duration_ms": 957,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -134,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 31,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,10 +144,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12274,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 2672,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -176,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1021,
+      "duration_ms": 660,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -186,34 +184,76 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 5,
       "feed_total": 5,
-      "ok_feeds": 3,
+      "ok_feeds": 4,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml",
-        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
         {
-          "id": "a71cf02df011805b1875acc4dde185e4c1d1b255",
+          "id": "081228b98a187a60b72ccbd80eb59157f7ed4127",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
+          "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "实测美团LongCat-2.0，国产芯片长出来的万亿大模型",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508180&idx=1&sn=384de6d81b2b4ad5f4d191baaee831bd",
-          "published_at": "2026-07-01T09:00:00Z",
-          "summary": "天天被Claude封傻了我急需国产Power"
+          "title": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？\n\n我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了",
+          "url": "https://x.com/op7418/status/2072510943742001568",
+          "published_at": "2026-07-02T02:41:29Z",
+          "summary": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？ 我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了💬42🔄0❤️38👀22565📊37⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "76fb6adedd230d12d5fc58cba3d5cc1cda61cf9c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "终于上了！\n\n藏师傅现在这个 Skills 可以帮你做 Live Photo。\n\n我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多\n\n又可以帮你展示一些需要动态展示的东西...",
+          "url": "https://x.com/op7418/status/2072510211626336740",
+          "published_at": "2026-07-02T02:38:34Z",
+          "summary": "终于上了！ 藏师傅现在这个 Skills 可以帮你做 Live Photo。 我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多 又可以帮你展示一些需要动态展示的东西，比如： 1. 步骤说明 2. 不同角度的产品细节 3. 带动效的网页展示等等 这个 Skills 基本上把做 Live Photo 的门槛拉得非常低。 你只需要给它文案和你随便录制的一段视频，它就可以帮你编辑排版，变成一个带文字的 Live Photo。 当然，一些基础的 Live Photo 编辑它也能帮你做（比如拼图、夹子等），比你在市面上能找到的对应产品要…"
+        },
+        {
+          "id": "d036bf6660151e3cbc001e1c39beca82b0ba9591",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/JlLsJEH0on",
+          "url": "https://x.com/op7418/status/2072509798026006965",
+          "published_at": "2026-07-02T02:36:55Z",
+          "summary": "x.com/i/article/2072…💬5🔄11❤️102👀60049📊50⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "82a166b1b6f46889fce21aff04f312343d820815",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "而且居然还重置了",
+          "url": "https://x.com/op7418/status/2072495124513456371",
+          "published_at": "2026-07-02T01:38:37Z",
+          "summary": "而且居然还重置了歸藏(guizang.ai)@op7418Fable 5 重新上线了🔗 View Quoted Tweet💬0🔄0❤️4👀5406⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "bef812a4a7f134480d459b177d3d47c020021e21",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Fable 5 重新上线了",
+          "url": "https://x.com/op7418/status/2072492875842252858",
+          "published_at": "2026-07-02T01:29:41Z",
+          "summary": "Fable 5 重新上线了Claude@claudeaiFable 5 is back.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄0❤️3👀9603📊3⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 4,
       "feed_total": 7,
-      "ok_feeds": 4,
+      "ok_feeds": 5,
       "failed_feeds": [
-        "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
@@ -227,7 +267,7 @@
           "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new ...",
           "url": "https://x.com/GeminiApp/status/2072395727368761799",
           "published_at": "2026-07-01T19:03:39Z",
-          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬8🔄4❤️74👀14757📊16⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬8🔄4❤️75👀15295📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "ab737de374b75f97bdc51039c00b50931b45ee03",
@@ -238,7 +278,7 @@
           "title": "New ways you can use Gemini Spark to make your life easier.\n\nFrom integration in the Gemini app for ...",
           "url": "https://x.com/GeminiApp/status/2072395690345714159",
           "published_at": "2026-07-01T19:03:30Z",
-          "summary": "New ways you can use Gemini Spark to make your life easier. From integration in the Gemini app for macOS to smart triggers, here are five ways we’re making Gemini Spark an even more powerful personal AI agent to help you get things done around the clock.💬54🔄68❤️658👀100588📊147⚡ Po…"
+          "summary": "New ways you can use Gemini Spark to make your life easier. From integration in the Gemini app for macOS to smart triggers, here are five ways we’re making Gemini Spark an even more powerful personal AI agent to help you get things done around the clock.💬57🔄72❤️685👀109415📊154⚡ Po…"
         },
         {
           "id": "c22e2cec21115a765e866ebf17e2d6d83ff204af",
@@ -249,12 +289,78 @@
           "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new ...",
           "url": "https://x.com/GeminiApp/status/2072391892629942363",
           "published_at": "2026-07-01T18:48:25Z",
-          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄4❤️34👀9564📊10⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄4❤️34👀9859📊10⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8858a7e22df75611c0991eec8e8cb6d17a37aa7b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "As generative AI tools continue to evolve, we believe it's more important than ever to know what's A...",
+          "url": "https://x.com/GoogleAI/status/2072318809277390940",
+          "published_at": "2026-07-01T13:58:00Z",
+          "summary": "As generative AI tools continue to evolve, we believe it's more important than ever to know what's AI-generated and what isn't. That’s why @GoogleDeepMind launched SynthID in 2023—a technology that adds a hidden digital watermark to AI content. Here’s a summary of SynthID’s journ…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "081228b98a187a60b72ccbd80eb59157f7ed4127",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？\n\n我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了",
+      "url": "https://x.com/op7418/status/2072510943742001568",
+      "published_at": "2026-07-02T02:41:29Z",
+      "summary": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？ 我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了💬42🔄0❤️38👀22565📊37⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "76fb6adedd230d12d5fc58cba3d5cc1cda61cf9c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "终于上了！\n\n藏师傅现在这个 Skills 可以帮你做 Live Photo。\n\n我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多\n\n又可以帮你展示一些需要动态展示的东西...",
+      "url": "https://x.com/op7418/status/2072510211626336740",
+      "published_at": "2026-07-02T02:38:34Z",
+      "summary": "终于上了！ 藏师傅现在这个 Skills 可以帮你做 Live Photo。 我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多 又可以帮你展示一些需要动态展示的东西，比如： 1. 步骤说明 2. 不同角度的产品细节 3. 带动效的网页展示等等 这个 Skills 基本上把做 Live Photo 的门槛拉得非常低。 你只需要给它文案和你随便录制的一段视频，它就可以帮你编辑排版，变成一个带文字的 Live Photo。 当然，一些基础的 Live Photo 编辑它也能帮你做（比如拼图、夹子等），比你在市面上能找到的对应产品要…"
+    },
+    {
+      "id": "d036bf6660151e3cbc001e1c39beca82b0ba9591",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/JlLsJEH0on",
+      "url": "https://x.com/op7418/status/2072509798026006965",
+      "published_at": "2026-07-02T02:36:55Z",
+      "summary": "x.com/i/article/2072…💬5🔄11❤️102👀60049📊50⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "82a166b1b6f46889fce21aff04f312343d820815",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "而且居然还重置了",
+      "url": "https://x.com/op7418/status/2072495124513456371",
+      "published_at": "2026-07-02T01:38:37Z",
+      "summary": "而且居然还重置了歸藏(guizang.ai)@op7418Fable 5 重新上线了🔗 View Quoted Tweet💬0🔄0❤️4👀5406⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "bef812a4a7f134480d459b177d3d47c020021e21",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Fable 5 重新上线了",
+      "url": "https://x.com/op7418/status/2072492875842252858",
+      "published_at": "2026-07-02T01:29:41Z",
+      "summary": "Fable 5 重新上线了Claude@claudeaiFable 5 is back.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬4🔄0❤️3👀9603📊3⚡ Powered by xgo.ing"
+    },
     {
       "id": "d4cbd65a01886154eacdbb408832faa8ea62cd28",
       "site_id": "featuredrss",
@@ -264,7 +370,7 @@
       "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new ...",
       "url": "https://x.com/GeminiApp/status/2072395727368761799",
       "published_at": "2026-07-01T19:03:39Z",
-      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬8🔄4❤️74👀14757📊16⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬8🔄4❤️75👀15295📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "ab737de374b75f97bdc51039c00b50931b45ee03",
@@ -275,7 +381,7 @@
       "title": "New ways you can use Gemini Spark to make your life easier.\n\nFrom integration in the Gemini app for ...",
       "url": "https://x.com/GeminiApp/status/2072395690345714159",
       "published_at": "2026-07-01T19:03:30Z",
-      "summary": "New ways you can use Gemini Spark to make your life easier. From integration in the Gemini app for macOS to smart triggers, here are five ways we’re making Gemini Spark an even more powerful personal AI agent to help you get things done around the clock.💬54🔄68❤️658👀100588📊147⚡ Po…"
+      "summary": "New ways you can use Gemini Spark to make your life easier. From integration in the Gemini app for macOS to smart triggers, here are five ways we’re making Gemini Spark an even more powerful personal AI agent to help you get things done around the clock.💬57🔄72❤️685👀109415📊154⚡ Po…"
     },
     {
       "id": "c22e2cec21115a765e866ebf17e2d6d83ff204af",
@@ -286,18 +392,18 @@
       "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new ...",
       "url": "https://x.com/GeminiApp/status/2072391892629942363",
       "published_at": "2026-07-01T18:48:25Z",
-      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄4❤️34👀9564📊10⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄4❤️34👀9859📊10⚡ Powered by xgo.ing"
     },
     {
-      "id": "a71cf02df011805b1875acc4dde185e4c1d1b255",
+      "id": "8858a7e22df75611c0991eec8e8cb6d17a37aa7b",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测美团LongCat-2.0，国产芯片长出来的万亿大模型",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508180&idx=1&sn=384de6d81b2b4ad5f4d191baaee831bd",
-      "published_at": "2026-07-01T09:00:00Z",
-      "summary": "天天被Claude封傻了我急需国产Power"
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "As generative AI tools continue to evolve, we believe it's more important than ever to know what's A...",
+      "url": "https://x.com/GoogleAI/status/2072318809277390940",
+      "published_at": "2026-07-01T13:58:00Z",
+      "summary": "As generative AI tools continue to evolve, we believe it's more important than ever to know what's AI-generated and what isn't. That’s why @GoogleDeepMind launched SynthID in 2023—a technology that adds a hidden digital watermark to AI content. Here’s a summary of SynthID’s journ…"
     }
   ]
 }
