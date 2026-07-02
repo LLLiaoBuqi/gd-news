@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-01T23:16:21.555534Z",
+  "generated_at": "2026-07-02T01:30:19.983007Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 5,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 8,
   "failed_feeds": [
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
+    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -20,7 +21,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1035,
+      "duration_ms": 316,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +35,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 25,
+      "duration_ms": 68,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +49,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1465,
+      "duration_ms": 6616,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +63,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1339,
+      "duration_ms": 3019,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +77,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 857,
+      "duration_ms": 4853,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +91,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 721,
+      "duration_ms": 1030,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +119,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 993,
+      "duration_ms": 1001,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +133,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 73,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -144,10 +145,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 2734,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12209,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -174,7 +175,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 439,
+      "duration_ms": 747,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,11 +185,12 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 1,
       "feed_total": 5,
-      "ok_feeds": 4,
+      "ok_feeds": 3,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
       ],
       "items": [
         {
@@ -201,83 +203,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508180&idx=1&sn=384de6d81b2b4ad5f4d191baaee831bd",
           "published_at": "2026-07-01T09:00:00Z",
           "summary": "天天被Claude封傻了我急需国产Power"
-        },
-        {
-          "id": "3ac5bb79c015bfce5bf844b1a4036310b5f7dc70",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Fable 5 正式启用的细则来了。\n\n将于美国时间 7 月 1 号恢复全球上线。\n\n在 Claude 平台、Claude Code、Claude CodeWork 都可以用。\n\nPro、Max 和 ...",
-          "url": "https://x.com/op7418/status/2072185918958760047",
-          "published_at": "2026-07-01T05:09:57Z",
-          "summary": "Fable 5 正式启用的细则来了。 将于美国时间 7 月 1 号恢复全球上线。 在 Claude 平台、Claude Code、Claude CodeWork 都可以用。 Pro、Max 和 Team 用户，在 7 月 7 号前，Fable 包含在每周用量限额的最多 50% 以内。 7 月 7 日以后，就需要拆成单独的额度扣除积分了。 目前 AWS、微软和谷歌云服务的接入还没有恢复。 这次它的安全分类器会设置更大的安全阈量，所以导致这次开放以后，拒绝服务的概率可能比刚开始那几天还要高。歸藏(guizang.ai)@op7418Anthropic 每天都…"
-        },
-        {
-          "id": "60ae0f3e5c6129494a5aa9253f43a19970efd909",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Fable 5 开放https://t.co/y8uinRAWG0",
-          "url": "https://x.com/op7418/status/2072141791269392594",
-          "published_at": "2026-07-01T02:14:36Z",
-          "summary": "Fable 5 开放x.com/AnthropicAI/st…Anthropic@AnthropicAIWe’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patienc…"
-        },
-        {
-          "id": "61f3249c5ef57894b87eb8dfdc9a819f730b5b9b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "关于系统提示后门：https://t.co/I2VkoKCWZg",
-          "url": "https://x.com/op7418/status/2072141663225720990",
-          "published_at": "2026-07-01T02:14:05Z",
-          "summary": "关于系统提示后门：x.com/IntCyberDigest…International Cyber Digest@IntCyberDigest‼️ BREAKING: Anthropic has embedded hidden spyware-like code in Claude Code that covertly targets Chinese users. It then sends information regarding every user by injecting it into their prompt message. Claude…"
-        },
-        {
-          "id": "1acfeefd1a786064d888f036ddacea36ff436d64",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Anthropic 每天都能整点新活，感觉现在大家都习惯了\n\n昨天被爆出在系统提示中，以用户无法察觉的方式将市区代理和 AI 实验室信息放进去，用这种方式获取一些用户的信息。\n\n结果被发现并传播以后，...",
-          "url": "https://x.com/op7418/status/2072141491842261119",
-          "published_at": "2026-07-01T02:13:24Z",
-          "summary": "Anthropic 每天都能整点新活，感觉现在大家都习惯了 昨天被爆出在系统提示中，以用户无法察觉的方式将市区代理和 AI 实验室信息放进去，用这种方式获取一些用户的信息。 结果被发现并传播以后，又赶紧说以前我们不用这种方式了，或者说这种方式本来就准备下掉，明天就下掉，又当又立了。 昨晚发布的 Sonnet 5 在测试中发现，它的测试结果虽然接近了 Opus 4.8，但任务成本可能比 Opus 4.8 还高，甚至在完成测试任务上的成本接近了 Fable 5。 所以说它的综合成本可能比 4.8 贵得多，这模型真离谱。而且很多人的体感反馈也不是很好，说它会偷…"
-        },
-        {
-          "id": "af36c5ea8ea070def8877d00d21ada1d1f617a48",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Sonnet 5 发布了，测试成绩接近 Opus 4.8，价格便宜一些",
-          "url": "https://x.com/op7418/status/2072127507504202214",
-          "published_at": "2026-07-01T01:17:50Z",
-          "summary": "Sonnet 5 发布了，测试成绩接近 Opus 4.8，价格便宜一些Claude@claudeaiIntroducing Claude Sonnet 5, our most agentic Sonnet yet. It makes plans, uses tools like browsers and terminals, and runs autonomously at a level that just a few months ago required larger and more expensive models.Your browser d…"
-        },
-        {
-          "id": "dc9de388362befda94f9750c6cbead2fd1083c77",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Fable 5 终于要恢复了，不知道是面向美国人还是全球的",
-          "url": "https://x.com/op7418/status/2072127004007354848",
-          "published_at": "2026-07-01T01:15:50Z",
-          "summary": "Fable 5 终于要恢复了，不知道是面向美国人还是全球的Anthropic@AnthropicAIWe’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience,…"
-        },
-        {
-          "id": "c100b5d69744ecf632ee3b326c67dad3dfcad78d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684025&idx=1&sn=8b4a8bd2dc728ffccfbeffb9fc013ff5",
-          "published_at": "2026-07-01T00:11:00Z",
-          "summary": "你的时区出卖了你"
         }
       ]
     },
@@ -300,7 +225,7 @@
           "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new ...",
           "url": "https://x.com/GeminiApp/status/2072395727368761799",
           "published_at": "2026-07-01T19:03:39Z",
-          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬5🔄4❤️50👀8855📊11⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄4❤️59👀11415📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "ab737de374b75f97bdc51039c00b50931b45ee03",
@@ -311,7 +236,7 @@
           "title": "New ways you can use Gemini Spark to make your life easier.\n\nFrom integration in the Gemini app for ...",
           "url": "https://x.com/GeminiApp/status/2072395690345714159",
           "published_at": "2026-07-01T19:03:30Z",
-          "summary": "New ways you can use Gemini Spark to make your life easier. From integration in the Gemini app for macOS to smart triggers, here are five ways we’re making Gemini Spark an even more powerful personal AI agent to help you get things done around the clock.💬35🔄34❤️333👀44141📊82⚡ Powe…"
+          "summary": "New ways you can use Gemini Spark to make your life easier. From integration in the Gemini app for macOS to smart triggers, here are five ways we’re making Gemini Spark an even more powerful personal AI agent to help you get things done around the clock.💬48🔄51❤️468👀62421📊116⚡ Pow…"
         },
         {
           "id": "c22e2cec21115a765e866ebf17e2d6d83ff204af",
@@ -322,7 +247,7 @@
           "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new ...",
           "url": "https://x.com/GeminiApp/status/2072391892629942363",
           "published_at": "2026-07-01T18:48:25Z",
-          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄5❤️30👀6467📊10⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄5❤️31👀7885📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "8858a7e22df75611c0991eec8e8cb6d17a37aa7b",
@@ -348,7 +273,7 @@
       "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new ...",
       "url": "https://x.com/GeminiApp/status/2072395727368761799",
       "published_at": "2026-07-01T19:03:39Z",
-      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬5🔄4❤️50👀8855📊11⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄4❤️59👀11415📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "ab737de374b75f97bdc51039c00b50931b45ee03",
@@ -359,7 +284,7 @@
       "title": "New ways you can use Gemini Spark to make your life easier.\n\nFrom integration in the Gemini app for ...",
       "url": "https://x.com/GeminiApp/status/2072395690345714159",
       "published_at": "2026-07-01T19:03:30Z",
-      "summary": "New ways you can use Gemini Spark to make your life easier. From integration in the Gemini app for macOS to smart triggers, here are five ways we’re making Gemini Spark an even more powerful personal AI agent to help you get things done around the clock.💬35🔄34❤️333👀44141📊82⚡ Powe…"
+      "summary": "New ways you can use Gemini Spark to make your life easier. From integration in the Gemini app for macOS to smart triggers, here are five ways we’re making Gemini Spark an even more powerful personal AI agent to help you get things done around the clock.💬48🔄51❤️468👀62421📊116⚡ Pow…"
     },
     {
       "id": "c22e2cec21115a765e866ebf17e2d6d83ff204af",
@@ -370,7 +295,7 @@
       "title": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new ...",
       "url": "https://x.com/GeminiApp/status/2072391892629942363",
       "published_at": "2026-07-01T18:48:25Z",
-      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄5❤️30👀6467📊10⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is available in Beta for Google AI Ultra subscribers in the U.S. and this suite of new features is starting to roll out today. And our team is working hard to bring Gemini Spark to more countries later this month.💬7🔄5❤️31👀7885📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "8858a7e22df75611c0991eec8e8cb6d17a37aa7b",
@@ -393,83 +318,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508180&idx=1&sn=384de6d81b2b4ad5f4d191baaee831bd",
       "published_at": "2026-07-01T09:00:00Z",
       "summary": "天天被Claude封傻了我急需国产Power"
-    },
-    {
-      "id": "3ac5bb79c015bfce5bf844b1a4036310b5f7dc70",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Fable 5 正式启用的细则来了。\n\n将于美国时间 7 月 1 号恢复全球上线。\n\n在 Claude 平台、Claude Code、Claude CodeWork 都可以用。\n\nPro、Max 和 ...",
-      "url": "https://x.com/op7418/status/2072185918958760047",
-      "published_at": "2026-07-01T05:09:57Z",
-      "summary": "Fable 5 正式启用的细则来了。 将于美国时间 7 月 1 号恢复全球上线。 在 Claude 平台、Claude Code、Claude CodeWork 都可以用。 Pro、Max 和 Team 用户，在 7 月 7 号前，Fable 包含在每周用量限额的最多 50% 以内。 7 月 7 日以后，就需要拆成单独的额度扣除积分了。 目前 AWS、微软和谷歌云服务的接入还没有恢复。 这次它的安全分类器会设置更大的安全阈量，所以导致这次开放以后，拒绝服务的概率可能比刚开始那几天还要高。歸藏(guizang.ai)@op7418Anthropic 每天都…"
-    },
-    {
-      "id": "60ae0f3e5c6129494a5aa9253f43a19970efd909",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Fable 5 开放https://t.co/y8uinRAWG0",
-      "url": "https://x.com/op7418/status/2072141791269392594",
-      "published_at": "2026-07-01T02:14:36Z",
-      "summary": "Fable 5 开放x.com/AnthropicAI/st…Anthropic@AnthropicAIWe’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patienc…"
-    },
-    {
-      "id": "61f3249c5ef57894b87eb8dfdc9a819f730b5b9b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "关于系统提示后门：https://t.co/I2VkoKCWZg",
-      "url": "https://x.com/op7418/status/2072141663225720990",
-      "published_at": "2026-07-01T02:14:05Z",
-      "summary": "关于系统提示后门：x.com/IntCyberDigest…International Cyber Digest@IntCyberDigest‼️ BREAKING: Anthropic has embedded hidden spyware-like code in Claude Code that covertly targets Chinese users. It then sends information regarding every user by injecting it into their prompt message. Claude…"
-    },
-    {
-      "id": "1acfeefd1a786064d888f036ddacea36ff436d64",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Anthropic 每天都能整点新活，感觉现在大家都习惯了\n\n昨天被爆出在系统提示中，以用户无法察觉的方式将市区代理和 AI 实验室信息放进去，用这种方式获取一些用户的信息。\n\n结果被发现并传播以后，...",
-      "url": "https://x.com/op7418/status/2072141491842261119",
-      "published_at": "2026-07-01T02:13:24Z",
-      "summary": "Anthropic 每天都能整点新活，感觉现在大家都习惯了 昨天被爆出在系统提示中，以用户无法察觉的方式将市区代理和 AI 实验室信息放进去，用这种方式获取一些用户的信息。 结果被发现并传播以后，又赶紧说以前我们不用这种方式了，或者说这种方式本来就准备下掉，明天就下掉，又当又立了。 昨晚发布的 Sonnet 5 在测试中发现，它的测试结果虽然接近了 Opus 4.8，但任务成本可能比 Opus 4.8 还高，甚至在完成测试任务上的成本接近了 Fable 5。 所以说它的综合成本可能比 4.8 贵得多，这模型真离谱。而且很多人的体感反馈也不是很好，说它会偷…"
-    },
-    {
-      "id": "af36c5ea8ea070def8877d00d21ada1d1f617a48",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Sonnet 5 发布了，测试成绩接近 Opus 4.8，价格便宜一些",
-      "url": "https://x.com/op7418/status/2072127507504202214",
-      "published_at": "2026-07-01T01:17:50Z",
-      "summary": "Sonnet 5 发布了，测试成绩接近 Opus 4.8，价格便宜一些Claude@claudeaiIntroducing Claude Sonnet 5, our most agentic Sonnet yet. It makes plans, uses tools like browsers and terminals, and runs autonomously at a level that just a few months ago required larger and more expensive models.Your browser d…"
-    },
-    {
-      "id": "dc9de388362befda94f9750c6cbead2fd1083c77",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Fable 5 终于要恢复了，不知道是面向美国人还是全球的",
-      "url": "https://x.com/op7418/status/2072127004007354848",
-      "published_at": "2026-07-01T01:15:50Z",
-      "summary": "Fable 5 终于要恢复了，不知道是面向美国人还是全球的Anthropic@AnthropicAIWe’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience,…"
-    },
-    {
-      "id": "c100b5d69744ecf632ee3b326c67dad3dfcad78d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684025&idx=1&sn=8b4a8bd2dc728ffccfbeffb9fc013ff5",
-      "published_at": "2026-07-01T00:11:00Z",
-      "summary": "你的时区出卖了你"
     }
   ]
 }
