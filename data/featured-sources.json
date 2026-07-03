@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T02:21:57.578164Z",
+  "generated_at": "2026-07-03T06:07:22.654710Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 184,
+      "duration_ms": 781,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 45,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1924,
+      "duration_ms": 1694,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1508,
+      "duration_ms": 1340,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 923,
+      "duration_ms": 748,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 466,
+      "duration_ms": 1031,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 880,
+      "duration_ms": 443,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2451,
+      "duration_ms": 2273,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 678,
+      "duration_ms": 618,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。",
           "url": "https://x.com/op7418/status/2072642625564516719",
           "published_at": "2026-07-02T11:24:44Z",
-          "summary": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。💬13🔄0❤️8👀5563📊12⚡ Powered by xgo.ing"
+          "summary": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。💬21🔄1❤️10👀6317📊19⚡ Powered by xgo.ing"
         },
         {
           "id": "50da9ac37155515e5e9bd558a6dcf6255d221560",
@@ -223,39 +223,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497851&idx=1&sn=f15d04eec13faf905b1c5faead3458a9",
           "published_at": "2026-07-02T06:45:00Z",
           "summary": "LibTV新功能体验上了，AI视频工具正在进入控场阶段。"
-        },
-        {
-          "id": "081228b98a187a60b72ccbd80eb59157f7ed4127",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？\n\n我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了",
-          "url": "https://x.com/op7418/status/2072510943742001568",
-          "published_at": "2026-07-02T02:41:29Z",
-          "summary": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？ 我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了💬85🔄0❤️51👀31762📊73⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "76fb6adedd230d12d5fc58cba3d5cc1cda61cf9c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "终于上了！\n\n藏师傅现在这个 Skills 可以帮你做 Live Photo。\n\n我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多\n\n又可以帮你展示一些需要动态展示的东西...",
-          "url": "https://x.com/op7418/status/2072510211626336740",
-          "published_at": "2026-07-02T02:38:34Z",
-          "summary": "终于上了！ 藏师傅现在这个 Skills 可以帮你做 Live Photo。 我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多 又可以帮你展示一些需要动态展示的东西，比如： 1. 步骤说明 2. 不同角度的产品细节 3. 带动效的网页展示等等 这个 Skills 基本上把做 Live Photo 的门槛拉得非常低。 你只需要给它文案和你随便录制的一段视频，它就可以帮你编辑排版，变成一个带文字的 Live Photo。 当然，一些基础的 Live Photo 编辑它也能帮你做（比如拼图、夹子等），比你在市面上能找到的对应产品要…"
-        },
-        {
-          "id": "d036bf6660151e3cbc001e1c39beca82b0ba9591",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "https://t.co/JlLsJEH0on",
-          "url": "https://x.com/op7418/status/2072509798026006965",
-          "published_at": "2026-07-02T02:36:55Z",
-          "summary": "x.com/i/article/2072…💬10🔄21❤️153👀100148📊76⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -281,7 +248,7 @@
       "title": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。",
       "url": "https://x.com/op7418/status/2072642625564516719",
       "published_at": "2026-07-02T11:24:44Z",
-      "summary": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。💬13🔄0❤️8👀5563📊12⚡ Powered by xgo.ing"
+      "summary": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。💬21🔄1❤️10👀6317📊19⚡ Powered by xgo.ing"
     },
     {
       "id": "50da9ac37155515e5e9bd558a6dcf6255d221560",
@@ -304,39 +271,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497851&idx=1&sn=f15d04eec13faf905b1c5faead3458a9",
       "published_at": "2026-07-02T06:45:00Z",
       "summary": "LibTV新功能体验上了，AI视频工具正在进入控场阶段。"
-    },
-    {
-      "id": "081228b98a187a60b72ccbd80eb59157f7ed4127",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？\n\n我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了",
-      "url": "https://x.com/op7418/status/2072510943742001568",
-      "published_at": "2026-07-02T02:41:29Z",
-      "summary": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？ 我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了💬85🔄0❤️51👀31762📊73⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "76fb6adedd230d12d5fc58cba3d5cc1cda61cf9c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "终于上了！\n\n藏师傅现在这个 Skills 可以帮你做 Live Photo。\n\n我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多\n\n又可以帮你展示一些需要动态展示的东西...",
-      "url": "https://x.com/op7418/status/2072510211626336740",
-      "published_at": "2026-07-02T02:38:34Z",
-      "summary": "终于上了！ 藏师傅现在这个 Skills 可以帮你做 Live Photo。 我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多 又可以帮你展示一些需要动态展示的东西，比如： 1. 步骤说明 2. 不同角度的产品细节 3. 带动效的网页展示等等 这个 Skills 基本上把做 Live Photo 的门槛拉得非常低。 你只需要给它文案和你随便录制的一段视频，它就可以帮你编辑排版，变成一个带文字的 Live Photo。 当然，一些基础的 Live Photo 编辑它也能帮你做（比如拼图、夹子等），比你在市面上能找到的对应产品要…"
-    },
-    {
-      "id": "d036bf6660151e3cbc001e1c39beca82b0ba9591",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "https://t.co/JlLsJEH0on",
-      "url": "https://x.com/op7418/status/2072509798026006965",
-      "published_at": "2026-07-02T02:36:55Z",
-      "summary": "x.com/i/article/2072…💬10🔄21❤️153👀100148📊76⚡ Powered by xgo.ing"
     }
   ]
 }
