@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T09:40:38.292655Z",
+  "generated_at": "2026-07-03T12:04:33.010372Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 240,
+      "duration_ms": 666,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 68,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1875,
+      "duration_ms": 1526,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1509,
+      "duration_ms": 1189,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 765,
+      "duration_ms": 549,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 678,
+      "duration_ms": 1088,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 995,
+      "duration_ms": 433,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2660,
+      "duration_ms": 2407,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 628,
+      "duration_ms": 926,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,26 +192,15 @@
       ],
       "items": [
         {
-          "id": "65ecf4ba815c646a992e07650cfe9af33f3fa4de",
+          "id": "1df720fd5db546a9e2b3688aeb8359aa48da179c",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
+          "source": "数字生命卡兹克",
           "region": "domestic",
-          "title": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。",
-          "url": "https://x.com/op7418/status/2072642625564516719",
-          "published_at": "2026-07-02T11:24:44Z",
-          "summary": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。💬27🔄1❤️10👀6683📊24⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "50da9ac37155515e5e9bd558a6dcf6255d221560",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测腾讯Marivs，我拿手机指挥电脑清出了100个G",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508221&idx=1&sn=19d8972595470a52c63f7fb4a89843f7",
-          "published_at": "2026-07-02T10:16:00Z",
-          "summary": "每天还有千万token我薅爆"
+          "title": "记一个我被Claude Fable 5震撼的瞬间。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684048&idx=1&sn=d9aa57391cc1944d6443fb877f31ee62",
+          "published_at": "2026-07-03T00:16:00Z",
+          "summary": "为智能干杯"
         }
       ]
     },
@@ -229,26 +218,15 @@
   },
   "items": [
     {
-      "id": "65ecf4ba815c646a992e07650cfe9af33f3fa4de",
+      "id": "1df720fd5db546a9e2b3688aeb8359aa48da179c",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
+      "source": "数字生命卡兹克",
       "region": "domestic",
-      "title": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。",
-      "url": "https://x.com/op7418/status/2072642625564516719",
-      "published_at": "2026-07-02T11:24:44Z",
-      "summary": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。💬27🔄1❤️10👀6683📊24⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "50da9ac37155515e5e9bd558a6dcf6255d221560",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测腾讯Marivs，我拿手机指挥电脑清出了100个G",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508221&idx=1&sn=19d8972595470a52c63f7fb4a89843f7",
-      "published_at": "2026-07-02T10:16:00Z",
-      "summary": "每天还有千万token我薅爆"
+      "title": "记一个我被Claude Fable 5震撼的瞬间。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684048&idx=1&sn=d9aa57391cc1944d6443fb877f31ee62",
+      "published_at": "2026-07-03T00:16:00Z",
+      "summary": "为智能干杯"
     }
   ]
 }
