@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T01:06:08.431491Z",
+  "generated_at": "2026-07-04T05:04:06.059966Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 763,
+      "duration_ms": 726,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 23,
+      "duration_ms": 26,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1643,
+      "duration_ms": 1475,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1213,
+      "duration_ms": 1134,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 778,
+      "duration_ms": 637,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1025,
+      "duration_ms": 955,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 582,
+      "duration_ms": 613,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 18,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2303,
+      "duration_ms": 2032,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 592,
+      "duration_ms": 313,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "1fe96c371d274381e252fccf8dbb5a7ed485138b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "有人需要这种可以做演示视频的 Skill 吗",
+          "url": "https://x.com/op7418/status/2073247762242793579",
+          "published_at": "2026-07-04T03:29:20Z",
+          "summary": "有人需要这种可以做演示视频的 Skill 吗Your browser does not support the video tag.🔗 View on Twitter💬25🔄4❤️63👀6895📊35⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c00350707aa21d1186121a7991082146f54ae81f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "期间我一共介入两次",
+          "url": "https://x.com/op7418/status/2073221551680541110",
+          "published_at": "2026-07-04T01:45:11Z",
+          "summary": "期间我一共介入两次💬0🔄0❤️4👀2665📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "0d7eb7db8da37a5d875168c592e9b0ddea6ed2a9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "从前天 Fable 5 上线早上开始到现在，Fable 5 和 Codex 一起完成了它的第一个 loop 循环。\n\n帮我的 CodePilot 完成了 AI SDK 7 的所有升级。\n\n已经跑了两天...",
+          "url": "https://x.com/op7418/status/2073221461792464953",
+          "published_at": "2026-07-04T01:44:49Z",
+          "summary": "从前天 Fable 5 上线早上开始到现在，Fable 5 和 Codex 一起完成了它的第一个 loop 循环。 帮我的 CodePilot 完成了 AI SDK 7 的所有升级。 已经跑了两天整，目前我的额度还没有用完，所以 Fable 5 可以不用开很高的思考额度💬17🔄0❤️41👀12120📊20⚡ Powered by xgo.ing"
+        },
         {
           "id": "782073c389622b2ef3371fd97749d7b7bb736d69",
           "site_id": "featuredrss",
@@ -201,17 +234,6 @@
           "url": "https://x.com/op7418/status/2073020264083050811",
           "published_at": "2026-07-03T12:25:20Z",
           "summary": "藏师傅的 PPT Skill 再配上 Pencil 太爽了！ 昨天评论里有个朋友分享给了我启发： 把藏师傅的 PPT 配上 Pencil，就可以直接在 Pencil 里一次性看到所有生成的 PPT 页面。 这种方式不仅编辑起来非常方便，还能导出网页和对应的编辑文件。我试了一下，体验确实非常爽。 虽然 AI 生成内容时不可避免会出现一些排版上的小问题，比如元素重叠或者对齐不准之类的情况，但在 Pencil 里你完全可以手动调整，比如： 1. 对齐元素 2. 修改字体 3. 调整重叠的部分 而且 Pencil 作为一个专业的设计软件，它的可编辑性非常强，甚至…"
-        },
-        {
-          "id": "c94f3424ca5734b89587a1f665efa59e1e349f36",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "封号/Fable5/Sonnet5... 开源「搭子」Skill重拳Anthropic",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508239&idx=1&sn=bef3facd1f5d09d723bbcfcfc66b64fb",
-          "published_at": "2026-07-03T01:56:00Z",
-          "summary": "我不信还能封我哈哈哈哈哈"
         }
       ]
     },
@@ -229,6 +251,39 @@
   },
   "items": [
     {
+      "id": "1fe96c371d274381e252fccf8dbb5a7ed485138b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "有人需要这种可以做演示视频的 Skill 吗",
+      "url": "https://x.com/op7418/status/2073247762242793579",
+      "published_at": "2026-07-04T03:29:20Z",
+      "summary": "有人需要这种可以做演示视频的 Skill 吗Your browser does not support the video tag.🔗 View on Twitter💬25🔄4❤️63👀6895📊35⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "c00350707aa21d1186121a7991082146f54ae81f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "期间我一共介入两次",
+      "url": "https://x.com/op7418/status/2073221551680541110",
+      "published_at": "2026-07-04T01:45:11Z",
+      "summary": "期间我一共介入两次💬0🔄0❤️4👀2665📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "0d7eb7db8da37a5d875168c592e9b0ddea6ed2a9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "从前天 Fable 5 上线早上开始到现在，Fable 5 和 Codex 一起完成了它的第一个 loop 循环。\n\n帮我的 CodePilot 完成了 AI SDK 7 的所有升级。\n\n已经跑了两天...",
+      "url": "https://x.com/op7418/status/2073221461792464953",
+      "published_at": "2026-07-04T01:44:49Z",
+      "summary": "从前天 Fable 5 上线早上开始到现在，Fable 5 和 Codex 一起完成了它的第一个 loop 循环。 帮我的 CodePilot 完成了 AI SDK 7 的所有升级。 已经跑了两天整，目前我的额度还没有用完，所以 Fable 5 可以不用开很高的思考额度💬17🔄0❤️41👀12120📊20⚡ Powered by xgo.ing"
+    },
+    {
       "id": "782073c389622b2ef3371fd97749d7b7bb736d69",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -238,17 +293,6 @@
       "url": "https://x.com/op7418/status/2073020264083050811",
       "published_at": "2026-07-03T12:25:20Z",
       "summary": "藏师傅的 PPT Skill 再配上 Pencil 太爽了！ 昨天评论里有个朋友分享给了我启发： 把藏师傅的 PPT 配上 Pencil，就可以直接在 Pencil 里一次性看到所有生成的 PPT 页面。 这种方式不仅编辑起来非常方便，还能导出网页和对应的编辑文件。我试了一下，体验确实非常爽。 虽然 AI 生成内容时不可避免会出现一些排版上的小问题，比如元素重叠或者对齐不准之类的情况，但在 Pencil 里你完全可以手动调整，比如： 1. 对齐元素 2. 修改字体 3. 调整重叠的部分 而且 Pencil 作为一个专业的设计软件，它的可编辑性非常强，甚至…"
-    },
-    {
-      "id": "c94f3424ca5734b89587a1f665efa59e1e349f36",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "封号/Fable5/Sonnet5... 开源「搭子」Skill重拳Anthropic",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508239&idx=1&sn=bef3facd1f5d09d723bbcfcfc66b64fb",
-      "published_at": "2026-07-03T01:56:00Z",
-      "summary": "我不信还能封我哈哈哈哈哈"
     }
   ]
 }
