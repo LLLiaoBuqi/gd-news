@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T06:24:35.130047Z",
+  "generated_at": "2026-07-05T09:26:25.387807Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 0,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 837,
+      "duration_ms": 141,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 24,
+      "duration_ms": 38,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1677,
+      "duration_ms": 1884,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1409,
+      "duration_ms": 1497,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 944,
+      "duration_ms": 927,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 344,
+      "duration_ms": 726,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 658,
+      "duration_ms": 862,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 31,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2129,
+      "duration_ms": 2483,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 955,
+      "duration_ms": 1102,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,36 +184,13 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 0,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": [
-        {
-          "id": "7657e1dfcfc04940d06a717ab285d8bd44a526ce",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "从模型到工作流：2026 上半年图片与视频模型盘点。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497856&idx=1&sn=14dd23e4a81127347d675f4fd10d6f06",
-          "published_at": "2026-07-04T08:22:00Z",
-          "summary": "万字长文，上半年图片与视频模型盘点。"
-        },
-        {
-          "id": "0af90eb647f33290c70b293ece72adf192a4ed96",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "非常好联名，使我晕碳",
-          "url": "https://x.com/op7418/status/2073314893693129170",
-          "published_at": "2026-07-04T07:56:05Z",
-          "summary": "非常好联名，使我晕碳💬20🔄0❤️23👀7363📊19⚡ Powered by xgo.ing"
-        }
-      ]
+      "items": []
     },
     "global": {
       "label": "国外精选",
@@ -227,28 +204,5 @@
       "items": []
     }
   },
-  "items": [
-    {
-      "id": "7657e1dfcfc04940d06a717ab285d8bd44a526ce",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "从模型到工作流：2026 上半年图片与视频模型盘点。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497856&idx=1&sn=14dd23e4a81127347d675f4fd10d6f06",
-      "published_at": "2026-07-04T08:22:00Z",
-      "summary": "万字长文，上半年图片与视频模型盘点。"
-    },
-    {
-      "id": "0af90eb647f33290c70b293ece72adf192a4ed96",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "非常好联名，使我晕碳",
-      "url": "https://x.com/op7418/status/2073314893693129170",
-      "published_at": "2026-07-04T07:56:05Z",
-      "summary": "非常好联名，使我晕碳💬20🔄0❤️23👀7363📊19⚡ Powered by xgo.ing"
-    }
-  ]
+  "items": []
 }
