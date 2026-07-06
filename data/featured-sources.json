@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T00:01:56.582828Z",
+  "generated_at": "2026-07-06T04:48:57.985661Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 0,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 940,
+      "duration_ms": 614,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 22,
+      "duration_ms": 31,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4068,
+      "duration_ms": 1606,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3867,
+      "duration_ms": 1111,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2942,
+      "duration_ms": 576,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 938,
+      "duration_ms": 395,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 674,
+      "duration_ms": 894,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 22,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4510,
+      "duration_ms": 2261,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 480,
+      "duration_ms": 702,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,25 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "333dde6cfe2ed2233c9f3363cfd8efc7fdcf025a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这个效果超级好，一个 HTML 的装饰性图形生成器\n\n用在网页和一些演示上做装饰挺好的，不过作者只发了结果没有发代码",
+          "url": "https://x.com/op7418/status/2073973056075334005",
+          "published_at": "2026-07-06T03:31:23Z",
+          "summary": "这个效果超级好，一个 HTML 的装饰性图形生成器 用在网页和一些演示上做装饰挺好的，不过作者只发了结果没有发代码Chad Ashley@cgpovMade an HTML based Micro-Graphic generator. Super fun. Basically set some rules (with Claude's help), added simple graphics and icons, it outputs either a PNG or an SVG. These were all created by hitting a…"
+        }
+      ]
     },
     "global": {
       "label": "国外精选",
@@ -204,5 +216,17 @@
       "items": []
     }
   },
-  "items": []
+  "items": [
+    {
+      "id": "333dde6cfe2ed2233c9f3363cfd8efc7fdcf025a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这个效果超级好，一个 HTML 的装饰性图形生成器\n\n用在网页和一些演示上做装饰挺好的，不过作者只发了结果没有发代码",
+      "url": "https://x.com/op7418/status/2073973056075334005",
+      "published_at": "2026-07-06T03:31:23Z",
+      "summary": "这个效果超级好，一个 HTML 的装饰性图形生成器 用在网页和一些演示上做装饰挺好的，不过作者只发了结果没有发代码Chad Ashley@cgpovMade an HTML based Micro-Graphic generator. Super fun. Basically set some rules (with Claude's help), added simple graphics and icons, it outputs either a PNG or an SVG. These were all created by hitting a…"
+    }
+  ]
 }
