@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T16:14:45.768690Z",
+  "generated_at": "2026-07-06T18:24:17.959129Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 330,
+      "duration_ms": 339,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,7 +33,7 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 16,
+      "item_count": 15,
       "duration_ms": 67,
       "error": null,
       "skipped": false,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1812,
+      "duration_ms": 1840,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1375,
+      "duration_ms": 1361,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1028,
+      "duration_ms": 936,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1039,
+      "duration_ms": 820,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1100,
+      "duration_ms": 1162,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 71,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2445,
+      "duration_ms": 2652,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 619,
+      "duration_ms": 839,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "Workbuddy 海外版上了？",
           "url": "https://x.com/op7418/status/2074112539630412227",
           "published_at": "2026-07-06T12:45:39Z",
-          "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬10🔄0❤️14👀8252📊8⚡ Powered by xgo.in…"
+          "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬11🔄0❤️17👀10371📊9⚡ Powered by xgo.i…"
         },
         {
           "id": "333dde6cfe2ed2233c9f3363cfd8efc7fdcf025a",
@@ -239,17 +239,95 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "9d1b49b5165ad811845179b1052107a85999e7e2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "These new Gemini features are specifically designed for business owners and are available globally, ...",
+          "url": "https://x.com/GeminiApp/status/2074187629613158404",
+          "published_at": "2026-07-06T17:44:02Z",
+          "summary": "These new Gemini features are specifically designed for business owners and are available globally, excluding the EEA and UK. To get started, head to gemini.google or open the Gemini app to connect your “Google Business Profile” today, and let us know how they’re helping you run…"
+        },
+        {
+          "id": "61e5b56913eb924dabd4326b47eb95f1f3e83e9c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Business notebooks in Gemini now allow you to manage your business in one focused space. Simply conn...",
+          "url": "https://x.com/GeminiApp/status/2074187627750887905",
+          "published_at": "2026-07-06T17:44:01Z",
+          "summary": "Business notebooks in Gemini now allow you to manage your business in one focused space. Simply connect your Google Business Profile, add sources or past chats, and get tailored insights and actionable steps to manage your business. Instead of having to start a conversation from…"
+        },
+        {
+          "id": "bacf15e3698ef41a7c3747480e85bc3fa66bf044",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or ad...",
+          "url": "https://x.com/GeminiApp/status/2074187212674269560",
+          "published_at": "2026-07-06T17:42:22Z",
+          "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬13🔄6❤️50👀8235📊19⚡ Powere…"
+        },
+        {
+          "id": "8ab224a1f8d93ee790d9b8f9a53d2fab762dcc4e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "A global workspace in language models",
+          "url": "https://www.anthropic.com/research/global-workspace",
+          "published_at": "2026-07-06T00:00:00Z",
+          "summary": "A global workspace in language models"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "9d1b49b5165ad811845179b1052107a85999e7e2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "These new Gemini features are specifically designed for business owners and are available globally, ...",
+      "url": "https://x.com/GeminiApp/status/2074187629613158404",
+      "published_at": "2026-07-06T17:44:02Z",
+      "summary": "These new Gemini features are specifically designed for business owners and are available globally, excluding the EEA and UK. To get started, head to gemini.google or open the Gemini app to connect your “Google Business Profile” today, and let us know how they’re helping you run…"
+    },
+    {
+      "id": "61e5b56913eb924dabd4326b47eb95f1f3e83e9c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Business notebooks in Gemini now allow you to manage your business in one focused space. Simply conn...",
+      "url": "https://x.com/GeminiApp/status/2074187627750887905",
+      "published_at": "2026-07-06T17:44:01Z",
+      "summary": "Business notebooks in Gemini now allow you to manage your business in one focused space. Simply connect your Google Business Profile, add sources or past chats, and get tailored insights and actionable steps to manage your business. Instead of having to start a conversation from…"
+    },
+    {
+      "id": "bacf15e3698ef41a7c3747480e85bc3fa66bf044",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or ad...",
+      "url": "https://x.com/GeminiApp/status/2074187212674269560",
+      "published_at": "2026-07-06T17:42:22Z",
+      "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬13🔄6❤️50👀8235📊19⚡ Powere…"
+    },
     {
       "id": "dc2d5ad9efac99550e3002ada734aa1cad4a7582",
       "site_id": "featuredrss",
@@ -259,7 +337,7 @@
       "title": "Workbuddy 海外版上了？",
       "url": "https://x.com/op7418/status/2074112539630412227",
       "published_at": "2026-07-06T12:45:39Z",
-      "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬10🔄0❤️14👀8252📊8⚡ Powered by xgo.in…"
+      "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬11🔄0❤️17👀10371📊9⚡ Powered by xgo.i…"
     },
     {
       "id": "333dde6cfe2ed2233c9f3363cfd8efc7fdcf025a",
@@ -293,6 +371,17 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684065&idx=1&sn=f6a7e4e0f14161594677c6c8768c0f11",
       "published_at": "2026-07-06T00:07:00Z",
       "summary": "最戏剧性的周末"
+    },
+    {
+      "id": "8ab224a1f8d93ee790d9b8f9a53d2fab762dcc4e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "published_at": "2026-07-06T00:00:00Z",
+      "summary": "A global workspace in language models"
     }
   ]
 }
