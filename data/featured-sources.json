@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T08:56:21.342939Z",
+  "generated_at": "2026-07-06T12:43:00.691091Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 224,
+      "duration_ms": 382,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 48,
+      "duration_ms": 55,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1779,
+      "duration_ms": 1609,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1409,
+      "duration_ms": 1315,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 757,
+      "duration_ms": 1004,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 968,
+      "duration_ms": 662,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 638,
+      "duration_ms": 1087,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 48,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2211,
+      "duration_ms": 2491,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 667,
+      "duration_ms": 1137,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,6 +201,28 @@
           "url": "https://x.com/op7418/status/2073973056075334005",
           "published_at": "2026-07-06T03:31:23Z",
           "summary": "这个效果超级好，一个 HTML 的装饰性图形生成器 用在网页和一些演示上做装饰挺好的，不过作者只发了结果没有发代码Chad Ashley@cgpovMade an HTML based Micro-Graphic generator. Super fun. Basically set some rules (with Claude's help), added simple graphics and icons, it outputs either a PNG or an SVG. These were all created by hitting a…"
+        },
+        {
+          "id": "5e2d1e964328529e48d3a7d54506273c7c0df255",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508258&idx=1&sn=6406348e1f3739049a0174a0b01346b2",
+          "published_at": "2026-07-06T01:19:00Z",
+          "summary": "榨榨榨榨榨干算力"
+        },
+        {
+          "id": "58abc61d8df74f35fbd5821c1e478eb1c6c0f972",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "我的网站被攻击了48个小时，Claude Fable 5替我防下了这一切。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684065&idx=1&sn=f6a7e4e0f14161594677c6c8768c0f11",
+          "published_at": "2026-07-06T00:07:00Z",
+          "summary": "最戏剧性的周末"
         }
       ]
     },
@@ -227,6 +249,28 @@
       "url": "https://x.com/op7418/status/2073973056075334005",
       "published_at": "2026-07-06T03:31:23Z",
       "summary": "这个效果超级好，一个 HTML 的装饰性图形生成器 用在网页和一些演示上做装饰挺好的，不过作者只发了结果没有发代码Chad Ashley@cgpovMade an HTML based Micro-Graphic generator. Super fun. Basically set some rules (with Claude's help), added simple graphics and icons, it outputs either a PNG or an SVG. These were all created by hitting a…"
+    },
+    {
+      "id": "5e2d1e964328529e48d3a7d54506273c7c0df255",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508258&idx=1&sn=6406348e1f3739049a0174a0b01346b2",
+      "published_at": "2026-07-06T01:19:00Z",
+      "summary": "榨榨榨榨榨干算力"
+    },
+    {
+      "id": "58abc61d8df74f35fbd5821c1e478eb1c6c0f972",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "我的网站被攻击了48个小时，Claude Fable 5替我防下了这一切。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684065&idx=1&sn=f6a7e4e0f14161594677c6c8768c0f11",
+      "published_at": "2026-07-06T00:07:00Z",
+      "summary": "最戏剧性的周末"
     }
   ]
 }
