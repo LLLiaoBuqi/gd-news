@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T23:00:41.752832Z",
+  "generated_at": "2026-07-07T01:14:14.493425Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 699,
+      "duration_ms": 623,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1483,
+      "duration_ms": 1585,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1232,
+      "duration_ms": 1170,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 545,
+      "duration_ms": 547,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 498,
+      "duration_ms": 450,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1019,
+      "duration_ms": 1032,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2139,
+      "duration_ms": 2319,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 805,
+      "duration_ms": 938,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "Workbuddy 海外版上了？",
           "url": "https://x.com/op7418/status/2074112539630412227",
           "published_at": "2026-07-06T12:45:39Z",
-          "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬11🔄0❤️19👀11846📊9⚡ Powered by xgo.i…"
+          "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬11🔄0❤️21👀13038📊9⚡ Powered by xgo.i…"
         },
         {
           "id": "333dde6cfe2ed2233c9f3363cfd8efc7fdcf025a",
@@ -223,23 +223,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508258&idx=1&sn=6406348e1f3739049a0174a0b01346b2",
           "published_at": "2026-07-06T01:19:00Z",
           "summary": "榨榨榨榨榨干算力"
-        },
-        {
-          "id": "58abc61d8df74f35fbd5821c1e478eb1c6c0f972",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "我的网站被攻击了48个小时，Claude Fable 5替我防下了这一切。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684065&idx=1&sn=f6a7e4e0f14161594677c6c8768c0f11",
-          "published_at": "2026-07-06T00:07:00Z",
-          "summary": "最戏剧性的周末"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 6,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -247,6 +236,39 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "e64ea81a517ca25450ac3eb970168455ebeb02d0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays:\n1) Open https...",
+          "url": "https://x.com/GeminiApp/status/2074280701948829829",
+          "published_at": "2026-07-06T23:53:52Z",
+          "summary": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays: 1) Open gemini.google or the app 2) Tap “Spark” in the side menu 3) Insert the following prompt: “Email me a match summary and analysis after each [INSERT TEAM] soccer match.”💬4🔄2❤️23👀4695📊7⚡ P…"
+        },
+        {
+          "id": "f53695ceea4137d35c03434c97d5698e45c697e0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our tea...",
+          "url": "https://x.com/GeminiApp/status/2074280703504826643",
+          "published_at": "2026-07-06T23:53:52Z",
+          "summary": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our team is working hard to bring Gemini Spark to more countries later this month. Learn more about Gemini Spark here: gemini.google/overview/agent…💬7🔄4❤️25👀4665📊10⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "efe050854f4e63ea047d393e0fa636d2eb0e57ca",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini Spark can now intelligently track topics and react to events in real time. \n\nTry the prompt i...",
+          "url": "https://x.com/GeminiApp/status/2074280473581572600",
+          "published_at": "2026-07-06T23:52:57Z",
+          "summary": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt in the next post to get tailored game analyses emailed to you after your favorite team plays:💬14🔄17❤️197👀18293📊41⚡ Powered by xgo.ing"
+        },
         {
           "id": "9d1b49b5165ad811845179b1052107a85999e7e2",
           "site_id": "featuredrss",
@@ -278,23 +300,45 @@
           "title": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or ad...",
           "url": "https://x.com/GeminiApp/status/2074187212674269560",
           "published_at": "2026-07-06T17:42:22Z",
-          "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬38🔄34❤️334👀63434📊86⚡ Pow…"
-        },
-        {
-          "id": "8ab224a1f8d93ee790d9b8f9a53d2fab762dcc4e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "A global workspace in language models",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "published_at": "2026-07-06T00:00:00Z",
-          "summary": "A global workspace in language models"
+          "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬40🔄41❤️403👀81908📊98⚡ Pow…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "e64ea81a517ca25450ac3eb970168455ebeb02d0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays:\n1) Open https...",
+      "url": "https://x.com/GeminiApp/status/2074280701948829829",
+      "published_at": "2026-07-06T23:53:52Z",
+      "summary": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays: 1) Open gemini.google or the app 2) Tap “Spark” in the side menu 3) Insert the following prompt: “Email me a match summary and analysis after each [INSERT TEAM] soccer match.”💬4🔄2❤️23👀4695📊7⚡ P…"
+    },
+    {
+      "id": "f53695ceea4137d35c03434c97d5698e45c697e0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our tea...",
+      "url": "https://x.com/GeminiApp/status/2074280703504826643",
+      "published_at": "2026-07-06T23:53:52Z",
+      "summary": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our team is working hard to bring Gemini Spark to more countries later this month. Learn more about Gemini Spark here: gemini.google/overview/agent…💬7🔄4❤️25👀4665📊10⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "efe050854f4e63ea047d393e0fa636d2eb0e57ca",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini Spark can now intelligently track topics and react to events in real time. \n\nTry the prompt i...",
+      "url": "https://x.com/GeminiApp/status/2074280473581572600",
+      "published_at": "2026-07-06T23:52:57Z",
+      "summary": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt in the next post to get tailored game analyses emailed to you after your favorite team plays:💬14🔄17❤️197👀18293📊41⚡ Powered by xgo.ing"
+    },
     {
       "id": "9d1b49b5165ad811845179b1052107a85999e7e2",
       "site_id": "featuredrss",
@@ -326,7 +370,7 @@
       "title": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or ad...",
       "url": "https://x.com/GeminiApp/status/2074187212674269560",
       "published_at": "2026-07-06T17:42:22Z",
-      "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬38🔄34❤️334👀63434📊86⚡ Pow…"
+      "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬40🔄41❤️403👀81908📊98⚡ Pow…"
     },
     {
       "id": "dc2d5ad9efac99550e3002ada734aa1cad4a7582",
@@ -337,7 +381,7 @@
       "title": "Workbuddy 海外版上了？",
       "url": "https://x.com/op7418/status/2074112539630412227",
       "published_at": "2026-07-06T12:45:39Z",
-      "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬11🔄0❤️19👀11846📊9⚡ Powered by xgo.i…"
+      "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬11🔄0❤️21👀13038📊9⚡ Powered by xgo.i…"
     },
     {
       "id": "333dde6cfe2ed2233c9f3363cfd8efc7fdcf025a",
@@ -360,28 +404,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508258&idx=1&sn=6406348e1f3739049a0174a0b01346b2",
       "published_at": "2026-07-06T01:19:00Z",
       "summary": "榨榨榨榨榨干算力"
-    },
-    {
-      "id": "58abc61d8df74f35fbd5821c1e478eb1c6c0f972",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "我的网站被攻击了48个小时，Claude Fable 5替我防下了这一切。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684065&idx=1&sn=f6a7e4e0f14161594677c6c8768c0f11",
-      "published_at": "2026-07-06T00:07:00Z",
-      "summary": "最戏剧性的周末"
-    },
-    {
-      "id": "8ab224a1f8d93ee790d9b8f9a53d2fab762dcc4e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "published_at": "2026-07-06T00:00:00Z",
-      "summary": "A global workspace in language models"
     }
   ]
 }
