@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T05:30:00.977487Z",
+  "generated_at": "2026-07-07T08:50:34.409920Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 16,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 304,
+      "duration_ms": 413,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 30,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1834,
+      "duration_ms": 1660,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1350,
+      "duration_ms": 1235,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 703,
+      "duration_ms": 707,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1064,
+      "duration_ms": 951,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 659,
+      "duration_ms": 623,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 17,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2332,
+      "duration_ms": 2450,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 863,
+      "duration_ms": 300,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,57 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "92af2c3fbc79b0caecfd0a7fc53b6b8cda8f43a9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "临时打包一个 skill，明天发给大家用吧。",
+          "url": "https://x.com/op7418/status/2074399847466340772",
+          "published_at": "2026-07-07T07:47:18Z",
+          "summary": "临时打包一个 skill，明天发给大家用吧。歸藏(guizang.ai)@op7418看来大家对我用 Codex 生成的这几张插图的风格也很感兴趣。🔗 View Quoted Tweet💬2🔄0❤️4👀899📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5ace4bde646b038b7e9bb7c2a3c091d1a6e21192",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "用 Nano Banana 2 超分了一下",
+          "url": "https://x.com/op7418/status/2074367201227006368",
+          "published_at": "2026-07-07T05:37:35Z",
+          "summary": "用 Nano Banana 2 超分了一下💬0🔄0❤️8👀1787📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b2a5ad6801de970a877d61553519d26e52ec248f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "看来大家对我用 Codex 生成的这几张插图的风格也很感兴趣。",
+          "url": "https://x.com/op7418/status/2074366176592056358",
+          "published_at": "2026-07-07T05:33:31Z",
+          "summary": "看来大家对我用 Codex 生成的这几张插图的风格也很感兴趣。歸藏(guizang.ai)@op7418Claude 官方写了一篇关于 Loop Engineer 的入门文章。 其实现在我们所说的 Loop Engineer，所有的底层逻辑在提出这个概念以前就已经具备了，甚至这些工作流程也是大家一直在用的，只是被套上了一个新的概念。 在这篇文章中，他们把 Loop 分成了四种类型： 回合制循环（Single-turn Loop） 这是最基本的 Claude Code 工作方式。你发出的每一个提示词（Prompt）都是一个循环，在这个循环中你不需要额外干预…"
+        },
+        {
+          "id": "213cccaca997acb27fc8d91e80907cbdeef203c0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Claude 官方写了一篇关于 Loop Engineer 的入门文章。\n\n其实现在我们所说的 Loop Engineer，所有的底层逻辑在提出这个概念以前就已经具备了，甚至这些工作流程也是大家一直在...",
+          "url": "https://x.com/op7418/status/2074364045294293191",
+          "published_at": "2026-07-07T05:25:02Z",
+          "summary": "Claude 官方写了一篇关于 Loop Engineer 的入门文章。 其实现在我们所说的 Loop Engineer，所有的底层逻辑在提出这个概念以前就已经具备了，甚至这些工作流程也是大家一直在用的，只是被套上了一个新的概念。 在这篇文章中，他们把 Loop 分成了四种类型： 回合制循环（Single-turn Loop） 这是最基本的 Claude Code 工作方式。你发出的每一个提示词（Prompt）都是一个循环，在这个循环中你不需要额外干预。Claude Code 完成这个循环后会给你输出，它的具体步骤是：收集上下文、采取行动、检查工作、重复…"
+        },
         {
           "id": "78853ca163600161cd2bc58e897341b40400f880",
           "site_id": "featuredrss",
@@ -200,7 +244,7 @@
           "title": "刚发现藏师傅的 PPT Skills 居然两万 star 了，太猛了！",
           "url": "https://x.com/op7418/status/2074338041167335437",
           "published_at": "2026-07-07T03:41:43Z",
-          "summary": "刚发现藏师傅的 PPT Skills 居然两万 star 了，太猛了！歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬9🔄3❤️35👀5552📊12⚡ Powered by xgo.ing"
+          "summary": "刚发现藏师傅的 PPT Skills 居然两万 star 了，太猛了！歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬14🔄5❤️50👀10478📊19⚡ Powered by xgo.ing"
         },
         {
           "id": "efc70458c04bf41b847c9720e8608915b77cd50e",
@@ -211,7 +255,7 @@
           "title": "找 WorkBuddy 调整了一下名字\n\n藏师傅的 PPT Skill 现在在 Workbuddy 里面就叫“guizang-PPT-Skill”哈",
           "url": "https://x.com/op7418/status/2074334667566956754",
           "published_at": "2026-07-07T03:28:18Z",
-          "summary": "找 WorkBuddy 调整了一下名字 藏师傅的 PPT Skill 现在在 Workbuddy 里面就叫“guizang-PPT-Skill”哈💬3🔄1❤️9👀3108📊4⚡ Powered by xgo.ing"
+          "summary": "找 WorkBuddy 调整了一下名字 藏师傅的 PPT Skill 现在在 Workbuddy 里面就叫“guizang-PPT-Skill”哈💬3🔄1❤️16👀5551📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "b9332ef052455b3c92220ef178255f90c63a9b91",
@@ -222,7 +266,7 @@
           "title": "藏师傅这里还有些好东西没发，预告一下",
           "url": "https://x.com/op7418/status/2074322929706500196",
           "published_at": "2026-07-07T02:41:40Z",
-          "summary": "藏师傅这里还有些好东西没发，预告一下💬11🔄0❤️17👀4021📊11⚡ Powered by xgo.ing"
+          "summary": "藏师傅这里还有些好东西没发，预告一下💬14🔄0❤️25👀5356📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "8c67a0fec8843cfa35f5219d95fe330baeeb3a97",
@@ -244,7 +288,7 @@
           "title": "Anthropic 昨天晚上发布这个新研究上用的这个演示视频真漂亮啊\n\n尤其是这个画面跟 ASC 2 字符动画的配合和转换",
           "url": "https://x.com/op7418/status/2074309835542397411",
           "published_at": "2026-07-07T01:49:38Z",
-          "summary": "Anthropic 昨天晚上发布这个新研究上用的这个演示视频真漂亮啊 尤其是这个画面跟 ASC 2 字符动画的配合和转换Your browser does not support the video tag.🔗 View on Twitter💬6🔄4❤️46👀10438📊15⚡ Powered by xgo.ing"
+          "summary": "Anthropic 昨天晚上发布这个新研究上用的这个演示视频真漂亮啊 尤其是这个画面跟 ASC 2 字符动画的配合和转换Your browser does not support the video tag.🔗 View on Twitter💬8🔄6❤️71👀16564📊22⚡ Powered by xgo.ing"
         },
         {
           "id": "dc2d5ad9efac99550e3002ada734aa1cad4a7582",
@@ -255,7 +299,7 @@
           "title": "Workbuddy 海外版上了？",
           "url": "https://x.com/op7418/status/2074112539630412227",
           "published_at": "2026-07-06T12:45:39Z",
-          "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬13🔄0❤️24👀14937📊11⚡ Powered by xgo.…"
+          "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬13🔄0❤️26👀16168📊11⚡ Powered by xgo.…"
         }
       ]
     },
@@ -278,7 +322,7 @@
           "title": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays:\n1) Open https...",
           "url": "https://x.com/GeminiApp/status/2074280701948829829",
           "published_at": "2026-07-06T23:53:52Z",
-          "summary": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays: 1) Open gemini.google or the app 2) Tap “Spark” in the side menu 3) Insert the following prompt: “Email me a match summary and analysis after each [INSERT TEAM] soccer match.”💬4🔄7❤️40👀10396📊10⚡…"
+          "summary": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays: 1) Open gemini.google or the app 2) Tap “Spark” in the side menu 3) Insert the following prompt: “Email me a match summary and analysis after each [INSERT TEAM] soccer match.”💬4🔄9❤️58👀13179📊13⚡…"
         },
         {
           "id": "f53695ceea4137d35c03434c97d5698e45c697e0",
@@ -289,7 +333,7 @@
           "title": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our tea...",
           "url": "https://x.com/GeminiApp/status/2074280703504826643",
           "published_at": "2026-07-06T23:53:52Z",
-          "summary": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our team is working hard to bring Gemini Spark to more countries later this month. Learn more about Gemini Spark here: gemini.google/overview/agent…💬9🔄7❤️46👀10364📊15⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our team is working hard to bring Gemini Spark to more countries later this month. Learn more about Gemini Spark here: gemini.google/overview/agent…💬14🔄8❤️63👀13122📊21⚡ Powered by xgo.ing"
         },
         {
           "id": "efe050854f4e63ea047d393e0fa636d2eb0e57ca",
@@ -300,7 +344,7 @@
           "title": "Gemini Spark can now intelligently track topics and react to events in real time. \n\nTry the prompt i...",
           "url": "https://x.com/GeminiApp/status/2074280473581572600",
           "published_at": "2026-07-06T23:52:57Z",
-          "summary": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt in the next post to get tailored game analyses emailed to you after your favorite team plays:💬29🔄51❤️527👀46715📊103⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt in the next post to get tailored game analyses emailed to you after your favorite team plays:💬35🔄64❤️716👀62081📊134⚡ Powered by xgo.ing"
         },
         {
           "id": "9d1b49b5165ad811845179b1052107a85999e7e2",
@@ -333,12 +377,56 @@
           "title": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or ad...",
           "url": "https://x.com/GeminiApp/status/2074187212674269560",
           "published_at": "2026-07-06T17:42:22Z",
-          "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬45🔄52❤️499👀114997📊116⚡ P…"
+          "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬48🔄57❤️558👀128426📊128⚡ P…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "92af2c3fbc79b0caecfd0a7fc53b6b8cda8f43a9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "临时打包一个 skill，明天发给大家用吧。",
+      "url": "https://x.com/op7418/status/2074399847466340772",
+      "published_at": "2026-07-07T07:47:18Z",
+      "summary": "临时打包一个 skill，明天发给大家用吧。歸藏(guizang.ai)@op7418看来大家对我用 Codex 生成的这几张插图的风格也很感兴趣。🔗 View Quoted Tweet💬2🔄0❤️4👀899📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5ace4bde646b038b7e9bb7c2a3c091d1a6e21192",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "用 Nano Banana 2 超分了一下",
+      "url": "https://x.com/op7418/status/2074367201227006368",
+      "published_at": "2026-07-07T05:37:35Z",
+      "summary": "用 Nano Banana 2 超分了一下💬0🔄0❤️8👀1787📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b2a5ad6801de970a877d61553519d26e52ec248f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "看来大家对我用 Codex 生成的这几张插图的风格也很感兴趣。",
+      "url": "https://x.com/op7418/status/2074366176592056358",
+      "published_at": "2026-07-07T05:33:31Z",
+      "summary": "看来大家对我用 Codex 生成的这几张插图的风格也很感兴趣。歸藏(guizang.ai)@op7418Claude 官方写了一篇关于 Loop Engineer 的入门文章。 其实现在我们所说的 Loop Engineer，所有的底层逻辑在提出这个概念以前就已经具备了，甚至这些工作流程也是大家一直在用的，只是被套上了一个新的概念。 在这篇文章中，他们把 Loop 分成了四种类型： 回合制循环（Single-turn Loop） 这是最基本的 Claude Code 工作方式。你发出的每一个提示词（Prompt）都是一个循环，在这个循环中你不需要额外干预…"
+    },
+    {
+      "id": "213cccaca997acb27fc8d91e80907cbdeef203c0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Claude 官方写了一篇关于 Loop Engineer 的入门文章。\n\n其实现在我们所说的 Loop Engineer，所有的底层逻辑在提出这个概念以前就已经具备了，甚至这些工作流程也是大家一直在...",
+      "url": "https://x.com/op7418/status/2074364045294293191",
+      "published_at": "2026-07-07T05:25:02Z",
+      "summary": "Claude 官方写了一篇关于 Loop Engineer 的入门文章。 其实现在我们所说的 Loop Engineer，所有的底层逻辑在提出这个概念以前就已经具备了，甚至这些工作流程也是大家一直在用的，只是被套上了一个新的概念。 在这篇文章中，他们把 Loop 分成了四种类型： 回合制循环（Single-turn Loop） 这是最基本的 Claude Code 工作方式。你发出的每一个提示词（Prompt）都是一个循环，在这个循环中你不需要额外干预。Claude Code 完成这个循环后会给你输出，它的具体步骤是：收集上下文、采取行动、检查工作、重复…"
+    },
     {
       "id": "78853ca163600161cd2bc58e897341b40400f880",
       "site_id": "featuredrss",
@@ -348,7 +436,7 @@
       "title": "刚发现藏师傅的 PPT Skills 居然两万 star 了，太猛了！",
       "url": "https://x.com/op7418/status/2074338041167335437",
       "published_at": "2026-07-07T03:41:43Z",
-      "summary": "刚发现藏师傅的 PPT Skills 居然两万 star 了，太猛了！歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬9🔄3❤️35👀5552📊12⚡ Powered by xgo.ing"
+      "summary": "刚发现藏师傅的 PPT Skills 居然两万 star 了，太猛了！歸藏(guizang.ai)@op7418x.com/i/article/2053…🔗 View Quoted Tweet💬14🔄5❤️50👀10478📊19⚡ Powered by xgo.ing"
     },
     {
       "id": "efc70458c04bf41b847c9720e8608915b77cd50e",
@@ -359,7 +447,7 @@
       "title": "找 WorkBuddy 调整了一下名字\n\n藏师傅的 PPT Skill 现在在 Workbuddy 里面就叫“guizang-PPT-Skill”哈",
       "url": "https://x.com/op7418/status/2074334667566956754",
       "published_at": "2026-07-07T03:28:18Z",
-      "summary": "找 WorkBuddy 调整了一下名字 藏师傅的 PPT Skill 现在在 Workbuddy 里面就叫“guizang-PPT-Skill”哈💬3🔄1❤️9👀3108📊4⚡ Powered by xgo.ing"
+      "summary": "找 WorkBuddy 调整了一下名字 藏师傅的 PPT Skill 现在在 Workbuddy 里面就叫“guizang-PPT-Skill”哈💬3🔄1❤️16👀5551📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "b9332ef052455b3c92220ef178255f90c63a9b91",
@@ -370,7 +458,7 @@
       "title": "藏师傅这里还有些好东西没发，预告一下",
       "url": "https://x.com/op7418/status/2074322929706500196",
       "published_at": "2026-07-07T02:41:40Z",
-      "summary": "藏师傅这里还有些好东西没发，预告一下💬11🔄0❤️17👀4021📊11⚡ Powered by xgo.ing"
+      "summary": "藏师傅这里还有些好东西没发，预告一下💬14🔄0❤️25👀5356📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "8c67a0fec8843cfa35f5219d95fe330baeeb3a97",
@@ -392,7 +480,7 @@
       "title": "Anthropic 昨天晚上发布这个新研究上用的这个演示视频真漂亮啊\n\n尤其是这个画面跟 ASC 2 字符动画的配合和转换",
       "url": "https://x.com/op7418/status/2074309835542397411",
       "published_at": "2026-07-07T01:49:38Z",
-      "summary": "Anthropic 昨天晚上发布这个新研究上用的这个演示视频真漂亮啊 尤其是这个画面跟 ASC 2 字符动画的配合和转换Your browser does not support the video tag.🔗 View on Twitter💬6🔄4❤️46👀10438📊15⚡ Powered by xgo.ing"
+      "summary": "Anthropic 昨天晚上发布这个新研究上用的这个演示视频真漂亮啊 尤其是这个画面跟 ASC 2 字符动画的配合和转换Your browser does not support the video tag.🔗 View on Twitter💬8🔄6❤️71👀16564📊22⚡ Powered by xgo.ing"
     },
     {
       "id": "e64ea81a517ca25450ac3eb970168455ebeb02d0",
@@ -403,7 +491,7 @@
       "title": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays:\n1) Open https...",
       "url": "https://x.com/GeminiApp/status/2074280701948829829",
       "published_at": "2026-07-06T23:53:52Z",
-      "summary": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays: 1) Open gemini.google or the app 2) Tap “Spark” in the side menu 3) Insert the following prompt: “Email me a match summary and analysis after each [INSERT TEAM] soccer match.”💬4🔄7❤️40👀10396📊10⚡…"
+      "summary": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays: 1) Open gemini.google or the app 2) Tap “Spark” in the side menu 3) Insert the following prompt: “Email me a match summary and analysis after each [INSERT TEAM] soccer match.”💬4🔄9❤️58👀13179📊13⚡…"
     },
     {
       "id": "f53695ceea4137d35c03434c97d5698e45c697e0",
@@ -414,7 +502,7 @@
       "title": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our tea...",
       "url": "https://x.com/GeminiApp/status/2074280703504826643",
       "published_at": "2026-07-06T23:53:52Z",
-      "summary": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our team is working hard to bring Gemini Spark to more countries later this month. Learn more about Gemini Spark here: gemini.google/overview/agent…💬9🔄7❤️46👀10364📊15⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our team is working hard to bring Gemini Spark to more countries later this month. Learn more about Gemini Spark here: gemini.google/overview/agent…💬14🔄8❤️63👀13122📊21⚡ Powered by xgo.ing"
     },
     {
       "id": "efe050854f4e63ea047d393e0fa636d2eb0e57ca",
@@ -425,7 +513,7 @@
       "title": "Gemini Spark can now intelligently track topics and react to events in real time. \n\nTry the prompt i...",
       "url": "https://x.com/GeminiApp/status/2074280473581572600",
       "published_at": "2026-07-06T23:52:57Z",
-      "summary": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt in the next post to get tailored game analyses emailed to you after your favorite team plays:💬29🔄51❤️527👀46715📊103⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt in the next post to get tailored game analyses emailed to you after your favorite team plays:💬35🔄64❤️716👀62081📊134⚡ Powered by xgo.ing"
     },
     {
       "id": "9d1b49b5165ad811845179b1052107a85999e7e2",
@@ -458,7 +546,7 @@
       "title": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or ad...",
       "url": "https://x.com/GeminiApp/status/2074187212674269560",
       "published_at": "2026-07-06T17:42:22Z",
-      "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬45🔄52❤️499👀114997📊116⚡ P…"
+      "summary": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. See how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵💬48🔄57❤️558👀128426📊128⚡ P…"
     },
     {
       "id": "dc2d5ad9efac99550e3002ada734aa1cad4a7582",
@@ -469,7 +557,7 @@
       "title": "Workbuddy 海外版上了？",
       "url": "https://x.com/op7418/status/2074112539630412227",
       "published_at": "2026-07-06T12:45:39Z",
-      "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬13🔄0❤️24👀14937📊11⚡ Powered by xgo.…"
+      "summary": "Workbuddy 海外版上了？Tencent WorkBuddy@WorkBuddy_AIWe're Top 1 Product of the Day on Product Hunt !!! Tencent WorkBuddy is an AI agent built for everyday office work — turning everyday tasks into expert-level, ready-to-use results.🔗 View Quoted Tweet💬13🔄0❤️26👀16168📊11⚡ Powered by xgo.…"
     }
   ]
 }
