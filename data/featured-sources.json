@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T06:44:04.000628Z",
+  "generated_at": "2026-07-08T09:22:21.612323Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 9,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 811,
+      "duration_ms": 787,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 26,
+      "duration_ms": 47,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1646,
+      "duration_ms": 1707,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1234,
+      "duration_ms": 1256,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 491,
+      "duration_ms": 896,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 421,
+      "duration_ms": 402,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 984,
+      "duration_ms": 843,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 42,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2593,
+      "duration_ms": 2442,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 824,
+      "duration_ms": 648,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -192,6 +192,17 @@
       ],
       "items": [
         {
+          "id": "d4233969ad647630bfb70a62cf60577674de59d3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "开源一个非常漂亮的文章配图 Skill。  \n\n昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。  \n\n发出来后大家也都很喜欢，所以顺便就把它做...",
+          "url": "https://x.com/op7418/status/2074758348264833131",
+          "published_at": "2026-07-08T07:31:52Z",
+          "summary": "开源一个非常漂亮的文章配图 Skill。 昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。 发出来后大家也都很喜欢，所以顺便就把它做成了一个配图 Skill。 目前只适配了 GPT-Image-2.0 模型。 支持将你的文档或文案发进去，生成一个干净漂亮、带标签的 3D 材质配图。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2074…🔗 View Q…"
+        },
+        {
           "id": "66d93dcbe2fdb09d3b2acc5a37874b794d98d6a8",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -200,7 +211,18 @@
           "title": "GPT-5.6 终于要来了！\n\n周四的话大概是我们这边明天半夜周五凌晨一点左右",
           "url": "https://x.com/op7418/status/2074730378666168629",
           "published_at": "2026-07-08T05:40:43Z",
-          "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬4🔄0❤️2👀1708📊3⚡ Powered by xgo.ing"
+          "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬7🔄0❤️12👀5830📊6⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1c6f0f1d5393f87a5a2174d53cf9bbf44cacc7dc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/ssMHZtUv23",
+          "url": "https://x.com/op7418/status/2074728162018152817",
+          "published_at": "2026-07-08T05:31:55Z",
+          "summary": "x.com/i/article/2074…💬17🔄33❤️185👀20363📊89⚡ Powered by xgo.ing"
         },
         {
           "id": "aef36f08746e62baadcc7d1265d85add86c5c090",
@@ -211,7 +233,7 @@
           "title": "牛逼！Claude Fable 5 延期到 7 月 12 号。\n\n代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%",
           "url": "https://x.com/op7418/status/2074558132664336666",
           "published_at": "2026-07-07T18:16:16Z",
-          "summary": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%Claude@claudeaiWe're extending access to Claude Fable 5 on all paid plans through July 12.🔗 View Quoted Tweet💬25🔄0❤️45👀25523📊20⚡ Powered by xgo.ing"
+          "summary": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%Claude@claudeaiWe're extending access to Claude Fable 5 on all paid plans through July 12.🔗 View Quoted Tweet💬26🔄0❤️46👀27019📊21⚡ Powered by xgo.ing"
         },
         {
           "id": "575c3c59f97f9d1a99b9b0a3bca6713c1ca059b8",
@@ -233,7 +255,7 @@
           "title": "可以帮你美化图表",
           "url": "https://x.com/op7418/status/2074443584829522153",
           "published_at": "2026-07-07T10:41:06Z",
-          "summary": "可以帮你美化图表💬0🔄1❤️9👀3074📊2⚡ Powered by xgo.ing"
+          "summary": "可以帮你美化图表💬0🔄1❤️9👀3212📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "01dfb2670fdd860fd256fe34c77503e800824f36",
@@ -244,29 +266,7 @@
           "title": "咱们做了就要做好。比如说，它可以帮你美化你的图表。",
           "url": "https://x.com/op7418/status/2074443487140037039",
           "published_at": "2026-07-07T10:40:43Z",
-          "summary": "咱们做了就要做好。比如说，它可以帮你美化你的图表。💬1🔄0❤️11👀3674📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "15ece9e2c3e2d9f00659d35cb8e54399656854aa",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这个配图单独整个 Skill 吧：https://t.co/7YtgtoE9Zy",
-          "url": "https://x.com/op7418/status/2074418123617554650",
-          "published_at": "2026-07-07T08:59:56Z",
-          "summary": "这个配图单独整个 Skill 吧：x.com/op7418/status/…歸藏(guizang.ai)@op7418临时打包一个 skill，明天发给大家用吧。🔗 View Quoted Tweet💬1🔄0❤️8👀6698📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "92af2c3fbc79b0caecfd0a7fc53b6b8cda8f43a9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "临时打包一个 skill，明天发给大家用吧。",
-          "url": "https://x.com/op7418/status/2074399847466340772",
-          "published_at": "2026-07-07T07:47:18Z",
-          "summary": "临时打包一个 skill，明天发给大家用吧。💬11🔄0❤️34👀16494📊15⚡ Powered by xgo.ing"
+          "summary": "咱们做了就要做好。比如说，它可以帮你美化你的图表。💬1🔄0❤️11👀3858📊3⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -289,7 +289,7 @@
           "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview...",
           "url": "https://x.com/OpenAI/status/2074704958419792299",
           "published_at": "2026-07-08T03:59:42Z",
-          "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬1314🔄3865❤️22722👀1873885📊4277⚡ Powered by xgo.ing"
+          "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬1671🔄4869❤️30363👀3048438📊5542⚡ Powered by xgo.ing"
         },
         {
           "id": "96740b8c5ac4dce1bfbd32f0c70e3c96a2fa3c99",
@@ -307,6 +307,17 @@
   },
   "items": [
     {
+      "id": "d4233969ad647630bfb70a62cf60577674de59d3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "开源一个非常漂亮的文章配图 Skill。  \n\n昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。  \n\n发出来后大家也都很喜欢，所以顺便就把它做...",
+      "url": "https://x.com/op7418/status/2074758348264833131",
+      "published_at": "2026-07-08T07:31:52Z",
+      "summary": "开源一个非常漂亮的文章配图 Skill。 昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。 发出来后大家也都很喜欢，所以顺便就把它做成了一个配图 Skill。 目前只适配了 GPT-Image-2.0 模型。 支持将你的文档或文案发进去，生成一个干净漂亮、带标签的 3D 材质配图。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2074…🔗 View Q…"
+    },
+    {
       "id": "66d93dcbe2fdb09d3b2acc5a37874b794d98d6a8",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -315,7 +326,18 @@
       "title": "GPT-5.6 终于要来了！\n\n周四的话大概是我们这边明天半夜周五凌晨一点左右",
       "url": "https://x.com/op7418/status/2074730378666168629",
       "published_at": "2026-07-08T05:40:43Z",
-      "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬4🔄0❤️2👀1708📊3⚡ Powered by xgo.ing"
+      "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬7🔄0❤️12👀5830📊6⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1c6f0f1d5393f87a5a2174d53cf9bbf44cacc7dc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/ssMHZtUv23",
+      "url": "https://x.com/op7418/status/2074728162018152817",
+      "published_at": "2026-07-08T05:31:55Z",
+      "summary": "x.com/i/article/2074…💬17🔄33❤️185👀20363📊89⚡ Powered by xgo.ing"
     },
     {
       "id": "b861a44d9672a658830984b632edf924a8cdd757",
@@ -326,7 +348,7 @@
       "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview...",
       "url": "https://x.com/OpenAI/status/2074704958419792299",
       "published_at": "2026-07-08T03:59:42Z",
-      "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬1314🔄3865❤️22722👀1873885📊4277⚡ Powered by xgo.ing"
+      "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬1671🔄4869❤️30363👀3048438📊5542⚡ Powered by xgo.ing"
     },
     {
       "id": "aef36f08746e62baadcc7d1265d85add86c5c090",
@@ -337,7 +359,7 @@
       "title": "牛逼！Claude Fable 5 延期到 7 月 12 号。\n\n代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%",
       "url": "https://x.com/op7418/status/2074558132664336666",
       "published_at": "2026-07-07T18:16:16Z",
-      "summary": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%Claude@claudeaiWe're extending access to Claude Fable 5 on all paid plans through July 12.🔗 View Quoted Tweet💬25🔄0❤️45👀25523📊20⚡ Powered by xgo.ing"
+      "summary": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%Claude@claudeaiWe're extending access to Claude Fable 5 on all paid plans through July 12.🔗 View Quoted Tweet💬26🔄0❤️46👀27019📊21⚡ Powered by xgo.ing"
     },
     {
       "id": "96740b8c5ac4dce1bfbd32f0c70e3c96a2fa3c99",
@@ -370,7 +392,7 @@
       "title": "可以帮你美化图表",
       "url": "https://x.com/op7418/status/2074443584829522153",
       "published_at": "2026-07-07T10:41:06Z",
-      "summary": "可以帮你美化图表💬0🔄1❤️9👀3074📊2⚡ Powered by xgo.ing"
+      "summary": "可以帮你美化图表💬0🔄1❤️9👀3212📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "01dfb2670fdd860fd256fe34c77503e800824f36",
@@ -381,29 +403,7 @@
       "title": "咱们做了就要做好。比如说，它可以帮你美化你的图表。",
       "url": "https://x.com/op7418/status/2074443487140037039",
       "published_at": "2026-07-07T10:40:43Z",
-      "summary": "咱们做了就要做好。比如说，它可以帮你美化你的图表。💬1🔄0❤️11👀3674📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "15ece9e2c3e2d9f00659d35cb8e54399656854aa",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这个配图单独整个 Skill 吧：https://t.co/7YtgtoE9Zy",
-      "url": "https://x.com/op7418/status/2074418123617554650",
-      "published_at": "2026-07-07T08:59:56Z",
-      "summary": "这个配图单独整个 Skill 吧：x.com/op7418/status/…歸藏(guizang.ai)@op7418临时打包一个 skill，明天发给大家用吧。🔗 View Quoted Tweet💬1🔄0❤️8👀6698📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "92af2c3fbc79b0caecfd0a7fc53b6b8cda8f43a9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "临时打包一个 skill，明天发给大家用吧。",
-      "url": "https://x.com/op7418/status/2074399847466340772",
-      "published_at": "2026-07-07T07:47:18Z",
-      "summary": "临时打包一个 skill，明天发给大家用吧。💬11🔄0❤️34👀16494📊15⚡ Powered by xgo.ing"
+      "summary": "咱们做了就要做好。比如说，它可以帮你美化你的图表。💬1🔄0❤️11👀3858📊3⚡ Powered by xgo.ing"
     }
   ]
 }
