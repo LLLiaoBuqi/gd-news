@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T09:22:21.612323Z",
+  "generated_at": "2026-07-08T11:21:10.537476Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 787,
+      "duration_ms": 563,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 47,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1707,
+      "duration_ms": 1667,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1256,
+      "duration_ms": 1189,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 896,
+      "duration_ms": 696,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 402,
+      "duration_ms": 1051,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 843,
+      "duration_ms": 905,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 42,
+      "duration_ms": 21,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2442,
+      "duration_ms": 2467,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 648,
+      "duration_ms": 409,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "92df82bb31c642b74a9a2e518a79c4f4e16c875a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "今天录视频的板书很有意思。以前都是我自己在 Figma Jam 里面去搭大纲，然后去讲。\n\n今天这个是让 Codex 连接了 Figma MCP 以后，基于我的宣传文章自动给我生成的录视频用板书。\n\n...",
+          "url": "https://x.com/op7418/status/2074800241178808456",
+          "published_at": "2026-07-08T10:18:20Z",
+          "summary": "今天录视频的板书很有意思。以前都是我自己在 Figma Jam 里面去搭大纲，然后去讲。 今天这个是让 Codex 连接了 Figma MCP 以后，基于我的宣传文章自动给我生成的录视频用板书。 它把内容精简了，把需要展示的案例图片都放了进去，我稍微调整一下就可以开始讲了，这个方便了非常多。歸藏(guizang.ai)@op7418开源一个非常漂亮的文章配图 Skill。 昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。 发出来后大家也都很喜欢，所以顺便就把它做成了一个配图 Skill。 目前只适配…"
+        },
+        {
+          "id": "328440ef5832d31574afc66b699d023f4b216fda",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "详情：https://t.co/ZwfqBa5bwr",
+          "url": "https://x.com/op7418/status/2074797902036427217",
+          "published_at": "2026-07-08T10:09:02Z",
+          "summary": "详情：github.com/op7418/guizang…💬0🔄0❤️2👀1069📊1⚡ Powered by xgo.ing"
+        },
         {
           "id": "d4233969ad647630bfb70a62cf60577674de59d3",
           "site_id": "featuredrss",
@@ -211,7 +233,7 @@
           "title": "GPT-5.6 终于要来了！\n\n周四的话大概是我们这边明天半夜周五凌晨一点左右",
           "url": "https://x.com/op7418/status/2074730378666168629",
           "published_at": "2026-07-08T05:40:43Z",
-          "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬7🔄0❤️12👀5830📊6⚡ Powered by xgo.ing"
+          "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬13🔄0❤️18👀8345📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "1c6f0f1d5393f87a5a2174d53cf9bbf44cacc7dc",
@@ -222,7 +244,18 @@
           "title": "https://t.co/ssMHZtUv23",
           "url": "https://x.com/op7418/status/2074728162018152817",
           "published_at": "2026-07-08T05:31:55Z",
-          "summary": "x.com/i/article/2074…💬17🔄33❤️185👀20363📊89⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2074…💬18🔄48❤️259👀31821📊117⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "328ca31331bd71893633490dacbe1215de9db1d6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684133&idx=1&sn=0cdba19fe8e791825e3710d36b6d7c44",
+          "published_at": "2026-07-08T00:13:00Z",
+          "summary": "向内问，问到底"
         },
         {
           "id": "aef36f08746e62baadcc7d1265d85add86c5c090",
@@ -233,7 +266,7 @@
           "title": "牛逼！Claude Fable 5 延期到 7 月 12 号。\n\n代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%",
           "url": "https://x.com/op7418/status/2074558132664336666",
           "published_at": "2026-07-07T18:16:16Z",
-          "summary": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%Claude@claudeaiWe're extending access to Claude Fable 5 on all paid plans through July 12.🔗 View Quoted Tweet💬26🔄0❤️46👀27019📊21⚡ Powered by xgo.ing"
+          "summary": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%Claude@claudeaiWe're extending access to Claude Fable 5 on all paid plans through July 12.🔗 View Quoted Tweet💬28🔄0❤️47👀27909📊22⚡ Powered by xgo.ing"
         },
         {
           "id": "575c3c59f97f9d1a99b9b0a3bca6713c1ca059b8",
@@ -245,28 +278,6 @@
           "url": "https://x.com/op7418/status/2074527631559798981",
           "published_at": "2026-07-07T16:15:04Z",
           "summary": "甲木搞的一套公众号排版 Skill，厌烦了手动排版的可以看看甲木未来派@jiamu_future开源了，开源了！ 是不是受够了公众号排版？辛苦调好的样式，一粘进编辑器就掉格式？每篇还得手动全选复制、排版还千篇一律？ 我和「摸鱼小李」联名首发一套排版神器 👉 gzh-design-skill 写完 Markdown，它帮你一键排成能直接粘进公众号、且样式不掉的精致 HTML。 四大特色： 1⃣ 6 套精选厚主题：摸鱼绿 / 红白 / 石墨极简 / 留白禅意 / 摸鱼票据 / 橄榄手记 ， 每套都是自成体系的组件库，不是换配色的\"皮肤\" 2⃣ 主题生成器：现…"
-        },
-        {
-          "id": "0637524f2822efd8f5bf9befd9d93917709fa4c7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "可以帮你美化图表",
-          "url": "https://x.com/op7418/status/2074443584829522153",
-          "published_at": "2026-07-07T10:41:06Z",
-          "summary": "可以帮你美化图表💬0🔄1❤️9👀3212📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "01dfb2670fdd860fd256fe34c77503e800824f36",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "咱们做了就要做好。比如说，它可以帮你美化你的图表。",
-          "url": "https://x.com/op7418/status/2074443487140037039",
-          "published_at": "2026-07-07T10:40:43Z",
-          "summary": "咱们做了就要做好。比如说，它可以帮你美化你的图表。💬1🔄0❤️11👀3858📊3⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -289,7 +300,7 @@
           "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview...",
           "url": "https://x.com/OpenAI/status/2074704958419792299",
           "published_at": "2026-07-08T03:59:42Z",
-          "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬1671🔄4869❤️30363👀3048438📊5542⚡ Powered by xgo.ing"
+          "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬1829🔄5340❤️34279👀3808453📊6150⚡ Powered by xgo.ing"
         },
         {
           "id": "96740b8c5ac4dce1bfbd32f0c70e3c96a2fa3c99",
@@ -306,6 +317,28 @@
     }
   },
   "items": [
+    {
+      "id": "92df82bb31c642b74a9a2e518a79c4f4e16c875a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "今天录视频的板书很有意思。以前都是我自己在 Figma Jam 里面去搭大纲，然后去讲。\n\n今天这个是让 Codex 连接了 Figma MCP 以后，基于我的宣传文章自动给我生成的录视频用板书。\n\n...",
+      "url": "https://x.com/op7418/status/2074800241178808456",
+      "published_at": "2026-07-08T10:18:20Z",
+      "summary": "今天录视频的板书很有意思。以前都是我自己在 Figma Jam 里面去搭大纲，然后去讲。 今天这个是让 Codex 连接了 Figma MCP 以后，基于我的宣传文章自动给我生成的录视频用板书。 它把内容精简了，把需要展示的案例图片都放了进去，我稍微调整一下就可以开始讲了，这个方便了非常多。歸藏(guizang.ai)@op7418开源一个非常漂亮的文章配图 Skill。 昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。 发出来后大家也都很喜欢，所以顺便就把它做成了一个配图 Skill。 目前只适配…"
+    },
+    {
+      "id": "328440ef5832d31574afc66b699d023f4b216fda",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "详情：https://t.co/ZwfqBa5bwr",
+      "url": "https://x.com/op7418/status/2074797902036427217",
+      "published_at": "2026-07-08T10:09:02Z",
+      "summary": "详情：github.com/op7418/guizang…💬0🔄0❤️2👀1069📊1⚡ Powered by xgo.ing"
+    },
     {
       "id": "d4233969ad647630bfb70a62cf60577674de59d3",
       "site_id": "featuredrss",
@@ -326,7 +359,7 @@
       "title": "GPT-5.6 终于要来了！\n\n周四的话大概是我们这边明天半夜周五凌晨一点左右",
       "url": "https://x.com/op7418/status/2074730378666168629",
       "published_at": "2026-07-08T05:40:43Z",
-      "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬7🔄0❤️12👀5830📊6⚡ Powered by xgo.ing"
+      "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬13🔄0❤️18👀8345📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "1c6f0f1d5393f87a5a2174d53cf9bbf44cacc7dc",
@@ -337,7 +370,7 @@
       "title": "https://t.co/ssMHZtUv23",
       "url": "https://x.com/op7418/status/2074728162018152817",
       "published_at": "2026-07-08T05:31:55Z",
-      "summary": "x.com/i/article/2074…💬17🔄33❤️185👀20363📊89⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2074…💬18🔄48❤️259👀31821📊117⚡ Powered by xgo.ing"
     },
     {
       "id": "b861a44d9672a658830984b632edf924a8cdd757",
@@ -348,7 +381,18 @@
       "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview...",
       "url": "https://x.com/OpenAI/status/2074704958419792299",
       "published_at": "2026-07-08T03:59:42Z",
-      "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬1671🔄4869❤️30363👀3048438📊5542⚡ Powered by xgo.ing"
+      "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬1829🔄5340❤️34279👀3808453📊6150⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "328ca31331bd71893633490dacbe1215de9db1d6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684133&idx=1&sn=0cdba19fe8e791825e3710d36b6d7c44",
+      "published_at": "2026-07-08T00:13:00Z",
+      "summary": "向内问，问到底"
     },
     {
       "id": "aef36f08746e62baadcc7d1265d85add86c5c090",
@@ -359,7 +403,7 @@
       "title": "牛逼！Claude Fable 5 延期到 7 月 12 号。\n\n代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%",
       "url": "https://x.com/op7418/status/2074558132664336666",
       "published_at": "2026-07-07T18:16:16Z",
-      "summary": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%Claude@claudeaiWe're extending access to Claude Fable 5 on all paid plans through July 12.🔗 View Quoted Tweet💬26🔄0❤️46👀27019📊21⚡ Powered by xgo.ing"
+      "summary": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50%Claude@claudeaiWe're extending access to Claude Fable 5 on all paid plans through July 12.🔗 View Quoted Tweet💬28🔄0❤️47👀27909📊22⚡ Powered by xgo.ing"
     },
     {
       "id": "96740b8c5ac4dce1bfbd32f0c70e3c96a2fa3c99",
@@ -382,28 +426,6 @@
       "url": "https://x.com/op7418/status/2074527631559798981",
       "published_at": "2026-07-07T16:15:04Z",
       "summary": "甲木搞的一套公众号排版 Skill，厌烦了手动排版的可以看看甲木未来派@jiamu_future开源了，开源了！ 是不是受够了公众号排版？辛苦调好的样式，一粘进编辑器就掉格式？每篇还得手动全选复制、排版还千篇一律？ 我和「摸鱼小李」联名首发一套排版神器 👉 gzh-design-skill 写完 Markdown，它帮你一键排成能直接粘进公众号、且样式不掉的精致 HTML。 四大特色： 1⃣ 6 套精选厚主题：摸鱼绿 / 红白 / 石墨极简 / 留白禅意 / 摸鱼票据 / 橄榄手记 ， 每套都是自成体系的组件库，不是换配色的\"皮肤\" 2⃣ 主题生成器：现…"
-    },
-    {
-      "id": "0637524f2822efd8f5bf9befd9d93917709fa4c7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "可以帮你美化图表",
-      "url": "https://x.com/op7418/status/2074443584829522153",
-      "published_at": "2026-07-07T10:41:06Z",
-      "summary": "可以帮你美化图表💬0🔄1❤️9👀3212📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "01dfb2670fdd860fd256fe34c77503e800824f36",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "咱们做了就要做好。比如说，它可以帮你美化你的图表。",
-      "url": "https://x.com/op7418/status/2074443487140037039",
-      "published_at": "2026-07-07T10:40:43Z",
-      "summary": "咱们做了就要做好。比如说，它可以帮你美化你的图表。💬1🔄0❤️11👀3858📊3⚡ Powered by xgo.ing"
     }
   ]
 }
