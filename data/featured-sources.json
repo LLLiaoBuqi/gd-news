@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T11:08:49.744474Z",
+  "generated_at": "2026-07-09T14:02:17.068053Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 23,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 454,
+      "duration_ms": 188,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 46,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1681,
+      "duration_ms": 1873,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1301,
+      "duration_ms": 1471,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 877,
+      "duration_ms": 965,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 894,
+      "duration_ms": 852,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 393,
+      "duration_ms": 901,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2707,
+      "duration_ms": 2532,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 655,
+      "duration_ms": 1101,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c83b6b07a8d33538d82e3bef13960bbada6742e2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。",
+          "url": "https://x.com/op7418/status/2075169890277982282",
+          "published_at": "2026-07-09T10:47:11Z",
+          "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬20🔄0❤️33👀13536📊19⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "48b7dd3a94703a7f47f05b124a0952b66bb9dc08",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。https://t.co/yjr87OqXTt",
+          "url": "https://x.com/op7418/status/2075169093595132024",
+          "published_at": "2026-07-09T10:44:01Z",
+          "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀2542📊1⚡ Powered by xgo.ing"
+        },
         {
           "id": "d24c43c674934137e7202fa3949b22cb98c7c214",
           "site_id": "featuredrss",
@@ -203,6 +225,17 @@
           "summary": "GPT 5.6 已经提前在日区的 ChatGPT 和 Codex 客户端中上线！ 神奇，这次日本居然是全球首发！💬4🔄0❤️3👀1145📊4⚡ Powered by xgo.ing"
         },
         {
+          "id": "6624164e08bfcba240ddc2e7b8627cae602f6c62",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "可算找到一个能统一管理所有Agent还不用额外订阅的开源项目了！",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508287&idx=1&sn=ebcc79423c3d2d19ebad6777c8aabee8",
+          "published_at": "2026-07-09T04:03:00Z",
+          "summary": "谁说没有原生态的Agent OS的"
+        },
+        {
           "id": "9a26bca3179767f36f7b8628ba4f1864603fa8f4",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -211,7 +244,7 @@
           "title": "提示词：用可爱的风格解释大语言模型是如何训练的。",
           "url": "https://x.com/op7418/status/2074869273701593220",
           "published_at": "2026-07-08T14:52:38Z",
-          "summary": "提示词：用可爱的风格解释大语言模型是如何训练的。💬0🔄0❤️9👀4072📊2⚡ Powered by xgo.ing"
+          "summary": "提示词：用可爱的风格解释大语言模型是如何训练的。💬0🔄0❤️9👀4241📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "651f3f111dc1ed8c20edafe0a3e549563061e508",
@@ -222,7 +255,7 @@
           "title": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”",
           "url": "https://x.com/op7418/status/2074866690689839508",
           "published_at": "2026-07-08T14:42:22Z",
-          "summary": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”💬1🔄0❤️3👀4834📊2⚡ Powered by xgo.ing"
+          "summary": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”💬1🔄0❤️3👀5039📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "a5725a0572a1a07bc0a78cfb72b13d5de6334c89",
@@ -233,13 +266,13 @@
           "title": "Seedream 5.0 的图像模型上线了。\n\n大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。\n\n1. 一句话让它生成《黑神话：水浒传》的一个游戏截图\n2. 让他生成一张茶叶制作和...",
           "url": "https://x.com/op7418/status/2074862226905948549",
           "published_at": "2026-07-08T14:24:38Z",
-          "summary": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。💬32🔄19❤️1…"
+          "summary": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。💬33🔄20❤️1…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 15,
+      "total_items": 16,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -267,7 +300,7 @@
           "title": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from f...",
           "url": "https://x.com/OpenAI/status/2074972182640492731",
           "published_at": "2026-07-08T21:41:34Z",
-          "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬13🔄9❤️503👀136485📊52⚡ Powered by xgo.ing"
+          "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬13🔄9❤️553👀152010📊56⚡ Powered by xgo.ing"
         },
         {
           "id": "4b287bd2770b771e3f133aeddaa9d3b0521a89ec",
@@ -278,7 +311,7 @@
           "title": "As coding models improve, evals need to become harder, fairer, and more trustworthy.\n\nBetter benchma...",
           "url": "https://x.com/OpenAI/status/2074972185895342084",
           "published_at": "2026-07-08T21:41:34Z",
-          "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬13🔄13❤️484👀113054📊49⚡ Powered by xgo.ing"
+          "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬13🔄13❤️525👀125647📊52⚡ Powered by xgo.ing"
         },
         {
           "id": "3b9b7425d7ef8fdceee02d39227f6a25fb3f0b64",
@@ -377,7 +410,7 @@
           "title": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling ou...",
           "url": "https://x.com/OpenAI/status/2074907025537224840",
           "published_at": "2026-07-08T17:22:39Z",
-          "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Your browser does not support the video tag.🔗 View on Twitter💬1082🔄1872❤️20958👀4867674📊3828⚡ Powered by xg…"
+          "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Your browser does not support the video tag.🔗 View on Twitter💬1128🔄1965❤️21716👀5428861📊3989⚡ Powered by xg…"
         },
         {
           "id": "078d80f46095d43684b9c0fd46e73392c24e0bfb",
@@ -388,7 +421,7 @@
           "title": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice mo...",
           "url": "https://x.com/OpenAI/status/2074907027378511884",
           "published_at": "2026-07-08T17:22:39Z",
-          "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. openai.com/index/introduc…💬75🔄130❤️1784👀507224📊273⚡ Powered by xgo.ing"
+          "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. openai.com/index/introduc…💬77🔄134❤️1837👀549032📊281⚡ Powered by xgo.ing"
         },
         {
           "id": "35b9da18901265424c776b36ba672b0beef1ed88",
@@ -399,7 +432,18 @@
           "title": "The next generation of ChatGPT Voice is here.\n\nLivestream starts at 10am PT.\nhttps://t.co/giS4K1yNh9",
           "url": "https://x.com/OpenAI/status/2074897675343085993",
           "published_at": "2026-07-08T16:45:30Z",
-          "summary": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. openai.com/live/💬230🔄280❤️3576👀410418📊547⚡ Powered by xgo.ing"
+          "summary": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. openai.com/live/💬230🔄285❤️3673👀426593📊556⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e47abc7faff0247f8545e9123a322c6db8e314b2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic News",
+          "region": "global",
+          "title": "Introducing a way to reflect on how you use Claude",
+          "url": "https://www.anthropic.com/news/reflect-with-claude",
+          "published_at": "2026-07-08T16:00:00Z",
+          "summary": "Today we're introducing, in beta, a new way to reflect on and refine how you use Claude. In our interviews with users, a common theme that’s emerged is a desire to better understand how, exactly, can AI be integrated into daily life. How often should someone use AI? How can it be…"
         },
         {
           "id": "3cc816d4c95b31c76716ac98cdaa4da9bbc29011",
@@ -410,12 +454,34 @@
           "title": "Listen up.\n\nLivestream at 10am.",
           "url": "https://x.com/OpenAI/status/2074871151302774869",
           "published_at": "2026-07-08T15:00:06Z",
-          "summary": "Listen up. Livestream at 10am.Your browser does not support the video tag.🔗 View on Twitter💬474🔄511❤️6787👀1894580📊1151⚡ Powered by xgo.ing"
+          "summary": "Listen up. Livestream at 10am.Your browser does not support the video tag.🔗 View on Twitter💬480🔄512❤️6833👀1938667📊1159⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "c83b6b07a8d33538d82e3bef13960bbada6742e2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。",
+      "url": "https://x.com/op7418/status/2075169890277982282",
+      "published_at": "2026-07-09T10:47:11Z",
+      "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬20🔄0❤️33👀13536📊19⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "48b7dd3a94703a7f47f05b124a0952b66bb9dc08",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。https://t.co/yjr87OqXTt",
+      "url": "https://x.com/op7418/status/2075169093595132024",
+      "published_at": "2026-07-09T10:44:01Z",
+      "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀2542📊1⚡ Powered by xgo.ing"
+    },
     {
       "id": "d24c43c674934137e7202fa3949b22cb98c7c214",
       "site_id": "featuredrss",
@@ -426,6 +492,17 @@
       "url": "https://x.com/op7418/status/2075162424588788038",
       "published_at": "2026-07-09T10:17:31Z",
       "summary": "GPT 5.6 已经提前在日区的 ChatGPT 和 Codex 客户端中上线！ 神奇，这次日本居然是全球首发！💬4🔄0❤️3👀1145📊4⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "6624164e08bfcba240ddc2e7b8627cae602f6c62",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "可算找到一个能统一管理所有Agent还不用额外订阅的开源项目了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508287&idx=1&sn=ebcc79423c3d2d19ebad6777c8aabee8",
+      "published_at": "2026-07-09T04:03:00Z",
+      "summary": "谁说没有原生态的Agent OS的"
     },
     {
       "id": "967dc59b55b934fcb252e173fc98b93db739aa3e",
@@ -447,7 +524,7 @@
       "title": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from f...",
       "url": "https://x.com/OpenAI/status/2074972182640492731",
       "published_at": "2026-07-08T21:41:34Z",
-      "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬13🔄9❤️503👀136485📊52⚡ Powered by xgo.ing"
+      "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬13🔄9❤️553👀152010📊56⚡ Powered by xgo.ing"
     },
     {
       "id": "4b287bd2770b771e3f133aeddaa9d3b0521a89ec",
@@ -458,7 +535,7 @@
       "title": "As coding models improve, evals need to become harder, fairer, and more trustworthy.\n\nBetter benchma...",
       "url": "https://x.com/OpenAI/status/2074972185895342084",
       "published_at": "2026-07-08T21:41:34Z",
-      "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬13🔄13❤️484👀113054📊49⚡ Powered by xgo.ing"
+      "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬13🔄13❤️525👀125647📊52⚡ Powered by xgo.ing"
     },
     {
       "id": "3b9b7425d7ef8fdceee02d39227f6a25fb3f0b64",
@@ -557,7 +634,7 @@
       "title": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling ou...",
       "url": "https://x.com/OpenAI/status/2074907025537224840",
       "published_at": "2026-07-08T17:22:39Z",
-      "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Your browser does not support the video tag.🔗 View on Twitter💬1082🔄1872❤️20958👀4867674📊3828⚡ Powered by xg…"
+      "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Your browser does not support the video tag.🔗 View on Twitter💬1128🔄1965❤️21716👀5428861📊3989⚡ Powered by xg…"
     },
     {
       "id": "078d80f46095d43684b9c0fd46e73392c24e0bfb",
@@ -568,7 +645,7 @@
       "title": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice mo...",
       "url": "https://x.com/OpenAI/status/2074907027378511884",
       "published_at": "2026-07-08T17:22:39Z",
-      "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. openai.com/index/introduc…💬75🔄130❤️1784👀507224📊273⚡ Powered by xgo.ing"
+      "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. openai.com/index/introduc…💬77🔄134❤️1837👀549032📊281⚡ Powered by xgo.ing"
     },
     {
       "id": "35b9da18901265424c776b36ba672b0beef1ed88",
@@ -579,7 +656,18 @@
       "title": "The next generation of ChatGPT Voice is here.\n\nLivestream starts at 10am PT.\nhttps://t.co/giS4K1yNh9",
       "url": "https://x.com/OpenAI/status/2074897675343085993",
       "published_at": "2026-07-08T16:45:30Z",
-      "summary": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. openai.com/live/💬230🔄280❤️3576👀410418📊547⚡ Powered by xgo.ing"
+      "summary": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. openai.com/live/💬230🔄285❤️3673👀426593📊556⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e47abc7faff0247f8545e9123a322c6db8e314b2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic News",
+      "region": "global",
+      "title": "Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "published_at": "2026-07-08T16:00:00Z",
+      "summary": "Today we're introducing, in beta, a new way to reflect on and refine how you use Claude. In our interviews with users, a common theme that’s emerged is a desire to better understand how, exactly, can AI be integrated into daily life. How often should someone use AI? How can it be…"
     },
     {
       "id": "3cc816d4c95b31c76716ac98cdaa4da9bbc29011",
@@ -590,7 +678,7 @@
       "title": "Listen up.\n\nLivestream at 10am.",
       "url": "https://x.com/OpenAI/status/2074871151302774869",
       "published_at": "2026-07-08T15:00:06Z",
-      "summary": "Listen up. Livestream at 10am.Your browser does not support the video tag.🔗 View on Twitter💬474🔄511❤️6787👀1894580📊1151⚡ Powered by xgo.ing"
+      "summary": "Listen up. Livestream at 10am.Your browser does not support the video tag.🔗 View on Twitter💬480🔄512❤️6833👀1938667📊1159⚡ Powered by xgo.ing"
     },
     {
       "id": "9a26bca3179767f36f7b8628ba4f1864603fa8f4",
@@ -601,7 +689,7 @@
       "title": "提示词：用可爱的风格解释大语言模型是如何训练的。",
       "url": "https://x.com/op7418/status/2074869273701593220",
       "published_at": "2026-07-08T14:52:38Z",
-      "summary": "提示词：用可爱的风格解释大语言模型是如何训练的。💬0🔄0❤️9👀4072📊2⚡ Powered by xgo.ing"
+      "summary": "提示词：用可爱的风格解释大语言模型是如何训练的。💬0🔄0❤️9👀4241📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "651f3f111dc1ed8c20edafe0a3e549563061e508",
@@ -612,7 +700,7 @@
       "title": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”",
       "url": "https://x.com/op7418/status/2074866690689839508",
       "published_at": "2026-07-08T14:42:22Z",
-      "summary": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”💬1🔄0❤️3👀4834📊2⚡ Powered by xgo.ing"
+      "summary": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”💬1🔄0❤️3👀5039📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "a5725a0572a1a07bc0a78cfb72b13d5de6334c89",
@@ -623,7 +711,7 @@
       "title": "Seedream 5.0 的图像模型上线了。\n\n大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。\n\n1. 一句话让它生成《黑神话：水浒传》的一个游戏截图\n2. 让他生成一张茶叶制作和...",
       "url": "https://x.com/op7418/status/2074862226905948549",
       "published_at": "2026-07-08T14:24:38Z",
-      "summary": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。💬32🔄19❤️1…"
+      "summary": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。💬33🔄20❤️1…"
     }
   ]
 }
