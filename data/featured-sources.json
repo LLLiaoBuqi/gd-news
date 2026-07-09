@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T18:52:06.897944Z",
+  "generated_at": "2026-07-09T20:42:58.349160Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 22,
+  "total_items": 25,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 592,
+      "duration_ms": 166,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 53,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1821,
+      "duration_ms": 5991,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1442,
+      "duration_ms": 1549,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 724,
+      "duration_ms": 1046,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 426,
+      "duration_ms": 670,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 907,
+      "duration_ms": 1078,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2565,
+      "duration_ms": 2599,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 639,
+      "duration_ms": 732,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。",
           "url": "https://x.com/op7418/status/2075169890277982282",
           "published_at": "2026-07-09T10:47:11Z",
-          "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬33🔄0❤️47👀21359📊31⚡ Powered by xgo.ing"
+          "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬33🔄0❤️47👀21782📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "48b7dd3a94703a7f47f05b124a0952b66bb9dc08",
@@ -211,7 +211,7 @@
           "title": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。https://t.co/yjr87OqXTt",
           "url": "https://x.com/op7418/status/2075169093595132024",
           "published_at": "2026-07-09T10:44:01Z",
-          "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀4193📊1⚡ Powered by xgo.ing"
+          "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀4267📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "d24c43c674934137e7202fa3949b22cb98c7c214",
@@ -239,7 +239,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 18,
+      "total_items": 21,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -247,6 +247,39 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "d2c6aa64886d0f8d5ee777f04b77f03f5a785485",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Meet the Wishingrads.\n\nA family running a cereal business from their dining room with GPT-5.6.",
+          "url": "https://x.com/OpenAI/status/2075310022121472399",
+          "published_at": "2026-07-09T20:04:01Z",
+          "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬3🔄2❤️83👀18003📊12⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "9d22f205aba525371ad744986db4d6ed8808b991",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Meet Hiroki (@tomiyasu16).\n\nA broccoli farmer running his farm with GPT-5.6.",
+          "url": "https://x.com/OpenAI/status/2075310019185389913",
+          "published_at": "2026-07-09T20:04:00Z",
+          "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬66🔄42❤️570👀68598📊117⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "cd1c87fe6ce45c6123c212943535774512bd603a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Meet Bartosz (@nasqret).\n\nA mathematician solving previously unsolvable math problems with GPT-5.6",
+          "url": "https://x.com/OpenAI/status/2075310020653351324",
+          "published_at": "2026-07-09T20:04:00Z",
+          "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬6🔄6❤️149👀21692📊20⚡ Powered by xgo.ing"
+        },
         {
           "id": "5f387e91d8ee1a0cbc766d0178dc3bd83d3efb62",
           "site_id": "featuredrss",
@@ -311,7 +344,7 @@
           "title": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works bette...",
           "url": "https://x.com/OpenAI/status/2075271432041545782",
           "published_at": "2026-07-09T17:30:40Z",
-          "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬5🔄21❤️299👀63991📊35⚡ Powered…"
+          "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬6🔄26❤️427👀95036📊48⚡ Powered…"
         },
         {
           "id": "0a0a23576d48ea36be7b7965991c2c7f05c40ff0",
@@ -322,7 +355,7 @@
           "title": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, ...",
           "url": "https://x.com/OpenAI/status/2075271421149020426",
           "published_at": "2026-07-09T17:30:38Z",
-          "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬323🔄641❤️5971👀434256📊986⚡ Powered by xgo.ing"
+          "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬392🔄779❤️7547👀721100📊1228⚡ Powered by xgo.ing"
         },
         {
           "id": "0d4d2041ea9e7156da315d0d916a4111d106eeeb",
@@ -344,7 +377,7 @@
           "title": "It all comes together in 10 minutes.\n\nhttps://t.co/EOvjGJsf0R",
           "url": "https://x.com/OpenAI/status/2075261330995790037",
           "published_at": "2026-07-09T16:50:32Z",
-          "summary": "It all comes together in 10 minutes. openai.com/live💬235🔄191❤️2002👀327811📊402⚡ Powered by xgo.ing"
+          "summary": "It all comes together in 10 minutes. openai.com/live💬241🔄198❤️2184👀382585📊423⚡ Powered by xgo.ing"
         },
         {
           "id": "3305724a19fd4aca74fbca2c6dbba6e73bd1dc5b",
@@ -355,7 +388,7 @@
           "title": "Today. 10am PT.",
           "url": "https://x.com/OpenAI/status/2075254288956440848",
           "published_at": "2026-07-09T16:22:33Z",
-          "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬788🔄759❤️7977👀1105356📊1516⚡ Powered by xgo.ing"
+          "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬793🔄773❤️8256👀1310807📊1547⚡ Powered by xgo.ing"
         },
         {
           "id": "967dc59b55b934fcb252e173fc98b93db739aa3e",
@@ -377,7 +410,7 @@
           "title": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from f...",
           "url": "https://x.com/OpenAI/status/2074972182640492731",
           "published_at": "2026-07-08T21:41:34Z",
-          "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬15🔄12❤️618👀185256📊64⚡ Powered by xgo.ing"
+          "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬15🔄12❤️624👀189681📊65⚡ Powered by xgo.ing"
         },
         {
           "id": "4b287bd2770b771e3f133aeddaa9d3b0521a89ec",
@@ -388,7 +421,7 @@
           "title": "As coding models improve, evals need to become harder, fairer, and more trustworthy.\n\nBetter benchma...",
           "url": "https://x.com/OpenAI/status/2074972185895342084",
           "published_at": "2026-07-08T21:41:34Z",
-          "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬15🔄15❤️589👀151166📊59⚡ Powered by xgo.ing"
+          "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬15🔄15❤️597👀154746📊60⚡ Powered by xgo.ing"
         },
         {
           "id": "3b9b7425d7ef8fdceee02d39227f6a25fb3f0b64",
@@ -449,6 +482,39 @@
     }
   },
   "items": [
+    {
+      "id": "d2c6aa64886d0f8d5ee777f04b77f03f5a785485",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Meet the Wishingrads.\n\nA family running a cereal business from their dining room with GPT-5.6.",
+      "url": "https://x.com/OpenAI/status/2075310022121472399",
+      "published_at": "2026-07-09T20:04:01Z",
+      "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬3🔄2❤️83👀18003📊12⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "9d22f205aba525371ad744986db4d6ed8808b991",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Meet Hiroki (@tomiyasu16).\n\nA broccoli farmer running his farm with GPT-5.6.",
+      "url": "https://x.com/OpenAI/status/2075310019185389913",
+      "published_at": "2026-07-09T20:04:00Z",
+      "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬66🔄42❤️570👀68598📊117⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "cd1c87fe6ce45c6123c212943535774512bd603a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Meet Bartosz (@nasqret).\n\nA mathematician solving previously unsolvable math problems with GPT-5.6",
+      "url": "https://x.com/OpenAI/status/2075310020653351324",
+      "published_at": "2026-07-09T20:04:00Z",
+      "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬6🔄6❤️149👀21692📊20⚡ Powered by xgo.ing"
+    },
     {
       "id": "5f387e91d8ee1a0cbc766d0178dc3bd83d3efb62",
       "site_id": "featuredrss",
@@ -513,7 +579,7 @@
       "title": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works bette...",
       "url": "https://x.com/OpenAI/status/2075271432041545782",
       "published_at": "2026-07-09T17:30:40Z",
-      "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬5🔄21❤️299👀63991📊35⚡ Powered…"
+      "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬6🔄26❤️427👀95036📊48⚡ Powered…"
     },
     {
       "id": "0a0a23576d48ea36be7b7965991c2c7f05c40ff0",
@@ -524,7 +590,7 @@
       "title": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, ...",
       "url": "https://x.com/OpenAI/status/2075271421149020426",
       "published_at": "2026-07-09T17:30:38Z",
-      "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬323🔄641❤️5971👀434256📊986⚡ Powered by xgo.ing"
+      "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬392🔄779❤️7547👀721100📊1228⚡ Powered by xgo.ing"
     },
     {
       "id": "0d4d2041ea9e7156da315d0d916a4111d106eeeb",
@@ -546,7 +612,7 @@
       "title": "It all comes together in 10 minutes.\n\nhttps://t.co/EOvjGJsf0R",
       "url": "https://x.com/OpenAI/status/2075261330995790037",
       "published_at": "2026-07-09T16:50:32Z",
-      "summary": "It all comes together in 10 minutes. openai.com/live💬235🔄191❤️2002👀327811📊402⚡ Powered by xgo.ing"
+      "summary": "It all comes together in 10 minutes. openai.com/live💬241🔄198❤️2184👀382585📊423⚡ Powered by xgo.ing"
     },
     {
       "id": "3305724a19fd4aca74fbca2c6dbba6e73bd1dc5b",
@@ -557,7 +623,7 @@
       "title": "Today. 10am PT.",
       "url": "https://x.com/OpenAI/status/2075254288956440848",
       "published_at": "2026-07-09T16:22:33Z",
-      "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬788🔄759❤️7977👀1105356📊1516⚡ Powered by xgo.ing"
+      "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬793🔄773❤️8256👀1310807📊1547⚡ Powered by xgo.ing"
     },
     {
       "id": "c83b6b07a8d33538d82e3bef13960bbada6742e2",
@@ -568,7 +634,7 @@
       "title": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。",
       "url": "https://x.com/op7418/status/2075169890277982282",
       "published_at": "2026-07-09T10:47:11Z",
-      "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬33🔄0❤️47👀21359📊31⚡ Powered by xgo.ing"
+      "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬33🔄0❤️47👀21782📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "48b7dd3a94703a7f47f05b124a0952b66bb9dc08",
@@ -579,7 +645,7 @@
       "title": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。https://t.co/yjr87OqXTt",
       "url": "https://x.com/op7418/status/2075169093595132024",
       "published_at": "2026-07-09T10:44:01Z",
-      "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀4193📊1⚡ Powered by xgo.ing"
+      "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀4267📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "d24c43c674934137e7202fa3949b22cb98c7c214",
@@ -623,7 +689,7 @@
       "title": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from f...",
       "url": "https://x.com/OpenAI/status/2074972182640492731",
       "published_at": "2026-07-08T21:41:34Z",
-      "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬15🔄12❤️618👀185256📊64⚡ Powered by xgo.ing"
+      "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬15🔄12❤️624👀189681📊65⚡ Powered by xgo.ing"
     },
     {
       "id": "4b287bd2770b771e3f133aeddaa9d3b0521a89ec",
@@ -634,7 +700,7 @@
       "title": "As coding models improve, evals need to become harder, fairer, and more trustworthy.\n\nBetter benchma...",
       "url": "https://x.com/OpenAI/status/2074972185895342084",
       "published_at": "2026-07-08T21:41:34Z",
-      "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬15🔄15❤️589👀151166📊59⚡ Powered by xgo.ing"
+      "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬15🔄15❤️597👀154746📊60⚡ Powered by xgo.ing"
     },
     {
       "id": "3b9b7425d7ef8fdceee02d39227f6a25fb3f0b64",
