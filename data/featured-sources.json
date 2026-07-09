@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-07-09T00:11:14.180323Z",
+  "generated_at": "2026-07-09T04:27:43.785951Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 23,
+  "total_items": 22,
   "feed_total": 12,
-  "ok_feeds": 8,
+  "ok_feeds": 9,
   "failed_feeds": [
-    "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
     "rsshub://bilibili/user/video/385670211"
@@ -21,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 682,
+      "duration_ms": 734,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,10 +32,10 @@
       "feed_title": "Anthropic Research",
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 3041,
-      "error": "429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "ok": true,
+      "item_count": 15,
+      "duration_ms": 21,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -49,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2002,
+      "duration_ms": 1631,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -63,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1624,
+      "duration_ms": 1233,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -77,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 967,
+      "duration_ms": 935,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -91,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 610,
+      "duration_ms": 882,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -119,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 604,
+      "duration_ms": 507,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -133,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -147,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2885,
+      "duration_ms": 2624,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -175,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 865,
+      "duration_ms": 410,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -185,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,7 +200,7 @@
           "title": "提示词：用可爱的风格解释大语言模型是如何训练的。",
           "url": "https://x.com/op7418/status/2074869273701593220",
           "published_at": "2026-07-08T14:52:38Z",
-          "summary": "提示词：用可爱的风格解释大语言模型是如何训练的。💬0🔄0❤️6👀2547📊1⚡ Powered by xgo.ing"
+          "summary": "提示词：用可爱的风格解释大语言模型是如何训练的。💬0🔄0❤️9👀3470📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "651f3f111dc1ed8c20edafe0a3e549563061e508",
@@ -212,7 +211,7 @@
           "title": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”",
           "url": "https://x.com/op7418/status/2074866690689839508",
           "published_at": "2026-07-08T14:42:22Z",
-          "summary": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”💬1🔄0❤️3👀3044📊2⚡ Powered by xgo.ing"
+          "summary": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”💬1🔄0❤️3👀4117📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "a5725a0572a1a07bc0a78cfb72b13d5de6334c89",
@@ -223,7 +222,7 @@
           "title": "Seedream 5.0 的图像模型上线了。\n\n大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。\n\n1. 一句话让它生成《黑神话：水浒传》的一个游戏截图\n2. 让他生成一张茶叶制作和...",
           "url": "https://x.com/op7418/status/2074862226905948549",
           "published_at": "2026-07-08T14:24:38Z",
-          "summary": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。💬23🔄8❤️98…"
+          "summary": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。💬29🔄15❤️1…"
         },
         {
           "id": "92df82bb31c642b74a9a2e518a79c4f4e16c875a",
@@ -245,7 +244,7 @@
           "title": "详情：https://t.co/ZwfqBa5bwr",
           "url": "https://x.com/op7418/status/2074797902036427217",
           "published_at": "2026-07-08T10:09:02Z",
-          "summary": "详情：github.com/op7418/guizang…💬0🔄0❤️6👀2412📊2⚡ Powered by xgo.ing"
+          "summary": "详情：github.com/op7418/guizang…💬0🔄1❤️9👀2729📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "d4233969ad647630bfb70a62cf60577674de59d3",
@@ -267,7 +266,7 @@
           "title": "GPT-5.6 终于要来了！\n\n周四的话大概是我们这边明天半夜周五凌晨一点左右",
           "url": "https://x.com/op7418/status/2074730378666168629",
           "published_at": "2026-07-08T05:40:43Z",
-          "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬25🔄1❤️28👀12945📊19⚡ Powered by xgo.ing"
+          "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬27🔄1❤️30👀15340📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "1c6f0f1d5393f87a5a2174d53cf9bbf44cacc7dc",
@@ -278,18 +277,7 @@
           "title": "https://t.co/ssMHZtUv23",
           "url": "https://x.com/op7418/status/2074728162018152817",
           "published_at": "2026-07-08T05:31:55Z",
-          "summary": "x.com/i/article/2074…💬25🔄96❤️455👀62993📊206⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "328ca31331bd71893633490dacbe1215de9db1d6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684133&idx=1&sn=0cdba19fe8e791825e3710d36b6d7c44",
-          "published_at": "2026-07-08T00:13:00Z",
-          "summary": "向内问，问到底"
+          "summary": "x.com/i/article/2074…💬31🔄118❤️518👀75872📊238⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -297,13 +285,23 @@
       "label": "国外精选",
       "total_items": 14,
       "feed_total": 7,
-      "ok_feeds": 4,
+      "ok_feeds": 5,
       "failed_feeds": [
-        "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "967dc59b55b934fcb252e173fc98b93db739aa3e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout ...",
+          "url": "https://x.com/OpenAI/status/2075019750569378007",
+          "published_at": "2026-07-09T00:50:35Z",
+          "summary": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout is in progress. Update to the latest version of the ChatGPT app on iOS or Android to try it out.OpenAI@OpenAIIntroducing GPT-Live, a new generation of voice models for natural huma…"
+        },
         {
           "id": "553470f7c1e89f94a62431842188479fcb8c82c6",
           "site_id": "featuredrss",
@@ -313,7 +311,7 @@
           "title": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from f...",
           "url": "https://x.com/OpenAI/status/2074972182640492731",
           "published_at": "2026-07-08T21:41:34Z",
-          "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬5🔄4❤️196👀43380📊21⚡ Powered by xgo.ing"
+          "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬11🔄7❤️381👀95513📊41⚡ Powered by xgo.ing"
         },
         {
           "id": "4b287bd2770b771e3f133aeddaa9d3b0521a89ec",
@@ -324,7 +322,7 @@
           "title": "As coding models improve, evals need to become harder, fairer, and more trustworthy.\n\nBetter benchma...",
           "url": "https://x.com/OpenAI/status/2074972185895342084",
           "published_at": "2026-07-08T21:41:34Z",
-          "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬4🔄6❤️165👀34391📊17⚡ Powered by xgo.ing"
+          "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬11🔄8❤️356👀78815📊36⚡ Powered by xgo.ing"
         },
         {
           "id": "3b9b7425d7ef8fdceee02d39227f6a25fb3f0b64",
@@ -379,7 +377,7 @@
           "title": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate...",
           "url": "https://x.com/OpenAI/status/2074907033577693636",
           "published_at": "2026-07-08T17:22:41Z",
-          "summary": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.Your browser does not support the video tag.🔗 View on Twitter💬20🔄4…"
+          "summary": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.Your browser does not support the video tag.🔗 View on Twitter💬23🔄5…"
         },
         {
           "id": "90631f40f9eb4ad207f415dbb69327aae49cbcc0",
@@ -401,7 +399,7 @@
           "title": "GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.",
           "url": "https://x.com/OpenAI/status/2074907028733178359",
           "published_at": "2026-07-08T17:22:40Z",
-          "summary": "GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.Your browser does not support the video tag.🔗 View on Twitter💬33🔄74❤️1382👀114845📊172⚡ Powered by xgo.ing"
+          "summary": "GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.Your browser does not support the video tag.🔗 View on Twitter💬34🔄78❤️1475👀132591📊183⚡ Powered by xgo.ing"
         },
         {
           "id": "f63448fc760ceffdd84aee382ec8638d1c156171",
@@ -412,7 +410,7 @@
           "title": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling ou...",
           "url": "https://x.com/OpenAI/status/2074907025537224840",
           "published_at": "2026-07-08T17:22:39Z",
-          "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Your browser does not support the video tag.🔗 View on Twitter💬788🔄1359❤️15685👀2406675📊2807⚡ Powered by xgo…"
+          "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Your browser does not support the video tag.🔗 View on Twitter💬937🔄1650❤️18454👀3560839📊3350⚡ Powered by xgo…"
         },
         {
           "id": "078d80f46095d43684b9c0fd46e73392c24e0bfb",
@@ -423,7 +421,7 @@
           "title": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice mo...",
           "url": "https://x.com/OpenAI/status/2074907027378511884",
           "published_at": "2026-07-08T17:22:39Z",
-          "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. openai.com/index/introduc…💬68🔄105❤️1475👀323090📊226⚡ Powered by xgo.ing"
+          "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. openai.com/index/introduc…💬73🔄119❤️1650👀422219📊253⚡ Powered by xgo.ing"
         },
         {
           "id": "35b9da18901265424c776b36ba672b0beef1ed88",
@@ -434,7 +432,7 @@
           "title": "The next generation of ChatGPT Voice is here.\n\nLivestream starts at 10am PT.\nhttps://t.co/giS4K1yNh9",
           "url": "https://x.com/OpenAI/status/2074897675343085993",
           "published_at": "2026-07-08T16:45:30Z",
-          "summary": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. openai.com/live/💬209🔄245❤️3009👀298385📊477⚡ Powered by xgo.ing"
+          "summary": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. openai.com/live/💬223🔄269❤️3378👀363585📊524⚡ Powered by xgo.ing"
         },
         {
           "id": "3cc816d4c95b31c76716ac98cdaa4da9bbc29011",
@@ -445,23 +443,23 @@
           "title": "Listen up.\n\nLivestream at 10am.",
           "url": "https://x.com/OpenAI/status/2074871151302774869",
           "published_at": "2026-07-08T15:00:06Z",
-          "summary": "Listen up. Livestream at 10am.Your browser does not support the video tag.🔗 View on Twitter💬459🔄490❤️6474👀1521969📊1108⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b861a44d9672a658830984b632edf924a8cdd757",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview...",
-          "url": "https://x.com/OpenAI/status/2074704958419792299",
-          "published_at": "2026-07-08T03:59:42Z",
-          "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬2247🔄6424❤️44216👀6856975📊7664⚡ Powered by xgo.ing"
+          "summary": "Listen up. Livestream at 10am.Your browser does not support the video tag.🔗 View on TwitterOpenAI@OpenAIWe know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.🔗 View Quoted Tweet💬467🔄502❤️6640👀1717174📊904⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "967dc59b55b934fcb252e173fc98b93db739aa3e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout ...",
+      "url": "https://x.com/OpenAI/status/2075019750569378007",
+      "published_at": "2026-07-09T00:50:35Z",
+      "summary": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout is in progress. Update to the latest version of the ChatGPT app on iOS or Android to try it out.OpenAI@OpenAIIntroducing GPT-Live, a new generation of voice models for natural huma…"
+    },
     {
       "id": "553470f7c1e89f94a62431842188479fcb8c82c6",
       "site_id": "featuredrss",
@@ -471,7 +469,7 @@
       "title": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from f...",
       "url": "https://x.com/OpenAI/status/2074972182640492731",
       "published_at": "2026-07-08T21:41:34Z",
-      "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬5🔄4❤️196👀43380📊21⚡ Powered by xgo.ing"
+      "summary": "To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.💬11🔄7❤️381👀95513📊41⚡ Powered by xgo.ing"
     },
     {
       "id": "4b287bd2770b771e3f133aeddaa9d3b0521a89ec",
@@ -482,7 +480,7 @@
       "title": "As coding models improve, evals need to become harder, fairer, and more trustworthy.\n\nBetter benchma...",
       "url": "https://x.com/OpenAI/status/2074972185895342084",
       "published_at": "2026-07-08T21:41:34Z",
-      "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬4🔄6❤️165👀34391📊17⚡ Powered by xgo.ing"
+      "summary": "As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.💬11🔄8❤️356👀78815📊36⚡ Powered by xgo.ing"
     },
     {
       "id": "3b9b7425d7ef8fdceee02d39227f6a25fb3f0b64",
@@ -537,7 +535,7 @@
       "title": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate...",
       "url": "https://x.com/OpenAI/status/2074907033577693636",
       "published_at": "2026-07-08T17:22:41Z",
-      "summary": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.Your browser does not support the video tag.🔗 View on Twitter💬20🔄4…"
+      "summary": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.Your browser does not support the video tag.🔗 View on Twitter💬23🔄5…"
     },
     {
       "id": "90631f40f9eb4ad207f415dbb69327aae49cbcc0",
@@ -559,7 +557,7 @@
       "title": "GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.",
       "url": "https://x.com/OpenAI/status/2074907028733178359",
       "published_at": "2026-07-08T17:22:40Z",
-      "summary": "GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.Your browser does not support the video tag.🔗 View on Twitter💬33🔄74❤️1382👀114845📊172⚡ Powered by xgo.ing"
+      "summary": "GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.Your browser does not support the video tag.🔗 View on Twitter💬34🔄78❤️1475👀132591📊183⚡ Powered by xgo.ing"
     },
     {
       "id": "f63448fc760ceffdd84aee382ec8638d1c156171",
@@ -570,7 +568,7 @@
       "title": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling ou...",
       "url": "https://x.com/OpenAI/status/2074907025537224840",
       "published_at": "2026-07-08T17:22:39Z",
-      "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Your browser does not support the video tag.🔗 View on Twitter💬788🔄1359❤️15685👀2406675📊2807⚡ Powered by xgo…"
+      "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Your browser does not support the video tag.🔗 View on Twitter💬937🔄1650❤️18454👀3560839📊3350⚡ Powered by xgo…"
     },
     {
       "id": "078d80f46095d43684b9c0fd46e73392c24e0bfb",
@@ -581,7 +579,7 @@
       "title": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice mo...",
       "url": "https://x.com/OpenAI/status/2074907027378511884",
       "published_at": "2026-07-08T17:22:39Z",
-      "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. openai.com/index/introduc…💬68🔄105❤️1475👀323090📊226⚡ Powered by xgo.ing"
+      "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. openai.com/index/introduc…💬73🔄119❤️1650👀422219📊253⚡ Powered by xgo.ing"
     },
     {
       "id": "35b9da18901265424c776b36ba672b0beef1ed88",
@@ -592,7 +590,7 @@
       "title": "The next generation of ChatGPT Voice is here.\n\nLivestream starts at 10am PT.\nhttps://t.co/giS4K1yNh9",
       "url": "https://x.com/OpenAI/status/2074897675343085993",
       "published_at": "2026-07-08T16:45:30Z",
-      "summary": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. openai.com/live/💬209🔄245❤️3009👀298385📊477⚡ Powered by xgo.ing"
+      "summary": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. openai.com/live/💬223🔄269❤️3378👀363585📊524⚡ Powered by xgo.ing"
     },
     {
       "id": "3cc816d4c95b31c76716ac98cdaa4da9bbc29011",
@@ -603,7 +601,7 @@
       "title": "Listen up.\n\nLivestream at 10am.",
       "url": "https://x.com/OpenAI/status/2074871151302774869",
       "published_at": "2026-07-08T15:00:06Z",
-      "summary": "Listen up. Livestream at 10am.Your browser does not support the video tag.🔗 View on Twitter💬459🔄490❤️6474👀1521969📊1108⚡ Powered by xgo.ing"
+      "summary": "Listen up. Livestream at 10am.Your browser does not support the video tag.🔗 View on TwitterOpenAI@OpenAIWe know you’re eager for voice updates in ChatGPT. Stay tuned, we’re cooking.🔗 View Quoted Tweet💬467🔄502❤️6640👀1717174📊904⚡ Powered by xgo.ing"
     },
     {
       "id": "9a26bca3179767f36f7b8628ba4f1864603fa8f4",
@@ -614,7 +612,7 @@
       "title": "提示词：用可爱的风格解释大语言模型是如何训练的。",
       "url": "https://x.com/op7418/status/2074869273701593220",
       "published_at": "2026-07-08T14:52:38Z",
-      "summary": "提示词：用可爱的风格解释大语言模型是如何训练的。💬0🔄0❤️6👀2547📊1⚡ Powered by xgo.ing"
+      "summary": "提示词：用可爱的风格解释大语言模型是如何训练的。💬0🔄0❤️9👀3470📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "651f3f111dc1ed8c20edafe0a3e549563061e508",
@@ -625,7 +623,7 @@
       "title": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”",
       "url": "https://x.com/op7418/status/2074866690689839508",
       "published_at": "2026-07-08T14:42:22Z",
-      "summary": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”💬1🔄0❤️3👀3044📊2⚡ Powered by xgo.ing"
+      "summary": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”💬1🔄0❤️3👀4117📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "a5725a0572a1a07bc0a78cfb72b13d5de6334c89",
@@ -636,7 +634,7 @@
       "title": "Seedream 5.0 的图像模型上线了。\n\n大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。\n\n1. 一句话让它生成《黑神话：水浒传》的一个游戏截图\n2. 让他生成一张茶叶制作和...",
       "url": "https://x.com/op7418/status/2074862226905948549",
       "published_at": "2026-07-08T14:24:38Z",
-      "summary": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。💬23🔄8❤️98…"
+      "summary": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。💬29🔄15❤️1…"
     },
     {
       "id": "92df82bb31c642b74a9a2e518a79c4f4e16c875a",
@@ -658,7 +656,7 @@
       "title": "详情：https://t.co/ZwfqBa5bwr",
       "url": "https://x.com/op7418/status/2074797902036427217",
       "published_at": "2026-07-08T10:09:02Z",
-      "summary": "详情：github.com/op7418/guizang…💬0🔄0❤️6👀2412📊2⚡ Powered by xgo.ing"
+      "summary": "详情：github.com/op7418/guizang…💬0🔄1❤️9👀2729📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "d4233969ad647630bfb70a62cf60577674de59d3",
@@ -680,7 +678,7 @@
       "title": "GPT-5.6 终于要来了！\n\n周四的话大概是我们这边明天半夜周五凌晨一点左右",
       "url": "https://x.com/op7418/status/2074730378666168629",
       "published_at": "2026-07-08T05:40:43Z",
-      "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬25🔄1❤️28👀12945📊19⚡ Powered by xgo.ing"
+      "summary": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右OpenAI@OpenAIGPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.🔗 View Quoted Tweet💬27🔄1❤️30👀15340📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "1c6f0f1d5393f87a5a2174d53cf9bbf44cacc7dc",
@@ -691,29 +689,7 @@
       "title": "https://t.co/ssMHZtUv23",
       "url": "https://x.com/op7418/status/2074728162018152817",
       "published_at": "2026-07-08T05:31:55Z",
-      "summary": "x.com/i/article/2074…💬25🔄96❤️455👀62993📊206⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b861a44d9672a658830984b632edf924a8cdd757",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview...",
-      "url": "https://x.com/OpenAI/status/2074704958419792299",
-      "published_at": "2026-07-08T03:59:42Z",
-      "summary": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.💬2247🔄6424❤️44216👀6856975📊7664⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "328ca31331bd71893633490dacbe1215de9db1d6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684133&idx=1&sn=0cdba19fe8e791825e3710d36b6d7c44",
-      "published_at": "2026-07-08T00:13:00Z",
-      "summary": "向内问，问到底"
+      "summary": "x.com/i/article/2074…💬31🔄118❤️518👀75872📊238⚡ Powered by xgo.ing"
     }
   ]
 }
