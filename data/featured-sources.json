@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T23:43:44.671457Z",
+  "generated_at": "2026-07-10T02:23:10.345156Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 21,
+  "total_items": 24,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 138,
+      "duration_ms": 118,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 287,
+      "duration_ms": 143,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1850,
+      "duration_ms": 1903,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1458,
+      "duration_ms": 1502,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 851,
+      "duration_ms": 991,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 673,
+      "duration_ms": 575,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 739,
+      "duration_ms": 807,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 31,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2363,
+      "duration_ms": 2783,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1022,
+      "duration_ms": 924,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,57 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "9f79663366ec47b5b81f49e07f04fc23e590c10c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "新的这个客户端这套交互真是稀烂。\n\nClaude 分三个 Tab 是因为他没有时间去改那个原来的客户端。\n\nOpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。",
+          "url": "https://x.com/op7418/status/2075389540387455355",
+          "published_at": "2026-07-10T01:19:59Z",
+          "summary": "新的这个客户端这套交互真是稀烂。 Claude 分三个 Tab 是因为他没有时间去改那个原来的客户端。 OpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。歸藏(guizang.ai)@op7418OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名…"
+        },
+        {
+          "id": "5843eccceee7ab1e97e2eed82cfa739991ea9439",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。\n\n直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。\n\n主要是下面 Co...",
+          "url": "https://x.com/op7418/status/2075386642949689391",
+          "published_at": "2026-07-10T01:08:29Z",
+          "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬5🔄1❤️18👀5866📊6⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d91c30fcd847be70e9d38e21ab3c1d5bcfd69cc1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。\n\nGPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。\n\n现在 OpenAI ...",
+          "url": "https://x.com/op7418/status/2075383179859648669",
+          "published_at": "2026-07-10T00:54:43Z",
+          "summary": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根…"
+        },
+        {
+          "id": "cf18e5cb7fd91c9fb823729e05b106404b7f8d83",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！\n\n能够拧灯泡、拿螺丝，帮你拉拉链儿。\n\n几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食",
+          "url": "https://x.com/op7418/status/2075375991980278010",
+          "published_at": "2026-07-10T00:26:09Z",
+          "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬6🔄1❤️7👀2912📊7⚡ Powered by xgo.ing"
+        },
         {
           "id": "c83b6b07a8d33538d82e3bef13960bbada6742e2",
           "site_id": "featuredrss",
@@ -200,7 +244,7 @@
           "title": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。",
           "url": "https://x.com/op7418/status/2075169890277982282",
           "published_at": "2026-07-09T10:47:11Z",
-          "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬33🔄0❤️48👀22379📊31⚡ Powered by xgo.ing"
+          "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬33🔄0❤️49👀23229📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "48b7dd3a94703a7f47f05b124a0952b66bb9dc08",
@@ -211,7 +255,7 @@
           "title": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。https://t.co/yjr87OqXTt",
           "url": "https://x.com/op7418/status/2075169093595132024",
           "published_at": "2026-07-09T10:44:01Z",
-          "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀4372📊1⚡ Powered by xgo.ing"
+          "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀4531📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "d24c43c674934137e7202fa3949b22cb98c7c214",
@@ -239,7 +283,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 17,
+      "total_items": 16,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -267,7 +311,7 @@
           "title": "Meet the Wishingrads.\n\nA family running a cereal business from their dining room with GPT-5.6.",
           "url": "https://x.com/OpenAI/status/2075310022121472399",
           "published_at": "2026-07-09T20:04:01Z",
-          "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬3🔄8❤️212👀58756📊28⚡ Powered by xgo.ing"
+          "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬3🔄9❤️254👀71202📊32⚡ Powered by xgo.ing"
         },
         {
           "id": "9d22f205aba525371ad744986db4d6ed8808b991",
@@ -278,7 +322,7 @@
           "title": "Meet Hiroki (@tomiyasu16).\n\nA broccoli farmer running his farm with GPT-5.6.",
           "url": "https://x.com/OpenAI/status/2075310019185389913",
           "published_at": "2026-07-09T20:04:00Z",
-          "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬123🔄232❤️2551👀282174📊425⚡ Powered by xgo.ing"
+          "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬138🔄323❤️3372👀381571📊551⚡ Powered by xgo.ing"
         },
         {
           "id": "cd1c87fe6ce45c6123c212943535774512bd603a",
@@ -289,7 +333,7 @@
           "title": "Meet Bartosz (@nasqret).\n\nA mathematician solving previously unsolvable math problems with GPT-5.6",
           "url": "https://x.com/OpenAI/status/2075310020653351324",
           "published_at": "2026-07-09T20:04:00Z",
-          "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬14🔄36❤️465👀79894📊65⚡ Powered by xgo.ing"
+          "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬15🔄39❤️539👀100382📊74⚡ Powered by xgo.ing"
         },
         {
           "id": "5f387e91d8ee1a0cbc766d0178dc3bd83d3efb62",
@@ -355,7 +399,7 @@
           "title": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works bette...",
           "url": "https://x.com/OpenAI/status/2075271432041545782",
           "published_at": "2026-07-09T17:30:40Z",
-          "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬7🔄27❤️500👀118120📊56⚡ Powere…"
+          "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬7🔄31❤️527👀128119📊59⚡ Powere…"
         },
         {
           "id": "3218a9d415c3fc14a2d0f47619cce35b68f31c71",
@@ -366,7 +410,7 @@
           "title": "On the Artificial Analysis Coding Agent Index, GPT‑5.6 Sol sets a new state of the art at 80.0—2.8 p...",
           "url": "https://x.com/OpenAI/status/2075271425548795909",
           "published_at": "2026-07-09T17:30:39Z",
-          "summary": "On the Artificial Analysis Coding Agent Index, GPT‑5.6 Sol sets a new state of the art at 80.0—2.8 points above Claude Fable 5—while using less than half the output tokens, taking less than half the time, and costing about one-third less.💬13🔄40❤️675👀115823📊84⚡ Powered by xgo.ing"
+          "summary": "On the Artificial Analysis Coding Agent Index, GPT‑5.6 Sol sets a new state of the art at 80.0—2.8 points above Claude Fable 5—while using less than half the output tokens, taking less than half the time, and costing about one-third less.💬14🔄51❤️790👀152670📊99⚡ Powered by xgo.ing"
         },
         {
           "id": "0a0a23576d48ea36be7b7965991c2c7f05c40ff0",
@@ -377,7 +421,7 @@
           "title": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, ...",
           "url": "https://x.com/OpenAI/status/2075271421149020426",
           "published_at": "2026-07-09T17:30:38Z",
-          "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬445🔄985❤️8925👀1297636📊1473⚡ Powered by xgo.ing"
+          "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬476🔄1089❤️9664👀1774669📊1607⚡ Powered by xgo.ing"
         },
         {
           "id": "0d4d2041ea9e7156da315d0d916a4111d106eeeb",
@@ -388,7 +432,7 @@
           "title": "GPT-5.6 Sol sets a new standard for intelligence and efficiency, delivering state-of-the-art perform...",
           "url": "https://x.com/OpenAI/status/2075271422545703003",
           "published_at": "2026-07-09T17:30:38Z",
-          "summary": "GPT-5.6 Sol sets a new standard for intelligence and efficiency, delivering state-of-the-art performance across coding, knowledge work, cybersecurity, and science with fewer tokens and lower cost. openai.com/index/gpt-5-6/💬17🔄68❤️911👀114358📊108⚡ Powered by xgo.ing"
+          "summary": "GPT-5.6 Sol sets a new standard for intelligence and efficiency, delivering state-of-the-art performance across coding, knowledge work, cybersecurity, and science with fewer tokens and lower cost. openai.com/index/gpt-5-6/💬17🔄71❤️960👀133143📊114⚡ Powered by xgo.ing"
         },
         {
           "id": "fb5c572fd387d37ab66653a9d224ff04e25ec18a",
@@ -410,7 +454,7 @@
           "title": "It all comes together in 10 minutes.\n\nhttps://t.co/EOvjGJsf0R",
           "url": "https://x.com/OpenAI/status/2075261330995790037",
           "published_at": "2026-07-09T16:50:32Z",
-          "summary": "It all comes together in 10 minutes. openai.com/live💬242🔄202❤️2326👀425803📊439⚡ Powered by xgo.ing"
+          "summary": "It all comes together in 10 minutes. openai.com/live💬242🔄206❤️2397👀447789📊446⚡ Powered by xgo.ing"
         },
         {
           "id": "3305724a19fd4aca74fbca2c6dbba6e73bd1dc5b",
@@ -421,23 +465,56 @@
           "title": "Today. 10am PT.",
           "url": "https://x.com/OpenAI/status/2075254288956440848",
           "published_at": "2026-07-09T16:22:33Z",
-          "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬802🔄811❤️8627👀1491539📊1593⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "967dc59b55b934fcb252e173fc98b93db739aa3e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout ...",
-          "url": "https://x.com/OpenAI/status/2075019750569378007",
-          "published_at": "2026-07-09T00:50:35Z",
-          "summary": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout is in progress. Update to the latest version of the ChatGPT app on iOS or Android to try it out.OpenAI@OpenAIIntroducing GPT-Live, a new generation of voice models for natural huma…"
+          "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬809🔄822❤️8784👀1565928📊1614⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "9f79663366ec47b5b81f49e07f04fc23e590c10c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "新的这个客户端这套交互真是稀烂。\n\nClaude 分三个 Tab 是因为他没有时间去改那个原来的客户端。\n\nOpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。",
+      "url": "https://x.com/op7418/status/2075389540387455355",
+      "published_at": "2026-07-10T01:19:59Z",
+      "summary": "新的这个客户端这套交互真是稀烂。 Claude 分三个 Tab 是因为他没有时间去改那个原来的客户端。 OpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。歸藏(guizang.ai)@op7418OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名…"
+    },
+    {
+      "id": "5843eccceee7ab1e97e2eed82cfa739991ea9439",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。\n\n直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。\n\n主要是下面 Co...",
+      "url": "https://x.com/op7418/status/2075386642949689391",
+      "published_at": "2026-07-10T01:08:29Z",
+      "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬5🔄1❤️18👀5866📊6⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d91c30fcd847be70e9d38e21ab3c1d5bcfd69cc1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。\n\nGPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。\n\n现在 OpenAI ...",
+      "url": "https://x.com/op7418/status/2075383179859648669",
+      "published_at": "2026-07-10T00:54:43Z",
+      "summary": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根…"
+    },
+    {
+      "id": "cf18e5cb7fd91c9fb823729e05b106404b7f8d83",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！\n\n能够拧灯泡、拿螺丝，帮你拉拉链儿。\n\n几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食",
+      "url": "https://x.com/op7418/status/2075375991980278010",
+      "published_at": "2026-07-10T00:26:09Z",
+      "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬6🔄1❤️7👀2912📊7⚡ Powered by xgo.ing"
+    },
     {
       "id": "47f1c2d103a37326ecd9c0ff810ab3c73bae5f14",
       "site_id": "featuredrss",
@@ -458,7 +535,7 @@
       "title": "Meet the Wishingrads.\n\nA family running a cereal business from their dining room with GPT-5.6.",
       "url": "https://x.com/OpenAI/status/2075310022121472399",
       "published_at": "2026-07-09T20:04:01Z",
-      "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬3🔄8❤️212👀58756📊28⚡ Powered by xgo.ing"
+      "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬3🔄9❤️254👀71202📊32⚡ Powered by xgo.ing"
     },
     {
       "id": "9d22f205aba525371ad744986db4d6ed8808b991",
@@ -469,7 +546,7 @@
       "title": "Meet Hiroki (@tomiyasu16).\n\nA broccoli farmer running his farm with GPT-5.6.",
       "url": "https://x.com/OpenAI/status/2075310019185389913",
       "published_at": "2026-07-09T20:04:00Z",
-      "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬123🔄232❤️2551👀282174📊425⚡ Powered by xgo.ing"
+      "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬138🔄323❤️3372👀381571📊551⚡ Powered by xgo.ing"
     },
     {
       "id": "cd1c87fe6ce45c6123c212943535774512bd603a",
@@ -480,7 +557,7 @@
       "title": "Meet Bartosz (@nasqret).\n\nA mathematician solving previously unsolvable math problems with GPT-5.6",
       "url": "https://x.com/OpenAI/status/2075310020653351324",
       "published_at": "2026-07-09T20:04:00Z",
-      "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬14🔄36❤️465👀79894📊65⚡ Powered by xgo.ing"
+      "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬15🔄39❤️539👀100382📊74⚡ Powered by xgo.ing"
     },
     {
       "id": "5f387e91d8ee1a0cbc766d0178dc3bd83d3efb62",
@@ -546,7 +623,7 @@
       "title": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works bette...",
       "url": "https://x.com/OpenAI/status/2075271432041545782",
       "published_at": "2026-07-09T17:30:40Z",
-      "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬7🔄27❤️500👀118120📊56⚡ Powere…"
+      "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬7🔄31❤️527👀128119📊59⚡ Powere…"
     },
     {
       "id": "3218a9d415c3fc14a2d0f47619cce35b68f31c71",
@@ -557,7 +634,7 @@
       "title": "On the Artificial Analysis Coding Agent Index, GPT‑5.6 Sol sets a new state of the art at 80.0—2.8 p...",
       "url": "https://x.com/OpenAI/status/2075271425548795909",
       "published_at": "2026-07-09T17:30:39Z",
-      "summary": "On the Artificial Analysis Coding Agent Index, GPT‑5.6 Sol sets a new state of the art at 80.0—2.8 points above Claude Fable 5—while using less than half the output tokens, taking less than half the time, and costing about one-third less.💬13🔄40❤️675👀115823📊84⚡ Powered by xgo.ing"
+      "summary": "On the Artificial Analysis Coding Agent Index, GPT‑5.6 Sol sets a new state of the art at 80.0—2.8 points above Claude Fable 5—while using less than half the output tokens, taking less than half the time, and costing about one-third less.💬14🔄51❤️790👀152670📊99⚡ Powered by xgo.ing"
     },
     {
       "id": "0a0a23576d48ea36be7b7965991c2c7f05c40ff0",
@@ -568,7 +645,7 @@
       "title": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, ...",
       "url": "https://x.com/OpenAI/status/2075271421149020426",
       "published_at": "2026-07-09T17:30:38Z",
-      "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬445🔄985❤️8925👀1297636📊1473⚡ Powered by xgo.ing"
+      "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬476🔄1089❤️9664👀1774669📊1607⚡ Powered by xgo.ing"
     },
     {
       "id": "0d4d2041ea9e7156da315d0d916a4111d106eeeb",
@@ -579,7 +656,7 @@
       "title": "GPT-5.6 Sol sets a new standard for intelligence and efficiency, delivering state-of-the-art perform...",
       "url": "https://x.com/OpenAI/status/2075271422545703003",
       "published_at": "2026-07-09T17:30:38Z",
-      "summary": "GPT-5.6 Sol sets a new standard for intelligence and efficiency, delivering state-of-the-art performance across coding, knowledge work, cybersecurity, and science with fewer tokens and lower cost. openai.com/index/gpt-5-6/💬17🔄68❤️911👀114358📊108⚡ Powered by xgo.ing"
+      "summary": "GPT-5.6 Sol sets a new standard for intelligence and efficiency, delivering state-of-the-art performance across coding, knowledge work, cybersecurity, and science with fewer tokens and lower cost. openai.com/index/gpt-5-6/💬17🔄71❤️960👀133143📊114⚡ Powered by xgo.ing"
     },
     {
       "id": "fb5c572fd387d37ab66653a9d224ff04e25ec18a",
@@ -601,7 +678,7 @@
       "title": "It all comes together in 10 minutes.\n\nhttps://t.co/EOvjGJsf0R",
       "url": "https://x.com/OpenAI/status/2075261330995790037",
       "published_at": "2026-07-09T16:50:32Z",
-      "summary": "It all comes together in 10 minutes. openai.com/live💬242🔄202❤️2326👀425803📊439⚡ Powered by xgo.ing"
+      "summary": "It all comes together in 10 minutes. openai.com/live💬242🔄206❤️2397👀447789📊446⚡ Powered by xgo.ing"
     },
     {
       "id": "3305724a19fd4aca74fbca2c6dbba6e73bd1dc5b",
@@ -612,7 +689,7 @@
       "title": "Today. 10am PT.",
       "url": "https://x.com/OpenAI/status/2075254288956440848",
       "published_at": "2026-07-09T16:22:33Z",
-      "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬802🔄811❤️8627👀1491539📊1593⚡ Powered by xgo.ing"
+      "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬809🔄822❤️8784👀1565928📊1614⚡ Powered by xgo.ing"
     },
     {
       "id": "c83b6b07a8d33538d82e3bef13960bbada6742e2",
@@ -623,7 +700,7 @@
       "title": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。",
       "url": "https://x.com/op7418/status/2075169890277982282",
       "published_at": "2026-07-09T10:47:11Z",
-      "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬33🔄0❤️48👀22379📊31⚡ Powered by xgo.ing"
+      "summary": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。💬33🔄0❤️49👀23229📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "48b7dd3a94703a7f47f05b124a0952b66bb9dc08",
@@ -634,7 +711,7 @@
       "title": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。https://t.co/yjr87OqXTt",
       "url": "https://x.com/op7418/status/2075169093595132024",
       "published_at": "2026-07-09T10:44:01Z",
-      "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀4372📊1⚡ Powered by xgo.ing"
+      "summary": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。x.com/_daichikonno/s…💬0🔄0❤️0👀4531📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "d24c43c674934137e7202fa3949b22cb98c7c214",
@@ -657,17 +734,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508287&idx=1&sn=ebcc79423c3d2d19ebad6777c8aabee8",
       "published_at": "2026-07-09T04:03:00Z",
       "summary": "谁说没有原生态的Agent OS的"
-    },
-    {
-      "id": "967dc59b55b934fcb252e173fc98b93db739aa3e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout ...",
-      "url": "https://x.com/OpenAI/status/2075019750569378007",
-      "published_at": "2026-07-09T00:50:35Z",
-      "summary": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout is in progress. Update to the latest version of the ChatGPT app on iOS or Android to try it out.OpenAI@OpenAIIntroducing GPT-Live, a new generation of voice models for natural huma…"
     }
   ]
 }
