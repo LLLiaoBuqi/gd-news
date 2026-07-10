@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:10:03.753111Z",
+  "generated_at": "2026-07-10T17:15:25.623927Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 27,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 172,
+      "duration_ms": 313,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 18,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1675,
+      "duration_ms": 1854,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1272,
+      "duration_ms": 1420,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 811,
+      "duration_ms": 826,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 518,
+      "duration_ms": 733,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1043,
+      "duration_ms": 700,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2380,
+      "duration_ms": 2649,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 702,
+      "duration_ms": 251,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "24e117907f71e4914053af07ce785b934b86cd67",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "明天会有两次重置，得努力蹬了朋友们",
+          "url": "https://x.com/op7418/status/2075595988107161987",
+          "published_at": "2026-07-10T15:00:20Z",
+          "summary": "明天会有两次重置，得努力蹬了朋友们Tibo@thsottiauxTo celebrate the launch of GPT-5.6 Sol, we will reset the rate limits again (twice) across ChatGPT Work and Codex over the next 24 hours. We want you to have the time to truly try ambitious tasks and get the hang of it. Happy exploring!🔗 View Quote…"
+        },
         {
           "id": "ed864dc6ea94185960a905a11ec878c6f90aceb0",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。\n\nhttps://t.co/QZvbW0pIzo",
           "url": "https://x.com/op7418/status/2075535883743511005",
           "published_at": "2026-07-10T11:01:30Z",
-          "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬1🔄0❤️3👀1956📊1⚡ Powered by xgo.ing"
+          "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀2444📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "c7b221701b476b888df2b8383cbdf51c03296826",
@@ -211,7 +222,7 @@
           "title": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具”\n\n你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其...",
           "url": "https://x.com/op7418/status/2075535634375082364",
           "published_at": "2026-07-10T11:00:31Z",
-          "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬17🔄2❤️33👀5866📊21⚡ Pow…"
+          "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬23🔄5❤️67👀8928📊32⚡ Pow…"
         },
         {
           "id": "bd9e8508aac550494cd17fb4525f80192313587a",
@@ -233,7 +244,7 @@
           "title": "ChatGPT 新版语音模式的卡片挺有意思。\n\n你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。\n\n比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都...",
           "url": "https://x.com/op7418/status/2075467584863142215",
           "published_at": "2026-07-10T06:30:07Z",
-          "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬21🔄1❤️30👀11466📊21⚡ Powered by xgo.ing"
+          "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬21🔄1❤️32👀12510📊22⚡ Powered by xgo.ing"
         },
         {
           "id": "a4d988f322135ba612bf2a4a93aaebdeae559d3e",
@@ -277,7 +288,7 @@
           "title": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。\n\n直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。\n\n主要是下面 Co...",
           "url": "https://x.com/op7418/status/2075386642949689391",
           "published_at": "2026-07-10T01:08:29Z",
-          "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬45🔄4❤️104👀46256📊39⚡ Powered by xgo.ing"
+          "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬45🔄4❤️105👀47837📊39⚡ Powered by xgo.ing"
         },
         {
           "id": "d91c30fcd847be70e9d38e21ab3c1d5bcfd69cc1",
@@ -299,7 +310,7 @@
           "title": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！\n\n能够拧灯泡、拿螺丝，帮你拉拉链儿。\n\n几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食",
           "url": "https://x.com/op7418/status/2075375991980278010",
           "published_at": "2026-07-10T00:26:09Z",
-          "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️33👀10710📊19⚡ Powered by xgo.ing"
+          "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️36👀11302📊19⚡ Powered by xgo.ing"
         },
         {
           "id": "39ba84822695b6f9b3dcecdd4a335b3a50b8d1f4",
@@ -316,7 +327,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 16,
+      "total_items": 15,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -324,6 +335,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "58fe6e97c7f45226ac04fd70fef3aad047705b56",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Step into the map with the Street View grounding feature in Project Genie from @GoogleDeepmind and @...",
+          "url": "https://x.com/GoogleAI/status/2075609303029776872",
+          "published_at": "2026-07-10T15:53:15Z",
+          "summary": "Step into the map with the Street View grounding feature in Project Genie from @GoogleDeepmind and @GoogleLabs. Announced at I/O, this research prototype uses locations from @GoogleMaps Street View as a foundation, letting you generate and explore interactive, 360-degree virtual…"
+        },
         {
           "id": "47f1c2d103a37326ecd9c0ff810ab3c73bae5f14",
           "site_id": "featuredrss",
@@ -344,7 +366,7 @@
           "title": "Meet the Wishingrads.\n\nA family running a cereal business from their dining room with GPT-5.6.",
           "url": "https://x.com/OpenAI/status/2075310022121472399",
           "published_at": "2026-07-09T20:04:01Z",
-          "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬7🔄13❤️350👀112295📊48⚡ Powered by xgo.ing"
+          "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬8🔄13❤️365👀116629📊50⚡ Powered by xgo.ing"
         },
         {
           "id": "9d22f205aba525371ad744986db4d6ed8808b991",
@@ -355,7 +377,7 @@
           "title": "Meet Hiroki (@tomiyasu16).\n\nA broccoli farmer running his farm with GPT-5.6.",
           "url": "https://x.com/OpenAI/status/2075310019185389913",
           "published_at": "2026-07-09T20:04:00Z",
-          "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬194🔄586❤️5872👀780511📊957⚡ Powered by xgo.ing"
+          "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬202🔄620❤️6137👀826843📊1001⚡ Powered by xgo.ing"
         },
         {
           "id": "cd1c87fe6ce45c6123c212943535774512bd603a",
@@ -366,7 +388,7 @@
           "title": "Meet Bartosz (@nasqret).\n\nA mathematician solving previously unsolvable math problems with GPT-5.6",
           "url": "https://x.com/OpenAI/status/2075310020653351324",
           "published_at": "2026-07-09T20:04:00Z",
-          "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬30🔄66❤️964👀255725📊137⚡ Powered by xgo.ing"
+          "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬31🔄72❤️1030👀285864📊147⚡ Powered by xgo.ing"
         },
         {
           "id": "5f387e91d8ee1a0cbc766d0178dc3bd83d3efb62",
@@ -432,7 +454,7 @@
           "title": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works bette...",
           "url": "https://x.com/OpenAI/status/2075271432041545782",
           "published_at": "2026-07-09T17:30:40Z",
-          "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬8🔄33❤️592👀156847📊65⚡ Powere…"
+          "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬8🔄33❤️598👀159768📊66⚡ Powere…"
         },
         {
           "id": "3218a9d415c3fc14a2d0f47619cce35b68f31c71",
@@ -454,7 +476,7 @@
           "title": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, ...",
           "url": "https://x.com/OpenAI/status/2075271421149020426",
           "published_at": "2026-07-09T17:30:38Z",
-          "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬560🔄1257❤️11413👀3101749📊1906⚡ Powered by xgo.ing"
+          "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬565🔄1279❤️11605👀3248416📊1935⚡ Powered by xgo.ing"
         },
         {
           "id": "0d4d2041ea9e7156da315d0d916a4111d106eeeb",
@@ -477,33 +499,33 @@
           "url": "https://x.com/OpenAI/status/2075271423992680532",
           "published_at": "2026-07-09T17:30:38Z",
           "summary": "On Agents' Last Exam, GPT‑5.6 Sol sets a new high of 53.6, eclipsing Claude Fable 5 (adaptive) by 13.1 points. At medium reasoning, it beats Fable 5 by 11.4 points at roughly one-quarter the estimated cost. GPT‑5.6 Terra and Luna also outperforms Fable 5 at around one-sixteenth t…"
-        },
-        {
-          "id": "1a2dfe72747ff738bdd64aed0e41d7b3169b0457",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "It all comes together in 10 minutes.\n\nhttps://t.co/EOvjGJsf0R",
-          "url": "https://x.com/OpenAI/status/2075261330995790037",
-          "published_at": "2026-07-09T16:50:32Z",
-          "summary": "It all comes together in 10 minutes. openai.com/live💬246🔄217❤️2620👀500118📊472⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3305724a19fd4aca74fbca2c6dbba6e73bd1dc5b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Today. 10am PT.",
-          "url": "https://x.com/OpenAI/status/2075254288956440848",
-          "published_at": "2026-07-09T16:22:33Z",
-          "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬819🔄842❤️9188👀1747497📊1659⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "58fe6e97c7f45226ac04fd70fef3aad047705b56",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Step into the map with the Street View grounding feature in Project Genie from @GoogleDeepmind and @...",
+      "url": "https://x.com/GoogleAI/status/2075609303029776872",
+      "published_at": "2026-07-10T15:53:15Z",
+      "summary": "Step into the map with the Street View grounding feature in Project Genie from @GoogleDeepmind and @GoogleLabs. Announced at I/O, this research prototype uses locations from @GoogleMaps Street View as a foundation, letting you generate and explore interactive, 360-degree virtual…"
+    },
+    {
+      "id": "24e117907f71e4914053af07ce785b934b86cd67",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "明天会有两次重置，得努力蹬了朋友们",
+      "url": "https://x.com/op7418/status/2075595988107161987",
+      "published_at": "2026-07-10T15:00:20Z",
+      "summary": "明天会有两次重置，得努力蹬了朋友们Tibo@thsottiauxTo celebrate the launch of GPT-5.6 Sol, we will reset the rate limits again (twice) across ChatGPT Work and Codex over the next 24 hours. We want you to have the time to truly try ambitious tasks and get the hang of it. Happy exploring!🔗 View Quote…"
+    },
     {
       "id": "ed864dc6ea94185960a905a11ec878c6f90aceb0",
       "site_id": "featuredrss",
@@ -513,7 +535,7 @@
       "title": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。\n\nhttps://t.co/QZvbW0pIzo",
       "url": "https://x.com/op7418/status/2075535883743511005",
       "published_at": "2026-07-10T11:01:30Z",
-      "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬1🔄0❤️3👀1956📊1⚡ Powered by xgo.ing"
+      "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀2444📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "c7b221701b476b888df2b8383cbdf51c03296826",
@@ -524,7 +546,7 @@
       "title": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具”\n\n你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其...",
       "url": "https://x.com/op7418/status/2075535634375082364",
       "published_at": "2026-07-10T11:00:31Z",
-      "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬17🔄2❤️33👀5866📊21⚡ Pow…"
+      "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬23🔄5❤️67👀8928📊32⚡ Pow…"
     },
     {
       "id": "bd9e8508aac550494cd17fb4525f80192313587a",
@@ -546,7 +568,7 @@
       "title": "ChatGPT 新版语音模式的卡片挺有意思。\n\n你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。\n\n比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都...",
       "url": "https://x.com/op7418/status/2075467584863142215",
       "published_at": "2026-07-10T06:30:07Z",
-      "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬21🔄1❤️30👀11466📊21⚡ Powered by xgo.ing"
+      "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬21🔄1❤️32👀12510📊22⚡ Powered by xgo.ing"
     },
     {
       "id": "a4d988f322135ba612bf2a4a93aaebdeae559d3e",
@@ -590,7 +612,7 @@
       "title": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。\n\n直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。\n\n主要是下面 Co...",
       "url": "https://x.com/op7418/status/2075386642949689391",
       "published_at": "2026-07-10T01:08:29Z",
-      "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬45🔄4❤️104👀46256📊39⚡ Powered by xgo.ing"
+      "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬45🔄4❤️105👀47837📊39⚡ Powered by xgo.ing"
     },
     {
       "id": "d91c30fcd847be70e9d38e21ab3c1d5bcfd69cc1",
@@ -612,7 +634,7 @@
       "title": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！\n\n能够拧灯泡、拿螺丝，帮你拉拉链儿。\n\n几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食",
       "url": "https://x.com/op7418/status/2075375991980278010",
       "published_at": "2026-07-10T00:26:09Z",
-      "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️33👀10710📊19⚡ Powered by xgo.ing"
+      "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️36👀11302📊19⚡ Powered by xgo.ing"
     },
     {
       "id": "47f1c2d103a37326ecd9c0ff810ab3c73bae5f14",
@@ -645,7 +667,7 @@
       "title": "Meet the Wishingrads.\n\nA family running a cereal business from their dining room with GPT-5.6.",
       "url": "https://x.com/OpenAI/status/2075310022121472399",
       "published_at": "2026-07-09T20:04:01Z",
-      "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬7🔄13❤️350👀112295📊48⚡ Powered by xgo.ing"
+      "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬8🔄13❤️365👀116629📊50⚡ Powered by xgo.ing"
     },
     {
       "id": "9d22f205aba525371ad744986db4d6ed8808b991",
@@ -656,7 +678,7 @@
       "title": "Meet Hiroki (@tomiyasu16).\n\nA broccoli farmer running his farm with GPT-5.6.",
       "url": "https://x.com/OpenAI/status/2075310019185389913",
       "published_at": "2026-07-09T20:04:00Z",
-      "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬194🔄586❤️5872👀780511📊957⚡ Powered by xgo.ing"
+      "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬202🔄620❤️6137👀826843📊1001⚡ Powered by xgo.ing"
     },
     {
       "id": "cd1c87fe6ce45c6123c212943535774512bd603a",
@@ -667,7 +689,7 @@
       "title": "Meet Bartosz (@nasqret).\n\nA mathematician solving previously unsolvable math problems with GPT-5.6",
       "url": "https://x.com/OpenAI/status/2075310020653351324",
       "published_at": "2026-07-09T20:04:00Z",
-      "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬30🔄66❤️964👀255725📊137⚡ Powered by xgo.ing"
+      "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬31🔄72❤️1030👀285864📊147⚡ Powered by xgo.ing"
     },
     {
       "id": "5f387e91d8ee1a0cbc766d0178dc3bd83d3efb62",
@@ -733,7 +755,7 @@
       "title": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works bette...",
       "url": "https://x.com/OpenAI/status/2075271432041545782",
       "published_at": "2026-07-09T17:30:40Z",
-      "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬8🔄33❤️592👀156847📊65⚡ Powere…"
+      "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.💬8🔄33❤️598👀159768📊66⚡ Powere…"
     },
     {
       "id": "3218a9d415c3fc14a2d0f47619cce35b68f31c71",
@@ -755,7 +777,7 @@
       "title": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, ...",
       "url": "https://x.com/OpenAI/status/2075271421149020426",
       "published_at": "2026-07-09T17:30:38Z",
-      "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬560🔄1257❤️11413👀3101749📊1906⚡ Powered by xgo.ing"
+      "summary": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.Your browser does not support the video tag.🔗 View on Twitter💬565🔄1279❤️11605👀3248416📊1935⚡ Powered by xgo.ing"
     },
     {
       "id": "0d4d2041ea9e7156da315d0d916a4111d106eeeb",
@@ -778,28 +800,6 @@
       "url": "https://x.com/OpenAI/status/2075271423992680532",
       "published_at": "2026-07-09T17:30:38Z",
       "summary": "On Agents' Last Exam, GPT‑5.6 Sol sets a new high of 53.6, eclipsing Claude Fable 5 (adaptive) by 13.1 points. At medium reasoning, it beats Fable 5 by 11.4 points at roughly one-quarter the estimated cost. GPT‑5.6 Terra and Luna also outperforms Fable 5 at around one-sixteenth t…"
-    },
-    {
-      "id": "1a2dfe72747ff738bdd64aed0e41d7b3169b0457",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "It all comes together in 10 minutes.\n\nhttps://t.co/EOvjGJsf0R",
-      "url": "https://x.com/OpenAI/status/2075261330995790037",
-      "published_at": "2026-07-09T16:50:32Z",
-      "summary": "It all comes together in 10 minutes. openai.com/live💬246🔄217❤️2620👀500118📊472⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3305724a19fd4aca74fbca2c6dbba6e73bd1dc5b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Today. 10am PT.",
-      "url": "https://x.com/OpenAI/status/2075254288956440848",
-      "published_at": "2026-07-09T16:22:33Z",
-      "summary": "Today. 10am PT.Your browser does not support the video tag.🔗 View on Twitter💬819🔄842❤️9188👀1747497📊1659⚡ Powered by xgo.ing"
     }
   ]
 }
