@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T18:56:25.333218Z",
+  "generated_at": "2026-07-10T20:19:46.255465Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 438,
+      "duration_ms": 466,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 21,
+      "duration_ms": 24,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1646,
+      "duration_ms": 1514,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1147,
+      "duration_ms": 1258,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 775,
+      "duration_ms": 982,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 373,
+      "duration_ms": 399,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 970,
+      "duration_ms": 929,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 27,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2278,
+      "duration_ms": 2495,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 725,
+      "duration_ms": 858,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -211,7 +211,7 @@
           "title": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。\n\nhttps://t.co/QZvbW0pIzo",
           "url": "https://x.com/op7418/status/2075535883743511005",
           "published_at": "2026-07-10T11:01:30Z",
-          "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀2639📊2⚡ Powered by xgo.ing"
+          "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀2674📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "c7b221701b476b888df2b8383cbdf51c03296826",
@@ -222,7 +222,7 @@
           "title": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具”\n\n你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其...",
           "url": "https://x.com/op7418/status/2075535634375082364",
           "published_at": "2026-07-10T11:00:31Z",
-          "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬23🔄7❤️78👀10638📊36⚡ Po…"
+          "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬23🔄7❤️79👀11072📊37⚡ Po…"
         },
         {
           "id": "bd9e8508aac550494cd17fb4525f80192313587a",
@@ -244,7 +244,7 @@
           "title": "ChatGPT 新版语音模式的卡片挺有意思。\n\n你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。\n\n比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都...",
           "url": "https://x.com/op7418/status/2075467584863142215",
           "published_at": "2026-07-10T06:30:07Z",
-          "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️33👀12958📊23⚡ Powered by xgo.ing"
+          "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️33👀13058📊23⚡ Powered by xgo.ing"
         },
         {
           "id": "a4d988f322135ba612bf2a4a93aaebdeae559d3e",
@@ -288,7 +288,7 @@
           "title": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。\n\n直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。\n\n主要是下面 Co...",
           "url": "https://x.com/op7418/status/2075386642949689391",
           "published_at": "2026-07-10T01:08:29Z",
-          "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬46🔄4❤️107👀48604📊40⚡ Powered by xgo.ing"
+          "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬46🔄4❤️107👀48872📊40⚡ Powered by xgo.ing"
         },
         {
           "id": "d91c30fcd847be70e9d38e21ab3c1d5bcfd69cc1",
@@ -310,7 +310,7 @@
           "title": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！\n\n能够拧灯泡、拿螺丝，帮你拉拉链儿。\n\n几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食",
           "url": "https://x.com/op7418/status/2075375991980278010",
           "published_at": "2026-07-10T00:26:09Z",
-          "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️37👀11644📊20⚡ Powered by xgo.ing"
+          "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️37👀11759📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "39ba84822695b6f9b3dcecdd4a335b3a50b8d1f4",
@@ -327,7 +327,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -367,39 +367,6 @@
           "url": "https://x.com/GeminiApp/status/2075350935396872278",
           "published_at": "2026-07-09T22:46:35Z",
           "summary": "Plan & visualize your next project in realtime with Nano Banana & connected apps in Gemini Live. Generate images based on what you show with your camera, find local shops on @GoogleMaps & more just by talking it out. Gemini Live is available to Gemini users globally at no cost.💬2…"
-        },
-        {
-          "id": "d2c6aa64886d0f8d5ee777f04b77f03f5a785485",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Meet the Wishingrads.\n\nA family running a cereal business from their dining room with GPT-5.6.",
-          "url": "https://x.com/OpenAI/status/2075310022121472399",
-          "published_at": "2026-07-09T20:04:01Z",
-          "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬8🔄14❤️379👀120259📊51⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "9d22f205aba525371ad744986db4d6ed8808b991",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Meet Hiroki (@tomiyasu16).\n\nA broccoli farmer running his farm with GPT-5.6.",
-          "url": "https://x.com/OpenAI/status/2075310019185389913",
-          "published_at": "2026-07-09T20:04:00Z",
-          "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬208🔄635❤️6285👀859426📊1027⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "cd1c87fe6ce45c6123c212943535774512bd603a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Meet Bartosz (@nasqret).\n\nA mathematician solving previously unsolvable math problems with GPT-5.6",
-          "url": "https://x.com/OpenAI/status/2075310020653351324",
-          "published_at": "2026-07-09T20:04:00Z",
-          "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬33🔄73❤️1072👀309316📊153⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -447,7 +414,7 @@
       "title": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。\n\nhttps://t.co/QZvbW0pIzo",
       "url": "https://x.com/op7418/status/2075535883743511005",
       "published_at": "2026-07-10T11:01:30Z",
-      "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀2639📊2⚡ Powered by xgo.ing"
+      "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀2674📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "c7b221701b476b888df2b8383cbdf51c03296826",
@@ -458,7 +425,7 @@
       "title": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具”\n\n你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其...",
       "url": "https://x.com/op7418/status/2075535634375082364",
       "published_at": "2026-07-10T11:00:31Z",
-      "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬23🔄7❤️78👀10638📊36⚡ Po…"
+      "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬23🔄7❤️79👀11072📊37⚡ Po…"
     },
     {
       "id": "bd9e8508aac550494cd17fb4525f80192313587a",
@@ -480,7 +447,7 @@
       "title": "ChatGPT 新版语音模式的卡片挺有意思。\n\n你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。\n\n比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都...",
       "url": "https://x.com/op7418/status/2075467584863142215",
       "published_at": "2026-07-10T06:30:07Z",
-      "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️33👀12958📊23⚡ Powered by xgo.ing"
+      "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️33👀13058📊23⚡ Powered by xgo.ing"
     },
     {
       "id": "a4d988f322135ba612bf2a4a93aaebdeae559d3e",
@@ -524,7 +491,7 @@
       "title": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。\n\n直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。\n\n主要是下面 Co...",
       "url": "https://x.com/op7418/status/2075386642949689391",
       "published_at": "2026-07-10T01:08:29Z",
-      "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬46🔄4❤️107👀48604📊40⚡ Powered by xgo.ing"
+      "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬46🔄4❤️107👀48872📊40⚡ Powered by xgo.ing"
     },
     {
       "id": "d91c30fcd847be70e9d38e21ab3c1d5bcfd69cc1",
@@ -546,7 +513,7 @@
       "title": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！\n\n能够拧灯泡、拿螺丝，帮你拉拉链儿。\n\n几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食",
       "url": "https://x.com/op7418/status/2075375991980278010",
       "published_at": "2026-07-10T00:26:09Z",
-      "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️37👀11644📊20⚡ Powered by xgo.ing"
+      "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️37👀11759📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "47f1c2d103a37326ecd9c0ff810ab3c73bae5f14",
@@ -569,39 +536,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684187&idx=1&sn=c8486c0e0aee773ad3b3c63c4a224f18",
       "published_at": "2026-07-09T22:11:00Z",
       "summary": "屠龙少年回来了"
-    },
-    {
-      "id": "d2c6aa64886d0f8d5ee777f04b77f03f5a785485",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Meet the Wishingrads.\n\nA family running a cereal business from their dining room with GPT-5.6.",
-      "url": "https://x.com/OpenAI/status/2075310022121472399",
-      "published_at": "2026-07-09T20:04:01Z",
-      "summary": "Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬8🔄14❤️379👀120259📊51⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "9d22f205aba525371ad744986db4d6ed8808b991",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Meet Hiroki (@tomiyasu16).\n\nA broccoli farmer running his farm with GPT-5.6.",
-      "url": "https://x.com/OpenAI/status/2075310019185389913",
-      "published_at": "2026-07-09T20:04:00Z",
-      "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.Your browser does not support the video tag.🔗 View on Twitter💬208🔄635❤️6285👀859426📊1027⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "cd1c87fe6ce45c6123c212943535774512bd603a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Meet Bartosz (@nasqret).\n\nA mathematician solving previously unsolvable math problems with GPT-5.6",
-      "url": "https://x.com/OpenAI/status/2075310020653351324",
-      "published_at": "2026-07-09T20:04:00Z",
-      "summary": "Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6Your browser does not support the video tag.🔗 View on Twitter💬33🔄73❤️1072👀309316📊153⚡ Powered by xgo.ing"
     }
   ]
 }
