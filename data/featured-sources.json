@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T23:54:18.956782Z",
+  "generated_at": "2026-07-11T02:01:38.565123Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 101,
+      "duration_ms": 794,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 36,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1810,
+      "duration_ms": 1620,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1421,
+      "duration_ms": 1086,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 671,
+      "duration_ms": 909,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 575,
+      "duration_ms": 485,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 817,
+      "duration_ms": 719,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 66,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2626,
+      "duration_ms": 2215,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 605,
+      "duration_ms": 979,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。\n\nhttps://t.co/QZvbW0pIzo",
           "url": "https://x.com/op7418/status/2075535883743511005",
           "published_at": "2026-07-10T11:01:30Z",
-          "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀2873📊2⚡ Powered by xgo.ing"
+          "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀3016📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "c7b221701b476b888df2b8383cbdf51c03296826",
@@ -222,7 +222,7 @@
           "title": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具”\n\n你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其...",
           "url": "https://x.com/op7418/status/2075535634375082364",
           "published_at": "2026-07-10T11:00:31Z",
-          "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬26🔄9❤️97👀12673📊44⚡ Po…"
+          "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬27🔄13❤️107👀13975📊48⚡…"
         },
         {
           "id": "bd9e8508aac550494cd17fb4525f80192313587a",
@@ -244,7 +244,7 @@
           "title": "ChatGPT 新版语音模式的卡片挺有意思。\n\n你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。\n\n比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都...",
           "url": "https://x.com/op7418/status/2075467584863142215",
           "published_at": "2026-07-10T06:30:07Z",
-          "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️36👀13616📊24⚡ Powered by xgo.ing"
+          "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️37👀14377📊24⚡ Powered by xgo.ing"
         },
         {
           "id": "a4d988f322135ba612bf2a4a93aaebdeae559d3e",
@@ -267,50 +267,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508355&idx=1&sn=53b475392d616199026b5e96d26043ba",
           "published_at": "2026-07-10T03:47:00Z",
           "summary": "距离GPT6发布只剩一个月+Codex和ChatGPT二合一+Fable5吓到重置额度"
-        },
-        {
-          "id": "9f79663366ec47b5b81f49e07f04fc23e590c10c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "新的这个客户端这套交互真是稀烂。\n\nClaude 分三个 Tab 是因为他没有时间去改那个原来的客户端。\n\nOpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。",
-          "url": "https://x.com/op7418/status/2075389540387455355",
-          "published_at": "2026-07-10T01:19:59Z",
-          "summary": "新的这个客户端这套交互真是稀烂。 Claude 分三个 Tab 是因为他没有时间去改那个原来的客户端。 OpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。歸藏(guizang.ai)@op7418OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名…"
-        },
-        {
-          "id": "5843eccceee7ab1e97e2eed82cfa739991ea9439",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。\n\n直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。\n\n主要是下面 Co...",
-          "url": "https://x.com/op7418/status/2075386642949689391",
-          "published_at": "2026-07-10T01:08:29Z",
-          "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬46🔄4❤️107👀49530📊40⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d91c30fcd847be70e9d38e21ab3c1d5bcfd69cc1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。\n\nGPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。\n\n现在 OpenAI ...",
-          "url": "https://x.com/op7418/status/2075383179859648669",
-          "published_at": "2026-07-10T00:54:43Z",
-          "summary": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根…"
-        },
-        {
-          "id": "cf18e5cb7fd91c9fb823729e05b106404b7f8d83",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！\n\n能够拧灯泡、拿螺丝，帮你拉拉链儿。\n\n几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食",
-          "url": "https://x.com/op7418/status/2075375991980278010",
-          "published_at": "2026-07-10T00:26:09Z",
-          "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️39👀12174📊20⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -414,7 +370,7 @@
       "title": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。\n\nhttps://t.co/QZvbW0pIzo",
       "url": "https://x.com/op7418/status/2075535883743511005",
       "published_at": "2026-07-10T11:01:30Z",
-      "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀2873📊2⚡ Powered by xgo.ing"
+      "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀3016📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "c7b221701b476b888df2b8383cbdf51c03296826",
@@ -425,7 +381,7 @@
       "title": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具”\n\n你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其...",
       "url": "https://x.com/op7418/status/2075535634375082364",
       "published_at": "2026-07-10T11:00:31Z",
-      "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬26🔄9❤️97👀12673📊44⚡ Po…"
+      "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬27🔄13❤️107👀13975📊48⚡…"
     },
     {
       "id": "bd9e8508aac550494cd17fb4525f80192313587a",
@@ -447,7 +403,7 @@
       "title": "ChatGPT 新版语音模式的卡片挺有意思。\n\n你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。\n\n比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都...",
       "url": "https://x.com/op7418/status/2075467584863142215",
       "published_at": "2026-07-10T06:30:07Z",
-      "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️36👀13616📊24⚡ Powered by xgo.ing"
+      "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️37👀14377📊24⚡ Powered by xgo.ing"
     },
     {
       "id": "a4d988f322135ba612bf2a4a93aaebdeae559d3e",
@@ -470,50 +426,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508355&idx=1&sn=53b475392d616199026b5e96d26043ba",
       "published_at": "2026-07-10T03:47:00Z",
       "summary": "距离GPT6发布只剩一个月+Codex和ChatGPT二合一+Fable5吓到重置额度"
-    },
-    {
-      "id": "9f79663366ec47b5b81f49e07f04fc23e590c10c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "新的这个客户端这套交互真是稀烂。\n\nClaude 分三个 Tab 是因为他没有时间去改那个原来的客户端。\n\nOpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。",
-      "url": "https://x.com/op7418/status/2075389540387455355",
-      "published_at": "2026-07-10T01:19:59Z",
-      "summary": "新的这个客户端这套交互真是稀烂。 Claude 分三个 Tab 是因为他没有时间去改那个原来的客户端。 OpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。歸藏(guizang.ai)@op7418OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名…"
-    },
-    {
-      "id": "5843eccceee7ab1e97e2eed82cfa739991ea9439",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。\n\n直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。\n\n主要是下面 Co...",
-      "url": "https://x.com/op7418/status/2075386642949689391",
-      "published_at": "2026-07-10T01:08:29Z",
-      "summary": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈ClaudeDevs@ClaudeDevsWe've reset 5-hour and weekly rate limits for all users.🔗 View Quoted Tweet💬46🔄4❤️107👀49530📊40⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d91c30fcd847be70e9d38e21ab3c1d5bcfd69cc1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。\n\nGPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。\n\n现在 OpenAI ...",
-      "url": "https://x.com/op7418/status/2075383179859648669",
-      "published_at": "2026-07-10T00:54:43Z",
-      "summary": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根…"
-    },
-    {
-      "id": "cf18e5cb7fd91c9fb823729e05b106404b7f8d83",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！\n\n能够拧灯泡、拿螺丝，帮你拉拉链儿。\n\n几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食",
-      "url": "https://x.com/op7418/status/2075375991980278010",
-      "published_at": "2026-07-10T00:26:09Z",
-      "summary": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食Your browser does not support the video tag.🔗 View on Twitter💬16🔄5❤️39👀12174📊20⚡ Powered by xgo.ing"
     }
   ]
 }
