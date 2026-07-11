@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T02:01:38.565123Z",
+  "generated_at": "2026-07-11T05:24:52.375336Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 794,
+      "duration_ms": 568,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 21,
+      "duration_ms": 32,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1620,
+      "duration_ms": 1607,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1086,
+      "duration_ms": 1064,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 909,
+      "duration_ms": 755,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 485,
+      "duration_ms": 746,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 719,
+      "duration_ms": 943,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 66,
+      "duration_ms": 25,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2215,
+      "duration_ms": 2195,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 979,
+      "duration_ms": 450,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,57 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "ac3c030fbf6ddf3d6bf6dda95c387fd4c600dd53",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "网页也可以玩了",
+          "url": "https://x.com/op7418/status/2075802478239686846",
+          "published_at": "2026-07-11T04:40:52Z",
+          "summary": "网页也可以玩了歸藏(guizang.ai)@op7418昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。 一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器 上传一张你的照片，选一个跟你经历有关的\"人生成就\"。 工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️0👀131⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8e62f97a6636a6efd80863da2b6d440698863013",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "做这个工具有几个设计上的取舍，聊聊背后的想法。",
+          "url": "https://x.com/op7418/status/2075776494878786004",
+          "published_at": "2026-07-11T02:57:37Z",
+          "summary": "做这个工具有几个设计上的取舍，聊聊背后的想法。💬0🔄0❤️0👀859⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3b71bb82d0903b5d0560aa553e9c8d11ae233680",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "导出成品，三种导出组合：\n\n只要滤镜 —— 原图 + 滤镜，不带成就卡\n只要成就 —— 原图不加滤镜，叠上成就卡\n成就 + 滤镜 —— 两者都有，最完整的效果",
+          "url": "https://x.com/op7418/status/2075776229219938561",
+          "published_at": "2026-07-11T02:56:33Z",
+          "summary": "导出成品，三种导出组合： 只要滤镜 —— 原图 + 滤镜，不带成就卡 只要成就 —— 原图不加滤镜，叠上成就卡 成就 + 滤镜 —— 两者都有，最完整的效果💬1🔄0❤️0👀1009📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "22d1adfe106fef27a6dd37a0764182bd40fca867",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。\n\n一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器\n\n上传一张你的照片，选一个跟你经历有关的\"人生成就\"。\n\n工具会给照片加...",
+          "url": "https://x.com/op7418/status/2075775161710879010",
+          "published_at": "2026-07-11T02:52:19Z",
+          "summary": "昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。 一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器 上传一张你的照片，选一个跟你经历有关的\"人生成就\"。 工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。Your browser does not support the video tag.🔗 View on Twitter💬16🔄0❤️25👀6957📊19⚡ Powered by xgo.ing"
+        },
         {
           "id": "24e117907f71e4914053af07ce785b934b86cd67",
           "site_id": "featuredrss",
@@ -211,7 +255,7 @@
           "title": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。\n\nhttps://t.co/QZvbW0pIzo",
           "url": "https://x.com/op7418/status/2075535883743511005",
           "published_at": "2026-07-10T11:01:30Z",
-          "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀3016📊2⚡ Powered by xgo.ing"
+          "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬3🔄0❤️4👀3340📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "c7b221701b476b888df2b8383cbdf51c03296826",
@@ -222,7 +266,7 @@
           "title": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具”\n\n你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其...",
           "url": "https://x.com/op7418/status/2075535634375082364",
           "published_at": "2026-07-10T11:00:31Z",
-          "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬27🔄13❤️107👀13975📊48⚡…"
+          "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬29🔄16❤️120👀16303📊53⚡…"
         },
         {
           "id": "bd9e8508aac550494cd17fb4525f80192313587a",
@@ -244,29 +288,7 @@
           "title": "ChatGPT 新版语音模式的卡片挺有意思。\n\n你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。\n\n比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都...",
           "url": "https://x.com/op7418/status/2075467584863142215",
           "published_at": "2026-07-10T06:30:07Z",
-          "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️37👀14377📊24⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a4d988f322135ba612bf2a4a93aaebdeae559d3e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "AI生图总跑偏抽风？提示词注意这几个方面。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497864&idx=1&sn=f4f90d5999c7a8403060de4127c11833",
-          "published_at": "2026-07-10T05:00:00Z",
-          "summary": "AI生成图片常见问题与解决小妙招。"
-        },
-        {
-          "id": "216a861056b0726a486b52536be545f65ecdcfa8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508355&idx=1&sn=53b475392d616199026b5e96d26043ba",
-          "published_at": "2026-07-10T03:47:00Z",
-          "summary": "距离GPT6发布只剩一个月+Codex和ChatGPT二合一+Fable5吓到重置额度"
+          "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬23🔄2❤️40👀15259📊25⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -317,6 +339,50 @@
     }
   },
   "items": [
+    {
+      "id": "ac3c030fbf6ddf3d6bf6dda95c387fd4c600dd53",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "网页也可以玩了",
+      "url": "https://x.com/op7418/status/2075802478239686846",
+      "published_at": "2026-07-11T04:40:52Z",
+      "summary": "网页也可以玩了歸藏(guizang.ai)@op7418昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。 一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器 上传一张你的照片，选一个跟你经历有关的\"人生成就\"。 工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️0👀131⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8e62f97a6636a6efd80863da2b6d440698863013",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "做这个工具有几个设计上的取舍，聊聊背后的想法。",
+      "url": "https://x.com/op7418/status/2075776494878786004",
+      "published_at": "2026-07-11T02:57:37Z",
+      "summary": "做这个工具有几个设计上的取舍，聊聊背后的想法。💬0🔄0❤️0👀859⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3b71bb82d0903b5d0560aa553e9c8d11ae233680",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "导出成品，三种导出组合：\n\n只要滤镜 —— 原图 + 滤镜，不带成就卡\n只要成就 —— 原图不加滤镜，叠上成就卡\n成就 + 滤镜 —— 两者都有，最完整的效果",
+      "url": "https://x.com/op7418/status/2075776229219938561",
+      "published_at": "2026-07-11T02:56:33Z",
+      "summary": "导出成品，三种导出组合： 只要滤镜 —— 原图 + 滤镜，不带成就卡 只要成就 —— 原图不加滤镜，叠上成就卡 成就 + 滤镜 —— 两者都有，最完整的效果💬1🔄0❤️0👀1009📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "22d1adfe106fef27a6dd37a0764182bd40fca867",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。\n\n一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器\n\n上传一张你的照片，选一个跟你经历有关的\"人生成就\"。\n\n工具会给照片加...",
+      "url": "https://x.com/op7418/status/2075775161710879010",
+      "published_at": "2026-07-11T02:52:19Z",
+      "summary": "昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。 一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器 上传一张你的照片，选一个跟你经历有关的\"人生成就\"。 工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。Your browser does not support the video tag.🔗 View on Twitter💬16🔄0❤️25👀6957📊19⚡ Powered by xgo.ing"
+    },
     {
       "id": "ba69902a4c491c2cc31db911161a7cffd0a5335e",
       "site_id": "featuredrss",
@@ -370,7 +436,7 @@
       "title": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。\n\nhttps://t.co/QZvbW0pIzo",
       "url": "https://x.com/op7418/status/2075535883743511005",
       "published_at": "2026-07-10T11:01:30Z",
-      "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬2🔄0❤️3👀3016📊2⚡ Powered by xgo.ing"
+      "summary": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50cb…💬3🔄0❤️4👀3340📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "c7b221701b476b888df2b8383cbdf51c03296826",
@@ -381,7 +447,7 @@
       "title": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具”\n\n你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其...",
       "url": "https://x.com/op7418/status/2075535634375082364",
       "published_at": "2026-07-10T11:00:31Z",
-      "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬27🔄13❤️107👀13975📊48⚡…"
+      "summary": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。💬29🔄16❤️120👀16303📊53⚡…"
     },
     {
       "id": "bd9e8508aac550494cd17fb4525f80192313587a",
@@ -403,29 +469,7 @@
       "title": "ChatGPT 新版语音模式的卡片挺有意思。\n\n你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。\n\n比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都...",
       "url": "https://x.com/op7418/status/2075467584863142215",
       "published_at": "2026-07-10T06:30:07Z",
-      "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬22🔄1❤️37👀14377📊24⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a4d988f322135ba612bf2a4a93aaebdeae559d3e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "AI生图总跑偏抽风？提示词注意这几个方面。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497864&idx=1&sn=f4f90d5999c7a8403060de4127c11833",
-      "published_at": "2026-07-10T05:00:00Z",
-      "summary": "AI生成图片常见问题与解决小妙招。"
-    },
-    {
-      "id": "216a861056b0726a486b52536be545f65ecdcfa8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508355&idx=1&sn=53b475392d616199026b5e96d26043ba",
-      "published_at": "2026-07-10T03:47:00Z",
-      "summary": "距离GPT6发布只剩一个月+Codex和ChatGPT二合一+Fable5吓到重置额度"
+      "summary": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。Your browser does not support the video tag.🔗 View on Twitter💬23🔄2❤️40👀15259📊25⚡ Powered by xgo.ing"
     }
   ]
 }
