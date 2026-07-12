@@ -1,15 +1,13 @@
 {
-  "generated_at": "2026-07-12T01:02:18.388428Z",
+  "generated_at": "2026-07-12T04:48:09.330235Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 0,
+  "total_items": 1,
   "feed_total": 12,
-  "ok_feeds": 7,
+  "ok_feeds": 9,
   "failed_feeds": [
-    "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
-    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -22,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 137,
+      "duration_ms": 622,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -36,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 19,
+      "duration_ms": 80,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -50,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 9663,
+      "duration_ms": 3796,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -64,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 10412,
+      "duration_ms": 3351,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,10 +74,10 @@
       "feed_title": "OpenAI(@OpenAI)",
       "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12251,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 2640,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -92,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 775,
+      "duration_ms": 871,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -120,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 993,
+      "duration_ms": 656,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -134,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12,
+      "duration_ms": 49,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,10 +144,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 12264,
-      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 4190,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -162,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 2,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -176,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 881,
+      "duration_ms": 429,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -186,27 +184,49 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 5,
-      "ok_feeds": 3,
+      "ok_feeds": 4,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml",
-        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "91ea8bcc30969ff3a8c5d0c3c8711fe4fe5ae3a9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "换个键盘",
+          "url": "https://x.com/op7418/status/2075901399230013779",
+          "published_at": "2026-07-11T11:13:56Z",
+          "summary": "换个键盘💬12🔄0❤️15👀5830📊12⚡ Powered by xgo.ing"
+        }
+      ]
     },
     "global": {
       "label": "国外精选",
       "total_items": 0,
       "feed_total": 7,
-      "ok_feeds": 4,
+      "ok_feeds": 5,
       "failed_feeds": [
-        "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": []
     }
   },
-  "items": []
+  "items": [
+    {
+      "id": "91ea8bcc30969ff3a8c5d0c3c8711fe4fe5ae3a9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "换个键盘",
+      "url": "https://x.com/op7418/status/2075901399230013779",
+      "published_at": "2026-07-11T11:13:56Z",
+      "summary": "换个键盘💬12🔄0❤️15👀5830📊12⚡ Powered by xgo.ing"
+    }
+  ]
 }
