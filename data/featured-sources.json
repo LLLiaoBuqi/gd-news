@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T14:16:35.953577Z",
+  "generated_at": "2026-07-13T16:54:12.559673Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 620,
+      "duration_ms": 622,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 21,
+      "item_count": 16,
+      "duration_ms": 53,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1911,
+      "duration_ms": 1679,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1265,
+      "duration_ms": 1389,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 969,
+      "duration_ms": 831,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 987,
+      "duration_ms": 911,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1020,
+      "duration_ms": 421,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 42,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2235,
+      "duration_ms": 2086,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 337,
+      "duration_ms": 1091,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 14,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "他妈的，谁给老子传的呀？我操！\n\n我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？\n\n谁卖的？他妈分我点。",
           "url": "https://x.com/op7418/status/2076664973242360264",
           "published_at": "2026-07-13T13:48:06Z",
-          "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬14🔄0❤️11👀1577📊13⚡ Powered by xgo.ing"
+          "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬96🔄4❤️149👀34212📊106⚡ Powered by xgo.ing"
         },
         {
           "id": "0f97f99c884855d9e3530899f5796353d88dc8a4",
@@ -211,7 +211,7 @@
           "title": "Seedream 5.0 Pro 的这个图像精细编辑能力真的非常牛！\n\n它是模型能力和产品交互的一个结合，可以实现对图像非常精准的编辑。\n\n甚至你标注的部分和生成的部分区域颜色能完美融合，绝对不会溢出...",
           "url": "https://x.com/op7418/status/2076605296416530647",
           "published_at": "2026-07-13T09:50:58Z",
-          "summary": "Seedream 5.0 Pro 的这个图像精细编辑能力真的非常牛！ 它是模型能力和产品交互的一个结合，可以实现对图像非常精准的编辑。 甚至你标注的部分和生成的部分区域颜色能完美融合，绝对不会溢出。 我写了一篇教程，详细讲了一下如何在 Lumion 里面去玩这套东西，推荐去试试，是很不一样的体验。歸藏(guizang.ai)@op7418x.com/i/article/2076…🔗 View Quoted Tweet💬13🔄1❤️15👀5294📊11⚡ Powered by xgo.ing"
+          "summary": "Seedream 5.0 Pro 的这个图像精细编辑能力真的非常牛！ 它是模型能力和产品交互的一个结合，可以实现对图像非常精准的编辑。 甚至你标注的部分和生成的部分区域颜色能完美融合，绝对不会溢出。 我写了一篇教程，详细讲了一下如何在 Lumion 里面去玩这套东西，推荐去试试，是很不一样的体验。歸藏(guizang.ai)@op7418x.com/i/article/2076…🔗 View Quoted Tweet💬14🔄1❤️20👀7319📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "7f7cf7f4fd63a41d7882225f39629cf82c5d4c22",
@@ -222,7 +222,7 @@
           "title": "https://t.co/xbH6LN5WZS",
           "url": "https://x.com/op7418/status/2076604797202161800",
           "published_at": "2026-07-13T09:48:59Z",
-          "summary": "x.com/i/article/2076…💬9🔄4❤️31👀12272📊20⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2076…💬10🔄7❤️60👀18276📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "e66110d2bc0527b27901c6ac9a9f7a8ec2d25107",
@@ -266,7 +266,7 @@
           "title": "详情：https://t.co/5amNuWZH02",
           "url": "https://x.com/op7418/status/2076515141676617761",
           "published_at": "2026-07-13T03:52:44Z",
-          "summary": "详情：reddit.com/r/LocalLLaMA/c…💬1🔄0❤️2👀3613📊2⚡ Powered by xgo.ing"
+          "summary": "详情：reddit.com/r/LocalLLaMA/c…💬1🔄0❤️2👀3971📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "9939f84f05cb58702532973e7335ebd7dc60c714",
@@ -277,7 +277,7 @@
           "title": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。\n\n主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。\n\n幸亏我一直没来得及试它那个东西。",
           "url": "https://x.com/op7418/status/2076515019861414321",
           "published_at": "2026-07-13T03:52:15Z",
-          "summary": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。💬30🔄5❤️52👀18444📊37⚡ Powered by xgo.ing"
+          "summary": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。💬32🔄6❤️58👀20056📊40⚡ Powered by xgo.ing"
         },
         {
           "id": "d3361c6ccc6f14ed3a1c945479676158a63b38b6",
@@ -321,29 +321,7 @@
           "title": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号",
           "url": "https://x.com/op7418/status/2076352559263207806",
           "published_at": "2026-07-12T17:06:41Z",
-          "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬15🔄1❤️20👀13733📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "66300f23c44284d79483e3be77834d275969f941",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊",
-          "url": "https://x.com/op7418/status/2076335432321929585",
-          "published_at": "2026-07-12T15:58:38Z",
-          "summary": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊💬50🔄0❤️38👀44373📊45⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "55cde8b48e580f3c68a044fcf24ba104ac5f7b9a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观",
-          "url": "https://x.com/op7418/status/2076326449955602659",
-          "published_at": "2026-07-12T15:22:56Z",
-          "summary": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观maria@maria_rcksI solved the model picker problem, no need to thank me TiboYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄1❤️24👀14612📊9⚡ Powered by xgo.ing"
+          "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬15🔄1❤️21👀14504📊12⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -369,7 +347,7 @@
       "title": "他妈的，谁给老子传的呀？我操！\n\n我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？\n\n谁卖的？他妈分我点。",
       "url": "https://x.com/op7418/status/2076664973242360264",
       "published_at": "2026-07-13T13:48:06Z",
-      "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬14🔄0❤️11👀1577📊13⚡ Powered by xgo.ing"
+      "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬96🔄4❤️149👀34212📊106⚡ Powered by xgo.ing"
     },
     {
       "id": "0f97f99c884855d9e3530899f5796353d88dc8a4",
@@ -380,7 +358,7 @@
       "title": "Seedream 5.0 Pro 的这个图像精细编辑能力真的非常牛！\n\n它是模型能力和产品交互的一个结合，可以实现对图像非常精准的编辑。\n\n甚至你标注的部分和生成的部分区域颜色能完美融合，绝对不会溢出...",
       "url": "https://x.com/op7418/status/2076605296416530647",
       "published_at": "2026-07-13T09:50:58Z",
-      "summary": "Seedream 5.0 Pro 的这个图像精细编辑能力真的非常牛！ 它是模型能力和产品交互的一个结合，可以实现对图像非常精准的编辑。 甚至你标注的部分和生成的部分区域颜色能完美融合，绝对不会溢出。 我写了一篇教程，详细讲了一下如何在 Lumion 里面去玩这套东西，推荐去试试，是很不一样的体验。歸藏(guizang.ai)@op7418x.com/i/article/2076…🔗 View Quoted Tweet💬13🔄1❤️15👀5294📊11⚡ Powered by xgo.ing"
+      "summary": "Seedream 5.0 Pro 的这个图像精细编辑能力真的非常牛！ 它是模型能力和产品交互的一个结合，可以实现对图像非常精准的编辑。 甚至你标注的部分和生成的部分区域颜色能完美融合，绝对不会溢出。 我写了一篇教程，详细讲了一下如何在 Lumion 里面去玩这套东西，推荐去试试，是很不一样的体验。歸藏(guizang.ai)@op7418x.com/i/article/2076…🔗 View Quoted Tweet💬14🔄1❤️20👀7319📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "7f7cf7f4fd63a41d7882225f39629cf82c5d4c22",
@@ -391,7 +369,7 @@
       "title": "https://t.co/xbH6LN5WZS",
       "url": "https://x.com/op7418/status/2076604797202161800",
       "published_at": "2026-07-13T09:48:59Z",
-      "summary": "x.com/i/article/2076…💬9🔄4❤️31👀12272📊20⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2076…💬10🔄7❤️60👀18276📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "e66110d2bc0527b27901c6ac9a9f7a8ec2d25107",
@@ -435,7 +413,7 @@
       "title": "详情：https://t.co/5amNuWZH02",
       "url": "https://x.com/op7418/status/2076515141676617761",
       "published_at": "2026-07-13T03:52:44Z",
-      "summary": "详情：reddit.com/r/LocalLLaMA/c…💬1🔄0❤️2👀3613📊2⚡ Powered by xgo.ing"
+      "summary": "详情：reddit.com/r/LocalLLaMA/c…💬1🔄0❤️2👀3971📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "9939f84f05cb58702532973e7335ebd7dc60c714",
@@ -446,7 +424,7 @@
       "title": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。\n\n主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。\n\n幸亏我一直没来得及试它那个东西。",
       "url": "https://x.com/op7418/status/2076515019861414321",
       "published_at": "2026-07-13T03:52:15Z",
-      "summary": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。💬30🔄5❤️52👀18444📊37⚡ Powered by xgo.ing"
+      "summary": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。💬32🔄6❤️58👀20056📊40⚡ Powered by xgo.ing"
     },
     {
       "id": "d3361c6ccc6f14ed3a1c945479676158a63b38b6",
@@ -490,29 +468,7 @@
       "title": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号",
       "url": "https://x.com/op7418/status/2076352559263207806",
       "published_at": "2026-07-12T17:06:41Z",
-      "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬15🔄1❤️20👀13733📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "66300f23c44284d79483e3be77834d275969f941",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊",
-      "url": "https://x.com/op7418/status/2076335432321929585",
-      "published_at": "2026-07-12T15:58:38Z",
-      "summary": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊💬50🔄0❤️38👀44373📊45⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "55cde8b48e580f3c68a044fcf24ba104ac5f7b9a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观",
-      "url": "https://x.com/op7418/status/2076326449955602659",
-      "published_at": "2026-07-12T15:22:56Z",
-      "summary": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观maria@maria_rcksI solved the model picker problem, no need to thank me TiboYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄1❤️24👀14612📊9⚡ Powered by xgo.ing"
+      "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬15🔄1❤️21👀14504📊12⚡ Powered by xgo.ing"
     }
   ]
 }
