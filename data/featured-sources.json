@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T23:23:30.309010Z",
+  "generated_at": "2026-07-13T01:02:58.510203Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 0,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 173,
+      "duration_ms": 163,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3934,
+      "duration_ms": 2044,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3597,
+      "duration_ms": 1655,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2950,
+      "duration_ms": 1083,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1128,
+      "duration_ms": 744,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 681,
+      "duration_ms": 1005,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4546,
+      "duration_ms": 2654,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 903,
+      "duration_ms": 475,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,47 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 0,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "75ff83119f4b155510c4a74829760aa3f3a1ac5f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号",
+          "url": "https://x.com/op7418/status/2076352559263207806",
+          "published_at": "2026-07-12T17:06:41Z",
+          "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬11🔄1❤️16👀9992📊9⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "66300f23c44284d79483e3be77834d275969f941",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊",
+          "url": "https://x.com/op7418/status/2076335432321929585",
+          "published_at": "2026-07-12T15:58:38Z",
+          "summary": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊💬40🔄0❤️30👀26677📊36⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "55cde8b48e580f3c68a044fcf24ba104ac5f7b9a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观",
+          "url": "https://x.com/op7418/status/2076326449955602659",
+          "published_at": "2026-07-12T15:22:56Z",
+          "summary": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观maria@maria_rcksI solved the model picker problem, no need to thank me TiboYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄0❤️20👀10962📊8⚡ Powered by xgo.ing"
+        }
+      ]
     },
     "global": {
       "label": "国外精选",
@@ -204,5 +238,39 @@
       "items": []
     }
   },
-  "items": []
+  "items": [
+    {
+      "id": "75ff83119f4b155510c4a74829760aa3f3a1ac5f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号",
+      "url": "https://x.com/op7418/status/2076352559263207806",
+      "published_at": "2026-07-12T17:06:41Z",
+      "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬11🔄1❤️16👀9992📊9⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "66300f23c44284d79483e3be77834d275969f941",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊",
+      "url": "https://x.com/op7418/status/2076335432321929585",
+      "published_at": "2026-07-12T15:58:38Z",
+      "summary": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊💬40🔄0❤️30👀26677📊36⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "55cde8b48e580f3c68a044fcf24ba104ac5f7b9a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观",
+      "url": "https://x.com/op7418/status/2076326449955602659",
+      "published_at": "2026-07-12T15:22:56Z",
+      "summary": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观maria@maria_rcksI solved the model picker problem, no need to thank me TiboYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄0❤️20👀10962📊8⚡ Powered by xgo.ing"
+    }
+  ]
 }
