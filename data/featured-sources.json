@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T04:55:06.381555Z",
+  "generated_at": "2026-07-13T08:11:55.320831Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 755,
+      "duration_ms": 110,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 44,
+      "duration_ms": 288,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1720,
+      "duration_ms": 1749,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1289,
+      "duration_ms": 1478,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 847,
+      "duration_ms": 721,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 593,
+      "duration_ms": 420,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 324,
+      "duration_ms": 538,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 31,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2347,
+      "duration_ms": 2367,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 816,
+      "duration_ms": 655,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "b1d539878391366b6c7d5be9aada21a2c363dc2d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 改的还是挺快的，已经把 Work 和 Codex 的区别弱化了，接下来估计会优化 ChatGPT 那部分的交互",
+          "url": "https://x.com/op7418/status/2076524831802270004",
+          "published_at": "2026-07-13T04:31:14Z",
+          "summary": "Codex 改的还是挺快的，已经把 Work 和 Codex 的区别弱化了，接下来估计会优化 ChatGPT 那部分的交互歸藏(guizang.ai)@op7418OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用…"
+        },
         {
           "id": "80ee37cac254c38c42ee419790b1ee485d72702a",
           "site_id": "featuredrss",
@@ -211,7 +222,7 @@
           "title": "详情：https://t.co/5amNuWZH02",
           "url": "https://x.com/op7418/status/2076515141676617761",
           "published_at": "2026-07-13T03:52:44Z",
-          "summary": "详情：reddit.com/r/LocalLLaMA/c…💬1🔄0❤️1👀293📊1⚡ Powered by xgo.ing"
+          "summary": "详情：reddit.com/r/LocalLLaMA/c…💬1🔄0❤️2👀2557📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "9939f84f05cb58702532973e7335ebd7dc60c714",
@@ -222,7 +233,7 @@
           "title": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。\n\n主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。\n\n幸亏我一直没来得及试它那个东西。",
           "url": "https://x.com/op7418/status/2076515019861414321",
           "published_at": "2026-07-13T03:52:15Z",
-          "summary": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。💬3🔄0❤️3👀1114📊4⚡ Powered by xgo.ing"
+          "summary": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。💬23🔄2❤️31👀11832📊26⚡ Powered by xgo.ing"
         },
         {
           "id": "2156e629818c9f2588aee18f13b059ff267bc87a",
@@ -244,7 +255,7 @@
           "title": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号",
           "url": "https://x.com/op7418/status/2076352559263207806",
           "published_at": "2026-07-12T17:06:41Z",
-          "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬11🔄1❤️17👀11468📊9⚡ Powered by xgo.ing"
+          "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬15🔄1❤️18👀12485📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "66300f23c44284d79483e3be77834d275969f941",
@@ -255,7 +266,7 @@
           "title": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊",
           "url": "https://x.com/op7418/status/2076335432321929585",
           "published_at": "2026-07-12T15:58:38Z",
-          "summary": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊💬45🔄0❤️33👀33789📊40⚡ Powered by xgo.ing"
+          "summary": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊💬48🔄0❤️38👀40056📊43⚡ Powered by xgo.ing"
         },
         {
           "id": "55cde8b48e580f3c68a044fcf24ba104ac5f7b9a",
@@ -266,7 +277,7 @@
           "title": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观",
           "url": "https://x.com/op7418/status/2076326449955602659",
           "published_at": "2026-07-12T15:22:56Z",
-          "summary": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观maria@maria_rcksI solved the model picker problem, no need to thank me TiboYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄0❤️20👀12344📊9⚡ Powered by xgo.ing"
+          "summary": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观maria@maria_rcksI solved the model picker problem, no need to thank me TiboYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄0❤️23👀13279📊9⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -283,6 +294,17 @@
     }
   },
   "items": [
+    {
+      "id": "b1d539878391366b6c7d5be9aada21a2c363dc2d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex 改的还是挺快的，已经把 Work 和 Codex 的区别弱化了，接下来估计会优化 ChatGPT 那部分的交互",
+      "url": "https://x.com/op7418/status/2076524831802270004",
+      "published_at": "2026-07-13T04:31:14Z",
+      "summary": "Codex 改的还是挺快的，已经把 Work 和 Codex 的区别弱化了，接下来估计会优化 ChatGPT 那部分的交互歸藏(guizang.ai)@op7418OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用…"
+    },
     {
       "id": "80ee37cac254c38c42ee419790b1ee485d72702a",
       "site_id": "featuredrss",
@@ -303,7 +325,7 @@
       "title": "详情：https://t.co/5amNuWZH02",
       "url": "https://x.com/op7418/status/2076515141676617761",
       "published_at": "2026-07-13T03:52:44Z",
-      "summary": "详情：reddit.com/r/LocalLLaMA/c…💬1🔄0❤️1👀293📊1⚡ Powered by xgo.ing"
+      "summary": "详情：reddit.com/r/LocalLLaMA/c…💬1🔄0❤️2👀2557📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "9939f84f05cb58702532973e7335ebd7dc60c714",
@@ -314,7 +336,7 @@
       "title": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。\n\n主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。\n\n幸亏我一直没来得及试它那个东西。",
       "url": "https://x.com/op7418/status/2076515019861414321",
       "published_at": "2026-07-13T03:52:15Z",
-      "summary": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。💬3🔄0❤️3👀1114📊4⚡ Powered by xgo.ing"
+      "summary": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。💬23🔄2❤️31👀11832📊26⚡ Powered by xgo.ing"
     },
     {
       "id": "2156e629818c9f2588aee18f13b059ff267bc87a",
@@ -336,7 +358,7 @@
       "title": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号",
       "url": "https://x.com/op7418/status/2076352559263207806",
       "published_at": "2026-07-12T17:06:41Z",
-      "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬11🔄1❤️17👀11468📊9⚡ Powered by xgo.ing"
+      "summary": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号歸藏(guizang.ai)@op7418今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊🔗 View Quoted Tweet💬15🔄1❤️18👀12485📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "66300f23c44284d79483e3be77834d275969f941",
@@ -347,7 +369,7 @@
       "title": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊",
       "url": "https://x.com/op7418/status/2076335432321929585",
       "published_at": "2026-07-12T15:58:38Z",
-      "summary": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊💬45🔄0❤️33👀33789📊40⚡ Powered by xgo.ing"
+      "summary": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊💬48🔄0❤️38👀40056📊43⚡ Powered by xgo.ing"
     },
     {
       "id": "55cde8b48e580f3c68a044fcf24ba104ac5f7b9a",
@@ -358,7 +380,7 @@
       "title": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观",
       "url": "https://x.com/op7418/status/2076326449955602659",
       "published_at": "2026-07-12T15:22:56Z",
-      "summary": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观maria@maria_rcksI solved the model picker problem, no need to thank me TiboYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄0❤️20👀12344📊9⚡ Powered by xgo.ing"
+      "summary": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观maria@maria_rcksI solved the model picker problem, no need to thank me TiboYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄0❤️23👀13279📊9⚡ Powered by xgo.ing"
     }
   ]
 }
