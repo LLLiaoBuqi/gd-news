@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T12:45:47.810782Z",
+  "generated_at": "2026-07-14T14:44:08.012620Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 636,
+      "duration_ms": 382,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 50,
+      "duration_ms": 49,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1630,
+      "duration_ms": 1671,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1204,
+      "duration_ms": 1462,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 715,
+      "duration_ms": 793,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 473,
+      "duration_ms": 743,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 560,
+      "duration_ms": 631,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 52,
+      "duration_ms": 51,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1992,
+      "duration_ms": 2175,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 840,
+      "duration_ms": 332,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "关于这个跟 ask question 的区别",
           "url": "https://x.com/op7418/status/2076874927404417382",
           "published_at": "2026-07-14T03:42:23Z",
-          "summary": "关于这个跟 ask question 的区别💬0🔄0❤️6👀7528📊1⚡ Powered by xgo.ing"
+          "summary": "关于这个跟 ask question 的区别💬2🔄0❤️8👀8195📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "3afdd296d022a4b7edabc6024f598bf27acb435e",
@@ -222,7 +222,7 @@
           "title": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你...",
           "url": "https://x.com/op7418/status/2076874065839878337",
           "published_at": "2026-07-14T03:38:58Z",
-          "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬54🔄13❤️247👀48267📊100⚡ Powered by…"
+          "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬61🔄14❤️274👀53735📊110⚡ Powered by…"
         },
         {
           "id": "06dd530d4d79e23d2b8654d246be8ed2794b74b6",
@@ -245,30 +245,42 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684248&idx=1&sn=d91f418c791082ef0420ef169d52de78",
           "published_at": "2026-07-14T00:11:00Z",
           "summary": "史上最豪华打工天团"
-        },
-        {
-          "id": "27ad82204ed478663a461757e641f665eaf2038f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "他妈的，谁给老子传的呀？我操！\n\n我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？\n\n谁卖的？他妈分我点。",
-          "url": "https://x.com/op7418/status/2076664973242360264",
-          "published_at": "2026-07-13T13:48:06Z",
-          "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬244🔄29❤️553👀142053📊318⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "443a96925a374db30b95592d6f54634189227315",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+          "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+          "published_at": "2026-07-14T00:00:00Z",
+          "summary": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index"
+        },
+        {
+          "id": "9e33529ea18c1ad96392ed5b1a85ffa2a74336da",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic News",
+          "region": "global",
+          "title": "Anthropic commits $10 million to Canadian AI research",
+          "url": "https://www.anthropic.com/news/canadian-ai-research",
+          "published_at": "2026-07-13T16:00:00Z",
+          "summary": "Le français suit. Canadian institutions and researchers have played a critical role in the modern AI era. During a period of broad skepticism about research into neural networks, the University of Toronto and the Université de Montréal were two of only a handful of institutions t…"
+        }
+      ]
     }
   },
   "items": [
@@ -292,7 +304,7 @@
       "title": "关于这个跟 ask question 的区别",
       "url": "https://x.com/op7418/status/2076874927404417382",
       "published_at": "2026-07-14T03:42:23Z",
-      "summary": "关于这个跟 ask question 的区别💬0🔄0❤️6👀7528📊1⚡ Powered by xgo.ing"
+      "summary": "关于这个跟 ask question 的区别💬2🔄0❤️8👀8195📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "3afdd296d022a4b7edabc6024f598bf27acb435e",
@@ -303,7 +315,7 @@
       "title": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你...",
       "url": "https://x.com/op7418/status/2076874065839878337",
       "published_at": "2026-07-14T03:38:58Z",
-      "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬54🔄13❤️247👀48267📊100⚡ Powered by…"
+      "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬61🔄14❤️274👀53735📊110⚡ Powered by…"
     },
     {
       "id": "06dd530d4d79e23d2b8654d246be8ed2794b74b6",
@@ -328,15 +340,26 @@
       "summary": "史上最豪华打工天团"
     },
     {
-      "id": "27ad82204ed478663a461757e641f665eaf2038f",
+      "id": "443a96925a374db30b95592d6f54634189227315",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "他妈的，谁给老子传的呀？我操！\n\n我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？\n\n谁卖的？他妈分我点。",
-      "url": "https://x.com/op7418/status/2076664973242360264",
-      "published_at": "2026-07-13T13:48:06Z",
-      "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬244🔄29❤️553👀142053📊318⚡ Powered by xgo.ing"
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "published_at": "2026-07-14T00:00:00Z",
+      "summary": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index"
+    },
+    {
+      "id": "9e33529ea18c1ad96392ed5b1a85ffa2a74336da",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic News",
+      "region": "global",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "published_at": "2026-07-13T16:00:00Z",
+      "summary": "Le français suit. Canadian institutions and researchers have played a critical role in the modern AI era. During a period of broad skepticism about research into neural networks, the University of Toronto and the Université de Montréal were two of only a handful of institutions t…"
     }
   ]
 }
