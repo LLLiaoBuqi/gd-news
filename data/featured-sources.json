@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T11:03:49.514077Z",
+  "generated_at": "2026-07-14T12:45:47.810782Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 887,
+      "duration_ms": 636,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 30,
+      "duration_ms": 50,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1542,
+      "duration_ms": 1630,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1207,
+      "duration_ms": 1204,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 921,
+      "duration_ms": 715,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 802,
+      "duration_ms": 473,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 356,
+      "duration_ms": 560,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 52,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2068,
+      "duration_ms": 1992,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 857,
+      "duration_ms": 840,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c2468dab3b57d0b4868852bac2810fe700682349",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测LibTV Agent，把100个AI视频工作流重组成Skills后我创意自由了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508417&idx=1&sn=97f4954367c22312407c63db28f00ebf",
+          "published_at": "2026-07-14T09:04:00Z",
+          "summary": "我还手搓了一个做视频Skill的提示语！"
+        },
         {
           "id": "cbdd092f5b8909a80646324494c1e16bb2b62eac",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "关于这个跟 ask question 的区别",
           "url": "https://x.com/op7418/status/2076874927404417382",
           "published_at": "2026-07-14T03:42:23Z",
-          "summary": "关于这个跟 ask question 的区别💬0🔄0❤️6👀6861📊1⚡ Powered by xgo.ing"
+          "summary": "关于这个跟 ask question 的区别💬0🔄0❤️6👀7528📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "3afdd296d022a4b7edabc6024f598bf27acb435e",
@@ -211,7 +222,7 @@
           "title": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你...",
           "url": "https://x.com/op7418/status/2076874065839878337",
           "published_at": "2026-07-14T03:38:58Z",
-          "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬49🔄11❤️227👀43537📊92⚡ Powered by x…"
+          "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬54🔄13❤️247👀48267📊100⚡ Powered by…"
         },
         {
           "id": "06dd530d4d79e23d2b8654d246be8ed2794b74b6",
@@ -244,7 +255,7 @@
           "title": "他妈的，谁给老子传的呀？我操！\n\n我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？\n\n谁卖的？他妈分我点。",
           "url": "https://x.com/op7418/status/2076664973242360264",
           "published_at": "2026-07-13T13:48:06Z",
-          "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬240🔄29❤️533👀137061📊312⚡ Powered by xgo.ing"
+          "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬244🔄29❤️553👀142053📊318⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -262,6 +273,17 @@
   },
   "items": [
     {
+      "id": "c2468dab3b57d0b4868852bac2810fe700682349",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测LibTV Agent，把100个AI视频工作流重组成Skills后我创意自由了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508417&idx=1&sn=97f4954367c22312407c63db28f00ebf",
+      "published_at": "2026-07-14T09:04:00Z",
+      "summary": "我还手搓了一个做视频Skill的提示语！"
+    },
+    {
       "id": "cbdd092f5b8909a80646324494c1e16bb2b62eac",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -270,7 +292,7 @@
       "title": "关于这个跟 ask question 的区别",
       "url": "https://x.com/op7418/status/2076874927404417382",
       "published_at": "2026-07-14T03:42:23Z",
-      "summary": "关于这个跟 ask question 的区别💬0🔄0❤️6👀6861📊1⚡ Powered by xgo.ing"
+      "summary": "关于这个跟 ask question 的区别💬0🔄0❤️6👀7528📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "3afdd296d022a4b7edabc6024f598bf27acb435e",
@@ -281,7 +303,7 @@
       "title": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你...",
       "url": "https://x.com/op7418/status/2076874065839878337",
       "published_at": "2026-07-14T03:38:58Z",
-      "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬49🔄11❤️227👀43537📊92⚡ Powered by x…"
+      "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬54🔄13❤️247👀48267📊100⚡ Powered by…"
     },
     {
       "id": "06dd530d4d79e23d2b8654d246be8ed2794b74b6",
@@ -314,7 +336,7 @@
       "title": "他妈的，谁给老子传的呀？我操！\n\n我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？\n\n谁卖的？他妈分我点。",
       "url": "https://x.com/op7418/status/2076664973242360264",
       "published_at": "2026-07-13T13:48:06Z",
-      "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬240🔄29❤️533👀137061📊312⚡ Powered by xgo.ing"
+      "summary": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。💬244🔄29❤️553👀142053📊318⚡ Powered by xgo.ing"
     }
   ]
 }
