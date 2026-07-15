@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T17:44:38.379494Z",
+  "generated_at": "2026-07-15T19:00:40.248810Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 892,
+      "duration_ms": 409,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 34,
+      "duration_ms": 32,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1845,
+      "duration_ms": 1716,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1460,
+      "duration_ms": 1058,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1008,
+      "duration_ms": 911,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 848,
+      "duration_ms": 709,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 842,
+      "duration_ms": 347,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 33,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2357,
+      "duration_ms": 2182,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1231,
+      "duration_ms": 885,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？\n\n算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。",
           "url": "https://x.com/op7418/status/2077403393723879703",
           "published_at": "2026-07-15T14:42:20Z",
-          "summary": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？ 算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。💬11🔄0❤️10👀2984📊10⚡ Powered by xgo.ing"
+          "summary": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？ 算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。💬17🔄0❤️10👀3161📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "621f83fadf839a4da5245095081a3ea1cb84ab12",
@@ -239,7 +239,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -247,6 +247,72 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "1084ff50df623d33a5c2d86387de035550b382a3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Our team is hard at work at making Gemini Spark even more helpful. Here are 4 improvements that are ...",
+          "url": "https://x.com/GeminiApp/status/2077460866346426649",
+          "published_at": "2026-07-15T18:30:42Z",
+          "summary": "Our team is hard at work at making Gemini Spark even more helpful. Here are 4 improvements that are starting to roll out today: 1) Google Doc editing: You can now directly open and edit @GoogleDocs in Spark 2) Deeper @GoogleWorkspace integration: Spark can now read comments in Go…"
+        },
+        {
+          "id": "29b6021cf13a967339e9bb84e3facec9d7c2978a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Give it a try at https://t.co/awhPeHZIqm or in the app and let us know what you think in the replies...",
+          "url": "https://x.com/GeminiApp/status/2077460867550244889",
+          "published_at": "2026-07-15T18:30:42Z",
+          "summary": "Give it a try at gemini.google.com or in the app and let us know what you think in the replies. 👇 Learn more about where Gemini Spark is available here:goo.gle/4fc7349t💬0🔄0❤️2👀460⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "04c493a179ff5fc348eb94115597d3d1f2ed3e76",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages.\n\nSpa...",
+          "url": "https://x.com/GeminiApp/status/2077460573089058885",
+          "published_at": "2026-07-15T18:29:32Z",
+          "summary": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages. Spark is your personal AI agent that works in the background 24/7 to get things done under your direction.💬6🔄2❤️40👀5029📊10⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "02d46adc4ab917ebbc2dc6848893b3ab5ca4ce63",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed so...",
+          "url": "https://x.com/OpenAI/status/2077446722683650525",
+          "published_at": "2026-07-15T17:34:30Z",
+          "summary": "Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer…"
+        },
+        {
+          "id": "a997eb90967f8dd473d53dbc1a8f789278f9922c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "AI agents are already being used to improve the capabilities of our next-generation models.\n\nWe beli...",
+          "url": "https://x.com/OpenAI/status/2077446723992228167",
+          "published_at": "2026-07-15T17:34:30Z",
+          "summary": "AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.💬8🔄1❤…"
+        },
+        {
+          "id": "06ec97139d8ad2a29f68384e2d70831b20142a6f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Introducing GPT-Red\n\nAn internal automated red teamer on a mission to find our models’ prompt inject...",
+          "url": "https://x.com/OpenAI/status/2077446718728425686",
+          "published_at": "2026-07-15T17:34:29Z",
+          "summary": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. openai.com/index/unlockin…💬176🔄215❤️2733👀185466📊467⚡ Powered by xgo.ing"
+        },
         {
           "id": "91ef4a35934896e440791bc342b9be574c8b55e2",
           "site_id": "featuredrss",
@@ -256,12 +322,78 @@
           "title": "You don’t have to wait.\n\nMerch inspired by research &amp; deployment.\n\nAvailable until sold out.\nhtt...",
           "url": "https://x.com/OpenAI/status/2077430470510526635",
           "published_at": "2026-07-15T16:29:55Z",
-          "summary": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://t.co/Ls79n9OfZ0Daniel White@dwhitedesign@thsottiaux When it reaches 10M could we get OpenAI merch ? 😂🔗 View Quoted Tweet💬160🔄47❤️1062👀197968📊185⚡ Powered by xgo.ing"
+          "summary": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://t.co/Ls79n9OfZ0Daniel White@dwhitedesign@thsottiaux When it reaches 10M could we get OpenAI merch ? 😂🔗 View Quoted Tweet💬229🔄62❤️1629👀353908📊276⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "1084ff50df623d33a5c2d86387de035550b382a3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Our team is hard at work at making Gemini Spark even more helpful. Here are 4 improvements that are ...",
+      "url": "https://x.com/GeminiApp/status/2077460866346426649",
+      "published_at": "2026-07-15T18:30:42Z",
+      "summary": "Our team is hard at work at making Gemini Spark even more helpful. Here are 4 improvements that are starting to roll out today: 1) Google Doc editing: You can now directly open and edit @GoogleDocs in Spark 2) Deeper @GoogleWorkspace integration: Spark can now read comments in Go…"
+    },
+    {
+      "id": "29b6021cf13a967339e9bb84e3facec9d7c2978a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Give it a try at https://t.co/awhPeHZIqm or in the app and let us know what you think in the replies...",
+      "url": "https://x.com/GeminiApp/status/2077460867550244889",
+      "published_at": "2026-07-15T18:30:42Z",
+      "summary": "Give it a try at gemini.google.com or in the app and let us know what you think in the replies. 👇 Learn more about where Gemini Spark is available here:goo.gle/4fc7349t💬0🔄0❤️2👀460⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "04c493a179ff5fc348eb94115597d3d1f2ed3e76",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages.\n\nSpa...",
+      "url": "https://x.com/GeminiApp/status/2077460573089058885",
+      "published_at": "2026-07-15T18:29:32Z",
+      "summary": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages. Spark is your personal AI agent that works in the background 24/7 to get things done under your direction.💬6🔄2❤️40👀5029📊10⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "02d46adc4ab917ebbc2dc6848893b3ab5ca4ce63",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed so...",
+      "url": "https://x.com/OpenAI/status/2077446722683650525",
+      "published_at": "2026-07-15T17:34:30Z",
+      "summary": "Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer…"
+    },
+    {
+      "id": "a997eb90967f8dd473d53dbc1a8f789278f9922c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "AI agents are already being used to improve the capabilities of our next-generation models.\n\nWe beli...",
+      "url": "https://x.com/OpenAI/status/2077446723992228167",
+      "published_at": "2026-07-15T17:34:30Z",
+      "summary": "AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.💬8🔄1❤…"
+    },
+    {
+      "id": "06ec97139d8ad2a29f68384e2d70831b20142a6f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Introducing GPT-Red\n\nAn internal automated red teamer on a mission to find our models’ prompt inject...",
+      "url": "https://x.com/OpenAI/status/2077446718728425686",
+      "published_at": "2026-07-15T17:34:29Z",
+      "summary": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. openai.com/index/unlockin…💬176🔄215❤️2733👀185466📊467⚡ Powered by xgo.ing"
+    },
     {
       "id": "91ef4a35934896e440791bc342b9be574c8b55e2",
       "site_id": "featuredrss",
@@ -271,7 +403,7 @@
       "title": "You don’t have to wait.\n\nMerch inspired by research &amp; deployment.\n\nAvailable until sold out.\nhtt...",
       "url": "https://x.com/OpenAI/status/2077430470510526635",
       "published_at": "2026-07-15T16:29:55Z",
-      "summary": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://t.co/Ls79n9OfZ0Daniel White@dwhitedesign@thsottiaux When it reaches 10M could we get OpenAI merch ? 😂🔗 View Quoted Tweet💬160🔄47❤️1062👀197968📊185⚡ Powered by xgo.ing"
+      "summary": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://t.co/Ls79n9OfZ0Daniel White@dwhitedesign@thsottiaux When it reaches 10M could we get OpenAI merch ? 😂🔗 View Quoted Tweet💬229🔄62❤️1629👀353908📊276⚡ Powered by xgo.ing"
     },
     {
       "id": "7bb7c479dce7740d4d3a70b89885e6a99c102a63",
@@ -282,7 +414,7 @@
       "title": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？\n\n算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。",
       "url": "https://x.com/op7418/status/2077403393723879703",
       "published_at": "2026-07-15T14:42:20Z",
-      "summary": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？ 算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。💬11🔄0❤️10👀2984📊10⚡ Powered by xgo.ing"
+      "summary": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？ 算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。💬17🔄0❤️10👀3161📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "621f83fadf839a4da5245095081a3ea1cb84ab12",
