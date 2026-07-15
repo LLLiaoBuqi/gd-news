@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T01:49:05.621940Z",
+  "generated_at": "2026-07-15T04:45:31.646952Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 138,
+      "duration_ms": 161,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 150,
+      "duration_ms": 25,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1910,
+      "duration_ms": 1718,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1516,
+      "duration_ms": 1370,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1216,
+      "duration_ms": 1131,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1068,
+      "duration_ms": 820,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1135,
+      "duration_ms": 921,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2371,
+      "duration_ms": 2402,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1270,
+      "duration_ms": 1112,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "621f83fadf839a4da5245095081a3ea1cb84ab12",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 增长真猛啊，前几天才 700 万这就 800 万周活了\n\n顺便，又重置了，送的手动重置次数我都没用，看了一下现在有四次",
+          "url": "https://x.com/op7418/status/2077231238440780100",
+          "published_at": "2026-07-15T03:18:14Z",
+          "summary": "Codex 增长真猛啊，前几天才 700 万这就 800 万周活了 顺便，又重置了，送的手动重置次数我都没用，看了一下现在有四次Tibo@thsottiauxHello. We have reached 8M active users across Codex and ChatGPT Work. We are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to e…"
+        },
         {
           "id": "c2468dab3b57d0b4868852bac2810fe700682349",
           "site_id": "featuredrss",
@@ -201,39 +212,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508417&idx=1&sn=97f4954367c22312407c63db28f00ebf",
           "published_at": "2026-07-14T09:04:00Z",
           "summary": "我还手搓了一个做视频Skill的提示语！"
-        },
-        {
-          "id": "cbdd092f5b8909a80646324494c1e16bb2b62eac",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "关于这个跟 ask question 的区别",
-          "url": "https://x.com/op7418/status/2076874927404417382",
-          "published_at": "2026-07-14T03:42:23Z",
-          "summary": "关于这个跟 ask question 的区别💬16🔄0❤️10👀9828📊14⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3afdd296d022a4b7edabc6024f598bf27acb435e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你...",
-          "url": "https://x.com/op7418/status/2076874065839878337",
-          "published_at": "2026-07-14T03:38:58Z",
-          "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬87🔄21❤️329👀67546📊147⚡ Powered by…"
-        },
-        {
-          "id": "06dd530d4d79e23d2b8654d246be8ed2794b74b6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。\n\n但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的—...",
-          "url": "https://x.com/op7418/status/2076867534708748719",
-          "published_at": "2026-07-14T03:13:01Z",
-          "summary": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。 但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。 太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。💬33🔄4❤️99👀30117📊39⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -251,6 +229,17 @@
   },
   "items": [
     {
+      "id": "621f83fadf839a4da5245095081a3ea1cb84ab12",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex 增长真猛啊，前几天才 700 万这就 800 万周活了\n\n顺便，又重置了，送的手动重置次数我都没用，看了一下现在有四次",
+      "url": "https://x.com/op7418/status/2077231238440780100",
+      "published_at": "2026-07-15T03:18:14Z",
+      "summary": "Codex 增长真猛啊，前几天才 700 万这就 800 万周活了 顺便，又重置了，送的手动重置次数我都没用，看了一下现在有四次Tibo@thsottiauxHello. We have reached 8M active users across Codex and ChatGPT Work. We are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to e…"
+    },
+    {
       "id": "c2468dab3b57d0b4868852bac2810fe700682349",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -260,39 +249,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508417&idx=1&sn=97f4954367c22312407c63db28f00ebf",
       "published_at": "2026-07-14T09:04:00Z",
       "summary": "我还手搓了一个做视频Skill的提示语！"
-    },
-    {
-      "id": "cbdd092f5b8909a80646324494c1e16bb2b62eac",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "关于这个跟 ask question 的区别",
-      "url": "https://x.com/op7418/status/2076874927404417382",
-      "published_at": "2026-07-14T03:42:23Z",
-      "summary": "关于这个跟 ask question 的区别💬16🔄0❤️10👀9828📊14⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3afdd296d022a4b7edabc6024f598bf27acb435e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你...",
-      "url": "https://x.com/op7418/status/2076874065839878337",
-      "published_at": "2026-07-14T03:38:58Z",
-      "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬87🔄21❤️329👀67546📊147⚡ Powered by…"
-    },
-    {
-      "id": "06dd530d4d79e23d2b8654d246be8ed2794b74b6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。\n\n但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的—...",
-      "url": "https://x.com/op7418/status/2076867534708748719",
-      "published_at": "2026-07-14T03:13:01Z",
-      "summary": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。 但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。 太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。💬33🔄4❤️99👀30117📊39⚡ Powered by xgo.ing"
     }
   ]
 }
