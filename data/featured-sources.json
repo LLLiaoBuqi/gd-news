@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T23:45:29.993950Z",
+  "generated_at": "2026-07-15T01:49:05.621940Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 575,
+      "duration_ms": 138,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1501,
+      "duration_ms": 1910,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1248,
+      "duration_ms": 1516,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 847,
+      "duration_ms": 1216,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1147,
+      "duration_ms": 1068,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 875,
+      "duration_ms": 1135,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 20,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2155,
+      "duration_ms": 2371,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 450,
+      "duration_ms": 1270,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "关于这个跟 ask question 的区别",
           "url": "https://x.com/op7418/status/2076874927404417382",
           "published_at": "2026-07-14T03:42:23Z",
-          "summary": "关于这个跟 ask question 的区别💬16🔄0❤️9👀9567📊14⚡ Powered by xgo.ing"
+          "summary": "关于这个跟 ask question 的区别💬16🔄0❤️10👀9828📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "3afdd296d022a4b7edabc6024f598bf27acb435e",
@@ -222,7 +222,7 @@
           "title": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你...",
           "url": "https://x.com/op7418/status/2076874065839878337",
           "published_at": "2026-07-14T03:38:58Z",
-          "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬85🔄20❤️321👀65695📊143⚡ Powered by…"
+          "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬87🔄21❤️329👀67546📊147⚡ Powered by…"
         },
         {
           "id": "06dd530d4d79e23d2b8654d246be8ed2794b74b6",
@@ -233,43 +233,20 @@
           "title": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。\n\n但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的—...",
           "url": "https://x.com/op7418/status/2076867534708748719",
           "published_at": "2026-07-14T03:13:01Z",
-          "summary": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。 但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。 太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。歸藏(guizang.ai)@op7418老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。🔗 View Q…"
-        },
-        {
-          "id": "8983079413870987c6743df526b110e735c4bcfb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "聊聊今年涌进Anthropic的N个巨佬，他们押注的是下一个十年。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684248&idx=1&sn=d91f418c791082ef0420ef169d52de78",
-          "published_at": "2026-07-14T00:11:00Z",
-          "summary": "史上最豪华打工天团"
+          "summary": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。 但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。 太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。💬33🔄4❤️99👀30117📊39⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "443a96925a374db30b95592d6f54634189227315",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
-          "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-          "published_at": "2026-07-14T00:00:00Z",
-          "summary": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -293,7 +270,7 @@
       "title": "关于这个跟 ask question 的区别",
       "url": "https://x.com/op7418/status/2076874927404417382",
       "published_at": "2026-07-14T03:42:23Z",
-      "summary": "关于这个跟 ask question 的区别💬16🔄0❤️9👀9567📊14⚡ Powered by xgo.ing"
+      "summary": "关于这个跟 ask question 的区别💬16🔄0❤️10👀9828📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "3afdd296d022a4b7edabc6024f598bf27acb435e",
@@ -304,7 +281,7 @@
       "title": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你...",
       "url": "https://x.com/op7418/status/2076874065839878337",
       "published_at": "2026-07-14T03:38:58Z",
-      "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬85🔄20❤️321👀65695📊143⚡ Powered by…"
+      "summary": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。💬87🔄21❤️329👀67546📊147⚡ Powered by…"
     },
     {
       "id": "06dd530d4d79e23d2b8654d246be8ed2794b74b6",
@@ -315,29 +292,7 @@
       "title": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。\n\n但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的—...",
       "url": "https://x.com/op7418/status/2076867534708748719",
       "published_at": "2026-07-14T03:13:01Z",
-      "summary": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。 但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。 太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。歸藏(guizang.ai)@op7418老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。🔗 View Q…"
-    },
-    {
-      "id": "8983079413870987c6743df526b110e735c4bcfb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "聊聊今年涌进Anthropic的N个巨佬，他们押注的是下一个十年。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684248&idx=1&sn=d91f418c791082ef0420ef169d52de78",
-      "published_at": "2026-07-14T00:11:00Z",
-      "summary": "史上最豪华打工天团"
-    },
-    {
-      "id": "443a96925a374db30b95592d6f54634189227315",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "published_at": "2026-07-14T00:00:00Z",
-      "summary": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index"
+      "summary": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。 但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。 太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。💬33🔄4❤️99👀30117📊39⚡ Powered by xgo.ing"
     }
   ]
 }
