@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:48:59.510715Z",
+  "generated_at": "2026-07-16T18:00:07.211920Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 18,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 745,
+      "duration_ms": 727,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 22,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1827,
+      "duration_ms": 1668,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1261,
+      "duration_ms": 1050,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1049,
+      "duration_ms": 741,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 953,
+      "duration_ms": 968,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 916,
+      "duration_ms": 584,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2563,
+      "duration_ms": 2313,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 386,
+      "duration_ms": 402,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "daaf77a1c53e1b557fb2e1272c8f9b43a5c4637a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用",
+          "url": "https://x.com/op7418/status/2077794265804263600",
+          "published_at": "2026-07-16T16:35:31Z",
+          "summary": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用💬2🔄0❤️4👀1946📊2⚡ Powered by xgo.ing"
+        },
         {
           "id": "312c41b7bc7ce4da7ca94bf3ecb2369241e84793",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "Kimi K3 上线了，只能说相当牛皮！\n\n鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
           "url": "https://x.com/op7418/status/2077777402957300075",
           "published_at": "2026-07-16T15:28:30Z",
-          "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬11🔄0❤️15👀3062📊11⚡ Powered by xgo.ing"
+          "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬29🔄2❤️74👀24246📊34⚡ Powered by xgo.ing"
         },
         {
           "id": "4e0e629c8ef4251c9c4e2e0728edfc4f87afaddb",
@@ -222,7 +233,7 @@
           "title": "Codex 也 https://t.co/9Wf8pT8ECn",
           "url": "https://x.com/op7418/status/2077611744244167097",
           "published_at": "2026-07-16T04:30:14Z",
-          "summary": "Codex 也 x.com/op7418/status/…歸藏(guizang.ai)@op7418笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置🔗 View Quoted Tweet💬0🔄0❤️5👀4542📊1⚡ Powered by xgo.ing"
+          "summary": "Codex 也 x.com/op7418/status/…歸藏(guizang.ai)@op7418笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置🔗 View Quoted Tweet💬0🔄0❤️5👀4733📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "b71339a9c0ad6a47043b7b81e6852984896ccaf0",
@@ -233,7 +244,7 @@
           "title": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置",
           "url": "https://x.com/op7418/status/2077611075776991447",
           "published_at": "2026-07-16T04:27:35Z",
-          "summary": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置歸藏(guizang.ai)@op7418Claude 又重置了，还得 Open AI 给他们上压力🔗 View Quoted Tweet💬79🔄1❤️99👀47729📊58⚡ Powered by xgo.ing"
+          "summary": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置歸藏(guizang.ai)@op7418Claude 又重置了，还得 Open AI 给他们上压力🔗 View Quoted Tweet💬88🔄1❤️103👀50068📊64⚡ Powered by xgo.ing"
         },
         {
           "id": "7173545721bb886ef4e71810977b93523a971b6c",
@@ -244,7 +255,7 @@
           "title": "Claude 又重置了，还得 Open AI 给他们上压力",
           "url": "https://x.com/op7418/status/2077608090367820102",
           "published_at": "2026-07-16T04:15:43Z",
-          "summary": "Claude 又重置了，还得 Open AI 给他们上压力💬35🔄1❤️45👀54693📊33⚡ Powered by xgo.ing"
+          "summary": "Claude 又重置了，还得 Open AI 给他们上压力💬37🔄1❤️46👀57030📊34⚡ Powered by xgo.ing"
         },
         {
           "id": "517c77c1213e77f2d15e45e6d0a95a3fcd17a3de",
@@ -288,7 +299,7 @@
           "title": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样",
           "url": "https://x.com/op7418/status/2077568874531483895",
           "published_at": "2026-07-16T01:39:53Z",
-          "summary": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样leo 🐾@synthwaveddThe more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast🔗 View Quoted Tweet💬6🔄0❤️3👀6936📊4⚡ Powered by xgo.ing"
+          "summary": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样leo 🐾@synthwaveddThe more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast🔗 View Quoted Tweet💬6🔄0❤️3👀7456📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "be502bffc7fa0e002a85f9ab1b0b5b858fe23da5",
@@ -299,7 +310,7 @@
           "title": "Kimi K3 开始预热",
           "url": "https://x.com/op7418/status/2077560848567218508",
           "published_at": "2026-07-16T01:08:00Z",
-          "summary": "Kimi K3 开始预热Kimi.ai@Kimi_MoonshotYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄2❤️12👀10936📊8⚡ Powered by xgo.ing"
+          "summary": "Kimi K3 开始预热Kimi.ai@Kimi_MoonshotYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄2❤️13👀11565📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "93519f5e1cebf2ba5636ba38fa0fc6fddbaabb98",
@@ -316,7 +327,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 6,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -324,6 +335,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "9e27357fa044be6a97745756b01214693eb72a94",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/UsNCsk4dvq\nYouT...",
+          "url": "https://x.com/OpenAI/status/2077807981715128702",
+          "published_at": "2026-07-16T17:30:01Z",
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬0🔄0❤️3👀803📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "f1c8b3e6fe5057f1dd4713f56feada4f5736e590",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "In racing, tiny margins matter. AI can help teams find them.\n\nOpenAI’s Joyce Ruffell and @RaceTekSys...",
+          "url": "https://x.com/OpenAI/status/2077807977193714080",
+          "published_at": "2026-07-16T17:30:00Z",
+          "summary": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data into faster decisions—from our research collaboration with Chip Ganassi Racing t…"
+        },
         {
           "id": "aad265cc30797a2f136a05167784b19e1716d9fb",
           "site_id": "featuredrss",
@@ -355,7 +388,7 @@
           "title": "Give it a try at https://t.co/awhPeHZIqm or in the app and let us know what you think in the replies...",
           "url": "https://x.com/GeminiApp/status/2077460867550244889",
           "published_at": "2026-07-15T18:30:42Z",
-          "summary": "Give it a try at gemini.google.com or in the app and let us know what you think in the replies. 👇 Learn more about where Gemini Spark is available here:goo.gle/4fc7349t💬14🔄7❤️70👀23514📊20⚡ Powered by xgo.ing"
+          "summary": "Give it a try at gemini.google.com or in the app and let us know what you think in the replies. 👇 Learn more about where Gemini Spark is available here:goo.gle/4fc7349t💬14🔄8❤️72👀23881📊21⚡ Powered by xgo.ing"
         },
         {
           "id": "04c493a179ff5fc348eb94115597d3d1f2ed3e76",
@@ -366,45 +399,45 @@
           "title": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages.\n\nSpa...",
           "url": "https://x.com/GeminiApp/status/2077460573089058885",
           "published_at": "2026-07-15T18:29:32Z",
-          "summary": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages. Spark is your personal AI agent that works in the background 24/7 to get things done under your direction.💬203🔄207❤️1897👀441153📊440⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "02d46adc4ab917ebbc2dc6848893b3ab5ca4ce63",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed so...",
-          "url": "https://x.com/OpenAI/status/2077446722683650525",
-          "published_at": "2026-07-15T17:34:30Z",
-          "summary": "Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer…"
-        },
-        {
-          "id": "a997eb90967f8dd473d53dbc1a8f789278f9922c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "AI agents are already being used to improve the capabilities of our next-generation models.\n\nWe beli...",
-          "url": "https://x.com/OpenAI/status/2077446723992228167",
-          "published_at": "2026-07-15T17:34:30Z",
-          "summary": "AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.💬14🔄9…"
-        },
-        {
-          "id": "06ec97139d8ad2a29f68384e2d70831b20142a6f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Introducing GPT-Red\n\nAn internal automated red teamer on a mission to find our models’ prompt inject...",
-          "url": "https://x.com/OpenAI/status/2077446718728425686",
-          "published_at": "2026-07-15T17:34:29Z",
-          "summary": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. openai.com/index/unlockin…💬451🔄742❤️7839👀1387669📊1394⚡ Powered by xgo.ing"
+          "summary": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages. Spark is your personal AI agent that works in the background 24/7 to get things done under your direction.💬205🔄209❤️1925👀445706📊445⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "9e27357fa044be6a97745756b01214693eb72a94",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/UsNCsk4dvq\nYouT...",
+      "url": "https://x.com/OpenAI/status/2077807981715128702",
+      "published_at": "2026-07-16T17:30:01Z",
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬0🔄0❤️3👀803📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "f1c8b3e6fe5057f1dd4713f56feada4f5736e590",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "In racing, tiny margins matter. AI can help teams find them.\n\nOpenAI’s Joyce Ruffell and @RaceTekSys...",
+      "url": "https://x.com/OpenAI/status/2077807977193714080",
+      "published_at": "2026-07-16T17:30:00Z",
+      "summary": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data into faster decisions—from our research collaboration with Chip Ganassi Racing t…"
+    },
+    {
+      "id": "daaf77a1c53e1b557fb2e1272c8f9b43a5c4637a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用",
+      "url": "https://x.com/op7418/status/2077794265804263600",
+      "published_at": "2026-07-16T16:35:31Z",
+      "summary": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用💬2🔄0❤️4👀1946📊2⚡ Powered by xgo.ing"
+    },
     {
       "id": "312c41b7bc7ce4da7ca94bf3ecb2369241e84793",
       "site_id": "featuredrss",
@@ -414,7 +447,7 @@
       "title": "Kimi K3 上线了，只能说相当牛皮！\n\n鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
       "url": "https://x.com/op7418/status/2077777402957300075",
       "published_at": "2026-07-16T15:28:30Z",
-      "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬11🔄0❤️15👀3062📊11⚡ Powered by xgo.ing"
+      "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬29🔄2❤️74👀24246📊34⚡ Powered by xgo.ing"
     },
     {
       "id": "4e0e629c8ef4251c9c4e2e0728edfc4f87afaddb",
@@ -436,7 +469,7 @@
       "title": "Codex 也 https://t.co/9Wf8pT8ECn",
       "url": "https://x.com/op7418/status/2077611744244167097",
       "published_at": "2026-07-16T04:30:14Z",
-      "summary": "Codex 也 x.com/op7418/status/…歸藏(guizang.ai)@op7418笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置🔗 View Quoted Tweet💬0🔄0❤️5👀4542📊1⚡ Powered by xgo.ing"
+      "summary": "Codex 也 x.com/op7418/status/…歸藏(guizang.ai)@op7418笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置🔗 View Quoted Tweet💬0🔄0❤️5👀4733📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "b71339a9c0ad6a47043b7b81e6852984896ccaf0",
@@ -447,7 +480,7 @@
       "title": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置",
       "url": "https://x.com/op7418/status/2077611075776991447",
       "published_at": "2026-07-16T04:27:35Z",
-      "summary": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置歸藏(guizang.ai)@op7418Claude 又重置了，还得 Open AI 给他们上压力🔗 View Quoted Tweet💬79🔄1❤️99👀47729📊58⚡ Powered by xgo.ing"
+      "summary": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置歸藏(guizang.ai)@op7418Claude 又重置了，还得 Open AI 给他们上压力🔗 View Quoted Tweet💬88🔄1❤️103👀50068📊64⚡ Powered by xgo.ing"
     },
     {
       "id": "7173545721bb886ef4e71810977b93523a971b6c",
@@ -458,7 +491,7 @@
       "title": "Claude 又重置了，还得 Open AI 给他们上压力",
       "url": "https://x.com/op7418/status/2077608090367820102",
       "published_at": "2026-07-16T04:15:43Z",
-      "summary": "Claude 又重置了，还得 Open AI 给他们上压力💬35🔄1❤️45👀54693📊33⚡ Powered by xgo.ing"
+      "summary": "Claude 又重置了，还得 Open AI 给他们上压力💬37🔄1❤️46👀57030📊34⚡ Powered by xgo.ing"
     },
     {
       "id": "517c77c1213e77f2d15e45e6d0a95a3fcd17a3de",
@@ -502,7 +535,7 @@
       "title": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样",
       "url": "https://x.com/op7418/status/2077568874531483895",
       "published_at": "2026-07-16T01:39:53Z",
-      "summary": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样leo 🐾@synthwaveddThe more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast🔗 View Quoted Tweet💬6🔄0❤️3👀6936📊4⚡ Powered by xgo.ing"
+      "summary": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样leo 🐾@synthwaveddThe more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast🔗 View Quoted Tweet💬6🔄0❤️3👀7456📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "be502bffc7fa0e002a85f9ab1b0b5b858fe23da5",
@@ -513,7 +546,7 @@
       "title": "Kimi K3 开始预热",
       "url": "https://x.com/op7418/status/2077560848567218508",
       "published_at": "2026-07-16T01:08:00Z",
-      "summary": "Kimi K3 开始预热Kimi.ai@Kimi_MoonshotYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄2❤️12👀10936📊8⚡ Powered by xgo.ing"
+      "summary": "Kimi K3 开始预热Kimi.ai@Kimi_MoonshotYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄2❤️13👀11565📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "93519f5e1cebf2ba5636ba38fa0fc6fddbaabb98",
@@ -557,7 +590,7 @@
       "title": "Give it a try at https://t.co/awhPeHZIqm or in the app and let us know what you think in the replies...",
       "url": "https://x.com/GeminiApp/status/2077460867550244889",
       "published_at": "2026-07-15T18:30:42Z",
-      "summary": "Give it a try at gemini.google.com or in the app and let us know what you think in the replies. 👇 Learn more about where Gemini Spark is available here:goo.gle/4fc7349t💬14🔄7❤️70👀23514📊20⚡ Powered by xgo.ing"
+      "summary": "Give it a try at gemini.google.com or in the app and let us know what you think in the replies. 👇 Learn more about where Gemini Spark is available here:goo.gle/4fc7349t💬14🔄8❤️72👀23881📊21⚡ Powered by xgo.ing"
     },
     {
       "id": "04c493a179ff5fc348eb94115597d3d1f2ed3e76",
@@ -568,40 +601,7 @@
       "title": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages.\n\nSpa...",
       "url": "https://x.com/GeminiApp/status/2077460573089058885",
       "published_at": "2026-07-15T18:29:32Z",
-      "summary": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages. Spark is your personal AI agent that works in the background 24/7 to get things done under your direction.💬203🔄207❤️1897👀441153📊440⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "02d46adc4ab917ebbc2dc6848893b3ab5ca4ce63",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed so...",
-      "url": "https://x.com/OpenAI/status/2077446722683650525",
-      "published_at": "2026-07-15T17:34:30Z",
-      "summary": "Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer…"
-    },
-    {
-      "id": "a997eb90967f8dd473d53dbc1a8f789278f9922c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "AI agents are already being used to improve the capabilities of our next-generation models.\n\nWe beli...",
-      "url": "https://x.com/OpenAI/status/2077446723992228167",
-      "published_at": "2026-07-15T17:34:30Z",
-      "summary": "AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.💬14🔄9…"
-    },
-    {
-      "id": "06ec97139d8ad2a29f68384e2d70831b20142a6f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Introducing GPT-Red\n\nAn internal automated red teamer on a mission to find our models’ prompt inject...",
-      "url": "https://x.com/OpenAI/status/2077446718728425686",
-      "published_at": "2026-07-15T17:34:29Z",
-      "summary": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. openai.com/index/unlockin…💬451🔄742❤️7839👀1387669📊1394⚡ Powered by xgo.ing"
+      "summary": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages. Spark is your personal AI agent that works in the background 24/7 to get things done under your direction.💬205🔄209❤️1925👀445706📊445⚡ Powered by xgo.ing"
     }
   ]
 }
