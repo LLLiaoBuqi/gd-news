@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T18:00:07.211920Z",
+  "generated_at": "2026-07-16T19:22:03.273590Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 18,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 727,
+      "duration_ms": 773,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 25,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1668,
+      "duration_ms": 1606,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1050,
+      "duration_ms": 1147,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 741,
+      "duration_ms": 695,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 968,
+      "duration_ms": 1046,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 584,
+      "duration_ms": 442,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 17,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2313,
+      "duration_ms": 2275,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 402,
+      "duration_ms": 668,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 12,
+      "total_items": 13,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "862aed9726da3beb21b884a7f0d1d3a65fef150e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "官方的测试结果",
+          "url": "https://x.com/op7418/status/2077821513882046521",
+          "published_at": "2026-07-16T18:23:47Z",
+          "summary": "官方的测试结果💬0🔄0❤️2👀413⚡ Powered by xgo.ing"
+        },
         {
           "id": "daaf77a1c53e1b557fb2e1272c8f9b43a5c4637a",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用",
           "url": "https://x.com/op7418/status/2077794265804263600",
           "published_at": "2026-07-16T16:35:31Z",
-          "summary": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用💬2🔄0❤️4👀1946📊2⚡ Powered by xgo.ing"
+          "summary": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用💬3🔄0❤️8👀2690📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "312c41b7bc7ce4da7ca94bf3ecb2369241e84793",
@@ -211,7 +222,7 @@
           "title": "Kimi K3 上线了，只能说相当牛皮！\n\n鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
           "url": "https://x.com/op7418/status/2077777402957300075",
           "published_at": "2026-07-16T15:28:30Z",
-          "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬29🔄2❤️74👀24246📊34⚡ Powered by xgo.ing"
+          "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬30🔄3❤️81👀28667📊35⚡ Powered by xgo.ing"
         },
         {
           "id": "4e0e629c8ef4251c9c4e2e0728edfc4f87afaddb",
@@ -233,7 +244,7 @@
           "title": "Codex 也 https://t.co/9Wf8pT8ECn",
           "url": "https://x.com/op7418/status/2077611744244167097",
           "published_at": "2026-07-16T04:30:14Z",
-          "summary": "Codex 也 x.com/op7418/status/…歸藏(guizang.ai)@op7418笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置🔗 View Quoted Tweet💬0🔄0❤️5👀4733📊1⚡ Powered by xgo.ing"
+          "summary": "Codex 也 x.com/op7418/status/…歸藏(guizang.ai)@op7418笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置🔗 View Quoted Tweet💬0🔄0❤️5👀4785📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "b71339a9c0ad6a47043b7b81e6852984896ccaf0",
@@ -244,7 +255,7 @@
           "title": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置",
           "url": "https://x.com/op7418/status/2077611075776991447",
           "published_at": "2026-07-16T04:27:35Z",
-          "summary": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置歸藏(guizang.ai)@op7418Claude 又重置了，还得 Open AI 给他们上压力🔗 View Quoted Tweet💬88🔄1❤️103👀50068📊64⚡ Powered by xgo.ing"
+          "summary": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置歸藏(guizang.ai)@op7418Claude 又重置了，还得 Open AI 给他们上压力🔗 View Quoted Tweet💬92🔄1❤️103👀50633📊67⚡ Powered by xgo.ing"
         },
         {
           "id": "7173545721bb886ef4e71810977b93523a971b6c",
@@ -255,7 +266,7 @@
           "title": "Claude 又重置了，还得 Open AI 给他们上压力",
           "url": "https://x.com/op7418/status/2077608090367820102",
           "published_at": "2026-07-16T04:15:43Z",
-          "summary": "Claude 又重置了，还得 Open AI 给他们上压力💬37🔄1❤️46👀57030📊34⚡ Powered by xgo.ing"
+          "summary": "Claude 又重置了，还得 Open AI 给他们上压力💬37🔄1❤️46👀57480📊34⚡ Powered by xgo.ing"
         },
         {
           "id": "517c77c1213e77f2d15e45e6d0a95a3fcd17a3de",
@@ -299,7 +310,7 @@
           "title": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样",
           "url": "https://x.com/op7418/status/2077568874531483895",
           "published_at": "2026-07-16T01:39:53Z",
-          "summary": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样leo 🐾@synthwaveddThe more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast🔗 View Quoted Tweet💬6🔄0❤️3👀7456📊4⚡ Powered by xgo.ing"
+          "summary": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样leo 🐾@synthwaveddThe more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast🔗 View Quoted Tweet💬6🔄0❤️3👀7524📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "be502bffc7fa0e002a85f9ab1b0b5b858fe23da5",
@@ -310,7 +321,7 @@
           "title": "Kimi K3 开始预热",
           "url": "https://x.com/op7418/status/2077560848567218508",
           "published_at": "2026-07-16T01:08:00Z",
-          "summary": "Kimi K3 开始预热Kimi.ai@Kimi_MoonshotYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄2❤️13👀11565📊8⚡ Powered by xgo.ing"
+          "summary": "Kimi K3 开始预热Kimi.ai@Kimi_MoonshotYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄2❤️13👀11648📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "93519f5e1cebf2ba5636ba38fa0fc6fddbaabb98",
@@ -327,7 +338,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -335,6 +346,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "11b7ea3b93d3bdca345965a8fbf7981cfbda3a82",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at https://t.co/382W...",
+          "url": "https://x.com/GeminiApp/status/2077812594241663318",
+          "published_at": "2026-07-16T17:48:21Z",
+          "summary": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at gemini.google and in the app. For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬2🔄2❤️24👀4128📊5⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b48396ddd60ccb56eb331c31b11195a58faa1818",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Avatar 🤝 Nano Banana\n\nStarting today, placing yourself in different scenes, styles, or eras just go...",
+          "url": "https://x.com/GeminiApp/status/2077812539480748035",
+          "published_at": "2026-07-16T17:48:07Z",
+          "summary": "Avatar 🤝 Nano Banana Starting today, placing yourself in different scenes, styles, or eras just got faster and easier. Set up your digital avatar in Gemini once, and you can seamlessly create custom images of yourself without having to upload a selfie every single time.💬20🔄19❤️21…"
+        },
         {
           "id": "9e27357fa044be6a97745756b01214693eb72a94",
           "site_id": "featuredrss",
@@ -344,7 +377,7 @@
           "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/UsNCsk4dvq\nYouT...",
           "url": "https://x.com/OpenAI/status/2077807981715128702",
           "published_at": "2026-07-16T17:30:01Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬0🔄0❤️3👀803📊1⚡ Powered by xgo.ing"
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬3🔄3❤️39👀19798📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "f1c8b3e6fe5057f1dd4713f56feada4f5736e590",
@@ -367,44 +400,44 @@
           "url": "https://x.com/OpenAI/status/2077501603050033634",
           "published_at": "2026-07-15T21:12:34Z",
           "summary": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.Your browser does not support the video tag.🔗 View on Twit…"
-        },
-        {
-          "id": "1084ff50df623d33a5c2d86387de035550b382a3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Our team is hard at work at making Gemini Spark even more helpful. Here are 4 improvements that are ...",
-          "url": "https://x.com/GeminiApp/status/2077460866346426649",
-          "published_at": "2026-07-15T18:30:42Z",
-          "summary": "Our team is hard at work at making Gemini Spark even more helpful. Here are 4 improvements that are starting to roll out today: 1) Google Doc editing: You can now directly open and edit @GoogleDocs in Spark 2) Deeper @GoogleWorkspace integration: Spark can now read comments in Go…"
-        },
-        {
-          "id": "29b6021cf13a967339e9bb84e3facec9d7c2978a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Give it a try at https://t.co/awhPeHZIqm or in the app and let us know what you think in the replies...",
-          "url": "https://x.com/GeminiApp/status/2077460867550244889",
-          "published_at": "2026-07-15T18:30:42Z",
-          "summary": "Give it a try at gemini.google.com or in the app and let us know what you think in the replies. 👇 Learn more about where Gemini Spark is available here:goo.gle/4fc7349t💬14🔄8❤️72👀23881📊21⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "04c493a179ff5fc348eb94115597d3d1f2ed3e76",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages.\n\nSpa...",
-          "url": "https://x.com/GeminiApp/status/2077460573089058885",
-          "published_at": "2026-07-15T18:29:32Z",
-          "summary": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages. Spark is your personal AI agent that works in the background 24/7 to get things done under your direction.💬205🔄209❤️1925👀445706📊445⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "862aed9726da3beb21b884a7f0d1d3a65fef150e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "官方的测试结果",
+      "url": "https://x.com/op7418/status/2077821513882046521",
+      "published_at": "2026-07-16T18:23:47Z",
+      "summary": "官方的测试结果💬0🔄0❤️2👀413⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "11b7ea3b93d3bdca345965a8fbf7981cfbda3a82",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at https://t.co/382W...",
+      "url": "https://x.com/GeminiApp/status/2077812594241663318",
+      "published_at": "2026-07-16T17:48:21Z",
+      "summary": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at gemini.google and in the app. For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬2🔄2❤️24👀4128📊5⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b48396ddd60ccb56eb331c31b11195a58faa1818",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Avatar 🤝 Nano Banana\n\nStarting today, placing yourself in different scenes, styles, or eras just go...",
+      "url": "https://x.com/GeminiApp/status/2077812539480748035",
+      "published_at": "2026-07-16T17:48:07Z",
+      "summary": "Avatar 🤝 Nano Banana Starting today, placing yourself in different scenes, styles, or eras just got faster and easier. Set up your digital avatar in Gemini once, and you can seamlessly create custom images of yourself without having to upload a selfie every single time.💬20🔄19❤️21…"
+    },
     {
       "id": "9e27357fa044be6a97745756b01214693eb72a94",
       "site_id": "featuredrss",
@@ -414,7 +447,7 @@
       "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/UsNCsk4dvq\nYouT...",
       "url": "https://x.com/OpenAI/status/2077807981715128702",
       "published_at": "2026-07-16T17:30:01Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬0🔄0❤️3👀803📊1⚡ Powered by xgo.ing"
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬3🔄3❤️39👀19798📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "f1c8b3e6fe5057f1dd4713f56feada4f5736e590",
@@ -436,7 +469,7 @@
       "title": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用",
       "url": "https://x.com/op7418/status/2077794265804263600",
       "published_at": "2026-07-16T16:35:31Z",
-      "summary": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用💬2🔄0❤️4👀1946📊2⚡ Powered by xgo.ing"
+      "summary": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用💬3🔄0❤️8👀2690📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "312c41b7bc7ce4da7ca94bf3ecb2369241e84793",
@@ -447,7 +480,7 @@
       "title": "Kimi K3 上线了，只能说相当牛皮！\n\n鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
       "url": "https://x.com/op7418/status/2077777402957300075",
       "published_at": "2026-07-16T15:28:30Z",
-      "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬29🔄2❤️74👀24246📊34⚡ Powered by xgo.ing"
+      "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬30🔄3❤️81👀28667📊35⚡ Powered by xgo.ing"
     },
     {
       "id": "4e0e629c8ef4251c9c4e2e0728edfc4f87afaddb",
@@ -469,7 +502,7 @@
       "title": "Codex 也 https://t.co/9Wf8pT8ECn",
       "url": "https://x.com/op7418/status/2077611744244167097",
       "published_at": "2026-07-16T04:30:14Z",
-      "summary": "Codex 也 x.com/op7418/status/…歸藏(guizang.ai)@op7418笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置🔗 View Quoted Tweet💬0🔄0❤️5👀4733📊1⚡ Powered by xgo.ing"
+      "summary": "Codex 也 x.com/op7418/status/…歸藏(guizang.ai)@op7418笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置🔗 View Quoted Tweet💬0🔄0❤️5👀4785📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "b71339a9c0ad6a47043b7b81e6852984896ccaf0",
@@ -480,7 +513,7 @@
       "title": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置",
       "url": "https://x.com/op7418/status/2077611075776991447",
       "published_at": "2026-07-16T04:27:35Z",
-      "summary": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置歸藏(guizang.ai)@op7418Claude 又重置了，还得 Open AI 给他们上压力🔗 View Quoted Tweet💬88🔄1❤️103👀50068📊64⚡ Powered by xgo.ing"
+      "summary": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置歸藏(guizang.ai)@op7418Claude 又重置了，还得 Open AI 给他们上压力🔗 View Quoted Tweet💬92🔄1❤️103👀50633📊67⚡ Powered by xgo.ing"
     },
     {
       "id": "7173545721bb886ef4e71810977b93523a971b6c",
@@ -491,7 +524,7 @@
       "title": "Claude 又重置了，还得 Open AI 给他们上压力",
       "url": "https://x.com/op7418/status/2077608090367820102",
       "published_at": "2026-07-16T04:15:43Z",
-      "summary": "Claude 又重置了，还得 Open AI 给他们上压力💬37🔄1❤️46👀57030📊34⚡ Powered by xgo.ing"
+      "summary": "Claude 又重置了，还得 Open AI 给他们上压力💬37🔄1❤️46👀57480📊34⚡ Powered by xgo.ing"
     },
     {
       "id": "517c77c1213e77f2d15e45e6d0a95a3fcd17a3de",
@@ -535,7 +568,7 @@
       "title": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样",
       "url": "https://x.com/op7418/status/2077568874531483895",
       "published_at": "2026-07-16T01:39:53Z",
-      "summary": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样leo 🐾@synthwaveddThe more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast🔗 View Quoted Tweet💬6🔄0❤️3👀7456📊4⚡ Powered by xgo.ing"
+      "summary": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样leo 🐾@synthwaveddThe more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast🔗 View Quoted Tweet💬6🔄0❤️3👀7524📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "be502bffc7fa0e002a85f9ab1b0b5b858fe23da5",
@@ -546,7 +579,7 @@
       "title": "Kimi K3 开始预热",
       "url": "https://x.com/op7418/status/2077560848567218508",
       "published_at": "2026-07-16T01:08:00Z",
-      "summary": "Kimi K3 开始预热Kimi.ai@Kimi_MoonshotYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄2❤️13👀11565📊8⚡ Powered by xgo.ing"
+      "summary": "Kimi K3 开始预热Kimi.ai@Kimi_MoonshotYour browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬9🔄2❤️13👀11648📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "93519f5e1cebf2ba5636ba38fa0fc6fddbaabb98",
@@ -569,39 +602,6 @@
       "url": "https://x.com/OpenAI/status/2077501603050033634",
       "published_at": "2026-07-15T21:12:34Z",
       "summary": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.Your browser does not support the video tag.🔗 View on Twit…"
-    },
-    {
-      "id": "1084ff50df623d33a5c2d86387de035550b382a3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Our team is hard at work at making Gemini Spark even more helpful. Here are 4 improvements that are ...",
-      "url": "https://x.com/GeminiApp/status/2077460866346426649",
-      "published_at": "2026-07-15T18:30:42Z",
-      "summary": "Our team is hard at work at making Gemini Spark even more helpful. Here are 4 improvements that are starting to roll out today: 1) Google Doc editing: You can now directly open and edit @GoogleDocs in Spark 2) Deeper @GoogleWorkspace integration: Spark can now read comments in Go…"
-    },
-    {
-      "id": "29b6021cf13a967339e9bb84e3facec9d7c2978a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Give it a try at https://t.co/awhPeHZIqm or in the app and let us know what you think in the replies...",
-      "url": "https://x.com/GeminiApp/status/2077460867550244889",
-      "published_at": "2026-07-15T18:30:42Z",
-      "summary": "Give it a try at gemini.google.com or in the app and let us know what you think in the replies. 👇 Learn more about where Gemini Spark is available here:goo.gle/4fc7349t💬14🔄8❤️72👀23881📊21⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "04c493a179ff5fc348eb94115597d3d1f2ed3e76",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages.\n\nSpa...",
-      "url": "https://x.com/GeminiApp/status/2077460573089058885",
-      "published_at": "2026-07-15T18:29:32Z",
-      "summary": "Gemini Spark is now rolling out to Google AI Ultra subscribers in more countries and languages. Spark is your personal AI agent that works in the background 24/7 to get things done under your direction.💬205🔄209❤️1925👀445706📊445⚡ Powered by xgo.ing"
     }
   ]
 }
