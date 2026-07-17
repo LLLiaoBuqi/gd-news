@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-17T15:54:41.554580Z",
+  "generated_at": "2026-07-17T17:05:24.340797Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-17",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-07-17",
+      "title": "提示词越写越长，AI还是做不对？老金开源造Skill的Skill",
+      "summary": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/VsaZwHsVGiI4ynkIGeXcGu6jnac?from=from_copylink"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "从功能清单到执行链路：AI 时代 PRD 的写法变了",
+      "summary": "以前写PRD，很多人习惯列功能、写流程、补几句Prompt；但到了AI 功能里，这套明显不够用了。阿昆这篇文章讲得很实在：AI PRD真正要写清楚的，不是“让 AI 干什么”这么简单，而是它在哪一步介入、需要什么输入、输出怎么验、错了谁接手、边界在哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/Ajq7wnMsgiz69tkkOAycgKNwnAd?from=from_copylink"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "一文讲透Skill",
+      "summary": "这篇文章把 Agent 和 Skill 的关系讲得很透：Agent像大脑，负责规划、判断和纠错；Skill像手脚，负责搜索、算数据、发邮件、生成文档。除此之外，还把Skill什么时候该调用、怎么选、怎么写描述、怎么防安全坑，以及一个早报Skill的落地思路串了起来。",
+      "url": "https://waytoagi.feishu.cn/wiki/FIK0wkpdjiOOn0kvjXmcNSROnTc?from=from_copylink"
+    },
     {
       "date": "2026-07-17",
       "title": "Claude Code是怎么设计出来的：下一代设计师负责什么丨Dive Club",
@@ -20,8 +38,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/DQKTw3XAyi3rKekevihcjoPYnEf?from=from_copylink"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-07-17",
+      "title": "提示词越写越长，AI还是做不对？老金开源造Skill的Skill",
+      "summary": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/VsaZwHsVGiI4ynkIGeXcGu6jnac?from=from_copylink"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "从功能清单到执行链路：AI 时代 PRD 的写法变了",
+      "summary": "以前写PRD，很多人习惯列功能、写流程、补几句Prompt；但到了AI 功能里，这套明显不够用了。阿昆这篇文章讲得很实在：AI PRD真正要写清楚的，不是“让 AI 干什么”这么简单，而是它在哪一步介入、需要什么输入、输出怎么验、错了谁接手、边界在哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/Ajq7wnMsgiz69tkkOAycgKNwnAd?from=from_copylink"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "一文讲透Skill",
+      "summary": "这篇文章把 Agent 和 Skill 的关系讲得很透：Agent像大脑，负责规划、判断和纠错；Skill像手脚，负责搜索、算数据、发邮件、生成文档。除此之外，还把Skill什么时候该调用、怎么选、怎么写描述、怎么防安全坑，以及一个早报Skill的落地思路串了起来。",
+      "url": "https://waytoagi.feishu.cn/wiki/FIK0wkpdjiOOn0kvjXmcNSROnTc?from=from_copylink"
+    },
     {
       "date": "2026-07-17",
       "title": "Claude Code是怎么设计出来的：下一代设计师负责什么丨Dive Club",
@@ -207,36 +243,6 @@
       "title": "7.6—7.12｜本周 AI 论文精选",
       "summary": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
       "url": "https://waytoagi.feishu.cn/wiki/SWWEw0DEfinPB1khr4rclWzCnKH?from=from_copylink"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "我开源了我用于科研的 RW Research Skill",
-      "summary": "作者这套开源Skill包含12个可以独立使用的科研 Skill，包括确定研究问题、检索文献、提取论文、整理证据、设计研究、检查偏倚、写论文和准备投稿，需要的材料和判断并不相同。",
-      "url": "https://waytoagi.feishu.cn/wiki/RaYQwtqFAiVRc1klHGQczuMonad?from=from_copylink"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "原点编剧系统：让电影、连续剧与微短剧，从灵感走到剧本",
-      "summary": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
-      "url": "https://waytoagi.feishu.cn/wiki/BPH4wXVvdikG1DkbNMNcIgcfnEe?from=from_copylink"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "一文看懂ChatGPT、Codex、Work 的差别",
-      "summary": "最近Codex合并到了ChatGPT应用里，还推出了一个ChatGPT Work模式。这让很多人搞不清楚 ChatGPT、Work、Codex 到底有什么区别，也不知道它们的额度是独立的还是共享的。宝玉这篇文章就带着大家详细拆解下！",
-      "url": "https://waytoagi.feishu.cn/wiki/XgVHwCA1MiF6XskJ41Scd9x1nuh?from=from_copylink"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "OpenAI 官方 Prompt 指南",
-      "summary": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
-      "url": "https://waytoagi.feishu.cn/wiki/B5vDwYUJ6iB2fwkDUOTcT4ikndc?from=from_copylink"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "GPT-5.6 Sol 帮我做了个小工具：一键展示你的人生成就",
-      "summary": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
-      "url": "https://waytoagi.feishu.cn/wiki/Dkq5wOPPUiM1qDkkStgcu0Zsnvd?from=from_copylink"
     }
   ],
   "warning": null,
