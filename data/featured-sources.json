@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T11:17:41.410760Z",
+  "generated_at": "2026-07-17T12:40:44.264631Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 16,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 928,
+      "duration_ms": 167,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 17,
+      "duration_ms": 24,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1473,
+      "duration_ms": 1767,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1048,
+      "duration_ms": 1365,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 865,
+      "duration_ms": 931,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 690,
+      "duration_ms": 1154,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 599,
+      "duration_ms": 880,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 11,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2240,
+      "duration_ms": 2568,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 846,
+      "duration_ms": 653,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "4e072699b91b7f16c65035dcc68278c4bc254c9a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "Fable 5那么聪明了，这5句提示语还是超实用",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508460&idx=1&sn=3bdf28dfbbe38080cf4f15b2e1c04b40",
+          "published_at": "2026-07-17T05:08:00Z",
+          "summary": "卡尔的AI沃茨 2026-07-17 13:08 上海 Superpower优化到6.0就淘汰掉的原因居然是因为GPT5.6长思考做太好，只能说一代版本一代神，隔壁同类型的grill me就变成版本之子了。开始干活先对我追问一轮，每个问题给我推荐个答案，如果一个问题可以通过阅读代码回答就不会二次提问。这个设定放到Fable5上出计划照样是非常好用。 所以我这周做了个idea king点子王skill，本意是想验证下之前那些超实用的一句话提示语放到现在还能不能封神。 1️⃣ 开发功能的时候，用奥卡姆剃刀，如无必要，勿增实体。验收测试的时候，用墨菲定律，凡是…"
+        },
         {
           "id": "99a1ee3e4ca450dbd861fef5efa2d406ee717672",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "藏师傅的测试来了：https://t.co/6jcMzXP08x",
           "url": "https://x.com/op7418/status/2077970130630492544",
           "published_at": "2026-07-17T04:14:20Z",
-          "summary": "藏师傅的测试来了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2077…🔗 View Quoted Tweet💬0🔄0❤️1👀3058📊1⚡ Powered by xgo.ing"
+          "summary": "藏师傅的测试来了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2077…🔗 View Quoted Tweet💬0🔄0❤️1👀3203📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "b19de5e2461e50c46afdfde05e2392c32d22d10b",
@@ -222,7 +233,7 @@
           "title": "https://t.co/jEa8btnknH",
           "url": "https://x.com/op7418/status/2077969109506277602",
           "published_at": "2026-07-17T04:10:17Z",
-          "summary": "x.com/i/article/2077…💬11🔄6❤️51👀65327📊19⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2077…💬12🔄6❤️51👀70687📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "cdfc7fd4fd982b91f338ae84d732f9df669ea1ed",
@@ -233,7 +244,7 @@
           "title": "Codex 昨晚的更新在交互上终于对味了：\n\n1. 左上角的切换：从 Work 和 Codex 切换成 ChatGPT 和 Codex\n\n2. 历史聊天整合：ChatGPT 的历史聊天全部并进了左边“...",
           "url": "https://x.com/op7418/status/2077959202627285056",
           "published_at": "2026-07-17T03:30:55Z",
-          "summary": "Codex 昨晚的更新在交互上终于对味了： 1. 左上角的切换：从 Work 和 Codex 切换成 ChatGPT 和 Codex 2. 历史聊天整合：ChatGPT 的历史聊天全部并进了左边“最近聊天”里面，你可以筛选是普通聊天还是 ChatGPT Work 的任务 3. 顶部导航：分了 Chat 和 Work 两个 Tab，交互逻辑跟网页版和移动端一致了💬51🔄2❤️61👀17824📊49⚡ Powered by xgo.ing"
+          "summary": "Codex 昨晚的更新在交互上终于对味了： 1. 左上角的切换：从 Work 和 Codex 切换成 ChatGPT 和 Codex 2. 历史聊天整合：ChatGPT 的历史聊天全部并进了左边“最近聊天”里面，你可以筛选是普通聊天还是 ChatGPT Work 的任务 3. 顶部导航：分了 Chat 和 Work 两个 Tab，交互逻辑跟网页版和移动端一致了💬54🔄2❤️64👀18629📊52⚡ Powered by xgo.ing"
         },
         {
           "id": "13fb6fd914b9d0b5e53f405046460c5e7a9f5299",
@@ -244,7 +255,7 @@
           "title": "下面很多评论特别搞笑：“中国人一定是造了个时间机器，从明年得美国模型蒸馏的 K3。”",
           "url": "https://x.com/op7418/status/2077939743913103594",
           "published_at": "2026-07-17T02:13:35Z",
-          "summary": "下面很多评论特别搞笑：“中国人一定是造了个时间机器，从明年得美国模型蒸馏的 K3。”💬0🔄0❤️15👀3067📊1⚡ Powered by xgo.ing"
+          "summary": "下面很多评论特别搞笑：“中国人一定是造了个时间机器，从明年得美国模型蒸馏的 K3。”💬0🔄0❤️17👀3131📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "917fd2221394daf931139e5dbd68f82e4a4e980a",
@@ -266,7 +277,7 @@
           "title": "我的时间线上已经全是 Kimi K3 了\n\n估计 Anthropic 达里奥又要气疯了，可能今天晚上又得发一篇博客来强调开源模型的危害了",
           "url": "https://x.com/op7418/status/2077927715639017633",
           "published_at": "2026-07-17T01:25:48Z",
-          "summary": "我的时间线上已经全是 Kimi K3 了 估计 Anthropic 达里奥又要气疯了，可能今天晚上又得发一篇博客来强调开源模型的危害了💬37🔄5❤️68👀26690📊39⚡ Powered by xgo.ing"
+          "summary": "我的时间线上已经全是 Kimi K3 了 估计 Anthropic 达里奥又要气疯了，可能今天晚上又得发一篇博客来强调开源模型的危害了💬37🔄5❤️71👀27531📊39⚡ Powered by xgo.ing"
         },
         {
           "id": "58a835053d457df6f36d998ab1a734439e08aef0",
@@ -288,7 +299,7 @@
           "title": "官方的测试结果",
           "url": "https://x.com/op7418/status/2077821513882046521",
           "published_at": "2026-07-16T18:23:47Z",
-          "summary": "官方的测试结果💬2🔄0❤️9👀7557📊3⚡ Powered by xgo.ing"
+          "summary": "官方的测试结果💬2🔄0❤️9👀7684📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "daaf77a1c53e1b557fb2e1272c8f9b43a5c4637a",
@@ -310,7 +321,7 @@
           "title": "Kimi K3 上线了，只能说相当牛皮！\n\n鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
           "url": "https://x.com/op7418/status/2077777402957300075",
           "published_at": "2026-07-16T15:28:30Z",
-          "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬50🔄5❤️124👀81214📊58⚡ Powered by xgo.ing"
+          "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬50🔄5❤️124👀82317📊58⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -333,7 +344,7 @@
           "title": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at https://t.co/382W...",
           "url": "https://x.com/GeminiApp/status/2077812594241663318",
           "published_at": "2026-07-16T17:48:21Z",
-          "summary": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at gemini.google and in the app. For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬7🔄7❤️58👀13084📊13⚡ Powered by xgo.ing"
+          "summary": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at gemini.google and in the app. For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬8🔄7❤️59👀13316📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "b48396ddd60ccb56eb331c31b11195a58faa1818",
@@ -344,7 +355,7 @@
           "title": "Avatar 🤝 Nano Banana\n\nStarting today, placing yourself in different scenes, styles, or eras just go...",
           "url": "https://x.com/GeminiApp/status/2077812539480748035",
           "published_at": "2026-07-16T17:48:07Z",
-          "summary": "Avatar 🤝 Nano Banana Starting today, placing yourself in different scenes, styles, or eras just got faster and easier. Set up your digital avatar in Gemini once, and you can seamlessly create custom images of yourself without having to upload a selfie every single time.💬60🔄99❤️72…"
+          "summary": "Avatar 🤝 Nano Banana Starting today, placing yourself in different scenes, styles, or eras just got faster and easier. Set up your digital avatar in Gemini once, and you can seamlessly create custom images of yourself without having to upload a selfie every single time.💬61🔄105❤️7…"
         },
         {
           "id": "9e27357fa044be6a97745756b01214693eb72a94",
@@ -355,7 +366,7 @@
           "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/UsNCsk4dvq\nYouT...",
           "url": "https://x.com/OpenAI/status/2077807981715128702",
           "published_at": "2026-07-16T17:30:01Z",
-          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬9🔄6❤️61👀51928📊14⚡ Powered by xgo.ing"
+          "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬9🔄6❤️63👀53224📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "f1c8b3e6fe5057f1dd4713f56feada4f5736e590",
@@ -373,6 +384,17 @@
   },
   "items": [
     {
+      "id": "4e072699b91b7f16c65035dcc68278c4bc254c9a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "Fable 5那么聪明了，这5句提示语还是超实用",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508460&idx=1&sn=3bdf28dfbbe38080cf4f15b2e1c04b40",
+      "published_at": "2026-07-17T05:08:00Z",
+      "summary": "卡尔的AI沃茨 2026-07-17 13:08 上海 Superpower优化到6.0就淘汰掉的原因居然是因为GPT5.6长思考做太好，只能说一代版本一代神，隔壁同类型的grill me就变成版本之子了。开始干活先对我追问一轮，每个问题给我推荐个答案，如果一个问题可以通过阅读代码回答就不会二次提问。这个设定放到Fable5上出计划照样是非常好用。 所以我这周做了个idea king点子王skill，本意是想验证下之前那些超实用的一句话提示语放到现在还能不能封神。 1️⃣ 开发功能的时候，用奥卡姆剃刀，如无必要，勿增实体。验收测试的时候，用墨菲定律，凡是…"
+    },
+    {
       "id": "99a1ee3e4ca450dbd861fef5efa2d406ee717672",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -381,7 +403,7 @@
       "title": "藏师傅的测试来了：https://t.co/6jcMzXP08x",
       "url": "https://x.com/op7418/status/2077970130630492544",
       "published_at": "2026-07-17T04:14:20Z",
-      "summary": "藏师傅的测试来了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2077…🔗 View Quoted Tweet💬0🔄0❤️1👀3058📊1⚡ Powered by xgo.ing"
+      "summary": "藏师傅的测试来了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2077…🔗 View Quoted Tweet💬0🔄0❤️1👀3203📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "b19de5e2461e50c46afdfde05e2392c32d22d10b",
@@ -403,7 +425,7 @@
       "title": "https://t.co/jEa8btnknH",
       "url": "https://x.com/op7418/status/2077969109506277602",
       "published_at": "2026-07-17T04:10:17Z",
-      "summary": "x.com/i/article/2077…💬11🔄6❤️51👀65327📊19⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2077…💬12🔄6❤️51👀70687📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "cdfc7fd4fd982b91f338ae84d732f9df669ea1ed",
@@ -414,7 +436,7 @@
       "title": "Codex 昨晚的更新在交互上终于对味了：\n\n1. 左上角的切换：从 Work 和 Codex 切换成 ChatGPT 和 Codex\n\n2. 历史聊天整合：ChatGPT 的历史聊天全部并进了左边“...",
       "url": "https://x.com/op7418/status/2077959202627285056",
       "published_at": "2026-07-17T03:30:55Z",
-      "summary": "Codex 昨晚的更新在交互上终于对味了： 1. 左上角的切换：从 Work 和 Codex 切换成 ChatGPT 和 Codex 2. 历史聊天整合：ChatGPT 的历史聊天全部并进了左边“最近聊天”里面，你可以筛选是普通聊天还是 ChatGPT Work 的任务 3. 顶部导航：分了 Chat 和 Work 两个 Tab，交互逻辑跟网页版和移动端一致了💬51🔄2❤️61👀17824📊49⚡ Powered by xgo.ing"
+      "summary": "Codex 昨晚的更新在交互上终于对味了： 1. 左上角的切换：从 Work 和 Codex 切换成 ChatGPT 和 Codex 2. 历史聊天整合：ChatGPT 的历史聊天全部并进了左边“最近聊天”里面，你可以筛选是普通聊天还是 ChatGPT Work 的任务 3. 顶部导航：分了 Chat 和 Work 两个 Tab，交互逻辑跟网页版和移动端一致了💬54🔄2❤️64👀18629📊52⚡ Powered by xgo.ing"
     },
     {
       "id": "13fb6fd914b9d0b5e53f405046460c5e7a9f5299",
@@ -425,7 +447,7 @@
       "title": "下面很多评论特别搞笑：“中国人一定是造了个时间机器，从明年得美国模型蒸馏的 K3。”",
       "url": "https://x.com/op7418/status/2077939743913103594",
       "published_at": "2026-07-17T02:13:35Z",
-      "summary": "下面很多评论特别搞笑：“中国人一定是造了个时间机器，从明年得美国模型蒸馏的 K3。”💬0🔄0❤️15👀3067📊1⚡ Powered by xgo.ing"
+      "summary": "下面很多评论特别搞笑：“中国人一定是造了个时间机器，从明年得美国模型蒸馏的 K3。”💬0🔄0❤️17👀3131📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "917fd2221394daf931139e5dbd68f82e4a4e980a",
@@ -447,7 +469,7 @@
       "title": "我的时间线上已经全是 Kimi K3 了\n\n估计 Anthropic 达里奥又要气疯了，可能今天晚上又得发一篇博客来强调开源模型的危害了",
       "url": "https://x.com/op7418/status/2077927715639017633",
       "published_at": "2026-07-17T01:25:48Z",
-      "summary": "我的时间线上已经全是 Kimi K3 了 估计 Anthropic 达里奥又要气疯了，可能今天晚上又得发一篇博客来强调开源模型的危害了💬37🔄5❤️68👀26690📊39⚡ Powered by xgo.ing"
+      "summary": "我的时间线上已经全是 Kimi K3 了 估计 Anthropic 达里奥又要气疯了，可能今天晚上又得发一篇博客来强调开源模型的危害了💬37🔄5❤️71👀27531📊39⚡ Powered by xgo.ing"
     },
     {
       "id": "58a835053d457df6f36d998ab1a734439e08aef0",
@@ -469,7 +491,7 @@
       "title": "官方的测试结果",
       "url": "https://x.com/op7418/status/2077821513882046521",
       "published_at": "2026-07-16T18:23:47Z",
-      "summary": "官方的测试结果💬2🔄0❤️9👀7557📊3⚡ Powered by xgo.ing"
+      "summary": "官方的测试结果💬2🔄0❤️9👀7684📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "11b7ea3b93d3bdca345965a8fbf7981cfbda3a82",
@@ -480,7 +502,7 @@
       "title": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at https://t.co/382W...",
       "url": "https://x.com/GeminiApp/status/2077812594241663318",
       "published_at": "2026-07-16T17:48:21Z",
-      "summary": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at gemini.google and in the app. For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬7🔄7❤️58👀13084📊13⚡ Powered by xgo.ing"
+      "summary": "Avatars in Nano Banana are rolling out to Gemini app users in certain countries at gemini.google and in the app. For more information on availability and step-by-step instructions for creating your avatar ➡️ goo.gle/4dTXLJA💬8🔄7❤️59👀13316📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "b48396ddd60ccb56eb331c31b11195a58faa1818",
@@ -491,7 +513,7 @@
       "title": "Avatar 🤝 Nano Banana\n\nStarting today, placing yourself in different scenes, styles, or eras just go...",
       "url": "https://x.com/GeminiApp/status/2077812539480748035",
       "published_at": "2026-07-16T17:48:07Z",
-      "summary": "Avatar 🤝 Nano Banana Starting today, placing yourself in different scenes, styles, or eras just got faster and easier. Set up your digital avatar in Gemini once, and you can seamlessly create custom images of yourself without having to upload a selfie every single time.💬60🔄99❤️72…"
+      "summary": "Avatar 🤝 Nano Banana Starting today, placing yourself in different scenes, styles, or eras just got faster and easier. Set up your digital avatar in Gemini once, and you can seamlessly create custom images of yourself without having to upload a selfie every single time.💬61🔄105❤️7…"
     },
     {
       "id": "9e27357fa044be6a97745756b01214693eb72a94",
@@ -502,7 +524,7 @@
       "title": "Listen to the OpenAI Podcast on—\n\nSpotify\nhttps://t.co/hLcRdGrfUX\nApple\nhttps://t.co/UsNCsk4dvq\nYouT...",
       "url": "https://x.com/OpenAI/status/2077807981715128702",
       "published_at": "2026-07-16T17:30:01Z",
-      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬9🔄6❤️61👀51928📊14⚡ Powered by xgo.ing"
+      "summary": "Listen to the OpenAI Podcast on— Spotify open.spotify.com/show/0zojMEDiz… Apple podcasts.apple.com/us/podcast/wha… YouTube youtube.com/watch?v=KNPjRp…💬9🔄6❤️63👀53224📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "f1c8b3e6fe5057f1dd4713f56feada4f5736e590",
@@ -535,7 +557,7 @@
       "title": "Kimi K3 上线了，只能说相当牛皮！\n\n鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
       "url": "https://x.com/op7418/status/2077777402957300075",
       "published_at": "2026-07-16T15:28:30Z",
-      "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬50🔄5❤️124👀81214📊58⚡ Powered by xgo.ing"
+      "summary": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！💬50🔄5❤️124👀82317📊58⚡ Powered by xgo.ing"
     }
   ]
 }
