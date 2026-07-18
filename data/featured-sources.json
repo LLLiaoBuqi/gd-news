@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18T03:50:13.462274Z",
+  "generated_at": "2026-07-18T05:59:31.906052Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 435,
+      "duration_ms": 138,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 23,
+      "duration_ms": 150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1500,
+      "duration_ms": 1896,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1075,
+      "duration_ms": 1255,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 775,
+      "duration_ms": 1148,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 367,
+      "duration_ms": 577,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 674,
+      "duration_ms": 1103,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 32,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2214,
+      "duration_ms": 2611,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 7569,
+      "duration_ms": 1033,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "0bdb2d4852fc1e7f210ee4aa31c4f1a083a38370",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 跟进，又重置了",
+          "url": "https://x.com/op7418/status/2078331221030101327",
+          "published_at": "2026-07-18T04:09:11Z",
+          "summary": "Codex 跟进，又重置了💬0🔄0❤️4👀1376📊1⚡ Powered by xgo.ing"
+        },
         {
           "id": "2b6e30062bca56ed995047e9b4901d439eb6207b",
           "site_id": "featuredrss",
@@ -211,51 +222,7 @@
           "title": "虽然人没去 WAIC，但是东西去了。",
           "url": "https://x.com/op7418/status/2078100047489888652",
           "published_at": "2026-07-17T12:50:35Z",
-          "summary": "虽然人没去 WAIC，但是东西去了。💬23🔄0❤️42👀7995📊22⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4e072699b91b7f16c65035dcc68278c4bc254c9a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "Fable 5那么聪明了，这5句提示语还是超实用",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508460&idx=1&sn=3bdf28dfbbe38080cf4f15b2e1c04b40",
-          "published_at": "2026-07-17T05:08:00Z",
-          "summary": "卡尔的AI沃茨 2026-07-17 13:08 上海 Superpower优化到6.0就淘汰掉的原因居然是因为GPT5.6长思考做太好，只能说一代版本一代神，隔壁同类型的grill me就变成版本之子了。开始干活先对我追问一轮，每个问题给我推荐个答案，如果一个问题可以通过阅读代码回答就不会二次提问。这个设定放到Fable5上出计划照样是非常好用。 所以我这周做了个idea king点子王skill，本意是想验证下之前那些超实用的一句话提示语放到现在还能不能封神。 1️⃣ 开发功能的时候，用奥卡姆剃刀，如无必要，勿增实体。验收测试的时候，用墨菲定律，凡是…"
-        },
-        {
-          "id": "99a1ee3e4ca450dbd861fef5efa2d406ee717672",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "藏师傅的测试来了：https://t.co/6jcMzXP08x",
-          "url": "https://x.com/op7418/status/2077970130630492544",
-          "published_at": "2026-07-17T04:14:20Z",
-          "summary": "藏师傅的测试来了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2077…🔗 View Quoted Tweet💬0🔄0❤️1👀4010📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b19de5e2461e50c46afdfde05e2392c32d22d10b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "藏师傅的 Kimi K3 测评来了，这次确实非常牛逼！\n\n可以说是一个比较小的 DeepSeek 时刻\n\n我直接拿它跟 Opus 4.8 做了对比测试。\n\n从结果来看，互有胜负。\n\n在复杂前端和复杂开...",
-          "url": "https://x.com/op7418/status/2077969583018066116",
-          "published_at": "2026-07-17T04:12:10Z",
-          "summary": "藏师傅的 Kimi K3 测评来了，这次确实非常牛逼！ 可以说是一个比较小的 DeepSeek 时刻 我直接拿它跟 Opus 4.8 做了对比测试。 从结果来看，互有胜负。 在复杂前端和复杂开发的情况下，我觉得它跟 Opus 4.8 差不多是相当的水平。 至于 Fable 5 和 5.6，我觉得还差一些，但已经是一个非常牛逼的成绩了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2077…🔗 View Qu…"
-        },
-        {
-          "id": "6b2fc15b014e6ff6fcafc9f78a8ade8e20e2467e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "https://t.co/jEa8btnknH",
-          "url": "https://x.com/op7418/status/2077969109506277602",
-          "published_at": "2026-07-17T04:10:17Z",
-          "summary": "x.com/i/article/2077…💬13🔄10❤️73👀114917📊27⚡ Powered by xgo.ing"
+          "summary": "虽然人没去 WAIC，但是东西去了。💬28🔄0❤️45👀8568📊27⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -300,12 +267,23 @@
           "title": "10,000 reasons people love GPT-5.6 Sol \nhttps://t.co/Mu6PBPkrop",
           "url": "https://x.com/OpenAI/status/2078223217773474134",
           "published_at": "2026-07-17T21:00:01Z",
-          "summary": "10,000 reasons people love GPT-5.6 Sol switch-to-codex.openai.chatgpt.site💬167🔄75❤️1222👀273307📊256⚡ Powered by xgo.ing"
+          "summary": "10,000 reasons people love GPT-5.6 Sol switch-to-codex.openai.chatgpt.site💬183🔄91❤️1407👀318793📊287⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "0bdb2d4852fc1e7f210ee4aa31c4f1a083a38370",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codex 跟进，又重置了",
+      "url": "https://x.com/op7418/status/2078331221030101327",
+      "published_at": "2026-07-18T04:09:11Z",
+      "summary": "Codex 跟进，又重置了💬0🔄0❤️4👀1376📊1⚡ Powered by xgo.ing"
+    },
     {
       "id": "2b6e30062bca56ed995047e9b4901d439eb6207b",
       "site_id": "featuredrss",
@@ -348,7 +326,7 @@
       "title": "10,000 reasons people love GPT-5.6 Sol \nhttps://t.co/Mu6PBPkrop",
       "url": "https://x.com/OpenAI/status/2078223217773474134",
       "published_at": "2026-07-17T21:00:01Z",
-      "summary": "10,000 reasons people love GPT-5.6 Sol switch-to-codex.openai.chatgpt.site💬167🔄75❤️1222👀273307📊256⚡ Powered by xgo.ing"
+      "summary": "10,000 reasons people love GPT-5.6 Sol switch-to-codex.openai.chatgpt.site💬183🔄91❤️1407👀318793📊287⚡ Powered by xgo.ing"
     },
     {
       "id": "d62df86375cf521d9a2bcb38ab6325f1dc2cb982",
@@ -359,51 +337,7 @@
       "title": "虽然人没去 WAIC，但是东西去了。",
       "url": "https://x.com/op7418/status/2078100047489888652",
       "published_at": "2026-07-17T12:50:35Z",
-      "summary": "虽然人没去 WAIC，但是东西去了。💬23🔄0❤️42👀7995📊22⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4e072699b91b7f16c65035dcc68278c4bc254c9a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "Fable 5那么聪明了，这5句提示语还是超实用",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508460&idx=1&sn=3bdf28dfbbe38080cf4f15b2e1c04b40",
-      "published_at": "2026-07-17T05:08:00Z",
-      "summary": "卡尔的AI沃茨 2026-07-17 13:08 上海 Superpower优化到6.0就淘汰掉的原因居然是因为GPT5.6长思考做太好，只能说一代版本一代神，隔壁同类型的grill me就变成版本之子了。开始干活先对我追问一轮，每个问题给我推荐个答案，如果一个问题可以通过阅读代码回答就不会二次提问。这个设定放到Fable5上出计划照样是非常好用。 所以我这周做了个idea king点子王skill，本意是想验证下之前那些超实用的一句话提示语放到现在还能不能封神。 1️⃣ 开发功能的时候，用奥卡姆剃刀，如无必要，勿增实体。验收测试的时候，用墨菲定律，凡是…"
-    },
-    {
-      "id": "99a1ee3e4ca450dbd861fef5efa2d406ee717672",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "藏师傅的测试来了：https://t.co/6jcMzXP08x",
-      "url": "https://x.com/op7418/status/2077970130630492544",
-      "published_at": "2026-07-17T04:14:20Z",
-      "summary": "藏师傅的测试来了：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2077…🔗 View Quoted Tweet💬0🔄0❤️1👀4010📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b19de5e2461e50c46afdfde05e2392c32d22d10b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "藏师傅的 Kimi K3 测评来了，这次确实非常牛逼！\n\n可以说是一个比较小的 DeepSeek 时刻\n\n我直接拿它跟 Opus 4.8 做了对比测试。\n\n从结果来看，互有胜负。\n\n在复杂前端和复杂开...",
-      "url": "https://x.com/op7418/status/2077969583018066116",
-      "published_at": "2026-07-17T04:12:10Z",
-      "summary": "藏师傅的 Kimi K3 测评来了，这次确实非常牛逼！ 可以说是一个比较小的 DeepSeek 时刻 我直接拿它跟 Opus 4.8 做了对比测试。 从结果来看，互有胜负。 在复杂前端和复杂开发的情况下，我觉得它跟 Opus 4.8 差不多是相当的水平。 至于 Fable 5 和 5.6，我觉得还差一些，但已经是一个非常牛逼的成绩了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2077…🔗 View Qu…"
-    },
-    {
-      "id": "6b2fc15b014e6ff6fcafc9f78a8ade8e20e2467e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "https://t.co/jEa8btnknH",
-      "url": "https://x.com/op7418/status/2077969109506277602",
-      "published_at": "2026-07-17T04:10:17Z",
-      "summary": "x.com/i/article/2077…💬13🔄10❤️73👀114917📊27⚡ Powered by xgo.ing"
+      "summary": "虽然人没去 WAIC，但是东西去了。💬28🔄0❤️45👀8568📊27⚡ Powered by xgo.ing"
     }
   ]
 }
