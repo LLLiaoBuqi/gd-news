@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:51:09.076591Z",
+  "generated_at": "2026-07-18T12:59:14.476533Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 6,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 152,
+      "duration_ms": 621,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1869,
+      "duration_ms": 1476,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1328,
+      "duration_ms": 1159,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1030,
+      "duration_ms": 948,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 593,
+      "duration_ms": 396,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1093,
+      "duration_ms": 1055,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2447,
+      "duration_ms": 2356,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 754,
+      "duration_ms": 947,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,18 @@
           "title": "Codex 跟进，又重置了",
           "url": "https://x.com/op7418/status/2078331221030101327",
           "published_at": "2026-07-18T04:09:11Z",
-          "summary": "Codex 跟进，又重置了💬0🔄0❤️6👀3043📊1⚡ Powered by xgo.ing"
+          "summary": "Codex 跟进，又重置了💬0🔄0❤️6👀3142📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "60f9c5253200746d007b4a9db92984ee224e1816",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "都说Kimi审美好，实测7个Skills来找出它的最佳搭配",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508524&idx=1&sn=f0497de5a51341e017d9a47ed7532fad",
+          "published_at": "2026-07-18T04:04:00Z",
+          "summary": "Fable5再不用当我的前端设计师了"
         },
         {
           "id": "2b6e30062bca56ed995047e9b4901d439eb6207b",
@@ -212,17 +223,6 @@
           "url": "https://x.com/op7418/status/2078303477630148741",
           "published_at": "2026-07-18T02:18:56Z",
           "summary": "果不其然，Claude 宣布 Fable 5 将会长期内置在 max 和 team premium 的计划里面，限额是 50%。 估计是由于 OpenAI 和 Kimi K3 的推出的压力带来的，这次不延期直接内置了。 PRO 和其他 team 会员只能通过积分访问。会一次性获得 100 美元的积分Claude@claudeaiBeginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Tea…"
-        },
-        {
-          "id": "d62df86375cf521d9a2bcb38ab6325f1dc2cb982",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "虽然人没去 WAIC，但是东西去了。",
-          "url": "https://x.com/op7418/status/2078100047489888652",
-          "published_at": "2026-07-17T12:50:35Z",
-          "summary": "虽然人没去 WAIC，但是东西去了。💬41🔄0❤️51👀9399📊38⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -267,7 +267,7 @@
           "title": "10,000 reasons people love GPT-5.6 Sol \nhttps://t.co/Mu6PBPkrop",
           "url": "https://x.com/OpenAI/status/2078223217773474134",
           "published_at": "2026-07-17T21:00:01Z",
-          "summary": "10,000 reasons people love GPT-5.6 Sol switch-to-codex.openai.chatgpt.site💬215🔄125❤️1785👀409773📊353⚡ Powered by xgo.ing"
+          "summary": "10,000 reasons people love GPT-5.6 Sol switch-to-codex.openai.chatgpt.site💬218🔄127❤️1819👀419552📊358⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -282,7 +282,18 @@
       "title": "Codex 跟进，又重置了",
       "url": "https://x.com/op7418/status/2078331221030101327",
       "published_at": "2026-07-18T04:09:11Z",
-      "summary": "Codex 跟进，又重置了💬0🔄0❤️6👀3043📊1⚡ Powered by xgo.ing"
+      "summary": "Codex 跟进，又重置了💬0🔄0❤️6👀3142📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "60f9c5253200746d007b4a9db92984ee224e1816",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "都说Kimi审美好，实测7个Skills来找出它的最佳搭配",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508524&idx=1&sn=f0497de5a51341e017d9a47ed7532fad",
+      "published_at": "2026-07-18T04:04:00Z",
+      "summary": "Fable5再不用当我的前端设计师了"
     },
     {
       "id": "2b6e30062bca56ed995047e9b4901d439eb6207b",
@@ -326,18 +337,7 @@
       "title": "10,000 reasons people love GPT-5.6 Sol \nhttps://t.co/Mu6PBPkrop",
       "url": "https://x.com/OpenAI/status/2078223217773474134",
       "published_at": "2026-07-17T21:00:01Z",
-      "summary": "10,000 reasons people love GPT-5.6 Sol switch-to-codex.openai.chatgpt.site💬215🔄125❤️1785👀409773📊353⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d62df86375cf521d9a2bcb38ab6325f1dc2cb982",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "虽然人没去 WAIC，但是东西去了。",
-      "url": "https://x.com/op7418/status/2078100047489888652",
-      "published_at": "2026-07-17T12:50:35Z",
-      "summary": "虽然人没去 WAIC，但是东西去了。💬41🔄0❤️51👀9399📊38⚡ Powered by xgo.ing"
+      "summary": "10,000 reasons people love GPT-5.6 Sol switch-to-codex.openai.chatgpt.site💬218🔄127❤️1819👀419552📊358⚡ Powered by xgo.ing"
     }
   ]
 }
