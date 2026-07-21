@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T12:20:23.720874Z",
+  "generated_at": "2026-07-21T14:31:59.431666Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 348,
+      "duration_ms": 718,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 58,
+      "duration_ms": 30,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1700,
+      "duration_ms": 1762,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1115,
+      "duration_ms": 1203,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 800,
+      "duration_ms": 891,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 312,
+      "duration_ms": 429,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 618,
+      "duration_ms": 806,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 60,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2614,
+      "duration_ms": 2568,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 2,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 542,
+      "duration_ms": 537,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "https://t.co/TjJONbEXHr",
           "url": "https://x.com/op7418/status/2079508851737633055",
           "published_at": "2026-07-21T10:08:40Z",
-          "summary": "github.com/op7418/guizang…💬0🔄0❤️7👀1201📊1⚡ Powered by xgo.ing"
+          "summary": "github.com/op7418/guizang…💬0🔄0❤️8👀1779📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "156030772682a6b8074332fbe0b582a332fd34d0",
@@ -211,7 +211,7 @@
           "title": "最近频繁能够刷到用藏师傅的这个社交媒体 Skill 做的图片，在小红书、小绿书上数据都不错，而且最近发现发小绿书的朋友越来越多了。\n\n如果你很需要这种快速生成图片，而你自己又没有漂亮素材的话，就可以试...",
           "url": "https://x.com/op7418/status/2079508806787350595",
           "published_at": "2026-07-21T10:08:29Z",
-          "summary": "最近频繁能够刷到用藏师傅的这个社交媒体 Skill 做的图片，在小红书、小绿书上数据都不错，而且最近发现发小绿书的朋友越来越多了。 如果你很需要这种快速生成图片，而你自己又没有漂亮素材的话，就可以试试这个 Skill。歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬7🔄1❤️12👀3733📊7⚡ Powered by xgo.ing"
+          "summary": "最近频繁能够刷到用藏师傅的这个社交媒体 Skill 做的图片，在小红书、小绿书上数据都不错，而且最近发现发小绿书的朋友越来越多了。 如果你很需要这种快速生成图片，而你自己又没有漂亮素材的话，就可以试试这个 Skill。歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬10🔄3❤️32👀9609📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "bbce201f1ae2d31cece187dbd03cf54056ecadcd",
@@ -256,6 +256,17 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684494&idx=1&sn=07a7145e707212eab2555527fdfbcd11",
           "published_at": "2026-07-21T01:11:00Z",
           "summary": "一个Token验真伪"
+        },
+        {
+          "id": "6fdbc25f753d346fd9bcb53a3271d4f8b0fba601",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "想用Codex做科研，可以先从这9个Skills开始",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508560&idx=1&sn=81ea9a29d73ba55d0d6e7227651de9f1",
+          "published_at": "2026-07-21T00:34:00Z",
+          "summary": "全方位覆盖"
         }
       ]
     },
@@ -281,7 +292,7 @@
       "title": "https://t.co/TjJONbEXHr",
       "url": "https://x.com/op7418/status/2079508851737633055",
       "published_at": "2026-07-21T10:08:40Z",
-      "summary": "github.com/op7418/guizang…💬0🔄0❤️7👀1201📊1⚡ Powered by xgo.ing"
+      "summary": "github.com/op7418/guizang…💬0🔄0❤️8👀1779📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "156030772682a6b8074332fbe0b582a332fd34d0",
@@ -292,7 +303,7 @@
       "title": "最近频繁能够刷到用藏师傅的这个社交媒体 Skill 做的图片，在小红书、小绿书上数据都不错，而且最近发现发小绿书的朋友越来越多了。\n\n如果你很需要这种快速生成图片，而你自己又没有漂亮素材的话，就可以试...",
       "url": "https://x.com/op7418/status/2079508806787350595",
       "published_at": "2026-07-21T10:08:29Z",
-      "summary": "最近频繁能够刷到用藏师傅的这个社交媒体 Skill 做的图片，在小红书、小绿书上数据都不错，而且最近发现发小绿书的朋友越来越多了。 如果你很需要这种快速生成图片，而你自己又没有漂亮素材的话，就可以试试这个 Skill。歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬7🔄1❤️12👀3733📊7⚡ Powered by xgo.ing"
+      "summary": "最近频繁能够刷到用藏师傅的这个社交媒体 Skill 做的图片，在小红书、小绿书上数据都不错，而且最近发现发小绿书的朋友越来越多了。 如果你很需要这种快速生成图片，而你自己又没有漂亮素材的话，就可以试试这个 Skill。歸藏(guizang.ai)@op7418x.com/i/article/2059…🔗 View Quoted Tweet💬10🔄3❤️32👀9609📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "bbce201f1ae2d31cece187dbd03cf54056ecadcd",
@@ -337,6 +348,17 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684494&idx=1&sn=07a7145e707212eab2555527fdfbcd11",
       "published_at": "2026-07-21T01:11:00Z",
       "summary": "一个Token验真伪"
+    },
+    {
+      "id": "6fdbc25f753d346fd9bcb53a3271d4f8b0fba601",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "想用Codex做科研，可以先从这9个Skills开始",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508560&idx=1&sn=81ea9a29d73ba55d0d6e7227651de9f1",
+      "published_at": "2026-07-21T00:34:00Z",
+      "summary": "全方位覆盖"
     }
   ]
 }
