@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T19:02:45.996157Z",
+  "generated_at": "2026-07-22T20:36:13.383918Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 601,
+      "duration_ms": 123,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 20,
+      "duration_ms": 42,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1679,
+      "duration_ms": 2190,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 985,
+      "duration_ms": 1548,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 698,
+      "duration_ms": 1181,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 401,
+      "duration_ms": 520,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 905,
+      "duration_ms": 915,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 45,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2324,
+      "duration_ms": 3213,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 568,
+      "duration_ms": 846,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "项目地址：https://t.co/McdCJKTIJ1",
           "url": "https://x.com/op7418/status/2079966101610594423",
           "published_at": "2026-07-22T16:25:37Z",
-          "summary": "项目地址：github.com/op7418/CodePil…💬0🔄0❤️0👀764⚡ Powered by xgo.ing"
+          "summary": "项目地址：github.com/op7418/CodePil…💬0🔄0❤️1👀942📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "fb80f8940609e8f3a482d776fc1ae9c865e8e783",
@@ -211,7 +211,7 @@
           "title": "一个 Codepilot 新版的预告：\n\n在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力\n\n比如说：\n• 可以用 Grok 去检索 Twitter 上的内容\n• 让...",
           "url": "https://x.com/op7418/status/2079946524235272613",
           "published_at": "2026-07-22T15:07:49Z",
-          "summary": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处💬12🔄0❤️9👀3357📊11⚡ Powered by xgo.ing"
+          "summary": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处💬19🔄0❤️9👀3646📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "b78fdb6f9b96a8a7586dd74f0e60abd4cfa3a798",
@@ -233,7 +233,7 @@
           "title": "这里尝试：https://t.co/5J6k35cgjI",
           "url": "https://x.com/op7418/status/2079817253764350154",
           "published_at": "2026-07-22T06:34:09Z",
-          "summary": "这里尝试：github.com/op7418/CodePil…💬0🔄1❤️5👀4139📊2⚡ Powered by xgo.ing"
+          "summary": "这里尝试：github.com/op7418/CodePil…💬0🔄1❤️5👀4264📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "dd2dde962a691854a78c9a214b3ffe2832be68da",
@@ -294,7 +294,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -312,50 +312,6 @@
           "url": "https://x.com/OpenAI/status/2079916436232036614",
           "published_at": "2026-07-22T13:08:16Z",
           "summary": "New for enterprises: OpenAI Presence helps companies deploy trusted voice and chat agents across customer and internal workflows. AI agents can answer questions, use company systems, take approved actions, and escalate to people when needed—while improving over time. OpenAI Prese…"
-        },
-        {
-          "id": "b5870436fc6ed49322ad150821af06974569159d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We're partnering with @huggingface to investigate an unprecedented security incident.  \n\nCyber-capab...",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "published_at": "2026-07-21T20:05:06Z",
-          "summary": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks: openai.com/index/hugging-…"
-        },
-        {
-          "id": "c8d848e4bc5c640b1674fdd0f51f09ff67f153cb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then ...",
-          "url": "https://x.com/OpenAI/status/2079647254701634028",
-          "published_at": "2026-07-21T19:18:38Z",
-          "summary": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.💬7🔄6❤️142👀57938📊18⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "760cceff166e5b4f08b8bf94c0180cafb7427060",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We had guessed reward seeking might increase over the course of capabilities-focused RL training, bu...",
-          "url": "https://x.com/OpenAI/status/2079647256941412817",
-          "published_at": "2026-07-21T19:18:38Z",
-          "summary": "We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether mod…"
-        },
-        {
-          "id": "6f92d89670ccd6c9551061f22a0fde1a967bd9aa",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believ...",
-          "url": "https://x.com/OpenAI/status/2079647251677536324",
-          "published_at": "2026-07-21T19:18:37Z",
-          "summary": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. alignment.openai.com/measuri…"
         }
       ]
     }
@@ -370,7 +326,7 @@
       "title": "项目地址：https://t.co/McdCJKTIJ1",
       "url": "https://x.com/op7418/status/2079966101610594423",
       "published_at": "2026-07-22T16:25:37Z",
-      "summary": "项目地址：github.com/op7418/CodePil…💬0🔄0❤️0👀764⚡ Powered by xgo.ing"
+      "summary": "项目地址：github.com/op7418/CodePil…💬0🔄0❤️1👀942📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "fb80f8940609e8f3a482d776fc1ae9c865e8e783",
@@ -381,7 +337,7 @@
       "title": "一个 Codepilot 新版的预告：\n\n在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力\n\n比如说：\n• 可以用 Grok 去检索 Twitter 上的内容\n• 让...",
       "url": "https://x.com/op7418/status/2079946524235272613",
       "published_at": "2026-07-22T15:07:49Z",
-      "summary": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处💬12🔄0❤️9👀3357📊11⚡ Powered by xgo.ing"
+      "summary": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处💬19🔄0❤️9👀3646📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "688cad1821db9cb455efa6aeeb58fe127c29c63f",
@@ -414,7 +370,7 @@
       "title": "这里尝试：https://t.co/5J6k35cgjI",
       "url": "https://x.com/op7418/status/2079817253764350154",
       "published_at": "2026-07-22T06:34:09Z",
-      "summary": "这里尝试：github.com/op7418/CodePil…💬0🔄1❤️5👀4139📊2⚡ Powered by xgo.ing"
+      "summary": "这里尝试：github.com/op7418/CodePil…💬0🔄1❤️5👀4264📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "dd2dde962a691854a78c9a214b3ffe2832be68da",
@@ -470,50 +426,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684576&idx=1&sn=4223ca3e47a04e2199d367919fc61d16",
       "published_at": "2026-07-22T04:22:00Z",
       "summary": "来自WorkBuddy团队"
-    },
-    {
-      "id": "b5870436fc6ed49322ad150821af06974569159d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We're partnering with @huggingface to investigate an unprecedented security incident.  \n\nCyber-capab...",
-      "url": "https://x.com/OpenAI/status/2079658951264920020",
-      "published_at": "2026-07-21T20:05:06Z",
-      "summary": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks: openai.com/index/hugging-…"
-    },
-    {
-      "id": "c8d848e4bc5c640b1674fdd0f51f09ff67f153cb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then ...",
-      "url": "https://x.com/OpenAI/status/2079647254701634028",
-      "published_at": "2026-07-21T19:18:38Z",
-      "summary": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.💬7🔄6❤️142👀57938📊18⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "760cceff166e5b4f08b8bf94c0180cafb7427060",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We had guessed reward seeking might increase over the course of capabilities-focused RL training, bu...",
-      "url": "https://x.com/OpenAI/status/2079647256941412817",
-      "published_at": "2026-07-21T19:18:38Z",
-      "summary": "We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether mod…"
-    },
-    {
-      "id": "6f92d89670ccd6c9551061f22a0fde1a967bd9aa",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believ...",
-      "url": "https://x.com/OpenAI/status/2079647251677536324",
-      "published_at": "2026-07-21T19:18:37Z",
-      "summary": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. alignment.openai.com/measuri…"
     }
   ]
 }
