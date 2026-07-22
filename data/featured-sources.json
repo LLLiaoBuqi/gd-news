@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:22:15.007560Z",
+  "generated_at": "2026-07-22T17:47:29.793178Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 17,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 418,
+      "duration_ms": 387,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 38,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1598,
+      "duration_ms": 1906,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1069,
+      "duration_ms": 1392,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 923,
+      "duration_ms": 1070,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 338,
+      "duration_ms": 782,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 914,
+      "duration_ms": 355,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2277,
+      "duration_ms": 2370,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 632,
+      "duration_ms": 586,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "2962ecf22fce0f35d1bf278d8d91e85e0e529038",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "项目地址：https://t.co/McdCJKTIJ1",
+          "url": "https://x.com/op7418/status/2079966101610594423",
+          "published_at": "2026-07-22T16:25:37Z",
+          "summary": "项目地址：github.com/op7418/CodePil…💬0🔄0❤️0👀500⚡ Powered by xgo.ing"
+        },
         {
           "id": "fb80f8940609e8f3a482d776fc1ae9c865e8e783",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "一个 Codepilot 新版的预告：\n\n在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力\n\n比如说：\n• 可以用 Grok 去检索 Twitter 上的内容\n• 让...",
           "url": "https://x.com/op7418/status/2079946524235272613",
           "published_at": "2026-07-22T15:07:49Z",
-          "summary": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处💬1🔄0❤️6👀1834📊2⚡ Powered by xgo.ing"
+          "summary": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处💬5🔄0❤️8👀2817📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "b78fdb6f9b96a8a7586dd74f0e60abd4cfa3a798",
@@ -222,7 +233,7 @@
           "title": "这里尝试：https://t.co/5J6k35cgjI",
           "url": "https://x.com/op7418/status/2079817253764350154",
           "published_at": "2026-07-22T06:34:09Z",
-          "summary": "这里尝试：github.com/op7418/CodePil…💬0🔄1❤️5👀3830📊2⚡ Powered by xgo.ing"
+          "summary": "这里尝试：github.com/op7418/CodePil…💬0🔄1❤️5👀4010📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "dd2dde962a691854a78c9a214b3ffe2832be68da",
@@ -233,7 +244,7 @@
           "title": "CodePilot 重大更新，现在可以免费蹬 Grok 4.5 了！\n\n得益于老马非常仁慈的算力供给，现在支持通过 Super Grok（也就是 Twitter 账号）的授权，直接在 CodePilo...",
           "url": "https://x.com/op7418/status/2079817181781790824",
           "published_at": "2026-07-22T06:33:51Z",
-          "summary": "CodePilot 重大更新，现在可以免费蹬 Grok 4.5 了！ 得益于老马非常仁慈的算力供给，现在支持通过 Super Grok（也就是 Twitter 账号）的授权，直接在 CodePilot 里登录 Grok，然后免费使用 Grok 4.5。 同时，如果你已经买了 Twitter 的 Premium，你的额度还会更高。 另外，更新了新的千问 Token Plan 计划，现在可以在里面正常使用千问 3.8 Max Preview 模型。 Grok 授权添加的路径：设置 -> 服务商 -> 添加服务 -> 选择 XAI Grok OAuth💬15🔄…"
+          "summary": "CodePilot 重大更新，现在可以免费蹬 Grok 4.5 了！ 得益于老马非常仁慈的算力供给，现在支持通过 Super Grok（也就是 Twitter 账号）的授权，直接在 CodePilot 里登录 Grok，然后免费使用 Grok 4.5。 同时，如果你已经买了 Twitter 的 Premium，你的额度还会更高。 另外，更新了新的千问 Token Plan 计划，现在可以在里面正常使用千问 3.8 Max Preview 模型。 Grok 授权添加的路径：设置 -> 服务商 -> 添加服务 -> 选择 XAI Grok OAuth💬17🔄…"
         },
         {
           "id": "4ee1bb404852824028477e2d8cb11fadb7c7955e",
@@ -283,7 +294,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 9,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -322,7 +333,7 @@
           "title": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then ...",
           "url": "https://x.com/OpenAI/status/2079647254701634028",
           "published_at": "2026-07-21T19:18:38Z",
-          "summary": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.💬7🔄6❤️136👀56197📊18⚡ Powered by xgo.ing"
+          "summary": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.💬7🔄6❤️141👀57516📊18⚡ Powered by xgo.ing"
         },
         {
           "id": "760cceff166e5b4f08b8bf94c0180cafb7427060",
@@ -378,22 +389,22 @@
           "url": "https://x.com/OpenAI/status/2079628886950994005",
           "published_at": "2026-07-21T18:05:38Z",
           "summary": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly those beliefs shape behavior. alignment.openai.com/measur…"
-        },
-        {
-          "id": "a293f273f5ddc586d9e80fc653197cc76a8e2ca3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "As AI models are now finding vulnerabilities faster than we can fix them, our approach to securing s...",
-          "url": "https://x.com/GoogleAI/status/2079617029473182132",
-          "published_at": "2026-07-21T17:18:31Z",
-          "summary": "As AI models are now finding vulnerabilities faster than we can fix them, our approach to securing software must be built on highly efficient and capable models. Which brings us to our third (!) model launch of the day: Gemini 3.5 Flash Cyber ⚡🛡️ Built on top of 3.5 Flash, in Cod…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "2962ecf22fce0f35d1bf278d8d91e85e0e529038",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "项目地址：https://t.co/McdCJKTIJ1",
+      "url": "https://x.com/op7418/status/2079966101610594423",
+      "published_at": "2026-07-22T16:25:37Z",
+      "summary": "项目地址：github.com/op7418/CodePil…💬0🔄0❤️0👀500⚡ Powered by xgo.ing"
+    },
     {
       "id": "fb80f8940609e8f3a482d776fc1ae9c865e8e783",
       "site_id": "featuredrss",
@@ -403,7 +414,7 @@
       "title": "一个 Codepilot 新版的预告：\n\n在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力\n\n比如说：\n• 可以用 Grok 去检索 Twitter 上的内容\n• 让...",
       "url": "https://x.com/op7418/status/2079946524235272613",
       "published_at": "2026-07-22T15:07:49Z",
-      "summary": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处💬1🔄0❤️6👀1834📊2⚡ Powered by xgo.ing"
+      "summary": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处💬5🔄0❤️8👀2817📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "688cad1821db9cb455efa6aeeb58fe127c29c63f",
@@ -436,7 +447,7 @@
       "title": "这里尝试：https://t.co/5J6k35cgjI",
       "url": "https://x.com/op7418/status/2079817253764350154",
       "published_at": "2026-07-22T06:34:09Z",
-      "summary": "这里尝试：github.com/op7418/CodePil…💬0🔄1❤️5👀3830📊2⚡ Powered by xgo.ing"
+      "summary": "这里尝试：github.com/op7418/CodePil…💬0🔄1❤️5👀4010📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "dd2dde962a691854a78c9a214b3ffe2832be68da",
@@ -447,7 +458,7 @@
       "title": "CodePilot 重大更新，现在可以免费蹬 Grok 4.5 了！\n\n得益于老马非常仁慈的算力供给，现在支持通过 Super Grok（也就是 Twitter 账号）的授权，直接在 CodePilo...",
       "url": "https://x.com/op7418/status/2079817181781790824",
       "published_at": "2026-07-22T06:33:51Z",
-      "summary": "CodePilot 重大更新，现在可以免费蹬 Grok 4.5 了！ 得益于老马非常仁慈的算力供给，现在支持通过 Super Grok（也就是 Twitter 账号）的授权，直接在 CodePilot 里登录 Grok，然后免费使用 Grok 4.5。 同时，如果你已经买了 Twitter 的 Premium，你的额度还会更高。 另外，更新了新的千问 Token Plan 计划，现在可以在里面正常使用千问 3.8 Max Preview 模型。 Grok 授权添加的路径：设置 -> 服务商 -> 添加服务 -> 选择 XAI Grok OAuth💬15🔄…"
+      "summary": "CodePilot 重大更新，现在可以免费蹬 Grok 4.5 了！ 得益于老马非常仁慈的算力供给，现在支持通过 Super Grok（也就是 Twitter 账号）的授权，直接在 CodePilot 里登录 Grok，然后免费使用 Grok 4.5。 同时，如果你已经买了 Twitter 的 Premium，你的额度还会更高。 另外，更新了新的千问 Token Plan 计划，现在可以在里面正常使用千问 3.8 Max Preview 模型。 Grok 授权添加的路径：设置 -> 服务商 -> 添加服务 -> 选择 XAI Grok OAuth💬17🔄…"
     },
     {
       "id": "4ee1bb404852824028477e2d8cb11fadb7c7955e",
@@ -513,7 +524,7 @@
       "title": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then ...",
       "url": "https://x.com/OpenAI/status/2079647254701634028",
       "published_at": "2026-07-21T19:18:38Z",
-      "summary": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.💬7🔄6❤️136👀56197📊18⚡ Powered by xgo.ing"
+      "summary": "Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.💬7🔄6❤️141👀57516📊18⚡ Powered by xgo.ing"
     },
     {
       "id": "760cceff166e5b4f08b8bf94c0180cafb7427060",
@@ -569,17 +580,6 @@
       "url": "https://x.com/OpenAI/status/2079628886950994005",
       "published_at": "2026-07-21T18:05:38Z",
       "summary": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly those beliefs shape behavior. alignment.openai.com/measur…"
-    },
-    {
-      "id": "a293f273f5ddc586d9e80fc653197cc76a8e2ca3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "As AI models are now finding vulnerabilities faster than we can fix them, our approach to securing s...",
-      "url": "https://x.com/GoogleAI/status/2079617029473182132",
-      "published_at": "2026-07-21T17:18:31Z",
-      "summary": "As AI models are now finding vulnerabilities faster than we can fix them, our approach to securing software must be built on highly efficient and capable models. Which brings us to our third (!) model launch of the day: Gemini 3.5 Flash Cyber ⚡🛡️ Built on top of 3.5 Flash, in Cod…"
     }
   ]
 }
