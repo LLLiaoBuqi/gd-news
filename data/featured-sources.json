@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T15:52:15.642860Z",
+  "generated_at": "2026-07-24T17:23:19.812990Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 495,
+      "duration_ms": 95,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 55,
+      "duration_ms": 156,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1629,
+      "duration_ms": 2061,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 917,
+      "duration_ms": 1305,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 715,
+      "duration_ms": 873,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 350,
+      "duration_ms": 509,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 512,
+      "duration_ms": 777,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 38,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2302,
+      "duration_ms": 2588,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 689,
+      "duration_ms": 715,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "4ac292fc322f8a3de8b3445893d8c78444238ade",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Sam 居然发声支持了，这下达里奥真成小丑了",
+          "url": "https://x.com/op7418/status/2080683836963463291",
+          "published_at": "2026-07-24T15:57:38Z",
+          "summary": "Sam 居然发声支持了，这下达里奥真成小丑了歸藏(guizang.ai)@op7418牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据…"
+        },
         {
           "id": "48e25b96c08bb886a3359fccbe5f0c07715848ef",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "25 家公司",
           "url": "https://x.com/op7418/status/2080664516417945638",
           "published_at": "2026-07-24T14:40:52Z",
-          "summary": "25 家公司💬0🔄0❤️4👀786📊1⚡ Powered by xgo.ing"
+          "summary": "25 家公司💬0🔄0❤️6👀1266📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "ed87a9fa4c2aa1ea82bab0fff627cf82bc9a2c9a",
@@ -211,7 +222,7 @@
           "title": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容",
           "url": "https://x.com/op7418/status/2080662392825069758",
           "published_at": "2026-07-24T14:32:25Z",
-          "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️6👀1879📊2⚡ Powered by xgo.ing"
+          "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️7👀2482📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "0ee50245ff4713a469a193babc5041964f293291",
@@ -261,7 +272,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -300,7 +311,7 @@
           "title": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support ...",
           "url": "https://x.com/OpenAI/status/2080392280549253392",
           "published_at": "2026-07-23T20:39:06Z",
-          "summary": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.💬53🔄27❤️738👀119558📊107⚡ Powered by xgo.ing"
+          "summary": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.💬53🔄28❤️749👀124373📊108⚡ Powered by xgo.ing"
         },
         {
           "id": "e33f4a3a91da5f5600e198f526a96eda1db3d7ec",
@@ -312,44 +323,22 @@
           "url": "https://x.com/OpenAI/status/2080378182469857576",
           "published_at": "2026-07-23T19:43:04Z",
           "summary": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on mac…"
-        },
-        {
-          "id": "c99dc4965e3c2832988a501bf0808d4090611d59",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "More than 300 million people turn to ChatGPT with health-related questions each week—and we’re conti...",
-          "url": "https://x.com/OpenAI/status/2080339986717790394",
-          "published_at": "2026-07-23T17:11:18Z",
-          "summary": "More than 300 million people turn to ChatGPT with health-related questions each week—and we’re continuing to improve how our models respond. We work with hundreds of physicians around the world to measure and improve accuracy, safety, communication, context awareness, completenes…"
-        },
-        {
-          "id": "78552de7d36db62b68d8a32623aaa211761dd3e6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Health in ChatGPT is starting to roll out to U.S. users.\n\nYou can securely connect Apple Health and ...",
-          "url": "https://x.com/OpenAI/status/2080339982288568709",
-          "published_at": "2026-07-23T17:11:17Z",
-          "summary": "Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations. openai.com/index/health-i…💬381🔄368❤️4251👀1028368📊8…"
-        },
-        {
-          "id": "5198b46db6d4251ce08183d0f447d1beda5bdf4c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We built this experience based on feedback from early testers and physicians.\n\nWith your permission,...",
-          "url": "https://x.com/OpenAI/status/2080339983962181983",
-          "published_at": "2026-07-23T17:11:17Z",
-          "summary": "We built this experience based on feedback from early testers and physicians. With your permission, ChatGPT can use relevant context you’ve connected in Health across your conversations — to help you compare a new result with prior tests, summarize changes since your last appoint…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "4ac292fc322f8a3de8b3445893d8c78444238ade",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Sam 居然发声支持了，这下达里奥真成小丑了",
+      "url": "https://x.com/op7418/status/2080683836963463291",
+      "published_at": "2026-07-24T15:57:38Z",
+      "summary": "Sam 居然发声支持了，这下达里奥真成小丑了歸藏(guizang.ai)@op7418牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据…"
+    },
     {
       "id": "48e25b96c08bb886a3359fccbe5f0c07715848ef",
       "site_id": "featuredrss",
@@ -359,7 +348,7 @@
       "title": "25 家公司",
       "url": "https://x.com/op7418/status/2080664516417945638",
       "published_at": "2026-07-24T14:40:52Z",
-      "summary": "25 家公司💬0🔄0❤️4👀786📊1⚡ Powered by xgo.ing"
+      "summary": "25 家公司💬0🔄0❤️6👀1266📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "ed87a9fa4c2aa1ea82bab0fff627cf82bc9a2c9a",
@@ -370,7 +359,7 @@
       "title": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容",
       "url": "https://x.com/op7418/status/2080662392825069758",
       "published_at": "2026-07-24T14:32:25Z",
-      "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️6👀1879📊2⚡ Powered by xgo.ing"
+      "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️7👀2482📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "0ee50245ff4713a469a193babc5041964f293291",
@@ -447,7 +436,7 @@
       "title": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support ...",
       "url": "https://x.com/OpenAI/status/2080392280549253392",
       "published_at": "2026-07-23T20:39:06Z",
-      "summary": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.💬53🔄27❤️738👀119558📊107⚡ Powered by xgo.ing"
+      "summary": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.💬53🔄28❤️749👀124373📊108⚡ Powered by xgo.ing"
     },
     {
       "id": "e33f4a3a91da5f5600e198f526a96eda1db3d7ec",
@@ -459,39 +448,6 @@
       "url": "https://x.com/OpenAI/status/2080378182469857576",
       "published_at": "2026-07-23T19:43:04Z",
       "summary": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on mac…"
-    },
-    {
-      "id": "c99dc4965e3c2832988a501bf0808d4090611d59",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "More than 300 million people turn to ChatGPT with health-related questions each week—and we’re conti...",
-      "url": "https://x.com/OpenAI/status/2080339986717790394",
-      "published_at": "2026-07-23T17:11:18Z",
-      "summary": "More than 300 million people turn to ChatGPT with health-related questions each week—and we’re continuing to improve how our models respond. We work with hundreds of physicians around the world to measure and improve accuracy, safety, communication, context awareness, completenes…"
-    },
-    {
-      "id": "78552de7d36db62b68d8a32623aaa211761dd3e6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Health in ChatGPT is starting to roll out to U.S. users.\n\nYou can securely connect Apple Health and ...",
-      "url": "https://x.com/OpenAI/status/2080339982288568709",
-      "published_at": "2026-07-23T17:11:17Z",
-      "summary": "Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations. openai.com/index/health-i…💬381🔄368❤️4251👀1028368📊8…"
-    },
-    {
-      "id": "5198b46db6d4251ce08183d0f447d1beda5bdf4c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We built this experience based on feedback from early testers and physicians.\n\nWith your permission,...",
-      "url": "https://x.com/OpenAI/status/2080339983962181983",
-      "published_at": "2026-07-23T17:11:17Z",
-      "summary": "We built this experience based on feedback from early testers and physicians. With your permission, ChatGPT can use relevant context you’ve connected in Health across your conversations — to help you compare a new result with prior tests, summarize changes since your last appoint…"
     }
   ]
 }
