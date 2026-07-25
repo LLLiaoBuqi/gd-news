@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T11:04:09.828931Z",
+  "generated_at": "2026-07-25T12:14:12.875948Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 826,
+      "duration_ms": 301,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 31,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1667,
+      "duration_ms": 1783,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1059,
+      "duration_ms": 1300,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 856,
+      "duration_ms": 910,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 482,
+      "duration_ms": 770,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 675,
+      "duration_ms": 865,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2336,
+      "duration_ms": 2600,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 767,
+      "duration_ms": 1172,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 11,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,6 +201,17 @@
           "url": "https://x.com/op7418/status/2080954854243975355",
           "published_at": "2026-07-25T09:54:34Z",
           "summary": "Anthropic 讲解了随着模型的提升，应该如何更新自己的上下文规则，推荐看看。 随着 Fable 5 和 Opus 5 的发布，他们精简了 80% 的系统提示词，但在编程测评上没有任何损失。 其核心问题在于，Claude 的提示词只是它获取上下文的一小部分，更多的上下文来自于系统提示词、Skills、claude.md 以及 Memory。 这里的难点在于：上下文是跨多个请求通用的，不能像单个提示词那么具体。 他们之前对 Claude Code 的约束过度了，而且经常存在互相矛盾的指令（约束越多，冲突的概率就越大）。 像 Fable 5、GPT 5.…"
+        },
+        {
+          "id": "9977eb2ad87558219e156360e6180acdb3b6b993",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测Claude Opus5，系统提示语删了80%，半价还能逼近Fable5。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508794&idx=1&sn=12d7cfa252e99d6e57f1d9d126227a59",
+          "published_at": "2026-07-25T03:08:00Z",
+          "summary": "离谱，还有2.5倍的快速模式"
         },
         {
           "id": "d052e7acfc43363c57c1f19c3a9f0345686dba38",
@@ -222,7 +233,7 @@
           "title": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径",
           "url": "https://x.com/op7418/status/2080705912923406495",
           "published_at": "2026-07-24T17:25:21Z",
-          "summary": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径Medeo_AI@Medeo_AIx.com/i/article/2080…🔗 View Quoted Tweet💬22🔄8❤️42👀18330📊27⚡ Powered by xgo.ing"
+          "summary": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径Medeo_AI@Medeo_AIx.com/i/article/2080…🔗 View Quoted Tweet💬26🔄9❤️44👀19050📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "10419477d831510cc165d517df1672aedd72387d",
@@ -233,7 +244,7 @@
           "title": "笑死 Anthropic 这么草台？\n\n这 Opus 5 的测试成绩分数标红不太对吧\n\n53.4 大于 53.5？",
           "url": "https://x.com/op7418/status/2080703521364861277",
           "published_at": "2026-07-24T17:15:51Z",
-          "summary": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？歸藏(guizang.ai)@op7418来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样🔗 View Quoted Tweet💬63🔄3❤️169👀92479📊55⚡ Powered by xgo.ing"
+          "summary": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？歸藏(guizang.ai)@op7418来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样🔗 View Quoted Tweet💬66🔄3❤️169👀94030📊57⚡ Powered by xgo.ing"
         },
         {
           "id": "05eae857a9c532d221ac023062b15150b62ecabe",
@@ -266,7 +277,7 @@
           "title": "25 家公司",
           "url": "https://x.com/op7418/status/2080664516417945638",
           "published_at": "2026-07-24T14:40:52Z",
-          "summary": "25 家公司💬0🔄0❤️10👀3720📊1⚡ Powered by xgo.ing"
+          "summary": "25 家公司💬0🔄0❤️10👀3752📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "ed87a9fa4c2aa1ea82bab0fff627cf82bc9a2c9a",
@@ -277,7 +288,7 @@
           "title": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容",
           "url": "https://x.com/op7418/status/2080662392825069758",
           "published_at": "2026-07-24T14:32:25Z",
-          "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️11👀5271📊2⚡ Powered by xgo.ing"
+          "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️11👀5306📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "0ee50245ff4713a469a193babc5041964f293291",
@@ -340,6 +351,17 @@
       "summary": "Anthropic 讲解了随着模型的提升，应该如何更新自己的上下文规则，推荐看看。 随着 Fable 5 和 Opus 5 的发布，他们精简了 80% 的系统提示词，但在编程测评上没有任何损失。 其核心问题在于，Claude 的提示词只是它获取上下文的一小部分，更多的上下文来自于系统提示词、Skills、claude.md 以及 Memory。 这里的难点在于：上下文是跨多个请求通用的，不能像单个提示词那么具体。 他们之前对 Claude Code 的约束过度了，而且经常存在互相矛盾的指令（约束越多，冲突的概率就越大）。 像 Fable 5、GPT 5.…"
     },
     {
+      "id": "9977eb2ad87558219e156360e6180acdb3b6b993",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测Claude Opus5，系统提示语删了80%，半价还能逼近Fable5。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508794&idx=1&sn=12d7cfa252e99d6e57f1d9d126227a59",
+      "published_at": "2026-07-25T03:08:00Z",
+      "summary": "离谱，还有2.5倍的快速模式"
+    },
+    {
       "id": "9b325147e18e2e6cbb992be50c1739e12b17b119",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -370,7 +392,7 @@
       "title": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径",
       "url": "https://x.com/op7418/status/2080705912923406495",
       "published_at": "2026-07-24T17:25:21Z",
-      "summary": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径Medeo_AI@Medeo_AIx.com/i/article/2080…🔗 View Quoted Tweet💬22🔄8❤️42👀18330📊27⚡ Powered by xgo.ing"
+      "summary": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径Medeo_AI@Medeo_AIx.com/i/article/2080…🔗 View Quoted Tweet💬26🔄9❤️44👀19050📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "10419477d831510cc165d517df1672aedd72387d",
@@ -381,7 +403,7 @@
       "title": "笑死 Anthropic 这么草台？\n\n这 Opus 5 的测试成绩分数标红不太对吧\n\n53.4 大于 53.5？",
       "url": "https://x.com/op7418/status/2080703521364861277",
       "published_at": "2026-07-24T17:15:51Z",
-      "summary": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？歸藏(guizang.ai)@op7418来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样🔗 View Quoted Tweet💬63🔄3❤️169👀92479📊55⚡ Powered by xgo.ing"
+      "summary": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？歸藏(guizang.ai)@op7418来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样🔗 View Quoted Tweet💬66🔄3❤️169👀94030📊57⚡ Powered by xgo.ing"
     },
     {
       "id": "05eae857a9c532d221ac023062b15150b62ecabe",
@@ -414,7 +436,7 @@
       "title": "25 家公司",
       "url": "https://x.com/op7418/status/2080664516417945638",
       "published_at": "2026-07-24T14:40:52Z",
-      "summary": "25 家公司💬0🔄0❤️10👀3720📊1⚡ Powered by xgo.ing"
+      "summary": "25 家公司💬0🔄0❤️10👀3752📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "ed87a9fa4c2aa1ea82bab0fff627cf82bc9a2c9a",
@@ -425,7 +447,7 @@
       "title": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容",
       "url": "https://x.com/op7418/status/2080662392825069758",
       "published_at": "2026-07-24T14:32:25Z",
-      "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️11👀5271📊2⚡ Powered by xgo.ing"
+      "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️11👀5306📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "0ee50245ff4713a469a193babc5041964f293291",
