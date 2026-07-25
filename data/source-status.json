@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-25T22:24:45.004870Z",
+  "generated_at": "2026-07-25T23:28:17.768339Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 170,
-      "duration_ms": 15844,
+      "duration_ms": 3235,
       "error": null
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 261,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 102,
+      "error": "401 Client Error: Unauthorized for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 53,
+      "duration_ms": 27,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 451,
+      "duration_ms": 547,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 395,
+      "duration_ms": 290,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 348,
-      "duration_ms": 14074,
+      "duration_ms": 13608,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 854,
+      "duration_ms": 490,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2933,
-      "duration_ms": 1472,
+      "item_count": 2991,
+      "duration_ms": 1715,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 59,
-      "duration_ms": 433,
+      "item_count": 63,
+      "duration_ms": 340,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 445,
+      "duration_ms": 430,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1804,
+      "duration_ms": 1564,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 128,
-      "duration_ms": 1504,
+      "duration_ms": 1378,
       "error": null
     },
     {
@@ -103,7 +103,7 @@
       "ok": true,
       "partial_failures": 3,
       "item_count": 226,
-      "duration_ms": 13276,
+      "duration_ms": 10155,
       "error": "3 feeds failed",
       "feed_count": 13,
       "effective_feed_count": 10,
@@ -113,12 +113,14 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 13,
-  "failed_sites": [],
+  "successful_sites": 12,
+  "failed_sites": [
+    "aibreakfast"
+  ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5094,
-  "items_before_topic_filter": 5402,
-  "items_in_24h": 431,
+  "fetched_raw_items": 5147,
+  "items_before_topic_filter": 5336,
+  "items_in_24h": 420,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -157,7 +159,7 @@
         "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 498,
+        "duration_ms": 387,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -171,7 +173,7 @@
         "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
         "ok": true,
         "item_count": 16,
-        "duration_ms": 31,
+        "duration_ms": 20,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -185,7 +187,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1713,
+        "duration_ms": 1509,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -199,7 +201,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1099,
+        "duration_ms": 936,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -213,7 +215,7 @@
         "effective_feed_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 6609,
+        "duration_ms": 4373,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -227,7 +229,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 718,
+        "duration_ms": 593,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -283,7 +285,7 @@
         "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 48,
+        "duration_ms": 94,
         "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -297,7 +299,7 @@
         "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 2558,
+        "duration_ms": 2243,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -311,7 +313,7 @@
         "effective_feed_url": "rsshub://bilibili/user/video/385670211",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 2,
+        "duration_ms": 0,
         "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
         "skipped": false,
         "skip_reason": null,
