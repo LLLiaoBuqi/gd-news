@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T14:08:29.001629Z",
+  "generated_at": "2026-07-25T15:36:25.337551Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 403,
+      "duration_ms": 102,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 80,
+      "duration_ms": 125,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1668,
+      "duration_ms": 1818,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 953,
+      "duration_ms": 1303,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 895,
+      "duration_ms": 953,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 832,
+      "duration_ms": 945,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 416,
+      "duration_ms": 656,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2656,
+      "duration_ms": 2809,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 73,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 856,
+      "duration_ms": 803,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -233,7 +233,7 @@
           "title": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径",
           "url": "https://x.com/op7418/status/2080705912923406495",
           "published_at": "2026-07-24T17:25:21Z",
-          "summary": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径Medeo_AI@Medeo_AIx.com/i/article/2080…🔗 View Quoted Tweet💬34🔄9❤️48👀20539📊36⚡ Powered by xgo.ing"
+          "summary": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径Medeo_AI@Medeo_AIx.com/i/article/2080…🔗 View Quoted Tweet💬38🔄9❤️51👀21511📊40⚡ Powered by xgo.ing"
         },
         {
           "id": "10419477d831510cc165d517df1672aedd72387d",
@@ -244,7 +244,7 @@
           "title": "笑死 Anthropic 这么草台？\n\n这 Opus 5 的测试成绩分数标红不太对吧\n\n53.4 大于 53.5？",
           "url": "https://x.com/op7418/status/2080703521364861277",
           "published_at": "2026-07-24T17:15:51Z",
-          "summary": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？歸藏(guizang.ai)@op7418来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样🔗 View Quoted Tweet💬67🔄3❤️171👀96016📊58⚡ Powered by xgo.ing"
+          "summary": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？歸藏(guizang.ai)@op7418来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样🔗 View Quoted Tweet💬67🔄3❤️172👀96818📊58⚡ Powered by xgo.ing"
         },
         {
           "id": "05eae857a9c532d221ac023062b15150b62ecabe",
@@ -267,50 +267,6 @@
           "url": "https://x.com/op7418/status/2080683836963463291",
           "published_at": "2026-07-24T15:57:38Z",
           "summary": "Sam 居然发声支持了，这下达里奥真成小丑了歸藏(guizang.ai)@op7418牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据…"
-        },
-        {
-          "id": "48e25b96c08bb886a3359fccbe5f0c07715848ef",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "25 家公司",
-          "url": "https://x.com/op7418/status/2080664516417945638",
-          "published_at": "2026-07-24T14:40:52Z",
-          "summary": "25 家公司💬0🔄0❤️10👀3803📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ed87a9fa4c2aa1ea82bab0fff627cf82bc9a2c9a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容",
-          "url": "https://x.com/op7418/status/2080662392825069758",
-          "published_at": "2026-07-24T14:32:25Z",
-          "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️11👀5368📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0ee50245ff4713a469a193babc5041964f293291",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "微软 CEO 纳德拉也和黄仁勋发了同样的倡议，看起来是要集体给美国政府施压了",
-          "url": "https://x.com/op7418/status/2080662154798334286",
-          "published_at": "2026-07-24T14:31:29Z",
-          "summary": "微软 CEO 纳德拉也和黄仁勋发了同样的倡议，看起来是要集体给美国政府施压了歸藏(guizang.ai)@op7418牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构…"
-        },
-        {
-          "id": "138ff5bf9d8ad50e4f9b75a6d1252836cbb988ec",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "牛逼！黄仁勋开了自己的 Twitter 账号\n\n并且发表了第一篇帖子，力挺开源模型和开源生态！\n\n这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站...",
-          "url": "https://x.com/op7418/status/2080659283340087565",
-          "published_at": "2026-07-24T14:20:04Z",
-          "summary": "牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据集、工具和评估体系 3. 不要因为潜在风险而过早地限制开源模型 对于英伟达来说，这种开…"
         }
       ]
     },
@@ -392,7 +348,7 @@
       "title": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径",
       "url": "https://x.com/op7418/status/2080705912923406495",
       "published_at": "2026-07-24T17:25:21Z",
-      "summary": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径Medeo_AI@Medeo_AIx.com/i/article/2080…🔗 View Quoted Tweet💬34🔄9❤️48👀20539📊36⚡ Powered by xgo.ing"
+      "summary": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径Medeo_AI@Medeo_AIx.com/i/article/2080…🔗 View Quoted Tweet💬38🔄9❤️51👀21511📊40⚡ Powered by xgo.ing"
     },
     {
       "id": "10419477d831510cc165d517df1672aedd72387d",
@@ -403,7 +359,7 @@
       "title": "笑死 Anthropic 这么草台？\n\n这 Opus 5 的测试成绩分数标红不太对吧\n\n53.4 大于 53.5？",
       "url": "https://x.com/op7418/status/2080703521364861277",
       "published_at": "2026-07-24T17:15:51Z",
-      "summary": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？歸藏(guizang.ai)@op7418来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样🔗 View Quoted Tweet💬67🔄3❤️171👀96016📊58⚡ Powered by xgo.ing"
+      "summary": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？歸藏(guizang.ai)@op7418来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样🔗 View Quoted Tweet💬67🔄3❤️172👀96818📊58⚡ Powered by xgo.ing"
     },
     {
       "id": "05eae857a9c532d221ac023062b15150b62ecabe",
@@ -426,50 +382,6 @@
       "url": "https://x.com/op7418/status/2080683836963463291",
       "published_at": "2026-07-24T15:57:38Z",
       "summary": "Sam 居然发声支持了，这下达里奥真成小丑了歸藏(guizang.ai)@op7418牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据…"
-    },
-    {
-      "id": "48e25b96c08bb886a3359fccbe5f0c07715848ef",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "25 家公司",
-      "url": "https://x.com/op7418/status/2080664516417945638",
-      "published_at": "2026-07-24T14:40:52Z",
-      "summary": "25 家公司💬0🔄0❤️10👀3803📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ed87a9fa4c2aa1ea82bab0fff627cf82bc9a2c9a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容",
-      "url": "https://x.com/op7418/status/2080662392825069758",
-      "published_at": "2026-07-24T14:32:25Z",
-      "summary": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容💬1🔄0❤️11👀5368📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0ee50245ff4713a469a193babc5041964f293291",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "微软 CEO 纳德拉也和黄仁勋发了同样的倡议，看起来是要集体给美国政府施压了",
-      "url": "https://x.com/op7418/status/2080662154798334286",
-      "published_at": "2026-07-24T14:31:29Z",
-      "summary": "微软 CEO 纳德拉也和黄仁勋发了同样的倡议，看起来是要集体给美国政府施压了歸藏(guizang.ai)@op7418牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构…"
-    },
-    {
-      "id": "138ff5bf9d8ad50e4f9b75a6d1252836cbb988ec",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "牛逼！黄仁勋开了自己的 Twitter 账号\n\n并且发表了第一篇帖子，力挺开源模型和开源生态！\n\n这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站...",
-      "url": "https://x.com/op7418/status/2080659283340087565",
-      "published_at": "2026-07-24T14:20:04Z",
-      "summary": "牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据集、工具和评估体系 3. 不要因为潜在风险而过早地限制开源模型 对于英伟达来说，这种开…"
     }
   ]
 }
