@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T08:52:41.525072Z",
+  "generated_at": "2026-07-27T12:14:59.894575Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 0,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 8,
   "failed_feeds": [
@@ -21,7 +21,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 166,
+      "duration_ms": 206,
       "error": "HTTPSConnectionPool(host='rsshub.bestblogs.dev', port=443): Max retries exceeded with url: /anthropic/news (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))",
       "skipped": false,
       "skip_reason": null,
@@ -35,7 +35,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 33,
+      "duration_ms": 30,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -49,7 +49,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2087,
+      "duration_ms": 1581,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -63,7 +63,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1450,
+      "duration_ms": 977,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -77,7 +77,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1169,
+      "duration_ms": 813,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -91,7 +91,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 703,
+      "duration_ms": 663,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -105,7 +105,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -119,7 +119,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 829,
+      "duration_ms": 786,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -133,7 +133,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -147,7 +147,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2806,
+      "duration_ms": 2554,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -175,7 +175,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1124,
+      "duration_ms": 329,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -185,13 +185,69 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 0,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "5ac0700e1add601a402d1d7f841e666cd7c04a5f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：https://t.co/v6uHDHoL8G",
+          "url": "https://x.com/op7418/status/2081665633411092793",
+          "published_at": "2026-07-27T08:58:57Z",
+          "summary": "Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：huggingface.co/moonshotai/Kim…💬6🔄0❤️22👀6845📊8⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "0775c5dfaa4d9c3193f1036407d6cadeecd85f89",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我们所熟知的所有美国和一些欧洲的 AI 生态公司全都签署了这个协议（支持开源 AI 生态的协议），\n\n即使是 OpenAI 和 SpaceX 也签了，只有一家没签，你懂的",
+          "url": "https://x.com/op7418/status/2081655394368376930",
+          "published_at": "2026-07-27T08:18:15Z",
+          "summary": "我们所熟知的所有美国和一些欧洲的 AI 生态公司全都签署了这个协议（支持开源 AI 生态的协议）， 即使是 OpenAI 和 SpaceX 也签了，只有一家没签，你懂的歸藏(guizang.ai)@op7418牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开…"
+        },
+        {
+          "id": "ac4401e270ea59b6d192fc805fb72f08df5359f3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "切换到美国 IP 以后，你可以在 ChatGPT 侧边栏的部分找到“健康”，然后选择连接并授权就行。\n\n如果要连接苹果的健康应用，需要 iOS 客户端才能开启。如果你一时找不到，可以点击那两个点展开看...",
+          "url": "https://x.com/op7418/status/2081652142662898096",
+          "published_at": "2026-07-27T08:05:20Z",
+          "summary": "切换到美国 IP 以后，你可以在 ChatGPT 侧边栏的部分找到“健康”，然后选择连接并授权就行。 如果要连接苹果的健康应用，需要 iOS 客户端才能开启。如果你一时找不到，可以点击那两个点展开看看。💬1🔄1❤️8👀3416📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "daddeecbf70e8c39a15e874b6415ee2eea17d442",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "上周 ChatGPT Health 的功能向美国用户推出了，我试了一下，这东西非常屌啊！\n\n即使你没有美国其他的健康应用，只是有 Apple Watch 的一些健康数据，它也能分析出非常多的信息。\n\n...",
+          "url": "https://x.com/op7418/status/2081651445091475651",
+          "published_at": "2026-07-27T08:02:34Z",
+          "summary": "上周 ChatGPT Health 的功能向美国用户推出了，我试了一下，这东西非常屌啊！ 即使你没有美国其他的健康应用，只是有 Apple Watch 的一些健康数据，它也能分析出非常多的信息。 比如说我长期的那个“有氧适能”低问题。我一直以为是自己身体有什么问题，导致长期运动以后依然无法提升。 但是 GPT 就分析出来了（尤其是配合 ChatGPT Pro 使用，效果更顶）： 它分析出这是因为 Apple Watch 的有氧适能测试只针对徒步和跑步，而我这两个运动进行得比较少，所以它就没有机会进行测试。 还有就是它对你身体的运动量、睡眠，以及其他一些因…"
+        },
+        {
+          "id": "aa00c68533eda660dc893095b3d6b34e6c7a62bb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "浪费20亿Token之后，我开源了一个帮自己定义目标的Skill。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684648&idx=1&sn=d246e9edd3be0f08cbd738b0531add21",
+          "published_at": "2026-07-27T00:12:00Z",
+          "summary": "直接开源"
+        }
+      ]
     },
     "global": {
       "label": "国外精选",
@@ -206,5 +262,61 @@
       "items": []
     }
   },
-  "items": []
+  "items": [
+    {
+      "id": "5ac0700e1add601a402d1d7f841e666cd7c04a5f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：https://t.co/v6uHDHoL8G",
+      "url": "https://x.com/op7418/status/2081665633411092793",
+      "published_at": "2026-07-27T08:58:57Z",
+      "summary": "Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：huggingface.co/moonshotai/Kim…💬6🔄0❤️22👀6845📊8⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "0775c5dfaa4d9c3193f1036407d6cadeecd85f89",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我们所熟知的所有美国和一些欧洲的 AI 生态公司全都签署了这个协议（支持开源 AI 生态的协议），\n\n即使是 OpenAI 和 SpaceX 也签了，只有一家没签，你懂的",
+      "url": "https://x.com/op7418/status/2081655394368376930",
+      "published_at": "2026-07-27T08:18:15Z",
+      "summary": "我们所熟知的所有美国和一些欧洲的 AI 生态公司全都签署了这个协议（支持开源 AI 生态的协议）， 即使是 OpenAI 和 SpaceX 也签了，只有一家没签，你懂的歸藏(guizang.ai)@op7418牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开…"
+    },
+    {
+      "id": "ac4401e270ea59b6d192fc805fb72f08df5359f3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "切换到美国 IP 以后，你可以在 ChatGPT 侧边栏的部分找到“健康”，然后选择连接并授权就行。\n\n如果要连接苹果的健康应用，需要 iOS 客户端才能开启。如果你一时找不到，可以点击那两个点展开看...",
+      "url": "https://x.com/op7418/status/2081652142662898096",
+      "published_at": "2026-07-27T08:05:20Z",
+      "summary": "切换到美国 IP 以后，你可以在 ChatGPT 侧边栏的部分找到“健康”，然后选择连接并授权就行。 如果要连接苹果的健康应用，需要 iOS 客户端才能开启。如果你一时找不到，可以点击那两个点展开看看。💬1🔄1❤️8👀3416📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "daddeecbf70e8c39a15e874b6415ee2eea17d442",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "上周 ChatGPT Health 的功能向美国用户推出了，我试了一下，这东西非常屌啊！\n\n即使你没有美国其他的健康应用，只是有 Apple Watch 的一些健康数据，它也能分析出非常多的信息。\n\n...",
+      "url": "https://x.com/op7418/status/2081651445091475651",
+      "published_at": "2026-07-27T08:02:34Z",
+      "summary": "上周 ChatGPT Health 的功能向美国用户推出了，我试了一下，这东西非常屌啊！ 即使你没有美国其他的健康应用，只是有 Apple Watch 的一些健康数据，它也能分析出非常多的信息。 比如说我长期的那个“有氧适能”低问题。我一直以为是自己身体有什么问题，导致长期运动以后依然无法提升。 但是 GPT 就分析出来了（尤其是配合 ChatGPT Pro 使用，效果更顶）： 它分析出这是因为 Apple Watch 的有氧适能测试只针对徒步和跑步，而我这两个运动进行得比较少，所以它就没有机会进行测试。 还有就是它对你身体的运动量、睡眠，以及其他一些因…"
+    },
+    {
+      "id": "aa00c68533eda660dc893095b3d6b34e6c7a62bb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "浪费20亿Token之后，我开源了一个帮自己定义目标的Skill。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684648&idx=1&sn=d246e9edd3be0f08cbd738b0531add21",
+      "published_at": "2026-07-27T00:12:00Z",
+      "summary": "直接开源"
+    }
+  ]
 }
