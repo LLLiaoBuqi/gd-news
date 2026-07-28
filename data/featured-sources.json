@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T15:15:11.791731Z",
+  "generated_at": "2026-07-28T16:56:53.161220Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 175,
+      "duration_ms": 134,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 176,
+      "duration_ms": 150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1999,
+      "duration_ms": 2014,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1444,
+      "duration_ms": 1409,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 916,
+      "duration_ms": 1152,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1131,
+      "duration_ms": 666,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 2,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 588,
+      "duration_ms": 861,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 12,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3269,
+      "duration_ms": 3249,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 811,
+      "duration_ms": 1206,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 13,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
           "url": "https://x.com/op7418/status/2082045057545421065",
           "published_at": "2026-07-28T10:06:38Z",
-          "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬0🔄0❤️9👀3111📊1⚡ Powered by xgo.ing"
+          "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬0🔄0❤️9👀3383📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "e9210df8b532c3c32460346dcfefe8ab14e0fe8c",
@@ -233,7 +233,7 @@
           "title": "codex 已经重置",
           "url": "https://x.com/op7418/status/2081940415704658035",
           "published_at": "2026-07-28T03:10:50Z",
-          "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬19🔄0❤️26👀9904📊14⚡ Powered by xgo.ing"
+          "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬20🔄0❤️26👀10098📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "59301f3a19846d97fc28835070f508c69df4e59a",
@@ -244,7 +244,7 @@
           "title": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致\n\n但是一些  Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor...",
           "url": "https://x.com/op7418/status/2081938548626960823",
           "published_at": "2026-07-28T03:03:25Z",
-          "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬19🔄4❤️66👀52668📊21⚡ Powered by xgo.ing"
+          "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬19🔄4❤️70👀55567📊22⚡ Powered by xgo.ing"
         },
         {
           "id": "575db592e20b8118467b6f8ae801e71c310e3553",
@@ -255,7 +255,7 @@
           "title": "详情：https://t.co/1wiyFZrCVs",
           "url": "https://x.com/op7418/status/2081937789848084883",
           "published_at": "2026-07-28T03:00:24Z",
-          "summary": "详情：anthropic.com/news/position-…💬0🔄0❤️0👀3701⚡ Powered by xgo.ing"
+          "summary": "详情：anthropic.com/news/position-…💬0🔄0❤️0👀3789⚡ Powered by xgo.ing"
         },
         {
           "id": "82430abadd7831847bf1870175611c02f88a571e",
@@ -289,50 +289,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684685&idx=1&sn=63082ee2aa0add9e44ad21758f259f62",
           "published_at": "2026-07-28T00:06:00Z",
           "summary": "这个世界需要开源"
-        },
-        {
-          "id": "0542fd72e0836875b767e917a2def939c5d9b06f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "英伟达大规模投资 Ilya 的 SSI 公司，帮他们在未来 12 个月提高 10 倍的计算能力，这公司目前为止一个模型都没发布\n\nIlya 是真不急",
-          "url": "https://x.com/op7418/status/2081767211245645842",
-          "published_at": "2026-07-27T15:42:35Z",
-          "summary": "英伟达大规模投资 Ilya 的 SSI 公司，帮他们在未来 12 个月提高 10 倍的计算能力，这公司目前为止一个模型都没发布 Ilya 是真不急SSI Inc.@ssiWe are announcing a long-term strategic partnership with NVIDIA. NVIDIA is making a substantial investment in SSI that will let us 10x our compute in the next 12 months. We reached the point wher…"
-        },
-        {
-          "id": "fb610e8d985ee300a189ab6aaa47b0430fd94737",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "人手一个，黄老板也开源了一个 Agent 客户端",
-          "url": "https://x.com/op7418/status/2081765229185401186",
-          "published_at": "2026-07-27T15:34:42Z",
-          "summary": "人手一个，黄老板也开源了一个 Agent 客户端Dash@DashHuang向大家介绍 Cindy，我们创作的一款开源 AI Agent 客户端。她有很多有趣的地方，未来几天我会花时间来和大家一一介绍。 但今天最想说的，不是她有多强大——相反，她还有很多不完善的地方，等着我们持续去改进。Cindy 本身就是一款纯 Vibe 出来的作品，对我们来说就是一场面向 AI Native 开发的大型实验。经历了最近几周的开发实践，我们现在已经对如何让她变得更好充满信心。 github.com/makecindy/cindy🔗 View Quoted Tweet💬1…"
-        },
-        {
-          "id": "3fe8656f713d031a3c708d01e84907aef79d7768",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "详情：https://t.co/HGyKvgHaU8",
-          "url": "https://x.com/op7418/status/2081762198939193447",
-          "published_at": "2026-07-27T15:22:40Z",
-          "summary": "详情：huggingface.co/moonshotai/Kim…💬0🔄0❤️0👀4483⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "570d09e8b5abf49f70c83953c4d043558ed7afc2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了",
-          "url": "https://x.com/op7418/status/2081762145348489317",
-          "published_at": "2026-07-27T15:22:27Z",
-          "summary": "Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了歸藏(guizang.ai)@op7418Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：huggingface.co/moonshotai/Kim…🔗 View Quoted Tweet💬10🔄0❤️70👀93095📊15⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -366,7 +322,7 @@
           "title": "https://t.co/5q0d6l8JPN",
           "url": "https://x.com/OpenAI/status/2081833351678406878",
           "published_at": "2026-07-27T20:05:24Z",
-          "summary": "openai.com/index/how-ai-i…💬15🔄10❤️138👀66428📊33⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/how-ai-i…💬15🔄10❤️142👀68233📊33⚡ Powered by xgo.ing"
         },
         {
           "id": "c1ab91153cd2625007fce16650c3cb831637b06e",
@@ -377,7 +333,7 @@
           "title": "At a small business, the person closest to a problem is often the one who has to solve it—even when ...",
           "url": "https://x.com/OpenAI/status/2081833350323720219",
           "published_at": "2026-07-27T20:05:23Z",
-          "summary": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for small teams, helping them work across functions.💬178🔄188❤️2226👀271415📊404⚡ Powere…"
+          "summary": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for small teams, helping them work across functions.💬185🔄194❤️2307👀283548📊418⚡ Powere…"
         },
         {
           "id": "cac7debff6261362faacc59d51906a5982e2eb67",
@@ -414,7 +370,7 @@
       "title": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
       "url": "https://x.com/op7418/status/2082045057545421065",
       "published_at": "2026-07-28T10:06:38Z",
-      "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬0🔄0❤️9👀3111📊1⚡ Powered by xgo.ing"
+      "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬0🔄0❤️9👀3383📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "e9210df8b532c3c32460346dcfefe8ab14e0fe8c",
@@ -436,7 +392,7 @@
       "title": "codex 已经重置",
       "url": "https://x.com/op7418/status/2081940415704658035",
       "published_at": "2026-07-28T03:10:50Z",
-      "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬19🔄0❤️26👀9904📊14⚡ Powered by xgo.ing"
+      "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬20🔄0❤️26👀10098📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "59301f3a19846d97fc28835070f508c69df4e59a",
@@ -447,7 +403,7 @@
       "title": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致\n\n但是一些  Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor...",
       "url": "https://x.com/op7418/status/2081938548626960823",
       "published_at": "2026-07-28T03:03:25Z",
-      "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬19🔄4❤️66👀52668📊21⚡ Powered by xgo.ing"
+      "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬19🔄4❤️70👀55567📊22⚡ Powered by xgo.ing"
     },
     {
       "id": "575db592e20b8118467b6f8ae801e71c310e3553",
@@ -458,7 +414,7 @@
       "title": "详情：https://t.co/1wiyFZrCVs",
       "url": "https://x.com/op7418/status/2081937789848084883",
       "published_at": "2026-07-28T03:00:24Z",
-      "summary": "详情：anthropic.com/news/position-…💬0🔄0❤️0👀3701⚡ Powered by xgo.ing"
+      "summary": "详情：anthropic.com/news/position-…💬0🔄0❤️0👀3789⚡ Powered by xgo.ing"
     },
     {
       "id": "82430abadd7831847bf1870175611c02f88a571e",
@@ -513,7 +469,7 @@
       "title": "https://t.co/5q0d6l8JPN",
       "url": "https://x.com/OpenAI/status/2081833351678406878",
       "published_at": "2026-07-27T20:05:24Z",
-      "summary": "openai.com/index/how-ai-i…💬15🔄10❤️138👀66428📊33⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/how-ai-i…💬15🔄10❤️142👀68233📊33⚡ Powered by xgo.ing"
     },
     {
       "id": "c1ab91153cd2625007fce16650c3cb831637b06e",
@@ -524,7 +480,7 @@
       "title": "At a small business, the person closest to a problem is often the one who has to solve it—even when ...",
       "url": "https://x.com/OpenAI/status/2081833350323720219",
       "published_at": "2026-07-27T20:05:23Z",
-      "summary": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for small teams, helping them work across functions.💬178🔄188❤️2226👀271415📊404⚡ Powere…"
+      "summary": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for small teams, helping them work across functions.💬185🔄194❤️2307👀283548📊418⚡ Powere…"
     },
     {
       "id": "cac7debff6261362faacc59d51906a5982e2eb67",
@@ -536,50 +492,6 @@
       "url": "https://x.com/OpenAI/status/2081794871795589485",
       "published_at": "2026-07-27T17:32:29Z",
       "summary": "GPT-Live in ChatGPT Voice is now available to Edu, Business, and Enterprise plans globally.OpenAI@OpenAIIntroducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.Yo…"
-    },
-    {
-      "id": "0542fd72e0836875b767e917a2def939c5d9b06f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "英伟达大规模投资 Ilya 的 SSI 公司，帮他们在未来 12 个月提高 10 倍的计算能力，这公司目前为止一个模型都没发布\n\nIlya 是真不急",
-      "url": "https://x.com/op7418/status/2081767211245645842",
-      "published_at": "2026-07-27T15:42:35Z",
-      "summary": "英伟达大规模投资 Ilya 的 SSI 公司，帮他们在未来 12 个月提高 10 倍的计算能力，这公司目前为止一个模型都没发布 Ilya 是真不急SSI Inc.@ssiWe are announcing a long-term strategic partnership with NVIDIA. NVIDIA is making a substantial investment in SSI that will let us 10x our compute in the next 12 months. We reached the point wher…"
-    },
-    {
-      "id": "fb610e8d985ee300a189ab6aaa47b0430fd94737",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "人手一个，黄老板也开源了一个 Agent 客户端",
-      "url": "https://x.com/op7418/status/2081765229185401186",
-      "published_at": "2026-07-27T15:34:42Z",
-      "summary": "人手一个，黄老板也开源了一个 Agent 客户端Dash@DashHuang向大家介绍 Cindy，我们创作的一款开源 AI Agent 客户端。她有很多有趣的地方，未来几天我会花时间来和大家一一介绍。 但今天最想说的，不是她有多强大——相反，她还有很多不完善的地方，等着我们持续去改进。Cindy 本身就是一款纯 Vibe 出来的作品，对我们来说就是一场面向 AI Native 开发的大型实验。经历了最近几周的开发实践，我们现在已经对如何让她变得更好充满信心。 github.com/makecindy/cindy🔗 View Quoted Tweet💬1…"
-    },
-    {
-      "id": "3fe8656f713d031a3c708d01e84907aef79d7768",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "详情：https://t.co/HGyKvgHaU8",
-      "url": "https://x.com/op7418/status/2081762198939193447",
-      "published_at": "2026-07-27T15:22:40Z",
-      "summary": "详情：huggingface.co/moonshotai/Kim…💬0🔄0❤️0👀4483⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "570d09e8b5abf49f70c83953c4d043558ed7afc2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了",
-      "url": "https://x.com/op7418/status/2081762145348489317",
-      "published_at": "2026-07-27T15:22:27Z",
-      "summary": "Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了歸藏(guizang.ai)@op7418Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：huggingface.co/moonshotai/Kim…🔗 View Quoted Tweet💬10🔄0❤️70👀93095📊15⚡ Powered by xgo.ing"
     }
   ]
 }
