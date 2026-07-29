@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T20:46:07.377696Z",
+  "generated_at": "2026-07-29T21:53:53.548940Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 20,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 909,
+      "duration_ms": 639,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 20,
+      "duration_ms": 26,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2562,
+      "duration_ms": 2114,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1553,
+      "duration_ms": 1143,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1045,
+      "duration_ms": 753,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 475,
+      "duration_ms": 572,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1041,
+      "duration_ms": 1010,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 29,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3598,
+      "duration_ms": 3405,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 684,
+      "duration_ms": 431,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -222,7 +222,7 @@
           "title": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
           "url": "https://x.com/op7418/status/2082321046863335505",
           "published_at": "2026-07-29T04:23:19Z",
-          "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬20🔄0❤️12👀5677📊17⚡ Powered by xgo.ing"
+          "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬20🔄0❤️12👀5687📊17⚡ Powered by xgo.ing"
         },
         {
           "id": "5411c28f78d89f1977267b11ddfb764a2b772103",
@@ -255,7 +255,7 @@
           "title": "示例任务结果：https://t.co/m3TAqKKtzy",
           "url": "https://x.com/op7418/status/2082315307235115409",
           "published_at": "2026-07-29T04:00:31Z",
-          "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄1❤️3👀3962📊1⚡ Powered by xgo.ing"
+          "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄1❤️3👀3970📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "32c72cf1016939fd51a4127ebe1a02f663272660",
@@ -277,7 +277,7 @@
           "title": "这里尝试：https://t.co/n7iELgnzwj",
           "url": "https://x.com/op7418/status/2082313723717525835",
           "published_at": "2026-07-29T03:54:13Z",
-          "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️4👀3471📊4⚡ Powered by xgo.ing"
+          "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️4👀3480📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "53ff5b31bdccc03c29ed030fc5e64aa6733f93ba",
@@ -288,7 +288,7 @@
           "title": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！\n\n充分发挥各个模型的能力长处，而且可以帮你节省成本。\n\n你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们...",
           "url": "https://x.com/op7418/status/2082313658277732747",
           "published_at": "2026-07-29T03:53:58Z",
-          "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬43🔄7❤️51👀37687📊51⚡ Powered by xgo.ing"
+          "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬43🔄7❤️52👀37894📊51⚡ Powered by xgo.ing"
         },
         {
           "id": "199ba69ea261898fb937a4d124c0b61bca189514",
@@ -305,7 +305,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 10,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -313,6 +313,50 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "ae55e186097c61e52a33c8788fe6badb164ee26e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "These optimizations across our stack compound to unlock the most performant models at every point in...",
+          "url": "https://x.com/OpenAI/status/2082577278450676080",
+          "published_at": "2026-07-29T21:21:30Z",
+          "summary": "These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. openai.com/index/gpt-5-6-…💬3🔄6❤️165👀13242📊18⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5dcaf6a208ae12c667e79ff159069ad1eb97e207",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more...",
+          "url": "https://x.com/OpenAI/status/2082577277246972300",
+          "published_at": "2026-07-29T21:21:29Z",
+          "summary": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.💬63🔄…"
+        },
+        {
+          "id": "2ab53f10dbc3a66b9a21b543bf7f56cb44794e50",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Offer valid for users without a Google AI subscription plan, more info on availability here: https:/...",
+          "url": "https://x.com/GeminiApp/status/2082563568541839484",
+          "published_at": "2026-07-29T20:27:01Z",
+          "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬2🔄0❤️9👀3946📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "6d8e625f2cb9712fd31fb9ff33229ffc5b0c1fdd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 202...",
+          "url": "https://x.com/GeminiApp/status/2082563490431246623",
+          "published_at": "2026-07-29T20:26:42Z",
+          "summary": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 2026. Just select \"Create video\" in the tools menu to create, edit, and remix videos to bring your ideas to life. Share how you’re using Gemini Omni in the replies 👇💬31🔄42❤️283👀14361📊…"
+        },
         {
           "id": "210c3ac7f6721b759591f50478db74de130343a5",
           "site_id": "featuredrss",
@@ -355,7 +399,7 @@
           "title": "Source + docs: https://t.co/vdxdROAl9O",
           "url": "https://x.com/OpenAI/status/2082263720777101505",
           "published_at": "2026-07-29T00:35:32Z",
-          "summary": "Source + docs: github.com/openai/codex-s…💬17🔄39❤️449👀106238📊91⚡ Powered by xgo.ing"
+          "summary": "Source + docs: github.com/openai/codex-s…💬17🔄39❤️453👀107230📊92⚡ Powered by xgo.ing"
         },
         {
           "id": "8889bb274705ed29d39ffb1d13619bf6ed52e321",
@@ -377,23 +421,56 @@
           "title": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
           "url": "https://x.com/OpenAI/status/2082263719460094127",
           "published_at": "2026-07-29T00:35:31Z",
-          "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬21🔄39❤️496👀125608📊94⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ffed0a5e7cbd8883de3941fb0e7ed51698cf45e1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo...",
-          "url": "https://x.com/OpenAI/status/2082208694142730340",
-          "published_at": "2026-07-28T20:56:52Z",
-          "summary": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. We hope…"
+          "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬22🔄39❤️499👀126839📊96⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "ae55e186097c61e52a33c8788fe6badb164ee26e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "These optimizations across our stack compound to unlock the most performant models at every point in...",
+      "url": "https://x.com/OpenAI/status/2082577278450676080",
+      "published_at": "2026-07-29T21:21:30Z",
+      "summary": "These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. openai.com/index/gpt-5-6-…💬3🔄6❤️165👀13242📊18⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5dcaf6a208ae12c667e79ff159069ad1eb97e207",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more...",
+      "url": "https://x.com/OpenAI/status/2082577277246972300",
+      "published_at": "2026-07-29T21:21:29Z",
+      "summary": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.💬63🔄…"
+    },
+    {
+      "id": "2ab53f10dbc3a66b9a21b543bf7f56cb44794e50",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Offer valid for users without a Google AI subscription plan, more info on availability here: https:/...",
+      "url": "https://x.com/GeminiApp/status/2082563568541839484",
+      "published_at": "2026-07-29T20:27:01Z",
+      "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬2🔄0❤️9👀3946📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "6d8e625f2cb9712fd31fb9ff33229ffc5b0c1fdd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 202...",
+      "url": "https://x.com/GeminiApp/status/2082563490431246623",
+      "published_at": "2026-07-29T20:26:42Z",
+      "summary": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 2026. Just select \"Create video\" in the tools menu to create, edit, and remix videos to bring your ideas to life. Share how you’re using Gemini Omni in the replies 👇💬31🔄42❤️283👀14361📊…"
+    },
     {
       "id": "210c3ac7f6721b759591f50478db74de130343a5",
       "site_id": "featuredrss",
@@ -458,7 +535,7 @@
       "title": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
       "url": "https://x.com/op7418/status/2082321046863335505",
       "published_at": "2026-07-29T04:23:19Z",
-      "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬20🔄0❤️12👀5677📊17⚡ Powered by xgo.ing"
+      "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬20🔄0❤️12👀5687📊17⚡ Powered by xgo.ing"
     },
     {
       "id": "5411c28f78d89f1977267b11ddfb764a2b772103",
@@ -491,7 +568,7 @@
       "title": "示例任务结果：https://t.co/m3TAqKKtzy",
       "url": "https://x.com/op7418/status/2082315307235115409",
       "published_at": "2026-07-29T04:00:31Z",
-      "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄1❤️3👀3962📊1⚡ Powered by xgo.ing"
+      "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄1❤️3👀3970📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "32c72cf1016939fd51a4127ebe1a02f663272660",
@@ -513,7 +590,7 @@
       "title": "这里尝试：https://t.co/n7iELgnzwj",
       "url": "https://x.com/op7418/status/2082313723717525835",
       "published_at": "2026-07-29T03:54:13Z",
-      "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️4👀3471📊4⚡ Powered by xgo.ing"
+      "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️4👀3480📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "53ff5b31bdccc03c29ed030fc5e64aa6733f93ba",
@@ -524,7 +601,7 @@
       "title": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！\n\n充分发挥各个模型的能力长处，而且可以帮你节省成本。\n\n你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们...",
       "url": "https://x.com/op7418/status/2082313658277732747",
       "published_at": "2026-07-29T03:53:58Z",
-      "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬43🔄7❤️51👀37687📊51⚡ Powered by xgo.ing"
+      "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬43🔄7❤️52👀37894📊51⚡ Powered by xgo.ing"
     },
     {
       "id": "8cdd779cc6ea4eaf48ee230e5524dd0c25816537",
@@ -535,7 +612,7 @@
       "title": "Source + docs: https://t.co/vdxdROAl9O",
       "url": "https://x.com/OpenAI/status/2082263720777101505",
       "published_at": "2026-07-29T00:35:32Z",
-      "summary": "Source + docs: github.com/openai/codex-s…💬17🔄39❤️449👀106238📊91⚡ Powered by xgo.ing"
+      "summary": "Source + docs: github.com/openai/codex-s…💬17🔄39❤️453👀107230📊92⚡ Powered by xgo.ing"
     },
     {
       "id": "8889bb274705ed29d39ffb1d13619bf6ed52e321",
@@ -557,7 +634,7 @@
       "title": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
       "url": "https://x.com/OpenAI/status/2082263719460094127",
       "published_at": "2026-07-29T00:35:31Z",
-      "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬21🔄39❤️496👀125608📊94⚡ Powered by xgo.ing"
+      "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬22🔄39❤️499👀126839📊96⚡ Powered by xgo.ing"
     },
     {
       "id": "199ba69ea261898fb937a4d124c0b61bca189514",
@@ -569,17 +646,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684711&idx=1&sn=ad73fd9c5dcb7eaad9f738d7529ef8c1",
       "published_at": "2026-07-29T00:06:00Z",
       "summary": "普天同庆"
-    },
-    {
-      "id": "ffed0a5e7cbd8883de3941fb0e7ed51698cf45e1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo...",
-      "url": "https://x.com/OpenAI/status/2082208694142730340",
-      "published_at": "2026-07-28T20:56:52Z",
-      "summary": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. We hope…"
     }
   ]
 }
