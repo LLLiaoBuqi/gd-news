@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T23:54:34.884120Z",
+  "generated_at": "2026-07-29T01:58:57.229312Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 16,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 641,
+      "duration_ms": 174,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 133,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1754,
+      "duration_ms": 1999,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1088,
+      "duration_ms": 1515,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 732,
+      "duration_ms": 1117,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 364,
+      "duration_ms": 521,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 729,
+      "duration_ms": 1064,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2896,
+      "duration_ms": 3255,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 997,
+      "duration_ms": 917,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
           "url": "https://x.com/op7418/status/2082045057545421065",
           "published_at": "2026-07-28T10:06:38Z",
-          "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀3868📊2⚡ Powered by xgo.ing"
+          "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4048📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "e9210df8b532c3c32460346dcfefe8ab14e0fe8c",
@@ -233,7 +233,7 @@
           "title": "codex 已经重置",
           "url": "https://x.com/op7418/status/2081940415704658035",
           "published_at": "2026-07-28T03:10:50Z",
-          "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬30🔄0❤️27👀10623📊22⚡ Powered by xgo.ing"
+          "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬30🔄0❤️28👀10930📊22⚡ Powered by xgo.ing"
         },
         {
           "id": "59301f3a19846d97fc28835070f508c69df4e59a",
@@ -244,7 +244,7 @@
           "title": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致\n\n但是一些  Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor...",
           "url": "https://x.com/op7418/status/2081938548626960823",
           "published_at": "2026-07-28T03:03:25Z",
-          "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬20🔄5❤️79👀61550📊23⚡ Powered by xgo.ing"
+          "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬20🔄5❤️81👀62756📊24⚡ Powered by xgo.ing"
         },
         {
           "id": "575db592e20b8118467b6f8ae801e71c310e3553",
@@ -255,7 +255,7 @@
           "title": "详情：https://t.co/1wiyFZrCVs",
           "url": "https://x.com/op7418/status/2081937789848084883",
           "published_at": "2026-07-28T03:00:24Z",
-          "summary": "详情：anthropic.com/news/position-…💬0🔄1❤️1👀4063📊1⚡ Powered by xgo.ing"
+          "summary": "详情：anthropic.com/news/position-…💬0🔄1❤️1👀4177📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "82430abadd7831847bf1870175611c02f88a571e",
@@ -278,23 +278,12 @@
           "url": "https://x.com/op7418/status/2081936134452679142",
           "published_at": "2026-07-28T02:53:49Z",
           "summary": "Codex 今天可能会重置Tibo@thsottiauxWe’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset. Hold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!🔗 View Quoted Tweet💬…"
-        },
-        {
-          "id": "5eb5a07ce5a0fe24b13a56c86ce73258e7beab3c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "黄仁勋、Kimi K3，与一场即将到来的开源战争。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684685&idx=1&sn=63082ee2aa0add9e44ad21758f259f62",
-          "published_at": "2026-07-28T00:06:00Z",
-          "summary": "这个世界需要开源"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -302,6 +291,39 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "8cdd779cc6ea4eaf48ee230e5524dd0c25816537",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Source + docs: https://t.co/vdxdROAl9O",
+          "url": "https://x.com/OpenAI/status/2082263720777101505",
+          "published_at": "2026-07-29T00:35:32Z",
+          "summary": "Source + docs: github.com/openai/codex-s…💬6🔄9❤️106👀22053📊21⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8889bb274705ed29d39ffb1d13619bf6ed52e321",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a cha...",
+          "url": "https://x.com/OpenAI/status/2082263717916586117",
+          "published_at": "2026-07-29T00:35:31Z",
+          "summary": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. This is an early release, and we're lis…"
+        },
+        {
+          "id": "e3cba9933ef0db349a3e26b5a8e30535d98cddad",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
+          "url": "https://x.com/OpenAI/status/2082263719460094127",
+          "published_at": "2026-07-29T00:35:31Z",
+          "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬8🔄9❤️138👀27222📊25⚡ Powered by xgo.ing"
+        },
         {
           "id": "ffed0a5e7cbd8883de3941fb0e7ed51698cf45e1",
           "site_id": "featuredrss",
@@ -322,7 +344,7 @@
           "title": "Across eight case studies spanning industry and academia, we explore what this shift means for scien...",
           "url": "https://x.com/OpenAI/status/2082152075778293831",
           "published_at": "2026-07-28T17:11:54Z",
-          "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬20🔄14❤️178👀44676📊38⚡ Powered by xgo.ing"
+          "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬20🔄14❤️190👀49206📊40⚡ Powered by xgo.ing"
         },
         {
           "id": "3fb5a7da03ad532ae8ecd7a515dc7386fbb8bcf9",
@@ -355,23 +377,45 @@
           "title": "Apply here: https://t.co/ZhfozrV19V",
           "url": "https://x.com/OpenAI/status/2082146059271417879",
           "published_at": "2026-07-28T16:47:59Z",
-          "summary": "Apply here: openai.com/student-collec…💬20🔄8❤️168👀54004📊49⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e21fbd9d088e5ae4850b2e3bf10d22e7bdfc218d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
-          "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-          "published_at": "2026-07-28T00:00:00Z",
-          "summary": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude"
+          "summary": "Apply here: openai.com/student-collec…💬20🔄10❤️183👀58837📊52⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "8cdd779cc6ea4eaf48ee230e5524dd0c25816537",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Source + docs: https://t.co/vdxdROAl9O",
+      "url": "https://x.com/OpenAI/status/2082263720777101505",
+      "published_at": "2026-07-29T00:35:32Z",
+      "summary": "Source + docs: github.com/openai/codex-s…💬6🔄9❤️106👀22053📊21⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8889bb274705ed29d39ffb1d13619bf6ed52e321",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a cha...",
+      "url": "https://x.com/OpenAI/status/2082263717916586117",
+      "published_at": "2026-07-29T00:35:31Z",
+      "summary": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. This is an early release, and we're lis…"
+    },
+    {
+      "id": "e3cba9933ef0db349a3e26b5a8e30535d98cddad",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
+      "url": "https://x.com/OpenAI/status/2082263719460094127",
+      "published_at": "2026-07-29T00:35:31Z",
+      "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬8🔄9❤️138👀27222📊25⚡ Powered by xgo.ing"
+    },
     {
       "id": "ffed0a5e7cbd8883de3941fb0e7ed51698cf45e1",
       "site_id": "featuredrss",
@@ -392,7 +436,7 @@
       "title": "Across eight case studies spanning industry and academia, we explore what this shift means for scien...",
       "url": "https://x.com/OpenAI/status/2082152075778293831",
       "published_at": "2026-07-28T17:11:54Z",
-      "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬20🔄14❤️178👀44676📊38⚡ Powered by xgo.ing"
+      "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬20🔄14❤️190👀49206📊40⚡ Powered by xgo.ing"
     },
     {
       "id": "3fb5a7da03ad532ae8ecd7a515dc7386fbb8bcf9",
@@ -425,7 +469,7 @@
       "title": "Apply here: https://t.co/ZhfozrV19V",
       "url": "https://x.com/OpenAI/status/2082146059271417879",
       "published_at": "2026-07-28T16:47:59Z",
-      "summary": "Apply here: openai.com/student-collec…💬20🔄8❤️168👀54004📊49⚡ Powered by xgo.ing"
+      "summary": "Apply here: openai.com/student-collec…💬20🔄10❤️183👀58837📊52⚡ Powered by xgo.ing"
     },
     {
       "id": "541de7a4c0f5da25dfc7385df0f7791339b9d2a5",
@@ -447,7 +491,7 @@
       "title": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
       "url": "https://x.com/op7418/status/2082045057545421065",
       "published_at": "2026-07-28T10:06:38Z",
-      "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀3868📊2⚡ Powered by xgo.ing"
+      "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4048📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "e9210df8b532c3c32460346dcfefe8ab14e0fe8c",
@@ -469,7 +513,7 @@
       "title": "codex 已经重置",
       "url": "https://x.com/op7418/status/2081940415704658035",
       "published_at": "2026-07-28T03:10:50Z",
-      "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬30🔄0❤️27👀10623📊22⚡ Powered by xgo.ing"
+      "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬30🔄0❤️28👀10930📊22⚡ Powered by xgo.ing"
     },
     {
       "id": "59301f3a19846d97fc28835070f508c69df4e59a",
@@ -480,7 +524,7 @@
       "title": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致\n\n但是一些  Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor...",
       "url": "https://x.com/op7418/status/2081938548626960823",
       "published_at": "2026-07-28T03:03:25Z",
-      "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬20🔄5❤️79👀61550📊23⚡ Powered by xgo.ing"
+      "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬20🔄5❤️81👀62756📊24⚡ Powered by xgo.ing"
     },
     {
       "id": "575db592e20b8118467b6f8ae801e71c310e3553",
@@ -491,7 +535,7 @@
       "title": "详情：https://t.co/1wiyFZrCVs",
       "url": "https://x.com/op7418/status/2081937789848084883",
       "published_at": "2026-07-28T03:00:24Z",
-      "summary": "详情：anthropic.com/news/position-…💬0🔄1❤️1👀4063📊1⚡ Powered by xgo.ing"
+      "summary": "详情：anthropic.com/news/position-…💬0🔄1❤️1👀4177📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "82430abadd7831847bf1870175611c02f88a571e",
@@ -514,28 +558,6 @@
       "url": "https://x.com/op7418/status/2081936134452679142",
       "published_at": "2026-07-28T02:53:49Z",
       "summary": "Codex 今天可能会重置Tibo@thsottiauxWe’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset. Hold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!🔗 View Quoted Tweet💬…"
-    },
-    {
-      "id": "5eb5a07ce5a0fe24b13a56c86ce73258e7beab3c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "黄仁勋、Kimi K3，与一场即将到来的开源战争。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684685&idx=1&sn=63082ee2aa0add9e44ad21758f259f62",
-      "published_at": "2026-07-28T00:06:00Z",
-      "summary": "这个世界需要开源"
-    },
-    {
-      "id": "e21fbd9d088e5ae4850b2e3bf10d22e7bdfc218d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "published_at": "2026-07-28T00:00:00Z",
-      "summary": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude"
     }
   ]
 }
