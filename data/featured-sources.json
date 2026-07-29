@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T05:25:05.770563Z",
+  "generated_at": "2026-07-29T08:03:08.966557Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 16,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 678,
+      "duration_ms": 472,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 31,
+      "duration_ms": 96,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1779,
+      "duration_ms": 1991,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1002,
+      "duration_ms": 1403,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 869,
+      "duration_ms": 987,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 883,
+      "duration_ms": 474,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 332,
+      "duration_ms": 848,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 47,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2930,
+      "duration_ms": 3124,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 607,
+      "duration_ms": 901,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
           "url": "https://x.com/op7418/status/2082321046863335505",
           "published_at": "2026-07-29T04:23:19Z",
-          "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬3🔄0❤️4👀1934📊3⚡ Powered by xgo.ing"
+          "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬4🔄0❤️8👀3754📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "5668d35ffa60f37a2a3fd17ae7a96bfd10542e75",
@@ -222,7 +222,7 @@
           "title": "示例任务结果：https://t.co/m3TAqKKtzy",
           "url": "https://x.com/op7418/status/2082315307235115409",
           "published_at": "2026-07-29T04:00:31Z",
-          "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄0❤️1👀1566⚡ Powered by xgo.ing"
+          "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄0❤️2👀2468⚡ Powered by xgo.ing"
         },
         {
           "id": "32c72cf1016939fd51a4127ebe1a02f663272660",
@@ -244,7 +244,7 @@
           "title": "这里尝试：https://t.co/n7iELgnzwj",
           "url": "https://x.com/op7418/status/2082313723717525835",
           "published_at": "2026-07-29T03:54:13Z",
-          "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️1👀1377📊2⚡ Powered by xgo.ing"
+          "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️1👀2134📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "53ff5b31bdccc03c29ed030fc5e64aa6733f93ba",
@@ -255,7 +255,7 @@
           "title": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！\n\n充分发挥各个模型的能力长处，而且可以帮你节省成本。\n\n你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们...",
           "url": "https://x.com/op7418/status/2082313658277732747",
           "published_at": "2026-07-29T03:53:58Z",
-          "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬7🔄1❤️20👀9668📊12⚡ Powered by xgo.ing"
+          "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬13🔄3❤️31👀18675📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "541de7a4c0f5da25dfc7385df0f7791339b9d2a5",
@@ -277,18 +277,7 @@
           "title": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
           "url": "https://x.com/op7418/status/2082045057545421065",
           "published_at": "2026-07-28T10:06:38Z",
-          "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4345📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e9210df8b532c3c32460346dcfefe8ab14e0fe8c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测阿里新内测的千问办公，这次把打工人4大痛点都覆盖了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508864&idx=1&sn=af8efd4f2f9e624a4e023baea85b3c43",
-          "published_at": "2026-07-28T05:35:00Z",
-          "summary": "好用爱用多用"
+          "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4408📊2⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -311,7 +300,7 @@
           "title": "Source + docs: https://t.co/vdxdROAl9O",
           "url": "https://x.com/OpenAI/status/2082263720777101505",
           "published_at": "2026-07-29T00:35:32Z",
-          "summary": "Source + docs: github.com/openai/codex-s…💬11🔄20❤️246👀60549📊52⚡ Powered by xgo.ing"
+          "summary": "Source + docs: github.com/openai/codex-s…💬11🔄27❤️295👀72773📊61⚡ Powered by xgo.ing"
         },
         {
           "id": "8889bb274705ed29d39ffb1d13619bf6ed52e321",
@@ -333,7 +322,7 @@
           "title": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
           "url": "https://x.com/OpenAI/status/2082263719460094127",
           "published_at": "2026-07-29T00:35:31Z",
-          "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬11🔄18❤️301👀71775📊49⚡ Powered by xgo.ing"
+          "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬15🔄25❤️343👀85577📊62⚡ Powered by xgo.ing"
         },
         {
           "id": "ffed0a5e7cbd8883de3941fb0e7ed51698cf45e1",
@@ -355,7 +344,7 @@
           "title": "Across eight case studies spanning industry and academia, we explore what this shift means for scien...",
           "url": "https://x.com/OpenAI/status/2082152075778293831",
           "published_at": "2026-07-28T17:11:54Z",
-          "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬21🔄15❤️197👀54878📊41⚡ Powered by xgo.ing"
+          "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬21🔄15❤️200👀56998📊42⚡ Powered by xgo.ing"
         },
         {
           "id": "3fb5a7da03ad532ae8ecd7a515dc7386fbb8bcf9",
@@ -388,7 +377,7 @@
           "title": "Apply here: https://t.co/ZhfozrV19V",
           "url": "https://x.com/OpenAI/status/2082146059271417879",
           "published_at": "2026-07-28T16:47:59Z",
-          "summary": "Apply here: openai.com/student-collec…💬20🔄12❤️216👀65391📊57⚡ Powered by xgo.ing"
+          "summary": "Apply here: openai.com/student-collec…💬21🔄12❤️226👀67935📊60⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -403,7 +392,7 @@
       "title": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
       "url": "https://x.com/op7418/status/2082321046863335505",
       "published_at": "2026-07-29T04:23:19Z",
-      "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬3🔄0❤️4👀1934📊3⚡ Powered by xgo.ing"
+      "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬4🔄0❤️8👀3754📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "5668d35ffa60f37a2a3fd17ae7a96bfd10542e75",
@@ -425,7 +414,7 @@
       "title": "示例任务结果：https://t.co/m3TAqKKtzy",
       "url": "https://x.com/op7418/status/2082315307235115409",
       "published_at": "2026-07-29T04:00:31Z",
-      "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄0❤️1👀1566⚡ Powered by xgo.ing"
+      "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄0❤️2👀2468⚡ Powered by xgo.ing"
     },
     {
       "id": "32c72cf1016939fd51a4127ebe1a02f663272660",
@@ -447,7 +436,7 @@
       "title": "这里尝试：https://t.co/n7iELgnzwj",
       "url": "https://x.com/op7418/status/2082313723717525835",
       "published_at": "2026-07-29T03:54:13Z",
-      "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️1👀1377📊2⚡ Powered by xgo.ing"
+      "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️1👀2134📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "53ff5b31bdccc03c29ed030fc5e64aa6733f93ba",
@@ -458,7 +447,7 @@
       "title": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！\n\n充分发挥各个模型的能力长处，而且可以帮你节省成本。\n\n你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们...",
       "url": "https://x.com/op7418/status/2082313658277732747",
       "published_at": "2026-07-29T03:53:58Z",
-      "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬7🔄1❤️20👀9668📊12⚡ Powered by xgo.ing"
+      "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬13🔄3❤️31👀18675📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "8cdd779cc6ea4eaf48ee230e5524dd0c25816537",
@@ -469,7 +458,7 @@
       "title": "Source + docs: https://t.co/vdxdROAl9O",
       "url": "https://x.com/OpenAI/status/2082263720777101505",
       "published_at": "2026-07-29T00:35:32Z",
-      "summary": "Source + docs: github.com/openai/codex-s…💬11🔄20❤️246👀60549📊52⚡ Powered by xgo.ing"
+      "summary": "Source + docs: github.com/openai/codex-s…💬11🔄27❤️295👀72773📊61⚡ Powered by xgo.ing"
     },
     {
       "id": "8889bb274705ed29d39ffb1d13619bf6ed52e321",
@@ -491,7 +480,7 @@
       "title": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
       "url": "https://x.com/OpenAI/status/2082263719460094127",
       "published_at": "2026-07-29T00:35:31Z",
-      "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬11🔄18❤️301👀71775📊49⚡ Powered by xgo.ing"
+      "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬15🔄25❤️343👀85577📊62⚡ Powered by xgo.ing"
     },
     {
       "id": "ffed0a5e7cbd8883de3941fb0e7ed51698cf45e1",
@@ -513,7 +502,7 @@
       "title": "Across eight case studies spanning industry and academia, we explore what this shift means for scien...",
       "url": "https://x.com/OpenAI/status/2082152075778293831",
       "published_at": "2026-07-28T17:11:54Z",
-      "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬21🔄15❤️197👀54878📊41⚡ Powered by xgo.ing"
+      "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬21🔄15❤️200👀56998📊42⚡ Powered by xgo.ing"
     },
     {
       "id": "3fb5a7da03ad532ae8ecd7a515dc7386fbb8bcf9",
@@ -546,7 +535,7 @@
       "title": "Apply here: https://t.co/ZhfozrV19V",
       "url": "https://x.com/OpenAI/status/2082146059271417879",
       "published_at": "2026-07-28T16:47:59Z",
-      "summary": "Apply here: openai.com/student-collec…💬20🔄12❤️216👀65391📊57⚡ Powered by xgo.ing"
+      "summary": "Apply here: openai.com/student-collec…💬21🔄12❤️226👀67935📊60⚡ Powered by xgo.ing"
     },
     {
       "id": "541de7a4c0f5da25dfc7385df0f7791339b9d2a5",
@@ -568,18 +557,7 @@
       "title": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
       "url": "https://x.com/op7418/status/2082045057545421065",
       "published_at": "2026-07-28T10:06:38Z",
-      "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4345📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e9210df8b532c3c32460346dcfefe8ab14e0fe8c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测阿里新内测的千问办公，这次把打工人4大痛点都覆盖了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508864&idx=1&sn=af8efd4f2f9e624a4e023baea85b3c43",
-      "published_at": "2026-07-28T05:35:00Z",
-      "summary": "好用爱用多用"
+      "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4408📊2⚡ Powered by xgo.ing"
     }
   ]
 }
