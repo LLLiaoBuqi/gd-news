@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T01:58:57.229312Z",
+  "generated_at": "2026-07-29T05:25:05.770563Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 17,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 174,
+      "duration_ms": 678,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 133,
+      "duration_ms": 31,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1999,
+      "duration_ms": 1779,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1515,
+      "duration_ms": 1002,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1117,
+      "duration_ms": 869,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 521,
+      "duration_ms": 883,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1064,
+      "duration_ms": 332,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 25,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3255,
+      "duration_ms": 2930,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 917,
+      "duration_ms": 607,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,79 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "7b4f4017bb462ebab9abc2e3c34f1cc538022f02",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
+          "url": "https://x.com/op7418/status/2082321046863335505",
+          "published_at": "2026-07-29T04:23:19Z",
+          "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬3🔄0❤️4👀1934📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5668d35ffa60f37a2a3fd17ae7a96bfd10542e75",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我操，Codex 又重置了！\n\n同时他们还说在调查体感上 GPT-5.6 Sol 的消耗速度比较快的问题。\n\n然后在调查期间也会暂停 5 小时限额。",
+          "url": "https://x.com/op7418/status/2082318038800740807",
+          "published_at": "2026-07-29T04:11:22Z",
+          "summary": "我操，Codex 又重置了！ 同时他们还说在调查体感上 GPT-5.6 Sol 的消耗速度比较快的问题。 然后在调查期间也会暂停 5 小时限额。Tibo@thsottiauxHello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits. Over the past few weeks, many of you have told…"
+        },
+        {
+          "id": "766b4a12c1aaea0cd01c819287f84f441463d993",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "示例任务结果：https://t.co/m3TAqKKtzy",
+          "url": "https://x.com/op7418/status/2082315307235115409",
+          "published_at": "2026-07-29T04:00:31Z",
+          "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄0❤️1👀1566⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "32c72cf1016939fd51a4127ebe1a02f663272660",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。\n\n时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。...",
+          "url": "https://x.com/op7418/status/2082315101080879424",
+          "published_at": "2026-07-29T03:59:42Z",
+          "summary": "一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的歸藏(guizang.ai)@op7418这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用…"
+        },
+        {
+          "id": "e1fb2154403c67039b40527bf61be5f060db5616",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这里尝试：https://t.co/n7iELgnzwj",
+          "url": "https://x.com/op7418/status/2082313723717525835",
+          "published_at": "2026-07-29T03:54:13Z",
+          "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️1👀1377📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "53ff5b31bdccc03c29ed030fc5e64aa6733f93ba",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！\n\n充分发挥各个模型的能力长处，而且可以帮你节省成本。\n\n你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们...",
+          "url": "https://x.com/op7418/status/2082313658277732747",
+          "published_at": "2026-07-29T03:53:58Z",
+          "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬7🔄1❤️20👀9668📊12⚡ Powered by xgo.ing"
+        },
         {
           "id": "541de7a4c0f5da25dfc7385df0f7791339b9d2a5",
           "site_id": "featuredrss",
@@ -211,7 +277,7 @@
           "title": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
           "url": "https://x.com/op7418/status/2082045057545421065",
           "published_at": "2026-07-28T10:06:38Z",
-          "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4048📊2⚡ Powered by xgo.ing"
+          "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4345📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "e9210df8b532c3c32460346dcfefe8ab14e0fe8c",
@@ -223,61 +289,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508864&idx=1&sn=af8efd4f2f9e624a4e023baea85b3c43",
           "published_at": "2026-07-28T05:35:00Z",
           "summary": "好用爱用多用"
-        },
-        {
-          "id": "9f85b382a57d96a5457da62dde72e28a553375b7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "codex 已经重置",
-          "url": "https://x.com/op7418/status/2081940415704658035",
-          "published_at": "2026-07-28T03:10:50Z",
-          "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬30🔄0❤️28👀10930📊22⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "59301f3a19846d97fc28835070f508c69df4e59a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致\n\n但是一些  Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor...",
-          "url": "https://x.com/op7418/status/2081938548626960823",
-          "published_at": "2026-07-28T03:03:25Z",
-          "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬20🔄5❤️81👀62756📊24⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "575db592e20b8118467b6f8ae801e71c310e3553",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "详情：https://t.co/1wiyFZrCVs",
-          "url": "https://x.com/op7418/status/2081937789848084883",
-          "published_at": "2026-07-28T03:00:24Z",
-          "summary": "详情：anthropic.com/news/position-…💬0🔄1❤️1👀4177📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "82430abadd7831847bf1870175611c02f88a571e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Anthropic 终于就关于 AI 开源生态的事发声了。\n\n先是说不主张全面禁止开源模型，然后还有三个“但是”，继续兜售他通过安全限制开源模型的套路：\n\n 1. 不向中国出售先进芯片以及先进芯片制造...",
-          "url": "https://x.com/op7418/status/2081937697132949900",
-          "published_at": "2026-07-28T03:00:02Z",
-          "summary": "Anthropic 终于就关于 AI 开源生态的事发声了。 先是说不主张全面禁止开源模型，然后还有三个“但是”，继续兜售他通过安全限制开源模型的套路： 1. 不向中国出售先进芯片以及先进芯片制造设备 2. 打击工业蒸馏操作 3. 所有足够强大的模型都必须强制通过安全测试 依旧充满了对中国和中国人的敌意，同时猛拍特朗普马屁。歸藏(guizang.ai)@op7418我们所熟知的所有美国和一些欧洲的 AI 生态公司全都签署了这个协议（支持开源 AI 生态的协议）， 即使是 OpenAI 和 SpaceX 也签了，只有一家没签，你懂的🔗 View Quoted…"
-        },
-        {
-          "id": "b2451f4dd54f558d487c48653064e984305051e8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codex 今天可能会重置",
-          "url": "https://x.com/op7418/status/2081936134452679142",
-          "published_at": "2026-07-28T02:53:49Z",
-          "summary": "Codex 今天可能会重置Tibo@thsottiauxWe’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset. Hold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!🔗 View Quoted Tweet💬…"
         }
       ]
     },
@@ -300,7 +311,7 @@
           "title": "Source + docs: https://t.co/vdxdROAl9O",
           "url": "https://x.com/OpenAI/status/2082263720777101505",
           "published_at": "2026-07-29T00:35:32Z",
-          "summary": "Source + docs: github.com/openai/codex-s…💬6🔄9❤️106👀22053📊21⚡ Powered by xgo.ing"
+          "summary": "Source + docs: github.com/openai/codex-s…💬11🔄20❤️246👀60549📊52⚡ Powered by xgo.ing"
         },
         {
           "id": "8889bb274705ed29d39ffb1d13619bf6ed52e321",
@@ -322,7 +333,7 @@
           "title": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
           "url": "https://x.com/OpenAI/status/2082263719460094127",
           "published_at": "2026-07-29T00:35:31Z",
-          "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬8🔄9❤️138👀27222📊25⚡ Powered by xgo.ing"
+          "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬11🔄18❤️301👀71775📊49⚡ Powered by xgo.ing"
         },
         {
           "id": "ffed0a5e7cbd8883de3941fb0e7ed51698cf45e1",
@@ -344,7 +355,7 @@
           "title": "Across eight case studies spanning industry and academia, we explore what this shift means for scien...",
           "url": "https://x.com/OpenAI/status/2082152075778293831",
           "published_at": "2026-07-28T17:11:54Z",
-          "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬20🔄14❤️190👀49206📊40⚡ Powered by xgo.ing"
+          "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬21🔄15❤️197👀54878📊41⚡ Powered by xgo.ing"
         },
         {
           "id": "3fb5a7da03ad532ae8ecd7a515dc7386fbb8bcf9",
@@ -377,12 +388,78 @@
           "title": "Apply here: https://t.co/ZhfozrV19V",
           "url": "https://x.com/OpenAI/status/2082146059271417879",
           "published_at": "2026-07-28T16:47:59Z",
-          "summary": "Apply here: openai.com/student-collec…💬20🔄10❤️183👀58837📊52⚡ Powered by xgo.ing"
+          "summary": "Apply here: openai.com/student-collec…💬20🔄12❤️216👀65391📊57⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "7b4f4017bb462ebab9abc2e3c34f1cc538022f02",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
+      "url": "https://x.com/op7418/status/2082321046863335505",
+      "published_at": "2026-07-29T04:23:19Z",
+      "summary": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的💬3🔄0❤️4👀1934📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5668d35ffa60f37a2a3fd17ae7a96bfd10542e75",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我操，Codex 又重置了！\n\n同时他们还说在调查体感上 GPT-5.6 Sol 的消耗速度比较快的问题。\n\n然后在调查期间也会暂停 5 小时限额。",
+      "url": "https://x.com/op7418/status/2082318038800740807",
+      "published_at": "2026-07-29T04:11:22Z",
+      "summary": "我操，Codex 又重置了！ 同时他们还说在调查体感上 GPT-5.6 Sol 的消耗速度比较快的问题。 然后在调查期间也会暂停 5 小时限额。Tibo@thsottiauxHello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits. Over the past few weeks, many of you have told…"
+    },
+    {
+      "id": "766b4a12c1aaea0cd01c819287f84f441463d993",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "示例任务结果：https://t.co/m3TAqKKtzy",
+      "url": "https://x.com/op7418/status/2082315307235115409",
+      "published_at": "2026-07-29T04:00:31Z",
+      "summary": "示例任务结果：x.com/op7418/status/…歸藏(guizang.ai)@op7418一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的🔗 View Quoted Tweet💬0🔄0❤️1👀1566⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "32c72cf1016939fd51a4127ebe1a02f663272660",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。\n\n时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。...",
+      "url": "https://x.com/op7418/status/2082315101080879424",
+      "published_at": "2026-07-29T03:59:42Z",
+      "summary": "一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的歸藏(guizang.ai)@op7418这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用…"
+    },
+    {
+      "id": "e1fb2154403c67039b40527bf61be5f060db5616",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这里尝试：https://t.co/n7iELgnzwj",
+      "url": "https://x.com/op7418/status/2082313723717525835",
+      "published_at": "2026-07-29T03:54:13Z",
+      "summary": "这里尝试：github.com/op7418/CodePil…💬1🔄0❤️1👀1377📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "53ff5b31bdccc03c29ed030fc5e64aa6733f93ba",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！\n\n充分发挥各个模型的能力长处，而且可以帮你节省成本。\n\n你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们...",
+      "url": "https://x.com/op7418/status/2082313658277732747",
+      "published_at": "2026-07-29T03:53:58Z",
+      "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。💬7🔄1❤️20👀9668📊12⚡ Powered by xgo.ing"
+    },
     {
       "id": "8cdd779cc6ea4eaf48ee230e5524dd0c25816537",
       "site_id": "featuredrss",
@@ -392,7 +469,7 @@
       "title": "Source + docs: https://t.co/vdxdROAl9O",
       "url": "https://x.com/OpenAI/status/2082263720777101505",
       "published_at": "2026-07-29T00:35:32Z",
-      "summary": "Source + docs: github.com/openai/codex-s…💬6🔄9❤️106👀22053📊21⚡ Powered by xgo.ing"
+      "summary": "Source + docs: github.com/openai/codex-s…💬11🔄20❤️246👀60549📊52⚡ Powered by xgo.ing"
     },
     {
       "id": "8889bb274705ed29d39ffb1d13619bf6ed52e321",
@@ -414,7 +491,7 @@
       "title": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
       "url": "https://x.com/OpenAI/status/2082263719460094127",
       "published_at": "2026-07-29T00:35:31Z",
-      "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬8🔄9❤️138👀27222📊25⚡ Powered by xgo.ing"
+      "summary": "Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: npmjs.com/package/@opena…💬11🔄18❤️301👀71775📊49⚡ Powered by xgo.ing"
     },
     {
       "id": "ffed0a5e7cbd8883de3941fb0e7ed51698cf45e1",
@@ -436,7 +513,7 @@
       "title": "Across eight case studies spanning industry and academia, we explore what this shift means for scien...",
       "url": "https://x.com/OpenAI/status/2082152075778293831",
       "published_at": "2026-07-28T17:11:54Z",
-      "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬20🔄14❤️190👀49206📊40⚡ Powered by xgo.ing"
+      "summary": "Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. openai.com/index/scientif…💬21🔄15❤️197👀54878📊41⚡ Powered by xgo.ing"
     },
     {
       "id": "3fb5a7da03ad532ae8ecd7a515dc7386fbb8bcf9",
@@ -469,7 +546,7 @@
       "title": "Apply here: https://t.co/ZhfozrV19V",
       "url": "https://x.com/OpenAI/status/2082146059271417879",
       "published_at": "2026-07-28T16:47:59Z",
-      "summary": "Apply here: openai.com/student-collec…💬20🔄10❤️183👀58837📊52⚡ Powered by xgo.ing"
+      "summary": "Apply here: openai.com/student-collec…💬20🔄12❤️216👀65391📊57⚡ Powered by xgo.ing"
     },
     {
       "id": "541de7a4c0f5da25dfc7385df0f7791339b9d2a5",
@@ -491,7 +568,7 @@
       "title": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
       "url": "https://x.com/op7418/status/2082045057545421065",
       "published_at": "2026-07-28T10:06:38Z",
-      "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4048📊2⚡ Powered by xgo.ing"
+      "summary": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。💬1🔄1❤️11👀4345📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "e9210df8b532c3c32460346dcfefe8ab14e0fe8c",
@@ -503,61 +580,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508864&idx=1&sn=af8efd4f2f9e624a4e023baea85b3c43",
       "published_at": "2026-07-28T05:35:00Z",
       "summary": "好用爱用多用"
-    },
-    {
-      "id": "9f85b382a57d96a5457da62dde72e28a553375b7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "codex 已经重置",
-      "url": "https://x.com/op7418/status/2081940415704658035",
-      "published_at": "2026-07-28T03:10:50Z",
-      "summary": "codex 已经重置歸藏(guizang.ai)@op7418Codex 今天可能会重置🔗 View Quoted Tweet💬30🔄0❤️28👀10930📊22⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "59301f3a19846d97fc28835070f508c69df4e59a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致\n\n但是一些  Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor...",
-      "url": "https://x.com/op7418/status/2081938548626960823",
-      "published_at": "2026-07-28T03:03:25Z",
-      "summary": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低歸藏(guizang.ai)@op7418Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了🔗 View Quoted Tweet💬20🔄5❤️81👀62756📊24⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "575db592e20b8118467b6f8ae801e71c310e3553",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "详情：https://t.co/1wiyFZrCVs",
-      "url": "https://x.com/op7418/status/2081937789848084883",
-      "published_at": "2026-07-28T03:00:24Z",
-      "summary": "详情：anthropic.com/news/position-…💬0🔄1❤️1👀4177📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "82430abadd7831847bf1870175611c02f88a571e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Anthropic 终于就关于 AI 开源生态的事发声了。\n\n先是说不主张全面禁止开源模型，然后还有三个“但是”，继续兜售他通过安全限制开源模型的套路：\n\n 1. 不向中国出售先进芯片以及先进芯片制造...",
-      "url": "https://x.com/op7418/status/2081937697132949900",
-      "published_at": "2026-07-28T03:00:02Z",
-      "summary": "Anthropic 终于就关于 AI 开源生态的事发声了。 先是说不主张全面禁止开源模型，然后还有三个“但是”，继续兜售他通过安全限制开源模型的套路： 1. 不向中国出售先进芯片以及先进芯片制造设备 2. 打击工业蒸馏操作 3. 所有足够强大的模型都必须强制通过安全测试 依旧充满了对中国和中国人的敌意，同时猛拍特朗普马屁。歸藏(guizang.ai)@op7418我们所熟知的所有美国和一些欧洲的 AI 生态公司全都签署了这个协议（支持开源 AI 生态的协议）， 即使是 OpenAI 和 SpaceX 也签了，只有一家没签，你懂的🔗 View Quoted…"
-    },
-    {
-      "id": "b2451f4dd54f558d487c48653064e984305051e8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codex 今天可能会重置",
-      "url": "https://x.com/op7418/status/2081936134452679142",
-      "published_at": "2026-07-28T02:53:49Z",
-      "summary": "Codex 今天可能会重置Tibo@thsottiauxWe’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset. Hold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!🔗 View Quoted Tweet💬…"
     }
   ]
 }
