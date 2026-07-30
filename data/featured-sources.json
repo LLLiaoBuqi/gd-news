@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:52:59.521669Z",
+  "generated_at": "2026-07-30T10:17:41.098881Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 24,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 143,
+      "duration_ms": 487,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 149,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1912,
+      "duration_ms": 1640,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1312,
+      "duration_ms": 1188,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1108,
+      "duration_ms": 1091,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1041,
+      "duration_ms": 419,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 657,
+      "duration_ms": 1099,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 12,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2784,
+      "duration_ms": 2703,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 778,
+      "duration_ms": 908,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "详情：https://t.co/ChzTjGpJpz",
           "url": "https://x.com/op7418/status/2082687187242635533",
           "published_at": "2026-07-30T04:38:14Z",
-          "summary": "详情：github.com/op7418/CodePil…💬0🔄0❤️0👀1621⚡ Powered by xgo.ing"
+          "summary": "详情：github.com/op7418/CodePil…💬0🔄0❤️0👀2034⚡ Powered by xgo.ing"
         },
         {
           "id": "96c9af6bc2475e20f7cd50b87f802d3e6c92b382",
@@ -211,7 +211,7 @@
           "title": "CodePilot 刚更新了 0.62 版本。\n\n因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。\n\n这次更新主要优化了体验：\n\n1. 侧边栏文件树：\n我希望它能有完...",
           "url": "https://x.com/op7418/status/2082687136025980935",
           "published_at": "2026-07-30T04:38:02Z",
-          "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬6🔄0❤️10👀4095📊7⚡ Powered by xgo.ing"
+          "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬7🔄0❤️11👀5195📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "19868a558b0c453a3931b09148984406d4d852bb",
@@ -222,7 +222,7 @@
           "title": "语音输入法又坑我，应该是Claude",
           "url": "https://x.com/op7418/status/2082673125444182510",
           "published_at": "2026-07-30T03:42:21Z",
-          "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️5👀3838📊1⚡ Powered by xgo.ing"
+          "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️6👀4760📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "af5dddba78ed03d4d44d93e1d67c74fc5afde2b2",
@@ -244,7 +244,7 @@
           "title": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力",
           "url": "https://x.com/op7418/status/2082666702182154546",
           "published_at": "2026-07-30T03:16:50Z",
-          "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬8🔄0❤️0👀3673📊7⚡ Powered by xgo.ing"
+          "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬13🔄0❤️1👀4824📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "e2aa6af2b9d16805f1b29c6b236026341916ea90",
@@ -256,23 +256,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508880&idx=1&sn=968a2ff3d6013a96f2ebfb5ab1579e5c",
           "published_at": "2026-07-29T10:32:00Z",
           "summary": "不会被封的焚诀来了！"
-        },
-        {
-          "id": "d1e3727ee9a7cb38b304de41dd29952387454ec0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "AsterMem 这个项目有点意思，它是一个第三方的 memory 系统，可以给你的任何 AI Agent 接上长期记忆。\n\n支持任何格式：比如 Markdown、文本、书签等。 你的长内容会被自动切...",
-          "url": "https://x.com/op7418/status/2082397091062513738",
-          "published_at": "2026-07-29T09:25:30Z",
-          "summary": "AsterMem 这个项目有点意思，它是一个第三方的 memory 系统，可以给你的任何 AI Agent 接上长期记忆。 支持任何格式：比如 Markdown、文本、书签等。 你的长内容会被自动切成一些语义片段，打上标签，并加上向量搜索和向量索引。 数据可以直接读取 Markdown，也可以读数据库或向量库。 备份非常简单，只需要拷贝文件夹就行。这样你所有的 memory 都会完全属于你，而不是其他所谓的 Agent 平台。 支持知识图谱、时间轴和向量的空间视图，方便你查看和管理自己的 memory。 兼容性很强，包括 Cloud Code、Codex…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 17,
+      "total_items": 18,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -289,7 +278,7 @@
           "title": "A benchmark score reflects the model as well as the harness and settings used to run it.\n\nFor long-r...",
           "url": "https://x.com/OpenAI/status/2082616641834422740",
           "published_at": "2026-07-29T23:57:55Z",
-          "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬14🔄17❤️447👀66537📊57⚡ Powered by xgo.ing"
+          "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬15🔄20❤️515👀73697📊66⚡ Powered by xgo.ing"
         },
         {
           "id": "d35308023239100c5315af137538fc4ae8f99c8e",
@@ -314,6 +303,17 @@
           "summary": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what it had learned. We found that enabling two API settings tripled our scores with…"
         },
         {
+          "id": "f58423b277641828bb3c06365ef344621c767a43",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We implemented the harness with the Responses API and turned on:\n\n→ Retained reasoning\n→ Context com...",
+          "url": "https://x.com/OpenAI/status/2082616640144048433",
+          "published_at": "2026-07-29T23:57:54Z",
+          "summary": "We implemented the harness with the Responses API and turned on: → Retained reasoning → Context compaction On the public set, GPT-5.6 Sol’s score rose 188% while using 6x fewer output tokens.💬21🔄50❤️981👀101762📊119⚡ Powered by xgo.ing"
+        },
+        {
           "id": "c2d9f9137dca839edd1211eb41e83bb880763d79",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -322,7 +322,7 @@
           "title": "Offer valid for users without a Google AI subscription plan, more info on availability here: https:/...",
           "url": "https://x.com/GeminiApp/status/2082587252274897107",
           "published_at": "2026-07-29T22:01:08Z",
-          "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬2🔄3❤️14👀5200📊4⚡ Powered by xgo.ing"
+          "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬2🔄3❤️15👀5957📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "e0314e1445800ba98b610ab058f87d4841964cdc",
@@ -377,7 +377,7 @@
           "title": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59p...",
           "url": "https://x.com/GeminiApp/status/2082586356610654334",
           "published_at": "2026-07-29T21:57:34Z",
-          "summary": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59pm PT on August 4th, 2026. Change objects, add interactions between subject & space, and more. Here are four of our favorite ways to use Gemini Omni to edit videos: 🧵💬30🔄49❤️415👀425…"
+          "summary": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59pm PT on August 4th, 2026. Change objects, add interactions between subject & space, and more. Here are four of our favorite ways to use Gemini Omni to edit videos: 🧵💬35🔄67❤️538👀554…"
         },
         {
           "id": "ae55e186097c61e52a33c8788fe6badb164ee26e",
@@ -388,7 +388,7 @@
           "title": "These optimizations across our stack compound to unlock the most performant models at every point in...",
           "url": "https://x.com/OpenAI/status/2082577278450676080",
           "published_at": "2026-07-29T21:21:30Z",
-          "summary": "These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. openai.com/index/gpt-5-6-…💬14🔄48❤️1176👀175379📊149⚡ Powered by xgo.ing"
+          "summary": "These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. openai.com/index/gpt-5-6-…💬15🔄50❤️1221👀186198📊156⚡ Powered by xgo.ing"
         },
         {
           "id": "5dcaf6a208ae12c667e79ff159069ad1eb97e207",
@@ -399,7 +399,7 @@
           "title": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more...",
           "url": "https://x.com/OpenAI/status/2082577277246972300",
           "published_at": "2026-07-29T21:21:29Z",
-          "summary": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.💬389…"
+          "summary": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.💬419…"
         },
         {
           "id": "2ab53f10dbc3a66b9a21b543bf7f56cb44794e50",
@@ -410,7 +410,7 @@
           "title": "Offer valid for users without a Google AI subscription plan, more info on availability here: https:/...",
           "url": "https://x.com/GeminiApp/status/2082563568541839484",
           "published_at": "2026-07-29T20:27:01Z",
-          "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬8🔄5❤️60👀16957📊15⚡ Powered by xgo.ing"
+          "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬10🔄5❤️67👀19063📊17⚡ Powered by xgo.ing"
         },
         {
           "id": "6d8e625f2cb9712fd31fb9ff33229ffc5b0c1fdd",
@@ -421,7 +421,7 @@
           "title": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 202...",
           "url": "https://x.com/GeminiApp/status/2082563490431246623",
           "published_at": "2026-07-29T20:26:42Z",
-          "summary": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 2026. Just select \"Create video\" in the tools menu to create, edit, and remix videos to bring your ideas to life. Share how you’re using Gemini Omni in the replies 👇💬186🔄327❤️2199👀239…"
+          "summary": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 2026. Just select \"Create video\" in the tools menu to create, edit, and remix videos to bring your ideas to life. Share how you’re using Gemini Omni in the replies 👇💬215🔄361❤️2440👀298…"
         },
         {
           "id": "210c3ac7f6721b759591f50478db74de130343a5",
@@ -480,7 +480,7 @@
       "title": "详情：https://t.co/ChzTjGpJpz",
       "url": "https://x.com/op7418/status/2082687187242635533",
       "published_at": "2026-07-30T04:38:14Z",
-      "summary": "详情：github.com/op7418/CodePil…💬0🔄0❤️0👀1621⚡ Powered by xgo.ing"
+      "summary": "详情：github.com/op7418/CodePil…💬0🔄0❤️0👀2034⚡ Powered by xgo.ing"
     },
     {
       "id": "96c9af6bc2475e20f7cd50b87f802d3e6c92b382",
@@ -491,7 +491,7 @@
       "title": "CodePilot 刚更新了 0.62 版本。\n\n因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。\n\n这次更新主要优化了体验：\n\n1. 侧边栏文件树：\n我希望它能有完...",
       "url": "https://x.com/op7418/status/2082687136025980935",
       "published_at": "2026-07-30T04:38:02Z",
-      "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬6🔄0❤️10👀4095📊7⚡ Powered by xgo.ing"
+      "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬7🔄0❤️11👀5195📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "19868a558b0c453a3931b09148984406d4d852bb",
@@ -502,7 +502,7 @@
       "title": "语音输入法又坑我，应该是Claude",
       "url": "https://x.com/op7418/status/2082673125444182510",
       "published_at": "2026-07-30T03:42:21Z",
-      "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️5👀3838📊1⚡ Powered by xgo.ing"
+      "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️6👀4760📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "af5dddba78ed03d4d44d93e1d67c74fc5afde2b2",
@@ -524,7 +524,7 @@
       "title": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力",
       "url": "https://x.com/op7418/status/2082666702182154546",
       "published_at": "2026-07-30T03:16:50Z",
-      "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬8🔄0❤️0👀3673📊7⚡ Powered by xgo.ing"
+      "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬13🔄0❤️1👀4824📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "ec2c7fc17678a3f67e93a35668867b34b37ebb5d",
@@ -535,7 +535,7 @@
       "title": "A benchmark score reflects the model as well as the harness and settings used to run it.\n\nFor long-r...",
       "url": "https://x.com/OpenAI/status/2082616641834422740",
       "published_at": "2026-07-29T23:57:55Z",
-      "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬14🔄17❤️447👀66537📊57⚡ Powered by xgo.ing"
+      "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬15🔄20❤️515👀73697📊66⚡ Powered by xgo.ing"
     },
     {
       "id": "d35308023239100c5315af137538fc4ae8f99c8e",
@@ -560,6 +560,17 @@
       "summary": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what it had learned. We found that enabling two API settings tripled our scores with…"
     },
     {
+      "id": "f58423b277641828bb3c06365ef344621c767a43",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We implemented the harness with the Responses API and turned on:\n\n→ Retained reasoning\n→ Context com...",
+      "url": "https://x.com/OpenAI/status/2082616640144048433",
+      "published_at": "2026-07-29T23:57:54Z",
+      "summary": "We implemented the harness with the Responses API and turned on: → Retained reasoning → Context compaction On the public set, GPT-5.6 Sol’s score rose 188% while using 6x fewer output tokens.💬21🔄50❤️981👀101762📊119⚡ Powered by xgo.ing"
+    },
+    {
       "id": "c2d9f9137dca839edd1211eb41e83bb880763d79",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -568,7 +579,7 @@
       "title": "Offer valid for users without a Google AI subscription plan, more info on availability here: https:/...",
       "url": "https://x.com/GeminiApp/status/2082587252274897107",
       "published_at": "2026-07-29T22:01:08Z",
-      "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬2🔄3❤️14👀5200📊4⚡ Powered by xgo.ing"
+      "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬2🔄3❤️15👀5957📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "e0314e1445800ba98b610ab058f87d4841964cdc",
@@ -623,7 +634,7 @@
       "title": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59p...",
       "url": "https://x.com/GeminiApp/status/2082586356610654334",
       "published_at": "2026-07-29T21:57:34Z",
-      "summary": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59pm PT on August 4th, 2026. Change objects, add interactions between subject & space, and more. Here are four of our favorite ways to use Gemini Omni to edit videos: 🧵💬30🔄49❤️415👀425…"
+      "summary": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59pm PT on August 4th, 2026. Change objects, add interactions between subject & space, and more. Here are four of our favorite ways to use Gemini Omni to edit videos: 🧵💬35🔄67❤️538👀554…"
     },
     {
       "id": "ae55e186097c61e52a33c8788fe6badb164ee26e",
@@ -634,7 +645,7 @@
       "title": "These optimizations across our stack compound to unlock the most performant models at every point in...",
       "url": "https://x.com/OpenAI/status/2082577278450676080",
       "published_at": "2026-07-29T21:21:30Z",
-      "summary": "These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. openai.com/index/gpt-5-6-…💬14🔄48❤️1176👀175379📊149⚡ Powered by xgo.ing"
+      "summary": "These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. openai.com/index/gpt-5-6-…💬15🔄50❤️1221👀186198📊156⚡ Powered by xgo.ing"
     },
     {
       "id": "5dcaf6a208ae12c667e79ff159069ad1eb97e207",
@@ -645,7 +656,7 @@
       "title": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more...",
       "url": "https://x.com/OpenAI/status/2082577277246972300",
       "published_at": "2026-07-29T21:21:29Z",
-      "summary": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.💬389…"
+      "summary": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.💬419…"
     },
     {
       "id": "2ab53f10dbc3a66b9a21b543bf7f56cb44794e50",
@@ -656,7 +667,7 @@
       "title": "Offer valid for users without a Google AI subscription plan, more info on availability here: https:/...",
       "url": "https://x.com/GeminiApp/status/2082563568541839484",
       "published_at": "2026-07-29T20:27:01Z",
-      "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬8🔄5❤️60👀16957📊15⚡ Powered by xgo.ing"
+      "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬10🔄5❤️67👀19063📊17⚡ Powered by xgo.ing"
     },
     {
       "id": "6d8e625f2cb9712fd31fb9ff33229ffc5b0c1fdd",
@@ -667,7 +678,7 @@
       "title": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 202...",
       "url": "https://x.com/GeminiApp/status/2082563490431246623",
       "published_at": "2026-07-29T20:26:42Z",
-      "summary": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 2026. Just select \"Create video\" in the tools menu to create, edit, and remix videos to bring your ideas to life. Share how you’re using Gemini Omni in the replies 👇💬186🔄327❤️2199👀239…"
+      "summary": "Starting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 2026. Just select \"Create video\" in the tools menu to create, edit, and remix videos to bring your ideas to life. Share how you’re using Gemini Omni in the replies 👇💬215🔄361❤️2440👀298…"
     },
     {
       "id": "210c3ac7f6721b759591f50478db74de130343a5",
@@ -723,17 +734,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508880&idx=1&sn=968a2ff3d6013a96f2ebfb5ab1579e5c",
       "published_at": "2026-07-29T10:32:00Z",
       "summary": "不会被封的焚诀来了！"
-    },
-    {
-      "id": "d1e3727ee9a7cb38b304de41dd29952387454ec0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "AsterMem 这个项目有点意思，它是一个第三方的 memory 系统，可以给你的任何 AI Agent 接上长期记忆。\n\n支持任何格式：比如 Markdown、文本、书签等。 你的长内容会被自动切...",
-      "url": "https://x.com/op7418/status/2082397091062513738",
-      "published_at": "2026-07-29T09:25:30Z",
-      "summary": "AsterMem 这个项目有点意思，它是一个第三方的 memory 系统，可以给你的任何 AI Agent 接上长期记忆。 支持任何格式：比如 Markdown、文本、书签等。 你的长内容会被自动切成一些语义片段，打上标签，并加上向量搜索和向量索引。 数据可以直接读取 Markdown，也可以读数据库或向量库。 备份非常简单，只需要拷贝文件夹就行。这样你所有的 memory 都会完全属于你，而不是其他所谓的 Agent 平台。 支持知识图谱、时间轴和向量的空间视图，方便你查看和管理自己的 memory。 兼容性很强，包括 Cloud Code、Codex…"
     }
   ]
 }
