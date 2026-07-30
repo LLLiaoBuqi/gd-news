@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T20:40:05.575256Z",
+  "generated_at": "2026-07-30T22:08:09.760468Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 30,
+  "total_items": 22,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 141,
+      "duration_ms": 674,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 75,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1972,
+      "duration_ms": 1879,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1245,
+      "duration_ms": 1161,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 895,
+      "duration_ms": 849,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 636,
+      "duration_ms": 1059,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1147,
+      "duration_ms": 704,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2955,
+      "duration_ms": 2786,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 791,
+      "duration_ms": 367,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "Claude 全线服务都炸了",
           "url": "https://x.com/op7418/status/2082770741892890898",
           "published_at": "2026-07-30T10:10:15Z",
-          "summary": "Claude 全线服务都炸了💬88🔄2❤️67👀32485📊80⚡ Powered by xgo.ing"
+          "summary": "Claude 全线服务都炸了💬90🔄2❤️68👀32884📊81⚡ Powered by xgo.ing"
         },
         {
           "id": "041ee278b3ea9aebeb0fc7f299e48fea926b12b1",
@@ -222,7 +222,7 @@
           "title": "详情：https://t.co/ChzTjGpJpz",
           "url": "https://x.com/op7418/status/2082687187242635533",
           "published_at": "2026-07-30T04:38:14Z",
-          "summary": "详情：github.com/op7418/CodePil…💬1🔄1❤️1👀2841📊2⚡ Powered by xgo.ing"
+          "summary": "详情：github.com/op7418/CodePil…💬1🔄1❤️1👀2846📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "96c9af6bc2475e20f7cd50b87f802d3e6c92b382",
@@ -233,7 +233,7 @@
           "title": "CodePilot 刚更新了 0.62 版本。\n\n因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。\n\n这次更新主要优化了体验：\n\n1. 侧边栏文件树：\n我希望它能有完...",
           "url": "https://x.com/op7418/status/2082687136025980935",
           "published_at": "2026-07-30T04:38:02Z",
-          "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬11🔄1❤️18👀7747📊13⚡ Powered by xgo.ing"
+          "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬11🔄1❤️19👀7839📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "19868a558b0c453a3931b09148984406d4d852bb",
@@ -244,7 +244,7 @@
           "title": "语音输入法又坑我，应该是Claude",
           "url": "https://x.com/op7418/status/2082673125444182510",
           "published_at": "2026-07-30T03:42:21Z",
-          "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️9👀7895📊1⚡ Powered by xgo.ing"
+          "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️9👀7991📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "af5dddba78ed03d4d44d93e1d67c74fc5afde2b2",
@@ -266,7 +266,7 @@
           "title": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力",
           "url": "https://x.com/op7418/status/2082666702182154546",
           "published_at": "2026-07-30T03:16:50Z",
-          "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬56🔄0❤️6👀7075📊46⚡ Powered by xgo.ing"
+          "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬57🔄0❤️6👀7127📊47⚡ Powered by xgo.ing"
         },
         {
           "id": "52ed95ccf22f6bde0616c571c3b745f4fbd706e2",
@@ -283,7 +283,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 22,
+      "total_items": 14,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -300,7 +300,7 @@
           "title": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in ...",
           "url": "https://x.com/GeminiApp/status/2082923083355353454",
           "published_at": "2026-07-30T20:15:36Z",
-          "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬0🔄0❤️7👀1075📊1⚡ Powered by xgo.ing"
+          "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬1🔄4❤️45👀4911📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "c04cf6156ccb9a0abb7ab7096669089483256078",
@@ -311,7 +311,7 @@
           "title": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark is now integrated with auto browse in Google Chrome. Wit...",
           "url": "https://x.com/GeminiApp/status/2082923048362299629",
           "published_at": "2026-07-30T20:15:28Z",
-          "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬8🔄9❤️55👀4964📊15⚡ Powered by xgo.in…"
+          "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬37🔄44❤️408👀22774📊91⚡ Powered by xg…"
         },
         {
           "id": "2b7cdf6fbdae4ed6e0c3663d530c39a1100c81ce",
@@ -333,7 +333,7 @@
           "title": "https://t.co/bqoF4ftCpT",
           "url": "https://x.com/OpenAI/status/2082879614532370847",
           "published_at": "2026-07-30T17:22:52Z",
-          "summary": "openai.com/index/advancin…💬12🔄14❤️405👀66198📊46⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/advancin…💬12🔄17❤️441👀73440📊50⚡ Powered by xgo.ing"
         },
         {
           "id": "e62df4266568ebdf9245bad3b106b8bbaacdf5cc",
@@ -366,7 +366,7 @@
           "title": "More info on this update: https://t.co/5V0hUl7TNF",
           "url": "https://x.com/GeminiApp/status/2082858833052131823",
           "published_at": "2026-07-30T16:00:18Z",
-          "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️30👀6538📊6⚡ Powered by xgo.ing"
+          "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️36👀7064📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "75154c3230f235653751846cbac73d23dc6ed784",
@@ -410,7 +410,7 @@
           "title": "A benchmark score reflects the model as well as the harness and settings used to run it.\n\nFor long-r...",
           "url": "https://x.com/OpenAI/status/2082616641834422740",
           "published_at": "2026-07-29T23:57:55Z",
-          "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬22🔄28❤️653👀95059📊89⚡ Powered by xgo.ing"
+          "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬22🔄28❤️658👀95879📊90⚡ Powered by xgo.ing"
         },
         {
           "id": "d35308023239100c5315af137538fc4ae8f99c8e",
@@ -444,94 +444,6 @@
           "url": "https://x.com/OpenAI/status/2082616640144048433",
           "published_at": "2026-07-29T23:57:54Z",
           "summary": "We implemented the harness with the Responses API and turned on: → Retained reasoning → Context compaction On the public set, GPT-5.6 Sol’s score rose 188% while using 6x fewer output tokens.💬21🔄51❤️1033👀111963📊125⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c2d9f9137dca839edd1211eb41e83bb880763d79",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Offer valid for users without a Google AI subscription plan, more info on availability here: https:/...",
-          "url": "https://x.com/GeminiApp/status/2082587252274897107",
-          "published_at": "2026-07-29T22:01:08Z",
-          "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬2🔄3❤️21👀7290📊4⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e0314e1445800ba98b610ab058f87d4841964cdc",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "4) Change Background\n\nIf you can imagine an environment, you can make it the background of your vide...",
-          "url": "https://x.com/GeminiApp/status/2082587250752446971",
-          "published_at": "2026-07-29T22:01:07Z",
-          "summary": "4) Change Background If you can imagine an environment, you can make it the background of your video. From outer space to fictional landscapes, anything is possible if you give Gemini enough details in your prompt.Your browser does not support the video tag.🔗 View on TwitterYour…"
-        },
-        {
-          "id": "97de3f3a129e8fd8e7ba8c650f8b2d2cd680ea08",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "3) Re-light\n\nIf you don’t capture the exact lighting you want in a video, you can change that too.\n\n...",
-          "url": "https://x.com/GeminiApp/status/2082587248760082702",
-          "published_at": "2026-07-29T22:01:07Z",
-          "summary": "3) Re-light If you don’t capture the exact lighting you want in a video, you can change that too. Try including the following details: - Time of day - Colors of the sky - Lighting temperature - Angle of shadows and lightYour browser does not support the video tag.🔗 View on Twitte…"
-        },
-        {
-          "id": "551bfec1044312008218d387b7553b400fc349d3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "2) Visual Styles\n\nTransform any video into the style you want.\n\nApply a new style to the video. Try ...",
-          "url": "https://x.com/GeminiApp/status/2082587246398742531",
-          "published_at": "2026-07-29T22:01:06Z",
-          "summary": "2) Visual Styles Transform any video into the style you want. Apply a new style to the video. Try out different aesthetics, like claymation, charcoal, or oil painting, until you get the result you’re looking for.Your browser does not support the video tag.🔗 View on TwitterYour br…"
-        },
-        {
-          "id": "ff430e46aaf4d61e379f13511cee59a8386882d7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "1) Contextual Understanding\n\nWith Gemini Omni’s real world understanding, Omni can  understand instr...",
-          "url": "https://x.com/GeminiApp/status/2082587244498718987",
-          "published_at": "2026-07-29T22:01:06Z",
-          "summary": "1) Contextual Understanding With Gemini Omni’s real world understanding, Omni can understand instructions inside your reference video. For example, you can show written instructions and have it transform your subject based on that context.Your browser does not support the video t…"
-        },
-        {
-          "id": "4f520f9e94e7f15b5c46ef9d6f84607e5aefa180",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59p...",
-          "url": "https://x.com/GeminiApp/status/2082586356610654334",
-          "published_at": "2026-07-29T21:57:34Z",
-          "summary": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59pm PT on August 4th, 2026. Change objects, add interactions between subject & space, and more. Here are four of our favorite ways to use Gemini Omni to edit videos: 🧵💬42🔄99❤️773👀826…"
-        },
-        {
-          "id": "ae55e186097c61e52a33c8788fe6badb164ee26e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "These optimizations across our stack compound to unlock the most performant models at every point in...",
-          "url": "https://x.com/OpenAI/status/2082577278450676080",
-          "published_at": "2026-07-29T21:21:30Z",
-          "summary": "These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. openai.com/index/gpt-5-6-…💬18🔄58❤️1454👀262564📊190⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5dcaf6a208ae12c667e79ff159069ad1eb97e207",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more...",
-          "url": "https://x.com/OpenAI/status/2082577277246972300",
-          "published_at": "2026-07-29T21:21:29Z",
-          "summary": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.💬510…"
         }
       ]
     }
@@ -546,7 +458,7 @@
       "title": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in ...",
       "url": "https://x.com/GeminiApp/status/2082923083355353454",
       "published_at": "2026-07-30T20:15:36Z",
-      "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬0🔄0❤️7👀1075📊1⚡ Powered by xgo.ing"
+      "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬1🔄4❤️45👀4911📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "c04cf6156ccb9a0abb7ab7096669089483256078",
@@ -557,7 +469,7 @@
       "title": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark is now integrated with auto browse in Google Chrome. Wit...",
       "url": "https://x.com/GeminiApp/status/2082923048362299629",
       "published_at": "2026-07-30T20:15:28Z",
-      "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬8🔄9❤️55👀4964📊15⚡ Powered by xgo.in…"
+      "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬37🔄44❤️408👀22774📊91⚡ Powered by xg…"
     },
     {
       "id": "2b7cdf6fbdae4ed6e0c3663d530c39a1100c81ce",
@@ -579,7 +491,7 @@
       "title": "https://t.co/bqoF4ftCpT",
       "url": "https://x.com/OpenAI/status/2082879614532370847",
       "published_at": "2026-07-30T17:22:52Z",
-      "summary": "openai.com/index/advancin…💬12🔄14❤️405👀66198📊46⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/advancin…💬12🔄17❤️441👀73440📊50⚡ Powered by xgo.ing"
     },
     {
       "id": "e62df4266568ebdf9245bad3b106b8bbaacdf5cc",
@@ -612,7 +524,7 @@
       "title": "More info on this update: https://t.co/5V0hUl7TNF",
       "url": "https://x.com/GeminiApp/status/2082858833052131823",
       "published_at": "2026-07-30T16:00:18Z",
-      "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️30👀6538📊6⚡ Powered by xgo.ing"
+      "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️36👀7064📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "75154c3230f235653751846cbac73d23dc6ed784",
@@ -656,7 +568,7 @@
       "title": "Claude 全线服务都炸了",
       "url": "https://x.com/op7418/status/2082770741892890898",
       "published_at": "2026-07-30T10:10:15Z",
-      "summary": "Claude 全线服务都炸了💬88🔄2❤️67👀32485📊80⚡ Powered by xgo.ing"
+      "summary": "Claude 全线服务都炸了💬90🔄2❤️68👀32884📊81⚡ Powered by xgo.ing"
     },
     {
       "id": "041ee278b3ea9aebeb0fc7f299e48fea926b12b1",
@@ -678,7 +590,7 @@
       "title": "详情：https://t.co/ChzTjGpJpz",
       "url": "https://x.com/op7418/status/2082687187242635533",
       "published_at": "2026-07-30T04:38:14Z",
-      "summary": "详情：github.com/op7418/CodePil…💬1🔄1❤️1👀2841📊2⚡ Powered by xgo.ing"
+      "summary": "详情：github.com/op7418/CodePil…💬1🔄1❤️1👀2846📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "96c9af6bc2475e20f7cd50b87f802d3e6c92b382",
@@ -689,7 +601,7 @@
       "title": "CodePilot 刚更新了 0.62 版本。\n\n因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。\n\n这次更新主要优化了体验：\n\n1. 侧边栏文件树：\n我希望它能有完...",
       "url": "https://x.com/op7418/status/2082687136025980935",
       "published_at": "2026-07-30T04:38:02Z",
-      "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬11🔄1❤️18👀7747📊13⚡ Powered by xgo.ing"
+      "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬11🔄1❤️19👀7839📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "19868a558b0c453a3931b09148984406d4d852bb",
@@ -700,7 +612,7 @@
       "title": "语音输入法又坑我，应该是Claude",
       "url": "https://x.com/op7418/status/2082673125444182510",
       "published_at": "2026-07-30T03:42:21Z",
-      "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️9👀7895📊1⚡ Powered by xgo.ing"
+      "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️9👀7991📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "af5dddba78ed03d4d44d93e1d67c74fc5afde2b2",
@@ -722,7 +634,7 @@
       "title": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力",
       "url": "https://x.com/op7418/status/2082666702182154546",
       "published_at": "2026-07-30T03:16:50Z",
-      "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬56🔄0❤️6👀7075📊46⚡ Powered by xgo.ing"
+      "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬57🔄0❤️6👀7127📊47⚡ Powered by xgo.ing"
     },
     {
       "id": "52ed95ccf22f6bde0616c571c3b745f4fbd706e2",
@@ -744,7 +656,7 @@
       "title": "A benchmark score reflects the model as well as the harness and settings used to run it.\n\nFor long-r...",
       "url": "https://x.com/OpenAI/status/2082616641834422740",
       "published_at": "2026-07-29T23:57:55Z",
-      "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬22🔄28❤️653👀95059📊89⚡ Powered by xgo.ing"
+      "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬22🔄28❤️658👀95879📊90⚡ Powered by xgo.ing"
     },
     {
       "id": "d35308023239100c5315af137538fc4ae8f99c8e",
@@ -778,94 +690,6 @@
       "url": "https://x.com/OpenAI/status/2082616640144048433",
       "published_at": "2026-07-29T23:57:54Z",
       "summary": "We implemented the harness with the Responses API and turned on: → Retained reasoning → Context compaction On the public set, GPT-5.6 Sol’s score rose 188% while using 6x fewer output tokens.💬21🔄51❤️1033👀111963📊125⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c2d9f9137dca839edd1211eb41e83bb880763d79",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Offer valid for users without a Google AI subscription plan, more info on availability here: https:/...",
-      "url": "https://x.com/GeminiApp/status/2082587252274897107",
-      "published_at": "2026-07-29T22:01:08Z",
-      "summary": "Offer valid for users without a Google AI subscription plan, more info on availability here: goo.gle/4ywMhoX💬2🔄3❤️21👀7290📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e0314e1445800ba98b610ab058f87d4841964cdc",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "4) Change Background\n\nIf you can imagine an environment, you can make it the background of your vide...",
-      "url": "https://x.com/GeminiApp/status/2082587250752446971",
-      "published_at": "2026-07-29T22:01:07Z",
-      "summary": "4) Change Background If you can imagine an environment, you can make it the background of your video. From outer space to fictional landscapes, anything is possible if you give Gemini enough details in your prompt.Your browser does not support the video tag.🔗 View on TwitterYour…"
-    },
-    {
-      "id": "97de3f3a129e8fd8e7ba8c650f8b2d2cd680ea08",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "3) Re-light\n\nIf you don’t capture the exact lighting you want in a video, you can change that too.\n\n...",
-      "url": "https://x.com/GeminiApp/status/2082587248760082702",
-      "published_at": "2026-07-29T22:01:07Z",
-      "summary": "3) Re-light If you don’t capture the exact lighting you want in a video, you can change that too. Try including the following details: - Time of day - Colors of the sky - Lighting temperature - Angle of shadows and lightYour browser does not support the video tag.🔗 View on Twitte…"
-    },
-    {
-      "id": "551bfec1044312008218d387b7553b400fc349d3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "2) Visual Styles\n\nTransform any video into the style you want.\n\nApply a new style to the video. Try ...",
-      "url": "https://x.com/GeminiApp/status/2082587246398742531",
-      "published_at": "2026-07-29T22:01:06Z",
-      "summary": "2) Visual Styles Transform any video into the style you want. Apply a new style to the video. Try out different aesthetics, like claymation, charcoal, or oil painting, until you get the result you’re looking for.Your browser does not support the video tag.🔗 View on TwitterYour br…"
-    },
-    {
-      "id": "ff430e46aaf4d61e379f13511cee59a8386882d7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "1) Contextual Understanding\n\nWith Gemini Omni’s real world understanding, Omni can  understand instr...",
-      "url": "https://x.com/GeminiApp/status/2082587244498718987",
-      "published_at": "2026-07-29T22:01:06Z",
-      "summary": "1) Contextual Understanding With Gemini Omni’s real world understanding, Omni can understand instructions inside your reference video. For example, you can show written instructions and have it transform your subject based on that context.Your browser does not support the video t…"
-    },
-    {
-      "id": "4f520f9e94e7f15b5c46ef9d6f84607e5aefa180",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59p...",
-      "url": "https://x.com/GeminiApp/status/2082586356610654334",
-      "published_at": "2026-07-29T21:57:34Z",
-      "summary": "Level up your video editing with Gemini Omni. You can create up to 10 videos at no cost until 11:59pm PT on August 4th, 2026. Change objects, add interactions between subject & space, and more. Here are four of our favorite ways to use Gemini Omni to edit videos: 🧵💬42🔄99❤️773👀826…"
-    },
-    {
-      "id": "ae55e186097c61e52a33c8788fe6badb164ee26e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "These optimizations across our stack compound to unlock the most performant models at every point in...",
-      "url": "https://x.com/OpenAI/status/2082577278450676080",
-      "published_at": "2026-07-29T21:21:30Z",
-      "summary": "These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. openai.com/index/gpt-5-6-…💬18🔄58❤️1454👀262564📊190⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5dcaf6a208ae12c667e79ff159069ad1eb97e207",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more...",
-      "url": "https://x.com/OpenAI/status/2082577277246972300",
-      "published_at": "2026-07-29T21:21:29Z",
-      "summary": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.💬510…"
     }
   ]
 }
