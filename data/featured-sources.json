@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T23:30:25.162986Z",
+  "generated_at": "2026-07-31T02:07:50.368269Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 25,
+  "total_items": 21,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 311,
+      "duration_ms": 430,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 56,
+      "duration_ms": 33,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1602,
+      "duration_ms": 1793,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 979,
+      "duration_ms": 1014,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 703,
+      "duration_ms": 529,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1200,
+      "duration_ms": 365,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 824,
+      "duration_ms": 878,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 87,
+      "duration_ms": 44,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2661,
+      "duration_ms": 2528,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 527,
+      "duration_ms": 1047,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "Claude 全线服务都炸了",
           "url": "https://x.com/op7418/status/2082770741892890898",
           "published_at": "2026-07-30T10:10:15Z",
-          "summary": "Claude 全线服务都炸了💬91🔄2❤️68👀33381📊82⚡ Powered by xgo.ing"
+          "summary": "Claude 全线服务都炸了💬95🔄2❤️70👀35446📊85⚡ Powered by xgo.ing"
         },
         {
           "id": "041ee278b3ea9aebeb0fc7f299e48fea926b12b1",
@@ -222,7 +222,7 @@
           "title": "详情：https://t.co/ChzTjGpJpz",
           "url": "https://x.com/op7418/status/2082687187242635533",
           "published_at": "2026-07-30T04:38:14Z",
-          "summary": "详情：github.com/op7418/CodePil…💬1🔄1❤️1👀2863📊2⚡ Powered by xgo.ing"
+          "summary": "详情：github.com/op7418/CodePil…💬1🔄1❤️1👀2981📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "96c9af6bc2475e20f7cd50b87f802d3e6c92b382",
@@ -233,7 +233,7 @@
           "title": "CodePilot 刚更新了 0.62 版本。\n\n因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。\n\n这次更新主要优化了体验：\n\n1. 侧边栏文件树：\n我希望它能有完...",
           "url": "https://x.com/op7418/status/2082687136025980935",
           "published_at": "2026-07-30T04:38:02Z",
-          "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬11🔄1❤️19👀7967📊13⚡ Powered by xgo.ing"
+          "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬11🔄1❤️19👀8581📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "19868a558b0c453a3931b09148984406d4d852bb",
@@ -244,7 +244,7 @@
           "title": "语音输入法又坑我，应该是Claude",
           "url": "https://x.com/op7418/status/2082673125444182510",
           "published_at": "2026-07-30T03:42:21Z",
-          "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️9👀8105📊1⚡ Powered by xgo.ing"
+          "summary": "语音输入法又坑我，应该是Claude💬1🔄0❤️9👀8706📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "af5dddba78ed03d4d44d93e1d67c74fc5afde2b2",
@@ -266,7 +266,7 @@
           "title": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力",
           "url": "https://x.com/op7418/status/2082666702182154546",
           "published_at": "2026-07-30T03:16:50Z",
-          "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬58🔄0❤️6👀7183📊48⚡ Powered by xgo.ing"
+          "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬60🔄0❤️6👀7740📊49⚡ Powered by xgo.ing"
         },
         {
           "id": "52ed95ccf22f6bde0616c571c3b745f4fbd706e2",
@@ -283,7 +283,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 17,
+      "total_items": 13,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -311,7 +311,7 @@
           "title": "Learn more about how Gemini can help make trip planning a whole lot easier: https://t.co/LzKMKvzGlM",
           "url": "https://x.com/GeminiApp/status/2082948106271039753",
           "published_at": "2026-07-30T21:55:02Z",
-          "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄2❤️13👀4724📊2⚡ Powered by xgo.ing"
+          "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄3❤️15👀6689📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "7b7cef30db46409bb903bea6e8fc8556785a8b10",
@@ -322,7 +322,7 @@
           "title": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in ...",
           "url": "https://x.com/GeminiApp/status/2082923083355353454",
           "published_at": "2026-07-30T20:15:36Z",
-          "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬2🔄5❤️59👀7875📊10⚡ Powered by xgo.ing"
+          "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬5🔄5❤️72👀9595📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "c04cf6156ccb9a0abb7ab7096669089483256078",
@@ -333,7 +333,7 @@
           "title": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark is now integrated with auto browse in Google Chrome. Wit...",
           "url": "https://x.com/GeminiApp/status/2082923048362299629",
           "published_at": "2026-07-30T20:15:28Z",
-          "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬58🔄85❤️745👀56005📊161⚡ Powered by x…"
+          "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬68🔄118❤️949👀74037📊201⚡ Powered by…"
         },
         {
           "id": "2b7cdf6fbdae4ed6e0c3663d530c39a1100c81ce",
@@ -355,7 +355,7 @@
           "title": "https://t.co/bqoF4ftCpT",
           "url": "https://x.com/OpenAI/status/2082879614532370847",
           "published_at": "2026-07-30T17:22:52Z",
-          "summary": "openai.com/index/advancin…💬12🔄18❤️468👀79575📊52⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/advancin…💬13🔄20❤️515👀96126📊58⚡ Powered by xgo.ing"
         },
         {
           "id": "e62df4266568ebdf9245bad3b106b8bbaacdf5cc",
@@ -367,6 +367,17 @@
           "url": "https://x.com/OpenAI/status/2082878192390689147",
           "published_at": "2026-07-30T17:17:13Z",
           "summary": "Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI benefits all of humanity. With the help of GPT-5.6 Sol, we have made leaps in efficiency. Today, we are passing those gains on in the API with lower prices for Luna and Terra, and pr…"
+        },
+        {
+          "id": "342a02d34a80d7ed4654e0cde2d6a72a759734ab",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API deliv...",
+          "url": "https://x.com/OpenAI/status/2082878168764207230",
+          "published_at": "2026-07-30T17:17:08Z",
+          "summary": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API delivers up to 2.5x the speed of Standard processing at 2x the Standard price. Fast mode gives API customers faster access to GPT-5.6 Sol, with no change in intelligence.💬22🔄42❤️1399👀15…"
         },
         {
           "id": "995505156aac38da7dac2d5aa9b6816ccdf8d298",
@@ -388,7 +399,7 @@
           "title": "More info on this update: https://t.co/5V0hUl7TNF",
           "url": "https://x.com/GeminiApp/status/2082858833052131823",
           "published_at": "2026-07-30T16:00:18Z",
-          "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️39👀7974📊6⚡ Powered by xgo.ing"
+          "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️41👀8577📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "75154c3230f235653751846cbac73d23dc6ed784",
@@ -422,61 +433,6 @@
           "url": "https://x.com/GoogleAI/status/2082844740446253125",
           "published_at": "2026-07-30T15:04:18Z",
           "summary": "For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand. Today, we take a major stride toward making that dream a reality: Introducing Gemini Robotics 2 from @GoogleDeepMind, the intelligence layer powering the next generation of truly adaptab…"
-        },
-        {
-          "id": "ec2c7fc17678a3f67e93a35668867b34b37ebb5d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "A benchmark score reflects the model as well as the harness and settings used to run it.\n\nFor long-r...",
-          "url": "https://x.com/OpenAI/status/2082616641834422740",
-          "published_at": "2026-07-29T23:57:55Z",
-          "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬22🔄28❤️661👀96654📊90⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d35308023239100c5315af137538fc4ae8f99c8e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We hope these experiments serve as a reminder that evals rarely measure models in isolation—they als...",
-          "url": "https://x.com/OpenAI/status/2082616643394703682",
-          "published_at": "2026-07-29T23:57:55Z",
-          "summary": "We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting. If you’re an API developer trying to maximize performance, we recommend using the same…"
-        },
-        {
-          "id": "c52b799b333cb703e9b69c5232969376ae34b0b6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-A...",
-          "url": "https://x.com/OpenAI/status/2082616636989952217",
-          "published_at": "2026-07-29T23:57:54Z",
-          "summary": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what it had learned. We found that enabling two API settings tripled our scores with…"
-        },
-        {
-          "id": "f58423b277641828bb3c06365ef344621c767a43",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We implemented the harness with the Responses API and turned on:\n\n→ Retained reasoning\n→ Context com...",
-          "url": "https://x.com/OpenAI/status/2082616640144048433",
-          "published_at": "2026-07-29T23:57:54Z",
-          "summary": "We implemented the harness with the Responses API and turned on: → Retained reasoning → Context compaction On the public set, GPT-5.6 Sol’s score rose 188% while using 6x fewer output tokens.💬28🔄64❤️1264👀183016📊163⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5d3aa35131692570e21ff781a9336c6dbfcd70ae",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "ARC-AGI-3 tests how well models can learn unfamiliar 2D games without instructions.\n\nThe standard ha...",
-          "url": "https://x.com/OpenAI/status/2082616638625722669",
-          "published_at": "2026-07-29T23:57:54Z",
-          "summary": "ARC-AGI-3 tests how well models can learn unfamiliar 2D games without instructions. The standard harness discarded GPT-5.6 Sol’s reasoning after each move and dropped earlier actions as the context filled up. The model had to keep starting over.Your browser does not support the v…"
         }
       ]
     }
@@ -502,7 +458,7 @@
       "title": "Learn more about how Gemini can help make trip planning a whole lot easier: https://t.co/LzKMKvzGlM",
       "url": "https://x.com/GeminiApp/status/2082948106271039753",
       "published_at": "2026-07-30T21:55:02Z",
-      "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄2❤️13👀4724📊2⚡ Powered by xgo.ing"
+      "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄3❤️15👀6689📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "7b7cef30db46409bb903bea6e8fc8556785a8b10",
@@ -513,7 +469,7 @@
       "title": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in ...",
       "url": "https://x.com/GeminiApp/status/2082923083355353454",
       "published_at": "2026-07-30T20:15:36Z",
-      "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬2🔄5❤️59👀7875📊10⚡ Powered by xgo.ing"
+      "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬5🔄5❤️72👀9595📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "c04cf6156ccb9a0abb7ab7096669089483256078",
@@ -524,7 +480,7 @@
       "title": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark is now integrated with auto browse in Google Chrome. Wit...",
       "url": "https://x.com/GeminiApp/status/2082923048362299629",
       "published_at": "2026-07-30T20:15:28Z",
-      "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬58🔄85❤️745👀56005📊161⚡ Powered by x…"
+      "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬68🔄118❤️949👀74037📊201⚡ Powered by…"
     },
     {
       "id": "2b7cdf6fbdae4ed6e0c3663d530c39a1100c81ce",
@@ -546,7 +502,7 @@
       "title": "https://t.co/bqoF4ftCpT",
       "url": "https://x.com/OpenAI/status/2082879614532370847",
       "published_at": "2026-07-30T17:22:52Z",
-      "summary": "openai.com/index/advancin…💬12🔄18❤️468👀79575📊52⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/advancin…💬13🔄20❤️515👀96126📊58⚡ Powered by xgo.ing"
     },
     {
       "id": "e62df4266568ebdf9245bad3b106b8bbaacdf5cc",
@@ -558,6 +514,17 @@
       "url": "https://x.com/OpenAI/status/2082878192390689147",
       "published_at": "2026-07-30T17:17:13Z",
       "summary": "Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI benefits all of humanity. With the help of GPT-5.6 Sol, we have made leaps in efficiency. Today, we are passing those gains on in the API with lower prices for Luna and Terra, and pr…"
+    },
+    {
+      "id": "342a02d34a80d7ed4654e0cde2d6a72a759734ab",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API deliv...",
+      "url": "https://x.com/OpenAI/status/2082878168764207230",
+      "published_at": "2026-07-30T17:17:08Z",
+      "summary": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API delivers up to 2.5x the speed of Standard processing at 2x the Standard price. Fast mode gives API customers faster access to GPT-5.6 Sol, with no change in intelligence.💬22🔄42❤️1399👀15…"
     },
     {
       "id": "995505156aac38da7dac2d5aa9b6816ccdf8d298",
@@ -579,7 +546,7 @@
       "title": "More info on this update: https://t.co/5V0hUl7TNF",
       "url": "https://x.com/GeminiApp/status/2082858833052131823",
       "published_at": "2026-07-30T16:00:18Z",
-      "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️39👀7974📊6⚡ Powered by xgo.ing"
+      "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️41👀8577📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "75154c3230f235653751846cbac73d23dc6ed784",
@@ -623,7 +590,7 @@
       "title": "Claude 全线服务都炸了",
       "url": "https://x.com/op7418/status/2082770741892890898",
       "published_at": "2026-07-30T10:10:15Z",
-      "summary": "Claude 全线服务都炸了💬91🔄2❤️68👀33381📊82⚡ Powered by xgo.ing"
+      "summary": "Claude 全线服务都炸了💬95🔄2❤️70👀35446📊85⚡ Powered by xgo.ing"
     },
     {
       "id": "041ee278b3ea9aebeb0fc7f299e48fea926b12b1",
@@ -645,7 +612,7 @@
       "title": "详情：https://t.co/ChzTjGpJpz",
       "url": "https://x.com/op7418/status/2082687187242635533",
       "published_at": "2026-07-30T04:38:14Z",
-      "summary": "详情：github.com/op7418/CodePil…💬1🔄1❤️1👀2863📊2⚡ Powered by xgo.ing"
+      "summary": "详情：github.com/op7418/CodePil…💬1🔄1❤️1👀2981📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "96c9af6bc2475e20f7cd50b87f802d3e6c92b382",
@@ -656,7 +623,7 @@
       "title": "CodePilot 刚更新了 0.62 版本。\n\n因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。\n\n这次更新主要优化了体验：\n\n1. 侧边栏文件树：\n我希望它能有完...",
       "url": "https://x.com/op7418/status/2082687136025980935",
       "published_at": "2026-07-30T04:38:02Z",
-      "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬11🔄1❤️19👀7967📊13⚡ Powered by xgo.ing"
+      "summary": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单💬11🔄1❤️19👀8581📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "19868a558b0c453a3931b09148984406d4d852bb",
@@ -667,7 +634,7 @@
       "title": "语音输入法又坑我，应该是Claude",
       "url": "https://x.com/op7418/status/2082673125444182510",
       "published_at": "2026-07-30T03:42:21Z",
-      "summary": "语音输入法又坑我，应该是Claude💬0🔄0❤️9👀8105📊1⚡ Powered by xgo.ing"
+      "summary": "语音输入法又坑我，应该是Claude💬1🔄0❤️9👀8706📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "af5dddba78ed03d4d44d93e1d67c74fc5afde2b2",
@@ -689,7 +656,7 @@
       "title": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力",
       "url": "https://x.com/op7418/status/2082666702182154546",
       "published_at": "2026-07-30T03:16:50Z",
-      "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬58🔄0❤️6👀7183📊48⚡ Powered by xgo.ing"
+      "summary": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力Your browser does not support the video tag.🔗 View on Twitter💬60🔄0❤️6👀7740📊49⚡ Powered by xgo.ing"
     },
     {
       "id": "52ed95ccf22f6bde0616c571c3b745f4fbd706e2",
@@ -701,61 +668,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497917&idx=1&sn=9a86cbcf69e0b0391538b370d227d822",
       "published_at": "2026-07-30T02:48:00Z",
       "summary": "省心又能干的创意伙伴来喽。"
-    },
-    {
-      "id": "ec2c7fc17678a3f67e93a35668867b34b37ebb5d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "A benchmark score reflects the model as well as the harness and settings used to run it.\n\nFor long-r...",
-      "url": "https://x.com/OpenAI/status/2082616641834422740",
-      "published_at": "2026-07-29T23:57:55Z",
-      "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. openai.com/index/how-two-…💬22🔄28❤️661👀96654📊90⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d35308023239100c5315af137538fc4ae8f99c8e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We hope these experiments serve as a reminder that evals rarely measure models in isolation—they als...",
-      "url": "https://x.com/OpenAI/status/2082616643394703682",
-      "published_at": "2026-07-29T23:57:55Z",
-      "summary": "We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting. If you’re an API developer trying to maximize performance, we recommend using the same…"
-    },
-    {
-      "id": "c52b799b333cb703e9b69c5232969376ae34b0b6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-A...",
-      "url": "https://x.com/OpenAI/status/2082616636989952217",
-      "published_at": "2026-07-29T23:57:54Z",
-      "summary": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what it had learned. We found that enabling two API settings tripled our scores with…"
-    },
-    {
-      "id": "f58423b277641828bb3c06365ef344621c767a43",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We implemented the harness with the Responses API and turned on:\n\n→ Retained reasoning\n→ Context com...",
-      "url": "https://x.com/OpenAI/status/2082616640144048433",
-      "published_at": "2026-07-29T23:57:54Z",
-      "summary": "We implemented the harness with the Responses API and turned on: → Retained reasoning → Context compaction On the public set, GPT-5.6 Sol’s score rose 188% while using 6x fewer output tokens.💬28🔄64❤️1264👀183016📊163⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5d3aa35131692570e21ff781a9336c6dbfcd70ae",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "ARC-AGI-3 tests how well models can learn unfamiliar 2D games without instructions.\n\nThe standard ha...",
-      "url": "https://x.com/OpenAI/status/2082616638625722669",
-      "published_at": "2026-07-29T23:57:54Z",
-      "summary": "ARC-AGI-3 tests how well models can learn unfamiliar 2D games without instructions. The standard harness discarded GPT-5.6 Sol’s reasoning after each move and dropped earlier actions as the context filled up. The model had to keep starting over.Your browser does not support the v…"
     }
   ]
 }
