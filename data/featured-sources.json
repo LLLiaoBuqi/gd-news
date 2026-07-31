@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T15:35:07.502926Z",
+  "generated_at": "2026-07-31T17:22:20.547582Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 150,
+      "duration_ms": 214,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 19,
+      "duration_ms": 111,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1556,
+      "duration_ms": 1918,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 825,
+      "duration_ms": 989,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 731,
+      "duration_ms": 773,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 371,
+      "duration_ms": 1283,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 525,
+      "duration_ms": 618,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 35,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2308,
+      "duration_ms": 2320,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 755,
+      "duration_ms": 1808,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "V4 Flash 0731已经开源：https://t.co/gRppDaaeKE",
           "url": "https://x.com/op7418/status/2083192268148846724",
           "published_at": "2026-07-31T14:05:15Z",
-          "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬0🔄0❤️3👀1011⚡ Powered by xgo.ing"
+          "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬0🔄0❤️3👀1669⚡ Powered by xgo.ing"
         },
         {
           "id": "6c6e42a5bf623747f989d5c8477aca17b737e123",
@@ -244,7 +244,7 @@
           "title": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的",
           "url": "https://x.com/op7418/status/2083043706429723106",
           "published_at": "2026-07-31T04:14:55Z",
-          "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️9👀5501📊1⚡ Powered by xgo.ing"
+          "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️9👀5977📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "581d219802466b59d6d3f85e53e5942a1db8f433",
@@ -255,7 +255,7 @@
           "title": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！\n\nCodex 现在有专门给图像 Agent 做的 UI 模式了：\n\n生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对...",
           "url": "https://x.com/op7418/status/2083043634635788298",
           "published_at": "2026-07-31T04:14:38Z",
-          "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬37🔄42❤️314👀…"
+          "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬38🔄50❤️354👀…"
         },
         {
           "id": "f50ae2668781e60ed96344d55d31127497da1988",
@@ -266,7 +266,7 @@
           "title": "Seedance 2.5 模型已经给超创开放了内测。\n\n1. 最高支持 30 秒：一次可以生成 30 秒长度的视频\n2. 目前最高支持 720P\n3. 全能参考：最多一次可以上传 50 张图片，非常离...",
           "url": "https://x.com/op7418/status/2083016118315499894",
           "published_at": "2026-07-31T02:25:17Z",
-          "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬51🔄2❤️45👀14511📊48⚡ Powered by xgo.ing"
+          "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬58🔄2❤️46👀14985📊54⚡ Powered by xgo.ing"
         },
         {
           "id": "aca1350f1baf68ffecea26c5029f90f05780bff7",
@@ -283,7 +283,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 12,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -291,6 +291,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "c692e95650d4c2b9aa4132bd7441c4979eeed88a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️\n\n— Gemini Robotics 2 from @GoogleDeepmi...",
+          "url": "https://x.com/GoogleAI/status/2083221445375668654",
+          "published_at": "2026-07-31T16:01:11Z",
+          "summary": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️ — Gemini Robotics 2 from @GoogleDeepmind brings whole-body intelligence to robots — Gemini 3.5 Flash-Lite is our fastest, most cost-effective model optimized for high-speed agentic workflows — Gemini 3.6 Flash delivers…"
+        },
         {
           "id": "067cbd35f7cbc1f1a0db5a415104c05ac99c0132",
           "site_id": "featuredrss",
@@ -311,7 +322,7 @@
           "title": "Learn more about how Gemini can help make trip planning a whole lot easier: https://t.co/LzKMKvzGlM",
           "url": "https://x.com/GeminiApp/status/2082948106271039753",
           "published_at": "2026-07-30T21:55:02Z",
-          "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️23👀12235📊4⚡ Powered by xgo.ing"
+          "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️24👀12441📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "7b7cef30db46409bb903bea6e8fc8556785a8b10",
@@ -322,7 +333,7 @@
           "title": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in ...",
           "url": "https://x.com/GeminiApp/status/2082923083355353454",
           "published_at": "2026-07-30T20:15:36Z",
-          "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬7🔄10❤️108👀15095📊20⚡ Powered by xgo.ing"
+          "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬7🔄10❤️110👀15325📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "c04cf6156ccb9a0abb7ab7096669089483256078",
@@ -333,7 +344,7 @@
           "title": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark is now integrated with auto browse in Google Chrome. Wit...",
           "url": "https://x.com/GeminiApp/status/2082923048362299629",
           "published_at": "2026-07-30T20:15:28Z",
-          "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬98🔄213❤️1781👀162961📊352⚡ Powered b…"
+          "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬100🔄219❤️1813👀167211📊359⚡ Powered…"
         },
         {
           "id": "2b7cdf6fbdae4ed6e0c3663d530c39a1100c81ce",
@@ -355,78 +366,23 @@
           "title": "https://t.co/bqoF4ftCpT",
           "url": "https://x.com/OpenAI/status/2082879614532370847",
           "published_at": "2026-07-30T17:22:52Z",
-          "summary": "openai.com/index/advancin…💬14🔄22❤️574👀121777📊64⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e62df4266568ebdf9245bad3b106b8bbaacdf5cc",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI be...",
-          "url": "https://x.com/OpenAI/status/2082878192390689147",
-          "published_at": "2026-07-30T17:17:13Z",
-          "summary": "Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI benefits all of humanity. With the help of GPT-5.6 Sol, we have made leaps in efficiency. Today, we are passing those gains on in the API with lower prices for Luna and Terra, and pr…"
-        },
-        {
-          "id": "342a02d34a80d7ed4654e0cde2d6a72a759734ab",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API deliv...",
-          "url": "https://x.com/OpenAI/status/2082878168764207230",
-          "published_at": "2026-07-30T17:17:08Z",
-          "summary": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API delivers up to 2.5x the speed of Standard processing at 2x the Standard price. Fast mode gives API customers faster access to GPT-5.6 Sol, with no change in intelligence.💬24🔄47❤️1586👀24…"
-        },
-        {
-          "id": "995505156aac38da7dac2d5aa9b6816ccdf8d298",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We are committed to pushing the model frontier across cost efficiency, capability, and speed.\n\nStart...",
-          "url": "https://x.com/OpenAI/status/2082878156483219672",
-          "published_at": "2026-07-30T17:17:05Z",
-          "summary": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API. Luna and Terra’s lower prices are refle…"
-        },
-        {
-          "id": "afa599fedd192eb0cdf61285e09876626f503bd3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "More info on this update: https://t.co/5V0hUl7TNF",
-          "url": "https://x.com/GeminiApp/status/2082858833052131823",
-          "published_at": "2026-07-30T16:00:18Z",
-          "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️55👀10527📊8⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "75154c3230f235653751846cbac73d23dc6ed784",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Create, edit, and summarize with Gemini on macOS using your voice.\n\nStay in your flow by speaking in...",
-          "url": "https://x.com/GeminiApp/status/2082858829541458008",
-          "published_at": "2026-07-30T16:00:17Z",
-          "summary": "Create, edit, and summarize with Gemini on macOS using your voice. Stay in your flow by speaking into any active window: Dictate clean text or ask Gemini to transform highlighted content, analyze local files, & generate visuals right where your cursor is. This new voice capabilit…"
-        },
-        {
-          "id": "24997a91e793a4632b1b2bd29d48ac489b40c5ef",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "How to use Speak to Window in the Gemini app on macOS:\n- For standard dictation, long-press the FN k...",
-          "url": "https://x.com/GeminiApp/status/2082858831328239889",
-          "published_at": "2026-07-30T16:00:17Z",
-          "summary": "How to use Speak to Window in the Gemini app on macOS: - For standard dictation, long-press the FN key and start speaking. - To enable reasoning with screen context, opt in via app settings under the “Speak to Window” tab. Continue using the FN shortcut—Gemini will intelligently…"
+          "summary": "openai.com/index/advancin…💬14🔄21❤️579👀123796📊65⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "c692e95650d4c2b9aa4132bd7441c4979eeed88a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️\n\n— Gemini Robotics 2 from @GoogleDeepmi...",
+      "url": "https://x.com/GoogleAI/status/2083221445375668654",
+      "published_at": "2026-07-31T16:01:11Z",
+      "summary": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️ — Gemini Robotics 2 from @GoogleDeepmind brings whole-body intelligence to robots — Gemini 3.5 Flash-Lite is our fastest, most cost-effective model optimized for high-speed agentic workflows — Gemini 3.6 Flash delivers…"
+    },
     {
       "id": "1816f96e7289f6ca94bb345f96cca27c7bf9518f",
       "site_id": "featuredrss",
@@ -436,7 +392,7 @@
       "title": "V4 Flash 0731已经开源：https://t.co/gRppDaaeKE",
       "url": "https://x.com/op7418/status/2083192268148846724",
       "published_at": "2026-07-31T14:05:15Z",
-      "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬0🔄0❤️3👀1011⚡ Powered by xgo.ing"
+      "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬0🔄0❤️3👀1669⚡ Powered by xgo.ing"
     },
     {
       "id": "6c6e42a5bf623747f989d5c8477aca17b737e123",
@@ -480,7 +436,7 @@
       "title": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的",
       "url": "https://x.com/op7418/status/2083043706429723106",
       "published_at": "2026-07-31T04:14:55Z",
-      "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️9👀5501📊1⚡ Powered by xgo.ing"
+      "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️9👀5977📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "581d219802466b59d6d3f85e53e5942a1db8f433",
@@ -491,7 +447,7 @@
       "title": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！\n\nCodex 现在有专门给图像 Agent 做的 UI 模式了：\n\n生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对...",
       "url": "https://x.com/op7418/status/2083043634635788298",
       "published_at": "2026-07-31T04:14:38Z",
-      "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬37🔄42❤️314👀…"
+      "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬38🔄50❤️354👀…"
     },
     {
       "id": "f50ae2668781e60ed96344d55d31127497da1988",
@@ -502,7 +458,7 @@
       "title": "Seedance 2.5 模型已经给超创开放了内测。\n\n1. 最高支持 30 秒：一次可以生成 30 秒长度的视频\n2. 目前最高支持 720P\n3. 全能参考：最多一次可以上传 50 张图片，非常离...",
       "url": "https://x.com/op7418/status/2083016118315499894",
       "published_at": "2026-07-31T02:25:17Z",
-      "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬51🔄2❤️45👀14511📊48⚡ Powered by xgo.ing"
+      "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬58🔄2❤️46👀14985📊54⚡ Powered by xgo.ing"
     },
     {
       "id": "aca1350f1baf68ffecea26c5029f90f05780bff7",
@@ -535,7 +491,7 @@
       "title": "Learn more about how Gemini can help make trip planning a whole lot easier: https://t.co/LzKMKvzGlM",
       "url": "https://x.com/GeminiApp/status/2082948106271039753",
       "published_at": "2026-07-30T21:55:02Z",
-      "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️23👀12235📊4⚡ Powered by xgo.ing"
+      "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️24👀12441📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "7b7cef30db46409bb903bea6e8fc8556785a8b10",
@@ -546,7 +502,7 @@
       "title": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in ...",
       "url": "https://x.com/GeminiApp/status/2082923083355353454",
       "published_at": "2026-07-30T20:15:36Z",
-      "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬7🔄10❤️108👀15095📊20⚡ Powered by xgo.ing"
+      "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬7🔄10❤️110👀15325📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "c04cf6156ccb9a0abb7ab7096669089483256078",
@@ -557,7 +513,7 @@
       "title": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark is now integrated with auto browse in Google Chrome. Wit...",
       "url": "https://x.com/GeminiApp/status/2082923048362299629",
       "published_at": "2026-07-30T20:15:28Z",
-      "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬98🔄213❤️1781👀162961📊352⚡ Powered b…"
+      "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬100🔄219❤️1813👀167211📊359⚡ Powered…"
     },
     {
       "id": "2b7cdf6fbdae4ed6e0c3663d530c39a1100c81ce",
@@ -579,73 +535,7 @@
       "title": "https://t.co/bqoF4ftCpT",
       "url": "https://x.com/OpenAI/status/2082879614532370847",
       "published_at": "2026-07-30T17:22:52Z",
-      "summary": "openai.com/index/advancin…💬14🔄22❤️574👀121777📊64⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e62df4266568ebdf9245bad3b106b8bbaacdf5cc",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI be...",
-      "url": "https://x.com/OpenAI/status/2082878192390689147",
-      "published_at": "2026-07-30T17:17:13Z",
-      "summary": "Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI benefits all of humanity. With the help of GPT-5.6 Sol, we have made leaps in efficiency. Today, we are passing those gains on in the API with lower prices for Luna and Terra, and pr…"
-    },
-    {
-      "id": "342a02d34a80d7ed4654e0cde2d6a72a759734ab",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API deliv...",
-      "url": "https://x.com/OpenAI/status/2082878168764207230",
-      "published_at": "2026-07-30T17:17:08Z",
-      "summary": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API delivers up to 2.5x the speed of Standard processing at 2x the Standard price. Fast mode gives API customers faster access to GPT-5.6 Sol, with no change in intelligence.💬24🔄47❤️1586👀24…"
-    },
-    {
-      "id": "995505156aac38da7dac2d5aa9b6816ccdf8d298",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We are committed to pushing the model frontier across cost efficiency, capability, and speed.\n\nStart...",
-      "url": "https://x.com/OpenAI/status/2082878156483219672",
-      "published_at": "2026-07-30T17:17:05Z",
-      "summary": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API. Luna and Terra’s lower prices are refle…"
-    },
-    {
-      "id": "afa599fedd192eb0cdf61285e09876626f503bd3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "More info on this update: https://t.co/5V0hUl7TNF",
-      "url": "https://x.com/GeminiApp/status/2082858833052131823",
-      "published_at": "2026-07-30T16:00:18Z",
-      "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️55👀10527📊8⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "75154c3230f235653751846cbac73d23dc6ed784",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Create, edit, and summarize with Gemini on macOS using your voice.\n\nStay in your flow by speaking in...",
-      "url": "https://x.com/GeminiApp/status/2082858829541458008",
-      "published_at": "2026-07-30T16:00:17Z",
-      "summary": "Create, edit, and summarize with Gemini on macOS using your voice. Stay in your flow by speaking into any active window: Dictate clean text or ask Gemini to transform highlighted content, analyze local files, & generate visuals right where your cursor is. This new voice capabilit…"
-    },
-    {
-      "id": "24997a91e793a4632b1b2bd29d48ac489b40c5ef",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "How to use Speak to Window in the Gemini app on macOS:\n- For standard dictation, long-press the FN k...",
-      "url": "https://x.com/GeminiApp/status/2082858831328239889",
-      "published_at": "2026-07-30T16:00:17Z",
-      "summary": "How to use Speak to Window in the Gemini app on macOS: - For standard dictation, long-press the FN key and start speaking. - To enable reasoning with screen context, opt in via app settings under the “Speak to Window” tab. Continue using the FN shortcut—Gemini will intelligently…"
+      "summary": "openai.com/index/advancin…💬14🔄21❤️579👀123796📊65⚡ Powered by xgo.ing"
     }
   ]
 }
