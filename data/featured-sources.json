@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T13:12:16.549158Z",
+  "generated_at": "2026-07-31T15:35:07.502926Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 444,
+      "duration_ms": 150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 25,
+      "duration_ms": 19,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2161,
+      "duration_ms": 1556,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1436,
+      "duration_ms": 825,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1127,
+      "duration_ms": 731,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 939,
+      "duration_ms": 371,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 377,
+      "duration_ms": 525,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2562,
+      "duration_ms": 2308,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 705,
+      "duration_ms": 755,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "1816f96e7289f6ca94bb345f96cca27c7bf9518f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "V4 Flash 0731已经开源：https://t.co/gRppDaaeKE",
+          "url": "https://x.com/op7418/status/2083192268148846724",
+          "published_at": "2026-07-31T14:05:15Z",
+          "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬0🔄0❤️3👀1011⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "6c6e42a5bf623747f989d5c8477aca17b737e123",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "做影视后期、动画特效以及一些转场，MiniMax H3真的太牛逼了！\n\n我在视频里标注了自己的工作流，包括素材、提示词。\n\n基本上你把特效的图片分镜标注好，用现在的图像模型做好，或者自己把文字等特效层...",
+          "url": "https://x.com/op7418/status/2083190834820997168",
+          "published_at": "2026-07-31T13:59:33Z",
+          "summary": "做影视后期、动画特效以及一些转场，MiniMax H3真的太牛逼了！ 我在视频里标注了自己的工作流，包括素材、提示词。 基本上你把特效的图片分镜标注好，用现在的图像模型做好，或者自己把文字等特效层 P 上去，甚至只是给一些参考，它就能帮你做出非常复杂的动特效。 它的文字和 UI 细节、排版细节效果巨好。 我做的两个案例都用了九宫格图片，按理说总分辨率只有 1K 左右，但它生成出来的清晰度极高，完全没有以前那种字迹模糊看不清的状态。 支持全模态参考。而且还会开源，开源后成本会降低。 非常适合用来做广告片、产品宣传片、MV、游戏宣传和电商宣传，或者做个特效来…"
+        },
         {
           "id": "7e76ed7f3905b222a5281c9787d20929045cff27",
           "site_id": "featuredrss",
@@ -222,7 +244,7 @@
           "title": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的",
           "url": "https://x.com/op7418/status/2083043706429723106",
           "published_at": "2026-07-31T04:14:55Z",
-          "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️7👀4900📊1⚡ Powered by xgo.ing"
+          "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️9👀5501📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "581d219802466b59d6d3f85e53e5942a1db8f433",
@@ -233,7 +255,7 @@
           "title": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！\n\nCodex 现在有专门给图像 Agent 做的 UI 模式了：\n\n生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对...",
           "url": "https://x.com/op7418/status/2083043634635788298",
           "published_at": "2026-07-31T04:14:38Z",
-          "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬36🔄35❤️270👀…"
+          "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬37🔄42❤️314👀…"
         },
         {
           "id": "f50ae2668781e60ed96344d55d31127497da1988",
@@ -244,7 +266,7 @@
           "title": "Seedance 2.5 模型已经给超创开放了内测。\n\n1. 最高支持 30 秒：一次可以生成 30 秒长度的视频\n2. 目前最高支持 720P\n3. 全能参考：最多一次可以上传 50 张图片，非常离...",
           "url": "https://x.com/op7418/status/2083016118315499894",
           "published_at": "2026-07-31T02:25:17Z",
-          "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬42🔄2❤️42👀13796📊40⚡ Powered by xgo.ing"
+          "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬51🔄2❤️45👀14511📊48⚡ Powered by xgo.ing"
         },
         {
           "id": "aca1350f1baf68ffecea26c5029f90f05780bff7",
@@ -261,7 +283,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 13,
+      "total_items": 12,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -289,7 +311,7 @@
           "title": "Learn more about how Gemini can help make trip planning a whole lot easier: https://t.co/LzKMKvzGlM",
           "url": "https://x.com/GeminiApp/status/2082948106271039753",
           "published_at": "2026-07-30T21:55:02Z",
-          "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️21👀11463📊3⚡ Powered by xgo.ing"
+          "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️23👀12235📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "7b7cef30db46409bb903bea6e8fc8556785a8b10",
@@ -300,7 +322,7 @@
           "title": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in ...",
           "url": "https://x.com/GeminiApp/status/2082923083355353454",
           "published_at": "2026-07-30T20:15:36Z",
-          "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬7🔄7❤️97👀14359📊18⚡ Powered by xgo.ing"
+          "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬7🔄10❤️108👀15095📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "c04cf6156ccb9a0abb7ab7096669089483256078",
@@ -311,7 +333,7 @@
           "title": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark is now integrated with auto browse in Google Chrome. Wit...",
           "url": "https://x.com/GeminiApp/status/2082923048362299629",
           "published_at": "2026-07-30T20:15:28Z",
-          "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬91🔄197❤️1630👀148751📊323⚡ Powered b…"
+          "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬98🔄213❤️1781👀162961📊352⚡ Powered b…"
         },
         {
           "id": "2b7cdf6fbdae4ed6e0c3663d530c39a1100c81ce",
@@ -333,7 +355,7 @@
           "title": "https://t.co/bqoF4ftCpT",
           "url": "https://x.com/OpenAI/status/2082879614532370847",
           "published_at": "2026-07-30T17:22:52Z",
-          "summary": "openai.com/index/advancin…💬13🔄21❤️567👀119502📊63⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/advancin…💬14🔄22❤️574👀121777📊64⚡ Powered by xgo.ing"
         },
         {
           "id": "e62df4266568ebdf9245bad3b106b8bbaacdf5cc",
@@ -377,7 +399,7 @@
           "title": "More info on this update: https://t.co/5V0hUl7TNF",
           "url": "https://x.com/GeminiApp/status/2082858833052131823",
           "published_at": "2026-07-30T16:00:18Z",
-          "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️52👀10225📊8⚡ Powered by xgo.ing"
+          "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️55👀10527📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "75154c3230f235653751846cbac73d23dc6ed784",
@@ -400,22 +422,33 @@
           "url": "https://x.com/GeminiApp/status/2082858831328239889",
           "published_at": "2026-07-30T16:00:17Z",
           "summary": "How to use Speak to Window in the Gemini app on macOS: - For standard dictation, long-press the FN key and start speaking. - To enable reasoning with screen context, opt in via app settings under the “Speak to Window” tab. Continue using the FN shortcut—Gemini will intelligently…"
-        },
-        {
-          "id": "4ab487a17cd29a7662dd8968c177a5bfb192557d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand.\n\nToday...",
-          "url": "https://x.com/GoogleAI/status/2082844740446253125",
-          "published_at": "2026-07-30T15:04:18Z",
-          "summary": "For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand. Today, we take a major stride toward making that dream a reality: Introducing Gemini Robotics 2 from @GoogleDeepMind, the intelligence layer powering the next generation of truly adaptab…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "1816f96e7289f6ca94bb345f96cca27c7bf9518f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "V4 Flash 0731已经开源：https://t.co/gRppDaaeKE",
+      "url": "https://x.com/op7418/status/2083192268148846724",
+      "published_at": "2026-07-31T14:05:15Z",
+      "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬0🔄0❤️3👀1011⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "6c6e42a5bf623747f989d5c8477aca17b737e123",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "做影视后期、动画特效以及一些转场，MiniMax H3真的太牛逼了！\n\n我在视频里标注了自己的工作流，包括素材、提示词。\n\n基本上你把特效的图片分镜标注好，用现在的图像模型做好，或者自己把文字等特效层...",
+      "url": "https://x.com/op7418/status/2083190834820997168",
+      "published_at": "2026-07-31T13:59:33Z",
+      "summary": "做影视后期、动画特效以及一些转场，MiniMax H3真的太牛逼了！ 我在视频里标注了自己的工作流，包括素材、提示词。 基本上你把特效的图片分镜标注好，用现在的图像模型做好，或者自己把文字等特效层 P 上去，甚至只是给一些参考，它就能帮你做出非常复杂的动特效。 它的文字和 UI 细节、排版细节效果巨好。 我做的两个案例都用了九宫格图片，按理说总分辨率只有 1K 左右，但它生成出来的清晰度极高，完全没有以前那种字迹模糊看不清的状态。 支持全模态参考。而且还会开源，开源后成本会降低。 非常适合用来做广告片、产品宣传片、MV、游戏宣传和电商宣传，或者做个特效来…"
+    },
     {
       "id": "7e76ed7f3905b222a5281c9787d20929045cff27",
       "site_id": "featuredrss",
@@ -447,7 +480,7 @@
       "title": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的",
       "url": "https://x.com/op7418/status/2083043706429723106",
       "published_at": "2026-07-31T04:14:55Z",
-      "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️7👀4900📊1⚡ Powered by xgo.ing"
+      "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️9👀5501📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "581d219802466b59d6d3f85e53e5942a1db8f433",
@@ -458,7 +491,7 @@
       "title": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！\n\nCodex 现在有专门给图像 Agent 做的 UI 模式了：\n\n生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对...",
       "url": "https://x.com/op7418/status/2083043634635788298",
       "published_at": "2026-07-31T04:14:38Z",
-      "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬36🔄35❤️270👀…"
+      "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬37🔄42❤️314👀…"
     },
     {
       "id": "f50ae2668781e60ed96344d55d31127497da1988",
@@ -469,7 +502,7 @@
       "title": "Seedance 2.5 模型已经给超创开放了内测。\n\n1. 最高支持 30 秒：一次可以生成 30 秒长度的视频\n2. 目前最高支持 720P\n3. 全能参考：最多一次可以上传 50 张图片，非常离...",
       "url": "https://x.com/op7418/status/2083016118315499894",
       "published_at": "2026-07-31T02:25:17Z",
-      "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬42🔄2❤️42👀13796📊40⚡ Powered by xgo.ing"
+      "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬51🔄2❤️45👀14511📊48⚡ Powered by xgo.ing"
     },
     {
       "id": "aca1350f1baf68ffecea26c5029f90f05780bff7",
@@ -502,7 +535,7 @@
       "title": "Learn more about how Gemini can help make trip planning a whole lot easier: https://t.co/LzKMKvzGlM",
       "url": "https://x.com/GeminiApp/status/2082948106271039753",
       "published_at": "2026-07-30T21:55:02Z",
-      "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️21👀11463📊3⚡ Powered by xgo.ing"
+      "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️23👀12235📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "7b7cef30db46409bb903bea6e8fc8556785a8b10",
@@ -513,7 +546,7 @@
       "title": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in ...",
       "url": "https://x.com/GeminiApp/status/2082923083355353454",
       "published_at": "2026-07-30T20:15:36Z",
-      "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬7🔄7❤️97👀14359📊18⚡ Powered by xgo.ing"
+      "summary": "The Gemini Spark @GoogleChrome integration is rolling out to Google AI Pro and Ultra subscribers in the U.S., and will expand to additional regions in the future. More info on this update: goo.gle/4wDnChe💬7🔄10❤️108👀15095📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "c04cf6156ccb9a0abb7ab7096669089483256078",
@@ -524,7 +557,7 @@
       "title": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark is now integrated with auto browse in Google Chrome. Wit...",
       "url": "https://x.com/GeminiApp/status/2082923048362299629",
       "published_at": "2026-07-30T20:15:28Z",
-      "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬91🔄197❤️1630👀148751📊323⚡ Powered b…"
+      "summary": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. With your permission, Spark can handle web tasks for you right in your Chrome browser, like scheduling apartment viewings or auto-filling flight info.💬98🔄213❤️1781👀162961📊352⚡ Powered b…"
     },
     {
       "id": "2b7cdf6fbdae4ed6e0c3663d530c39a1100c81ce",
@@ -546,7 +579,7 @@
       "title": "https://t.co/bqoF4ftCpT",
       "url": "https://x.com/OpenAI/status/2082879614532370847",
       "published_at": "2026-07-30T17:22:52Z",
-      "summary": "openai.com/index/advancin…💬13🔄21❤️567👀119502📊63⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/advancin…💬14🔄22❤️574👀121777📊64⚡ Powered by xgo.ing"
     },
     {
       "id": "e62df4266568ebdf9245bad3b106b8bbaacdf5cc",
@@ -590,7 +623,7 @@
       "title": "More info on this update: https://t.co/5V0hUl7TNF",
       "url": "https://x.com/GeminiApp/status/2082858833052131823",
       "published_at": "2026-07-30T16:00:18Z",
-      "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️52👀10225📊8⚡ Powered by xgo.ing"
+      "summary": "More info on this update: goo.gle/4yLBNSA💬1🔄4❤️55👀10527📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "75154c3230f235653751846cbac73d23dc6ed784",
@@ -613,17 +646,6 @@
       "url": "https://x.com/GeminiApp/status/2082858831328239889",
       "published_at": "2026-07-30T16:00:17Z",
       "summary": "How to use Speak to Window in the Gemini app on macOS: - For standard dictation, long-press the FN key and start speaking. - To enable reasoning with screen context, opt in via app settings under the “Speak to Window” tab. Continue using the FN shortcut—Gemini will intelligently…"
-    },
-    {
-      "id": "4ab487a17cd29a7662dd8968c177a5bfb192557d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand.\n\nToday...",
-      "url": "https://x.com/GoogleAI/status/2082844740446253125",
-      "published_at": "2026-07-30T15:04:18Z",
-      "summary": "For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand. Today, we take a major stride toward making that dream a reality: Introducing Gemini Robotics 2 from @GoogleDeepMind, the intelligence layer powering the next generation of truly adaptab…"
     }
   ]
 }
