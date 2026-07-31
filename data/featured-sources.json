@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T21:35:43.477772Z",
+  "generated_at": "2026-07-31T22:54:03.349605Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 127,
+      "duration_ms": 769,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 342,
+      "duration_ms": 29,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1589,
+      "duration_ms": 1644,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1011,
+      "duration_ms": 1034,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 874,
+      "duration_ms": 901,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 864,
+      "duration_ms": 607,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 451,
+      "duration_ms": 328,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 29,
+      "duration_ms": 32,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2674,
+      "duration_ms": 2725,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 611,
+      "duration_ms": 816,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "V4 Flash 0731已经开源：https://t.co/gRppDaaeKE",
           "url": "https://x.com/op7418/status/2083192268148846724",
           "published_at": "2026-07-31T14:05:15Z",
-          "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬1🔄0❤️3👀1929📊1⚡ Powered by xgo.ing"
+          "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬1🔄0❤️3👀2003📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "6c6e42a5bf623747f989d5c8477aca17b737e123",
@@ -244,7 +244,7 @@
           "title": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的",
           "url": "https://x.com/op7418/status/2083043706429723106",
           "published_at": "2026-07-31T04:14:55Z",
-          "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️11👀6349📊1⚡ Powered by xgo.ing"
+          "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️11👀6439📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "581d219802466b59d6d3f85e53e5942a1db8f433",
@@ -255,7 +255,7 @@
           "title": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！\n\nCodex 现在有专门给图像 Agent 做的 UI 模式了：\n\n生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对...",
           "url": "https://x.com/op7418/status/2083043634635788298",
           "published_at": "2026-07-31T04:14:38Z",
-          "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬38🔄57❤️393👀…"
+          "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬38🔄59❤️404👀…"
         },
         {
           "id": "f50ae2668781e60ed96344d55d31127497da1988",
@@ -266,7 +266,7 @@
           "title": "Seedance 2.5 模型已经给超创开放了内测。\n\n1. 最高支持 30 秒：一次可以生成 30 秒长度的视频\n2. 目前最高支持 720P\n3. 全能参考：最多一次可以上传 50 张图片，非常离...",
           "url": "https://x.com/op7418/status/2083016118315499894",
           "published_at": "2026-07-31T02:25:17Z",
-          "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬69🔄2❤️47👀15269📊62⚡ Powered by xgo.ing"
+          "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬73🔄2❤️47👀15363📊66⚡ Powered by xgo.ing"
         },
         {
           "id": "aca1350f1baf68ffecea26c5029f90f05780bff7",
@@ -283,7 +283,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 12,
+      "total_items": 10,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -311,7 +311,7 @@
           "title": "More info on where Gemini Spark is available here: https://t.co/HUF0DN8aVt",
           "url": "https://x.com/GeminiApp/status/2083302571595485589",
           "published_at": "2026-07-31T21:23:33Z",
-          "summary": "More info on where Gemini Spark is available here: goo.gle/4fc7349💬2🔄0❤️9👀1289📊3⚡ Powered by xgo.ing"
+          "summary": "More info on where Gemini Spark is available here: goo.gle/4fc7349💬7🔄0❤️22👀5397📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "451adffa0bbc0b788cfe71b0c7d3a229d0e44046",
@@ -322,7 +322,7 @@
           "title": "6) Create personalized images in Gemini\n\nUse Gemini to create deeply personalized images based on yo...",
           "url": "https://x.com/GeminiApp/status/2083233602532454650",
           "published_at": "2026-07-31T16:49:30Z",
-          "summary": "6) Create personalized images in Gemini Use Gemini to create deeply personalized images based on your unique interests and preferences. Now available to all users in the U.S.Your browser does not support the video tag.🔗 View on Twitter💬3🔄2❤️25👀7718📊6⚡ Powered by xgo.ing"
+          "summary": "6) Create personalized images in Gemini Use Gemini to create deeply personalized images based on your unique interests and preferences. Now available to all users in the U.S.Your browser does not support the video tag.🔗 View on Twitter💬3🔄2❤️25👀8225📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "cf332450dcdad7e4bf5be9150a66cdb0b991e448",
@@ -333,7 +333,7 @@
           "title": "That’s a wrap on this month’s Gemini Drops!\n\nTo learn more about everything that’s new, check out th...",
           "url": "https://x.com/GeminiApp/status/2083233603966972375",
           "published_at": "2026-07-31T16:49:30Z",
-          "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬1🔄2❤️23👀7293📊4⚡ Powered by xgo.ing"
+          "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬1🔄2❤️24👀7779📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "8224916f9e75a8e1f73ee8bbe709ea2acfde307f",
@@ -355,7 +355,7 @@
           "title": "2) Access Gemini Spark in more countries and languages\n\nNow even more people across the world can us...",
           "url": "https://x.com/GeminiApp/status/2083233594395517183",
           "published_at": "2026-07-31T16:49:28Z",
-          "summary": "2) Access Gemini Spark in more countries and languages Now even more people across the world can use Gemini Spark as their 24/7 personal AI agent to get things done more efficiently.Your browser does not support the video tag.🔗 View on Twitter💬5🔄5❤️72👀5355📊12⚡ Powered by xgo.ing"
+          "summary": "2) Access Gemini Spark in more countries and languages Now even more people across the world can use Gemini Spark as their 24/7 personal AI agent to get things done more efficiently.Your browser does not support the video tag.🔗 View on Twitter💬6🔄5❤️73👀5670📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "bb8d7777d165ae8fdc321be784038b37a575e6a5",
@@ -377,7 +377,7 @@
           "title": "1) Use your voice in the Gemini app for macOS\n\nDictate, summarize files, and rewrite copy directly i...",
           "url": "https://x.com/GeminiApp/status/2083233592512233803",
           "published_at": "2026-07-31T16:49:27Z",
-          "summary": "1) Use your voice in the Gemini app for macOS Dictate, summarize files, and rewrite copy directly into any window with your voice in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twitter💬3🔄5❤️64👀5669📊10⚡ Powered by xgo.ing"
+          "summary": "1) Use your voice in the Gemini app for macOS Dictate, summarize files, and rewrite copy directly into any window with your voice in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twitter💬5🔄5❤️65👀6003📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "70c43633472f8394dc9c68dcdfde5915337c2ee6",
@@ -388,7 +388,7 @@
           "title": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile...",
           "url": "https://x.com/GeminiApp/status/2083232971197456452",
           "published_at": "2026-07-31T16:46:59Z",
-          "summary": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile experience. Let's dive into what's new in this 🧵💬46🔄49❤️372👀49151📊91⚡ Powered by xgo.ing"
+          "summary": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile experience. Let's dive into what's new in this 🧵💬50🔄51❤️405👀53927📊97⚡ Powered by xgo.ing"
         },
         {
           "id": "c692e95650d4c2b9aa4132bd7441c4979eeed88a",
@@ -400,28 +400,6 @@
           "url": "https://x.com/GoogleAI/status/2083221445375668654",
           "published_at": "2026-07-31T16:01:11Z",
           "summary": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️ — Gemini Robotics 2 from @GoogleDeepmind brings whole-body intelligence to robots — Gemini 3.5 Flash-Lite is our fastest, most cost-effective model optimized for high-speed agentic workflows — Gemini 3.6 Flash delivers…"
-        },
-        {
-          "id": "067cbd35f7cbc1f1a0db5a415104c05ac99c0132",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Discover and book over 425,000 travel tours, activities, and excursions from @ViatorTravel, now dire...",
-          "url": "https://x.com/GeminiApp/status/2082948104635215875",
-          "published_at": "2026-07-30T21:55:02Z",
-          "summary": "Discover and book over 425,000 travel tours, activities, and excursions from @ViatorTravel, now directly in Gemini and Gemini Spark for users in the U.S. Turn on the Viator connected app and start exploring today. For example, try asking Gemini for kid-friendly activities for you…"
-        },
-        {
-          "id": "d7563c18e8363fa6e0859170059d6ef12f00b9c4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Learn more about how Gemini can help make trip planning a whole lot easier: https://t.co/LzKMKvzGlM",
-          "url": "https://x.com/GeminiApp/status/2082948106271039753",
-          "published_at": "2026-07-30T21:55:02Z",
-          "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️26👀12966📊4⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -447,7 +425,7 @@
       "title": "More info on where Gemini Spark is available here: https://t.co/HUF0DN8aVt",
       "url": "https://x.com/GeminiApp/status/2083302571595485589",
       "published_at": "2026-07-31T21:23:33Z",
-      "summary": "More info on where Gemini Spark is available here: goo.gle/4fc7349💬2🔄0❤️9👀1289📊3⚡ Powered by xgo.ing"
+      "summary": "More info on where Gemini Spark is available here: goo.gle/4fc7349💬7🔄0❤️22👀5397📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "451adffa0bbc0b788cfe71b0c7d3a229d0e44046",
@@ -458,7 +436,7 @@
       "title": "6) Create personalized images in Gemini\n\nUse Gemini to create deeply personalized images based on yo...",
       "url": "https://x.com/GeminiApp/status/2083233602532454650",
       "published_at": "2026-07-31T16:49:30Z",
-      "summary": "6) Create personalized images in Gemini Use Gemini to create deeply personalized images based on your unique interests and preferences. Now available to all users in the U.S.Your browser does not support the video tag.🔗 View on Twitter💬3🔄2❤️25👀7718📊6⚡ Powered by xgo.ing"
+      "summary": "6) Create personalized images in Gemini Use Gemini to create deeply personalized images based on your unique interests and preferences. Now available to all users in the U.S.Your browser does not support the video tag.🔗 View on Twitter💬3🔄2❤️25👀8225📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "cf332450dcdad7e4bf5be9150a66cdb0b991e448",
@@ -469,7 +447,7 @@
       "title": "That’s a wrap on this month’s Gemini Drops!\n\nTo learn more about everything that’s new, check out th...",
       "url": "https://x.com/GeminiApp/status/2083233603966972375",
       "published_at": "2026-07-31T16:49:30Z",
-      "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬1🔄2❤️23👀7293📊4⚡ Powered by xgo.ing"
+      "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬1🔄2❤️24👀7779📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "8224916f9e75a8e1f73ee8bbe709ea2acfde307f",
@@ -491,7 +469,7 @@
       "title": "2) Access Gemini Spark in more countries and languages\n\nNow even more people across the world can us...",
       "url": "https://x.com/GeminiApp/status/2083233594395517183",
       "published_at": "2026-07-31T16:49:28Z",
-      "summary": "2) Access Gemini Spark in more countries and languages Now even more people across the world can use Gemini Spark as their 24/7 personal AI agent to get things done more efficiently.Your browser does not support the video tag.🔗 View on Twitter💬5🔄5❤️72👀5355📊12⚡ Powered by xgo.ing"
+      "summary": "2) Access Gemini Spark in more countries and languages Now even more people across the world can use Gemini Spark as their 24/7 personal AI agent to get things done more efficiently.Your browser does not support the video tag.🔗 View on Twitter💬6🔄5❤️73👀5670📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "bb8d7777d165ae8fdc321be784038b37a575e6a5",
@@ -513,7 +491,7 @@
       "title": "1) Use your voice in the Gemini app for macOS\n\nDictate, summarize files, and rewrite copy directly i...",
       "url": "https://x.com/GeminiApp/status/2083233592512233803",
       "published_at": "2026-07-31T16:49:27Z",
-      "summary": "1) Use your voice in the Gemini app for macOS Dictate, summarize files, and rewrite copy directly into any window with your voice in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twitter💬3🔄5❤️64👀5669📊10⚡ Powered by xgo.ing"
+      "summary": "1) Use your voice in the Gemini app for macOS Dictate, summarize files, and rewrite copy directly into any window with your voice in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twitter💬5🔄5❤️65👀6003📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "70c43633472f8394dc9c68dcdfde5915337c2ee6",
@@ -524,7 +502,7 @@
       "title": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile...",
       "url": "https://x.com/GeminiApp/status/2083232971197456452",
       "published_at": "2026-07-31T16:46:59Z",
-      "summary": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile experience. Let's dive into what's new in this 🧵💬46🔄49❤️372👀49151📊91⚡ Powered by xgo.ing"
+      "summary": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile experience. Let's dive into what's new in this 🧵💬50🔄51❤️405👀53927📊97⚡ Powered by xgo.ing"
     },
     {
       "id": "c692e95650d4c2b9aa4132bd7441c4979eeed88a",
@@ -546,7 +524,7 @@
       "title": "V4 Flash 0731已经开源：https://t.co/gRppDaaeKE",
       "url": "https://x.com/op7418/status/2083192268148846724",
       "published_at": "2026-07-31T14:05:15Z",
-      "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬1🔄0❤️3👀1929📊1⚡ Powered by xgo.ing"
+      "summary": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/De…💬1🔄0❤️3👀2003📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "6c6e42a5bf623747f989d5c8477aca17b737e123",
@@ -590,7 +568,7 @@
       "title": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的",
       "url": "https://x.com/op7418/status/2083043706429723106",
       "published_at": "2026-07-31T04:14:55Z",
-      "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️11👀6349📊1⚡ Powered by xgo.ing"
+      "summary": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的💬0🔄0❤️11👀6439📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "581d219802466b59d6d3f85e53e5942a1db8f433",
@@ -601,7 +579,7 @@
       "title": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！\n\nCodex 现在有专门给图像 Agent 做的 UI 模式了：\n\n生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对...",
       "url": "https://x.com/op7418/status/2083043634635788298",
       "published_at": "2026-07-31T04:14:38Z",
-      "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬38🔄57❤️393👀…"
+      "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。💬38🔄59❤️404👀…"
     },
     {
       "id": "f50ae2668781e60ed96344d55d31127497da1988",
@@ -612,7 +590,7 @@
       "title": "Seedance 2.5 模型已经给超创开放了内测。\n\n1. 最高支持 30 秒：一次可以生成 30 秒长度的视频\n2. 目前最高支持 720P\n3. 全能参考：最多一次可以上传 50 张图片，非常离...",
       "url": "https://x.com/op7418/status/2083016118315499894",
       "published_at": "2026-07-31T02:25:17Z",
-      "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬69🔄2❤️47👀15269📊62⚡ Powered by xgo.ing"
+      "summary": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱💬73🔄2❤️47👀15363📊66⚡ Powered by xgo.ing"
     },
     {
       "id": "aca1350f1baf68ffecea26c5029f90f05780bff7",
@@ -624,28 +602,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684857&idx=1&sn=03c84df8bc0389c4ceb8f50f6c0015e3",
       "published_at": "2026-07-31T02:21:00Z",
       "summary": "视觉包装有点强"
-    },
-    {
-      "id": "067cbd35f7cbc1f1a0db5a415104c05ac99c0132",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Discover and book over 425,000 travel tours, activities, and excursions from @ViatorTravel, now dire...",
-      "url": "https://x.com/GeminiApp/status/2082948104635215875",
-      "published_at": "2026-07-30T21:55:02Z",
-      "summary": "Discover and book over 425,000 travel tours, activities, and excursions from @ViatorTravel, now directly in Gemini and Gemini Spark for users in the U.S. Turn on the Viator connected app and start exploring today. For example, try asking Gemini for kid-friendly activities for you…"
-    },
-    {
-      "id": "d7563c18e8363fa6e0859170059d6ef12f00b9c4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Learn more about how Gemini can help make trip planning a whole lot easier: https://t.co/LzKMKvzGlM",
-      "url": "https://x.com/GeminiApp/status/2082948106271039753",
-      "published_at": "2026-07-30T21:55:02Z",
-      "summary": "Learn more about how Gemini can help make trip planning a whole lot easier: goo.gle/3Tq2b4s💬0🔄4❤️26👀12966📊4⚡ Powered by xgo.ing"
     }
   ]
 }
