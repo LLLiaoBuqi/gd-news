@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T15:55:39.361069Z",
+  "generated_at": "2026-08-01T16:54:00.995614Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 575,
+      "duration_ms": 866,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 20,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1626,
+      "duration_ms": 1549,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1049,
+      "duration_ms": 1005,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 791,
+      "duration_ms": 820,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 911,
+      "duration_ms": 1298,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 966,
+      "duration_ms": 394,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 22,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2388,
+      "duration_ms": 2142,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 377,
+      "duration_ms": 932,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "34d4f7a5dcb1c6218357ec96fd842d600212e554",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "OpenAI 感觉翻身了啊，已经在预热他们的下一代模型Astra。\n\n他们用这个模型解决了 10 个至少存在了十年的数学问题。\n\n这些问题如果是数学家解决的话，感觉这数学家已经相当牛逼了；\n\n而解决这...",
+          "url": "https://x.com/op7418/status/2083579533391777935",
+          "published_at": "2026-08-01T15:44:06Z",
+          "summary": "OpenAI 感觉翻身了啊，已经在预热他们的下一代模型Astra。 他们用这个模型解决了 10 个至少存在了十年的数学问题。 这些问题如果是数学家解决的话，感觉这数学家已经相当牛逼了； 而解决这一堆非常难的问题，算力成本居然只有 2000 美元。 Sam 亲自飞到华盛顿去跟美国政府沟通这个模型的发布，感觉这玩意儿会很顶，不知道是 GPT-6 还是 GPT-5.7Sebastien Bubeck@SebastienBubeckyes, nonsofic groups exist: this statement is one of many new beau…"
+        },
         {
           "id": "cd556a9eb1f58586878b27f650105f32c9f9f0cf",
           "site_id": "featuredrss",
@@ -211,13 +222,13 @@
           "title": "重置！",
           "url": "https://x.com/op7418/status/2083434423564009647",
           "published_at": "2026-08-01T06:07:29Z",
-          "summary": "重置！Tibo@thsottiauxTo celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.🔗 View Quoted Tweet💬7🔄0❤️13👀7238📊6⚡ Powered by xgo.ing"
+          "summary": "重置！Tibo@thsottiauxTo celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.🔗 View Quoted Tweet💬7🔄0❤️13👀7579📊6⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 11,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -245,111 +256,23 @@
           "title": "More info on where Gemini Spark is available here: https://t.co/HUF0DN8aVt",
           "url": "https://x.com/GeminiApp/status/2083302571595485589",
           "published_at": "2026-07-31T21:23:33Z",
-          "summary": "More info on where Gemini Spark is available here: goo.gle/4fc7349💬11🔄5❤️67👀23308📊19⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "451adffa0bbc0b788cfe71b0c7d3a229d0e44046",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "6) Create personalized images in Gemini\n\nUse Gemini to create deeply personalized images based on yo...",
-          "url": "https://x.com/GeminiApp/status/2083233602532454650",
-          "published_at": "2026-07-31T16:49:30Z",
-          "summary": "6) Create personalized images in Gemini Use Gemini to create deeply personalized images based on your unique interests and preferences. Now available to all users in the U.S.Your browser does not support the video tag.🔗 View on Twitter💬4🔄2❤️34👀11672📊8⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "cf332450dcdad7e4bf5be9150a66cdb0b991e448",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "That’s a wrap on this month’s Gemini Drops!\n\nTo learn more about everything that’s new, check out th...",
-          "url": "https://x.com/GeminiApp/status/2083233603966972375",
-          "published_at": "2026-07-31T16:49:30Z",
-          "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬1🔄5❤️37👀11042📊6⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8224916f9e75a8e1f73ee8bbe709ea2acfde307f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "4) Set up your digital avatars to use with Nano Banana\n\nSet up your digital avatar in Gemini once, a...",
-          "url": "https://x.com/GeminiApp/status/2083233598224977942",
-          "published_at": "2026-07-31T16:49:29Z",
-          "summary": "4) Set up your digital avatars to use with Nano Banana Set up your digital avatar in Gemini once, and you can seamlessly create custom images or videos of yourself without having to upload a selfie as your reference image.Your browser does not support the video tag.🔗 View on Twit…"
-        },
-        {
-          "id": "35b9f0fd223a40a2c4990921de0a19c9f993f305",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "5) Connect more apps in Gemini to make your life easier\n\nNow you can connect even more apps in Gemin...",
-          "url": "https://x.com/GeminiApp/status/2083233600238166100",
-          "published_at": "2026-07-31T16:49:29Z",
-          "summary": "5) Connect more apps in Gemini to make your life easier Now you can connect even more apps in Gemini like @Dropbox, @Viator, and @Zillow to easily organize your files, book tours and activities, and search for your next apartment rental.Your browser does not support the video tag…"
-        },
-        {
-          "id": "4afcc8faa97c09b1c7d5402de48a170036ce8ded",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "2) Access Gemini Spark in more countries and languages\n\nNow even more people across the world can us...",
-          "url": "https://x.com/GeminiApp/status/2083233594395517183",
-          "published_at": "2026-07-31T16:49:28Z",
-          "summary": "2) Access Gemini Spark in more countries and languages Now even more people across the world can use Gemini Spark as their 24/7 personal AI agent to get things done more efficiently.Your browser does not support the video tag.🔗 View on Twitter💬7🔄8❤️89👀8404📊17⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bb8d7777d165ae8fdc321be784038b37a575e6a5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "3) Try Gemini 3.6 Flash & 3.5 Flash-Lite\n\nUpgraded versions of our Flash and Flash-Lite models are n...",
-          "url": "https://x.com/GeminiApp/status/2083233596362600840",
-          "published_at": "2026-07-31T16:49:28Z",
-          "summary": "3) Try Gemini 3.6 Flash & 3.5 Flash-Lite Upgraded versions of our Flash and Flash-Lite models are now available, bringing better reasoning at greater speeds. Try them by selecting “3.6 Flash” or “3.5 Flash-Lite” from the model dropdown menu at gemini.google or in the app.Your bro…"
-        },
-        {
-          "id": "f6b59599cbc9f838431051e99d070b5cc51c68df",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "1) Use your voice in the Gemini app for macOS\n\nDictate, summarize files, and rewrite copy directly i...",
-          "url": "https://x.com/GeminiApp/status/2083233592512233803",
-          "published_at": "2026-07-31T16:49:27Z",
-          "summary": "1) Use your voice in the Gemini app for macOS Dictate, summarize files, and rewrite copy directly into any window with your voice in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twitter💬7🔄7❤️85👀9090📊16⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "70c43633472f8394dc9c68dcdfde5915337c2ee6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile...",
-          "url": "https://x.com/GeminiApp/status/2083232971197456452",
-          "published_at": "2026-07-31T16:46:59Z",
-          "summary": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile experience. Let's dive into what's new in this 🧵💬64🔄71❤️665👀212985📊145⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c692e95650d4c2b9aa4132bd7441c4979eeed88a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️\n\n— Gemini Robotics 2 from @GoogleDeepmi...",
-          "url": "https://x.com/GoogleAI/status/2083221445375668654",
-          "published_at": "2026-07-31T16:01:11Z",
-          "summary": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️ — Gemini Robotics 2 from @GoogleDeepmind brings whole-body intelligence to robots — Gemini 3.5 Flash-Lite is our fastest, most cost-effective model optimized for high-speed agentic workflows — Gemini 3.6 Flash delivers…"
+          "summary": "More info on where Gemini Spark is available here: goo.gle/4fc7349💬11🔄5❤️68👀23908📊19⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "34d4f7a5dcb1c6218357ec96fd842d600212e554",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "OpenAI 感觉翻身了啊，已经在预热他们的下一代模型Astra。\n\n他们用这个模型解决了 10 个至少存在了十年的数学问题。\n\n这些问题如果是数学家解决的话，感觉这数学家已经相当牛逼了；\n\n而解决这...",
+      "url": "https://x.com/op7418/status/2083579533391777935",
+      "published_at": "2026-08-01T15:44:06Z",
+      "summary": "OpenAI 感觉翻身了啊，已经在预热他们的下一代模型Astra。 他们用这个模型解决了 10 个至少存在了十年的数学问题。 这些问题如果是数学家解决的话，感觉这数学家已经相当牛逼了； 而解决这一堆非常难的问题，算力成本居然只有 2000 美元。 Sam 亲自飞到华盛顿去跟美国政府沟通这个模型的发布，感觉这玩意儿会很顶，不知道是 GPT-6 还是 GPT-5.7Sebastien Bubeck@SebastienBubeckyes, nonsofic groups exist: this statement is one of many new beau…"
+    },
     {
       "id": "cd556a9eb1f58586878b27f650105f32c9f9f0cf",
       "site_id": "featuredrss",
@@ -370,7 +293,7 @@
       "title": "重置！",
       "url": "https://x.com/op7418/status/2083434423564009647",
       "published_at": "2026-08-01T06:07:29Z",
-      "summary": "重置！Tibo@thsottiauxTo celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.🔗 View Quoted Tweet💬7🔄0❤️13👀7238📊6⚡ Powered by xgo.ing"
+      "summary": "重置！Tibo@thsottiauxTo celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.🔗 View Quoted Tweet💬7🔄0❤️13👀7579📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "850d64ef241f1b3a01855c8cab13556993acf3d8",
@@ -392,106 +315,7 @@
       "title": "More info on where Gemini Spark is available here: https://t.co/HUF0DN8aVt",
       "url": "https://x.com/GeminiApp/status/2083302571595485589",
       "published_at": "2026-07-31T21:23:33Z",
-      "summary": "More info on where Gemini Spark is available here: goo.gle/4fc7349💬11🔄5❤️67👀23308📊19⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "451adffa0bbc0b788cfe71b0c7d3a229d0e44046",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "6) Create personalized images in Gemini\n\nUse Gemini to create deeply personalized images based on yo...",
-      "url": "https://x.com/GeminiApp/status/2083233602532454650",
-      "published_at": "2026-07-31T16:49:30Z",
-      "summary": "6) Create personalized images in Gemini Use Gemini to create deeply personalized images based on your unique interests and preferences. Now available to all users in the U.S.Your browser does not support the video tag.🔗 View on Twitter💬4🔄2❤️34👀11672📊8⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "cf332450dcdad7e4bf5be9150a66cdb0b991e448",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "That’s a wrap on this month’s Gemini Drops!\n\nTo learn more about everything that’s new, check out th...",
-      "url": "https://x.com/GeminiApp/status/2083233603966972375",
-      "published_at": "2026-07-31T16:49:30Z",
-      "summary": "That’s a wrap on this month’s Gemini Drops! To learn more about everything that’s new, check out the Gemini Drops Hub: gemini.google/gemini-drops💬1🔄5❤️37👀11042📊6⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8224916f9e75a8e1f73ee8bbe709ea2acfde307f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "4) Set up your digital avatars to use with Nano Banana\n\nSet up your digital avatar in Gemini once, a...",
-      "url": "https://x.com/GeminiApp/status/2083233598224977942",
-      "published_at": "2026-07-31T16:49:29Z",
-      "summary": "4) Set up your digital avatars to use with Nano Banana Set up your digital avatar in Gemini once, and you can seamlessly create custom images or videos of yourself without having to upload a selfie as your reference image.Your browser does not support the video tag.🔗 View on Twit…"
-    },
-    {
-      "id": "35b9f0fd223a40a2c4990921de0a19c9f993f305",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "5) Connect more apps in Gemini to make your life easier\n\nNow you can connect even more apps in Gemin...",
-      "url": "https://x.com/GeminiApp/status/2083233600238166100",
-      "published_at": "2026-07-31T16:49:29Z",
-      "summary": "5) Connect more apps in Gemini to make your life easier Now you can connect even more apps in Gemini like @Dropbox, @Viator, and @Zillow to easily organize your files, book tours and activities, and search for your next apartment rental.Your browser does not support the video tag…"
-    },
-    {
-      "id": "4afcc8faa97c09b1c7d5402de48a170036ce8ded",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "2) Access Gemini Spark in more countries and languages\n\nNow even more people across the world can us...",
-      "url": "https://x.com/GeminiApp/status/2083233594395517183",
-      "published_at": "2026-07-31T16:49:28Z",
-      "summary": "2) Access Gemini Spark in more countries and languages Now even more people across the world can use Gemini Spark as their 24/7 personal AI agent to get things done more efficiently.Your browser does not support the video tag.🔗 View on Twitter💬7🔄8❤️89👀8404📊17⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "bb8d7777d165ae8fdc321be784038b37a575e6a5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "3) Try Gemini 3.6 Flash & 3.5 Flash-Lite\n\nUpgraded versions of our Flash and Flash-Lite models are n...",
-      "url": "https://x.com/GeminiApp/status/2083233596362600840",
-      "published_at": "2026-07-31T16:49:28Z",
-      "summary": "3) Try Gemini 3.6 Flash & 3.5 Flash-Lite Upgraded versions of our Flash and Flash-Lite models are now available, bringing better reasoning at greater speeds. Try them by selecting “3.6 Flash” or “3.5 Flash-Lite” from the model dropdown menu at gemini.google or in the app.Your bro…"
-    },
-    {
-      "id": "f6b59599cbc9f838431051e99d070b5cc51c68df",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "1) Use your voice in the Gemini app for macOS\n\nDictate, summarize files, and rewrite copy directly i...",
-      "url": "https://x.com/GeminiApp/status/2083233592512233803",
-      "published_at": "2026-07-31T16:49:27Z",
-      "summary": "1) Use your voice in the Gemini app for macOS Dictate, summarize files, and rewrite copy directly into any window with your voice in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twitter💬7🔄7❤️85👀9090📊16⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "70c43633472f8394dc9c68dcdfde5915337c2ee6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile...",
-      "url": "https://x.com/GeminiApp/status/2083232971197456452",
-      "published_at": "2026-07-31T16:46:59Z",
-      "summary": "This month’s Gemini Drops brings even more intelligence and agentic power to your desktop and mobile experience. Let's dive into what's new in this 🧵💬64🔄71❤️665👀212985📊145⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c692e95650d4c2b9aa4132bd7441c4979eeed88a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️\n\n— Gemini Robotics 2 from @GoogleDeepmi...",
-      "url": "https://x.com/GoogleAI/status/2083221445375668654",
-      "published_at": "2026-07-31T16:01:11Z",
-      "summary": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️ — Gemini Robotics 2 from @GoogleDeepmind brings whole-body intelligence to robots — Gemini 3.5 Flash-Lite is our fastest, most cost-effective model optimized for high-speed agentic workflows — Gemini 3.6 Flash delivers…"
+      "summary": "More info on where Gemini Spark is available here: goo.gle/4fc7349💬11🔄5❤️68👀23908📊19⚡ Powered by xgo.ing"
     }
   ]
 }
