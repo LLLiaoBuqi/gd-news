@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T01:06:02.621829Z",
+  "generated_at": "2026-08-02T04:50:12.619843Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 318,
+      "duration_ms": 140,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 34,
+      "duration_ms": 38,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1573,
+      "duration_ms": 1878,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1123,
+      "duration_ms": 1219,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 974,
+      "duration_ms": 1124,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 532,
+      "duration_ms": 907,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 766,
+      "duration_ms": 728,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 41,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2408,
+      "duration_ms": 2453,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1037,
+      "duration_ms": 1133,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "d3e07bd1f4e342833460f141d8c5afeda41fe4d1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Karpathy去了 Anthropic 以后，第一次发长帖。\n\n他想了一个新的测试，就是摆脱那种靠画“骑着自行车的鹈鹕”之类的测试方式，给了 Opus 5 大概 100 万个 Token 的预算，要...",
+          "url": "https://x.com/op7418/status/2083764056994017647",
+          "published_at": "2026-08-02T03:57:20Z",
+          "summary": "Karpathy去了 Anthropic 以后，第一次发长帖。 他想了一个新的测试，就是摆脱那种靠画“骑着自行车的鹈鹕”之类的测试方式，给了 Opus 5 大概 100 万个 Token 的预算，要求它生成三个渲染版本去讲述《指环王》的故事。然后 Opus 5 给他整了一个 3D 的出来。 不过他提到，这中间确实暴露了一个很大的问题： 在生成这种内容的时候，AI 没有办法很清楚地感知到自己的工作，因为它没办法直接看到内容本身，只能一段一段地去截图，也没办法连续地感知到截图中间的状态。所以，这确实是个问题。Andrej Karpathy@karpathyW…"
+        },
         {
           "id": "34d4f7a5dcb1c6218357ec96fd842d600212e554",
           "site_id": "featuredrss",
@@ -222,7 +233,7 @@
           "title": "重置！",
           "url": "https://x.com/op7418/status/2083434423564009647",
           "published_at": "2026-08-01T06:07:29Z",
-          "summary": "重置！Tibo@thsottiauxTo celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.🔗 View Quoted Tweet💬7🔄0❤️13👀8448📊6⚡ Powered by xgo.ing"
+          "summary": "重置！Tibo@thsottiauxTo celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.🔗 View Quoted Tweet💬7🔄0❤️13👀8839📊6⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -239,6 +250,17 @@
     }
   },
   "items": [
+    {
+      "id": "d3e07bd1f4e342833460f141d8c5afeda41fe4d1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Karpathy去了 Anthropic 以后，第一次发长帖。\n\n他想了一个新的测试，就是摆脱那种靠画“骑着自行车的鹈鹕”之类的测试方式，给了 Opus 5 大概 100 万个 Token 的预算，要...",
+      "url": "https://x.com/op7418/status/2083764056994017647",
+      "published_at": "2026-08-02T03:57:20Z",
+      "summary": "Karpathy去了 Anthropic 以后，第一次发长帖。 他想了一个新的测试，就是摆脱那种靠画“骑着自行车的鹈鹕”之类的测试方式，给了 Opus 5 大概 100 万个 Token 的预算，要求它生成三个渲染版本去讲述《指环王》的故事。然后 Opus 5 给他整了一个 3D 的出来。 不过他提到，这中间确实暴露了一个很大的问题： 在生成这种内容的时候，AI 没有办法很清楚地感知到自己的工作，因为它没办法直接看到内容本身，只能一段一段地去截图，也没办法连续地感知到截图中间的状态。所以，这确实是个问题。Andrej Karpathy@karpathyW…"
+    },
     {
       "id": "34d4f7a5dcb1c6218357ec96fd842d600212e554",
       "site_id": "featuredrss",
@@ -270,7 +292,7 @@
       "title": "重置！",
       "url": "https://x.com/op7418/status/2083434423564009647",
       "published_at": "2026-08-01T06:07:29Z",
-      "summary": "重置！Tibo@thsottiauxTo celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.🔗 View Quoted Tweet💬7🔄0❤️13👀8448📊6⚡ Powered by xgo.ing"
+      "summary": "重置！Tibo@thsottiauxTo celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.🔗 View Quoted Tweet💬7🔄0❤️13👀8839📊6⚡ Powered by xgo.ing"
     }
   ]
 }
