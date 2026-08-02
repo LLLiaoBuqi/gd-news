@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T11:12:29.973245Z",
+  "generated_at": "2026-08-02T12:33:59.506315Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 272,
+      "duration_ms": 808,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 32,
+      "duration_ms": 25,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1876,
+      "duration_ms": 1603,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1379,
+      "duration_ms": 926,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 761,
+      "duration_ms": 762,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 669,
+      "duration_ms": 1194,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1264,
+      "duration_ms": 748,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 16,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2895,
+      "duration_ms": 2252,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1373,
+      "duration_ms": 382,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "Codepilot 0.63.0 版本更新\n\n现在可以将你用 AI 生成的任何内容加入素材库了\n\n比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入...",
           "url": "https://x.com/op7418/status/2083827624070234507",
           "published_at": "2026-08-02T08:09:55Z",
-          "summary": "Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库了 比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入素材库了，还能给素材打标签 同时适配了 Deepseek V4 Flash 0731，增加了可选的推理强度 github.com/op7418/CodePil…💬8🔄1❤️18👀4824📊10⚡ Powered by xgo.ing"
+          "summary": "Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库了 比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入素材库了，还能给素材打标签 同时适配了 Deepseek V4 Flash 0731，增加了可选的推理强度 github.com/op7418/CodePil…💬12🔄1❤️19👀5384📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "d3e07bd1f4e342833460f141d8c5afeda41fe4d1",
@@ -223,17 +223,6 @@
           "url": "https://x.com/op7418/status/2083579533391777935",
           "published_at": "2026-08-01T15:44:06Z",
           "summary": "OpenAI 感觉翻身了啊，已经在预热他们的下一代模型Astra。 他们用这个模型解决了 10 个至少存在了十年的数学问题。 这些问题如果是数学家解决的话，感觉这数学家已经相当牛逼了； 而解决这一堆非常难的问题，算力成本居然只有 2000 美元。 Sam 亲自飞到华盛顿去跟美国政府沟通这个模型的发布，感觉这玩意儿会很顶，不知道是 GPT-6 还是 GPT-5.7Sebastien Bubeck@SebastienBubeckyes, nonsofic groups exist: this statement is one of many new beau…"
-        },
-        {
-          "id": "cd556a9eb1f58586878b27f650105f32c9f9f0cf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "AI视频进入精细调度模式，小云雀把Seedance 2.5玩明白了。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497972&idx=1&sn=355fa31a6215d41abe073c8c8ce0830d",
-          "published_at": "2026-08-01T11:15:00Z",
-          "summary": "新模型、各项功能与工作流全面体验。"
         }
       ]
     },
@@ -259,7 +248,7 @@
       "title": "Codepilot 0.63.0 版本更新\n\n现在可以将你用 AI 生成的任何内容加入素材库了\n\n比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入...",
       "url": "https://x.com/op7418/status/2083827624070234507",
       "published_at": "2026-08-02T08:09:55Z",
-      "summary": "Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库了 比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入素材库了，还能给素材打标签 同时适配了 Deepseek V4 Flash 0731，增加了可选的推理强度 github.com/op7418/CodePil…💬8🔄1❤️18👀4824📊10⚡ Powered by xgo.ing"
+      "summary": "Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库了 比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入素材库了，还能给素材打标签 同时适配了 Deepseek V4 Flash 0731，增加了可选的推理强度 github.com/op7418/CodePil…💬12🔄1❤️19👀5384📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "d3e07bd1f4e342833460f141d8c5afeda41fe4d1",
@@ -282,17 +271,6 @@
       "url": "https://x.com/op7418/status/2083579533391777935",
       "published_at": "2026-08-01T15:44:06Z",
       "summary": "OpenAI 感觉翻身了啊，已经在预热他们的下一代模型Astra。 他们用这个模型解决了 10 个至少存在了十年的数学问题。 这些问题如果是数学家解决的话，感觉这数学家已经相当牛逼了； 而解决这一堆非常难的问题，算力成本居然只有 2000 美元。 Sam 亲自飞到华盛顿去跟美国政府沟通这个模型的发布，感觉这玩意儿会很顶，不知道是 GPT-6 还是 GPT-5.7Sebastien Bubeck@SebastienBubeckyes, nonsofic groups exist: this statement is one of many new beau…"
-    },
-    {
-      "id": "cd556a9eb1f58586878b27f650105f32c9f9f0cf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "AI视频进入精细调度模式，小云雀把Seedance 2.5玩明白了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247497972&idx=1&sn=355fa31a6215d41abe073c8c8ce0830d",
-      "published_at": "2026-08-01T11:15:00Z",
-      "summary": "新模型、各项功能与工作流全面体验。"
     }
   ]
 }
