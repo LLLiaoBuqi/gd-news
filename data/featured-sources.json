@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T15:23:10.685871Z",
+  "generated_at": "2026-08-03T17:23:17.545875Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 321,
+      "duration_ms": 644,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 29,
+      "duration_ms": 30,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1813,
+      "duration_ms": 1666,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1402,
+      "duration_ms": 1046,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 834,
+      "duration_ms": 741,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1142,
+      "duration_ms": 951,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 733,
+      "duration_ms": 402,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 33,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2542,
+      "duration_ms": 2374,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1436,
+      "duration_ms": 579,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。",
           "url": "https://x.com/op7418/status/2084178368564731996",
           "published_at": "2026-08-03T07:23:39Z",
-          "summary": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。歸藏(guizang.ai)@op7418Qwen3.8-Max 正式上了🔗 View Quoted Tweet💬37🔄0❤️14👀11365📊25⚡ Powered by xgo.ing"
+          "summary": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。歸藏(guizang.ai)@op7418Qwen3.8-Max 正式上了🔗 View Quoted Tweet💬39🔄0❤️14👀12241📊27⚡ Powered by xgo.ing"
         },
         {
           "id": "10fe3063671fbf4128dbab92831cf9ea3acf9e01",
@@ -222,7 +222,7 @@
           "title": "MiniMax H3 已经开源",
           "url": "https://x.com/op7418/status/2084120898429407464",
           "published_at": "2026-08-03T03:35:17Z",
-          "summary": "MiniMax H3 已经开源MiniMax (official)@MiniMax_AIMiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Mini…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬37🔄1❤️21👀9532📊26⚡ Powered by xgo.ing"
+          "summary": "MiniMax H3 已经开源MiniMax (official)@MiniMax_AIMiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Mini…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬40🔄1❤️21👀10015📊29⚡ Powered by xgo.ing"
         },
         {
           "id": "ac2d285988608f5bd3e736d2a84e54bdb901f8b7",
@@ -234,28 +234,6 @@
           "url": "https://x.com/op7418/status/2084120798646988947",
           "published_at": "2026-08-03T03:34:54Z",
           "summary": "Qwen3.8-Max 正式上了Qwen@Alibaba_Qwen📢Meet Qwen3.8-Max — our most capable model to date. Next week, the open weights of Qwen3.8-Max will be released, and Qwen3.8-27B is also going open-weights to meet you all!🎉 Qwen3.8-Max, a new bar for coding and cowork at 2.4T parameters: - Autono…"
-        },
-        {
-          "id": "7f745ec7883662412d8b5f42593b1c3ed6a40538",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "可能很多朋友不知道，Code Pilot 是全平台的一个软件。\n\n而且支持 Cloud Code、AI SDK 和 CodeX 三种 Agent 框架的切换，以及市面上所有主流和常见 Token Pl...",
-          "url": "https://x.com/op7418/status/2083958428045820092",
-          "published_at": "2026-08-02T16:49:41Z",
-          "summary": "可能很多朋友不知道，Code Pilot 是全平台的一个软件。 而且支持 Cloud Code、AI SDK 和 CodeX 三种 Agent 框架的切换，以及市面上所有主流和常见 Token Plan 的使用，还有各种自己做的特殊功能。 前段时间上这个版本重构的时候，短暂地去掉了 Linux 版本的构建，0.64.0 现在 Linux 版本已经重新加入了。 各位 Linux 用户，如果不知道用啥 Agent 的，可以试试。歸藏(guizang.ai)@op7418Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库…"
-        },
-        {
-          "id": "52f913626443ea873bd6f9692f7af5028d392a64",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "补一张，这个风格的金色和黑色真是出彩",
-          "url": "https://x.com/op7418/status/2083948196422906312",
-          "published_at": "2026-08-02T16:09:02Z",
-          "summary": "补一张，这个风格的金色和黑色真是出彩💬3🔄0❤️7👀2787📊3⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -292,7 +270,7 @@
       "title": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。",
       "url": "https://x.com/op7418/status/2084178368564731996",
       "published_at": "2026-08-03T07:23:39Z",
-      "summary": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。歸藏(guizang.ai)@op7418Qwen3.8-Max 正式上了🔗 View Quoted Tweet💬37🔄0❤️14👀11365📊25⚡ Powered by xgo.ing"
+      "summary": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。歸藏(guizang.ai)@op7418Qwen3.8-Max 正式上了🔗 View Quoted Tweet💬39🔄0❤️14👀12241📊27⚡ Powered by xgo.ing"
     },
     {
       "id": "10fe3063671fbf4128dbab92831cf9ea3acf9e01",
@@ -303,7 +281,7 @@
       "title": "MiniMax H3 已经开源",
       "url": "https://x.com/op7418/status/2084120898429407464",
       "published_at": "2026-08-03T03:35:17Z",
-      "summary": "MiniMax H3 已经开源MiniMax (official)@MiniMax_AIMiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Mini…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬37🔄1❤️21👀9532📊26⚡ Powered by xgo.ing"
+      "summary": "MiniMax H3 已经开源MiniMax (official)@MiniMax_AIMiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Mini…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬40🔄1❤️21👀10015📊29⚡ Powered by xgo.ing"
     },
     {
       "id": "ac2d285988608f5bd3e736d2a84e54bdb901f8b7",
@@ -315,28 +293,6 @@
       "url": "https://x.com/op7418/status/2084120798646988947",
       "published_at": "2026-08-03T03:34:54Z",
       "summary": "Qwen3.8-Max 正式上了Qwen@Alibaba_Qwen📢Meet Qwen3.8-Max — our most capable model to date. Next week, the open weights of Qwen3.8-Max will be released, and Qwen3.8-27B is also going open-weights to meet you all!🎉 Qwen3.8-Max, a new bar for coding and cowork at 2.4T parameters: - Autono…"
-    },
-    {
-      "id": "7f745ec7883662412d8b5f42593b1c3ed6a40538",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "可能很多朋友不知道，Code Pilot 是全平台的一个软件。\n\n而且支持 Cloud Code、AI SDK 和 CodeX 三种 Agent 框架的切换，以及市面上所有主流和常见 Token Pl...",
-      "url": "https://x.com/op7418/status/2083958428045820092",
-      "published_at": "2026-08-02T16:49:41Z",
-      "summary": "可能很多朋友不知道，Code Pilot 是全平台的一个软件。 而且支持 Cloud Code、AI SDK 和 CodeX 三种 Agent 框架的切换，以及市面上所有主流和常见 Token Plan 的使用，还有各种自己做的特殊功能。 前段时间上这个版本重构的时候，短暂地去掉了 Linux 版本的构建，0.64.0 现在 Linux 版本已经重新加入了。 各位 Linux 用户，如果不知道用啥 Agent 的，可以试试。歸藏(guizang.ai)@op7418Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库…"
-    },
-    {
-      "id": "52f913626443ea873bd6f9692f7af5028d392a64",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "补一张，这个风格的金色和黑色真是出彩",
-      "url": "https://x.com/op7418/status/2083948196422906312",
-      "published_at": "2026-08-02T16:09:02Z",
-      "summary": "补一张，这个风格的金色和黑色真是出彩💬3🔄0❤️7👀2787📊3⚡ Powered by xgo.ing"
     }
   ]
 }
