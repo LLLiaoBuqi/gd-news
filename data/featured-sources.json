@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:15:24.121651Z",
+  "generated_at": "2026-08-03T15:23:10.685871Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 6,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 172,
+      "duration_ms": 321,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 29,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1805,
+      "duration_ms": 1813,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1399,
+      "duration_ms": 1402,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1319,
+      "duration_ms": 834,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1251,
+      "duration_ms": 1142,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 645,
+      "duration_ms": 733,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 23,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2363,
+      "duration_ms": 2542,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1090,
+      "duration_ms": 1436,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -192,6 +192,17 @@
       ],
       "items": [
         {
+          "id": "d5eabe0a0bd0fd45e0421f8475409330358d4e6a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "分享2个让Codex和Claude跨机器共用记忆技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509140&idx=1&sn=26de4481384e590e60ac0b7079dd4a5d",
+          "published_at": "2026-08-03T08:57:00Z",
+          "summary": "卡尔的AI沃茨 2026-08-03 16:57 浙江 刚买了第三台mac mini，是时候整理一下跨多台机器跨codex、claude code等Agent的记忆管理方案了。全部塞Agent.md的话上下文包爆炸的，你去X上搜会看到8月份Agent知识管理又多了很多词，分层记忆，时序图谱，Dreaming，CMEM，Mem0，Graphiti。 都安装下来发现重叠率太高，太难稳定在三台机器生效了。我烧了一周的codex额度做了个新方案，claude-mem负责本地记忆捕获，Mem0 负责跨设备共享。 claude-mem这个开源项目可以通过hook自动…"
+        },
+        {
           "id": "832ed81a42413c826b559ed0b39378232a4cdb94",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -200,7 +211,7 @@
           "title": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。",
           "url": "https://x.com/op7418/status/2084178368564731996",
           "published_at": "2026-08-03T07:23:39Z",
-          "summary": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。歸藏(guizang.ai)@op7418Qwen3.8-Max 正式上了🔗 View Quoted Tweet💬26🔄0❤️14👀9440📊18⚡ Powered by xgo.ing"
+          "summary": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。歸藏(guizang.ai)@op7418Qwen3.8-Max 正式上了🔗 View Quoted Tweet💬37🔄0❤️14👀11365📊25⚡ Powered by xgo.ing"
         },
         {
           "id": "10fe3063671fbf4128dbab92831cf9ea3acf9e01",
@@ -211,7 +222,7 @@
           "title": "MiniMax H3 已经开源",
           "url": "https://x.com/op7418/status/2084120898429407464",
           "published_at": "2026-08-03T03:35:17Z",
-          "summary": "MiniMax H3 已经开源MiniMax (official)@MiniMax_AIMiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Mini…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬28🔄1❤️18👀8529📊20⚡ Powered by xgo.ing"
+          "summary": "MiniMax H3 已经开源MiniMax (official)@MiniMax_AIMiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Mini…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬37🔄1❤️21👀9532📊26⚡ Powered by xgo.ing"
         },
         {
           "id": "ac2d285988608f5bd3e736d2a84e54bdb901f8b7",
@@ -244,18 +255,7 @@
           "title": "补一张，这个风格的金色和黑色真是出彩",
           "url": "https://x.com/op7418/status/2083948196422906312",
           "published_at": "2026-08-02T16:09:02Z",
-          "summary": "补一张，这个风格的金色和黑色真是出彩💬3🔄0❤️7👀2681📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "63dd404f900069776bd4b6e23b3aae81b1afa15d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "玩玩 Midjourney",
-          "url": "https://x.com/op7418/status/2083921281951617148",
-          "published_at": "2026-08-02T14:22:05Z",
-          "summary": "玩玩 Midjourney💬6🔄0❤️50👀14062📊11⚡ Powered by xgo.ing"
+          "summary": "补一张，这个风格的金色和黑色真是出彩💬3🔄0❤️7👀2787📊3⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -273,6 +273,17 @@
   },
   "items": [
     {
+      "id": "d5eabe0a0bd0fd45e0421f8475409330358d4e6a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "分享2个让Codex和Claude跨机器共用记忆技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509140&idx=1&sn=26de4481384e590e60ac0b7079dd4a5d",
+      "published_at": "2026-08-03T08:57:00Z",
+      "summary": "卡尔的AI沃茨 2026-08-03 16:57 浙江 刚买了第三台mac mini，是时候整理一下跨多台机器跨codex、claude code等Agent的记忆管理方案了。全部塞Agent.md的话上下文包爆炸的，你去X上搜会看到8月份Agent知识管理又多了很多词，分层记忆，时序图谱，Dreaming，CMEM，Mem0，Graphiti。 都安装下来发现重叠率太高，太难稳定在三台机器生效了。我烧了一周的codex额度做了个新方案，claude-mem负责本地记忆捕获，Mem0 负责跨设备共享。 claude-mem这个开源项目可以通过hook自动…"
+    },
+    {
       "id": "832ed81a42413c826b559ed0b39378232a4cdb94",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -281,7 +292,7 @@
       "title": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。",
       "url": "https://x.com/op7418/status/2084178368564731996",
       "published_at": "2026-08-03T07:23:39Z",
-      "summary": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。歸藏(guizang.ai)@op7418Qwen3.8-Max 正式上了🔗 View Quoted Tweet💬26🔄0❤️14👀9440📊18⚡ Powered by xgo.ing"
+      "summary": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。歸藏(guizang.ai)@op7418Qwen3.8-Max 正式上了🔗 View Quoted Tweet💬37🔄0❤️14👀11365📊25⚡ Powered by xgo.ing"
     },
     {
       "id": "10fe3063671fbf4128dbab92831cf9ea3acf9e01",
@@ -292,7 +303,7 @@
       "title": "MiniMax H3 已经开源",
       "url": "https://x.com/op7418/status/2084120898429407464",
       "published_at": "2026-08-03T03:35:17Z",
-      "summary": "MiniMax H3 已经开源MiniMax (official)@MiniMax_AIMiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Mini…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬28🔄1❤️18👀8529📊20⚡ Powered by xgo.ing"
+      "summary": "MiniMax H3 已经开源MiniMax (official)@MiniMax_AIMiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Mini…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬37🔄1❤️21👀9532📊26⚡ Powered by xgo.ing"
     },
     {
       "id": "ac2d285988608f5bd3e736d2a84e54bdb901f8b7",
@@ -325,18 +336,7 @@
       "title": "补一张，这个风格的金色和黑色真是出彩",
       "url": "https://x.com/op7418/status/2083948196422906312",
       "published_at": "2026-08-02T16:09:02Z",
-      "summary": "补一张，这个风格的金色和黑色真是出彩💬3🔄0❤️7👀2681📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "63dd404f900069776bd4b6e23b3aae81b1afa15d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "玩玩 Midjourney",
-      "url": "https://x.com/op7418/status/2083921281951617148",
-      "published_at": "2026-08-02T14:22:05Z",
-      "summary": "玩玩 Midjourney💬6🔄0❤️50👀14062📊11⚡ Powered by xgo.ing"
+      "summary": "补一张，这个风格的金色和黑色真是出彩💬3🔄0❤️7👀2787📊3⚡ Powered by xgo.ing"
     }
   ]
 }
