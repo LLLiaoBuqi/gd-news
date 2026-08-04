@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T20:07:38.150695Z",
+  "generated_at": "2026-08-04T21:46:17.653460Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 547,
+      "duration_ms": 551,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 27,
+      "duration_ms": 88,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1586,
+      "duration_ms": 1943,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1037,
+      "duration_ms": 1186,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1013,
+      "duration_ms": 939,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 903,
+      "duration_ms": 488,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 399,
+      "duration_ms": 1433,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 52,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2233,
+      "duration_ms": 2122,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1448,
+      "duration_ms": 1109,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "昨天的夕阳相当带劲了",
           "url": "https://x.com/op7418/status/2084667826200305810",
           "published_at": "2026-08-04T15:48:35Z",
-          "summary": "昨天的夕阳相当带劲了💬2🔄0❤️6👀2139📊3⚡ Powered by xgo.ing"
+          "summary": "昨天的夕阳相当带劲了💬5🔄0❤️6👀2345📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
@@ -261,7 +261,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -269,6 +269,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "aa1a4e04512c0f56c46de793f2535c5d5ca68f3b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We're detailing two new incidents that occurred during external cyber evaluations conducted by indep...",
+          "url": "https://x.com/OpenAI/status/2084747580693426555",
+          "published_at": "2026-08-04T21:05:30Z",
+          "summary": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners. We outline what happened, how the activity was contained, and how we’re working with evaluators to strengthen our approach to third-party testing. opena…"
+        },
         {
           "id": "4816db7638e00a0576e8592ca1134266ebfc584b",
           "site_id": "featuredrss",
@@ -278,7 +289,7 @@
           "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
           "url": "https://x.com/GeminiApp/status/2084695279870357720",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬36🔄21❤️318👀25769📊68⚡ Powered by xgo.ing"
+          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬52🔄41❤️533👀44191📊113⚡ Powered by xgo.ing"
         },
         {
           "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -289,56 +300,23 @@
           "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
           "url": "https://x.com/GeminiApp/status/2084695281174807015",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬6🔄1❤️14👀5307📊7⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1a5dead0f7f6a9ceabcad92fb8be6b601059a571",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously...",
-          "url": "https://x.com/OpenAI/status/2084378417320141196",
-          "published_at": "2026-08-03T20:38:35Z",
-          "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬31🔄53❤️956👀206727📊134⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8425af3936b6ebe7216f56273bf7cfb39001e529",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session start...",
-          "url": "https://x.com/OpenAI/status/2084378418989379822",
-          "published_at": "2026-08-03T20:38:35Z",
-          "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬33🔄43❤️736👀91881📊127⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "2f245139bdb8e5b307f00b1863ea3aea1db567a1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-Live can listen while it speaks.\n\nTo make that feel natural at ChatGPT scale, we rebuilt the voi...",
-          "url": "https://x.com/OpenAI/status/2084378415818579975",
-          "published_at": "2026-08-03T20:38:34Z",
-          "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬477🔄814❤️9604👀1005307📊1712⚡…"
-        },
-        {
-          "id": "019c058f445d026a256c441aec3dd9c3afa60378",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇\n\nReminder: Free use...",
-          "url": "https://x.com/GeminiApp/status/2084373337380356177",
-          "published_at": "2026-08-03T20:18:24Z",
-          "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬92🔄45❤️788👀102061📊170⚡ Powered by xgo.ing"
+          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬6🔄1❤️24👀7714📊8⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "aa1a4e04512c0f56c46de793f2535c5d5ca68f3b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We're detailing two new incidents that occurred during external cyber evaluations conducted by indep...",
+      "url": "https://x.com/OpenAI/status/2084747580693426555",
+      "published_at": "2026-08-04T21:05:30Z",
+      "summary": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners. We outline what happened, how the activity was contained, and how we’re working with evaluators to strengthen our approach to third-party testing. opena…"
+    },
     {
       "id": "4816db7638e00a0576e8592ca1134266ebfc584b",
       "site_id": "featuredrss",
@@ -348,7 +326,7 @@
       "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
       "url": "https://x.com/GeminiApp/status/2084695279870357720",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬36🔄21❤️318👀25769📊68⚡ Powered by xgo.ing"
+      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬52🔄41❤️533👀44191📊113⚡ Powered by xgo.ing"
     },
     {
       "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -359,7 +337,7 @@
       "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
       "url": "https://x.com/GeminiApp/status/2084695281174807015",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬6🔄1❤️14👀5307📊7⚡ Powered by xgo.ing"
+      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬6🔄1❤️24👀7714📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "03b57ea9267cc29d5acfcff711d911aa8852ae01",
@@ -370,7 +348,7 @@
       "title": "昨天的夕阳相当带劲了",
       "url": "https://x.com/op7418/status/2084667826200305810",
       "published_at": "2026-08-04T15:48:35Z",
-      "summary": "昨天的夕阳相当带劲了💬2🔄0❤️6👀2139📊3⚡ Powered by xgo.ing"
+      "summary": "昨天的夕阳相当带劲了💬5🔄0❤️6👀2345📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
@@ -426,50 +404,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
       "published_at": "2026-08-04T00:06:00Z",
       "summary": "你上你也行"
-    },
-    {
-      "id": "1a5dead0f7f6a9ceabcad92fb8be6b601059a571",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously...",
-      "url": "https://x.com/OpenAI/status/2084378417320141196",
-      "published_at": "2026-08-03T20:38:35Z",
-      "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬31🔄53❤️956👀206727📊134⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8425af3936b6ebe7216f56273bf7cfb39001e529",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session start...",
-      "url": "https://x.com/OpenAI/status/2084378418989379822",
-      "published_at": "2026-08-03T20:38:35Z",
-      "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬33🔄43❤️736👀91881📊127⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2f245139bdb8e5b307f00b1863ea3aea1db567a1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-Live can listen while it speaks.\n\nTo make that feel natural at ChatGPT scale, we rebuilt the voi...",
-      "url": "https://x.com/OpenAI/status/2084378415818579975",
-      "published_at": "2026-08-03T20:38:34Z",
-      "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬477🔄814❤️9604👀1005307📊1712⚡…"
-    },
-    {
-      "id": "019c058f445d026a256c441aec3dd9c3afa60378",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇\n\nReminder: Free use...",
-      "url": "https://x.com/GeminiApp/status/2084373337380356177",
-      "published_at": "2026-08-03T20:18:24Z",
-      "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬92🔄45❤️788👀102061📊170⚡ Powered by xgo.ing"
     }
   ]
 }
