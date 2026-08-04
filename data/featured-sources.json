@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T10:30:09.136807Z",
+  "generated_at": "2026-08-04T12:26:36.744698Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 147,
+      "duration_ms": 558,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 20,
+      "duration_ms": 28,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2001,
+      "duration_ms": 1734,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1304,
+      "duration_ms": 1335,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1115,
+      "duration_ms": 1030,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 649,
+      "duration_ms": 417,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 747,
+      "duration_ms": 935,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 11,
+      "duration_ms": 18,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2758,
+      "duration_ms": 2292,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1042,
+      "duration_ms": 1460,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "83038a2338da9b51c25c8c7b8f73e33a4242f906",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "OpenAI 发了一篇文章，回应苹果关于窃取商业机密的诉讼，没想到苹果这么草台。\n\n苹果声称今年 2 月份联系过 OpenAI 但没有收到回应。后来发现，是苹果的律师把两个亚洲姓氏搞混，把邮件发错人了...",
+          "url": "https://x.com/op7418/status/2084597706375487554",
+          "published_at": "2026-08-04T11:09:57Z",
+          "summary": "OpenAI 发了一篇文章，回应苹果关于窃取商业机密的诉讼，没想到苹果这么草台。 苹果声称今年 2 月份联系过 OpenAI 但没有收到回应。后来发现，是苹果的律师把两个亚洲姓氏搞混，把邮件发错人了。 苹果还声称和 OpenAI 的总法律顾问通过话，但其实根本没有，完全是骗人的。 之后苹果沉默了 5 个月，突然就提起了诉讼。 苹果指控其前员工在离职后访问机密信息。但事实是，苹果在职的员工主动联系这位前员工，请他帮忙寻找对应的文件，她这才进行了访问。 这一堆操作下来太搞笑了OpenAI Newsroom@OpenAINewsroomApple is get…"
+        },
+        {
+          "id": "e70f2a9d98d8db2b49fb23e444440e38f4c47c05",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "MiniMax H3商用场景实测，这个质量和价格都太美好了！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498017&idx=1&sn=e23027a3cc1f35a6563940061cda270b",
+          "published_at": "2026-08-04T09:57:00Z",
+          "summary": "平价、开源，商用级，六边形战士MiniMax H3来了。"
+        },
+        {
+          "id": "7ca04d1a79b5040d3236631cc796c092822ea3b3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "6大真实场景实测Qwen3.8正式版，2.4万亿参数1周全开源",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509142&idx=1&sn=b144dcb0dd206fa1ab5243548a9f36c1",
+          "published_at": "2026-08-04T01:42:00Z",
+          "summary": "好用的模型超级➕1"
+        },
         {
           "id": "e7c889a086551bf4b2abda6323476c78d5c4dd0d",
           "site_id": "featuredrss",
@@ -223,7 +256,7 @@
           "title": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously...",
           "url": "https://x.com/OpenAI/status/2084378417320141196",
           "published_at": "2026-08-03T20:38:35Z",
-          "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬22🔄34❤️785👀143182📊102⚡ Powered by xgo.ing"
+          "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬24🔄40❤️837👀163074📊111⚡ Powered by xgo.ing"
         },
         {
           "id": "8425af3936b6ebe7216f56273bf7cfb39001e529",
@@ -234,7 +267,7 @@
           "title": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session start...",
           "url": "https://x.com/OpenAI/status/2084378418989379822",
           "published_at": "2026-08-03T20:38:35Z",
-          "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬30🔄34❤️639👀77383📊108⚡ Powered by xgo.ing"
+          "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬30🔄40❤️663👀81507📊113⚡ Powered by xgo.ing"
         },
         {
           "id": "2f245139bdb8e5b307f00b1863ea3aea1db567a1",
@@ -245,7 +278,7 @@
           "title": "GPT-Live can listen while it speaks.\n\nTo make that feel natural at ChatGPT scale, we rebuilt the voi...",
           "url": "https://x.com/OpenAI/status/2084378415818579975",
           "published_at": "2026-08-03T20:38:34Z",
-          "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬406🔄645❤️7870👀731116📊1405⚡…"
+          "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬424🔄682❤️8269👀796162📊1476⚡…"
         },
         {
           "id": "019c058f445d026a256c441aec3dd9c3afa60378",
@@ -256,7 +289,7 @@
           "title": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇\n\nReminder: Free use...",
           "url": "https://x.com/GeminiApp/status/2084373337380356177",
           "published_at": "2026-08-03T20:18:24Z",
-          "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬74🔄42❤️637👀79379📊138⚡ Powered by xgo.ing"
+          "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬78🔄41❤️674👀84490📊144⚡ Powered by xgo.ing"
         },
         {
           "id": "68176a1600979b03ffb0c28c79292012668b6cb6",
@@ -267,7 +300,7 @@
           "title": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematici...",
           "url": "https://x.com/OpenAI/status/2084352165464903730",
           "published_at": "2026-08-03T18:54:16Z",
-          "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. openai.com/index/ten-adva…💬29🔄56❤️936👀182438📊129⚡ Powered by xgo.ing"
+          "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. openai.com/index/ten-adva…💬29🔄57❤️957👀188435📊131⚡ Powered by xgo.ing"
         },
         {
           "id": "2dd623c2faaed39cd6eaec590d4a4077ca679757",
@@ -278,7 +311,7 @@
           "title": "An internal version of our next major model produced 10 new results on long-standing open problems i...",
           "url": "https://x.com/OpenAI/status/2084352161404920316",
           "published_at": "2026-08-03T18:54:15Z",
-          "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.Your browser does not support the video tag.🔗 View on Twitter💬481🔄824❤…"
+          "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.Your browser does not support the video tag.🔗 View on Twitter💬495🔄844❤…"
         },
         {
           "id": "10927241f033aac956f1831841ccb1e8a76c49c2",
@@ -289,7 +322,7 @@
           "title": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptograp...",
           "url": "https://x.com/OpenAI/status/2084352164156293460",
           "published_at": "2026-08-03T18:54:15Z",
-          "summary": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more. Among them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.💬14🔄21❤️8…"
+          "summary": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more. Among them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.💬14🔄21❤️9…"
         },
         {
           "id": "be5dba0d900c430500e0f409dde7dc1a5d3f79b7",
@@ -306,6 +339,39 @@
     }
   },
   "items": [
+    {
+      "id": "83038a2338da9b51c25c8c7b8f73e33a4242f906",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "OpenAI 发了一篇文章，回应苹果关于窃取商业机密的诉讼，没想到苹果这么草台。\n\n苹果声称今年 2 月份联系过 OpenAI 但没有收到回应。后来发现，是苹果的律师把两个亚洲姓氏搞混，把邮件发错人了...",
+      "url": "https://x.com/op7418/status/2084597706375487554",
+      "published_at": "2026-08-04T11:09:57Z",
+      "summary": "OpenAI 发了一篇文章，回应苹果关于窃取商业机密的诉讼，没想到苹果这么草台。 苹果声称今年 2 月份联系过 OpenAI 但没有收到回应。后来发现，是苹果的律师把两个亚洲姓氏搞混，把邮件发错人了。 苹果还声称和 OpenAI 的总法律顾问通过话，但其实根本没有，完全是骗人的。 之后苹果沉默了 5 个月，突然就提起了诉讼。 苹果指控其前员工在离职后访问机密信息。但事实是，苹果在职的员工主动联系这位前员工，请他帮忙寻找对应的文件，她这才进行了访问。 这一堆操作下来太搞笑了OpenAI Newsroom@OpenAINewsroomApple is get…"
+    },
+    {
+      "id": "e70f2a9d98d8db2b49fb23e444440e38f4c47c05",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "MiniMax H3商用场景实测，这个质量和价格都太美好了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498017&idx=1&sn=e23027a3cc1f35a6563940061cda270b",
+      "published_at": "2026-08-04T09:57:00Z",
+      "summary": "平价、开源，商用级，六边形战士MiniMax H3来了。"
+    },
+    {
+      "id": "7ca04d1a79b5040d3236631cc796c092822ea3b3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "6大真实场景实测Qwen3.8正式版，2.4万亿参数1周全开源",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509142&idx=1&sn=b144dcb0dd206fa1ab5243548a9f36c1",
+      "published_at": "2026-08-04T01:42:00Z",
+      "summary": "好用的模型超级➕1"
+    },
     {
       "id": "e7c889a086551bf4b2abda6323476c78d5c4dd0d",
       "site_id": "featuredrss",
@@ -326,7 +392,7 @@
       "title": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously...",
       "url": "https://x.com/OpenAI/status/2084378417320141196",
       "published_at": "2026-08-03T20:38:35Z",
-      "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬22🔄34❤️785👀143182📊102⚡ Powered by xgo.ing"
+      "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬24🔄40❤️837👀163074📊111⚡ Powered by xgo.ing"
     },
     {
       "id": "8425af3936b6ebe7216f56273bf7cfb39001e529",
@@ -337,7 +403,7 @@
       "title": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session start...",
       "url": "https://x.com/OpenAI/status/2084378418989379822",
       "published_at": "2026-08-03T20:38:35Z",
-      "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬30🔄34❤️639👀77383📊108⚡ Powered by xgo.ing"
+      "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬30🔄40❤️663👀81507📊113⚡ Powered by xgo.ing"
     },
     {
       "id": "2f245139bdb8e5b307f00b1863ea3aea1db567a1",
@@ -348,7 +414,7 @@
       "title": "GPT-Live can listen while it speaks.\n\nTo make that feel natural at ChatGPT scale, we rebuilt the voi...",
       "url": "https://x.com/OpenAI/status/2084378415818579975",
       "published_at": "2026-08-03T20:38:34Z",
-      "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬406🔄645❤️7870👀731116📊1405⚡…"
+      "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬424🔄682❤️8269👀796162📊1476⚡…"
     },
     {
       "id": "019c058f445d026a256c441aec3dd9c3afa60378",
@@ -359,7 +425,7 @@
       "title": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇\n\nReminder: Free use...",
       "url": "https://x.com/GeminiApp/status/2084373337380356177",
       "published_at": "2026-08-03T20:18:24Z",
-      "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬74🔄42❤️637👀79379📊138⚡ Powered by xgo.ing"
+      "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬78🔄41❤️674👀84490📊144⚡ Powered by xgo.ing"
     },
     {
       "id": "68176a1600979b03ffb0c28c79292012668b6cb6",
@@ -370,7 +436,7 @@
       "title": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematici...",
       "url": "https://x.com/OpenAI/status/2084352165464903730",
       "published_at": "2026-08-03T18:54:16Z",
-      "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. openai.com/index/ten-adva…💬29🔄56❤️936👀182438📊129⚡ Powered by xgo.ing"
+      "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. openai.com/index/ten-adva…💬29🔄57❤️957👀188435📊131⚡ Powered by xgo.ing"
     },
     {
       "id": "2dd623c2faaed39cd6eaec590d4a4077ca679757",
@@ -381,7 +447,7 @@
       "title": "An internal version of our next major model produced 10 new results on long-standing open problems i...",
       "url": "https://x.com/OpenAI/status/2084352161404920316",
       "published_at": "2026-08-03T18:54:15Z",
-      "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.Your browser does not support the video tag.🔗 View on Twitter💬481🔄824❤…"
+      "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.Your browser does not support the video tag.🔗 View on Twitter💬495🔄844❤…"
     },
     {
       "id": "10927241f033aac956f1831841ccb1e8a76c49c2",
@@ -392,7 +458,7 @@
       "title": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptograp...",
       "url": "https://x.com/OpenAI/status/2084352164156293460",
       "published_at": "2026-08-03T18:54:15Z",
-      "summary": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more. Among them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.💬14🔄21❤️8…"
+      "summary": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more. Among them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.💬14🔄21❤️9…"
     },
     {
       "id": "be5dba0d900c430500e0f409dde7dc1a5d3f79b7",
