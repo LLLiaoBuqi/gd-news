@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T07:39:51.865108Z",
+  "generated_at": "2026-08-04T10:30:09.136807Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 797,
+      "duration_ms": 147,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 25,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1553,
+      "duration_ms": 2001,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1087,
+      "duration_ms": 1304,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 734,
+      "duration_ms": 1115,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 331,
+      "duration_ms": 649,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1133,
+      "duration_ms": 747,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 11,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2312,
+      "duration_ms": 2758,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 630,
+      "duration_ms": 1042,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,34 +201,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
           "published_at": "2026-08-04T00:06:00Z",
           "summary": "你上你也行"
-        },
-        {
-          "id": "d5eabe0a0bd0fd45e0421f8475409330358d4e6a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "分享2个让Codex和Claude跨机器共用记忆技巧",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509140&idx=1&sn=26de4481384e590e60ac0b7079dd4a5d",
-          "published_at": "2026-08-03T08:57:00Z",
-          "summary": "卡尔的AI沃茨 2026-08-03 16:57 浙江 刚买了第三台mac mini，是时候整理一下跨多台机器跨codex、claude code等Agent的记忆管理方案了。全部塞Agent.md的话上下文包爆炸的，你去X上搜会看到8月份Agent知识管理又多了很多词，分层记忆，时序图谱，Dreaming，CMEM，Mem0，Graphiti。 都安装下来发现重叠率太高，太难稳定在三台机器生效了。我烧了一周的codex额度做了个新方案，claude-mem负责本地记忆捕获，Mem0 负责跨设备共享。 claude-mem这个开源项目可以通过hook自动…"
-        },
-        {
-          "id": "b9516fe039835062d66ca6d94b3e534cc393ede9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "体验了两周Robot Phone，这是我第一次觉得手机活过来了。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684861&idx=1&sn=f9469657e0eacfc43eda92dfcb67b3dc",
-          "published_at": "2026-08-03T08:28:00Z",
-          "summary": "手机成精了"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -245,7 +223,7 @@
           "title": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously...",
           "url": "https://x.com/OpenAI/status/2084378417320141196",
           "published_at": "2026-08-03T20:38:35Z",
-          "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬21🔄30❤️706👀112977📊89⚡ Powered by xgo.ing"
+          "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬22🔄34❤️785👀143182📊102⚡ Powered by xgo.ing"
         },
         {
           "id": "8425af3936b6ebe7216f56273bf7cfb39001e529",
@@ -256,7 +234,7 @@
           "title": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session start...",
           "url": "https://x.com/OpenAI/status/2084378418989379822",
           "published_at": "2026-08-03T20:38:35Z",
-          "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬29🔄30❤️600👀70420📊100⚡ Powered by xgo.ing"
+          "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬30🔄34❤️639👀77383📊108⚡ Powered by xgo.ing"
         },
         {
           "id": "2f245139bdb8e5b307f00b1863ea3aea1db567a1",
@@ -267,7 +245,7 @@
           "title": "GPT-Live can listen while it speaks.\n\nTo make that feel natural at ChatGPT scale, we rebuilt the voi...",
           "url": "https://x.com/OpenAI/status/2084378415818579975",
           "published_at": "2026-08-03T20:38:34Z",
-          "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬381🔄586❤️7206👀629114📊1285⚡…"
+          "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬406🔄645❤️7870👀731116📊1405⚡…"
         },
         {
           "id": "019c058f445d026a256c441aec3dd9c3afa60378",
@@ -278,7 +256,7 @@
           "title": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇\n\nReminder: Free use...",
           "url": "https://x.com/GeminiApp/status/2084373337380356177",
           "published_at": "2026-08-03T20:18:24Z",
-          "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬65🔄35❤️555👀69377📊119⚡ Powered by xgo.ing"
+          "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬74🔄42❤️637👀79379📊138⚡ Powered by xgo.ing"
         },
         {
           "id": "68176a1600979b03ffb0c28c79292012668b6cb6",
@@ -289,7 +267,7 @@
           "title": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematici...",
           "url": "https://x.com/OpenAI/status/2084352165464903730",
           "published_at": "2026-08-03T18:54:16Z",
-          "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. openai.com/index/ten-adva…💬27🔄53❤️880👀166793📊120⚡ Powered by xgo.ing"
+          "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. openai.com/index/ten-adva…💬29🔄56❤️936👀182438📊129⚡ Powered by xgo.ing"
         },
         {
           "id": "2dd623c2faaed39cd6eaec590d4a4077ca679757",
@@ -300,7 +278,7 @@
           "title": "An internal version of our next major model produced 10 new results on long-standing open problems i...",
           "url": "https://x.com/OpenAI/status/2084352161404920316",
           "published_at": "2026-08-03T18:54:15Z",
-          "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.Your browser does not support the video tag.🔗 View on Twitter💬462🔄788❤…"
+          "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.Your browser does not support the video tag.🔗 View on Twitter💬481🔄824❤…"
         },
         {
           "id": "10927241f033aac956f1831841ccb1e8a76c49c2",
@@ -312,6 +290,17 @@
           "url": "https://x.com/OpenAI/status/2084352164156293460",
           "published_at": "2026-08-03T18:54:15Z",
           "summary": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more. Among them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.💬14🔄21❤️8…"
+        },
+        {
+          "id": "be5dba0d900c430500e0f409dde7dc1a5d3f79b7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Mathematics helps us understand how traffic moves, how diseases spread, and how cells build proteins...",
+          "url": "https://x.com/OpenAI/status/2084352162956738631",
+          "published_at": "2026-08-03T18:54:15Z",
+          "summary": "Mathematics helps us understand how traffic moves, how diseases spread, and how cells build proteins. It also underpins everyday technologies, from GPS and weather forecasting to medical imaging. Progress in foundational mathematics can ripple across science and technology. These…"
         }
       ]
     }
@@ -337,7 +326,7 @@
       "title": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously...",
       "url": "https://x.com/OpenAI/status/2084378417320141196",
       "published_at": "2026-08-03T20:38:35Z",
-      "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬21🔄30❤️706👀112977📊89⚡ Powered by xgo.ing"
+      "summary": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.💬22🔄34❤️785👀143182📊102⚡ Powered by xgo.ing"
     },
     {
       "id": "8425af3936b6ebe7216f56273bf7cfb39001e529",
@@ -348,7 +337,7 @@
       "title": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session start...",
       "url": "https://x.com/OpenAI/status/2084378418989379822",
       "published_at": "2026-08-03T20:38:35Z",
-      "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬29🔄30❤️600👀70420📊100⚡ Powered by xgo.ing"
+      "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: openai.com/index/continuo…💬30🔄34❤️639👀77383📊108⚡ Powered by xgo.ing"
     },
     {
       "id": "2f245139bdb8e5b307f00b1863ea3aea1db567a1",
@@ -359,7 +348,7 @@
       "title": "GPT-Live can listen while it speaks.\n\nTo make that feel natural at ChatGPT scale, we rebuilt the voi...",
       "url": "https://x.com/OpenAI/status/2084378415818579975",
       "published_at": "2026-08-03T20:38:34Z",
-      "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬381🔄586❤️7206👀629114📊1285⚡…"
+      "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.💬406🔄645❤️7870👀731116📊1405⚡…"
     },
     {
       "id": "019c058f445d026a256c441aec3dd9c3afa60378",
@@ -370,7 +359,7 @@
       "title": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇\n\nReminder: Free use...",
       "url": "https://x.com/GeminiApp/status/2084373337380356177",
       "published_at": "2026-08-03T20:18:24Z",
-      "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬65🔄35❤️555👀69377📊119⚡ Powered by xgo.ing"
+      "summary": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇 Reminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.💬74🔄42❤️637👀79379📊138⚡ Powered by xgo.ing"
     },
     {
       "id": "68176a1600979b03ffb0c28c79292012668b6cb6",
@@ -381,7 +370,7 @@
       "title": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematici...",
       "url": "https://x.com/OpenAI/status/2084352165464903730",
       "published_at": "2026-08-03T18:54:16Z",
-      "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. openai.com/index/ten-adva…💬27🔄53❤️880👀166793📊120⚡ Powered by xgo.ing"
+      "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. openai.com/index/ten-adva…💬29🔄56❤️936👀182438📊129⚡ Powered by xgo.ing"
     },
     {
       "id": "2dd623c2faaed39cd6eaec590d4a4077ca679757",
@@ -392,7 +381,7 @@
       "title": "An internal version of our next major model produced 10 new results on long-standing open problems i...",
       "url": "https://x.com/OpenAI/status/2084352161404920316",
       "published_at": "2026-08-03T18:54:15Z",
-      "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.Your browser does not support the video tag.🔗 View on Twitter💬462🔄788❤…"
+      "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.Your browser does not support the video tag.🔗 View on Twitter💬481🔄824❤…"
     },
     {
       "id": "10927241f033aac956f1831841ccb1e8a76c49c2",
@@ -406,26 +395,15 @@
       "summary": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more. Among them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.💬14🔄21❤️8…"
     },
     {
-      "id": "d5eabe0a0bd0fd45e0421f8475409330358d4e6a",
+      "id": "be5dba0d900c430500e0f409dde7dc1a5d3f79b7",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "分享2个让Codex和Claude跨机器共用记忆技巧",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509140&idx=1&sn=26de4481384e590e60ac0b7079dd4a5d",
-      "published_at": "2026-08-03T08:57:00Z",
-      "summary": "卡尔的AI沃茨 2026-08-03 16:57 浙江 刚买了第三台mac mini，是时候整理一下跨多台机器跨codex、claude code等Agent的记忆管理方案了。全部塞Agent.md的话上下文包爆炸的，你去X上搜会看到8月份Agent知识管理又多了很多词，分层记忆，时序图谱，Dreaming，CMEM，Mem0，Graphiti。 都安装下来发现重叠率太高，太难稳定在三台机器生效了。我烧了一周的codex额度做了个新方案，claude-mem负责本地记忆捕获，Mem0 负责跨设备共享。 claude-mem这个开源项目可以通过hook自动…"
-    },
-    {
-      "id": "b9516fe039835062d66ca6d94b3e534cc393ede9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "体验了两周Robot Phone，这是我第一次觉得手机活过来了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684861&idx=1&sn=f9469657e0eacfc43eda92dfcb67b3dc",
-      "published_at": "2026-08-03T08:28:00Z",
-      "summary": "手机成精了"
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Mathematics helps us understand how traffic moves, how diseases spread, and how cells build proteins...",
+      "url": "https://x.com/OpenAI/status/2084352162956738631",
+      "published_at": "2026-08-03T18:54:15Z",
+      "summary": "Mathematics helps us understand how traffic moves, how diseases spread, and how cells build proteins. It also underpins everyday technologies, from GPS and weather forecasting to medical imaging. Progress in foundational mathematics can ripple across science and technology. These…"
     }
   ]
 }
