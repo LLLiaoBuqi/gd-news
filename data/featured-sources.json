@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T08:24:42.746166Z",
+  "generated_at": "2026-08-05T10:58:09.642706Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1079,
+      "duration_ms": 312,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 20,
+      "duration_ms": 68,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1578,
+      "duration_ms": 1715,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1153,
+      "duration_ms": 1429,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 845,
+      "duration_ms": 1351,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 755,
+      "duration_ms": 959,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1203,
+      "duration_ms": 921,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 60,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2177,
+      "duration_ms": 2559,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 803,
+      "duration_ms": 1457,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "7582a5bbb9d0c77ec55c051055aa32c28b7413c2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "网页版在这里可以试试：https://t.co/nv6wcKac7j",
+          "url": "https://x.com/op7418/status/2084930189558182137",
+          "published_at": "2026-08-05T09:11:07Z",
+          "summary": "网页版在这里可以试试：colaskill.com💬0🔄0❤️2👀1175📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c2c1a9330671b91ea7c89d72f8a39d28a744c073",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "感谢 Cola 成为“guizang PPT Skills”的金牌赞助商！\n\n大家可以在 CoLa 的 Skills 商店快速安装和调用“guizang PPT Skills”以及后续的其他 Skil...",
+          "url": "https://x.com/op7418/status/2084929983924023560",
+          "published_at": "2026-08-05T09:10:18Z",
+          "summary": "感谢 Cola 成为“guizang PPT Skills”的金牌赞助商！ 大家可以在 CoLa 的 Skills 商店快速安装和调用“guizang PPT Skills”以及后续的其他 Skills。 同时，Cola 的这个 Skills 商店是藏师傅和 Cola 的朋友们花了很长时间去优化的。 里面的所有 Skills 都是经过人工挑选和测试，确保它们能在 Cola 中非常完美地使用和落地。 商店每个 Skills 基本都由当前领域最顶尖的创作者制作，包括我、宝玉、卡兹克等人的作品。 目前最火爆、最核心的 Skills 都汇聚在这里。 所有上架的…"
+        },
         {
           "id": "ace8e7b427b3cd518676eb392dd5fa3c3eb4c4ca",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
           "url": "https://x.com/op7418/status/2084847925906276437",
           "published_at": "2026-08-05T03:44:14Z",
-          "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬50🔄0❤️88👀10146📊52⚡ Powered by xgo.ing"
+          "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬68🔄0❤️132👀16723📊72⚡ Powered by xgo.ing"
         },
         {
           "id": "1bafbd51c942605adae63b9d0017530c20547da3",
@@ -225,6 +247,17 @@
           "summary": "FLLUX 3 正式可用了 目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。 此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量进行渲染。草稿一次只需要 0.06 美元。 目前支持的功能包括： • 文生图 • 文生视频 • 图生视频 • 生成对应音频和不错的文本渲染能力Your browser does not support the video tag.🔗 View on TwitterBlack Forest Labs@bfl_aiFLUX 3 Video is here. Seri…"
         },
         {
+          "id": "5fad3c0c941b52073cedc047a23d030a1b37bc66",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "开源「活人感写作.skill」，只为帮你写出没有AI味的文字。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+          "published_at": "2026-08-05T01:35:00Z",
+          "summary": "修辞立其诚"
+        },
+        {
           "id": "03b57ea9267cc29d5acfcff711d911aa8852ae01",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -233,7 +266,7 @@
           "title": "昨天的夕阳相当带劲了",
           "url": "https://x.com/op7418/status/2084667826200305810",
           "published_at": "2026-08-04T15:48:35Z",
-          "summary": "昨天的夕阳相当带劲了💬14🔄0❤️13👀4645📊13⚡ Powered by xgo.ing"
+          "summary": "昨天的夕阳相当带劲了💬14🔄0❤️14👀4988📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
@@ -256,17 +289,6 @@
           "url": "https://x.com/op7418/status/2084597706375487554",
           "published_at": "2026-08-04T11:09:57Z",
           "summary": "OpenAI 发了一篇文章，回应苹果关于窃取商业机密的诉讼，没想到苹果这么草台。 苹果声称今年 2 月份联系过 OpenAI 但没有收到回应。后来发现，是苹果的律师把两个亚洲姓氏搞混，把邮件发错人了。 苹果还声称和 OpenAI 的总法律顾问通过话，但其实根本没有，完全是骗人的。 之后苹果沉默了 5 个月，突然就提起了诉讼。 苹果指控其前员工在离职后访问机密信息。但事实是，苹果在职的员工主动联系这位前员工，请他帮忙寻找对应的文件，她这才进行了访问。 这一堆操作下来太搞笑了OpenAI Newsroom@OpenAINewsroomApple is get…"
-        },
-        {
-          "id": "e70f2a9d98d8db2b49fb23e444440e38f4c47c05",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "MiniMax H3商用场景实测，这个质量和价格都太美好了！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498017&idx=1&sn=e23027a3cc1f35a6563940061cda270b",
-          "published_at": "2026-08-04T09:57:00Z",
-          "summary": "平价、开源，商用级，六边形战士MiniMax H3来了。"
         }
       ]
     },
@@ -300,7 +322,7 @@
           "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
           "url": "https://x.com/GeminiApp/status/2084695279870357720",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬89🔄93❤️1047👀103641📊221⚡ Powered by xgo.ing"
+          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬92🔄97❤️1103👀109783📊231⚡ Powered by xgo.ing"
         },
         {
           "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -311,12 +333,34 @@
           "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
           "url": "https://x.com/GeminiApp/status/2084695281174807015",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬10🔄1❤️43👀14024📊13⚡ Powered by xgo.ing"
+          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬10🔄2❤️47👀14601📊13⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "7582a5bbb9d0c77ec55c051055aa32c28b7413c2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "网页版在这里可以试试：https://t.co/nv6wcKac7j",
+      "url": "https://x.com/op7418/status/2084930189558182137",
+      "published_at": "2026-08-05T09:11:07Z",
+      "summary": "网页版在这里可以试试：colaskill.com💬0🔄0❤️2👀1175📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "c2c1a9330671b91ea7c89d72f8a39d28a744c073",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "感谢 Cola 成为“guizang PPT Skills”的金牌赞助商！\n\n大家可以在 CoLa 的 Skills 商店快速安装和调用“guizang PPT Skills”以及后续的其他 Skil...",
+      "url": "https://x.com/op7418/status/2084929983924023560",
+      "published_at": "2026-08-05T09:10:18Z",
+      "summary": "感谢 Cola 成为“guizang PPT Skills”的金牌赞助商！ 大家可以在 CoLa 的 Skills 商店快速安装和调用“guizang PPT Skills”以及后续的其他 Skills。 同时，Cola 的这个 Skills 商店是藏师傅和 Cola 的朋友们花了很长时间去优化的。 里面的所有 Skills 都是经过人工挑选和测试，确保它们能在 Cola 中非常完美地使用和落地。 商店每个 Skills 基本都由当前领域最顶尖的创作者制作，包括我、宝玉、卡兹克等人的作品。 目前最火爆、最核心的 Skills 都汇聚在这里。 所有上架的…"
+    },
     {
       "id": "ace8e7b427b3cd518676eb392dd5fa3c3eb4c4ca",
       "site_id": "featuredrss",
@@ -326,7 +370,7 @@
       "title": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
       "url": "https://x.com/op7418/status/2084847925906276437",
       "published_at": "2026-08-05T03:44:14Z",
-      "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬50🔄0❤️88👀10146📊52⚡ Powered by xgo.ing"
+      "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬68🔄0❤️132👀16723📊72⚡ Powered by xgo.ing"
     },
     {
       "id": "1bafbd51c942605adae63b9d0017530c20547da3",
@@ -351,6 +395,17 @@
       "summary": "FLLUX 3 正式可用了 目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。 此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量进行渲染。草稿一次只需要 0.06 美元。 目前支持的功能包括： • 文生图 • 文生视频 • 图生视频 • 生成对应音频和不错的文本渲染能力Your browser does not support the video tag.🔗 View on TwitterBlack Forest Labs@bfl_aiFLUX 3 Video is here. Seri…"
     },
     {
+      "id": "5fad3c0c941b52073cedc047a23d030a1b37bc66",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "开源「活人感写作.skill」，只为帮你写出没有AI味的文字。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+      "published_at": "2026-08-05T01:35:00Z",
+      "summary": "修辞立其诚"
+    },
+    {
       "id": "aa1a4e04512c0f56c46de793f2535c5d5ca68f3b",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -370,7 +425,7 @@
       "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
       "url": "https://x.com/GeminiApp/status/2084695279870357720",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬89🔄93❤️1047👀103641📊221⚡ Powered by xgo.ing"
+      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬92🔄97❤️1103👀109783📊231⚡ Powered by xgo.ing"
     },
     {
       "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -381,7 +436,7 @@
       "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
       "url": "https://x.com/GeminiApp/status/2084695281174807015",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬10🔄1❤️43👀14024📊13⚡ Powered by xgo.ing"
+      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬10🔄2❤️47👀14601📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "03b57ea9267cc29d5acfcff711d911aa8852ae01",
@@ -392,7 +447,7 @@
       "title": "昨天的夕阳相当带劲了",
       "url": "https://x.com/op7418/status/2084667826200305810",
       "published_at": "2026-08-04T15:48:35Z",
-      "summary": "昨天的夕阳相当带劲了💬14🔄0❤️13👀4645📊13⚡ Powered by xgo.ing"
+      "summary": "昨天的夕阳相当带劲了💬14🔄0❤️14👀4988📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
@@ -415,17 +470,6 @@
       "url": "https://x.com/op7418/status/2084597706375487554",
       "published_at": "2026-08-04T11:09:57Z",
       "summary": "OpenAI 发了一篇文章，回应苹果关于窃取商业机密的诉讼，没想到苹果这么草台。 苹果声称今年 2 月份联系过 OpenAI 但没有收到回应。后来发现，是苹果的律师把两个亚洲姓氏搞混，把邮件发错人了。 苹果还声称和 OpenAI 的总法律顾问通过话，但其实根本没有，完全是骗人的。 之后苹果沉默了 5 个月，突然就提起了诉讼。 苹果指控其前员工在离职后访问机密信息。但事实是，苹果在职的员工主动联系这位前员工，请他帮忙寻找对应的文件，她这才进行了访问。 这一堆操作下来太搞笑了OpenAI Newsroom@OpenAINewsroomApple is get…"
-    },
-    {
-      "id": "e70f2a9d98d8db2b49fb23e444440e38f4c47c05",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "MiniMax H3商用场景实测，这个质量和价格都太美好了！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498017&idx=1&sn=e23027a3cc1f35a6563940061cda270b",
-      "published_at": "2026-08-04T09:57:00Z",
-      "summary": "平价、开源，商用级，六边形战士MiniMax H3来了。"
     }
   ]
 }
