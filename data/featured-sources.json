@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T02:37:41.720291Z",
+  "generated_at": "2026-08-05T05:39:50.608569Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 131,
+      "duration_ms": 423,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 146,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2011,
+      "duration_ms": 1636,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1567,
+      "duration_ms": 1164,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1385,
+      "duration_ms": 1028,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1403,
+      "duration_ms": 762,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 688,
+      "duration_ms": 359,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2634,
+      "duration_ms": 2357,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1471,
+      "duration_ms": 1328,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "ace8e7b427b3cd518676eb392dd5fa3c3eb4c4ca",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
+          "url": "https://x.com/op7418/status/2084847925906276437",
+          "published_at": "2026-08-05T03:44:14Z",
+          "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬25🔄0❤️47👀4760📊26⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1bafbd51c942605adae63b9d0017530c20547da3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。\n\n里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。\n\n比如 S...",
+          "url": "https://x.com/op7418/status/2084836896166097261",
+          "published_at": "2026-08-05T03:00:25Z",
+          "summary": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。 里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。 比如 Seedance 2.0、MiniMax H3、可灵（Kling），还有 GPT-Image-2.0 等都有。 完全可以充了以后，打包个 Skills 给那个Codex或者其他 Agent 接入，以后就可以一键调用所有的这种视频和音频 API 模型Pika@pika_labsToday, we’re proud to introduce the Pika API…"
+        },
+        {
+          "id": "6d644b2dad22368d583703f367140e56edc62388",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "FLLUX 3 正式可用了\n\n目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。\n\n此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量...",
+          "url": "https://x.com/op7418/status/2084835615183716741",
+          "published_at": "2026-08-05T02:55:19Z",
+          "summary": "FLLUX 3 正式可用了 目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。 此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量进行渲染。草稿一次只需要 0.06 美元。 目前支持的功能包括： • 文生图 • 文生视频 • 图生视频 • 生成对应音频和不错的文本渲染能力Your browser does not support the video tag.🔗 View on TwitterBlack Forest Labs@bfl_aiFLUX 3 Video is here. Seri…"
+        },
         {
           "id": "03b57ea9267cc29d5acfcff711d911aa8852ae01",
           "site_id": "featuredrss",
@@ -200,7 +233,7 @@
           "title": "昨天的夕阳相当带劲了",
           "url": "https://x.com/op7418/status/2084667826200305810",
           "published_at": "2026-08-04T15:48:35Z",
-          "summary": "昨天的夕阳相当带劲了💬11🔄0❤️11👀3844📊11⚡ Powered by xgo.ing"
+          "summary": "昨天的夕阳相当带劲了💬14🔄0❤️13👀4331📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
@@ -267,7 +300,7 @@
           "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
           "url": "https://x.com/GeminiApp/status/2084695279870357720",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬78🔄77❤️834👀77869📊181⚡ Powered by xgo.ing"
+          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬86🔄82❤️934👀91407📊203⚡ Powered by xgo.ing"
         },
         {
           "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -278,12 +311,45 @@
           "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
           "url": "https://x.com/GeminiApp/status/2084695281174807015",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬8🔄1❤️37👀11412📊11⚡ Powered by xgo.ing"
+          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬9🔄1❤️41👀12907📊12⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "ace8e7b427b3cd518676eb392dd5fa3c3eb4c4ca",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
+      "url": "https://x.com/op7418/status/2084847925906276437",
+      "published_at": "2026-08-05T03:44:14Z",
+      "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬25🔄0❤️47👀4760📊26⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1bafbd51c942605adae63b9d0017530c20547da3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。\n\n里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。\n\n比如 S...",
+      "url": "https://x.com/op7418/status/2084836896166097261",
+      "published_at": "2026-08-05T03:00:25Z",
+      "summary": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。 里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。 比如 Seedance 2.0、MiniMax H3、可灵（Kling），还有 GPT-Image-2.0 等都有。 完全可以充了以后，打包个 Skills 给那个Codex或者其他 Agent 接入，以后就可以一键调用所有的这种视频和音频 API 模型Pika@pika_labsToday, we’re proud to introduce the Pika API…"
+    },
+    {
+      "id": "6d644b2dad22368d583703f367140e56edc62388",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "FLLUX 3 正式可用了\n\n目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。\n\n此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量...",
+      "url": "https://x.com/op7418/status/2084835615183716741",
+      "published_at": "2026-08-05T02:55:19Z",
+      "summary": "FLLUX 3 正式可用了 目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。 此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量进行渲染。草稿一次只需要 0.06 美元。 目前支持的功能包括： • 文生图 • 文生视频 • 图生视频 • 生成对应音频和不错的文本渲染能力Your browser does not support the video tag.🔗 View on TwitterBlack Forest Labs@bfl_aiFLUX 3 Video is here. Seri…"
+    },
     {
       "id": "aa1a4e04512c0f56c46de793f2535c5d5ca68f3b",
       "site_id": "featuredrss",
@@ -304,7 +370,7 @@
       "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
       "url": "https://x.com/GeminiApp/status/2084695279870357720",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬78🔄77❤️834👀77869📊181⚡ Powered by xgo.ing"
+      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬86🔄82❤️934👀91407📊203⚡ Powered by xgo.ing"
     },
     {
       "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -315,7 +381,7 @@
       "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
       "url": "https://x.com/GeminiApp/status/2084695281174807015",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬8🔄1❤️37👀11412📊11⚡ Powered by xgo.ing"
+      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬9🔄1❤️41👀12907📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "03b57ea9267cc29d5acfcff711d911aa8852ae01",
@@ -326,7 +392,7 @@
       "title": "昨天的夕阳相当带劲了",
       "url": "https://x.com/op7418/status/2084667826200305810",
       "published_at": "2026-08-04T15:48:35Z",
-      "summary": "昨天的夕阳相当带劲了💬11🔄0❤️11👀3844📊11⚡ Powered by xgo.ing"
+      "summary": "昨天的夕阳相当带劲了💬14🔄0❤️13👀4331📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
