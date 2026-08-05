@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T23:58:23.080291Z",
+  "generated_at": "2026-08-05T02:37:41.720291Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 215,
+      "duration_ms": 131,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 83,
+      "duration_ms": 146,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2140,
+      "duration_ms": 2011,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1194,
+      "duration_ms": 1567,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1026,
+      "duration_ms": 1385,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 768,
+      "duration_ms": 1403,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 973,
+      "duration_ms": 688,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2727,
+      "duration_ms": 2634,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 812,
+      "duration_ms": 1471,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "昨天的夕阳相当带劲了",
           "url": "https://x.com/op7418/status/2084667826200305810",
           "published_at": "2026-08-04T15:48:35Z",
-          "summary": "昨天的夕阳相当带劲了💬8🔄0❤️7👀2986📊8⚡ Powered by xgo.ing"
+          "summary": "昨天的夕阳相当带劲了💬11🔄0❤️11👀3844📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
@@ -234,28 +234,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498017&idx=1&sn=e23027a3cc1f35a6563940061cda270b",
           "published_at": "2026-08-04T09:57:00Z",
           "summary": "平价、开源，商用级，六边形战士MiniMax H3来了。"
-        },
-        {
-          "id": "7ca04d1a79b5040d3236631cc796c092822ea3b3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "6大真实场景实测Qwen3.8正式版，2.4万亿参数1周全开源",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509142&idx=1&sn=b144dcb0dd206fa1ab5243548a9f36c1",
-          "published_at": "2026-08-04T01:42:00Z",
-          "summary": "好用的模型超级➕1"
-        },
-        {
-          "id": "e7c889a086551bf4b2abda6323476c78d5c4dd0d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "published_at": "2026-08-04T00:06:00Z",
-          "summary": "你上你也行"
         }
       ]
     },
@@ -289,7 +267,7 @@
           "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
           "url": "https://x.com/GeminiApp/status/2084695279870357720",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬57🔄59❤️666👀58429📊139⚡ Powered by xgo.ing"
+          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬78🔄77❤️834👀77869📊181⚡ Powered by xgo.ing"
         },
         {
           "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -300,7 +278,7 @@
           "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
           "url": "https://x.com/GeminiApp/status/2084695281174807015",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬7🔄1❤️28👀9428📊9⚡ Powered by xgo.ing"
+          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬8🔄1❤️37👀11412📊11⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -326,7 +304,7 @@
       "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
       "url": "https://x.com/GeminiApp/status/2084695279870357720",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬57🔄59❤️666👀58429📊139⚡ Powered by xgo.ing"
+      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬78🔄77❤️834👀77869📊181⚡ Powered by xgo.ing"
     },
     {
       "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -337,7 +315,7 @@
       "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
       "url": "https://x.com/GeminiApp/status/2084695281174807015",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬7🔄1❤️28👀9428📊9⚡ Powered by xgo.ing"
+      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬8🔄1❤️37👀11412📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "03b57ea9267cc29d5acfcff711d911aa8852ae01",
@@ -348,7 +326,7 @@
       "title": "昨天的夕阳相当带劲了",
       "url": "https://x.com/op7418/status/2084667826200305810",
       "published_at": "2026-08-04T15:48:35Z",
-      "summary": "昨天的夕阳相当带劲了💬8🔄0❤️7👀2986📊8⚡ Powered by xgo.ing"
+      "summary": "昨天的夕阳相当带劲了💬11🔄0❤️11👀3844📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
@@ -382,28 +360,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498017&idx=1&sn=e23027a3cc1f35a6563940061cda270b",
       "published_at": "2026-08-04T09:57:00Z",
       "summary": "平价、开源，商用级，六边形战士MiniMax H3来了。"
-    },
-    {
-      "id": "7ca04d1a79b5040d3236631cc796c092822ea3b3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "6大真实场景实测Qwen3.8正式版，2.4万亿参数1周全开源",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509142&idx=1&sn=b144dcb0dd206fa1ab5243548a9f36c1",
-      "published_at": "2026-08-04T01:42:00Z",
-      "summary": "好用的模型超级➕1"
-    },
-    {
-      "id": "e7c889a086551bf4b2abda6323476c78d5c4dd0d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-      "published_at": "2026-08-04T00:06:00Z",
-      "summary": "你上你也行"
     }
   ]
 }
