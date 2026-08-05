@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T12:53:10.344420Z",
+  "generated_at": "2026-08-05T15:09:51.531830Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 808,
+      "duration_ms": 393,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 34,
+      "duration_ms": 19,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1634,
+      "duration_ms": 1626,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 921,
+      "duration_ms": 1141,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 741,
+      "duration_ms": 1053,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 658,
+      "duration_ms": 891,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 601,
+      "duration_ms": 336,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2428,
+      "duration_ms": 2523,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1337,
+      "duration_ms": 1010,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "这个演示有意思啊\n\n就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。\n\n再加上流式输出这种一行一行展示的效果，看起来非常有感觉。",
           "url": "https://x.com/op7418/status/2084978122894815677",
           "published_at": "2026-08-05T12:21:36Z",
-          "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️5👀963📊2⚡ Powered by xgo.ing"
+          "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬14🔄0❤️28👀4267📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "7582a5bbb9d0c77ec55c051055aa32c28b7413c2",
@@ -211,7 +211,7 @@
           "title": "网页版在这里可以试试：https://t.co/nv6wcKac7j",
           "url": "https://x.com/op7418/status/2084930189558182137",
           "published_at": "2026-08-05T09:11:07Z",
-          "summary": "网页版在这里可以试试：colaskill.com💬0🔄1❤️4👀1729📊1⚡ Powered by xgo.ing"
+          "summary": "网页版在这里可以试试：colaskill.com💬0🔄1❤️7👀2060📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "c2c1a9330671b91ea7c89d72f8a39d28a744c073",
@@ -244,7 +244,7 @@
           "title": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
           "url": "https://x.com/op7418/status/2084847925906276437",
           "published_at": "2026-08-05T03:44:14Z",
-          "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬75🔄0❤️145👀19247📊79⚡ Powered by xgo.ing"
+          "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬82🔄0❤️159👀21677📊88⚡ Powered by xgo.ing"
         },
         {
           "id": "1bafbd51c942605adae63b9d0017530c20547da3",
@@ -288,18 +288,7 @@
           "title": "昨天的夕阳相当带劲了",
           "url": "https://x.com/op7418/status/2084667826200305810",
           "published_at": "2026-08-04T15:48:35Z",
-          "summary": "昨天的夕阳相当带劲了💬14🔄0❤️14👀5186📊13⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Cloudflare 推出了一个专门给 Agent 用的钱包，它有一个唯一的地址和用户名，这个有意思啊！\n\n领了以后，你的 Agent 就可以用这个钱包来支付 API 和内容的费用。\n\n可以先申请一个...",
-          "url": "https://x.com/op7418/status/2084657745039700163",
-          "published_at": "2026-08-04T15:08:32Z",
-          "summary": "Cloudflare 推出了一个专门给 Agent 用的钱包，它有一个唯一的地址和用户名，这个有意思啊！ 领了以后，你的 Agent 就可以用这个钱包来支付 API 和内容的费用。 可以先申请一个自己名字的，以防被人抢注。 钱包分为两类： 钱包账户：是你作为人类拥有的钱包，可以充值、提现，也可以把支出权限委托出去 虚拟钱包：是专门为 Agent 设计的，通过 API Key 运行 关于虚拟钱包的支出控制和使用场景： • 支出上限和规则：你可以给它设置支出上限，也可以通过允许列表（白名单）和规则进行控制 • 受控预算与自主探索：这样的设计可以让 Agent…"
+          "summary": "昨天的夕阳相当带劲了💬14🔄0❤️19👀5479📊14⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -333,7 +322,7 @@
           "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
           "url": "https://x.com/GeminiApp/status/2084695279870357720",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬95🔄98❤️1157👀115925📊240⚡ Powered by xgo.ing"
+          "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬101🔄102❤️1230👀125535📊253⚡ Powered by xgo.ing"
         },
         {
           "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -344,7 +333,7 @@
           "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
           "url": "https://x.com/GeminiApp/status/2084695281174807015",
           "published_at": "2026-08-04T17:37:41Z",
-          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬10🔄2❤️50👀15088📊14⚡ Powered by xgo.ing"
+          "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬10🔄2❤️53👀15664📊14⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -359,7 +348,7 @@
       "title": "这个演示有意思啊\n\n就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。\n\n再加上流式输出这种一行一行展示的效果，看起来非常有感觉。",
       "url": "https://x.com/op7418/status/2084978122894815677",
       "published_at": "2026-08-05T12:21:36Z",
-      "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬2🔄0❤️5👀963📊2⚡ Powered by xgo.ing"
+      "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬14🔄0❤️28👀4267📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "7582a5bbb9d0c77ec55c051055aa32c28b7413c2",
@@ -370,7 +359,7 @@
       "title": "网页版在这里可以试试：https://t.co/nv6wcKac7j",
       "url": "https://x.com/op7418/status/2084930189558182137",
       "published_at": "2026-08-05T09:11:07Z",
-      "summary": "网页版在这里可以试试：colaskill.com💬0🔄1❤️4👀1729📊1⚡ Powered by xgo.ing"
+      "summary": "网页版在这里可以试试：colaskill.com💬0🔄1❤️7👀2060📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "c2c1a9330671b91ea7c89d72f8a39d28a744c073",
@@ -403,7 +392,7 @@
       "title": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
       "url": "https://x.com/op7418/status/2084847925906276437",
       "published_at": "2026-08-05T03:44:14Z",
-      "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬75🔄0❤️145👀19247📊79⚡ Powered by xgo.ing"
+      "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬82🔄0❤️159👀21677📊88⚡ Powered by xgo.ing"
     },
     {
       "id": "1bafbd51c942605adae63b9d0017530c20547da3",
@@ -458,7 +447,7 @@
       "title": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight.\n\nTry it on the web or in the app...",
       "url": "https://x.com/GeminiApp/status/2084695279870357720",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬95🔄98❤️1157👀115925📊240⚡ Powered by xgo.ing"
+      "summary": "Create ten videos in Gemini Omni for FREE until 11:59pm PT tonight. Try it on the web or in the app and share your creations in the replies.Your browser does not support the video tag.🔗 View on Twitter💬101🔄102❤️1230👀125535📊253⚡ Powered by xgo.ing"
     },
     {
       "id": "cca8c518deacfd9caf92a62ace44cf3cba35a4a0",
@@ -469,7 +458,7 @@
       "title": "Valid for users without a Google AI subscription plan. Global availability, with some feature restri...",
       "url": "https://x.com/GeminiApp/status/2084695281174807015",
       "published_at": "2026-08-04T17:37:41Z",
-      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬10🔄2❤️50👀15088📊14⚡ Powered by xgo.ing"
+      "summary": "Valid for users without a Google AI subscription plan. Global availability, with some feature restrictions. More info here: goo.gle/4ywMhoX💬10🔄2❤️53👀15664📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "03b57ea9267cc29d5acfcff711d911aa8852ae01",
@@ -480,18 +469,7 @@
       "title": "昨天的夕阳相当带劲了",
       "url": "https://x.com/op7418/status/2084667826200305810",
       "published_at": "2026-08-04T15:48:35Z",
-      "summary": "昨天的夕阳相当带劲了💬14🔄0❤️14👀5186📊13⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a2b1e6ac7be652f0b12ac74a3cc3d1ae80c371f4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Cloudflare 推出了一个专门给 Agent 用的钱包，它有一个唯一的地址和用户名，这个有意思啊！\n\n领了以后，你的 Agent 就可以用这个钱包来支付 API 和内容的费用。\n\n可以先申请一个...",
-      "url": "https://x.com/op7418/status/2084657745039700163",
-      "published_at": "2026-08-04T15:08:32Z",
-      "summary": "Cloudflare 推出了一个专门给 Agent 用的钱包，它有一个唯一的地址和用户名，这个有意思啊！ 领了以后，你的 Agent 就可以用这个钱包来支付 API 和内容的费用。 可以先申请一个自己名字的，以防被人抢注。 钱包分为两类： 钱包账户：是你作为人类拥有的钱包，可以充值、提现，也可以把支出权限委托出去 虚拟钱包：是专门为 Agent 设计的，通过 API Key 运行 关于虚拟钱包的支出控制和使用场景： • 支出上限和规则：你可以给它设置支出上限，也可以通过允许列表（白名单）和规则进行控制 • 受控预算与自主探索：这样的设计可以让 Agent…"
+      "summary": "昨天的夕阳相当带劲了💬14🔄0❤️19👀5479📊14⚡ Powered by xgo.ing"
     }
   ]
 }
