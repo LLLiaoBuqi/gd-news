@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T12:52:43.294409Z",
+  "generated_at": "2026-08-06T15:08:53.964917Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 242,
+      "duration_ms": 661,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 68,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1908,
+      "duration_ms": 1755,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1316,
+      "duration_ms": 1036,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1113,
+      "duration_ms": 901,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 601,
+      "duration_ms": 502,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1434,
+      "duration_ms": 877,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2308,
+      "duration_ms": 2421,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1083,
+      "duration_ms": 1424,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "b048bdf2de15d9411186712869ba909df703a0ec",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！\n\n它支持原生 30 秒的视频生成，支持 1080P。\n\n并且支持“全能参考”：不只是文本、图像、视频、音频，它还支持文档、表格、PPT...",
+          "url": "https://x.com/op7418/status/2085370072332452212",
+          "published_at": "2026-08-06T14:19:04Z",
+          "summary": "阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！ 它支持原生 30 秒的视频生成，支持 1080P。 并且支持“全能参考”：不只是文本、图像、视频、音频，它还支持文档、表格、PPT、网页、Markdown 格式等一系列你能想到的信息。 你可以把这些信息全部混在一起给它参考，让它生成视频，这个对 Agent 来说非常有帮助。 价格方面：1080P：1.4 元/秒 • 720P：0.7 元/秒 整体挺给力的，文字渲染也不错，而且还可以渲染一些动效。Your browser does not support the video tag.🔗 Vi…"
+        },
         {
           "id": "8b60e633f862288af157c96357bbf414f8a08b93",
           "site_id": "featuredrss",
@@ -222,7 +233,7 @@
           "title": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。\n\n不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
           "url": "https://x.com/op7418/status/2085194288171008440",
           "published_at": "2026-08-06T02:40:33Z",
-          "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬72🔄1❤️104👀34207📊68⚡ Powered by xgo.ing"
+          "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬72🔄1❤️106👀36032📊68⚡ Powered by xgo.ing"
         },
         {
           "id": "d6978b11796938b1e07f2f3a30bae03df8df734f",
@@ -262,6 +273,17 @@
   },
   "items": [
     {
+      "id": "b048bdf2de15d9411186712869ba909df703a0ec",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！\n\n它支持原生 30 秒的视频生成，支持 1080P。\n\n并且支持“全能参考”：不只是文本、图像、视频、音频，它还支持文档、表格、PPT...",
+      "url": "https://x.com/op7418/status/2085370072332452212",
+      "published_at": "2026-08-06T14:19:04Z",
+      "summary": "阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！ 它支持原生 30 秒的视频生成，支持 1080P。 并且支持“全能参考”：不只是文本、图像、视频、音频，它还支持文档、表格、PPT、网页、Markdown 格式等一系列你能想到的信息。 你可以把这些信息全部混在一起给它参考，让它生成视频，这个对 Agent 来说非常有帮助。 价格方面：1080P：1.4 元/秒 • 720P：0.7 元/秒 整体挺给力的，文字渲染也不错，而且还可以渲染一些动效。Your browser does not support the video tag.🔗 Vi…"
+    },
+    {
       "id": "8b60e633f862288af157c96357bbf414f8a08b93",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -292,7 +314,7 @@
       "title": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。\n\n不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
       "url": "https://x.com/op7418/status/2085194288171008440",
       "published_at": "2026-08-06T02:40:33Z",
-      "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬72🔄1❤️104👀34207📊68⚡ Powered by xgo.ing"
+      "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬72🔄1❤️106👀36032📊68⚡ Powered by xgo.ing"
     },
     {
       "id": "d6978b11796938b1e07f2f3a30bae03df8df734f",
