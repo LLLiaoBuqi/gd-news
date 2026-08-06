@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:42:50.864215Z",
+  "generated_at": "2026-08-06T12:52:43.294409Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 5,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 615,
+      "duration_ms": 242,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 68,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1577,
+      "duration_ms": 1908,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1137,
+      "duration_ms": 1316,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 776,
+      "duration_ms": 1113,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 602,
+      "duration_ms": 601,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 473,
+      "duration_ms": 1434,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 61,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2157,
+      "duration_ms": 2308,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1285,
+      "duration_ms": 1083,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -222,7 +222,18 @@
           "title": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。\n\n不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
           "url": "https://x.com/op7418/status/2085194288171008440",
           "published_at": "2026-08-06T02:40:33Z",
-          "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬70🔄1❤️98👀32015📊66⚡ Powered by xgo.ing"
+          "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬72🔄1❤️104👀34207📊68⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d6978b11796938b1e07f2f3a30bae03df8df734f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "分享10个能大幅提升vibe coding幸福感的开源App。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
+          "published_at": "2026-08-06T01:27:00Z",
+          "summary": "换了3台电脑还能留下来的含金量"
         },
         {
           "id": "6b6458233b3cb843bf3df4ed3998d6f1dd77d4f1",
@@ -234,17 +245,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
           "published_at": "2026-08-06T01:15:00Z",
           "summary": "一个真能救命的插件"
-        },
-        {
-          "id": "c235aa3a79dac795b7eaa6bb48a192463f8d21d8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这个演示有意思啊\n\n就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。\n\n再加上流式输出这种一行一行展示的效果，看起来非常有感觉。",
-          "url": "https://x.com/op7418/status/2084978122894815677",
-          "published_at": "2026-08-05T12:21:36Z",
-          "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬62🔄31❤️257👀21535📊116⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -292,7 +292,18 @@
       "title": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。\n\n不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
       "url": "https://x.com/op7418/status/2085194288171008440",
       "published_at": "2026-08-06T02:40:33Z",
-      "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬70🔄1❤️98👀32015📊66⚡ Powered by xgo.ing"
+      "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬72🔄1❤️104👀34207📊68⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d6978b11796938b1e07f2f3a30bae03df8df734f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "分享10个能大幅提升vibe coding幸福感的开源App。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
+      "published_at": "2026-08-06T01:27:00Z",
+      "summary": "换了3台电脑还能留下来的含金量"
     },
     {
       "id": "6b6458233b3cb843bf3df4ed3998d6f1dd77d4f1",
@@ -304,17 +315,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
       "published_at": "2026-08-06T01:15:00Z",
       "summary": "一个真能救命的插件"
-    },
-    {
-      "id": "c235aa3a79dac795b7eaa6bb48a192463f8d21d8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这个演示有意思啊\n\n就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。\n\n再加上流式输出这种一行一行展示的效果，看起来非常有感觉。",
-      "url": "https://x.com/op7418/status/2084978122894815677",
-      "published_at": "2026-08-05T12:21:36Z",
-      "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬62🔄31❤️257👀21535📊116⚡ Powered by xgo.ing"
     }
   ]
 }
