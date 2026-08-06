@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T01:56:48.015384Z",
+  "generated_at": "2026-08-06T05:14:37.662741Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 147,
+      "duration_ms": 152,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 160,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1850,
+      "duration_ms": 1981,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1292,
+      "duration_ms": 1336,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 941,
+      "duration_ms": 1095,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1726,
+      "duration_ms": 1512,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 544,
+      "duration_ms": 609,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2640,
+      "duration_ms": 2600,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 63,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1474,
+      "duration_ms": 1133,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "0c5a17e200be53981eed760b113a0fa4c2fa1247",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "扎克伯格又掀桌子！\n\n他们发了一个新的模型 Muse Spark 1.2 和 Muse Code 编程 Agent。\n\n这玩意价钱便宜得相当于白送，前提是你同意他们的数据收集要求。\n\n当然，你要想用 ...",
+          "url": "https://x.com/op7418/status/2085203402699821505",
+          "published_at": "2026-08-06T03:16:47Z",
+          "summary": "扎克伯格又掀桌子！ 他们发了一个新的模型 Muse Spark 1.2 和 Muse Code 编程 Agent。 这玩意价钱便宜得相当于白送，前提是你同意他们的数据收集要求。 当然，你要想用 Meta 的模型，比用 Anthropic 的模型都麻烦。 我根本无法访问它，它直接不让你访问它的网站，别说能不能登录了。 简单来说，你只要允许它用你的数据进行模型训练，相当于给了你 12 倍的折扣，价格跟DeepSeek-Flash 差不多。 在 DeepSeek 即将涨价的时候，小扎跟上了，AI 圈价格战开始了。Mark Zuckerberg@finkdRel…"
+        },
+        {
+          "id": "20782a66153053d97fae25e5a859abc83f469656",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。\n\n不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
+          "url": "https://x.com/op7418/status/2085194288171008440",
+          "published_at": "2026-08-06T02:40:33Z",
+          "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬47🔄1❤️57👀17364📊43⚡ Powered by xgo.ing"
+        },
         {
           "id": "c235aa3a79dac795b7eaa6bb48a192463f8d21d8",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "这个演示有意思啊\n\n就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。\n\n再加上流式输出这种一行一行展示的效果，看起来非常有感觉。",
           "url": "https://x.com/op7418/status/2084978122894815677",
           "published_at": "2026-08-05T12:21:36Z",
-          "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬48🔄9❤️87👀10686📊63⚡ Powered by xgo.ing"
+          "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬60🔄16❤️157👀14829📊89⚡ Powered by xgo.ing"
         },
         {
           "id": "7582a5bbb9d0c77ec55c051055aa32c28b7413c2",
@@ -211,7 +233,7 @@
           "title": "网页版在这里可以试试：https://t.co/nv6wcKac7j",
           "url": "https://x.com/op7418/status/2084930189558182137",
           "published_at": "2026-08-05T09:11:07Z",
-          "summary": "网页版在这里可以试试：colaskill.com💬0🔄2❤️8👀2879📊3⚡ Powered by xgo.ing"
+          "summary": "网页版在这里可以试试：colaskill.com💬0🔄2❤️8👀3102📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "c2c1a9330671b91ea7c89d72f8a39d28a744c073",
@@ -234,39 +256,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
           "published_at": "2026-08-05T06:46:00Z",
           "summary": "又省上下文token了，朋友们"
-        },
-        {
-          "id": "ace8e7b427b3cd518676eb392dd5fa3c3eb4c4ca",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
-          "url": "https://x.com/op7418/status/2084847925906276437",
-          "published_at": "2026-08-05T03:44:14Z",
-          "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬119🔄1❤️208👀29845📊127⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1bafbd51c942605adae63b9d0017530c20547da3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。\n\n里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。\n\n比如 S...",
-          "url": "https://x.com/op7418/status/2084836896166097261",
-          "published_at": "2026-08-05T03:00:25Z",
-          "summary": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。 里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。 比如 Seedance 2.0、MiniMax H3、可灵（Kling），还有 GPT-Image-2.0 等都有。 完全可以充了以后，打包个 Skills 给那个Codex或者其他 Agent 接入，以后就可以一键调用所有的这种视频和音频 API 模型Pika@pika_labsToday, we’re proud to introduce the Pika API…"
-        },
-        {
-          "id": "6d644b2dad22368d583703f367140e56edc62388",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "FLLUX 3 正式可用了\n\n目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。\n\n此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量...",
-          "url": "https://x.com/op7418/status/2084835615183716741",
-          "published_at": "2026-08-05T02:55:19Z",
-          "summary": "FLLUX 3 正式可用了 目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。 此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量进行渲染。草稿一次只需要 0.06 美元。 目前支持的功能包括： • 文生图 • 文生视频 • 图生视频 • 生成对应音频和不错的文本渲染能力Your browser does not support the video tag.🔗 View on TwitterBlack Forest Labs@bfl_aiFLUX 3 Video is here. Seri…"
         }
       ]
     },
@@ -284,6 +273,28 @@
   },
   "items": [
     {
+      "id": "0c5a17e200be53981eed760b113a0fa4c2fa1247",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "扎克伯格又掀桌子！\n\n他们发了一个新的模型 Muse Spark 1.2 和 Muse Code 编程 Agent。\n\n这玩意价钱便宜得相当于白送，前提是你同意他们的数据收集要求。\n\n当然，你要想用 ...",
+      "url": "https://x.com/op7418/status/2085203402699821505",
+      "published_at": "2026-08-06T03:16:47Z",
+      "summary": "扎克伯格又掀桌子！ 他们发了一个新的模型 Muse Spark 1.2 和 Muse Code 编程 Agent。 这玩意价钱便宜得相当于白送，前提是你同意他们的数据收集要求。 当然，你要想用 Meta 的模型，比用 Anthropic 的模型都麻烦。 我根本无法访问它，它直接不让你访问它的网站，别说能不能登录了。 简单来说，你只要允许它用你的数据进行模型训练，相当于给了你 12 倍的折扣，价格跟DeepSeek-Flash 差不多。 在 DeepSeek 即将涨价的时候，小扎跟上了，AI 圈价格战开始了。Mark Zuckerberg@finkdRel…"
+    },
+    {
+      "id": "20782a66153053d97fae25e5a859abc83f469656",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。\n\n不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
+      "url": "https://x.com/op7418/status/2085194288171008440",
+      "published_at": "2026-08-06T02:40:33Z",
+      "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬47🔄1❤️57👀17364📊43⚡ Powered by xgo.ing"
+    },
+    {
       "id": "c235aa3a79dac795b7eaa6bb48a192463f8d21d8",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -292,7 +303,7 @@
       "title": "这个演示有意思啊\n\n就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。\n\n再加上流式输出这种一行一行展示的效果，看起来非常有感觉。",
       "url": "https://x.com/op7418/status/2084978122894815677",
       "published_at": "2026-08-05T12:21:36Z",
-      "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬48🔄9❤️87👀10686📊63⚡ Powered by xgo.ing"
+      "summary": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。Your browser does not support the video tag.🔗 View on Twitter💬60🔄16❤️157👀14829📊89⚡ Powered by xgo.ing"
     },
     {
       "id": "7582a5bbb9d0c77ec55c051055aa32c28b7413c2",
@@ -303,7 +314,7 @@
       "title": "网页版在这里可以试试：https://t.co/nv6wcKac7j",
       "url": "https://x.com/op7418/status/2084930189558182137",
       "published_at": "2026-08-05T09:11:07Z",
-      "summary": "网页版在这里可以试试：colaskill.com💬0🔄2❤️8👀2879📊3⚡ Powered by xgo.ing"
+      "summary": "网页版在这里可以试试：colaskill.com💬0🔄2❤️8👀3102📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "c2c1a9330671b91ea7c89d72f8a39d28a744c073",
@@ -326,39 +337,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
       "published_at": "2026-08-05T06:46:00Z",
       "summary": "又省上下文token了，朋友们"
-    },
-    {
-      "id": "ace8e7b427b3cd518676eb392dd5fa3c3eb4c4ca",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
-      "url": "https://x.com/op7418/status/2084847925906276437",
-      "published_at": "2026-08-05T03:44:14Z",
-      "summary": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点💬119🔄1❤️208👀29845📊127⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1bafbd51c942605adae63b9d0017530c20547da3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。\n\n里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。\n\n比如 S...",
-      "url": "https://x.com/op7418/status/2084836896166097261",
-      "published_at": "2026-08-05T03:00:25Z",
-      "summary": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。 里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。 比如 Seedance 2.0、MiniMax H3、可灵（Kling），还有 GPT-Image-2.0 等都有。 完全可以充了以后，打包个 Skills 给那个Codex或者其他 Agent 接入，以后就可以一键调用所有的这种视频和音频 API 模型Pika@pika_labsToday, we’re proud to introduce the Pika API…"
-    },
-    {
-      "id": "6d644b2dad22368d583703f367140e56edc62388",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "FLLUX 3 正式可用了\n\n目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。\n\n此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量...",
-      "url": "https://x.com/op7418/status/2084835615183716741",
-      "published_at": "2026-08-05T02:55:19Z",
-      "summary": "FLLUX 3 正式可用了 目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。 此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量进行渲染。草稿一次只需要 0.06 美元。 目前支持的功能包括： • 文生图 • 文生视频 • 图生视频 • 生成对应音频和不错的文本渲染能力Your browser does not support the video tag.🔗 View on TwitterBlack Forest Labs@bfl_aiFLUX 3 Video is here. Seri…"
     }
   ]
 }
