@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T15:08:53.964917Z",
+  "generated_at": "2026-08-07T00:37:01.307804Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 661,
+      "duration_ms": 698,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 36,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1755,
+      "duration_ms": 1648,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1036,
+      "duration_ms": 1172,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 901,
+      "duration_ms": 1087,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 502,
+      "duration_ms": 1062,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 877,
+      "duration_ms": 643,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 69,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2421,
+      "duration_ms": 2466,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1424,
+      "duration_ms": 571,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c7796212d0820d0c493d3fdb0ecfb80b554d6734",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。\n\n美元的价格是这样的：\n• 480p：0.05 美元 / 秒\n• 720p：0.10 美元 / 秒\n• 1080p：0.20 美元...",
+          "url": "https://x.com/op7418/status/2085377336950886485",
+          "published_at": "2026-08-06T14:47:56Z",
+          "summary": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。 美元的价格是这样的： • 480p：0.05 美元 / 秒 • 720p：0.10 美元 / 秒 • 1080p：0.20 美元 / 秒💬1🔄0❤️3👀1950📊1⚡ Powered by xgo.ing"
+        },
         {
           "id": "b048bdf2de15d9411186712869ba909df703a0ec",
           "site_id": "featuredrss",
@@ -233,7 +244,7 @@
           "title": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。\n\n不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
           "url": "https://x.com/op7418/status/2085194288171008440",
           "published_at": "2026-08-06T02:40:33Z",
-          "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬72🔄1❤️106👀36032📊68⚡ Powered by xgo.ing"
+          "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬74🔄1❤️113👀39904📊70⚡ Powered by xgo.ing"
         },
         {
           "id": "d6978b11796938b1e07f2f3a30bae03df8df734f",
@@ -261,17 +272,205 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "1a026a56d1baf300c801abc69ea125b4acf375b9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @Googl...",
+          "url": "https://x.com/GoogleAI/status/2085460535932232002",
+          "published_at": "2026-08-06T20:18:32Z",
+          "summary": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @GoogleDeepMind team behind Gemini Robotics 2 shares their behind-the-scenes insights and stories ↓Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️10👀5892📊2⚡ Powered b…"
+        },
+        {
+          "id": "64881eec75b86ed36afbf0e9760cf94513c102cf",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "More time to create more videos: You now have until August 11, 2026 at 11:59pm PT to create 10 Gemin...",
+          "url": "https://x.com/GeminiApp/status/2085444245058736363",
+          "published_at": "2026-08-06T19:13:48Z",
+          "summary": "More time to create more videos: You now have until August 11, 2026 at 11:59pm PT to create 10 Gemini Omni videos at no cost in the app or on web. Have fun!Google Gemini@GeminiAppStarting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 2026…"
+        },
+        {
+          "id": "42cd6e11762931894e4e178fdb8a8eb0b46aea3a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "More info on eligibility: https://t.co/jzWCbyaIdg",
+          "url": "https://x.com/GeminiApp/status/2085444246556074441",
+          "published_at": "2026-08-06T19:13:48Z",
+          "summary": "More info on eligibility: goo.gle/4ywMhoX💬4🔄1❤️22👀10745📊6⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "59199f773e3e0eed0e24f94997ea0ed418c31c54",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slide...",
+          "url": "https://x.com/OpenAI/status/2085434718393418101",
+          "published_at": "2026-08-06T18:35:57Z",
+          "summary": "Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and…"
+        },
+        {
+          "id": "7f322093996baa5396a31fe2ff55d92d4f173fb0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "In addition to the upgrade in intelligence with GPT-5.6 Luna, Free and Go users can now use the “Thi...",
+          "url": "https://x.com/OpenAI/status/2085434717051240642",
+          "published_at": "2026-08-06T18:35:56Z",
+          "summary": "In addition to the upgrade in intelligence with GPT-5.6 Luna, Free and Go users can now use the “Think” button for more reasoning on harder questions.💬12🔄19❤️729👀89870📊69⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "09b89e5314b22f73c802748a4046e91c9e0a053a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each...",
+          "url": "https://x.com/OpenAI/status/2085434715675426889",
+          "published_at": "2026-08-06T18:35:56Z",
+          "summary": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.Your browser does not support the video tag.🔗 View on Twitter💬43🔄43❤️1088👀122684📊129⚡ Powered by xgo.in…"
+        },
+        {
+          "id": "5db785f5aac176f8ea0ba901d20b814a208a1e1b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent expe...",
+          "url": "https://x.com/OpenAI/status/2085434713821565297",
+          "published_at": "2026-08-06T18:35:55Z",
+          "summary": "The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT‑5.5 Instant.💬34🔄4…"
+        },
+        {
+          "id": "511d3c5ef3f1f3aaa05c611fbcba062e1265c3b4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We’re making better intelligence easier to access in ChatGPT for everyone:\n\n- GPT-5.6 Sol now powers...",
+          "url": "https://x.com/OpenAI/status/2085434712429052386",
+          "published_at": "2026-08-06T18:35:55Z",
+          "summary": "We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.You…"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "1a026a56d1baf300c801abc69ea125b4acf375b9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @Googl...",
+      "url": "https://x.com/GoogleAI/status/2085460535932232002",
+      "published_at": "2026-08-06T20:18:32Z",
+      "summary": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @GoogleDeepMind team behind Gemini Robotics 2 shares their behind-the-scenes insights and stories ↓Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️10👀5892📊2⚡ Powered b…"
+    },
+    {
+      "id": "64881eec75b86ed36afbf0e9760cf94513c102cf",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "More time to create more videos: You now have until August 11, 2026 at 11:59pm PT to create 10 Gemin...",
+      "url": "https://x.com/GeminiApp/status/2085444245058736363",
+      "published_at": "2026-08-06T19:13:48Z",
+      "summary": "More time to create more videos: You now have until August 11, 2026 at 11:59pm PT to create 10 Gemini Omni videos at no cost in the app or on web. Have fun!Google Gemini@GeminiAppStarting today, you can create ten videos *at no cost* in Gemini until 11:59pm PT on August 4th, 2026…"
+    },
+    {
+      "id": "42cd6e11762931894e4e178fdb8a8eb0b46aea3a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "More info on eligibility: https://t.co/jzWCbyaIdg",
+      "url": "https://x.com/GeminiApp/status/2085444246556074441",
+      "published_at": "2026-08-06T19:13:48Z",
+      "summary": "More info on eligibility: goo.gle/4ywMhoX💬4🔄1❤️22👀10745📊6⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "59199f773e3e0eed0e24f94997ea0ed418c31c54",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slide...",
+      "url": "https://x.com/OpenAI/status/2085434718393418101",
+      "published_at": "2026-08-06T18:35:57Z",
+      "summary": "Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and…"
+    },
+    {
+      "id": "7f322093996baa5396a31fe2ff55d92d4f173fb0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "In addition to the upgrade in intelligence with GPT-5.6 Luna, Free and Go users can now use the “Thi...",
+      "url": "https://x.com/OpenAI/status/2085434717051240642",
+      "published_at": "2026-08-06T18:35:56Z",
+      "summary": "In addition to the upgrade in intelligence with GPT-5.6 Luna, Free and Go users can now use the “Think” button for more reasoning on harder questions.💬12🔄19❤️729👀89870📊69⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "09b89e5314b22f73c802748a4046e91c9e0a053a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each...",
+      "url": "https://x.com/OpenAI/status/2085434715675426889",
+      "published_at": "2026-08-06T18:35:56Z",
+      "summary": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.Your browser does not support the video tag.🔗 View on Twitter💬43🔄43❤️1088👀122684📊129⚡ Powered by xgo.in…"
+    },
+    {
+      "id": "5db785f5aac176f8ea0ba901d20b814a208a1e1b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent expe...",
+      "url": "https://x.com/OpenAI/status/2085434713821565297",
+      "published_at": "2026-08-06T18:35:55Z",
+      "summary": "The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT‑5.5 Instant.💬34🔄4…"
+    },
+    {
+      "id": "511d3c5ef3f1f3aaa05c611fbcba062e1265c3b4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We’re making better intelligence easier to access in ChatGPT for everyone:\n\n- GPT-5.6 Sol now powers...",
+      "url": "https://x.com/OpenAI/status/2085434712429052386",
+      "published_at": "2026-08-06T18:35:55Z",
+      "summary": "We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.You…"
+    },
+    {
+      "id": "c7796212d0820d0c493d3fdb0ecfb80b554d6734",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。\n\n美元的价格是这样的：\n• 480p：0.05 美元 / 秒\n• 720p：0.10 美元 / 秒\n• 1080p：0.20 美元...",
+      "url": "https://x.com/op7418/status/2085377336950886485",
+      "published_at": "2026-08-06T14:47:56Z",
+      "summary": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。 美元的价格是这样的： • 480p：0.05 美元 / 秒 • 720p：0.10 美元 / 秒 • 1080p：0.20 美元 / 秒💬1🔄0❤️3👀1950📊1⚡ Powered by xgo.ing"
+    },
     {
       "id": "b048bdf2de15d9411186712869ba909df703a0ec",
       "site_id": "featuredrss",
@@ -314,7 +513,7 @@
       "title": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。\n\n不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
       "url": "https://x.com/op7418/status/2085194288171008440",
       "published_at": "2026-08-06T02:40:33Z",
-      "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬72🔄1❤️106👀36032📊68⚡ Powered by xgo.ing"
+      "summary": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。💬74🔄1❤️113👀39904📊70⚡ Powered by xgo.ing"
     },
     {
       "id": "d6978b11796938b1e07f2f3a30bae03df8df734f",
