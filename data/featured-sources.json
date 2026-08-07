@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T09:30:03.246973Z",
+  "generated_at": "2026-08-07T10:27:24.055957Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 17,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 219,
+      "duration_ms": 129,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 34,
+      "duration_ms": 41,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1749,
+      "duration_ms": 1899,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1289,
+      "duration_ms": 1174,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 985,
+      "duration_ms": 784,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 662,
+      "duration_ms": 1068,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 876,
+      "duration_ms": 472,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2264,
+      "duration_ms": 2427,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1498,
+      "duration_ms": 3666,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "是动态的：https://t.co/4692knygnp",
           "url": "https://x.com/op7418/status/2085633471008133150",
           "published_at": "2026-08-07T07:45:43Z",
-          "summary": "是动态的：x.com/op7418/status/…歸藏(guizang.ai)@op7418这个地图展示是动态和 3D 的，补一下动态效果Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️3👀1069📊1⚡ Powered by xgo.ing"
+          "summary": "是动态的：x.com/op7418/status/…歸藏(guizang.ai)@op7418这个地图展示是动态和 3D 的，补一下动态效果Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️4👀1487📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "f78a257bede81155598f3d8a1ed8c49bac28bf0c",
@@ -211,7 +211,7 @@
           "title": "这个地图展示是动态和 3D 的，补一下动态效果",
           "url": "https://x.com/op7418/status/2085633390502719841",
           "published_at": "2026-08-07T07:45:24Z",
-          "summary": "这个地图展示是动态和 3D 的，补一下动态效果Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418用 Codex 搞了一个码表的骑行数据分析和展示🔗 View Quoted Tweet💬4🔄0❤️9👀3816📊4⚡ Powered by xgo.ing"
+          "summary": "这个地图展示是动态和 3D 的，补一下动态效果Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418用 Codex 搞了一个码表的骑行数据分析和展示🔗 View Quoted Tweet💬7🔄0❤️13👀5406📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "aa55e62ec8fd1f716ab65888bcdc48c0f0a47685",
@@ -222,7 +222,18 @@
           "title": "用 Codex 搞了一个码表的骑行数据分析和展示",
           "url": "https://x.com/op7418/status/2085631949281091799",
           "published_at": "2026-08-07T07:39:40Z",
-          "summary": "用 Codex 搞了一个码表的骑行数据分析和展示💬8🔄0❤️7👀4505📊8⚡ Powered by xgo.ing"
+          "summary": "用 Codex 搞了一个码表的骑行数据分析和展示💬8🔄0❤️8👀6347📊8⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "ba92a6ce514f77fcf436bd660b8a4d2eedeac8a9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "一周以后，我想我终于可以来聊聊Seedance 2.5了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685043&idx=1&sn=c844b6ad01c2bd4ae50eb5fcc5bb7a69",
+          "published_at": "2026-08-07T06:13:00Z",
+          "summary": "一次转身后的革新"
         },
         {
           "id": "595116883f8f930e13919987f98d2fb0846d13af",
@@ -233,7 +244,7 @@
           "title": "每周让 GPT 5.6 Pro 分析一下运动的数据，感觉还挺有帮助的",
           "url": "https://x.com/op7418/status/2085570182110695878",
           "published_at": "2026-08-07T03:34:14Z",
-          "summary": "每周让 GPT 5.6 Pro 分析一下运动的数据，感觉还挺有帮助的💬26🔄1❤️14👀7497📊23⚡ Powered by xgo.ing"
+          "summary": "每周让 GPT 5.6 Pro 分析一下运动的数据，感觉还挺有帮助的💬28🔄1❤️16👀8165📊25⚡ Powered by xgo.ing"
         },
         {
           "id": "bfe658d4d4e4cfb5dc3aae591108b8ec134f424e",
@@ -255,7 +266,7 @@
           "title": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。\n\n美元的价格是这样的：\n• 480p：0.05 美元 / 秒\n• 720p：0.10 美元 / 秒\n• 1080p：0.20 美元...",
           "url": "https://x.com/op7418/status/2085377336950886485",
           "published_at": "2026-08-06T14:47:56Z",
-          "summary": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。 美元的价格是这样的： • 480p：0.05 美元 / 秒 • 720p：0.10 美元 / 秒 • 1080p：0.20 美元 / 秒💬1🔄0❤️3👀2767📊1⚡ Powered by xgo.ing"
+          "summary": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。 美元的价格是这样的： • 480p：0.05 美元 / 秒 • 720p：0.10 美元 / 秒 • 1080p：0.20 美元 / 秒💬1🔄0❤️3👀2802📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "b048bdf2de15d9411186712869ba909df703a0ec",
@@ -289,7 +300,7 @@
           "title": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @Googl...",
           "url": "https://x.com/GoogleAI/status/2085460535932232002",
           "published_at": "2026-08-06T20:18:32Z",
-          "summary": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @GoogleDeepMind team behind Gemini Robotics 2 shares their behind-the-scenes insights and stories ↓Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️13👀9136📊3⚡ Powered b…"
+          "summary": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @GoogleDeepMind team behind Gemini Robotics 2 shares their behind-the-scenes insights and stories ↓Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️13👀9296📊3⚡ Powered b…"
         },
         {
           "id": "64881eec75b86ed36afbf0e9760cf94513c102cf",
@@ -311,7 +322,7 @@
           "title": "More info on eligibility: https://t.co/jzWCbyaIdg",
           "url": "https://x.com/GeminiApp/status/2085444246556074441",
           "published_at": "2026-08-06T19:13:48Z",
-          "summary": "More info on eligibility: goo.gle/4ywMhoX💬4🔄2❤️30👀17190📊7⚡ Powered by xgo.ing"
+          "summary": "More info on eligibility: goo.gle/4ywMhoX💬4🔄2❤️30👀17661📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "59199f773e3e0eed0e24f94997ea0ed418c31c54",
@@ -344,7 +355,7 @@
           "title": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each...",
           "url": "https://x.com/OpenAI/status/2085434715675426889",
           "published_at": "2026-08-06T18:35:56Z",
-          "summary": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.Your browser does not support the video tag.🔗 View on Twitter💬61🔄55❤️1435👀184511📊173⚡ Powered by xgo.in…"
+          "summary": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.Your browser does not support the video tag.🔗 View on Twitter💬62🔄57❤️1446👀187461📊175⚡ Powered by xgo.in…"
         },
         {
           "id": "5db785f5aac176f8ea0ba901d20b814a208a1e1b",
@@ -392,7 +403,7 @@
       "title": "是动态的：https://t.co/4692knygnp",
       "url": "https://x.com/op7418/status/2085633471008133150",
       "published_at": "2026-08-07T07:45:43Z",
-      "summary": "是动态的：x.com/op7418/status/…歸藏(guizang.ai)@op7418这个地图展示是动态和 3D 的，补一下动态效果Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️3👀1069📊1⚡ Powered by xgo.ing"
+      "summary": "是动态的：x.com/op7418/status/…歸藏(guizang.ai)@op7418这个地图展示是动态和 3D 的，补一下动态效果Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️4👀1487📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "f78a257bede81155598f3d8a1ed8c49bac28bf0c",
@@ -403,7 +414,7 @@
       "title": "这个地图展示是动态和 3D 的，补一下动态效果",
       "url": "https://x.com/op7418/status/2085633390502719841",
       "published_at": "2026-08-07T07:45:24Z",
-      "summary": "这个地图展示是动态和 3D 的，补一下动态效果Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418用 Codex 搞了一个码表的骑行数据分析和展示🔗 View Quoted Tweet💬4🔄0❤️9👀3816📊4⚡ Powered by xgo.ing"
+      "summary": "这个地图展示是动态和 3D 的，补一下动态效果Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418用 Codex 搞了一个码表的骑行数据分析和展示🔗 View Quoted Tweet💬7🔄0❤️13👀5406📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "aa55e62ec8fd1f716ab65888bcdc48c0f0a47685",
@@ -414,7 +425,18 @@
       "title": "用 Codex 搞了一个码表的骑行数据分析和展示",
       "url": "https://x.com/op7418/status/2085631949281091799",
       "published_at": "2026-08-07T07:39:40Z",
-      "summary": "用 Codex 搞了一个码表的骑行数据分析和展示💬8🔄0❤️7👀4505📊8⚡ Powered by xgo.ing"
+      "summary": "用 Codex 搞了一个码表的骑行数据分析和展示💬8🔄0❤️8👀6347📊8⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "ba92a6ce514f77fcf436bd660b8a4d2eedeac8a9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "一周以后，我想我终于可以来聊聊Seedance 2.5了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685043&idx=1&sn=c844b6ad01c2bd4ae50eb5fcc5bb7a69",
+      "published_at": "2026-08-07T06:13:00Z",
+      "summary": "一次转身后的革新"
     },
     {
       "id": "595116883f8f930e13919987f98d2fb0846d13af",
@@ -425,7 +447,7 @@
       "title": "每周让 GPT 5.6 Pro 分析一下运动的数据，感觉还挺有帮助的",
       "url": "https://x.com/op7418/status/2085570182110695878",
       "published_at": "2026-08-07T03:34:14Z",
-      "summary": "每周让 GPT 5.6 Pro 分析一下运动的数据，感觉还挺有帮助的💬26🔄1❤️14👀7497📊23⚡ Powered by xgo.ing"
+      "summary": "每周让 GPT 5.6 Pro 分析一下运动的数据，感觉还挺有帮助的💬28🔄1❤️16👀8165📊25⚡ Powered by xgo.ing"
     },
     {
       "id": "bfe658d4d4e4cfb5dc3aae591108b8ec134f424e",
@@ -447,7 +469,7 @@
       "title": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @Googl...",
       "url": "https://x.com/GoogleAI/status/2085460535932232002",
       "published_at": "2026-08-06T20:18:32Z",
-      "summary": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @GoogleDeepMind team behind Gemini Robotics 2 shares their behind-the-scenes insights and stories ↓Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️13👀9136📊3⚡ Powered b…"
+      "summary": "@GoogleDeepMind Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @GoogleDeepMind team behind Gemini Robotics 2 shares their behind-the-scenes insights and stories ↓Your browser does not support the video tag.🔗 View on Twitter💬1🔄1❤️13👀9296📊3⚡ Powered b…"
     },
     {
       "id": "64881eec75b86ed36afbf0e9760cf94513c102cf",
@@ -469,7 +491,7 @@
       "title": "More info on eligibility: https://t.co/jzWCbyaIdg",
       "url": "https://x.com/GeminiApp/status/2085444246556074441",
       "published_at": "2026-08-06T19:13:48Z",
-      "summary": "More info on eligibility: goo.gle/4ywMhoX💬4🔄2❤️30👀17190📊7⚡ Powered by xgo.ing"
+      "summary": "More info on eligibility: goo.gle/4ywMhoX💬4🔄2❤️30👀17661📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "59199f773e3e0eed0e24f94997ea0ed418c31c54",
@@ -502,7 +524,7 @@
       "title": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each...",
       "url": "https://x.com/OpenAI/status/2085434715675426889",
       "published_at": "2026-08-06T18:35:56Z",
-      "summary": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.Your browser does not support the video tag.🔗 View on Twitter💬61🔄55❤️1435👀184511📊173⚡ Powered by xgo.in…"
+      "summary": "Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.Your browser does not support the video tag.🔗 View on Twitter💬62🔄57❤️1446👀187461📊175⚡ Powered by xgo.in…"
     },
     {
       "id": "5db785f5aac176f8ea0ba901d20b814a208a1e1b",
@@ -546,7 +568,7 @@
       "title": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。\n\n美元的价格是这样的：\n• 480p：0.05 美元 / 秒\n• 720p：0.10 美元 / 秒\n• 1080p：0.20 美元...",
       "url": "https://x.com/op7418/status/2085377336950886485",
       "published_at": "2026-08-06T14:47:56Z",
-      "summary": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。 美元的价格是这样的： • 480p：0.05 美元 / 秒 • 720p：0.10 美元 / 秒 • 1080p：0.20 美元 / 秒💬1🔄0❤️3👀2767📊1⚡ Powered by xgo.ing"
+      "summary": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。 美元的价格是这样的： • 480p：0.05 美元 / 秒 • 720p：0.10 美元 / 秒 • 1080p：0.20 美元 / 秒💬1🔄0❤️3👀2802📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "b048bdf2de15d9411186712869ba909df703a0ec",
