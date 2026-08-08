@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T17:01:26.725788Z",
+  "generated_at": "2026-08-08T17:54:49.771072Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 584,
+      "duration_ms": 646,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 23,
+      "duration_ms": 33,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1705,
+      "duration_ms": 1731,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1237,
+      "duration_ms": 1184,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1298,
+      "duration_ms": 1152,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1253,
+      "duration_ms": 609,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 833,
+      "duration_ms": 356,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 27,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2382,
+      "duration_ms": 2100,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 551,
+      "duration_ms": 1139,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,40 +200,7 @@
           "title": "Karpathy 居然锁定了他的账户，也改了签名。\n\n他说因为机器人活动和其他问题，估计是受不了那些 AI 和机器人的回复了。\n\n锁定以后，新用户无法关注他，也没办法看到他的内容，只有已经关注的人才能...",
           "url": "https://x.com/op7418/status/2085903657053340078",
           "published_at": "2026-08-08T01:39:20Z",
-          "summary": "Karpathy 居然锁定了他的账户，也改了签名。 他说因为机器人活动和其他问题，估计是受不了那些 AI 和机器人的回复了。 锁定以后，新用户无法关注他，也没办法看到他的内容，只有已经关注的人才能看到。💬77🔄1❤️36👀25221📊68⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "516a5b2d71d46d1bea3b6669f5fa9244f07cd4f4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Open Code 的 Open Code Go Code Plan 现在 DeepSeek-V4 Flash 0731 的使用量额度翻倍了，感觉相当划算。\n\n10 美元套餐的额度从每个月的 60 美...",
-          "url": "https://x.com/op7418/status/2085781426382012497",
-          "published_at": "2026-08-07T17:33:38Z",
-          "summary": "Open Code 的 Open Code Go Code Plan 现在 DeepSeek-V4 Flash 0731 的使用量额度翻倍了，感觉相当划算。 10 美元套餐的额度从每个月的 60 美元额度变成了等效 120 美元。差不多 31 万次请求，几乎等于免费了 同时，他们这个也能用其他的开源模型，比如 K3 之类的。 Codepilot 也对这个做了深度适配，可以用他们所有的模型，所以可以试试。 而且 Codepilot 里边可以将这些模型用在 Claude Code、Codex 以及 AI SDK 3 种 Agent 的框架下OpenCode@…"
-        },
-        {
-          "id": "64287e2d5a4d6bfc755cbb5e50dc4e8fb56a8967",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "等一等苹果的阔折叠",
-          "url": "https://x.com/op7418/status/2085777231264293107",
-          "published_at": "2026-08-07T17:16:58Z",
-          "summary": "等一等苹果的阔折叠💬0🔄0❤️2👀2122⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7abc426e86c486514e7a8d84d74668f038b42f2d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "三星新发布的这个 Fold 8 看起来非常适合运行一些编码 Agent 呀",
-          "url": "https://x.com/op7418/status/2085775841372627452",
-          "published_at": "2026-08-07T17:11:27Z",
-          "summary": "三星新发布的这个 Fold 8 看起来非常适合运行一些编码 Agent 呀DHH@dhhSamsung Fold 8 as an on-the-go agent terminal is pretty compelling. What a delightful form factor.🔗 View Quoted Tweet💬13🔄0❤️14👀10612📊10⚡ Powered by xgo.ing"
+          "summary": "Karpathy 居然锁定了他的账户，也改了签名。 他说因为机器人活动和其他问题，估计是受不了那些 AI 和机器人的回复了。 锁定以后，新用户无法关注他，也没办法看到他的内容，只有已经关注的人才能看到。💬79🔄2❤️38👀25711📊70⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -282,7 +249,7 @@
       "title": "Karpathy 居然锁定了他的账户，也改了签名。\n\n他说因为机器人活动和其他问题，估计是受不了那些 AI 和机器人的回复了。\n\n锁定以后，新用户无法关注他，也没办法看到他的内容，只有已经关注的人才能...",
       "url": "https://x.com/op7418/status/2085903657053340078",
       "published_at": "2026-08-08T01:39:20Z",
-      "summary": "Karpathy 居然锁定了他的账户，也改了签名。 他说因为机器人活动和其他问题，估计是受不了那些 AI 和机器人的回复了。 锁定以后，新用户无法关注他，也没办法看到他的内容，只有已经关注的人才能看到。💬77🔄1❤️36👀25221📊68⚡ Powered by xgo.ing"
+      "summary": "Karpathy 居然锁定了他的账户，也改了签名。 他说因为机器人活动和其他问题，估计是受不了那些 AI 和机器人的回复了。 锁定以后，新用户无法关注他，也没办法看到他的内容，只有已经关注的人才能看到。💬79🔄2❤️38👀25711📊70⚡ Powered by xgo.ing"
     },
     {
       "id": "8b04041c710e950af048a9cbb73cd99f00dffdd4",
@@ -305,39 +272,6 @@
       "url": "https://x.com/OpenAI/status/2085801349866729975",
       "published_at": "2026-08-07T18:52:48Z",
       "summary": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happe…"
-    },
-    {
-      "id": "516a5b2d71d46d1bea3b6669f5fa9244f07cd4f4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Open Code 的 Open Code Go Code Plan 现在 DeepSeek-V4 Flash 0731 的使用量额度翻倍了，感觉相当划算。\n\n10 美元套餐的额度从每个月的 60 美...",
-      "url": "https://x.com/op7418/status/2085781426382012497",
-      "published_at": "2026-08-07T17:33:38Z",
-      "summary": "Open Code 的 Open Code Go Code Plan 现在 DeepSeek-V4 Flash 0731 的使用量额度翻倍了，感觉相当划算。 10 美元套餐的额度从每个月的 60 美元额度变成了等效 120 美元。差不多 31 万次请求，几乎等于免费了 同时，他们这个也能用其他的开源模型，比如 K3 之类的。 Codepilot 也对这个做了深度适配，可以用他们所有的模型，所以可以试试。 而且 Codepilot 里边可以将这些模型用在 Claude Code、Codex 以及 AI SDK 3 种 Agent 的框架下OpenCode@…"
-    },
-    {
-      "id": "64287e2d5a4d6bfc755cbb5e50dc4e8fb56a8967",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "等一等苹果的阔折叠",
-      "url": "https://x.com/op7418/status/2085777231264293107",
-      "published_at": "2026-08-07T17:16:58Z",
-      "summary": "等一等苹果的阔折叠💬0🔄0❤️2👀2122⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7abc426e86c486514e7a8d84d74668f038b42f2d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "三星新发布的这个 Fold 8 看起来非常适合运行一些编码 Agent 呀",
-      "url": "https://x.com/op7418/status/2085775841372627452",
-      "published_at": "2026-08-07T17:11:27Z",
-      "summary": "三星新发布的这个 Fold 8 看起来非常适合运行一些编码 Agent 呀DHH@dhhSamsung Fold 8 as an on-the-go agent terminal is pretty compelling. What a delightful form factor.🔗 View Quoted Tweet💬13🔄0❤️14👀10612📊10⚡ Powered by xgo.ing"
     }
   ]
 }
