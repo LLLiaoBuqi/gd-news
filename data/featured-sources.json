@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T01:12:39.083607Z",
+  "generated_at": "2026-08-10T03:23:14.405024Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 252,
+      "duration_ms": 630,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 70,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1532,
+      "duration_ms": 1661,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 898,
+      "duration_ms": 1166,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 839,
+      "duration_ms": 925,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 797,
+      "duration_ms": 731,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 383,
+      "duration_ms": 357,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 91,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2008,
+      "duration_ms": 2215,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 772,
+      "duration_ms": 1383,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,39 +201,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
           "published_at": "2026-08-09T05:25:00Z",
           "summary": "LibTV上用S2.5最低只要0.4元/秒了"
-        },
-        {
-          "id": "3bd6348c2acc7198933cd54ae78c575cfeab0a1e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这次重置的原因是 OpenAI 的 Tibo 和 Anthropic 的 Boris 在一个人的反馈下面呛起来了。\n\n事情的起因是，那个人按照 OpenAI 的指导在 Cloud Code 里使用 G...",
-          "url": "https://x.com/op7418/status/2086283765132022130",
-          "published_at": "2026-08-09T02:49:45Z",
-          "summary": "这次重置的原因是 OpenAI 的 Tibo 和 Anthropic 的 Boris 在一个人的反馈下面呛起来了。 事情的起因是，那个人按照 OpenAI 的指导在 Cloud Code 里使用 GPT 模型，结果账号突然被封了。他询问 Boris 怎么回事，两人就都来了。 随后，Boris 邀请 Tibo去 Anthropic，Table 说不去了，并顺手重置了 Codex 的限制。 估计这是为了恶心 Anthropic，说他们不开放。 有人说，大部分人都是周末重置，但周末的这种重置是表演性质的，没有什么意义。所以 Tibo 就说，周一还有一次重置歸藏…"
-        },
-        {
-          "id": "300eac63de03553a6c49f655b8cf3777e96fca7e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "周一晚上还有一次重置：",
-          "url": "https://x.com/op7418/status/2086281026737959117",
-          "published_at": "2026-08-09T02:38:52Z",
-          "summary": "周一晚上还有一次重置：Tibo@thsottiaux@rxmphai I'll do another performative reset on Monday🔗 View Quoted Tweet💬2🔄0❤️10👀7547📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "725f8b854b56fe97ea83e50dfed0c2639811b7cb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "啊？突然就重置了",
-          "url": "https://x.com/op7418/status/2086280578215924039",
-          "published_at": "2026-08-09T02:37:05Z",
-          "summary": "啊？突然就重置了Tibo@thsottiauxThat's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. To celebrate this, together with the fact that I'm not going anywhere... I have reset usage limits for all paid users of ChatGPT Work and Codex. Have fun…"
         }
       ]
     },
@@ -260,39 +227,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
       "published_at": "2026-08-09T05:25:00Z",
       "summary": "LibTV上用S2.5最低只要0.4元/秒了"
-    },
-    {
-      "id": "3bd6348c2acc7198933cd54ae78c575cfeab0a1e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这次重置的原因是 OpenAI 的 Tibo 和 Anthropic 的 Boris 在一个人的反馈下面呛起来了。\n\n事情的起因是，那个人按照 OpenAI 的指导在 Cloud Code 里使用 G...",
-      "url": "https://x.com/op7418/status/2086283765132022130",
-      "published_at": "2026-08-09T02:49:45Z",
-      "summary": "这次重置的原因是 OpenAI 的 Tibo 和 Anthropic 的 Boris 在一个人的反馈下面呛起来了。 事情的起因是，那个人按照 OpenAI 的指导在 Cloud Code 里使用 GPT 模型，结果账号突然被封了。他询问 Boris 怎么回事，两人就都来了。 随后，Boris 邀请 Tibo去 Anthropic，Table 说不去了，并顺手重置了 Codex 的限制。 估计这是为了恶心 Anthropic，说他们不开放。 有人说，大部分人都是周末重置，但周末的这种重置是表演性质的，没有什么意义。所以 Tibo 就说，周一还有一次重置歸藏…"
-    },
-    {
-      "id": "300eac63de03553a6c49f655b8cf3777e96fca7e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "周一晚上还有一次重置：",
-      "url": "https://x.com/op7418/status/2086281026737959117",
-      "published_at": "2026-08-09T02:38:52Z",
-      "summary": "周一晚上还有一次重置：Tibo@thsottiaux@rxmphai I'll do another performative reset on Monday🔗 View Quoted Tweet💬2🔄0❤️10👀7547📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "725f8b854b56fe97ea83e50dfed0c2639811b7cb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "啊？突然就重置了",
-      "url": "https://x.com/op7418/status/2086280578215924039",
-      "published_at": "2026-08-09T02:37:05Z",
-      "summary": "啊？突然就重置了Tibo@thsottiauxThat's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. To celebrate this, together with the fact that I'm not going anywhere... I have reset usage limits for all paid users of ChatGPT Work and Codex. Have fun…"
     }
   ]
 }
