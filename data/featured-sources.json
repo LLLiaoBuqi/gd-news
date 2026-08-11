@@ -1,13 +1,17 @@
 {
-  "generated_at": "2026-08-11T01:51:26.899446Z",
+  "generated_at": "2026-08-11T03:29:23.004406Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 0,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 5,
   "failed_feeds": [
+    "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
+    "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
+    "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
+    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -20,7 +24,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 565,
+      "duration_ms": 164,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +38,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 28,
+      "duration_ms": 163,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -46,10 +50,10 @@
       "feed_title": "Google AI(@GoogleAI)",
       "feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 3115,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 226,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Max retries exceeded with url: /rss/user/4de0bd2d5cef4333a0260dc8157054a7 (Caused by NewConnectionError(\"HTTPSConnection(host='api.xgo.ing', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -60,10 +64,10 @@
       "feed_title": "Google Gemini(@GeminiApp)",
       "feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 1818,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 223,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Max retries exceeded with url: /rss/user/6fb337feeec44ca38b79491b971d868d (Caused by NewConnectionError(\"HTTPSConnection(host='api.xgo.ing', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -74,10 +78,10 @@
       "feed_title": "OpenAI(@OpenAI)",
       "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 1757,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 231,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Max retries exceeded with url: /rss/user/0c0856a69f9f49cf961018c32a0b0049 (Caused by NewConnectionError(\"HTTPSConnection(host='api.xgo.ing', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -90,7 +94,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 509,
+      "duration_ms": 724,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +122,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 270,
+      "duration_ms": 545,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +136,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 89,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -144,10 +148,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 3792,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 199,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Max retries exceeded with url: /rss/user/831fac36aa0a49a9af79f35dc1c9b5d9 (Caused by NewConnectionError(\"HTTPSConnection(host='api.xgo.ing', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -174,7 +178,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 986,
+      "duration_ms": 990,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,160 +188,29 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 0,
       "feed_total": 5,
-      "ok_feeds": 4,
+      "ok_feeds": 3,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
       ],
-      "items": [
-        {
-          "id": "e819310b3131df4a2f5d726c440b4fe5134dd606",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "重置了",
-          "url": "https://x.com/op7418/status/2086987109739671626",
-          "published_at": "2026-08-11T01:24:35Z",
-          "summary": "重置了Tibo@thsottiauxHi. It is done.🔗 View Quoted Tweet💬1🔄0❤️4👀871📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "9681aa5be6df0846172a7492cc897190bfb58ec9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养",
-          "url": "https://x.com/op7418/status/2086773845646885112",
-          "published_at": "2026-08-10T11:17:09Z",
-          "summary": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养💬36🔄1❤️33👀5815📊35⚡ Powered by xgo.ing"
-        }
-      ]
+      "items": []
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 0,
       "feed_total": 7,
-      "ok_feeds": 5,
+      "ok_feeds": 2,
       "failed_feeds": [
+        "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
+        "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
+        "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "40f670b368e65d67c7d93a6e8b7c0082623affe6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncov...",
-          "url": "https://x.com/OpenAI/status/2086864372500942906",
-          "published_at": "2026-08-10T17:16:53Z",
-          "summary": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.💬10🔄8❤️377👀66560📊42⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "fbb21cb112e99d39201cdd7f9489d6843df0a8f8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders,...",
-          "url": "https://x.com/OpenAI/status/2086864374837150108",
-          "published_at": "2026-08-10T17:16:53Z",
-          "summary": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. openai.com/index/expandin…💬12🔄8❤️299👀60188📊39⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0e46fdd986b65582facc95a4078d1e084aba4860",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Daybreak Red provides access to purpose-trained cybersecurity models, including GPT-5.6-Cyber, for a...",
-          "url": "https://x.com/OpenAI/status/2086864369825329219",
-          "published_at": "2026-08-10T17:16:52Z",
-          "summary": "Daybreak Red provides access to purpose-trained cybersecurity models, including GPT-5.6-Cyber, for authorized vulnerability research, exploit validation, and security testing. It’s designed for experienced defenders working on complex, authorized cybersecurity challenges.💬7🔄20❤️4…"
-        },
-        {
-          "id": "516fff45dd66f140d05ee36eed41d7940f5254f8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for...",
-          "url": "https://x.com/OpenAI/status/2086864365379010729",
-          "published_at": "2026-08-10T17:16:51Z",
-          "summary": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we’re putting frontier intelligence in the hands of trusted defenders before attackers can deploy offensi…"
-        }
-      ]
+      "items": []
     }
   },
-  "items": [
-    {
-      "id": "e819310b3131df4a2f5d726c440b4fe5134dd606",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "重置了",
-      "url": "https://x.com/op7418/status/2086987109739671626",
-      "published_at": "2026-08-11T01:24:35Z",
-      "summary": "重置了Tibo@thsottiauxHi. It is done.🔗 View Quoted Tweet💬1🔄0❤️4👀871📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "40f670b368e65d67c7d93a6e8b7c0082623affe6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncov...",
-      "url": "https://x.com/OpenAI/status/2086864372500942906",
-      "published_at": "2026-08-10T17:16:53Z",
-      "summary": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.💬10🔄8❤️377👀66560📊42⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "fbb21cb112e99d39201cdd7f9489d6843df0a8f8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders,...",
-      "url": "https://x.com/OpenAI/status/2086864374837150108",
-      "published_at": "2026-08-10T17:16:53Z",
-      "summary": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. openai.com/index/expandin…💬12🔄8❤️299👀60188📊39⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0e46fdd986b65582facc95a4078d1e084aba4860",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Daybreak Red provides access to purpose-trained cybersecurity models, including GPT-5.6-Cyber, for a...",
-      "url": "https://x.com/OpenAI/status/2086864369825329219",
-      "published_at": "2026-08-10T17:16:52Z",
-      "summary": "Daybreak Red provides access to purpose-trained cybersecurity models, including GPT-5.6-Cyber, for authorized vulnerability research, exploit validation, and security testing. It’s designed for experienced defenders working on complex, authorized cybersecurity challenges.💬7🔄20❤️4…"
-    },
-    {
-      "id": "516fff45dd66f140d05ee36eed41d7940f5254f8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for...",
-      "url": "https://x.com/OpenAI/status/2086864365379010729",
-      "published_at": "2026-08-10T17:16:51Z",
-      "summary": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we’re putting frontier intelligence in the hands of trusted defenders before attackers can deploy offensi…"
-    },
-    {
-      "id": "9681aa5be6df0846172a7492cc897190bfb58ec9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养",
-      "url": "https://x.com/op7418/status/2086773845646885112",
-      "published_at": "2026-08-10T11:17:09Z",
-      "summary": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养💬36🔄1❤️33👀5815📊35⚡ Powered by xgo.ing"
-    }
-  ]
+  "items": []
 }
