@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T03:29:23.004406Z",
+  "generated_at": "2026-08-11T04:49:35.035856Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 170,
-      "duration_ms": 2944,
+      "duration_ms": 3047,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 78,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 34,
-      "duration_ms": 538,
+      "duration_ms": 61,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 416,
+      "duration_ms": 455,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 404,
+      "duration_ms": 526,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 336,
-      "duration_ms": 13135,
+      "item_count": 344,
+      "duration_ms": 15119,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1019,
+      "duration_ms": 1693,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3025,
-      "duration_ms": 1087,
+      "item_count": 3022,
+      "duration_ms": 1384,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 80,
-      "duration_ms": 648,
+      "item_count": 79,
+      "duration_ms": 483,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5021,
+      "duration_ms": 5033,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1365,
+      "duration_ms": 1225,
       "error": null
     },
     {
@@ -94,21 +94,21 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 126,
-      "duration_ms": 1376,
+      "duration_ms": 1713,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 7,
-      "item_count": 26,
-      "duration_ms": 7267,
-      "error": "7 feeds failed",
+      "partial_failures": 3,
+      "item_count": 226,
+      "duration_ms": 12441,
+      "error": "3 feeds failed",
       "feed_count": 13,
       "effective_feed_count": 10,
-      "ok_feed_count": 6,
-      "failed_feed_count": 7,
+      "ok_feed_count": 10,
+      "failed_feed_count": 3,
       "skipped_feed_count": 3,
       "replaced_feed_count": 0
     }
@@ -119,22 +119,18 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4967,
-  "items_before_topic_filter": 7213,
-  "items_in_24h": 680,
+  "fetched_raw_items": 5171,
+  "items_before_topic_filter": 7493,
+  "items_in_24h": 694,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 13,
     "effective_feed_total": 10,
-    "ok_feeds": 3,
+    "ok_feeds": 7,
     "failed_feeds": [
-      "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-      "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
-      "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "rsshub://bilibili/user/video/302188068",
       "https://imjuya.github.io/juya-ai-daily/rss.xml",
-      "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "rsshub://bilibili/user/video/385670211"
     ],
     "zero_item_feeds": [
@@ -164,7 +160,7 @@
         "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 278,
+        "duration_ms": 296,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -178,7 +174,7 @@
         "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
         "ok": true,
         "item_count": 16,
-        "duration_ms": 145,
+        "duration_ms": 127,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -190,10 +186,10 @@
         "feed_title": "Google AI(@GoogleAI)",
         "feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
         "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 176,
-        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Max retries exceeded with url: /rss/user/4de0bd2d5cef4333a0260dc8157054a7 (Caused by NewConnectionError(\"HTTPSConnection(host='api.xgo.ing', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1987,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
@@ -204,10 +200,10 @@
         "feed_title": "Google Gemini(@GeminiApp)",
         "feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
         "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 175,
-        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Max retries exceeded with url: /rss/user/6fb337feeec44ca38b79491b971d868d (Caused by NewConnectionError(\"HTTPSConnection(host='api.xgo.ing', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1183,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
@@ -220,7 +216,7 @@
         "effective_feed_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 6098,
+        "duration_ms": 5157,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -232,10 +228,10 @@
         "feed_title": "OpenAI(@OpenAI)",
         "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 177,
-        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Max retries exceeded with url: /rss/user/0c0856a69f9f49cf961018c32a0b0049 (Caused by NewConnectionError(\"HTTPSConnection(host='api.xgo.ing', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1080,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
@@ -290,7 +286,7 @@
         "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 44,
+        "duration_ms": 46,
         "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -302,10 +298,10 @@
         "feed_title": "歸藏(guizang.ai)(@op7418)",
         "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
         "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 173,
-        "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Max retries exceeded with url: /rss/user/831fac36aa0a49a9af79f35dc1c9b5d9 (Caused by NewConnectionError(\"HTTPSConnection(host='api.xgo.ing', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 2565,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false
@@ -318,7 +314,7 @@
         "effective_feed_url": "rsshub://bilibili/user/video/385670211",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 1,
+        "duration_ms": 0,
         "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
         "skipped": false,
         "skip_reason": null,
