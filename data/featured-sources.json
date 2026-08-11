@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T23:58:25.696319Z",
+  "generated_at": "2026-08-11T01:51:26.899446Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 248,
+      "duration_ms": 565,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 68,
+      "duration_ms": 28,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1869,
+      "duration_ms": 3115,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1292,
+      "duration_ms": 1818,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1065,
+      "duration_ms": 1757,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 824,
+      "duration_ms": 509,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 882,
+      "duration_ms": 270,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 59,
+      "duration_ms": 21,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2107,
+      "duration_ms": 3792,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1526,
+      "duration_ms": 986,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -192,6 +192,17 @@
       ],
       "items": [
         {
+          "id": "e819310b3131df4a2f5d726c440b4fe5134dd606",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "重置了",
+          "url": "https://x.com/op7418/status/2086987109739671626",
+          "published_at": "2026-08-11T01:24:35Z",
+          "summary": "重置了Tibo@thsottiauxHi. It is done.🔗 View Quoted Tweet💬1🔄0❤️4👀871📊1⚡ Powered by xgo.ing"
+        },
+        {
           "id": "9681aa5be6df0846172a7492cc897190bfb58ec9",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -200,24 +211,13 @@
           "title": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养",
           "url": "https://x.com/op7418/status/2086773845646885112",
           "published_at": "2026-08-10T11:17:09Z",
-          "summary": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养💬32🔄1❤️30👀5351📊31⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4604d17d2d062a2a06468aac0d00fd5fc55bb334",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
-          "published_at": "2026-08-10T00:52:00Z",
-          "summary": "模型也来打排位"
+          "summary": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养💬36🔄1❤️33👀5815📊35⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -234,7 +234,7 @@
           "title": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncov...",
           "url": "https://x.com/OpenAI/status/2086864372500942906",
           "published_at": "2026-08-10T17:16:53Z",
-          "summary": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.💬10🔄8❤️367👀63199📊41⚡ Powered by xgo.ing"
+          "summary": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.💬10🔄8❤️377👀66560📊42⚡ Powered by xgo.ing"
         },
         {
           "id": "fbb21cb112e99d39201cdd7f9489d6843df0a8f8",
@@ -245,7 +245,7 @@
           "title": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders,...",
           "url": "https://x.com/OpenAI/status/2086864374837150108",
           "published_at": "2026-08-10T17:16:53Z",
-          "summary": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. openai.com/index/expandin…💬12🔄8❤️295👀57158📊38⚡ Powered by xgo.ing"
+          "summary": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. openai.com/index/expandin…💬12🔄8❤️299👀60188📊39⚡ Powered by xgo.ing"
         },
         {
           "id": "0e46fdd986b65582facc95a4078d1e084aba4860",
@@ -268,22 +268,22 @@
           "url": "https://x.com/OpenAI/status/2086864365379010729",
           "published_at": "2026-08-10T17:16:51Z",
           "summary": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we’re putting frontier intelligence in the hands of trusted defenders before attackers can deploy offensi…"
-        },
-        {
-          "id": "306ca98996978ba33a31b635f93a274447045395",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Learning more about Claude's mathematical capabilities",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "published_at": "2026-08-10T00:00:00Z",
-          "summary": "Learning more about Claude's mathematical capabilities"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "e819310b3131df4a2f5d726c440b4fe5134dd606",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "重置了",
+      "url": "https://x.com/op7418/status/2086987109739671626",
+      "published_at": "2026-08-11T01:24:35Z",
+      "summary": "重置了Tibo@thsottiauxHi. It is done.🔗 View Quoted Tweet💬1🔄0❤️4👀871📊1⚡ Powered by xgo.ing"
+    },
     {
       "id": "40f670b368e65d67c7d93a6e8b7c0082623affe6",
       "site_id": "featuredrss",
@@ -293,7 +293,7 @@
       "title": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncov...",
       "url": "https://x.com/OpenAI/status/2086864372500942906",
       "published_at": "2026-08-10T17:16:53Z",
-      "summary": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.💬10🔄8❤️367👀63199📊41⚡ Powered by xgo.ing"
+      "summary": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.💬10🔄8❤️377👀66560📊42⚡ Powered by xgo.ing"
     },
     {
       "id": "fbb21cb112e99d39201cdd7f9489d6843df0a8f8",
@@ -304,7 +304,7 @@
       "title": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders,...",
       "url": "https://x.com/OpenAI/status/2086864374837150108",
       "published_at": "2026-08-10T17:16:53Z",
-      "summary": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. openai.com/index/expandin…💬12🔄8❤️295👀57158📊38⚡ Powered by xgo.ing"
+      "summary": "Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. openai.com/index/expandin…💬12🔄8❤️299👀60188📊39⚡ Powered by xgo.ing"
     },
     {
       "id": "0e46fdd986b65582facc95a4078d1e084aba4860",
@@ -337,29 +337,7 @@
       "title": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养",
       "url": "https://x.com/op7418/status/2086773845646885112",
       "published_at": "2026-08-10T11:17:09Z",
-      "summary": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养💬32🔄1❤️30👀5351📊31⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4604d17d2d062a2a06468aac0d00fd5fc55bb334",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
-      "published_at": "2026-08-10T00:52:00Z",
-      "summary": "模型也来打排位"
-    },
-    {
-      "id": "306ca98996978ba33a31b635f93a274447045395",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "published_at": "2026-08-10T00:00:00Z",
-      "summary": "Learning more about Claude's mathematical capabilities"
+      "summary": "收到了 @vista8 和金刚的新书《AI 领导力》感觉还是挺适合入门读的，可以帮普通人快速地培养 AI 思维和 AI 素养💬36🔄1❤️33👀5815📊35⚡ Powered by xgo.ing"
     }
   ]
 }
