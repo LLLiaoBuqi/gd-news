@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T11:41:37.713001Z",
+  "generated_at": "2026-08-13T12:54:27.916925Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 24,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 204,
+      "duration_ms": 623,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 31,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1859,
+      "duration_ms": 1532,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1344,
+      "duration_ms": 917,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1099,
+      "duration_ms": 850,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1645,
+      "duration_ms": 433,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2470,
+      "duration_ms": 2311,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1356,
+      "duration_ms": 1333,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,79 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 13,
+      "total_items": 19,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "1b51943396d5822177b02f8d20baa46f78a5716e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "可能会有单独的套餐吧，要不就是 API 涨价推他们的 Harness？",
+          "url": "https://x.com/op7418/status/2087870651042496722",
+          "published_at": "2026-08-13T11:55:28Z",
+          "summary": "可能会有单独的套餐吧，要不就是 API 涨价推他们的 Harness？💬1🔄0❤️0👀146📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "765dbcc7a905b02ddb51f9c8daaf9c6913f9c175",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Deepseek Harness 内测群说晚上 8:25 左右发布。",
+          "url": "https://x.com/op7418/status/2087869793974292483",
+          "published_at": "2026-08-13T11:52:04Z",
+          "summary": "Deepseek Harness 内测群说晚上 8:25 左右发布。歸藏(guizang.ai)@op7418V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。 看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。 同时涨价也尘埃落定了，采用峰谷定价，峰值定价 Pro 模型输出比原来贵了 4 倍多。 空闲时段的 Pro 模型定价比原来贵了一倍多。🔗 View Quoted Tweet💬2🔄0❤️2👀870📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b086431c64df5ab10702b57ff9217fe7d8f7bc4b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "关于 Deepseek 这次涨价，这张图做的清晰一点。\n\n但不知道图是谁做的，从群里拿来的。\n\n我才发现那个 Pro 的缓存命中最高涨了 12 倍价格。",
+          "url": "https://x.com/op7418/status/2087868251242184839",
+          "published_at": "2026-08-13T11:45:56Z",
+          "summary": "关于 Deepseek 这次涨价，这张图做的清晰一点。 但不知道图是谁做的，从群里拿来的。 我才发现那个 Pro 的缓存命中最高涨了 12 倍价格。歸藏(guizang.ai)@op7418卧槽，V4 Pro 08313 正式版涨价，那个峰值最高比原来涨了 4 倍多，这回真成梁子了。🔗 View Quoted Tweet💬3🔄0❤️0👀975📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "28f9887624de042294c06a6827027e80c6d1263b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "卧槽，V4 Pro 08313 正式版涨价，那个峰值最高比原来涨了 4 倍多，这回真成梁子了。",
+          "url": "https://x.com/op7418/status/2087865228122108037",
+          "published_at": "2026-08-13T11:33:55Z",
+          "summary": "卧槽，V4 Pro 08313 正式版涨价，那个峰值最高比原来涨了 4 倍多，这回真成梁子了。歸藏(guizang.ai)@op7418V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。 看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。 同时涨价也尘埃落定了，采用峰谷定价，峰值定价 Pro 模型输出比原来贵了 4 倍多。 空闲时段的 Pro 模型定价比原来贵了一倍多。🔗 View Quoted Tweet💬3🔄0❤️6👀3326📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d3f623ba5170a4350c2d4c3d7ac3a1f9da89b9a3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "详情：https://t.co/fJ1My0KAP6",
+          "url": "https://x.com/op7418/status/2087864311716683984",
+          "published_at": "2026-08-13T11:30:17Z",
+          "summary": "详情：api-docs.deepseek.com/zh-cn/updates💬0🔄0❤️0👀1453⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e1d56a769f18dfc78e548ff520d3134a9d8e707d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。\n\n看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。\n\n同时涨价也尘埃落定了，采用...",
+          "url": "https://x.com/op7418/status/2087863955150799113",
+          "published_at": "2026-08-13T11:28:52Z",
+          "summary": "V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。 看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。 同时涨价也尘埃落定了，采用峰谷定价，峰值定价 Pro 模型输出比原来贵了 4 倍多。 空闲时段的 Pro 模型定价比原来贵了一倍多。歸藏(guizang.ai)@op7418DeepSeek V4 Pro 的 0831 版本不太对劲，他们是不是又把模型给撤了？ 现在的情况非常奇怪： API 确实是有的，在 API 的模型和价格这部分写的是 0813，但是更新日志页面完全没有提到 0813…"
+        },
         {
           "id": "f58aae7b924756990f172ca445e4e9646065b076",
           "site_id": "featuredrss",
@@ -200,7 +266,7 @@
           "title": "开始模型名称打错了，是 0813",
           "url": "https://x.com/op7418/status/2087818300785066362",
           "published_at": "2026-08-13T08:27:27Z",
-          "summary": "开始模型名称打错了，是 0813💬0🔄0❤️0👀3449⚡ Powered by xgo.ing"
+          "summary": "开始模型名称打错了，是 0813💬0🔄0❤️0👀3947⚡ Powered by xgo.ing"
         },
         {
           "id": "3a4aae2d6f31576035ab6881f408b697294ceb53",
@@ -211,7 +277,7 @@
           "title": "分数来源：https://t.co/sxqwabsxRs",
           "url": "https://x.com/op7418/status/2087816217105162558",
           "published_at": "2026-08-13T08:19:10Z",
-          "summary": "分数来源：x.com/ns123abc/statu…NIK@ns123abcreminder that deepseek made NO announcement for the new V4 Pro anywhere on social media because they are ashamed of it >scores only 1 point higher than V4 Flash🔗 View Quoted Tweet💬1🔄0❤️1👀5470📊1⚡ Powered by xgo.ing"
+          "summary": "分数来源：x.com/ns123abc/statu…NIK@ns123abcreminder that deepseek made NO announcement for the new V4 Pro anywhere on social media because they are ashamed of it >scores only 1 point higher than V4 Flash🔗 View Quoted Tweet💬1🔄0❤️1👀6241📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "931f79f4a09f746e71a8088683e4edd44d3bdb5b",
@@ -244,7 +310,7 @@
           "title": "又重置了 朋友们",
           "url": "https://x.com/op7418/status/2087740011781460214",
           "published_at": "2026-08-13T03:16:21Z",
-          "summary": "又重置了 朋友们Tibo@thsottiauxOld news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast.🔗 View Quoted Tweet💬41🔄0❤️11👀10787📊27⚡ Powered by xgo.ing"
+          "summary": "又重置了 朋友们Tibo@thsottiauxOld news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast.🔗 View Quoted Tweet💬45🔄0❤️11👀11433📊30⚡ Powered by xgo.ing"
         },
         {
           "id": "a57d581b007a75f36fc833ef9b8f2aa770fcc22d",
@@ -255,7 +321,7 @@
           "title": "流传的截图，说是 DeepSeek Harness 会在今天公测，不是要跟 0813 的模型细节一起发布吧",
           "url": "https://x.com/op7418/status/2087724231790661951",
           "published_at": "2026-08-13T02:13:39Z",
-          "summary": "流传的截图，说是 DeepSeek Harness 会在今天公测，不是要跟 0813 的模型细节一起发布吧歸藏(guizang.ai)@op7418DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸🔗 View Quoted Tweet💬36🔄2❤️23👀28433📊26⚡ Powered by xgo.ing"
+          "summary": "流传的截图，说是 DeepSeek Harness 会在今天公测，不是要跟 0813 的模型细节一起发布吧歸藏(guizang.ai)@op7418DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸🔗 View Quoted Tweet💬40🔄2❤️24👀29674📊28⚡ Powered by xgo.ing"
         },
         {
           "id": "47a8445db600d60e91369aa2432703e6f5c9adca",
@@ -277,7 +343,7 @@
           "title": "滑动变祖器拉满！",
           "url": "https://x.com/op7418/status/2087583794819956750",
           "published_at": "2026-08-12T16:55:36Z",
-          "summary": "滑动变祖器拉满！歸藏(guizang.ai)@op7418DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸🔗 View Quoted Tweet💬34🔄1❤️21👀13393📊24⚡ Powered by xgo.ing"
+          "summary": "滑动变祖器拉满！歸藏(guizang.ai)@op7418DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸🔗 View Quoted Tweet💬34🔄1❤️22👀13690📊25⚡ Powered by xgo.ing"
         },
         {
           "id": "23927df9872ee0041262320f2911b2c8d6b18be7",
@@ -288,7 +354,7 @@
           "title": "SpaceX AI 发布了 Grok 4.6 模型，然后价格还行，每百万输入输出分别为 2 和 6 美元。\n\n当然，如果你有 Twitter 的 Premium+的会员的话，依然可以通过 Grok B...",
           "url": "https://x.com/op7418/status/2087582937395147196",
           "published_at": "2026-08-12T16:52:12Z",
-          "summary": "SpaceX AI 发布了 Grok 4.6 模型，然后价格还行，每百万输入输出分别为 2 和 6 美元。 当然，如果你有 Twitter 的 Premium+的会员的话，依然可以通过 Grok Build 授权来白嫖。SpaceXAI@SpaceXAIIntroducing Grok 4.6. It delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.🔗 View Quoted Tweet💬40🔄1❤️6👀6309…"
+          "summary": "SpaceX AI 发布了 Grok 4.6 模型，然后价格还行，每百万输入输出分别为 2 和 6 美元。 当然，如果你有 Twitter 的 Premium+的会员的话，依然可以通过 Grok Build 授权来白嫖。SpaceXAI@SpaceXAIIntroducing Grok 4.6. It delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.🔗 View Quoted Tweet💬40🔄1❤️6👀6489…"
         },
         {
           "id": "e050e9bbb703921cd6cd495b5179fdb6bcd32a6d",
@@ -299,7 +365,7 @@
           "title": "已经可以在 OpenCode Go 上使用",
           "url": "https://x.com/op7418/status/2087581757986255331",
           "published_at": "2026-08-12T16:47:31Z",
-          "summary": "已经可以在 OpenCode Go 上使用OpenCode@opencodeThere's been a week of hype for DeepSeek Flash So good time to announce that the newest DeepSeek V4 Pro is now available in OpenCode Go🔗 View Quoted Tweet💬0🔄0❤️5👀5339📊1⚡ Powered by xgo.ing"
+          "summary": "已经可以在 OpenCode Go 上使用OpenCode@opencodeThere's been a week of hype for DeepSeek Flash So good time to announce that the newest DeepSeek V4 Pro is now available in OpenCode Go🔗 View Quoted Tweet💬0🔄0❤️5👀5375📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "654fd8e7ebf8b00bd0635ceebcf6c649ac30ac3b",
@@ -310,7 +376,7 @@
           "title": "流传的测试成绩",
           "url": "https://x.com/op7418/status/2087580439821307958",
           "published_at": "2026-08-12T16:42:16Z",
-          "summary": "流传的测试成绩💬3🔄1❤️7👀4704📊4⚡ Powered by xgo.ing"
+          "summary": "流传的测试成绩💬3🔄1❤️7👀4739📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "616c8954bcf172fb72be270ba368d67363784482",
@@ -321,7 +387,7 @@
           "title": "DeepSeek V4 Pro 正式版 0813 发布了！\n\n从流传的测试成绩来看依然相当爆炸",
           "url": "https://x.com/op7418/status/2087580222992592946",
           "published_at": "2026-08-12T16:41:25Z",
-          "summary": "DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸💬10🔄0❤️49👀61657📊14⚡ Powered by xgo.ing"
+          "summary": "DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸💬10🔄0❤️49👀63500📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "37f72da429a3d3b6f85784208958f3c2b650cd5c",
@@ -366,7 +432,7 @@
           "title": "Optimize your workflows with @Zoho.\n\nJust tell Gemini to “Show my active deals from Zoho Bigin.”",
           "url": "https://x.com/GeminiApp/status/2087568706935382153",
           "published_at": "2026-08-12T15:55:39Z",
-          "summary": "Optimize your workflows with @Zoho. Just tell Gemini to “Show my active deals from Zoho Bigin.”💬3🔄11❤️76👀14805📊14⚡ Powered by xgo.ing"
+          "summary": "Optimize your workflows with @Zoho. Just tell Gemini to “Show my active deals from Zoho Bigin.”💬3🔄11❤️77👀15103📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "9efcb2d4625492b8e8ed9766425083f34968cafd",
@@ -377,7 +443,7 @@
           "title": "This new slate of MCP connections is coming to Gemini over the next few weeks.\n\nTo learn more about ...",
           "url": "https://x.com/GeminiApp/status/2087568708432785727",
           "published_at": "2026-08-12T15:55:39Z",
-          "summary": "This new slate of MCP connections is coming to Gemini over the next few weeks. To learn more about how you can connect your favorite services directly to Gemini to help you plan trips, manage projects, and tackle your daily to-do list, visit our blog: goo.gle/3TTbF8s💬4🔄4❤️67👀1403…"
+          "summary": "This new slate of MCP connections is coming to Gemini over the next few weeks. To learn more about how you can connect your favorite services directly to Gemini to help you plan trips, manage projects, and tackle your daily to-do list, visit our blog: goo.gle/3TTbF8s💬4🔄4❤️69👀1419…"
         },
         {
           "id": "5d972336c3f6b21c067e678513c72790fcd8af2c",
@@ -399,12 +465,78 @@
           "title": "You can now connect to even more apps in Gemini to get more done.\n\nBy linking your favorite services...",
           "url": "https://x.com/GeminiApp/status/2087567329567904048",
           "published_at": "2026-08-12T15:50:11Z",
-          "summary": "You can now connect to even more apps in Gemini to get more done. By linking your favorite services to Gemini in your settings, you can easily plan, create, and tackle your to-do list all in one place. Here are 14 new apps to use with Gemini. 🧵💬112🔄150❤️1437👀208991📊309⚡ Powered b…"
+          "summary": "You can now connect to even more apps in Gemini to get more done. By linking your favorite services to Gemini in your settings, you can easily plan, create, and tackle your to-do list all in one place. Here are 14 new apps to use with Gemini. 🧵💬112🔄153❤️1469👀216154📊313⚡ Powered b…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "1b51943396d5822177b02f8d20baa46f78a5716e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "可能会有单独的套餐吧，要不就是 API 涨价推他们的 Harness？",
+      "url": "https://x.com/op7418/status/2087870651042496722",
+      "published_at": "2026-08-13T11:55:28Z",
+      "summary": "可能会有单独的套餐吧，要不就是 API 涨价推他们的 Harness？💬1🔄0❤️0👀146📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "765dbcc7a905b02ddb51f9c8daaf9c6913f9c175",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Deepseek Harness 内测群说晚上 8:25 左右发布。",
+      "url": "https://x.com/op7418/status/2087869793974292483",
+      "published_at": "2026-08-13T11:52:04Z",
+      "summary": "Deepseek Harness 内测群说晚上 8:25 左右发布。歸藏(guizang.ai)@op7418V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。 看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。 同时涨价也尘埃落定了，采用峰谷定价，峰值定价 Pro 模型输出比原来贵了 4 倍多。 空闲时段的 Pro 模型定价比原来贵了一倍多。🔗 View Quoted Tweet💬2🔄0❤️2👀870📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b086431c64df5ab10702b57ff9217fe7d8f7bc4b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "关于 Deepseek 这次涨价，这张图做的清晰一点。\n\n但不知道图是谁做的，从群里拿来的。\n\n我才发现那个 Pro 的缓存命中最高涨了 12 倍价格。",
+      "url": "https://x.com/op7418/status/2087868251242184839",
+      "published_at": "2026-08-13T11:45:56Z",
+      "summary": "关于 Deepseek 这次涨价，这张图做的清晰一点。 但不知道图是谁做的，从群里拿来的。 我才发现那个 Pro 的缓存命中最高涨了 12 倍价格。歸藏(guizang.ai)@op7418卧槽，V4 Pro 08313 正式版涨价，那个峰值最高比原来涨了 4 倍多，这回真成梁子了。🔗 View Quoted Tweet💬3🔄0❤️0👀975📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "28f9887624de042294c06a6827027e80c6d1263b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "卧槽，V4 Pro 08313 正式版涨价，那个峰值最高比原来涨了 4 倍多，这回真成梁子了。",
+      "url": "https://x.com/op7418/status/2087865228122108037",
+      "published_at": "2026-08-13T11:33:55Z",
+      "summary": "卧槽，V4 Pro 08313 正式版涨价，那个峰值最高比原来涨了 4 倍多，这回真成梁子了。歸藏(guizang.ai)@op7418V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。 看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。 同时涨价也尘埃落定了，采用峰谷定价，峰值定价 Pro 模型输出比原来贵了 4 倍多。 空闲时段的 Pro 模型定价比原来贵了一倍多。🔗 View Quoted Tweet💬3🔄0❤️6👀3326📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d3f623ba5170a4350c2d4c3d7ac3a1f9da89b9a3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "详情：https://t.co/fJ1My0KAP6",
+      "url": "https://x.com/op7418/status/2087864311716683984",
+      "published_at": "2026-08-13T11:30:17Z",
+      "summary": "详情：api-docs.deepseek.com/zh-cn/updates💬0🔄0❤️0👀1453⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e1d56a769f18dfc78e548ff520d3134a9d8e707d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。\n\n看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。\n\n同时涨价也尘埃落定了，采用...",
+      "url": "https://x.com/op7418/status/2087863955150799113",
+      "published_at": "2026-08-13T11:28:52Z",
+      "summary": "V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。 看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。 同时涨价也尘埃落定了，采用峰谷定价，峰值定价 Pro 模型输出比原来贵了 4 倍多。 空闲时段的 Pro 模型定价比原来贵了一倍多。歸藏(guizang.ai)@op7418DeepSeek V4 Pro 的 0831 版本不太对劲，他们是不是又把模型给撤了？ 现在的情况非常奇怪： API 确实是有的，在 API 的模型和价格这部分写的是 0813，但是更新日志页面完全没有提到 0813…"
+    },
     {
       "id": "f58aae7b924756990f172ca445e4e9646065b076",
       "site_id": "featuredrss",
@@ -414,7 +546,7 @@
       "title": "开始模型名称打错了，是 0813",
       "url": "https://x.com/op7418/status/2087818300785066362",
       "published_at": "2026-08-13T08:27:27Z",
-      "summary": "开始模型名称打错了，是 0813💬0🔄0❤️0👀3449⚡ Powered by xgo.ing"
+      "summary": "开始模型名称打错了，是 0813💬0🔄0❤️0👀3947⚡ Powered by xgo.ing"
     },
     {
       "id": "3a4aae2d6f31576035ab6881f408b697294ceb53",
@@ -425,7 +557,7 @@
       "title": "分数来源：https://t.co/sxqwabsxRs",
       "url": "https://x.com/op7418/status/2087816217105162558",
       "published_at": "2026-08-13T08:19:10Z",
-      "summary": "分数来源：x.com/ns123abc/statu…NIK@ns123abcreminder that deepseek made NO announcement for the new V4 Pro anywhere on social media because they are ashamed of it >scores only 1 point higher than V4 Flash🔗 View Quoted Tweet💬1🔄0❤️1👀5470📊1⚡ Powered by xgo.ing"
+      "summary": "分数来源：x.com/ns123abc/statu…NIK@ns123abcreminder that deepseek made NO announcement for the new V4 Pro anywhere on social media because they are ashamed of it >scores only 1 point higher than V4 Flash🔗 View Quoted Tweet💬1🔄0❤️1👀6241📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "931f79f4a09f746e71a8088683e4edd44d3bdb5b",
@@ -458,7 +590,7 @@
       "title": "又重置了 朋友们",
       "url": "https://x.com/op7418/status/2087740011781460214",
       "published_at": "2026-08-13T03:16:21Z",
-      "summary": "又重置了 朋友们Tibo@thsottiauxOld news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast.🔗 View Quoted Tweet💬41🔄0❤️11👀10787📊27⚡ Powered by xgo.ing"
+      "summary": "又重置了 朋友们Tibo@thsottiauxOld news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast.🔗 View Quoted Tweet💬45🔄0❤️11👀11433📊30⚡ Powered by xgo.ing"
     },
     {
       "id": "a57d581b007a75f36fc833ef9b8f2aa770fcc22d",
@@ -469,7 +601,7 @@
       "title": "流传的截图，说是 DeepSeek Harness 会在今天公测，不是要跟 0813 的模型细节一起发布吧",
       "url": "https://x.com/op7418/status/2087724231790661951",
       "published_at": "2026-08-13T02:13:39Z",
-      "summary": "流传的截图，说是 DeepSeek Harness 会在今天公测，不是要跟 0813 的模型细节一起发布吧歸藏(guizang.ai)@op7418DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸🔗 View Quoted Tweet💬36🔄2❤️23👀28433📊26⚡ Powered by xgo.ing"
+      "summary": "流传的截图，说是 DeepSeek Harness 会在今天公测，不是要跟 0813 的模型细节一起发布吧歸藏(guizang.ai)@op7418DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸🔗 View Quoted Tweet💬40🔄2❤️24👀29674📊28⚡ Powered by xgo.ing"
     },
     {
       "id": "47a8445db600d60e91369aa2432703e6f5c9adca",
@@ -502,7 +634,7 @@
       "title": "滑动变祖器拉满！",
       "url": "https://x.com/op7418/status/2087583794819956750",
       "published_at": "2026-08-12T16:55:36Z",
-      "summary": "滑动变祖器拉满！歸藏(guizang.ai)@op7418DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸🔗 View Quoted Tweet💬34🔄1❤️21👀13393📊24⚡ Powered by xgo.ing"
+      "summary": "滑动变祖器拉满！歸藏(guizang.ai)@op7418DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸🔗 View Quoted Tweet💬34🔄1❤️22👀13690📊25⚡ Powered by xgo.ing"
     },
     {
       "id": "23927df9872ee0041262320f2911b2c8d6b18be7",
@@ -513,7 +645,7 @@
       "title": "SpaceX AI 发布了 Grok 4.6 模型，然后价格还行，每百万输入输出分别为 2 和 6 美元。\n\n当然，如果你有 Twitter 的 Premium+的会员的话，依然可以通过 Grok B...",
       "url": "https://x.com/op7418/status/2087582937395147196",
       "published_at": "2026-08-12T16:52:12Z",
-      "summary": "SpaceX AI 发布了 Grok 4.6 模型，然后价格还行，每百万输入输出分别为 2 和 6 美元。 当然，如果你有 Twitter 的 Premium+的会员的话，依然可以通过 Grok Build 授权来白嫖。SpaceXAI@SpaceXAIIntroducing Grok 4.6. It delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.🔗 View Quoted Tweet💬40🔄1❤️6👀6309…"
+      "summary": "SpaceX AI 发布了 Grok 4.6 模型，然后价格还行，每百万输入输出分别为 2 和 6 美元。 当然，如果你有 Twitter 的 Premium+的会员的话，依然可以通过 Grok Build 授权来白嫖。SpaceXAI@SpaceXAIIntroducing Grok 4.6. It delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.🔗 View Quoted Tweet💬40🔄1❤️6👀6489…"
     },
     {
       "id": "e050e9bbb703921cd6cd495b5179fdb6bcd32a6d",
@@ -524,7 +656,7 @@
       "title": "已经可以在 OpenCode Go 上使用",
       "url": "https://x.com/op7418/status/2087581757986255331",
       "published_at": "2026-08-12T16:47:31Z",
-      "summary": "已经可以在 OpenCode Go 上使用OpenCode@opencodeThere's been a week of hype for DeepSeek Flash So good time to announce that the newest DeepSeek V4 Pro is now available in OpenCode Go🔗 View Quoted Tweet💬0🔄0❤️5👀5339📊1⚡ Powered by xgo.ing"
+      "summary": "已经可以在 OpenCode Go 上使用OpenCode@opencodeThere's been a week of hype for DeepSeek Flash So good time to announce that the newest DeepSeek V4 Pro is now available in OpenCode Go🔗 View Quoted Tweet💬0🔄0❤️5👀5375📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "654fd8e7ebf8b00bd0635ceebcf6c649ac30ac3b",
@@ -535,7 +667,7 @@
       "title": "流传的测试成绩",
       "url": "https://x.com/op7418/status/2087580439821307958",
       "published_at": "2026-08-12T16:42:16Z",
-      "summary": "流传的测试成绩💬3🔄1❤️7👀4704📊4⚡ Powered by xgo.ing"
+      "summary": "流传的测试成绩💬3🔄1❤️7👀4739📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "616c8954bcf172fb72be270ba368d67363784482",
@@ -546,7 +678,7 @@
       "title": "DeepSeek V4 Pro 正式版 0813 发布了！\n\n从流传的测试成绩来看依然相当爆炸",
       "url": "https://x.com/op7418/status/2087580222992592946",
       "published_at": "2026-08-12T16:41:25Z",
-      "summary": "DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸💬10🔄0❤️49👀61657📊14⚡ Powered by xgo.ing"
+      "summary": "DeepSeek V4 Pro 正式版 0813 发布了！ 从流传的测试成绩来看依然相当爆炸💬10🔄0❤️49👀63500📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "5b2188e6b62538331ce751a750af94408cf94a31",
@@ -557,7 +689,7 @@
       "title": "Optimize your workflows with @Zoho.\n\nJust tell Gemini to “Show my active deals from Zoho Bigin.”",
       "url": "https://x.com/GeminiApp/status/2087568706935382153",
       "published_at": "2026-08-12T15:55:39Z",
-      "summary": "Optimize your workflows with @Zoho. Just tell Gemini to “Show my active deals from Zoho Bigin.”💬3🔄11❤️76👀14805📊14⚡ Powered by xgo.ing"
+      "summary": "Optimize your workflows with @Zoho. Just tell Gemini to “Show my active deals from Zoho Bigin.”💬3🔄11❤️77👀15103📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "9efcb2d4625492b8e8ed9766425083f34968cafd",
@@ -568,7 +700,7 @@
       "title": "This new slate of MCP connections is coming to Gemini over the next few weeks.\n\nTo learn more about ...",
       "url": "https://x.com/GeminiApp/status/2087568708432785727",
       "published_at": "2026-08-12T15:55:39Z",
-      "summary": "This new slate of MCP connections is coming to Gemini over the next few weeks. To learn more about how you can connect your favorite services directly to Gemini to help you plan trips, manage projects, and tackle your daily to-do list, visit our blog: goo.gle/3TTbF8s💬4🔄4❤️67👀1403…"
+      "summary": "This new slate of MCP connections is coming to Gemini over the next few weeks. To learn more about how you can connect your favorite services directly to Gemini to help you plan trips, manage projects, and tackle your daily to-do list, visit our blog: goo.gle/3TTbF8s💬4🔄4❤️69👀1419…"
     },
     {
       "id": "5d972336c3f6b21c067e678513c72790fcd8af2c",
@@ -590,7 +722,7 @@
       "title": "You can now connect to even more apps in Gemini to get more done.\n\nBy linking your favorite services...",
       "url": "https://x.com/GeminiApp/status/2087567329567904048",
       "published_at": "2026-08-12T15:50:11Z",
-      "summary": "You can now connect to even more apps in Gemini to get more done. By linking your favorite services to Gemini in your settings, you can easily plan, create, and tackle your to-do list all in one place. Here are 14 new apps to use with Gemini. 🧵💬112🔄150❤️1437👀208991📊309⚡ Powered b…"
+      "summary": "You can now connect to even more apps in Gemini to get more done. By linking your favorite services to Gemini in your settings, you can easily plan, create, and tackle your to-do list all in one place. Here are 14 new apps to use with Gemini. 🧵💬112🔄153❤️1469👀216154📊313⚡ Powered b…"
     },
     {
       "id": "37f72da429a3d3b6f85784208958f3c2b650cd5c",
