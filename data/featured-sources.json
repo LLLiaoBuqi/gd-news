@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T16:13:04.017026Z",
+  "generated_at": "2026-08-14T17:25:17.249430Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 475,
+      "duration_ms": 417,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 21,
+      "duration_ms": 66,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2324,
+      "duration_ms": 2745,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1470,
+      "duration_ms": 1529,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1304,
+      "duration_ms": 1280,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 565,
+      "duration_ms": 880,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 762,
+      "duration_ms": 641,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 69,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 5913,
+      "duration_ms": 4905,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1279,
+      "duration_ms": 1343,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "b3877b95b185c8f6b8a0dfa71202f6318aa012b4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
+          "url": "https://x.com/op7418/status/2088304412657901833",
+          "published_at": "2026-08-14T16:39:05Z",
+          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬4🔄0❤️1👀1288📊3⚡ Powered by xgo.ing"
+        },
         {
           "id": "c8792f7a91390f092d5957208067eb4892b887c5",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
           "url": "https://x.com/op7418/status/2088253680361550230",
           "published_at": "2026-08-14T13:17:29Z",
-          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬5🔄2❤️18👀5056📊7⚡ Powered by xgo.ing"
+          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬8🔄3❤️28👀8102📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "09860a829d07203f7359fb020b068cea5b630c85",
@@ -261,7 +272,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 12,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -278,7 +289,7 @@
           "title": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still eas...",
           "url": "https://x.com/GeminiApp/status/2088277479555473660",
           "published_at": "2026-08-14T14:52:04Z",
-          "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬0🔄3❤️37👀5615📊5⚡ Powered by x…"
+          "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄3❤️54👀8510📊9⚡ Powered by x…"
         },
         {
           "id": "976f4a0908977bb3b42a5e1fa8126f92c13a976d",
@@ -300,7 +311,7 @@
           "title": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRo...",
           "url": "https://x.com/OpenAI/status/2087996499263369267",
           "published_at": "2026-08-13T20:15:33Z",
-          "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬42🔄30❤️768👀105982📊110⚡ Powered by xgo.ing"
+          "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬43🔄30❤️772👀107649📊111⚡ Powered by xgo.ing"
         },
         {
           "id": "37e4bd2f50b9d9fac18266559d8d1bae03eb04fb",
@@ -322,89 +333,23 @@
           "title": "ChatGPT can now remember your activity across the apps and websites on your computer.\n\nWith Computer...",
           "url": "https://x.com/OpenAI/status/2087996496088297746",
           "published_at": "2026-08-13T20:15:32Z",
-          "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬596🔄803❤️10317👀244…"
-        },
-        {
-          "id": "1f4f48fe01a4d7abdfe7d03628ea6bfe93a55ff8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "— Google AI Pro and Ultra subscribers can experience 3.7 Flash today via Spark in the @GeminiApp \n\n—...",
-          "url": "https://x.com/GoogleAI/status/2087949045407035766",
-          "published_at": "2026-08-13T17:06:59Z",
-          "summary": "— Google AI Pro and Ultra subscribers can experience 3.7 Flash today via Spark in the @GeminiApp — Access the model in the Gemini Enterprise Agent Platform and Gemini Enterprise app — Build in the Gemini API via @googleaistudio and @androidstudio, and explore agent-first workflow…"
-        },
-        {
-          "id": "506401bd6842588a835cc67e93ddbf3cda60b628",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Our most intelligent workhorse model yet for coding and agents has arrived ⚡ Meet Gemini 3.7 Flash.\n...",
-          "url": "https://x.com/GoogleAI/status/2087949042961514983",
-          "published_at": "2026-08-13T17:06:58Z",
-          "summary": "Our most intelligent workhorse model yet for coding and agents has arrived ⚡ Meet Gemini 3.7 Flash. — Crush that seemingly endless to-do list. Gemini Spark in the @geminiapp now uses 3.7 Flash. The new model can equip your personal AI agent to work even smarter for you by seamles…"
-        },
-        {
-          "id": "a2e2ffed9c50754cfd35837b8e8527807660b77d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using ...",
-          "url": "https://x.com/GeminiApp/status/2087948871809069304",
-          "published_at": "2026-08-13T17:06:17Z",
-          "summary": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today. Learn more about Gemini 3.7 Flash, our most intelligent workhorse model for coding and agents, in our blog: goo.gle/4644tsM💬16🔄16❤️133👀44326📊33⚡ Po…"
-        },
-        {
-          "id": "bf34ff342556f3e656a35caa7ed50b3553c9b682",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️\n\nWhether you’re using Spark to compile vendors into She...",
-          "url": "https://x.com/GeminiApp/status/2087948790296973683",
-          "published_at": "2026-08-13T17:05:58Z",
-          "summary": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️ Whether you’re using Spark to compile vendors into Sheets or draft negotiation emails, 3.7 Flash makes your personal AI agent more precise and accurate with improved tool use for @GoogleWorkspace apps to help turn ideas into action.💬81…"
-        },
-        {
-          "id": "8d657c54e7a80334e4b4d2b53618f6f37eed901d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Powered by @Cerebras, Ultrafast generates up to 750 tokens per second, bringing our most intelligent...",
-          "url": "https://x.com/OpenAI/status/2087947724725665908",
-          "published_at": "2026-08-13T17:01:44Z",
-          "summary": "Powered by @Cerebras, Ultrafast generates up to 750 tokens per second, bringing our most intelligent model to products and workflows where every second counts. Ultrafast is designed for businesses where faster frontier intelligence creates a measurable advantage, including real-t…"
-        },
-        {
-          "id": "aae61082366769395f74d597703db00466b1ee46",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re working with an initial group of customers to understand where this speed makes the biggest di...",
-          "url": "https://x.com/OpenAI/status/2087947726269169917",
-          "published_at": "2026-08-13T17:01:44Z",
-          "summary": "We’re working with an initial group of customers to understand where this speed makes the biggest difference, and how those learnings can inform our products over time. If your business requires frontier intelligence at the highest speed, you can request to be notified as capacit…"
-        },
-        {
-          "id": "3eaa401c54388d38ccf21e6d26c257eef8deed2e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed.\n\nLaunching first in the OpenAI API to...",
-          "url": "https://x.com/OpenAI/status/2087947721936359705",
-          "published_at": "2026-08-13T17:01:43Z",
-          "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.Your browser does not support the video tag.🔗 View on Twitter💬675🔄890❤️13776👀2975549📊2154⚡ Pow…"
+          "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬605🔄816❤️10453👀253…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "b3877b95b185c8f6b8a0dfa71202f6318aa012b4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
+      "url": "https://x.com/op7418/status/2088304412657901833",
+      "published_at": "2026-08-14T16:39:05Z",
+      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬4🔄0❤️1👀1288📊3⚡ Powered by xgo.ing"
+    },
     {
       "id": "27e91d0e55c34f0a4153d52ce447f76c6b49dfda",
       "site_id": "featuredrss",
@@ -414,7 +359,7 @@
       "title": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still eas...",
       "url": "https://x.com/GeminiApp/status/2088277479555473660",
       "published_at": "2026-08-14T14:52:04Z",
-      "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬0🔄3❤️37👀5615📊5⚡ Powered by x…"
+      "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄3❤️54👀8510📊9⚡ Powered by x…"
     },
     {
       "id": "976f4a0908977bb3b42a5e1fa8126f92c13a976d",
@@ -436,7 +381,7 @@
       "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
       "url": "https://x.com/op7418/status/2088253680361550230",
       "published_at": "2026-08-14T13:17:29Z",
-      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬5🔄2❤️18👀5056📊7⚡ Powered by xgo.ing"
+      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬8🔄3❤️28👀8102📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "09860a829d07203f7359fb020b068cea5b630c85",
@@ -502,7 +447,7 @@
       "title": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRo...",
       "url": "https://x.com/OpenAI/status/2087996499263369267",
       "published_at": "2026-08-13T20:15:33Z",
-      "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬42🔄30❤️768👀105982📊110⚡ Powered by xgo.ing"
+      "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬43🔄30❤️772👀107649📊111⚡ Powered by xgo.ing"
     },
     {
       "id": "37e4bd2f50b9d9fac18266559d8d1bae03eb04fb",
@@ -524,84 +469,7 @@
       "title": "ChatGPT can now remember your activity across the apps and websites on your computer.\n\nWith Computer...",
       "url": "https://x.com/OpenAI/status/2087996496088297746",
       "published_at": "2026-08-13T20:15:32Z",
-      "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬596🔄803❤️10317👀244…"
-    },
-    {
-      "id": "1f4f48fe01a4d7abdfe7d03628ea6bfe93a55ff8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "— Google AI Pro and Ultra subscribers can experience 3.7 Flash today via Spark in the @GeminiApp \n\n—...",
-      "url": "https://x.com/GoogleAI/status/2087949045407035766",
-      "published_at": "2026-08-13T17:06:59Z",
-      "summary": "— Google AI Pro and Ultra subscribers can experience 3.7 Flash today via Spark in the @GeminiApp — Access the model in the Gemini Enterprise Agent Platform and Gemini Enterprise app — Build in the Gemini API via @googleaistudio and @androidstudio, and explore agent-first workflow…"
-    },
-    {
-      "id": "506401bd6842588a835cc67e93ddbf3cda60b628",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Our most intelligent workhorse model yet for coding and agents has arrived ⚡ Meet Gemini 3.7 Flash.\n...",
-      "url": "https://x.com/GoogleAI/status/2087949042961514983",
-      "published_at": "2026-08-13T17:06:58Z",
-      "summary": "Our most intelligent workhorse model yet for coding and agents has arrived ⚡ Meet Gemini 3.7 Flash. — Crush that seemingly endless to-do list. Gemini Spark in the @geminiapp now uses 3.7 Flash. The new model can equip your personal AI agent to work even smarter for you by seamles…"
-    },
-    {
-      "id": "a2e2ffed9c50754cfd35837b8e8527807660b77d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using ...",
-      "url": "https://x.com/GeminiApp/status/2087948871809069304",
-      "published_at": "2026-08-13T17:06:17Z",
-      "summary": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today. Learn more about Gemini 3.7 Flash, our most intelligent workhorse model for coding and agents, in our blog: goo.gle/4644tsM💬16🔄16❤️133👀44326📊33⚡ Po…"
-    },
-    {
-      "id": "bf34ff342556f3e656a35caa7ed50b3553c9b682",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️\n\nWhether you’re using Spark to compile vendors into She...",
-      "url": "https://x.com/GeminiApp/status/2087948790296973683",
-      "published_at": "2026-08-13T17:05:58Z",
-      "summary": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️ Whether you’re using Spark to compile vendors into Sheets or draft negotiation emails, 3.7 Flash makes your personal AI agent more precise and accurate with improved tool use for @GoogleWorkspace apps to help turn ideas into action.💬81…"
-    },
-    {
-      "id": "8d657c54e7a80334e4b4d2b53618f6f37eed901d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Powered by @Cerebras, Ultrafast generates up to 750 tokens per second, bringing our most intelligent...",
-      "url": "https://x.com/OpenAI/status/2087947724725665908",
-      "published_at": "2026-08-13T17:01:44Z",
-      "summary": "Powered by @Cerebras, Ultrafast generates up to 750 tokens per second, bringing our most intelligent model to products and workflows where every second counts. Ultrafast is designed for businesses where faster frontier intelligence creates a measurable advantage, including real-t…"
-    },
-    {
-      "id": "aae61082366769395f74d597703db00466b1ee46",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re working with an initial group of customers to understand where this speed makes the biggest di...",
-      "url": "https://x.com/OpenAI/status/2087947726269169917",
-      "published_at": "2026-08-13T17:01:44Z",
-      "summary": "We’re working with an initial group of customers to understand where this speed makes the biggest difference, and how those learnings can inform our products over time. If your business requires frontier intelligence at the highest speed, you can request to be notified as capacit…"
-    },
-    {
-      "id": "3eaa401c54388d38ccf21e6d26c257eef8deed2e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed.\n\nLaunching first in the OpenAI API to...",
-      "url": "https://x.com/OpenAI/status/2087947721936359705",
-      "published_at": "2026-08-13T17:01:43Z",
-      "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.Your browser does not support the video tag.🔗 View on Twitter💬675🔄890❤️13776👀2975549📊2154⚡ Pow…"
+      "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬605🔄816❤️10453👀253…"
     }
   ]
 }
