@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T20:02:19.040518Z",
+  "generated_at": "2026-08-14T20:53:51.811505Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 464,
+      "duration_ms": 183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 50,
+      "duration_ms": 42,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1547,
+      "duration_ms": 1817,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1217,
+      "duration_ms": 1504,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 850,
+      "duration_ms": 1372,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 868,
+      "duration_ms": 1037,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 460,
+      "duration_ms": 1401,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 87,
+      "duration_ms": 45,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2177,
+      "duration_ms": 2638,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1421,
+      "duration_ms": 1291,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
           "url": "https://x.com/op7418/status/2088304412657901833",
           "published_at": "2026-08-14T16:39:05Z",
-          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬9🔄0❤️3👀2342📊7⚡ Powered by xgo.ing"
+          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬10🔄0❤️3👀2505📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "c8792f7a91390f092d5957208067eb4892b887c5",
@@ -211,7 +211,7 @@
           "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
           "url": "https://x.com/op7418/status/2088253680361550230",
           "published_at": "2026-08-14T13:17:29Z",
-          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬10🔄3❤️37👀9661📊13⚡ Powered by xgo.ing"
+          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬11🔄3❤️39👀10093📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "09860a829d07203f7359fb020b068cea5b630c85",
@@ -272,7 +272,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -311,7 +311,7 @@
           "title": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still eas...",
           "url": "https://x.com/GeminiApp/status/2088277479555473660",
           "published_at": "2026-08-14T14:52:04Z",
-          "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄4❤️73👀12216📊11⚡ Powered by…"
+          "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄4❤️79👀12935📊12⚡ Powered by…"
         },
         {
           "id": "976f4a0908977bb3b42a5e1fa8126f92c13a976d",
@@ -323,39 +323,6 @@
           "url": "https://x.com/GeminiApp/status/2088277477672255830",
           "published_at": "2026-08-14T14:52:03Z",
           "summary": "Rolling out over the next few days, you can decide if your image, video, and music creations made with Gemini will have visible watermarks. Invisible SynthID watermarks and C2PA metadata will always stay embedded in the background. Simply go to your settings and toggle “Show wate…"
-        },
-        {
-          "id": "7c0fa702f8644f8219dede02788ac22680bdf1bb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRo...",
-          "url": "https://x.com/OpenAI/status/2087996499263369267",
-          "published_at": "2026-08-13T20:15:33Z",
-          "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬44🔄31❤️784👀110605📊114⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "37e4bd2f50b9d9fac18266559d8d1bae03eb04fb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Computer History builds on the Chronicle research preview with reduced token usage and more privacy ...",
-          "url": "https://x.com/OpenAI/status/2087996497908609389",
-          "published_at": "2026-08-13T20:15:32Z",
-          "summary": "Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts o…"
-        },
-        {
-          "id": "8a618ab6dcabf6daf44441ae87b87598e433aab9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "ChatGPT can now remember your activity across the apps and websites on your computer.\n\nWith Computer...",
-          "url": "https://x.com/OpenAI/status/2087996496088297746",
-          "published_at": "2026-08-13T20:15:32Z",
-          "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬629🔄827❤️10697👀271…"
         }
       ]
     }
@@ -392,7 +359,7 @@
       "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
       "url": "https://x.com/op7418/status/2088304412657901833",
       "published_at": "2026-08-14T16:39:05Z",
-      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬9🔄0❤️3👀2342📊7⚡ Powered by xgo.ing"
+      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬10🔄0❤️3👀2505📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "27e91d0e55c34f0a4153d52ce447f76c6b49dfda",
@@ -403,7 +370,7 @@
       "title": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still eas...",
       "url": "https://x.com/GeminiApp/status/2088277479555473660",
       "published_at": "2026-08-14T14:52:04Z",
-      "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄4❤️73👀12216📊11⚡ Powered by…"
+      "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄4❤️79👀12935📊12⚡ Powered by…"
     },
     {
       "id": "976f4a0908977bb3b42a5e1fa8126f92c13a976d",
@@ -425,7 +392,7 @@
       "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
       "url": "https://x.com/op7418/status/2088253680361550230",
       "published_at": "2026-08-14T13:17:29Z",
-      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬10🔄3❤️37👀9661📊13⚡ Powered by xgo.ing"
+      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬11🔄3❤️39👀10093📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "09860a829d07203f7359fb020b068cea5b630c85",
@@ -481,39 +448,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
       "published_at": "2026-08-13T23:58:00Z",
       "summary": "神鬼二象性"
-    },
-    {
-      "id": "7c0fa702f8644f8219dede02788ac22680bdf1bb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRo...",
-      "url": "https://x.com/OpenAI/status/2087996499263369267",
-      "published_at": "2026-08-13T20:15:33Z",
-      "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬44🔄31❤️784👀110605📊114⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "37e4bd2f50b9d9fac18266559d8d1bae03eb04fb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Computer History builds on the Chronicle research preview with reduced token usage and more privacy ...",
-      "url": "https://x.com/OpenAI/status/2087996497908609389",
-      "published_at": "2026-08-13T20:15:32Z",
-      "summary": "Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts o…"
-    },
-    {
-      "id": "8a618ab6dcabf6daf44441ae87b87598e433aab9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "ChatGPT can now remember your activity across the apps and websites on your computer.\n\nWith Computer...",
-      "url": "https://x.com/OpenAI/status/2087996496088297746",
-      "published_at": "2026-08-13T20:15:32Z",
-      "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬629🔄827❤️10697👀271…"
     }
   ]
 }
