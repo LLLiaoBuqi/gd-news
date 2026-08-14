@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T11:38:57.787632Z",
+  "generated_at": "2026-08-14T12:50:21.648437Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 22,
+  "total_items": 19,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 359,
+      "duration_ms": 110,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 23,
+      "duration_ms": 320,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1658,
+      "duration_ms": 1828,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1306,
+      "duration_ms": 1368,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1196,
+      "duration_ms": 1356,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1050,
+      "duration_ms": 1177,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 298,
+      "duration_ms": 868,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 108,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2215,
+      "duration_ms": 2563,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1242,
+      "duration_ms": 1343,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -212,6 +212,17 @@
           "url": "https://x.com/op7418/status/2088180816128143829",
           "published_at": "2026-08-14T08:27:57Z",
           "summary": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分： 1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其是大家最近都在聊这块，他们针对性地做了一些优化。 2. 长程任务的执行： 比如终端里的任务、工具调用，以及大代码库的修复任务，都有非常大的提升。 这个模型依然是只进行了后训练，没有重新进行预训练。这都几个版本了，还能有这么大的提升，确实猛啊！Z.ai@Zai_orgIntroducing GLM-5.3: Built to Code. Ready for Cy…"
+        },
+        {
+          "id": "2a3bd35e61cc79a07f4320164361f15b34ef684d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "Seedance 2.0 fast、MiniMax H3、Wan 3.0，高性价比模型测试来喽！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498156&idx=1&sn=84b0d3c678508344ac48b663fab4184e",
+          "published_at": "2026-08-14T08:11:00Z",
+          "summary": "一口气测完九大场景，来看0.6元/秒档的视频模型该怎么选！"
         },
         {
           "id": "169487c001d3b90eb79d9cb3daffe0accfef7eb6",
@@ -244,7 +255,7 @@
           "title": "别的不说，Deepseek harness 这个 star 的涨势是真猛，一个多小时都快两万 star 了",
           "url": "https://x.com/op7418/status/2087903809205108832",
           "published_at": "2026-08-13T14:07:14Z",
-          "summary": "别的不说，Deepseek harness 这个 star 的涨势是真猛，一个多小时都快两万 star 了歸藏(guizang.ai)@op7418Deepseek Harness 0.1 版本正式发布了，而且开源！ 看起来主打的是他们那套插件系统，有点复杂。🔗 View Quoted Tweet💬68🔄1❤️24👀11975📊46⚡ Powered by xgo.ing"
+          "summary": "别的不说，Deepseek harness 这个 star 的涨势是真猛，一个多小时都快两万 star 了歸藏(guizang.ai)@op7418Deepseek Harness 0.1 版本正式发布了，而且开源！ 看起来主打的是他们那套插件系统，有点复杂。🔗 View Quoted Tweet💬68🔄1❤️24👀12121📊46⚡ Powered by xgo.ing"
         },
         {
           "id": "5716460925362b929fbeae7c95065a099b9b20cf",
@@ -256,50 +267,6 @@
           "url": "https://x.com/op7418/status/2087887711881597009",
           "published_at": "2026-08-13T13:03:16Z",
           "summary": "Deepseek Harness 0.1 版本正式发布了，而且开源！ 看起来主打的是他们那套插件系统，有点复杂。DeepSeek@deepseek_ai🧩 DeepSeek Harness v0.1 is now available in Developer Preview! 🔹 We’re opening it up to developers building agent harnesses worldwide and open-sourcing the codebase in MIT license. 🔹 Powered by the Cordis…"
-        },
-        {
-          "id": "67bc6389e86e006cdce7d8dd00e8214c0260ff5a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "https://t.co/zxREqoU1fp",
-          "url": "https://x.com/op7418/status/2087882844664377700",
-          "published_at": "2026-08-13T12:43:55Z",
-          "summary": "huggingface.co/deepseek-ai/De…💬0🔄0❤️2👀4182⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1b51943396d5822177b02f8d20baa46f78a5716e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "可能会有单独的套餐吧，要不就是 API 涨价推他们的 Harness？",
-          "url": "https://x.com/op7418/status/2087870651042496722",
-          "published_at": "2026-08-13T11:55:28Z",
-          "summary": "可能会有单独的套餐吧，要不就是 API 涨价推他们的 Harness？💬2🔄0❤️2👀5147📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "765dbcc7a905b02ddb51f9c8daaf9c6913f9c175",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Deepseek Harness 内测群说晚上 8:25 左右发布。",
-          "url": "https://x.com/op7418/status/2087869793974292483",
-          "published_at": "2026-08-13T11:52:04Z",
-          "summary": "Deepseek Harness 内测群说晚上 8:25 左右发布。歸藏(guizang.ai)@op7418V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。 看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。 同时涨价也尘埃落定了，采用峰谷定价，峰值定价 Pro 模型输出比原来贵了 4 倍多。 空闲时段的 Pro 模型定价比原来贵了一倍多。🔗 View Quoted Tweet💬23🔄3❤️36👀27569📊20⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b086431c64df5ab10702b57ff9217fe7d8f7bc4b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "关于 Deepseek 这次涨价，这张图做的清晰一点。\n\n但不知道图是谁做的，从群里拿来的。\n\n我才发现那个 Pro 的缓存命中最高涨了 12 倍价格。",
-          "url": "https://x.com/op7418/status/2087868251242184839",
-          "published_at": "2026-08-13T11:45:56Z",
-          "summary": "关于 Deepseek 这次涨价，这张图做的清晰一点。 但不知道图是谁做的，从群里拿来的。 我才发现那个 Pro 的缓存命中最高涨了 12 倍价格。歸藏(guizang.ai)@op7418卧槽，V4 Pro 08313 正式版涨价，那个峰值最高比原来涨了 4 倍多，这回真成梁子了。🔗 View Quoted Tweet💬20🔄1❤️21👀15908📊16⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -322,7 +289,7 @@
           "title": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRo...",
           "url": "https://x.com/OpenAI/status/2087996499263369267",
           "published_at": "2026-08-13T20:15:33Z",
-          "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬39🔄25❤️725👀95318📊103⚡ Powered by xgo.ing"
+          "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬42🔄26❤️734👀97533📊106⚡ Powered by xgo.ing"
         },
         {
           "id": "37e4bd2f50b9d9fac18266559d8d1bae03eb04fb",
@@ -344,7 +311,7 @@
           "title": "ChatGPT can now remember your activity across the apps and websites on your computer.\n\nWith Computer...",
           "url": "https://x.com/OpenAI/status/2087996496088297746",
           "published_at": "2026-08-13T20:15:32Z",
-          "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬533🔄730❤️9604👀1911…"
+          "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬545🔄751❤️9777👀2019…"
         },
         {
           "id": "1f4f48fe01a4d7abdfe7d03628ea6bfe93a55ff8",
@@ -377,7 +344,7 @@
           "title": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using ...",
           "url": "https://x.com/GeminiApp/status/2087948871809069304",
           "published_at": "2026-08-13T17:06:17Z",
-          "summary": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today. Learn more about Gemini 3.7 Flash, our most intelligent workhorse model for coding and agents, in our blog: goo.gle/4644tsM💬16🔄15❤️132👀41330📊33⚡ Po…"
+          "summary": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today. Learn more about Gemini 3.7 Flash, our most intelligent workhorse model for coding and agents, in our blog: goo.gle/4644tsM💬16🔄15❤️132👀42263📊33⚡ Po…"
         },
         {
           "id": "bf34ff342556f3e656a35caa7ed50b3553c9b682",
@@ -388,7 +355,7 @@
           "title": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️\n\nWhether you’re using Spark to compile vendors into She...",
           "url": "https://x.com/GeminiApp/status/2087948790296973683",
           "published_at": "2026-08-13T17:05:58Z",
-          "summary": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️ Whether you’re using Spark to compile vendors into Sheets or draft negotiation emails, 3.7 Flash makes your personal AI agent more precise and accurate with improved tool use for @GoogleWorkspace apps to help turn ideas into action.💬77…"
+          "summary": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️ Whether you’re using Spark to compile vendors into Sheets or draft negotiation emails, 3.7 Flash makes your personal AI agent more precise and accurate with improved tool use for @GoogleWorkspace apps to help turn ideas into action.💬78…"
         },
         {
           "id": "8d657c54e7a80334e4b4d2b53618f6f37eed901d",
@@ -421,7 +388,7 @@
           "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed.\n\nLaunching first in the OpenAI API to...",
           "url": "https://x.com/OpenAI/status/2087947721936359705",
           "published_at": "2026-08-13T17:01:43Z",
-          "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.Your browser does not support the video tag.🔗 View on Twitter💬646🔄848❤️13238👀2612252📊2058⚡ Pow…"
+          "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.Your browser does not support the video tag.🔗 View on Twitter💬651🔄862❤️13370👀2692417📊2081⚡ Pow…"
         },
         {
           "id": "bc0b8126cf6fc0c16ceb039a1793d3434de5f758",
@@ -432,7 +399,7 @@
           "title": "We examine how these orgs are putting AI to work, and how agentic workflows are expanding across ind...",
           "url": "https://x.com/OpenAI/status/2087912625581719835",
           "published_at": "2026-08-13T14:42:16Z",
-          "summary": "We examine how these orgs are putting AI to work, and how agentic workflows are expanding across industries and functions: openai.com/index/how-ente…💬9🔄11❤️216👀61736📊44⚡ Powered by xgo.ing"
+          "summary": "We examine how these orgs are putting AI to work, and how agentic workflows are expanding across industries and functions: openai.com/index/how-ente…💬9🔄11❤️216👀62271📊44⚡ Powered by xgo.ing"
         },
         {
           "id": "46e478158e81b757bcdcf69dfec6146852796455",
@@ -443,7 +410,7 @@
           "title": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms...",
           "url": "https://x.com/OpenAI/status/2087912623883051300",
           "published_at": "2026-08-13T14:42:15Z",
-          "summary": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms. These frontier firms are not ahead by accident.💬150🔄163❤️3324👀357081📊478⚡ Powered by xgo.ing"
+          "summary": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms. These frontier firms are not ahead by accident.💬150🔄163❤️3345👀360866📊480⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -470,6 +437,17 @@
       "url": "https://x.com/op7418/status/2088180816128143829",
       "published_at": "2026-08-14T08:27:57Z",
       "summary": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分： 1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其是大家最近都在聊这块，他们针对性地做了一些优化。 2. 长程任务的执行： 比如终端里的任务、工具调用，以及大代码库的修复任务，都有非常大的提升。 这个模型依然是只进行了后训练，没有重新进行预训练。这都几个版本了，还能有这么大的提升，确实猛啊！Z.ai@Zai_orgIntroducing GLM-5.3: Built to Code. Ready for Cy…"
+    },
+    {
+      "id": "2a3bd35e61cc79a07f4320164361f15b34ef684d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "Seedance 2.0 fast、MiniMax H3、Wan 3.0，高性价比模型测试来喽！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498156&idx=1&sn=84b0d3c678508344ac48b663fab4184e",
+      "published_at": "2026-08-14T08:11:00Z",
+      "summary": "一口气测完九大场景，来看0.6元/秒档的视频模型该怎么选！"
     },
     {
       "id": "169487c001d3b90eb79d9cb3daffe0accfef7eb6",
@@ -502,7 +480,7 @@
       "title": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac.\n\nRo...",
       "url": "https://x.com/OpenAI/status/2087996499263369267",
       "published_at": "2026-08-13T20:15:33Z",
-      "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬39🔄25❤️725👀95318📊103⚡ Powered by xgo.ing"
+      "summary": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.💬42🔄26❤️734👀97533📊106⚡ Powered by xgo.ing"
     },
     {
       "id": "37e4bd2f50b9d9fac18266559d8d1bae03eb04fb",
@@ -524,7 +502,7 @@
       "title": "ChatGPT can now remember your activity across the apps and websites on your computer.\n\nWith Computer...",
       "url": "https://x.com/OpenAI/status/2087996496088297746",
       "published_at": "2026-08-13T20:15:32Z",
-      "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬533🔄730❤️9604👀1911…"
+      "summary": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.Your browser does not support the video tag.🔗 View on Twitter💬545🔄751❤️9777👀2019…"
     },
     {
       "id": "1f4f48fe01a4d7abdfe7d03628ea6bfe93a55ff8",
@@ -557,7 +535,7 @@
       "title": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using ...",
       "url": "https://x.com/GeminiApp/status/2087948871809069304",
       "published_at": "2026-08-13T17:06:17Z",
-      "summary": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today. Learn more about Gemini 3.7 Flash, our most intelligent workhorse model for coding and agents, in our blog: goo.gle/4644tsM💬16🔄15❤️132👀41330📊33⚡ Po…"
+      "summary": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today. Learn more about Gemini 3.7 Flash, our most intelligent workhorse model for coding and agents, in our blog: goo.gle/4644tsM💬16🔄15❤️132👀42263📊33⚡ Po…"
     },
     {
       "id": "bf34ff342556f3e656a35caa7ed50b3553c9b682",
@@ -568,7 +546,7 @@
       "title": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️\n\nWhether you’re using Spark to compile vendors into She...",
       "url": "https://x.com/GeminiApp/status/2087948790296973683",
       "published_at": "2026-08-13T17:05:58Z",
-      "summary": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️ Whether you’re using Spark to compile vendors into Sheets or draft negotiation emails, 3.7 Flash makes your personal AI agent more precise and accurate with improved tool use for @GoogleWorkspace apps to help turn ideas into action.💬77…"
+      "summary": "Gemini Spark now runs on Gemini 3.7 Flash.⚡️ Whether you’re using Spark to compile vendors into Sheets or draft negotiation emails, 3.7 Flash makes your personal AI agent more precise and accurate with improved tool use for @GoogleWorkspace apps to help turn ideas into action.💬78…"
     },
     {
       "id": "8d657c54e7a80334e4b4d2b53618f6f37eed901d",
@@ -601,7 +579,7 @@
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed.\n\nLaunching first in the OpenAI API to...",
       "url": "https://x.com/OpenAI/status/2087947721936359705",
       "published_at": "2026-08-13T17:01:43Z",
-      "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.Your browser does not support the video tag.🔗 View on Twitter💬646🔄848❤️13238👀2612252📊2058⚡ Pow…"
+      "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.Your browser does not support the video tag.🔗 View on Twitter💬651🔄862❤️13370👀2692417📊2081⚡ Pow…"
     },
     {
       "id": "bc0b8126cf6fc0c16ceb039a1793d3434de5f758",
@@ -612,7 +590,7 @@
       "title": "We examine how these orgs are putting AI to work, and how agentic workflows are expanding across ind...",
       "url": "https://x.com/OpenAI/status/2087912625581719835",
       "published_at": "2026-08-13T14:42:16Z",
-      "summary": "We examine how these orgs are putting AI to work, and how agentic workflows are expanding across industries and functions: openai.com/index/how-ente…💬9🔄11❤️216👀61736📊44⚡ Powered by xgo.ing"
+      "summary": "We examine how these orgs are putting AI to work, and how agentic workflows are expanding across industries and functions: openai.com/index/how-ente…💬9🔄11❤️216👀62271📊44⚡ Powered by xgo.ing"
     },
     {
       "id": "46e478158e81b757bcdcf69dfec6146852796455",
@@ -623,7 +601,7 @@
       "title": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms...",
       "url": "https://x.com/OpenAI/status/2087912623883051300",
       "published_at": "2026-08-13T14:42:15Z",
-      "summary": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms. These frontier firms are not ahead by accident.💬150🔄163❤️3324👀357081📊478⚡ Powered by xgo.ing"
+      "summary": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms. These frontier firms are not ahead by accident.💬150🔄163❤️3345👀360866📊480⚡ Powered by xgo.ing"
     },
     {
       "id": "c66cb4f206638f3dc1ee631ec3abd5f2e6b339c8",
@@ -634,7 +612,7 @@
       "title": "别的不说，Deepseek harness 这个 star 的涨势是真猛，一个多小时都快两万 star 了",
       "url": "https://x.com/op7418/status/2087903809205108832",
       "published_at": "2026-08-13T14:07:14Z",
-      "summary": "别的不说，Deepseek harness 这个 star 的涨势是真猛，一个多小时都快两万 star 了歸藏(guizang.ai)@op7418Deepseek Harness 0.1 版本正式发布了，而且开源！ 看起来主打的是他们那套插件系统，有点复杂。🔗 View Quoted Tweet💬68🔄1❤️24👀11975📊46⚡ Powered by xgo.ing"
+      "summary": "别的不说，Deepseek harness 这个 star 的涨势是真猛，一个多小时都快两万 star 了歸藏(guizang.ai)@op7418Deepseek Harness 0.1 版本正式发布了，而且开源！ 看起来主打的是他们那套插件系统，有点复杂。🔗 View Quoted Tweet💬68🔄1❤️24👀12121📊46⚡ Powered by xgo.ing"
     },
     {
       "id": "5716460925362b929fbeae7c95065a099b9b20cf",
@@ -646,50 +624,6 @@
       "url": "https://x.com/op7418/status/2087887711881597009",
       "published_at": "2026-08-13T13:03:16Z",
       "summary": "Deepseek Harness 0.1 版本正式发布了，而且开源！ 看起来主打的是他们那套插件系统，有点复杂。DeepSeek@deepseek_ai🧩 DeepSeek Harness v0.1 is now available in Developer Preview! 🔹 We’re opening it up to developers building agent harnesses worldwide and open-sourcing the codebase in MIT license. 🔹 Powered by the Cordis…"
-    },
-    {
-      "id": "67bc6389e86e006cdce7d8dd00e8214c0260ff5a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "https://t.co/zxREqoU1fp",
-      "url": "https://x.com/op7418/status/2087882844664377700",
-      "published_at": "2026-08-13T12:43:55Z",
-      "summary": "huggingface.co/deepseek-ai/De…💬0🔄0❤️2👀4182⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1b51943396d5822177b02f8d20baa46f78a5716e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "可能会有单独的套餐吧，要不就是 API 涨价推他们的 Harness？",
-      "url": "https://x.com/op7418/status/2087870651042496722",
-      "published_at": "2026-08-13T11:55:28Z",
-      "summary": "可能会有单独的套餐吧，要不就是 API 涨价推他们的 Harness？💬2🔄0❤️2👀5147📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "765dbcc7a905b02ddb51f9c8daaf9c6913f9c175",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Deepseek Harness 内测群说晚上 8:25 左右发布。",
-      "url": "https://x.com/op7418/status/2087869793974292483",
-      "published_at": "2026-08-13T11:52:04Z",
-      "summary": "Deepseek Harness 内测群说晚上 8:25 左右发布。歸藏(guizang.ai)@op7418V4 Pro 0813 的正式更新公告来了，同时涨价额度也确定了。 看来下午的 V4 Pro 0813 模型是有点不对，现在他们正式发了更新公告，这次估计是没啥问题了。 同时涨价也尘埃落定了，采用峰谷定价，峰值定价 Pro 模型输出比原来贵了 4 倍多。 空闲时段的 Pro 模型定价比原来贵了一倍多。🔗 View Quoted Tweet💬23🔄3❤️36👀27569📊20⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b086431c64df5ab10702b57ff9217fe7d8f7bc4b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "关于 Deepseek 这次涨价，这张图做的清晰一点。\n\n但不知道图是谁做的，从群里拿来的。\n\n我才发现那个 Pro 的缓存命中最高涨了 12 倍价格。",
-      "url": "https://x.com/op7418/status/2087868251242184839",
-      "published_at": "2026-08-13T11:45:56Z",
-      "summary": "关于 Deepseek 这次涨价，这张图做的清晰一点。 但不知道图是谁做的，从群里拿来的。 我才发现那个 Pro 的缓存命中最高涨了 12 倍价格。歸藏(guizang.ai)@op7418卧槽，V4 Pro 08313 正式版涨价，那个峰值最高比原来涨了 4 倍多，这回真成梁子了。🔗 View Quoted Tweet💬20🔄1❤️21👀15908📊16⚡ Powered by xgo.ing"
     }
   ]
 }
