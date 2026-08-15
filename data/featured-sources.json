@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T07:50:20.906474Z",
+  "generated_at": "2026-08-15T08:18:56.395845Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 134,
+      "duration_ms": 657,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 111,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2018,
+      "duration_ms": 1784,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1579,
+      "duration_ms": 1272,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1040,
+      "duration_ms": 938,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 916,
+      "duration_ms": 586,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 708,
+      "duration_ms": 791,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 11,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2817,
+      "duration_ms": 2625,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1548,
+      "duration_ms": 611,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -245,28 +245,6 @@
           "url": "https://x.com/op7418/status/2088180816128143829",
           "published_at": "2026-08-14T08:27:57Z",
           "summary": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分： 1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其是大家最近都在聊这块，他们针对性地做了一些优化。 2. 长程任务的执行： 比如终端里的任务、工具调用，以及大代码库的修复任务，都有非常大的提升。 这个模型依然是只进行了后训练，没有重新进行预训练。这都几个版本了，还能有这么大的提升，确实猛啊！Z.ai@Zai_orgIntroducing GLM-5.3: Built to Code. Ready for Cy…"
-        },
-        {
-          "id": "2a3bd35e61cc79a07f4320164361f15b34ef684d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "Seedance 2.0 fast、MiniMax H3、Wan 3.0，高性价比模型测试来喽！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498156&idx=1&sn=84b0d3c678508344ac48b663fab4184e",
-          "published_at": "2026-08-14T08:11:00Z",
-          "summary": "一口气测完九大场景，来看0.6元/秒档的视频模型该怎么选！"
-        },
-        {
-          "id": "169487c001d3b90eb79d9cb3daffe0accfef7eb6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Twitter 完全开源了他们的推荐算法\n\n用 Codex 分析了一下，感觉跟以前我们的认知还是有不少变化的。\n\n总结了六条创作者应该做的事情：\n\n1. 应该做值得转发的原创内容。\n\n2. 尽量少用首...",
-          "url": "https://x.com/op7418/status/2088172365750645091",
-          "published_at": "2026-08-14T07:54:23Z",
-          "summary": "Twitter 完全开源了他们的推荐算法 用 Codex 分析了一下，感觉跟以前我们的认知还是有不少变化的。 总结了六条创作者应该做的事情： 1. 应该做值得转发的原创内容。 2. 尽量少用首贴写钩子，把重要内容放在第二条推串里这种发帖形式（这个和大家的认知不太一样，比较重要）。 3. 应该优先争取阅读、回复、引用和关注，点赞的权重其实没有那么高。 4. 拉开发帖间隔，不要频繁刷屏。 5. 深耕一个垂类，不要频繁更换账号类型。 6. 少做那些互动诱饵（比如互关、回复发送等），不要让别人讨厌你、对你点“不感兴趣”或举报。X Open Source@XOpe…"
         }
       ]
     },
@@ -426,28 +404,6 @@
       "url": "https://x.com/op7418/status/2088180816128143829",
       "published_at": "2026-08-14T08:27:57Z",
       "summary": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分： 1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其是大家最近都在聊这块，他们针对性地做了一些优化。 2. 长程任务的执行： 比如终端里的任务、工具调用，以及大代码库的修复任务，都有非常大的提升。 这个模型依然是只进行了后训练，没有重新进行预训练。这都几个版本了，还能有这么大的提升，确实猛啊！Z.ai@Zai_orgIntroducing GLM-5.3: Built to Code. Ready for Cy…"
-    },
-    {
-      "id": "2a3bd35e61cc79a07f4320164361f15b34ef684d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "Seedance 2.0 fast、MiniMax H3、Wan 3.0，高性价比模型测试来喽！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498156&idx=1&sn=84b0d3c678508344ac48b663fab4184e",
-      "published_at": "2026-08-14T08:11:00Z",
-      "summary": "一口气测完九大场景，来看0.6元/秒档的视频模型该怎么选！"
-    },
-    {
-      "id": "169487c001d3b90eb79d9cb3daffe0accfef7eb6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Twitter 完全开源了他们的推荐算法\n\n用 Codex 分析了一下，感觉跟以前我们的认知还是有不少变化的。\n\n总结了六条创作者应该做的事情：\n\n1. 应该做值得转发的原创内容。\n\n2. 尽量少用首...",
-      "url": "https://x.com/op7418/status/2088172365750645091",
-      "published_at": "2026-08-14T07:54:23Z",
-      "summary": "Twitter 完全开源了他们的推荐算法 用 Codex 分析了一下，感觉跟以前我们的认知还是有不少变化的。 总结了六条创作者应该做的事情： 1. 应该做值得转发的原创内容。 2. 尽量少用首贴写钩子，把重要内容放在第二条推串里这种发帖形式（这个和大家的认知不太一样，比较重要）。 3. 应该优先争取阅读、回复、引用和关注，点赞的权重其实没有那么高。 4. 拉开发帖间隔，不要频繁刷屏。 5. 深耕一个垂类，不要频繁更换账号类型。 6. 少做那些互动诱饵（比如互关、回复发送等），不要让别人讨厌你、对你点“不感兴趣”或举报。X Open Source@XOpe…"
     }
   ]
 }
