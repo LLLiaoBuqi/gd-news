@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T11:13:25.616132Z",
+  "generated_at": "2026-08-15T11:42:03.315652Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 427,
+      "duration_ms": 245,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 19,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1584,
+      "duration_ms": 1623,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1154,
+      "duration_ms": 1213,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 740,
+      "duration_ms": 979,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 773,
+      "duration_ms": 753,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 367,
+      "duration_ms": 423,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 21,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2463,
+      "duration_ms": 2450,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1241,
+      "duration_ms": 1245,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -203,6 +203,17 @@
           "summary": "推特算法昨天开源的算法又迎来了一波更新。分析了一下，主要是需要做了这三个调整： 普通视频新增了 14 天的 SID 语义召回窗口： 所以长期的高质量视频有可能会获得二次分发机会。 关注与双向关系进入了推荐模型： 模型能识别真实关注和双向关系，所以稳定回访的话可能会获得一些加权。 回复排序分界从 1.5 万粉丝升级到 3 万粉丝： 如果跟帖作者和回复上一层的作者粉丝量超过 3 万（原来是超过 1.5 万），就按高传播度对评论区的回复进行排序处理；如果不超过 3 万，就会进入到垃圾回复的检测。 看起来他们是有反垃圾回复系统的，就是不知道为什么中文这部分一直做…"
         },
         {
+          "id": "dad49c870f8ad4bbda7cf756c6c392ae048f2a6d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测DeepSeek Harness，原来PTC模式和Cordis插件才是隐藏大招",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509609&idx=1&sn=177f208ce6031423db43442a55f6bf46",
+          "published_at": "2026-08-15T05:03:00Z",
+          "summary": "我们现在可以把这条鲸鱼当奇迹暖暖玩了"
+        },
+        {
           "id": "b3877b95b185c8f6b8a0dfa71202f6318aa012b4",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -211,7 +222,7 @@
           "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
           "url": "https://x.com/op7418/status/2088304412657901833",
           "published_at": "2026-08-14T16:39:05Z",
-          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬34🔄0❤️16👀6858📊24⚡ Powered by xgo.ing"
+          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬37🔄0❤️16👀7075📊26⚡ Powered by xgo.ing"
         },
         {
           "id": "c8792f7a91390f092d5957208067eb4892b887c5",
@@ -222,7 +233,18 @@
           "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
           "url": "https://x.com/op7418/status/2088253680361550230",
           "published_at": "2026-08-14T13:17:29Z",
-          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬38🔄24❤️164👀36101📊58⚡ Powered by xgo.ing"
+          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬38🔄24❤️171👀37170📊59⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e82285e1106efde27c6cbe7f0dd96002dab3c839",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "到底是什么样的AI能配得上我旅游16国的颠沛流离啊。。。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509453&idx=1&sn=1100135dd7f18e9ec472d1d038a3de99",
+          "published_at": "2026-08-14T12:17:00Z",
+          "summary": "世界那么大我想去看看"
         }
       ]
     },
@@ -296,6 +318,17 @@
       "summary": "推特算法昨天开源的算法又迎来了一波更新。分析了一下，主要是需要做了这三个调整： 普通视频新增了 14 天的 SID 语义召回窗口： 所以长期的高质量视频有可能会获得二次分发机会。 关注与双向关系进入了推荐模型： 模型能识别真实关注和双向关系，所以稳定回访的话可能会获得一些加权。 回复排序分界从 1.5 万粉丝升级到 3 万粉丝： 如果跟帖作者和回复上一层的作者粉丝量超过 3 万（原来是超过 1.5 万），就按高传播度对评论区的回复进行排序处理；如果不超过 3 万，就会进入到垃圾回复的检测。 看起来他们是有反垃圾回复系统的，就是不知道为什么中文这部分一直做…"
     },
     {
+      "id": "dad49c870f8ad4bbda7cf756c6c392ae048f2a6d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测DeepSeek Harness，原来PTC模式和Cordis插件才是隐藏大招",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509609&idx=1&sn=177f208ce6031423db43442a55f6bf46",
+      "published_at": "2026-08-15T05:03:00Z",
+      "summary": "我们现在可以把这条鲸鱼当奇迹暖暖玩了"
+    },
+    {
       "id": "1bbac78fb92f403c7bdaf49e322a58b4913f8384",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -326,7 +359,7 @@
       "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
       "url": "https://x.com/op7418/status/2088304412657901833",
       "published_at": "2026-08-14T16:39:05Z",
-      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬34🔄0❤️16👀6858📊24⚡ Powered by xgo.ing"
+      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬37🔄0❤️16👀7075📊26⚡ Powered by xgo.ing"
     },
     {
       "id": "27e91d0e55c34f0a4153d52ce447f76c6b49dfda",
@@ -359,7 +392,18 @@
       "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
       "url": "https://x.com/op7418/status/2088253680361550230",
       "published_at": "2026-08-14T13:17:29Z",
-      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬38🔄24❤️164👀36101📊58⚡ Powered by xgo.ing"
+      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬38🔄24❤️171👀37170📊59⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e82285e1106efde27c6cbe7f0dd96002dab3c839",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "到底是什么样的AI能配得上我旅游16国的颠沛流离啊。。。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509453&idx=1&sn=1100135dd7f18e9ec472d1d038a3de99",
+      "published_at": "2026-08-14T12:17:00Z",
+      "summary": "世界那么大我想去看看"
     }
   ]
 }
