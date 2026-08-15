@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T13:06:27.073534Z",
+  "generated_at": "2026-08-15T13:49:40.601883Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 118,
+      "duration_ms": 1044,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 41,
+      "duration_ms": 88,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1670,
+      "duration_ms": 1593,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1203,
+      "duration_ms": 1120,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1030,
+      "duration_ms": 999,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 701,
+      "duration_ms": 816,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 466,
+      "duration_ms": 646,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 36,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2398,
+      "duration_ms": 2468,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1122,
+      "duration_ms": 976,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -222,18 +222,7 @@
           "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
           "url": "https://x.com/op7418/status/2088304412657901833",
           "published_at": "2026-08-14T16:39:05Z",
-          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬39🔄0❤️16👀7211📊27⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c8792f7a91390f092d5957208067eb4892b887c5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
-          "url": "https://x.com/op7418/status/2088253680361550230",
-          "published_at": "2026-08-14T13:17:29Z",
-          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬38🔄25❤️183👀38530📊61⚡ Powered by xgo.ing"
+          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬41🔄0❤️16👀7358📊28⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -348,7 +337,7 @@
       "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
       "url": "https://x.com/op7418/status/2088304412657901833",
       "published_at": "2026-08-14T16:39:05Z",
-      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬39🔄0❤️16👀7211📊27⚡ Powered by xgo.ing"
+      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬41🔄0❤️16👀7358📊28⚡ Powered by xgo.ing"
     },
     {
       "id": "27e91d0e55c34f0a4153d52ce447f76c6b49dfda",
@@ -371,17 +360,6 @@
       "url": "https://x.com/GeminiApp/status/2088277477672255830",
       "published_at": "2026-08-14T14:52:03Z",
       "summary": "Rolling out over the next few days, you can decide if your image, video, and music creations made with Gemini will have visible watermarks. Invisible SynthID watermarks and C2PA metadata will always stay embedded in the background. Simply go to your settings and toggle “Show wate…"
-    },
-    {
-      "id": "c8792f7a91390f092d5957208067eb4892b887c5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
-      "url": "https://x.com/op7418/status/2088253680361550230",
-      "published_at": "2026-08-14T13:17:29Z",
-      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬38🔄25❤️183👀38530📊61⚡ Powered by xgo.ing"
     }
   ]
 }
