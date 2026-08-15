@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T18:18:46.352541Z",
+  "generated_at": "2026-08-15T18:53:49.849857Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 143,
+      "duration_ms": 129,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1907,
+      "duration_ms": 2008,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1485,
+      "duration_ms": 1387,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1272,
+      "duration_ms": 984,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1162,
+      "duration_ms": 878,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 494,
+      "duration_ms": 562,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2784,
+      "duration_ms": 2507,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1401,
+      "duration_ms": 1554,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -217,26 +217,14 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "1bbac78fb92f403c7bdaf49e322a58b4913f8384",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "It’s (finally) Friday 🎉 Here’s our end-of-week recap:\n\n— This year’s @madebygoogle lineup (Pixel 11...",
-          "url": "https://x.com/GoogleAI/status/2088332438753681700",
-          "published_at": "2026-08-14T18:30:27Z",
-          "summary": "It’s (finally) Friday 🎉 Here’s our end-of-week recap: — This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices. A few of the key announcements were Magic Capture for simultaneous video and photo capture, Rambler’…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -261,17 +249,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509609&idx=1&sn=177f208ce6031423db43442a55f6bf46",
       "published_at": "2026-08-15T05:03:00Z",
       "summary": "我们现在可以把这条鲸鱼当奇迹暖暖玩了"
-    },
-    {
-      "id": "1bbac78fb92f403c7bdaf49e322a58b4913f8384",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "It’s (finally) Friday 🎉 Here’s our end-of-week recap:\n\n— This year’s @madebygoogle lineup (Pixel 11...",
-      "url": "https://x.com/GoogleAI/status/2088332438753681700",
-      "published_at": "2026-08-14T18:30:27Z",
-      "summary": "It’s (finally) Friday 🎉 Here’s our end-of-week recap: — This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices. A few of the key announcements were Magic Capture for simultaneous video and photo capture, Rambler’…"
     }
   ]
 }
