@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T08:18:56.395845Z",
+  "generated_at": "2026-08-15T08:53:04.333070Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 657,
+      "duration_ms": 418,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1784,
+      "duration_ms": 1679,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1272,
+      "duration_ms": 1255,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 938,
+      "duration_ms": 819,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 586,
+      "duration_ms": 856,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 791,
+      "duration_ms": 462,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 11,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2625,
+      "duration_ms": 2474,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 611,
+      "duration_ms": 1413,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
           "url": "https://x.com/op7418/status/2088304412657901833",
           "published_at": "2026-08-14T16:39:05Z",
-          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬29🔄0❤️13👀6111📊20⚡ Powered by xgo.ing"
+          "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬31🔄0❤️16👀6402📊22⚡ Powered by xgo.ing"
         },
         {
           "id": "c8792f7a91390f092d5957208067eb4892b887c5",
@@ -222,7 +222,7 @@
           "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
           "url": "https://x.com/op7418/status/2088253680361550230",
           "published_at": "2026-08-14T13:17:29Z",
-          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬33🔄22❤️146👀30801📊51⚡ Powered by xgo.ing"
+          "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬36🔄23❤️153👀32701📊55⚡ Powered by xgo.ing"
         },
         {
           "id": "09860a829d07203f7359fb020b068cea5b630c85",
@@ -234,17 +234,6 @@
           "url": "https://x.com/op7418/status/2088199058313957734",
           "published_at": "2026-08-14T09:40:27Z",
           "summary": "15 张数据图帮你了解 DeepSeek Harness 昨天 DeepSeek Harness 发布，于是就想着让 Codex 分析一下，找到了一个很好的角度，就是从一些数据上向大家介绍这个产品。 确实也发现了一些很有意思的东西： 插件系统与 Koishi 高度相似： 他们主打的插件系统与 Koishi 的插件平台相似度高达 75%。大概率是整个平台都挪过来了，不知道是不是他们的核心开发者入职了。 大量使用 AI 开发： Codex 命名的主干 PR 达到了 21.2%，分支信息中提到 Codex 的比例有 28.2%。 猜测他们肯定用了 Claude…"
-        },
-        {
-          "id": "20ff46b34249e08a52cd37c134283d93e135cd16",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分：\n\n1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其...",
-          "url": "https://x.com/op7418/status/2088180816128143829",
-          "published_at": "2026-08-14T08:27:57Z",
-          "summary": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分： 1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其是大家最近都在聊这块，他们针对性地做了一些优化。 2. 长程任务的执行： 比如终端里的任务、工具调用，以及大代码库的修复任务，都有非常大的提升。 这个模型依然是只进行了后训练，没有重新进行预训练。这都几个版本了，还能有这么大的提升，确实猛啊！Z.ai@Zai_orgIntroducing GLM-5.3: Built to Code. Ready for Cy…"
         }
       ]
     },
@@ -289,7 +278,7 @@
           "title": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still eas...",
           "url": "https://x.com/GeminiApp/status/2088277479555473660",
           "published_at": "2026-08-14T14:52:04Z",
-          "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄5❤️108👀18068📊15⚡ Powered b…"
+          "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄5❤️109👀18422📊15⚡ Powered b…"
         },
         {
           "id": "976f4a0908977bb3b42a5e1fa8126f92c13a976d",
@@ -348,7 +337,7 @@
       "title": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具...",
       "url": "https://x.com/op7418/status/2088304412657901833",
       "published_at": "2026-08-14T16:39:05Z",
-      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬29🔄0❤️13👀6111📊20⚡ Powered by xgo.ing"
+      "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬31🔄0❤️16👀6402📊22⚡ Powered by xgo.ing"
     },
     {
       "id": "27e91d0e55c34f0a4153d52ce447f76c6b49dfda",
@@ -359,7 +348,7 @@
       "title": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still eas...",
       "url": "https://x.com/GeminiApp/status/2088277479555473660",
       "published_at": "2026-08-14T14:52:04Z",
-      "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄5❤️108👀18068📊15⚡ Powered b…"
+      "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬2🔄5❤️109👀18422📊15⚡ Powered b…"
     },
     {
       "id": "976f4a0908977bb3b42a5e1fa8126f92c13a976d",
@@ -381,7 +370,7 @@
       "title": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试",
       "url": "https://x.com/op7418/status/2088253680361550230",
       "published_at": "2026-08-14T13:17:29Z",
-      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬33🔄22❤️146👀30801📊51⚡ Powered by xgo.ing"
+      "summary": "今天的骑行到位了，夏天晚上骑真是容易胖。 这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。 如果你也想这样分享你的运动轨迹，可以装一个试试Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2086…🔗 View Quoted Tweet💬36🔄23❤️153👀32701📊55⚡ Powered by xgo.ing"
     },
     {
       "id": "09860a829d07203f7359fb020b068cea5b630c85",
@@ -393,17 +382,6 @@
       "url": "https://x.com/op7418/status/2088199058313957734",
       "published_at": "2026-08-14T09:40:27Z",
       "summary": "15 张数据图帮你了解 DeepSeek Harness 昨天 DeepSeek Harness 发布，于是就想着让 Codex 分析一下，找到了一个很好的角度，就是从一些数据上向大家介绍这个产品。 确实也发现了一些很有意思的东西： 插件系统与 Koishi 高度相似： 他们主打的插件系统与 Koishi 的插件平台相似度高达 75%。大概率是整个平台都挪过来了，不知道是不是他们的核心开发者入职了。 大量使用 AI 开发： Codex 命名的主干 PR 达到了 21.2%，分支信息中提到 Codex 的比例有 28.2%。 猜测他们肯定用了 Claude…"
-    },
-    {
-      "id": "20ff46b34249e08a52cd37c134283d93e135cd16",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分：\n\n1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其...",
-      "url": "https://x.com/op7418/status/2088180816128143829",
-      "published_at": "2026-08-14T08:27:57Z",
-      "summary": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分： 1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其是大家最近都在聊这块，他们针对性地做了一些优化。 2. 长程任务的执行： 比如终端里的任务、工具调用，以及大代码库的修复任务，都有非常大的提升。 这个模型依然是只进行了后训练，没有重新进行预训练。这都几个版本了，还能有这么大的提升，确实猛啊！Z.ai@Zai_orgIntroducing GLM-5.3: Built to Code. Ready for Cy…"
     }
   ]
 }
