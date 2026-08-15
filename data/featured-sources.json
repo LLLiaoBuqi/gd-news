@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T14:45:49.069596Z",
+  "generated_at": "2026-08-15T15:13:23.519617Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 270,
+      "duration_ms": 887,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 31,
+      "duration_ms": 24,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2017,
+      "duration_ms": 1597,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1476,
+      "duration_ms": 1225,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1236,
+      "duration_ms": 768,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 880,
+      "duration_ms": 845,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 538,
+      "duration_ms": 476,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 27,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2782,
+      "duration_ms": 2374,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1546,
+      "duration_ms": 1470,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -228,7 +228,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -257,28 +257,6 @@
           "url": "https://x.com/GeminiApp/status/2088326407730692538",
           "published_at": "2026-08-14T18:06:29Z",
           "summary": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update delivers improved reasoning and accuracy for multi-step tasks like intelligently connecting the dots across dozens of files and emails into one master document. Give it a try today on t…"
-        },
-        {
-          "id": "27e91d0e55c34f0a4153d52ce447f76c6b49dfda",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still eas...",
-          "url": "https://x.com/GeminiApp/status/2088277479555473660",
-          "published_at": "2026-08-14T14:52:04Z",
-          "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬3🔄5❤️116👀20030📊16⚡ Powered b…"
-        },
-        {
-          "id": "976f4a0908977bb3b42a5e1fa8126f92c13a976d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Rolling out over the next few days, you can decide if your image, video, and music creations made wi...",
-          "url": "https://x.com/GeminiApp/status/2088277477672255830",
-          "published_at": "2026-08-14T14:52:03Z",
-          "summary": "Rolling out over the next few days, you can decide if your image, video, and music creations made with Gemini will have visible watermarks. Invisible SynthID watermarks and C2PA metadata will always stay embedded in the background. Simply go to your settings and toggle “Show wate…"
         }
       ]
     }
@@ -338,28 +316,6 @@
       "url": "https://x.com/op7418/status/2088304412657901833",
       "published_at": "2026-08-14T16:39:05Z",
       "summary": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点： 网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。 这次 5.3 版本大幅强化了网络安全任务的能力。Z.ai@Zai_orgx.com/i/article/2088…🔗 View Quoted Tweet💬43🔄0❤️16👀7492📊30⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "27e91d0e55c34f0a4153d52ce447f76c6b49dfda",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still eas...",
-      "url": "https://x.com/GeminiApp/status/2088277479555473660",
-      "published_at": "2026-08-14T14:52:04Z",
-      "summary": "If you’re ever unsure whether an image, video, or piece of music was made with AI, you can still easily verify by asking Gemini, “Is this AI-generated?” Learn more about availability and how to manage your watermark settings in Gemini: goo.gle/4htswIJ💬3🔄5❤️116👀20030📊16⚡ Powered b…"
-    },
-    {
-      "id": "976f4a0908977bb3b42a5e1fa8126f92c13a976d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Rolling out over the next few days, you can decide if your image, video, and music creations made wi...",
-      "url": "https://x.com/GeminiApp/status/2088277477672255830",
-      "published_at": "2026-08-14T14:52:03Z",
-      "summary": "Rolling out over the next few days, you can decide if your image, video, and music creations made with Gemini will have visible watermarks. Invisible SynthID watermarks and C2PA metadata will always stay embedded in the background. Simply go to your settings and toggle “Show wate…"
     }
   ]
 }
