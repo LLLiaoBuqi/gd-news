@@ -1,13 +1,17 @@
 {
-  "generated_at": "2026-08-17T22:16:55.356237Z",
+  "generated_at": "2026-08-17T22:47:47.307111Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 3,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 5,
   "failed_feeds": [
+    "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
+    "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
+    "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
+    "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
     "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
@@ -20,7 +24,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 141,
+      "duration_ms": 283,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +38,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 36,
+      "duration_ms": 25,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -46,10 +50,10 @@
       "feed_title": "Google AI(@GoogleAI)",
       "feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 1785,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 13586,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -60,10 +64,10 @@
       "feed_title": "Google Gemini(@GeminiApp)",
       "feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 1230,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12448,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -74,10 +78,10 @@
       "feed_title": "OpenAI(@OpenAI)",
       "feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 954,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12586,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -90,7 +94,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 592,
+      "duration_ms": 692,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +122,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 378,
+      "duration_ms": 252,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +136,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 28,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -144,10 +148,10 @@
       "feed_title": "歸藏(guizang.ai)(@op7418)",
       "feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
-      "ok": true,
-      "item_count": 50,
-      "duration_ms": 2776,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 12543,
+      "error": "HTTPSConnectionPool(host='api.xgo.ing', port=443): Read timed out. (read timeout=12)",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -174,7 +178,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 887,
+      "duration_ms": 541,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,11 +188,12 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 3,
       "feed_total": 5,
-      "ok_feeds": 4,
+      "ok_feeds": 3,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9"
       ],
       "items": [
         {
@@ -201,83 +206,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498165&idx=1&sn=9e47d657491b0c4070e58b7136b784ed",
           "published_at": "2026-08-17T08:14:00Z",
           "summary": "复杂办公流程从资料整理一路跑到成果交付。"
-        },
-        {
-          "id": "d99dcd178d6052aa2a4c695a5bcd251fce0025c9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我去！这个太有意思了。\n\n谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢",
-          "url": "https://x.com/op7418/status/2089249593930477633",
-          "published_at": "2026-08-17T07:14:54Z",
-          "summary": "我去！这个太有意思了。 谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢Hours@hoursgambling my token allocation🔗 View Quoted Tweet💬114🔄28❤️378👀131527📊127⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8816a824c35d5260e9ad853347a88e3d4570f821",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "给客户端做个图标",
-          "url": "https://x.com/op7418/status/2089207351383675232",
-          "published_at": "2026-08-17T04:27:02Z",
-          "summary": "给客户端做个图标歸藏(guizang.ai)@op7418搞的差不多了，还不错🔗 View Quoted Tweet💬31🔄0❤️23👀9121📊23⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c4aa2dce436d5c15f223ed9f60b46f5440aa0038",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "虽然修复了，但是要相信我们中国号商的能力。\n\n所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈",
-          "url": "https://x.com/op7418/status/2089188139265085801",
-          "published_at": "2026-08-17T03:10:42Z",
-          "summary": "虽然修复了，但是要相信我们中国号商的能力。 所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈歸藏(guizang.ai)@op7418卧槽，原来现在还是能以每个月 99 美元的价格，订阅 Grok Harvey 这个级别的会员，这个超值！ 你相当于一下获得了： 1. 价值 300 美元的 Grok Harvey（包括 Grok Build 权限） 2. 价值 200 美元的 Cursor Ultra 会员，还有 Fable 5 的额度。 3. Grok Bot 的独立额度（这三个额度都是独立的） 4. Grok Image 和 Video（图…"
-        },
-        {
-          "id": "cf44e230385c4104554367afcfd5ff00f699f019",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "虽然修复了，但是要相信我们中国号商的能力。\n\n所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈",
-          "url": "https://x.com/op7418/status/2089188111997964682",
-          "published_at": "2026-08-17T03:10:35Z",
-          "summary": "虽然修复了，但是要相信我们中国号商的能力。 所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈💬0🔄0❤️5👀6102📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0939f8f8e4c333fae1819b13ff41539d9b50a0cd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "搞的差不多了，还不错",
-          "url": "https://x.com/op7418/status/2089186594402287896",
-          "published_at": "2026-08-17T03:04:33Z",
-          "summary": "搞的差不多了，还不错歸藏(guizang.ai)@op7418正在给 DeepSeek Harness 做一个界面和交互美化的插件。 还有一个服务商的插件，这样整个产品体验会好一点，后续也会打包成一个客户端。 这主要是把 Codepilot 里面沉淀的一些资产抽离出来，然后做到这个 DeepSeek Harness 的插件里，这样整个使用体验和视觉效果都会变好不少。 看了一些现有的美化插件，基本上都是改改背景图、加一两个组件效果什么的，感觉对于长期使用和用户体验没什么多大的帮助。🔗 View Quoted Tweet💬17🔄3❤️98👀40264📊26⚡…"
-        },
-        {
-          "id": "9f996bdefee0eb0b685c6f4153ad5efb434f21c7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "已经修复了，现在搞不了了",
-          "url": "https://x.com/op7418/status/2089170065656774953",
-          "published_at": "2026-08-17T01:58:53Z",
-          "summary": "已经修复了，现在搞不了了💬3🔄0❤️13👀8415📊4⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5a7b106b043f40895eab2bbc0b5106750dc4fd34",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "已经修复了，现在搞不了了",
-          "url": "https://x.com/op7418/status/2089170035747217790",
-          "published_at": "2026-08-17T01:58:46Z",
-          "summary": "已经修复了，现在搞不了了💬0🔄0❤️4👀3881📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "f4f10132e323ccab9b86dbc33df85d9295014639",
@@ -305,40 +233,20 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 7,
-      "ok_feeds": 5,
+      "ok_feeds": 2,
       "failed_feeds": [
+        "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
+        "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
+        "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "ae6de241f812a6876316e0ff4061b3684f347d75",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "https://t.co/oypBnSCPTQ",
-          "url": "https://x.com/GoogleAI/status/2089437060310434098",
-          "published_at": "2026-08-17T19:39:49Z",
-          "summary": "x.com/i/article/2089…💬7🔄27❤️245👀23601📊44⚡ Powered by xgo.ing"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
-    {
-      "id": "ae6de241f812a6876316e0ff4061b3684f347d75",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "https://t.co/oypBnSCPTQ",
-      "url": "https://x.com/GoogleAI/status/2089437060310434098",
-      "published_at": "2026-08-17T19:39:49Z",
-      "summary": "x.com/i/article/2089…💬7🔄27❤️245👀23601📊44⚡ Powered by xgo.ing"
-    },
     {
       "id": "f367621aeaa5b1de2c106d87f4e00e5952e00b06",
       "site_id": "featuredrss",
@@ -349,83 +257,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498165&idx=1&sn=9e47d657491b0c4070e58b7136b784ed",
       "published_at": "2026-08-17T08:14:00Z",
       "summary": "复杂办公流程从资料整理一路跑到成果交付。"
-    },
-    {
-      "id": "d99dcd178d6052aa2a4c695a5bcd251fce0025c9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我去！这个太有意思了。\n\n谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢",
-      "url": "https://x.com/op7418/status/2089249593930477633",
-      "published_at": "2026-08-17T07:14:54Z",
-      "summary": "我去！这个太有意思了。 谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢Hours@hoursgambling my token allocation🔗 View Quoted Tweet💬114🔄28❤️378👀131527📊127⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8816a824c35d5260e9ad853347a88e3d4570f821",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "给客户端做个图标",
-      "url": "https://x.com/op7418/status/2089207351383675232",
-      "published_at": "2026-08-17T04:27:02Z",
-      "summary": "给客户端做个图标歸藏(guizang.ai)@op7418搞的差不多了，还不错🔗 View Quoted Tweet💬31🔄0❤️23👀9121📊23⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c4aa2dce436d5c15f223ed9f60b46f5440aa0038",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "虽然修复了，但是要相信我们中国号商的能力。\n\n所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈",
-      "url": "https://x.com/op7418/status/2089188139265085801",
-      "published_at": "2026-08-17T03:10:42Z",
-      "summary": "虽然修复了，但是要相信我们中国号商的能力。 所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈歸藏(guizang.ai)@op7418卧槽，原来现在还是能以每个月 99 美元的价格，订阅 Grok Harvey 这个级别的会员，这个超值！ 你相当于一下获得了： 1. 价值 300 美元的 Grok Harvey（包括 Grok Build 权限） 2. 价值 200 美元的 Cursor Ultra 会员，还有 Fable 5 的额度。 3. Grok Bot 的独立额度（这三个额度都是独立的） 4. Grok Image 和 Video（图…"
-    },
-    {
-      "id": "cf44e230385c4104554367afcfd5ff00f699f019",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "虽然修复了，但是要相信我们中国号商的能力。\n\n所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈",
-      "url": "https://x.com/op7418/status/2089188111997964682",
-      "published_at": "2026-08-17T03:10:35Z",
-      "summary": "虽然修复了，但是要相信我们中国号商的能力。 所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈💬0🔄0❤️5👀6102📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0939f8f8e4c333fae1819b13ff41539d9b50a0cd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "搞的差不多了，还不错",
-      "url": "https://x.com/op7418/status/2089186594402287896",
-      "published_at": "2026-08-17T03:04:33Z",
-      "summary": "搞的差不多了，还不错歸藏(guizang.ai)@op7418正在给 DeepSeek Harness 做一个界面和交互美化的插件。 还有一个服务商的插件，这样整个产品体验会好一点，后续也会打包成一个客户端。 这主要是把 Codepilot 里面沉淀的一些资产抽离出来，然后做到这个 DeepSeek Harness 的插件里，这样整个使用体验和视觉效果都会变好不少。 看了一些现有的美化插件，基本上都是改改背景图、加一两个组件效果什么的，感觉对于长期使用和用户体验没什么多大的帮助。🔗 View Quoted Tweet💬17🔄3❤️98👀40264📊26⚡…"
-    },
-    {
-      "id": "9f996bdefee0eb0b685c6f4153ad5efb434f21c7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "已经修复了，现在搞不了了",
-      "url": "https://x.com/op7418/status/2089170065656774953",
-      "published_at": "2026-08-17T01:58:53Z",
-      "summary": "已经修复了，现在搞不了了💬3🔄0❤️13👀8415📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5a7b106b043f40895eab2bbc0b5106750dc4fd34",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "已经修复了，现在搞不了了",
-      "url": "https://x.com/op7418/status/2089170035747217790",
-      "published_at": "2026-08-17T01:58:46Z",
-      "summary": "已经修复了，现在搞不了了💬0🔄0❤️4👀3881📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "f4f10132e323ccab9b86dbc33df85d9295014639",
