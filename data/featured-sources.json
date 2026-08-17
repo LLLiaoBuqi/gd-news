@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T17:52:41.519349Z",
+  "generated_at": "2026-08-17T18:28:14.596039Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 468,
+      "duration_ms": 653,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 32,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1827,
+      "duration_ms": 1583,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1326,
+      "duration_ms": 1243,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 940,
+      "duration_ms": 707,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1063,
+      "duration_ms": 1239,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 475,
+      "duration_ms": 877,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 20,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2623,
+      "duration_ms": 2509,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1327,
+      "duration_ms": 552,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 12,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -300,28 +300,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685310&idx=1&sn=a62263bd647f948b3d7a9492337fd137",
           "published_at": "2026-08-17T00:09:00Z",
           "summary": "真正的考验来了"
-        },
-        {
-          "id": "73d6bbd5ab876d6b8f7cf4b8ec3e62246dbce15b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "做了张图：https://t.co/ahGGCr9O03",
-          "url": "https://x.com/op7418/status/2089049695993888786",
-          "published_at": "2026-08-16T18:00:34Z",
-          "summary": "做了张图：x.com/op7418/status/…💬2🔄1❤️8👀18381📊7⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d7a5b07ecc198e5664672a7aa03f95134b1a0147",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "做了张 99 美元拿下Grok Harvey、Cursor Ultra、Grok Bot 加 Twitter Premium+ 会员的教程图，这样清晰点",
-          "url": "https://x.com/op7418/status/2089049616667103648",
-          "published_at": "2026-08-16T18:00:15Z",
-          "summary": "做了张 99 美元拿下Grok Harvey、Cursor Ultra、Grok Bot 加 Twitter Premium+ 会员的教程图，这样清晰点歸藏(guizang.ai)@op7418卧槽，原来现在还是能以每个月 99 美元的价格，订阅 Grok Harvey 这个级别的会员，这个超值！ 你相当于一下获得了： 1. 价值 300 美元的 Grok Harvey（包括 Grok Build 权限） 2. 价值 200 美元的 Cursor Ultra 会员，还有 Fable 5 的额度。 3. Grok Bot 的独立额度（这三个额度都是独立的）…"
         }
       ]
     },
@@ -447,28 +425,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685310&idx=1&sn=a62263bd647f948b3d7a9492337fd137",
       "published_at": "2026-08-17T00:09:00Z",
       "summary": "真正的考验来了"
-    },
-    {
-      "id": "73d6bbd5ab876d6b8f7cf4b8ec3e62246dbce15b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "做了张图：https://t.co/ahGGCr9O03",
-      "url": "https://x.com/op7418/status/2089049695993888786",
-      "published_at": "2026-08-16T18:00:34Z",
-      "summary": "做了张图：x.com/op7418/status/…💬2🔄1❤️8👀18381📊7⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d7a5b07ecc198e5664672a7aa03f95134b1a0147",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "做了张 99 美元拿下Grok Harvey、Cursor Ultra、Grok Bot 加 Twitter Premium+ 会员的教程图，这样清晰点",
-      "url": "https://x.com/op7418/status/2089049616667103648",
-      "published_at": "2026-08-16T18:00:15Z",
-      "summary": "做了张 99 美元拿下Grok Harvey、Cursor Ultra、Grok Bot 加 Twitter Premium+ 会员的教程图，这样清晰点歸藏(guizang.ai)@op7418卧槽，原来现在还是能以每个月 99 美元的价格，订阅 Grok Harvey 这个级别的会员，这个超值！ 你相当于一下获得了： 1. 价值 300 美元的 Grok Harvey（包括 Grok Build 权限） 2. 价值 200 美元的 Cursor Ultra 会员，还有 Fable 5 的额度。 3. Grok Bot 的独立额度（这三个额度都是独立的）…"
     }
   ]
 }
