@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T22:15:24.887150Z",
+  "generated_at": "2026-08-18T22:47:56.086479Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 212,
+      "duration_ms": 248,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 16,
-      "duration_ms": 29,
+      "item_count": 17,
+      "duration_ms": 66,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1838,
+      "duration_ms": 1742,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1541,
+      "duration_ms": 1322,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 993,
+      "duration_ms": 972,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 963,
+      "duration_ms": 972,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 544,
+      "duration_ms": 545,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 69,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2908,
+      "duration_ms": 2531,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1574,
+      "duration_ms": 1530,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -255,7 +255,7 @@
           "title": "https://t.co/fPGXkxlnm8",
           "url": "https://x.com/op7418/status/2089631356062146981",
           "published_at": "2026-08-18T08:31:53Z",
-          "summary": "x.com/i/article/2089…💬14🔄7❤️82👀34785📊44⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2089…💬14🔄7❤️84👀35165📊44⚡ Powered by xgo.ing"
         },
         {
           "id": "c844033e20b7d49c7eaac1cd5fcf54c305dd0f14",
@@ -272,7 +272,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -301,6 +301,17 @@
           "url": "https://x.com/OpenAI/status/2089777846583763370",
           "published_at": "2026-08-18T18:13:59Z",
           "summary": "We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance. We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluatio…"
+        },
+        {
+          "id": "95b94d094d35ee03fe6ec686739fc32a9f6b7e8a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "Aug 18, 2026ScienceHow Claude is accelerating protein design and analytical chemistry",
+          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+          "published_at": "2026-08-18T00:00:00Z",
+          "summary": "Aug 18, 2026ScienceHow Claude is accelerating protein design and analytical chemistry"
         }
       ]
     }
@@ -392,7 +403,18 @@
       "title": "https://t.co/fPGXkxlnm8",
       "url": "https://x.com/op7418/status/2089631356062146981",
       "published_at": "2026-08-18T08:31:53Z",
-      "summary": "x.com/i/article/2089…💬14🔄7❤️82👀34785📊44⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2089…💬14🔄7❤️84👀35165📊44⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "95b94d094d35ee03fe6ec686739fc32a9f6b7e8a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "Aug 18, 2026ScienceHow Claude is accelerating protein design and analytical chemistry",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "published_at": "2026-08-18T00:00:00Z",
+      "summary": "Aug 18, 2026ScienceHow Claude is accelerating protein design and analytical chemistry"
     },
     {
       "id": "c844033e20b7d49c7eaac1cd5fcf54c305dd0f14",
