@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T02:11:39.548404Z",
+  "generated_at": "2026-08-18T03:15:36.458453Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 482,
+      "duration_ms": 822,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 25,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1364,
+      "duration_ms": 1626,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1227,
+      "duration_ms": 1488,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 742,
+      "duration_ms": 1103,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 752,
+      "duration_ms": 643,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 318,
+      "duration_ms": 702,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 27,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2571,
+      "duration_ms": 2547,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1180,
+      "duration_ms": 1471,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "我去！这个太有意思了。\n\n谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢",
           "url": "https://x.com/op7418/status/2089249593930477633",
           "published_at": "2026-08-17T07:14:54Z",
-          "summary": "我去！这个太有意思了。 谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢Hours@hoursgambling my token allocation🔗 View Quoted Tweet💬123🔄28❤️395👀138492📊135⚡ Powered by xgo.ing"
+          "summary": "我去！这个太有意思了。 谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢Hours@hoursgambling my token allocation🔗 View Quoted Tweet💬126🔄28❤️406👀141489📊138⚡ Powered by xgo.ing"
         },
         {
           "id": "8816a824c35d5260e9ad853347a88e3d4570f821",
@@ -222,40 +222,7 @@
           "title": "给客户端做个图标",
           "url": "https://x.com/op7418/status/2089207351383675232",
           "published_at": "2026-08-17T04:27:02Z",
-          "summary": "给客户端做个图标歸藏(guizang.ai)@op7418搞的差不多了，还不错🔗 View Quoted Tweet💬37🔄0❤️23👀9728📊27⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c4aa2dce436d5c15f223ed9f60b46f5440aa0038",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "虽然修复了，但是要相信我们中国号商的能力。\n\n所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈",
-          "url": "https://x.com/op7418/status/2089188139265085801",
-          "published_at": "2026-08-17T03:10:42Z",
-          "summary": "虽然修复了，但是要相信我们中国号商的能力。 所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈歸藏(guizang.ai)@op7418卧槽，原来现在还是能以每个月 99 美元的价格，订阅 Grok Harvey 这个级别的会员，这个超值！ 你相当于一下获得了： 1. 价值 300 美元的 Grok Harvey（包括 Grok Build 权限） 2. 价值 200 美元的 Cursor Ultra 会员，还有 Fable 5 的额度。 3. Grok Bot 的独立额度（这三个额度都是独立的） 4. Grok Image 和 Video（图…"
-        },
-        {
-          "id": "cf44e230385c4104554367afcfd5ff00f699f019",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "虽然修复了，但是要相信我们中国号商的能力。\n\n所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈",
-          "url": "https://x.com/op7418/status/2089188111997964682",
-          "published_at": "2026-08-17T03:10:35Z",
-          "summary": "虽然修复了，但是要相信我们中国号商的能力。 所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈💬0🔄0❤️5👀6502📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0939f8f8e4c333fae1819b13ff41539d9b50a0cd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "搞的差不多了，还不错",
-          "url": "https://x.com/op7418/status/2089186594402287896",
-          "published_at": "2026-08-17T03:04:33Z",
-          "summary": "搞的差不多了，还不错歸藏(guizang.ai)@op7418正在给 DeepSeek Harness 做一个界面和交互美化的插件。 还有一个服务商的插件，这样整个产品体验会好一点，后续也会打包成一个客户端。 这主要是把 Codepilot 里面沉淀的一些资产抽离出来，然后做到这个 DeepSeek Harness 的插件里，这样整个使用体验和视觉效果都会变好不少。 看了一些现有的美化插件，基本上都是改改背景图、加一两个组件效果什么的，感觉对于长期使用和用户体验没什么多大的帮助。🔗 View Quoted Tweet💬17🔄3❤️100👀41801📊26…"
+          "summary": "给客户端做个图标歸藏(guizang.ai)@op7418搞的差不多了，还不错🔗 View Quoted Tweet💬40🔄0❤️23👀9964📊29⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -278,7 +245,7 @@
           "title": "https://t.co/oypBnSCPTQ",
           "url": "https://x.com/GoogleAI/status/2089437060310434098",
           "published_at": "2026-08-17T19:39:49Z",
-          "summary": "x.com/i/article/2089…💬9🔄40❤️448👀43181📊80⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2089…💬12🔄60❤️581👀55693📊108⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -293,7 +260,7 @@
       "title": "https://t.co/oypBnSCPTQ",
       "url": "https://x.com/GoogleAI/status/2089437060310434098",
       "published_at": "2026-08-17T19:39:49Z",
-      "summary": "x.com/i/article/2089…💬9🔄40❤️448👀43181📊80⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2089…💬12🔄60❤️581👀55693📊108⚡ Powered by xgo.ing"
     },
     {
       "id": "f367621aeaa5b1de2c106d87f4e00e5952e00b06",
@@ -315,7 +282,7 @@
       "title": "我去！这个太有意思了。\n\n谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢",
       "url": "https://x.com/op7418/status/2089249593930477633",
       "published_at": "2026-08-17T07:14:54Z",
-      "summary": "我去！这个太有意思了。 谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢Hours@hoursgambling my token allocation🔗 View Quoted Tweet💬123🔄28❤️395👀138492📊135⚡ Powered by xgo.ing"
+      "summary": "我去！这个太有意思了。 谁不想在等 AI 完成任务的时候玩上一把德州并且把自己的 Token 输光呢Hours@hoursgambling my token allocation🔗 View Quoted Tweet💬126🔄28❤️406👀141489📊138⚡ Powered by xgo.ing"
     },
     {
       "id": "8816a824c35d5260e9ad853347a88e3d4570f821",
@@ -326,40 +293,7 @@
       "title": "给客户端做个图标",
       "url": "https://x.com/op7418/status/2089207351383675232",
       "published_at": "2026-08-17T04:27:02Z",
-      "summary": "给客户端做个图标歸藏(guizang.ai)@op7418搞的差不多了，还不错🔗 View Quoted Tweet💬37🔄0❤️23👀9728📊27⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c4aa2dce436d5c15f223ed9f60b46f5440aa0038",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "虽然修复了，但是要相信我们中国号商的能力。\n\n所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈",
-      "url": "https://x.com/op7418/status/2089188139265085801",
-      "published_at": "2026-08-17T03:10:42Z",
-      "summary": "虽然修复了，但是要相信我们中国号商的能力。 所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈歸藏(guizang.ai)@op7418卧槽，原来现在还是能以每个月 99 美元的价格，订阅 Grok Harvey 这个级别的会员，这个超值！ 你相当于一下获得了： 1. 价值 300 美元的 Grok Harvey（包括 Grok Build 权限） 2. 价值 200 美元的 Cursor Ultra 会员，还有 Fable 5 的额度。 3. Grok Bot 的独立额度（这三个额度都是独立的） 4. Grok Image 和 Video（图…"
-    },
-    {
-      "id": "cf44e230385c4104554367afcfd5ff00f699f019",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "虽然修复了，但是要相信我们中国号商的能力。\n\n所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈",
-      "url": "https://x.com/op7418/status/2089188111997964682",
-      "published_at": "2026-08-17T03:10:35Z",
-      "summary": "虽然修复了，但是要相信我们中国号商的能力。 所以如果你还是想要的话，可以去闲鱼找找看，但是注意不要被骗哈💬0🔄0❤️5👀6502📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0939f8f8e4c333fae1819b13ff41539d9b50a0cd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "搞的差不多了，还不错",
-      "url": "https://x.com/op7418/status/2089186594402287896",
-      "published_at": "2026-08-17T03:04:33Z",
-      "summary": "搞的差不多了，还不错歸藏(guizang.ai)@op7418正在给 DeepSeek Harness 做一个界面和交互美化的插件。 还有一个服务商的插件，这样整个产品体验会好一点，后续也会打包成一个客户端。 这主要是把 Codepilot 里面沉淀的一些资产抽离出来，然后做到这个 DeepSeek Harness 的插件里，这样整个使用体验和视觉效果都会变好不少。 看了一些现有的美化插件，基本上都是改改背景图、加一两个组件效果什么的，感觉对于长期使用和用户体验没什么多大的帮助。🔗 View Quoted Tweet💬17🔄3❤️100👀41801📊26…"
+      "summary": "给客户端做个图标歸藏(guizang.ai)@op7418搞的差不多了，还不错🔗 View Quoted Tweet💬40🔄0❤️23👀9964📊29⚡ Powered by xgo.ing"
     }
   ]
 }
