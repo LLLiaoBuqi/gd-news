@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T19:06:48.609628Z",
+  "generated_at": "2026-08-18T19:47:06.952417Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 276,
+      "duration_ms": 1015,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 31,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1821,
+      "duration_ms": 1568,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1541,
+      "duration_ms": 1110,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1223,
+      "duration_ms": 940,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1135,
+      "duration_ms": 1398,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 643,
+      "duration_ms": 957,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2589,
+      "duration_ms": 2305,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1655,
+      "duration_ms": 855,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -272,7 +272,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -301,17 +301,6 @@
           "url": "https://x.com/OpenAI/status/2089777846583763370",
           "published_at": "2026-08-18T18:13:59Z",
           "summary": "We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance. We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluatio…"
-        },
-        {
-          "id": "ae6de241f812a6876316e0ff4061b3684f347d75",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "https://t.co/oypBnSCPTQ",
-          "url": "https://x.com/GoogleAI/status/2089437060310434098",
-          "published_at": "2026-08-17T19:39:49Z",
-          "summary": "x.com/i/article/2089…💬25🔄93❤️897👀94976📊175⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -415,17 +404,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
       "published_at": "2026-08-17T23:58:00Z",
       "summary": "钢人大法好"
-    },
-    {
-      "id": "ae6de241f812a6876316e0ff4061b3684f347d75",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "https://t.co/oypBnSCPTQ",
-      "url": "https://x.com/GoogleAI/status/2089437060310434098",
-      "published_at": "2026-08-17T19:39:49Z",
-      "summary": "x.com/i/article/2089…💬25🔄93❤️897👀94976📊175⚡ Powered by xgo.ing"
     }
   ]
 }
