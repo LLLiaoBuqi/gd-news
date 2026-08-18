@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T09:02:57.375998Z",
+  "generated_at": "2026-08-18T09:55:59.740713Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 302,
+      "duration_ms": 411,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 77,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1684,
+      "duration_ms": 1458,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1326,
+      "duration_ms": 1197,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 933,
+      "duration_ms": 726,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 961,
+      "duration_ms": 671,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 518,
+      "duration_ms": 295,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2477,
+      "duration_ms": 2295,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1554,
+      "duration_ms": 1122,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,69 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 0,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "01e944a13eb4b6ef7f300d599e759a4f5c0d37f7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "发布了：https://t.co/mnsV09HEhZ",
+          "url": "https://x.com/op7418/status/2089643178177819094",
+          "published_at": "2026-08-18T09:18:52Z",
+          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harn…"
+        },
+        {
+          "id": "8fb53c44b5c2dbf847fa88ff935b39f00a043166",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "发布了：https://t.co/mnsV09HEhZ",
+          "url": "https://x.com/op7418/status/2089643137014894645",
+          "published_at": "2026-08-18T09:18:42Z",
+          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harn…"
+        },
+        {
+          "id": "fb8c219ab12c802e25f28a8b9c6265cefd1b33e6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "详情：https://t.co/SjneegnF3x",
+          "url": "https://x.com/op7418/status/2089642649649340794",
+          "published_at": "2026-08-18T09:16:46Z",
+          "summary": "详情：github.com/op7418/pilot-h…💬0🔄0❤️0👀495⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "7abc1a24961a29a79b737a78e23b59d47b7221f8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。\n\n这个客户端主要由两部分组成：\n一个是客户端的壳；另一个是所有的优化，它们本质上都是 Deep...",
+          "url": "https://x.com/op7418/status/2089642527641186320",
+          "published_at": "2026-08-18T09:16:16Z",
+          "summary": "终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harness 本身一些有问题的展示方式、样式以及交互。 2. 文件树插件：你可以在聊天界面的右侧展…"
+        },
+        {
+          "id": "35706c6515ea10c13dc274a7fe6ed47ed34142b8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/fPGXkxlnm8",
+          "url": "https://x.com/op7418/status/2089631356062146981",
+          "published_at": "2026-08-18T08:31:53Z",
+          "summary": "x.com/i/article/2089…💬12🔄3❤️34👀7708📊20⚡ Powered by xgo.ing"
+        }
+      ]
     },
     "global": {
       "label": "国外精选",
@@ -211,12 +267,67 @@
           "title": "https://t.co/oypBnSCPTQ",
           "url": "https://x.com/GoogleAI/status/2089437060310434098",
           "published_at": "2026-08-17T19:39:49Z",
-          "summary": "x.com/i/article/2089…💬19🔄75❤️743👀73724📊141⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2089…💬21🔄76❤️759👀76124📊146⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "01e944a13eb4b6ef7f300d599e759a4f5c0d37f7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "发布了：https://t.co/mnsV09HEhZ",
+      "url": "https://x.com/op7418/status/2089643178177819094",
+      "published_at": "2026-08-18T09:18:52Z",
+      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harn…"
+    },
+    {
+      "id": "8fb53c44b5c2dbf847fa88ff935b39f00a043166",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "发布了：https://t.co/mnsV09HEhZ",
+      "url": "https://x.com/op7418/status/2089643137014894645",
+      "published_at": "2026-08-18T09:18:42Z",
+      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harn…"
+    },
+    {
+      "id": "fb8c219ab12c802e25f28a8b9c6265cefd1b33e6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "详情：https://t.co/SjneegnF3x",
+      "url": "https://x.com/op7418/status/2089642649649340794",
+      "published_at": "2026-08-18T09:16:46Z",
+      "summary": "详情：github.com/op7418/pilot-h…💬0🔄0❤️0👀495⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "7abc1a24961a29a79b737a78e23b59d47b7221f8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。\n\n这个客户端主要由两部分组成：\n一个是客户端的壳；另一个是所有的优化，它们本质上都是 Deep...",
+      "url": "https://x.com/op7418/status/2089642527641186320",
+      "published_at": "2026-08-18T09:16:16Z",
+      "summary": "终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harness 本身一些有问题的展示方式、样式以及交互。 2. 文件树插件：你可以在聊天界面的右侧展…"
+    },
+    {
+      "id": "35706c6515ea10c13dc274a7fe6ed47ed34142b8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/fPGXkxlnm8",
+      "url": "https://x.com/op7418/status/2089631356062146981",
+      "published_at": "2026-08-18T08:31:53Z",
+      "summary": "x.com/i/article/2089…💬12🔄3❤️34👀7708📊20⚡ Powered by xgo.ing"
+    },
     {
       "id": "ae6de241f812a6876316e0ff4061b3684f347d75",
       "site_id": "featuredrss",
@@ -226,7 +337,7 @@
       "title": "https://t.co/oypBnSCPTQ",
       "url": "https://x.com/GoogleAI/status/2089437060310434098",
       "published_at": "2026-08-17T19:39:49Z",
-      "summary": "x.com/i/article/2089…💬19🔄75❤️743👀73724📊141⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2089…💬21🔄76❤️759👀76124📊146⚡ Powered by xgo.ing"
     }
   ]
 }
