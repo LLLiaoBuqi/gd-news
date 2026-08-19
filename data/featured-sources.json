@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T20:18:56.117908Z",
+  "generated_at": "2026-08-19T20:51:56.593821Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 107,
+      "duration_ms": 362,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 115,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1613,
+      "duration_ms": 1567,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1205,
+      "duration_ms": 1195,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 753,
+      "duration_ms": 797,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 684,
+      "duration_ms": 1074,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 473,
+      "duration_ms": 302,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 20,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2441,
+      "duration_ms": 2148,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1051,
+      "duration_ms": 1107,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -228,7 +228,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -236,6 +236,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "0dcc857b71658b140678906cb4fb19d4542380e9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Talk through research with Gemini Live.\n\nYou can now kick off multi-step research reports with your ...",
+          "url": "https://x.com/GeminiApp/status/2090166406868533734",
+          "published_at": "2026-08-19T19:57:59Z",
+          "summary": "Talk through research with Gemini Live. You can now kick off multi-step research reports with your voice: 1) Ask Gemini Live to Deep Research a complex topic 2) Lock your phone or switch tasks while it works in the background 3) Get notified when it's done, then seamlessly talk t…"
+        },
+        {
+          "id": "ada18a329ef7edb883b9de8b9626d4b3f9dc1677",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are r...",
+          "url": "https://x.com/GeminiApp/status/2090166408642752550",
+          "published_at": "2026-08-19T19:57:59Z",
+          "summary": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are rolling out today to eligible Gemini app users globally. Claim your student plan for one year at no cost. Offer runs through December 31st, 2026 for eligible students. Terms apply.…"
+        },
         {
           "id": "18ced28bb37054a894f3b360351bca10f00b8899",
           "site_id": "featuredrss",
@@ -257,11 +279,44 @@
           "url": "https://x.com/OpenAI/status/2090165329867743501",
           "published_at": "2026-08-19T19:53:42Z",
           "summary": "openai.com/index/offering…💬0🔄0❤️0⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "85b6f4b04446a84f578baf2cbf5eea3f898400ae",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
+          "url": "https://x.com/GeminiApp/status/2090165248196252003",
+          "published_at": "2026-08-19T19:53:23Z",
+          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬26🔄50❤️450👀35046📊122⚡ Powered…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "0dcc857b71658b140678906cb4fb19d4542380e9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Talk through research with Gemini Live.\n\nYou can now kick off multi-step research reports with your ...",
+      "url": "https://x.com/GeminiApp/status/2090166406868533734",
+      "published_at": "2026-08-19T19:57:59Z",
+      "summary": "Talk through research with Gemini Live. You can now kick off multi-step research reports with your voice: 1) Ask Gemini Live to Deep Research a complex topic 2) Lock your phone or switch tasks while it works in the background 3) Get notified when it's done, then seamlessly talk t…"
+    },
+    {
+      "id": "ada18a329ef7edb883b9de8b9626d4b3f9dc1677",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are r...",
+      "url": "https://x.com/GeminiApp/status/2090166408642752550",
+      "published_at": "2026-08-19T19:57:59Z",
+      "summary": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are rolling out today to eligible Gemini app users globally. Claim your student plan for one year at no cost. Offer runs through December 31st, 2026 for eligible students. Terms apply.…"
+    },
     {
       "id": "18ced28bb37054a894f3b360351bca10f00b8899",
       "site_id": "featuredrss",
@@ -283,6 +338,17 @@
       "url": "https://x.com/OpenAI/status/2090165329867743501",
       "published_at": "2026-08-19T19:53:42Z",
       "summary": "openai.com/index/offering…💬0🔄0❤️0⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "85b6f4b04446a84f578baf2cbf5eea3f898400ae",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
+      "url": "https://x.com/GeminiApp/status/2090165248196252003",
+      "published_at": "2026-08-19T19:53:23Z",
+      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬26🔄50❤️450👀35046📊122⚡ Powered…"
     },
     {
       "id": "d144aca6fddb65a0c1c4612f72c2ee975a5d79ac",
