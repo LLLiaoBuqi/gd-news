@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T09:04:30.857084Z",
+  "generated_at": "2026-08-19T09:56:42.640654Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 498,
+      "duration_ms": 144,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 23,
+      "duration_ms": 21,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1673,
+      "duration_ms": 1898,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1167,
+      "duration_ms": 1599,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 851,
+      "duration_ms": 1127,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1529,
+      "duration_ms": 1506,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 431,
+      "duration_ms": 588,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 23,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2290,
+      "duration_ms": 2800,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1197,
+      "duration_ms": 1164,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,48 +192,15 @@
       ],
       "items": [
         {
-          "id": "01e944a13eb4b6ef7f300d599e759a4f5c0d37f7",
+          "id": "d144aca6fddb65a0c1c4612f72c2ee975a5d79ac",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "发布了：https://t.co/mnsV09HEhZ",
-          "url": "https://x.com/op7418/status/2089643178177819094",
-          "published_at": "2026-08-18T09:18:52Z",
-          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harn…"
-        },
-        {
-          "id": "8fb53c44b5c2dbf847fa88ff935b39f00a043166",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "发布了：https://t.co/mnsV09HEhZ",
-          "url": "https://x.com/op7418/status/2089643137014894645",
-          "published_at": "2026-08-18T09:18:42Z",
-          "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harn…"
-        },
-        {
-          "id": "fb8c219ab12c802e25f28a8b9c6265cefd1b33e6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "详情：https://t.co/SjneegnF3x",
-          "url": "https://x.com/op7418/status/2089642649649340794",
-          "published_at": "2026-08-18T09:16:46Z",
-          "summary": "详情：github.com/op7418/pilot-h…💬0🔄0❤️6👀2565📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7abc1a24961a29a79b737a78e23b59d47b7221f8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。\n\n这个客户端主要由两部分组成：\n一个是客户端的壳；另一个是所有的优化，它们本质上都是 Deep...",
-          "url": "https://x.com/op7418/status/2089642527641186320",
-          "published_at": "2026-08-18T09:16:16Z",
-          "summary": "终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harness 本身一些有问题的展示方式、样式以及交互。 2. 文件树插件：你可以在聊天界面的右侧展…"
+          "title": "豆包手机控制和云电脑做得比Codex牛皮呀！\n\n刚才看豆包上线了云电脑模式，而且它还能支持手机控制本地电脑。\n\n我觉得它在手机控制电脑的连接设计上做得非常自然，体验极佳，甚至比 Codex 那些好太多...",
+          "url": "https://x.com/op7418/status/2089991628631191991",
+          "published_at": "2026-08-19T08:23:29Z",
+          "summary": "豆包手机控制和云电脑做得比Codex牛皮呀！ 刚才看豆包上线了云电脑模式，而且它还能支持手机控制本地电脑。 我觉得它在手机控制电脑的连接设计上做得非常自然，体验极佳，甚至比 Codex 那些好太多了。 你只需要在本地电脑发起聊天，手机上就能直接同步看到，然后只需在手机上点一下授权（电脑端完全不需要任何操作），就可以直接获取控制权。 之后你就能通过手机操作电脑上的任务，响应速度极快，延迟极低。 这次还增加了一个云电脑模式。虽然云电脑本质上是给你分配了一个虚拟机，很多人觉得上面没有自己的数据和信息，干不了什么事。 但我觉得它内置的连接器（比如我们常说的 MC…"
         }
       ]
     },
@@ -274,6 +241,17 @@
   },
   "items": [
     {
+      "id": "d144aca6fddb65a0c1c4612f72c2ee975a5d79ac",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "豆包手机控制和云电脑做得比Codex牛皮呀！\n\n刚才看豆包上线了云电脑模式，而且它还能支持手机控制本地电脑。\n\n我觉得它在手机控制电脑的连接设计上做得非常自然，体验极佳，甚至比 Codex 那些好太多...",
+      "url": "https://x.com/op7418/status/2089991628631191991",
+      "published_at": "2026-08-19T08:23:29Z",
+      "summary": "豆包手机控制和云电脑做得比Codex牛皮呀！ 刚才看豆包上线了云电脑模式，而且它还能支持手机控制本地电脑。 我觉得它在手机控制电脑的连接设计上做得非常自然，体验极佳，甚至比 Codex 那些好太多了。 你只需要在本地电脑发起聊天，手机上就能直接同步看到，然后只需在手机上点一下授权（电脑端完全不需要任何操作），就可以直接获取控制权。 之后你就能通过手机操作电脑上的任务，响应速度极快，延迟极低。 这次还增加了一个云电脑模式。虽然云电脑本质上是给你分配了一个虚拟机，很多人觉得上面没有自己的数据和信息，干不了什么事。 但我觉得它内置的连接器（比如我们常说的 MC…"
+    },
+    {
       "id": "b725a8bc69769b446e7778127d80bae0017323e1",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -294,50 +272,6 @@
       "url": "https://x.com/OpenAI/status/2089777846583763370",
       "published_at": "2026-08-18T18:13:59Z",
       "summary": "We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance. We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluatio…"
-    },
-    {
-      "id": "01e944a13eb4b6ef7f300d599e759a4f5c0d37f7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "发布了：https://t.co/mnsV09HEhZ",
-      "url": "https://x.com/op7418/status/2089643178177819094",
-      "published_at": "2026-08-18T09:18:52Z",
-      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harn…"
-    },
-    {
-      "id": "8fb53c44b5c2dbf847fa88ff935b39f00a043166",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "发布了：https://t.co/mnsV09HEhZ",
-      "url": "https://x.com/op7418/status/2089643137014894645",
-      "published_at": "2026-08-18T09:18:42Z",
-      "summary": "发布了：x.com/op7418/status/…歸藏(guizang.ai)@op7418终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harn…"
-    },
-    {
-      "id": "fb8c219ab12c802e25f28a8b9c6265cefd1b33e6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "详情：https://t.co/SjneegnF3x",
-      "url": "https://x.com/op7418/status/2089642649649340794",
-      "published_at": "2026-08-18T09:16:46Z",
-      "summary": "详情：github.com/op7418/pilot-h…💬0🔄0❤️6👀2565📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7abc1a24961a29a79b737a78e23b59d47b7221f8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。\n\n这个客户端主要由两部分组成：\n一个是客户端的壳；另一个是所有的优化，它们本质上都是 Deep...",
-      "url": "https://x.com/op7418/status/2089642527641186320",
-      "published_at": "2026-08-18T09:16:16Z",
-      "summary": "终于搞定了！给 DeepSeek Harness 做了一个开箱即用的客户端 Pilot Harness。 这个客户端主要由两部分组成： 一个是客户端的壳；另一个是所有的优化，它们本质上都是 DeepSeek Harness 的插件。 也就是说，你既可以直接使用我这个客户端（默认加载所有插件），也可以只挑选对你有用的插件，安装到你自己的 DeepSeek Harness 里面。 这里面主要包括三个插件： 1. UI 和交互优化插件：优化了 DeepSeek Harness 本身一些有问题的展示方式、样式以及交互。 2. 文件树插件：你可以在聊天界面的右侧展…"
     }
   ]
 }
