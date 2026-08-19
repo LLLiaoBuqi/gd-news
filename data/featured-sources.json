@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T17:48:10.085247Z",
+  "generated_at": "2026-08-19T18:23:35.361986Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 592,
+      "duration_ms": 161,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 31,
+      "duration_ms": 149,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1545,
+      "duration_ms": 2001,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1289,
+      "duration_ms": 1552,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 781,
+      "duration_ms": 1038,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 466,
+      "duration_ms": 815,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 697,
+      "duration_ms": 490,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2413,
+      "duration_ms": 2643,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1259,
+      "duration_ms": 1375,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -228,37 +228,14 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "b725a8bc69769b446e7778127d80bae0017323e1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "As models become more capable, the risks associated with developing and testing them internally also...",
-          "url": "https://x.com/OpenAI/status/2089777845187031262",
-          "published_at": "2026-08-18T18:13:59Z",
-          "summary": "As models become more capable, the risks associated with developing and testing them internally also grow. We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environme…"
-        },
-        {
-          "id": "017c10e57ae6c1692a15eb36d0dae0b719f75022",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as...",
-          "url": "https://x.com/OpenAI/status/2089777846583763370",
-          "published_at": "2026-08-18T18:13:59Z",
-          "summary": "We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance. We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluatio…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -294,28 +271,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509788&idx=1&sn=4c423604f2a3374526219456eb13527d",
       "published_at": "2026-08-19T01:42:00Z",
       "summary": "来看我做的dsh新插件！滑动变祖器时间版"
-    },
-    {
-      "id": "b725a8bc69769b446e7778127d80bae0017323e1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "As models become more capable, the risks associated with developing and testing them internally also...",
-      "url": "https://x.com/OpenAI/status/2089777845187031262",
-      "published_at": "2026-08-18T18:13:59Z",
-      "summary": "As models become more capable, the risks associated with developing and testing them internally also grow. We temporarily paused reinforcement learning (RL) training on our latest models intended for deployment for two weeks while we hardened and red-teamed our research environme…"
-    },
-    {
-      "id": "017c10e57ae6c1692a15eb36d0dae0b719f75022",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as...",
-      "url": "https://x.com/OpenAI/status/2089777846583763370",
-      "published_at": "2026-08-18T18:13:59Z",
-      "summary": "We’re sharing the concrete changes we’re making to strengthen monitoring, security, and alignment as capabilities advance. We’ve introduced stronger workload and network isolation, continuous security testing, and expanded multistage monitoring for higher-risk training, evaluatio…"
     }
   ]
 }
