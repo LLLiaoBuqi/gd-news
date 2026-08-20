@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T17:54:17.960142Z",
+  "generated_at": "2026-08-20T18:28:37.913768Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 129,
+      "duration_ms": 446,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 37,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1616,
+      "duration_ms": 1606,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1236,
+      "duration_ms": 1388,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 873,
+      "duration_ms": 1109,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1091,
+      "duration_ms": 1381,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 351,
+      "duration_ms": 379,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 25,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2967,
+      "duration_ms": 2609,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 654,
+      "duration_ms": 1474,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -222,7 +222,7 @@
           "title": "黑神话钟馗实机演示太牛逼了！\n\n刚开始那段真的以为是实拍",
           "url": "https://x.com/op7418/status/2090265563096654103",
           "published_at": "2026-08-20T02:32:00Z",
-          "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬45🔄21❤️247👀114207📊78⚡ Powered by xgo.ing"
+          "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬45🔄23❤️250👀116841📊79⚡ Powered by xgo.ing"
         },
         {
           "id": "6304106c7f1447482cea5bb3170fb15f43545f8e",
@@ -250,7 +250,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -258,6 +258,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "153b34d6a8905e52826c62ecc1e51bca83c776a5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in t...",
+          "url": "https://x.com/OpenAI/status/2090488285198250017",
+          "published_at": "2026-08-20T17:17:01Z",
+          "summary": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.💬5🔄2❤️40👀13874📊8⚡ Powered by xgo.ing"
+        },
         {
           "id": "0dcc857b71658b140678906cb4fb19d4542380e9",
           "site_id": "featuredrss",
@@ -300,7 +311,7 @@
           "title": "https://t.co/skOPiN5ltz",
           "url": "https://x.com/OpenAI/status/2090165329867743501",
           "published_at": "2026-08-19T19:53:42Z",
-          "summary": "openai.com/index/offering…💬5🔄5❤️183👀68201📊24⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/offering…💬5🔄5❤️183👀69044📊24⚡ Powered by xgo.ing"
         },
         {
           "id": "85b6f4b04446a84f578baf2cbf5eea3f898400ae",
@@ -311,12 +322,23 @@
           "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
           "url": "https://x.com/GeminiApp/status/2090165248196252003",
           "published_at": "2026-08-19T19:53:23Z",
-          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬354🔄2563❤️24494👀14889823📊10203…"
+          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬361🔄2627❤️25281👀15497193📊10503…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "153b34d6a8905e52826c62ecc1e51bca83c776a5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in t...",
+      "url": "https://x.com/OpenAI/status/2090488285198250017",
+      "published_at": "2026-08-20T17:17:01Z",
+      "summary": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.💬5🔄2❤️40👀13874📊8⚡ Powered by xgo.ing"
+    },
     {
       "id": "ac1a028d4b241449568a380524f3cacbc927a5b9",
       "site_id": "featuredrss",
@@ -348,7 +370,7 @@
       "title": "黑神话钟馗实机演示太牛逼了！\n\n刚开始那段真的以为是实拍",
       "url": "https://x.com/op7418/status/2090265563096654103",
       "published_at": "2026-08-20T02:32:00Z",
-      "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬45🔄21❤️247👀114207📊78⚡ Powered by xgo.ing"
+      "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬45🔄23❤️250👀116841📊79⚡ Powered by xgo.ing"
     },
     {
       "id": "6304106c7f1447482cea5bb3170fb15f43545f8e",
@@ -414,7 +436,7 @@
       "title": "https://t.co/skOPiN5ltz",
       "url": "https://x.com/OpenAI/status/2090165329867743501",
       "published_at": "2026-08-19T19:53:42Z",
-      "summary": "openai.com/index/offering…💬5🔄5❤️183👀68201📊24⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/offering…💬5🔄5❤️183👀69044📊24⚡ Powered by xgo.ing"
     },
     {
       "id": "85b6f4b04446a84f578baf2cbf5eea3f898400ae",
@@ -425,7 +447,7 @@
       "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
       "url": "https://x.com/GeminiApp/status/2090165248196252003",
       "published_at": "2026-08-19T19:53:23Z",
-      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬354🔄2563❤️24494👀14889823📊10203…"
+      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬361🔄2627❤️25281👀15497193📊10503…"
     }
   ]
 }
