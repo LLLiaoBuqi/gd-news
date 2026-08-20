@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T06:33:49.888687Z",
+  "generated_at": "2026-08-20T07:34:23.918034Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 111,
+      "duration_ms": 154,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 119,
+      "duration_ms": 15,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1683,
+      "duration_ms": 1845,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1004,
+      "duration_ms": 1119,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 812,
+      "duration_ms": 1046,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 746,
+      "duration_ms": 681,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 416,
+      "duration_ms": 1237,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 11,
+      "duration_ms": 10,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2661,
+      "duration_ms": 2470,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1305,
+      "duration_ms": 1019,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -222,7 +222,7 @@
           "title": "黑神话钟馗实机演示太牛逼了！\n\n刚开始那段真的以为是实拍",
           "url": "https://x.com/op7418/status/2090265563096654103",
           "published_at": "2026-08-20T02:32:00Z",
-          "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬26🔄12❤️124👀41248📊43⚡ Powered by xgo.ing"
+          "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬31🔄13❤️137👀52309📊49⚡ Powered by xgo.ing"
         },
         {
           "id": "6304106c7f1447482cea5bb3170fb15f43545f8e",
@@ -245,17 +245,6 @@
           "url": "https://x.com/op7418/status/2089991628631191991",
           "published_at": "2026-08-19T08:23:29Z",
           "summary": "豆包手机控制和云电脑做得比Codex牛皮呀！ 刚才看豆包上线了云电脑模式，而且它还能支持手机控制本地电脑。 我觉得它在手机控制电脑的连接设计上做得非常自然，体验极佳，甚至比 Codex 那些好太多了。 你只需要在本地电脑发起聊天，手机上就能直接同步看到，然后只需在手机上点一下授权（电脑端完全不需要任何操作），就可以直接获取控制权。 之后你就能通过手机操作电脑上的任务，响应速度极快，延迟极低。 这次还增加了一个云电脑模式。虽然云电脑本质上是给你分配了一个虚拟机，很多人觉得上面没有自己的数据和信息，干不了什么事。 但我觉得它内置的连接器（比如我们常说的 MC…"
-        },
-        {
-          "id": "f07dc4b8073e188c229b0c79e9f853bddd51ee37",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "聊聊唐杰老师对GLM-5.3和Scaling Law的思考",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685331&idx=1&sn=7de04d2b464e8f9eec5af238b78e86c5",
-          "published_at": "2026-08-19T06:42:00Z",
-          "summary": "数字生命卡兹克 2026-08-19 14:42 北京 刚刚，智谱创始人唐杰老师，在X上发了一篇超棒的帖子，专门说了下他对Scaling Law的理解。 正好今天AA的成绩也出来了，我把原帖和AA指数都放在评论区了。 GLM-5.3拿到了60分，上一代GLM-5.2是53分，基座是完全相同的，总参数753B，激活40B，而且大家Coding体感也都很棒，都觉得是国产SOTA了。 但也有很多人也在说为啥智谱这次不训个新的基座模型。 唐老师这篇帖子，刚好讲的非常清楚，也有非常多的干货。 他说，Scaling，从来不只有参数量这一个点。 我们以前一聊大模型，最…"
         }
       ]
     },
@@ -311,7 +300,7 @@
           "title": "https://t.co/skOPiN5ltz",
           "url": "https://x.com/OpenAI/status/2090165329867743501",
           "published_at": "2026-08-19T19:53:42Z",
-          "summary": "openai.com/index/offering…💬2🔄5❤️159👀55317📊19⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/offering…💬2🔄5❤️160👀57099📊20⚡ Powered by xgo.ing"
         },
         {
           "id": "85b6f4b04446a84f578baf2cbf5eea3f898400ae",
@@ -322,7 +311,7 @@
           "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
           "url": "https://x.com/GeminiApp/status/2090165248196252003",
           "published_at": "2026-08-19T19:53:23Z",
-          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬200🔄1324❤️11128👀4738673📊4285⚡…"
+          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬213🔄1460❤️12402👀5711765📊4877⚡…"
         }
       ]
     }
@@ -359,7 +348,7 @@
       "title": "黑神话钟馗实机演示太牛逼了！\n\n刚开始那段真的以为是实拍",
       "url": "https://x.com/op7418/status/2090265563096654103",
       "published_at": "2026-08-20T02:32:00Z",
-      "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬26🔄12❤️124👀41248📊43⚡ Powered by xgo.ing"
+      "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬31🔄13❤️137👀52309📊49⚡ Powered by xgo.ing"
     },
     {
       "id": "6304106c7f1447482cea5bb3170fb15f43545f8e",
@@ -414,7 +403,7 @@
       "title": "https://t.co/skOPiN5ltz",
       "url": "https://x.com/OpenAI/status/2090165329867743501",
       "published_at": "2026-08-19T19:53:42Z",
-      "summary": "openai.com/index/offering…💬2🔄5❤️159👀55317📊19⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/offering…💬2🔄5❤️160👀57099📊20⚡ Powered by xgo.ing"
     },
     {
       "id": "85b6f4b04446a84f578baf2cbf5eea3f898400ae",
@@ -425,7 +414,7 @@
       "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
       "url": "https://x.com/GeminiApp/status/2090165248196252003",
       "published_at": "2026-08-19T19:53:23Z",
-      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬200🔄1324❤️11128👀4738673📊4285⚡…"
+      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬213🔄1460❤️12402👀5711765📊4877⚡…"
     },
     {
       "id": "d144aca6fddb65a0c1c4612f72c2ee975a5d79ac",
@@ -437,17 +426,6 @@
       "url": "https://x.com/op7418/status/2089991628631191991",
       "published_at": "2026-08-19T08:23:29Z",
       "summary": "豆包手机控制和云电脑做得比Codex牛皮呀！ 刚才看豆包上线了云电脑模式，而且它还能支持手机控制本地电脑。 我觉得它在手机控制电脑的连接设计上做得非常自然，体验极佳，甚至比 Codex 那些好太多了。 你只需要在本地电脑发起聊天，手机上就能直接同步看到，然后只需在手机上点一下授权（电脑端完全不需要任何操作），就可以直接获取控制权。 之后你就能通过手机操作电脑上的任务，响应速度极快，延迟极低。 这次还增加了一个云电脑模式。虽然云电脑本质上是给你分配了一个虚拟机，很多人觉得上面没有自己的数据和信息，干不了什么事。 但我觉得它内置的连接器（比如我们常说的 MC…"
-    },
-    {
-      "id": "f07dc4b8073e188c229b0c79e9f853bddd51ee37",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "聊聊唐杰老师对GLM-5.3和Scaling Law的思考",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685331&idx=1&sn=7de04d2b464e8f9eec5af238b78e86c5",
-      "published_at": "2026-08-19T06:42:00Z",
-      "summary": "数字生命卡兹克 2026-08-19 14:42 北京 刚刚，智谱创始人唐杰老师，在X上发了一篇超棒的帖子，专门说了下他对Scaling Law的理解。 正好今天AA的成绩也出来了，我把原帖和AA指数都放在评论区了。 GLM-5.3拿到了60分，上一代GLM-5.2是53分，基座是完全相同的，总参数753B，激活40B，而且大家Coding体感也都很棒，都觉得是国产SOTA了。 但也有很多人也在说为啥智谱这次不训个新的基座模型。 唐老师这篇帖子，刚好讲的非常清楚，也有非常多的干货。 他说，Scaling，从来不只有参数量这一个点。 我们以前一聊大模型，最…"
     }
   ]
 }
