@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:51:27.585466Z",
+  "generated_at": "2026-08-20T02:13:18.297214Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 8,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 945,
+      "duration_ms": 242,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 55,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1871,
+      "duration_ms": 1398,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1290,
+      "duration_ms": 1202,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1123,
+      "duration_ms": 993,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 772,
+      "duration_ms": 934,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 306,
+      "duration_ms": 392,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3621,
+      "duration_ms": 2377,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1126,
+      "duration_ms": 1157,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -191,6 +191,17 @@
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "6304106c7f1447482cea5bb3170fb15f43545f8e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Claude Code 终于可以自定义输出风格了，原来那个又臭又长的，真太恶心了。\n\n还没试，不知道效果怎么样，需要在斜杠 config 里的输出风格里边选择这个Concise",
+          "url": "https://x.com/op7418/status/2090254305404366952",
+          "published_at": "2026-08-20T01:47:16Z",
+          "summary": "Claude Code 终于可以自定义输出风格了，原来那个又臭又长的，真太恶心了。 还没试，不知道效果怎么样，需要在斜杠 config 里的输出风格里边选择这个ConciseClaudeDevs@ClaudeDevsYou can now set Claude Code's output style to Concise. Claude leads with the result, keeps responses short, and still gives full detail when you ask. Turn it on in /config…"
+        },
         {
           "id": "d144aca6fddb65a0c1c4612f72c2ee975a5d79ac",
           "site_id": "featuredrss",
@@ -212,17 +223,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685331&idx=1&sn=7de04d2b464e8f9eec5af238b78e86c5",
           "published_at": "2026-08-19T06:42:00Z",
           "summary": "数字生命卡兹克 2026-08-19 14:42 北京 刚刚，智谱创始人唐杰老师，在X上发了一篇超棒的帖子，专门说了下他对Scaling Law的理解。 正好今天AA的成绩也出来了，我把原帖和AA指数都放在评论区了。 GLM-5.3拿到了60分，上一代GLM-5.2是53分，基座是完全相同的，总参数753B，激活40B，而且大家Coding体感也都很棒，都觉得是国产SOTA了。 但也有很多人也在说为啥智谱这次不训个新的基座模型。 唐老师这篇帖子，刚好讲的非常清楚，也有非常多的干货。 他说，Scaling，从来不只有参数量这一个点。 我们以前一聊大模型，最…"
-        },
-        {
-          "id": "35df0eb385c299c83f71da723841befeda29de17",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测豆包工作任务新模式，我那少得可怜的codex额度能省下来了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509788&idx=1&sn=4c423604f2a3374526219456eb13527d",
-          "published_at": "2026-08-19T01:42:00Z",
-          "summary": "来看我做的dsh新插件！滑动变祖器时间版"
         }
       ]
     },
@@ -278,7 +278,7 @@
           "title": "https://t.co/skOPiN5ltz",
           "url": "https://x.com/OpenAI/status/2090165329867743501",
           "published_at": "2026-08-19T19:53:42Z",
-          "summary": "openai.com/index/offering…💬2🔄4❤️123👀38820📊15⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/offering…💬2🔄5❤️138👀46199📊17⚡ Powered by xgo.ing"
         },
         {
           "id": "85b6f4b04446a84f578baf2cbf5eea3f898400ae",
@@ -289,12 +289,23 @@
           "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
           "url": "https://x.com/GeminiApp/status/2090165248196252003",
           "published_at": "2026-08-19T19:53:23Z",
-          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬130🔄512❤️4944👀1258795📊1775⚡ Po…"
+          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬159🔄769❤️7137👀2306300📊2603⚡ Po…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "6304106c7f1447482cea5bb3170fb15f43545f8e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Claude Code 终于可以自定义输出风格了，原来那个又臭又长的，真太恶心了。\n\n还没试，不知道效果怎么样，需要在斜杠 config 里的输出风格里边选择这个Concise",
+      "url": "https://x.com/op7418/status/2090254305404366952",
+      "published_at": "2026-08-20T01:47:16Z",
+      "summary": "Claude Code 终于可以自定义输出风格了，原来那个又臭又长的，真太恶心了。 还没试，不知道效果怎么样，需要在斜杠 config 里的输出风格里边选择这个ConciseClaudeDevs@ClaudeDevsYou can now set Claude Code's output style to Concise. Claude leads with the result, keeps responses short, and still gives full detail when you ask. Turn it on in /config…"
+    },
     {
       "id": "0dcc857b71658b140678906cb4fb19d4542380e9",
       "site_id": "featuredrss",
@@ -337,7 +348,7 @@
       "title": "https://t.co/skOPiN5ltz",
       "url": "https://x.com/OpenAI/status/2090165329867743501",
       "published_at": "2026-08-19T19:53:42Z",
-      "summary": "openai.com/index/offering…💬2🔄4❤️123👀38820📊15⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/offering…💬2🔄5❤️138👀46199📊17⚡ Powered by xgo.ing"
     },
     {
       "id": "85b6f4b04446a84f578baf2cbf5eea3f898400ae",
@@ -348,7 +359,7 @@
       "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
       "url": "https://x.com/GeminiApp/status/2090165248196252003",
       "published_at": "2026-08-19T19:53:23Z",
-      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬130🔄512❤️4944👀1258795📊1775⚡ Po…"
+      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬159🔄769❤️7137👀2306300📊2603⚡ Po…"
     },
     {
       "id": "d144aca6fddb65a0c1c4612f72c2ee975a5d79ac",
@@ -371,17 +382,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685331&idx=1&sn=7de04d2b464e8f9eec5af238b78e86c5",
       "published_at": "2026-08-19T06:42:00Z",
       "summary": "数字生命卡兹克 2026-08-19 14:42 北京 刚刚，智谱创始人唐杰老师，在X上发了一篇超棒的帖子，专门说了下他对Scaling Law的理解。 正好今天AA的成绩也出来了，我把原帖和AA指数都放在评论区了。 GLM-5.3拿到了60分，上一代GLM-5.2是53分，基座是完全相同的，总参数753B，激活40B，而且大家Coding体感也都很棒，都觉得是国产SOTA了。 但也有很多人也在说为啥智谱这次不训个新的基座模型。 唐老师这篇帖子，刚好讲的非常清楚，也有非常多的干货。 他说，Scaling，从来不只有参数量这一个点。 我们以前一聊大模型，最…"
-    },
-    {
-      "id": "35df0eb385c299c83f71da723841befeda29de17",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测豆包工作任务新模式，我那少得可怜的codex额度能省下来了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509788&idx=1&sn=4c423604f2a3374526219456eb13527d",
-      "published_at": "2026-08-19T01:42:00Z",
-      "summary": "来看我做的dsh新插件！滑动变祖器时间版"
     }
   ]
 }
