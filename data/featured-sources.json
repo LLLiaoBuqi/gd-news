@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T05:02:28.592410Z",
+  "generated_at": "2026-08-20T05:54:14.607065Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 175,
+      "duration_ms": 776,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 21,
+      "duration_ms": 23,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2002,
+      "duration_ms": 1562,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1428,
+      "duration_ms": 1430,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1024,
+      "duration_ms": 1228,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1483,
+      "duration_ms": 1433,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 2,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 458,
+      "duration_ms": 362,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 16,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2631,
+      "duration_ms": 2688,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 965,
+      "duration_ms": 1408,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "ac1a028d4b241449568a380524f3cacbc927a5b9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "冯骥还发了点别的：https://t.co/uxMDq9LkrJ",
+          "url": "https://x.com/op7418/status/2090300104775495999",
+          "published_at": "2026-08-20T04:49:15Z",
+          "summary": "冯骥还发了点别的：x.com/op7418/status/…歸藏(guizang.ai)@op7418黑神话钟馗制作人冯骥（尤卡）发预告也顺便发了十条做游戏的工作原则，做产品做内容都可以参考 -----以下是原文----- 1、首先打动自己。 无论何时，请把自己与团队当作最优先的目标用户。 这是公司成立至今的价值观，我总是翻来覆去说这句有点拗口的话—— “必须做开发者自己作为用户也理解、认可、喜爱的游戏。” 这不单是情怀，也是理性的产品策略。 如果你对正在做的东西缺乏非功利的热诚，你的直觉就会开始迟钝。 时间一长，大概率输给那些比你更乐在其中的人。 2、…"
+        },
+        {
+          "id": "322740899ff54ceb448150a926134f58c9bf2129",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "黑神话钟馗制作人冯骥（尤卡）发预告也顺便发了十条做游戏的工作原则，做产品做内容都可以参考\n\n-----以下是原文-----\n\n1、首先打动自己。\n无论何时，请把自己与团队当作最优先的目标用户。\n这是公...",
+          "url": "https://x.com/op7418/status/2090299959493136738",
+          "published_at": "2026-08-20T04:48:40Z",
+          "summary": "黑神话钟馗制作人冯骥（尤卡）发预告也顺便发了十条做游戏的工作原则，做产品做内容都可以参考 -----以下是原文----- 1、首先打动自己。 无论何时，请把自己与团队当作最优先的目标用户。 这是公司成立至今的价值观，我总是翻来覆去说这句有点拗口的话—— “必须做开发者自己作为用户也理解、认可、喜爱的游戏。” 这不单是情怀，也是理性的产品策略。 如果你对正在做的东西缺乏非功利的热诚，你的直觉就会开始迟钝。 时间一长，大概率输给那些比你更乐在其中的人。 2、再找外部交集。 打动自己，不意味着孤芳自赏。 市场数据、用户反馈和商业上的可持续都很重要。只有组织活下…"
+        },
         {
           "id": "323b9faf45fbb6c0ecce7a5dbd6f626816cb1fee",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "黑神话钟馗实机演示太牛逼了！\n\n刚开始那段真的以为是实拍",
           "url": "https://x.com/op7418/status/2090265563096654103",
           "published_at": "2026-08-20T02:32:00Z",
-          "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬14🔄5❤️45👀10993📊19⚡ Powered by xgo.ing"
+          "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬20🔄12❤️95👀25982📊34⚡ Powered by xgo.ing"
         },
         {
           "id": "6304106c7f1447482cea5bb3170fb15f43545f8e",
@@ -300,12 +322,34 @@
           "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
           "url": "https://x.com/GeminiApp/status/2090165248196252003",
           "published_at": "2026-08-19T19:53:23Z",
-          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬184🔄1136❤️9734👀3692944📊3635⚡ P…"
+          "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬196🔄1264❤️10668👀4377602📊4059⚡…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "ac1a028d4b241449568a380524f3cacbc927a5b9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "冯骥还发了点别的：https://t.co/uxMDq9LkrJ",
+      "url": "https://x.com/op7418/status/2090300104775495999",
+      "published_at": "2026-08-20T04:49:15Z",
+      "summary": "冯骥还发了点别的：x.com/op7418/status/…歸藏(guizang.ai)@op7418黑神话钟馗制作人冯骥（尤卡）发预告也顺便发了十条做游戏的工作原则，做产品做内容都可以参考 -----以下是原文----- 1、首先打动自己。 无论何时，请把自己与团队当作最优先的目标用户。 这是公司成立至今的价值观，我总是翻来覆去说这句有点拗口的话—— “必须做开发者自己作为用户也理解、认可、喜爱的游戏。” 这不单是情怀，也是理性的产品策略。 如果你对正在做的东西缺乏非功利的热诚，你的直觉就会开始迟钝。 时间一长，大概率输给那些比你更乐在其中的人。 2、…"
+    },
+    {
+      "id": "322740899ff54ceb448150a926134f58c9bf2129",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "黑神话钟馗制作人冯骥（尤卡）发预告也顺便发了十条做游戏的工作原则，做产品做内容都可以参考\n\n-----以下是原文-----\n\n1、首先打动自己。\n无论何时，请把自己与团队当作最优先的目标用户。\n这是公...",
+      "url": "https://x.com/op7418/status/2090299959493136738",
+      "published_at": "2026-08-20T04:48:40Z",
+      "summary": "黑神话钟馗制作人冯骥（尤卡）发预告也顺便发了十条做游戏的工作原则，做产品做内容都可以参考 -----以下是原文----- 1、首先打动自己。 无论何时，请把自己与团队当作最优先的目标用户。 这是公司成立至今的价值观，我总是翻来覆去说这句有点拗口的话—— “必须做开发者自己作为用户也理解、认可、喜爱的游戏。” 这不单是情怀，也是理性的产品策略。 如果你对正在做的东西缺乏非功利的热诚，你的直觉就会开始迟钝。 时间一长，大概率输给那些比你更乐在其中的人。 2、再找外部交集。 打动自己，不意味着孤芳自赏。 市场数据、用户反馈和商业上的可持续都很重要。只有组织活下…"
+    },
     {
       "id": "323b9faf45fbb6c0ecce7a5dbd6f626816cb1fee",
       "site_id": "featuredrss",
@@ -315,7 +359,7 @@
       "title": "黑神话钟馗实机演示太牛逼了！\n\n刚开始那段真的以为是实拍",
       "url": "https://x.com/op7418/status/2090265563096654103",
       "published_at": "2026-08-20T02:32:00Z",
-      "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬14🔄5❤️45👀10993📊19⚡ Powered by xgo.ing"
+      "summary": "黑神话钟馗实机演示太牛逼了！ 刚开始那段真的以为是实拍Your browser does not support the video tag.🔗 View on Twitter💬20🔄12❤️95👀25982📊34⚡ Powered by xgo.ing"
     },
     {
       "id": "6304106c7f1447482cea5bb3170fb15f43545f8e",
@@ -381,7 +425,7 @@
       "title": "Back-to-school season is here and starting today, eligible college students can get a full year of G...",
       "url": "https://x.com/GeminiApp/status/2090165248196252003",
       "published_at": "2026-08-19T19:53:23Z",
-      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬184🔄1136❤️9734👀3692944📊3635⚡ P…"
+      "summary": "Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US students: 1 year of Google AI Pro at no cost - 140+ countries: 1 year of Google AI Plus at no cost Here’s what’s new for students 👇💬196🔄1264❤️10668👀4377602📊4059⚡…"
     },
     {
       "id": "d144aca6fddb65a0c1c4612f72c2ee975a5d79ac",
