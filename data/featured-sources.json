@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T19:53:29.066289Z",
+  "generated_at": "2026-08-20T20:19:52.791412Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 295,
+      "duration_ms": 1020,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 24,
+      "duration_ms": 35,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1635,
+      "duration_ms": 1556,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1498,
+      "duration_ms": 1329,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1054,
+      "duration_ms": 1109,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1507,
+      "duration_ms": 1072,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 497,
+      "duration_ms": 1345,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2589,
+      "duration_ms": 2311,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1451,
+      "duration_ms": 852,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -250,7 +250,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -267,51 +267,7 @@
           "title": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in t...",
           "url": "https://x.com/OpenAI/status/2090488285198250017",
           "published_at": "2026-08-20T17:17:01Z",
-          "summary": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.💬6🔄3❤️53👀19915📊10⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0dcc857b71658b140678906cb4fb19d4542380e9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Talk through research with Gemini Live.\n\nYou can now kick off multi-step research reports with your ...",
-          "url": "https://x.com/GeminiApp/status/2090166406868533734",
-          "published_at": "2026-08-19T19:57:59Z",
-          "summary": "Talk through research with Gemini Live. You can now kick off multi-step research reports with your voice: 1) Ask Gemini Live to Deep Research a complex topic 2) Lock your phone or switch tasks while it works in the background 3) Get notified when it's done, then seamlessly talk t…"
-        },
-        {
-          "id": "ada18a329ef7edb883b9de8b9626d4b3f9dc1677",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are r...",
-          "url": "https://x.com/GeminiApp/status/2090166408642752550",
-          "published_at": "2026-08-19T19:57:59Z",
-          "summary": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are rolling out today to eligible Gemini app users globally. Claim your student plan for one year at no cost. Offer runs through December 31st, 2026 for eligible students. Terms apply.…"
-        },
-        {
-          "id": "18ced28bb37054a894f3b360351bca10f00b8899",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We will continue to offer Zero Data Retention for frontier models.\n\nAs AI takes on longer, more auto...",
-          "url": "https://x.com/OpenAI/status/2090165328290701800",
-          "published_at": "2026-08-19T19:53:42Z",
-          "summary": "We will continue to offer Zero Data Retention for frontier models. As AI takes on longer, more autonomous work and delivers greater value to businesses, safety systems also need to identify risks across related interactions. To help address those risks, we're previewing Private S…"
-        },
-        {
-          "id": "cdd0ded56b364b0363071da37bf834f178dce53f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "https://t.co/skOPiN5ltz",
-          "url": "https://x.com/OpenAI/status/2090165329867743501",
-          "published_at": "2026-08-19T19:53:42Z",
-          "summary": "openai.com/index/offering…💬6🔄5❤️185👀69630📊25⚡ Powered by xgo.ing"
+          "summary": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.💬6🔄3❤️58👀23225📊10⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -326,7 +282,7 @@
       "title": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in t...",
       "url": "https://x.com/OpenAI/status/2090488285198250017",
       "published_at": "2026-08-20T17:17:01Z",
-      "summary": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.💬6🔄3❤️53👀19915📊10⚡ Powered by xgo.ing"
+      "summary": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.💬6🔄3❤️58👀23225📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "ac1a028d4b241449568a380524f3cacbc927a5b9",
@@ -382,50 +338,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685338&idx=1&sn=8b806782aabc9709a716794bfac24fe0",
       "published_at": "2026-08-19T23:58:00Z",
       "summary": "那些无法被AI加速的背面"
-    },
-    {
-      "id": "0dcc857b71658b140678906cb4fb19d4542380e9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Talk through research with Gemini Live.\n\nYou can now kick off multi-step research reports with your ...",
-      "url": "https://x.com/GeminiApp/status/2090166406868533734",
-      "published_at": "2026-08-19T19:57:59Z",
-      "summary": "Talk through research with Gemini Live. You can now kick off multi-step research reports with your voice: 1) Ask Gemini Live to Deep Research a complex topic 2) Lock your phone or switch tasks while it works in the background 3) Get notified when it's done, then seamlessly talk t…"
-    },
-    {
-      "id": "ada18a329ef7edb883b9de8b9626d4b3f9dc1677",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are r...",
-      "url": "https://x.com/GeminiApp/status/2090166408642752550",
-      "published_at": "2026-08-19T19:57:59Z",
-      "summary": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are rolling out today to eligible Gemini app users globally. Claim your student plan for one year at no cost. Offer runs through December 31st, 2026 for eligible students. Terms apply.…"
-    },
-    {
-      "id": "18ced28bb37054a894f3b360351bca10f00b8899",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We will continue to offer Zero Data Retention for frontier models.\n\nAs AI takes on longer, more auto...",
-      "url": "https://x.com/OpenAI/status/2090165328290701800",
-      "published_at": "2026-08-19T19:53:42Z",
-      "summary": "We will continue to offer Zero Data Retention for frontier models. As AI takes on longer, more autonomous work and delivers greater value to businesses, safety systems also need to identify risks across related interactions. To help address those risks, we're previewing Private S…"
-    },
-    {
-      "id": "cdd0ded56b364b0363071da37bf834f178dce53f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "https://t.co/skOPiN5ltz",
-      "url": "https://x.com/OpenAI/status/2090165329867743501",
-      "published_at": "2026-08-19T19:53:42Z",
-      "summary": "openai.com/index/offering…💬6🔄5❤️185👀69630📊25⚡ Powered by xgo.ing"
     }
   ]
 }
