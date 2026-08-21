@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T17:01:41.238830Z",
+  "generated_at": "2026-08-21T17:54:05.004937Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 172,
+      "duration_ms": 443,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 38,
+      "duration_ms": 28,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2352,
+      "duration_ms": 1653,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1775,
+      "duration_ms": 1256,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1529,
+      "duration_ms": 780,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 575,
+      "duration_ms": 793,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 384,
+      "duration_ms": 428,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3714,
+      "duration_ms": 2627,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 862,
+      "duration_ms": 1183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -222,7 +222,7 @@
           "title": "同时 DeepSeek Harness 已经第一时间支持了这个模型。\n\n还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传",
           "url": "https://x.com/op7418/status/2090737228305809855",
           "published_at": "2026-08-21T09:46:13Z",
-          "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2212⚡ Powered by xgo.ing"
+          "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2272⚡ Powered by xgo.ing"
         },
         {
           "id": "dd5728ba72aa1ace7be0d156dd21e5cee2b1359a",
@@ -250,26 +250,14 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "153b34d6a8905e52826c62ecc1e51bca83c776a5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in t...",
-          "url": "https://x.com/OpenAI/status/2090488285198250017",
-          "published_at": "2026-08-20T17:17:01Z",
-          "summary": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.💬11🔄4❤️81👀42629📊16⚡ Powered by xgo.ing"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -304,7 +292,7 @@
       "title": "同时 DeepSeek Harness 已经第一时间支持了这个模型。\n\n还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传",
       "url": "https://x.com/op7418/status/2090737228305809855",
       "published_at": "2026-08-21T09:46:13Z",
-      "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2212⚡ Powered by xgo.ing"
+      "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2272⚡ Powered by xgo.ing"
     },
     {
       "id": "dd5728ba72aa1ace7be0d156dd21e5cee2b1359a",
@@ -327,17 +315,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685346&idx=1&sn=0fc8dc62bcf67a466552d1204205ef31",
       "published_at": "2026-08-21T00:08:00Z",
       "summary": "提问永不过时"
-    },
-    {
-      "id": "153b34d6a8905e52826c62ecc1e51bca83c776a5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in t...",
-      "url": "https://x.com/OpenAI/status/2090488285198250017",
-      "published_at": "2026-08-20T17:17:01Z",
-      "summary": "Computer History in the Mac desktop app is now available to Pro, Business, and Enterprise users in the EEA, UK, and Switzerland.💬11🔄4❤️81👀42629📊16⚡ Powered by xgo.ing"
     }
   ]
 }
