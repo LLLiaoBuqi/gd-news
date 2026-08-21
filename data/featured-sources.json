@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T19:45:38.939400Z",
+  "generated_at": "2026-08-21T20:17:36.833683Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 170,
+      "duration_ms": 610,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 30,
+      "duration_ms": 42,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1658,
+      "duration_ms": 1897,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1133,
+      "duration_ms": 1523,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 931,
+      "duration_ms": 1246,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 690,
+      "duration_ms": 951,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 551,
+      "duration_ms": 546,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 42,
+      "duration_ms": 27,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2628,
+      "duration_ms": 3126,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 958,
+      "duration_ms": 1579,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -250,7 +250,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -267,7 +267,18 @@
           "title": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API a...",
           "url": "https://x.com/OpenAI/status/2090885187634905500",
           "published_at": "2026-08-21T19:34:10Z",
-          "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬55🔄35❤️327👀28743📊77⚡ Powered by xgo.ing"
+          "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬171🔄142❤️2548👀195451📊381⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "f994263afb0bb505fa4f9ad406072143c9fd871f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n...",
+          "url": "https://x.com/OpenAI/status/2090885188897460249",
+          "published_at": "2026-08-21T19:34:10Z",
+          "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬17🔄11❤️262👀29460📊37⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -282,7 +293,18 @@
       "title": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API a...",
       "url": "https://x.com/OpenAI/status/2090885187634905500",
       "published_at": "2026-08-21T19:34:10Z",
-      "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬55🔄35❤️327👀28743📊77⚡ Powered by xgo.ing"
+      "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬171🔄142❤️2548👀195451📊381⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "f994263afb0bb505fa4f9ad406072143c9fd871f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n...",
+      "url": "https://x.com/OpenAI/status/2090885188897460249",
+      "published_at": "2026-08-21T19:34:10Z",
+      "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬17🔄11❤️262👀29460📊37⚡ Powered by xgo.ing"
     },
     {
       "id": "37ee9bd798ad315075a32782f8ce4953aade8a3b",
