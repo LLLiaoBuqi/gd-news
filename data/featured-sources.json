@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T23:45:55.099536Z",
+  "generated_at": "2026-08-22T00:51:11.452928Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 892,
+      "duration_ms": 536,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 21,
+      "duration_ms": 24,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1580,
+      "duration_ms": 1546,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1109,
+      "duration_ms": 1236,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 934,
+      "duration_ms": 818,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1379,
+      "duration_ms": 530,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 980,
+      "duration_ms": 876,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 32,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2531,
+      "duration_ms": 2616,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 672,
+      "duration_ms": 1418,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -222,7 +222,7 @@
           "title": "同时 DeepSeek Harness 已经第一时间支持了这个模型。\n\n还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传",
           "url": "https://x.com/op7418/status/2090737228305809855",
           "published_at": "2026-08-21T09:46:13Z",
-          "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2397⚡ Powered by xgo.ing"
+          "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2422⚡ Powered by xgo.ing"
         },
         {
           "id": "dd5728ba72aa1ace7be0d156dd21e5cee2b1359a",
@@ -234,17 +234,6 @@
           "url": "https://x.com/op7418/status/2090734721655550034",
           "published_at": "2026-08-21T09:36:16Z",
           "summary": "Deepseek 的多模态能力终于上了! 是一个单独的模型，Deepseek V4 Flash Vision EXP。 他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。 纯文本能力跟 Deepseek V4 Flash 一样。 在价格上，DeepSeek V4 Flash Vision EXP 跟 DeepSeek V4 Flash 保持一致。DeepSeek@deepseek_aiDeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀 🔹…"
-        },
-        {
-          "id": "9513a192875c73f6552c0ce60ea5c45e2b8fbecc",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "都Agent时代了，我还是想分享给你这12个我最常用的Prompt。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685346&idx=1&sn=0fc8dc62bcf67a466552d1204205ef31",
-          "published_at": "2026-08-21T00:08:00Z",
-          "summary": "提问永不过时"
         }
       ]
     },
@@ -267,7 +256,7 @@
           "title": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API a...",
           "url": "https://x.com/OpenAI/status/2090885187634905500",
           "published_at": "2026-08-21T19:34:10Z",
-          "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬368🔄425❤️7905👀995378📊1068⚡ Powered by xgo.ing"
+          "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬386🔄459❤️8437👀1150913📊1141⚡ Powered by xgo.ing"
         },
         {
           "id": "f994263afb0bb505fa4f9ad406072143c9fd871f",
@@ -278,7 +267,7 @@
           "title": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n...",
           "url": "https://x.com/OpenAI/status/2090885188897460249",
           "published_at": "2026-08-21T19:34:10Z",
-          "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬38🔄25❤️523👀81003📊80⚡ Powered by xgo.ing"
+          "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬41🔄27❤️553👀91591📊86⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -293,7 +282,7 @@
       "title": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API a...",
       "url": "https://x.com/OpenAI/status/2090885187634905500",
       "published_at": "2026-08-21T19:34:10Z",
-      "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬368🔄425❤️7905👀995378📊1068⚡ Powered by xgo.ing"
+      "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬386🔄459❤️8437👀1150913📊1141⚡ Powered by xgo.ing"
     },
     {
       "id": "f994263afb0bb505fa4f9ad406072143c9fd871f",
@@ -304,7 +293,7 @@
       "title": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n...",
       "url": "https://x.com/OpenAI/status/2090885188897460249",
       "published_at": "2026-08-21T19:34:10Z",
-      "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬38🔄25❤️523👀81003📊80⚡ Powered by xgo.ing"
+      "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬41🔄27❤️553👀91591📊86⚡ Powered by xgo.ing"
     },
     {
       "id": "37ee9bd798ad315075a32782f8ce4953aade8a3b",
@@ -337,7 +326,7 @@
       "title": "同时 DeepSeek Harness 已经第一时间支持了这个模型。\n\n还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传",
       "url": "https://x.com/op7418/status/2090737228305809855",
       "published_at": "2026-08-21T09:46:13Z",
-      "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2397⚡ Powered by xgo.ing"
+      "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2422⚡ Powered by xgo.ing"
     },
     {
       "id": "dd5728ba72aa1ace7be0d156dd21e5cee2b1359a",
@@ -349,17 +338,6 @@
       "url": "https://x.com/op7418/status/2090734721655550034",
       "published_at": "2026-08-21T09:36:16Z",
       "summary": "Deepseek 的多模态能力终于上了! 是一个单独的模型，Deepseek V4 Flash Vision EXP。 他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。 纯文本能力跟 Deepseek V4 Flash 一样。 在价格上，DeepSeek V4 Flash Vision EXP 跟 DeepSeek V4 Flash 保持一致。DeepSeek@deepseek_aiDeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀 🔹…"
-    },
-    {
-      "id": "9513a192875c73f6552c0ce60ea5c45e2b8fbecc",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "都Agent时代了，我还是想分享给你这12个我最常用的Prompt。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685346&idx=1&sn=0fc8dc62bcf67a466552d1204205ef31",
-      "published_at": "2026-08-21T00:08:00Z",
-      "summary": "提问永不过时"
     }
   ]
 }
