@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T09:19:50.600554Z",
+  "generated_at": "2026-08-22T09:49:20.605766Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 452,
+      "duration_ms": 689,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 23,
+      "duration_ms": 84,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1663,
+      "duration_ms": 1545,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1519,
+      "duration_ms": 1254,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 684,
+      "duration_ms": 972,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1537,
+      "duration_ms": 630,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 58,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 518,
+      "duration_ms": 385,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 79,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2745,
+      "duration_ms": 2672,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1426,
+      "duration_ms": 1222,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "哪都没去，光顾吃了",
           "url": "https://x.com/op7418/status/2091039407554146448",
           "published_at": "2026-08-22T05:46:59Z",
-          "summary": "哪都没去，光顾吃了💬6🔄0❤️8👀2937📊6⚡ Powered by xgo.ing"
+          "summary": "哪都没去，光顾吃了💬8🔄0❤️9👀3446📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "37ee9bd798ad315075a32782f8ce4953aade8a3b",
@@ -223,28 +223,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509864&idx=1&sn=8bc9f937997f53f5f776754b6c0e27c3",
           "published_at": "2026-08-21T10:53:00Z",
           "summary": "我的硬件小店在路上了"
-        },
-        {
-          "id": "c00330450dc0891a03eec0e523106d113ce958f6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "同时 DeepSeek Harness 已经第一时间支持了这个模型。\n\n还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传",
-          "url": "https://x.com/op7418/status/2090737228305809855",
-          "published_at": "2026-08-21T09:46:13Z",
-          "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2690⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "dd5728ba72aa1ace7be0d156dd21e5cee2b1359a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Deepseek 的多模态能力终于上了!\n\n是一个单独的模型，Deepseek V4 Flash Vision EXP。\n\n他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。\n...",
-          "url": "https://x.com/op7418/status/2090734721655550034",
-          "published_at": "2026-08-21T09:36:16Z",
-          "summary": "Deepseek 的多模态能力终于上了! 是一个单独的模型，Deepseek V4 Flash Vision EXP。 他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。 纯文本能力跟 Deepseek V4 Flash 一样。 在价格上，DeepSeek V4 Flash Vision EXP 跟 DeepSeek V4 Flash 保持一致。DeepSeek@deepseek_aiDeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀 🔹…"
         }
       ]
     },
@@ -267,7 +245,7 @@
           "title": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API a...",
           "url": "https://x.com/OpenAI/status/2090885187634905500",
           "published_at": "2026-08-21T19:34:10Z",
-          "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬472🔄653❤️11136👀2085852📊1488⚡ Powered by xgo.ing"
+          "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬478🔄659❤️11250👀2131161📊1505⚡ Powered by xgo.ing"
         },
         {
           "id": "f994263afb0bb505fa4f9ad406072143c9fd871f",
@@ -293,7 +271,7 @@
       "title": "哪都没去，光顾吃了",
       "url": "https://x.com/op7418/status/2091039407554146448",
       "published_at": "2026-08-22T05:46:59Z",
-      "summary": "哪都没去，光顾吃了💬6🔄0❤️8👀2937📊6⚡ Powered by xgo.ing"
+      "summary": "哪都没去，光顾吃了💬8🔄0❤️9👀3446📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "d807ec13c7e2c3cdbff77d4cd95a9bab9458e305",
@@ -304,7 +282,7 @@
       "title": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API a...",
       "url": "https://x.com/OpenAI/status/2090885187634905500",
       "published_at": "2026-08-21T19:34:10Z",
-      "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬472🔄653❤️11136👀2085852📊1488⚡ Powered by xgo.ing"
+      "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬478🔄659❤️11250👀2131161📊1505⚡ Powered by xgo.ing"
     },
     {
       "id": "f994263afb0bb505fa4f9ad406072143c9fd871f",
@@ -338,28 +316,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509864&idx=1&sn=8bc9f937997f53f5f776754b6c0e27c3",
       "published_at": "2026-08-21T10:53:00Z",
       "summary": "我的硬件小店在路上了"
-    },
-    {
-      "id": "c00330450dc0891a03eec0e523106d113ce958f6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "同时 DeepSeek Harness 已经第一时间支持了这个模型。\n\n还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传",
-      "url": "https://x.com/op7418/status/2090737228305809855",
-      "published_at": "2026-08-21T09:46:13Z",
-      "summary": "同时 DeepSeek Harness 已经第一时间支持了这个模型。 还同时发布了文件 API，免费使用，上传过一次的图片，再用文件的 ID 重新引用的话，可以免去重新上传💬0🔄0❤️1👀2690⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "dd5728ba72aa1ace7be0d156dd21e5cee2b1359a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Deepseek 的多模态能力终于上了!\n\n是一个单独的模型，Deepseek V4 Flash Vision EXP。\n\n他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。\n...",
-      "url": "https://x.com/op7418/status/2090734721655550034",
-      "published_at": "2026-08-21T09:36:16Z",
-      "summary": "Deepseek 的多模态能力终于上了! 是一个单独的模型，Deepseek V4 Flash Vision EXP。 他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。 纯文本能力跟 Deepseek V4 Flash 一样。 在价格上，DeepSeek V4 Flash Vision EXP 跟 DeepSeek V4 Flash 保持一致。DeepSeek@deepseek_aiDeepSeek-V4-Flash-Vision-Exp is now live on the DeepSeek API Platform! 🚀 🔹…"
     }
   ]
 }
