@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T10:47:04.170721Z",
+  "generated_at": "2026-08-22T11:14:24.521438Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 116,
+      "duration_ms": 399,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 124,
+      "duration_ms": 54,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1693,
+      "duration_ms": 1453,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1250,
+      "duration_ms": 1068,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1019,
+      "duration_ms": 812,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 660,
+      "duration_ms": 665,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 469,
+      "duration_ms": 430,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 56,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2861,
+      "duration_ms": 2456,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1084,
+      "duration_ms": 1185,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -212,17 +212,6 @@
           "url": "https://x.com/op7418/status/2090770708691550625",
           "published_at": "2026-08-21T11:59:16Z",
           "summary": "🐂🍺，Codex 周活两千万了 给每个用户发了一个自定义的重置次数Tibo@thsottiauxIt's me again. I come bearing great news. First of all, we have hit 20M active users for Codex some time this week. Second of all, this is cause for celebration and during the day we will credit every Codex and ChatGPT Work user wit…"
-        },
-        {
-          "id": "e695713e0341d351dc6b4bc3886f81214f8d4944",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "第一个能帮你做生意的Agent现在打通国内电商了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509864&idx=1&sn=8bc9f937997f53f5f776754b6c0e27c3",
-          "published_at": "2026-08-21T10:53:00Z",
-          "summary": "我的硬件小店在路上了"
         }
       ]
     },
@@ -245,7 +234,7 @@
           "title": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API a...",
           "url": "https://x.com/OpenAI/status/2090885187634905500",
           "published_at": "2026-08-21T19:34:10Z",
-          "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬493🔄669❤️11382👀2198507📊1530⚡ Powered by xgo.ing"
+          "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬501🔄674❤️11463👀2235465📊1544⚡ Powered by xgo.ing"
         },
         {
           "id": "f994263afb0bb505fa4f9ad406072143c9fd871f",
@@ -256,7 +245,7 @@
           "title": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n...",
           "url": "https://x.com/OpenAI/status/2090885188897460249",
           "published_at": "2026-08-21T19:34:10Z",
-          "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬48🔄32❤️697👀152347📊106⚡ Powered by xgo.ing"
+          "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬48🔄32❤️705👀154763📊107⚡ Powered by xgo.ing"
         }
       ]
     }
@@ -282,7 +271,7 @@
       "title": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API a...",
       "url": "https://x.com/OpenAI/status/2090885187634905500",
       "published_at": "2026-08-21T19:34:10Z",
-      "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬493🔄669❤️11382👀2198507📊1530⚡ Powered by xgo.ing"
+      "summary": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months.Your browser does not support the video tag.🔗 View on Twitter💬501🔄674❤️11463👀2235465📊1544⚡ Powered by xgo.ing"
     },
     {
       "id": "f994263afb0bb505fa4f9ad406072143c9fd871f",
@@ -293,7 +282,7 @@
       "title": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. \n...",
       "url": "https://x.com/OpenAI/status/2090885188897460249",
       "published_at": "2026-08-21T19:34:10Z",
-      "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬48🔄32❤️697👀152347📊106⚡ Powered by xgo.ing"
+      "summary": "Now available on the API and rolling out across eligible plans for ChatGPT Work and Codex credits. Pro, Plus, and Business subscription usage remains unchanged. developers.openai.com/api/docs/prici…💬48🔄32❤️705👀154763📊107⚡ Powered by xgo.ing"
     },
     {
       "id": "37ee9bd798ad315075a32782f8ce4953aade8a3b",
@@ -305,17 +294,6 @@
       "url": "https://x.com/op7418/status/2090770708691550625",
       "published_at": "2026-08-21T11:59:16Z",
       "summary": "🐂🍺，Codex 周活两千万了 给每个用户发了一个自定义的重置次数Tibo@thsottiauxIt's me again. I come bearing great news. First of all, we have hit 20M active users for Codex some time this week. Second of all, this is cause for celebration and during the day we will credit every Codex and ChatGPT Work user wit…"
-    },
-    {
-      "id": "e695713e0341d351dc6b4bc3886f81214f8d4944",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "第一个能帮你做生意的Agent现在打通国内电商了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509864&idx=1&sn=8bc9f937997f53f5f776754b6c0e27c3",
-      "published_at": "2026-08-21T10:53:00Z",
-      "summary": "我的硬件小店在路上了"
     }
   ]
 }
