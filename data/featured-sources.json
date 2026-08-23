@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T05:34:04.335444Z",
+  "generated_at": "2026-08-23T06:28:51.320896Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 513,
+      "duration_ms": 271,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 23,
+      "duration_ms": 31,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1910,
+      "duration_ms": 1739,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1547,
+      "duration_ms": 1485,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1289,
+      "duration_ms": 1063,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 820,
+      "duration_ms": 1525,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 440,
+      "duration_ms": 513,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 22,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3003,
+      "duration_ms": 2648,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1506,
+      "duration_ms": 1111,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "2bb8867a56b9bf585a45b43f4d0959fca2ce9a51",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "还是动态的：https://t.co/Nj6CXlVv2G",
+          "url": "https://x.com/op7418/status/2091397109845299422",
+          "published_at": "2026-08-23T05:28:21Z",
+          "summary": "还是动态的：x.com/op7418/status/…歸藏(guizang.ai)@op7418Ox Alpha 做的这个还是动态的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀694⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "4fc731273fcec7f5b7d1aaef708e4254d95aa4d0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Ox Alpha 做的这个还是动态的",
+          "url": "https://x.com/op7418/status/2091396289229664590",
+          "published_at": "2026-08-23T05:25:06Z",
+          "summary": "Ox Alpha 做的这个还是动态的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的🔗 View Quoted Tweet💬3🔄0❤️12👀2455📊4…"
+        },
+        {
+          "id": "574fe93c326a63f3288f9b2d499ed078fc3d11cd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Ox Alpha 多模态和代码能力真的牛皮\n\n给了他一张图片，让他用 WebGL 还原这个网页。\n\n他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。\n\n最牛逼的是，我如果不是拿原图跟这个图片...",
+          "url": "https://x.com/op7418/status/2091395283028738303",
+          "published_at": "2026-08-23T05:21:06Z",
+          "summary": "Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的💬1🔄0❤️8👀3132📊3⚡ Powered by xgo.ing"
+        },
         {
           "id": "3eece380e2667dce7994caf5a5bb629e2eb69138",
           "site_id": "featuredrss",
@@ -200,7 +233,7 @@
           "title": "gork bot 已经可以免费体验了",
           "url": "https://x.com/op7418/status/2091343192318939149",
           "published_at": "2026-08-23T01:54:06Z",
-          "summary": "gork bot 已经可以免费体验了Grok@grokGrok Bot has expanded to more plans and is now free to try x.ai/bot🔗 View Quoted Tweet💬13🔄0❤️16👀14093📊11⚡ Powered by xgo.ing"
+          "summary": "gork bot 已经可以免费体验了Grok@grokGrok Bot has expanded to more plans and is now free to try x.ai/bot🔗 View Quoted Tweet💬16🔄0❤️19👀17171📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "d1e86cfa9e78261d87538f3a2d05606241f4f4f5",
@@ -212,17 +245,6 @@
           "url": "https://x.com/op7418/status/2091140994192601572",
           "published_at": "2026-08-22T12:30:39Z",
           "summary": "AI 硬件的付费点应该是让用户付费拿到自己用硬件获得的上下文，而不是反过来。 最近这个 AI 硬件反正出的越来越多了，但是大家的思路好像都没有转变过来。 还是收钱是为了让用户把数据留在自己这，把上下文留在这自己这。 但是我最近用的最多的 AI 硬件反倒是飞书的那个录音豆。 用的最多的原因是它可以通过飞书的 CLI 把我的所有的录音的转的文字全部拉到我本地的上下文那边。 在 Agent 集中化以及模型价格频繁变化的这个时间点。 你不能不可能通过让用户付费购买你的模型服务和 Agent 来绑住用户。 反倒是如果你能提供更丰富的 Agent 或者 Skill…"
-        },
-        {
-          "id": "53960d625c7369bf3dc7f551a704dc8cd2b2bd2f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "哪都没去，光顾吃了",
-          "url": "https://x.com/op7418/status/2091039407554146448",
-          "published_at": "2026-08-22T05:46:59Z",
-          "summary": "哪都没去，光顾吃了💬39🔄0❤️16👀6071📊33⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -240,6 +262,39 @@
   },
   "items": [
     {
+      "id": "2bb8867a56b9bf585a45b43f4d0959fca2ce9a51",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "还是动态的：https://t.co/Nj6CXlVv2G",
+      "url": "https://x.com/op7418/status/2091397109845299422",
+      "published_at": "2026-08-23T05:28:21Z",
+      "summary": "还是动态的：x.com/op7418/status/…歸藏(guizang.ai)@op7418Ox Alpha 做的这个还是动态的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀694⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "4fc731273fcec7f5b7d1aaef708e4254d95aa4d0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Ox Alpha 做的这个还是动态的",
+      "url": "https://x.com/op7418/status/2091396289229664590",
+      "published_at": "2026-08-23T05:25:06Z",
+      "summary": "Ox Alpha 做的这个还是动态的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的🔗 View Quoted Tweet💬3🔄0❤️12👀2455📊4…"
+    },
+    {
+      "id": "574fe93c326a63f3288f9b2d499ed078fc3d11cd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Ox Alpha 多模态和代码能力真的牛皮\n\n给了他一张图片，让他用 WebGL 还原这个网页。\n\n他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。\n\n最牛逼的是，我如果不是拿原图跟这个图片...",
+      "url": "https://x.com/op7418/status/2091395283028738303",
+      "published_at": "2026-08-23T05:21:06Z",
+      "summary": "Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的💬1🔄0❤️8👀3132📊3⚡ Powered by xgo.ing"
+    },
+    {
       "id": "3eece380e2667dce7994caf5a5bb629e2eb69138",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -248,7 +303,7 @@
       "title": "gork bot 已经可以免费体验了",
       "url": "https://x.com/op7418/status/2091343192318939149",
       "published_at": "2026-08-23T01:54:06Z",
-      "summary": "gork bot 已经可以免费体验了Grok@grokGrok Bot has expanded to more plans and is now free to try x.ai/bot🔗 View Quoted Tweet💬13🔄0❤️16👀14093📊11⚡ Powered by xgo.ing"
+      "summary": "gork bot 已经可以免费体验了Grok@grokGrok Bot has expanded to more plans and is now free to try x.ai/bot🔗 View Quoted Tweet💬16🔄0❤️19👀17171📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "d1e86cfa9e78261d87538f3a2d05606241f4f4f5",
@@ -260,17 +315,6 @@
       "url": "https://x.com/op7418/status/2091140994192601572",
       "published_at": "2026-08-22T12:30:39Z",
       "summary": "AI 硬件的付费点应该是让用户付费拿到自己用硬件获得的上下文，而不是反过来。 最近这个 AI 硬件反正出的越来越多了，但是大家的思路好像都没有转变过来。 还是收钱是为了让用户把数据留在自己这，把上下文留在这自己这。 但是我最近用的最多的 AI 硬件反倒是飞书的那个录音豆。 用的最多的原因是它可以通过飞书的 CLI 把我的所有的录音的转的文字全部拉到我本地的上下文那边。 在 Agent 集中化以及模型价格频繁变化的这个时间点。 你不能不可能通过让用户付费购买你的模型服务和 Agent 来绑住用户。 反倒是如果你能提供更丰富的 Agent 或者 Skill…"
-    },
-    {
-      "id": "53960d625c7369bf3dc7f551a704dc8cd2b2bd2f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "哪都没去，光顾吃了",
-      "url": "https://x.com/op7418/status/2091039407554146448",
-      "published_at": "2026-08-22T05:46:59Z",
-      "summary": "哪都没去，光顾吃了💬39🔄0❤️16👀6071📊33⚡ Powered by xgo.ing"
     }
   ]
 }
