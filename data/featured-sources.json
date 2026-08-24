@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T10:30:33.383162Z",
+  "generated_at": "2026-08-24T17:55:53.612636Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 484,
+      "duration_ms": 176,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 21,
+      "duration_ms": 38,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1639,
+      "duration_ms": 1790,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1144,
+      "duration_ms": 1193,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 816,
+      "duration_ms": 1015,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1432,
+      "duration_ms": 795,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 474,
+      "duration_ms": 505,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12,
+      "duration_ms": 32,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2357,
+      "duration_ms": 2688,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1039,
+      "duration_ms": 1083,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "f7c5ac7c2b98a7d22d9cd7be1e81e312b077b22a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "PixVerse的世界模型都能做互动影游了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509899&idx=1&sn=d57d03616f7f1b061e12fca78a8497e6",
+          "published_at": "2026-08-24T11:11:00Z",
+          "summary": "你以为退出了，那个AI世界还在继续"
+        },
         {
           "id": "5d41af23408e519c4968cece46bbc75d80f87943",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "还有 3 个自研的芯片的信息在这。",
           "url": "https://x.com/op7418/status/2091782844473549205",
           "published_at": "2026-08-24T07:01:08Z",
-          "summary": "还有 3 个自研的芯片的信息在这。💬3🔄2❤️25👀9961📊6⚡ Powered by xgo.ing"
+          "summary": "还有 3 个自研的芯片的信息在这。💬3🔄2❤️45👀18400📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "4f9841675077dc38453ee844edca4e19ebe366e8",
@@ -211,7 +222,7 @@
           "title": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。",
           "url": "https://x.com/op7418/status/2091780906965242131",
           "published_at": "2026-08-24T06:53:26Z",
-          "summary": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。💬41🔄34❤️325👀84773📊98⚡ Powered by xgo.ing"
+          "summary": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。💬95🔄80❤️818👀245993📊231⚡ Powered by xgo.ing"
         },
         {
           "id": "62857faa88d54dc315fd668925b9890311bf722c",
@@ -222,7 +233,18 @@
           "title": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。\n\n这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。\n\n你转发，我不管，再强调一遍：所有用 AI...",
           "url": "https://x.com/op7418/status/2091738749734666258",
           "published_at": "2026-08-24T04:05:55Z",
-          "summary": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。 这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。 你转发，我不管，再强调一遍：所有用 AI 回复我的内容的人，我都会拉黑 这是一个非常吃力不讨好、闲得没事干、浪费 token 的行为，怎么还有人锲而不舍地这么干？💬97🔄5❤️145👀31345📊94⚡ Powered by xgo.ing"
+          "summary": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。 这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。 你转发，我不管，再强调一遍：所有用 AI 回复我的内容的人，我都会拉黑 这是一个非常吃力不讨好、闲得没事干、浪费 token 的行为，怎么还有人锲而不舍地这么干？💬152🔄5❤️185👀43664📊143⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "694a4771bca1f37d57059209b35fb8560786ee7a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "有趣的小红书图文自动排版Skill，使用教程来喽！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498199&idx=1&sn=7671959db300bec50eaec83ef9aefcca",
+          "published_at": "2026-08-24T03:55:00Z",
+          "summary": "基于自己IP自动排版的图文Skill，很好玩的!"
         },
         {
           "id": "7c2da3e5d4be6452bfdc642c3ffb725d1826563d",
@@ -262,6 +284,17 @@
   },
   "items": [
     {
+      "id": "f7c5ac7c2b98a7d22d9cd7be1e81e312b077b22a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "PixVerse的世界模型都能做互动影游了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509899&idx=1&sn=d57d03616f7f1b061e12fca78a8497e6",
+      "published_at": "2026-08-24T11:11:00Z",
+      "summary": "你以为退出了，那个AI世界还在继续"
+    },
+    {
       "id": "5d41af23408e519c4968cece46bbc75d80f87943",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -270,7 +303,7 @@
       "title": "还有 3 个自研的芯片的信息在这。",
       "url": "https://x.com/op7418/status/2091782844473549205",
       "published_at": "2026-08-24T07:01:08Z",
-      "summary": "还有 3 个自研的芯片的信息在这。💬3🔄2❤️25👀9961📊6⚡ Powered by xgo.ing"
+      "summary": "还有 3 个自研的芯片的信息在这。💬3🔄2❤️45👀18400📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "4f9841675077dc38453ee844edca4e19ebe366e8",
@@ -281,7 +314,7 @@
       "title": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。",
       "url": "https://x.com/op7418/status/2091780906965242131",
       "published_at": "2026-08-24T06:53:26Z",
-      "summary": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。💬41🔄34❤️325👀84773📊98⚡ Powered by xgo.ing"
+      "summary": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。💬95🔄80❤️818👀245993📊231⚡ Powered by xgo.ing"
     },
     {
       "id": "62857faa88d54dc315fd668925b9890311bf722c",
@@ -292,7 +325,18 @@
       "title": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。\n\n这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。\n\n你转发，我不管，再强调一遍：所有用 AI...",
       "url": "https://x.com/op7418/status/2091738749734666258",
       "published_at": "2026-08-24T04:05:55Z",
-      "summary": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。 这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。 你转发，我不管，再强调一遍：所有用 AI 回复我的内容的人，我都会拉黑 这是一个非常吃力不讨好、闲得没事干、浪费 token 的行为，怎么还有人锲而不舍地这么干？💬97🔄5❤️145👀31345📊94⚡ Powered by xgo.ing"
+      "summary": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。 这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。 你转发，我不管，再强调一遍：所有用 AI 回复我的内容的人，我都会拉黑 这是一个非常吃力不讨好、闲得没事干、浪费 token 的行为，怎么还有人锲而不舍地这么干？💬152🔄5❤️185👀43664📊143⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "694a4771bca1f37d57059209b35fb8560786ee7a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "有趣的小红书图文自动排版Skill，使用教程来喽！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498199&idx=1&sn=7671959db300bec50eaec83ef9aefcca",
+      "published_at": "2026-08-24T03:55:00Z",
+      "summary": "基于自己IP自动排版的图文Skill，很好玩的!"
     },
     {
       "id": "7c2da3e5d4be6452bfdc642c3ffb725d1826563d",
