@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T04:22:21.348504Z",
+  "generated_at": "2026-08-24T05:09:28.399016Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 620,
+      "duration_ms": 158,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 41,
+      "duration_ms": 133,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1585,
+      "duration_ms": 1774,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1284,
+      "duration_ms": 1421,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1188,
+      "duration_ms": 1060,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 620,
+      "duration_ms": 850,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 315,
+      "duration_ms": 559,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 105,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2861,
+      "duration_ms": 2912,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1195,
+      "duration_ms": 1513,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "62857faa88d54dc315fd668925b9890311bf722c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。\n\n这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。\n\n你转发，我不管，再强调一遍：所有用 AI...",
+          "url": "https://x.com/op7418/status/2091738749734666258",
+          "published_at": "2026-08-24T04:05:55Z",
+          "summary": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。 这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。 你转发，我不管，再强调一遍：所有用 AI 回复我的内容的人，我都会拉黑 这是一个非常吃力不讨好、闲得没事干、浪费 token 的行为，怎么还有人锲而不舍地这么干？💬25🔄1❤️43👀6326📊24⚡ Powered by xgo.ing"
+        },
         {
           "id": "7c2da3e5d4be6452bfdc642c3ffb725d1826563d",
           "site_id": "featuredrss",
@@ -211,7 +222,7 @@
           "title": "加上了 Fable 5\n\nhttps://t.co/Rzsji50uBK",
           "url": "https://x.com/op7418/status/2091456332952146151",
           "published_at": "2026-08-23T09:23:41Z",
-          "summary": "加上了 Fable 5 x.com/op7418/status/…歸藏(guizang.ai)@op7418对比得更彻底一点： Ox Alpha 模型、DeepSeek V4 Flash、Vision EXP 模型和 Claude Fable 5 模型，用同样的提示词和同样的参考图进行对比。 Claude Fable 5 在排版细节和方块的色散处理上更好一点🔗 View Quoted Tweet💬1🔄0❤️11👀4281📊2⚡ Powered by xgo.ing"
+          "summary": "加上了 Fable 5 x.com/op7418/status/…歸藏(guizang.ai)@op7418对比得更彻底一点： Ox Alpha 模型、DeepSeek V4 Flash、Vision EXP 模型和 Claude Fable 5 模型，用同样的提示词和同样的参考图进行对比。 Claude Fable 5 在排版细节和方块的色散处理上更好一点🔗 View Quoted Tweet💬1🔄0❤️11👀4417📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "10be7bad0530476dfed34d04517d181304c400bc",
@@ -233,7 +244,7 @@
           "title": "同样的提示词和参考图，这是 DeepSeek-V4-Flash-Vision-EXP 的结果",
           "url": "https://x.com/op7418/status/2091439977112785371",
           "published_at": "2026-08-23T08:18:42Z",
-          "summary": "同样的提示词和参考图，这是 DeepSeek-V4-Flash-Vision-EXP 的结果💬5🔄0❤️15👀5465📊5⚡ Powered by xgo.ing"
+          "summary": "同样的提示词和参考图，这是 DeepSeek-V4-Flash-Vision-EXP 的结果💬5🔄0❤️15👀5600📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "2bb8867a56b9bf585a45b43f4d0959fca2ce9a51",
@@ -255,7 +266,7 @@
           "title": "Ox Alpha 做的这个还是动态的",
           "url": "https://x.com/op7418/status/2091396289229664590",
           "published_at": "2026-08-23T05:25:06Z",
-          "summary": "Ox Alpha 做的这个还是动态的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的🔗 View Quoted Tweet💬47🔄5❤️101👀2725…"
+          "summary": "Ox Alpha 做的这个还是动态的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的🔗 View Quoted Tweet💬47🔄5❤️103👀2796…"
         },
         {
           "id": "574fe93c326a63f3288f9b2d499ed078fc3d11cd",
@@ -266,7 +277,7 @@
           "title": "Ox Alpha 多模态和代码能力真的牛皮\n\n给了他一张图片，让他用 WebGL 还原这个网页。\n\n他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。\n\n最牛逼的是，我如果不是拿原图跟这个图片...",
           "url": "https://x.com/op7418/status/2091395283028738303",
           "published_at": "2026-08-23T05:21:06Z",
-          "summary": "Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的💬21🔄17❤️277👀92249📊71⚡ Powered by xgo.ing"
+          "summary": "Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的💬21🔄17❤️281👀95219📊73⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -283,6 +294,17 @@
     }
   },
   "items": [
+    {
+      "id": "62857faa88d54dc315fd668925b9890311bf722c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。\n\n这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。\n\n你转发，我不管，再强调一遍：所有用 AI...",
+      "url": "https://x.com/op7418/status/2091738749734666258",
+      "published_at": "2026-08-24T04:05:55Z",
+      "summary": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。 这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。 你转发，我不管，再强调一遍：所有用 AI 回复我的内容的人，我都会拉黑 这是一个非常吃力不讨好、闲得没事干、浪费 token 的行为，怎么还有人锲而不舍地这么干？💬25🔄1❤️43👀6326📊24⚡ Powered by xgo.ing"
+    },
     {
       "id": "7c2da3e5d4be6452bfdc642c3ffb725d1826563d",
       "site_id": "featuredrss",
@@ -303,7 +325,7 @@
       "title": "加上了 Fable 5\n\nhttps://t.co/Rzsji50uBK",
       "url": "https://x.com/op7418/status/2091456332952146151",
       "published_at": "2026-08-23T09:23:41Z",
-      "summary": "加上了 Fable 5 x.com/op7418/status/…歸藏(guizang.ai)@op7418对比得更彻底一点： Ox Alpha 模型、DeepSeek V4 Flash、Vision EXP 模型和 Claude Fable 5 模型，用同样的提示词和同样的参考图进行对比。 Claude Fable 5 在排版细节和方块的色散处理上更好一点🔗 View Quoted Tweet💬1🔄0❤️11👀4281📊2⚡ Powered by xgo.ing"
+      "summary": "加上了 Fable 5 x.com/op7418/status/…歸藏(guizang.ai)@op7418对比得更彻底一点： Ox Alpha 模型、DeepSeek V4 Flash、Vision EXP 模型和 Claude Fable 5 模型，用同样的提示词和同样的参考图进行对比。 Claude Fable 5 在排版细节和方块的色散处理上更好一点🔗 View Quoted Tweet💬1🔄0❤️11👀4417📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "10be7bad0530476dfed34d04517d181304c400bc",
@@ -325,7 +347,7 @@
       "title": "同样的提示词和参考图，这是 DeepSeek-V4-Flash-Vision-EXP 的结果",
       "url": "https://x.com/op7418/status/2091439977112785371",
       "published_at": "2026-08-23T08:18:42Z",
-      "summary": "同样的提示词和参考图，这是 DeepSeek-V4-Flash-Vision-EXP 的结果💬5🔄0❤️15👀5465📊5⚡ Powered by xgo.ing"
+      "summary": "同样的提示词和参考图，这是 DeepSeek-V4-Flash-Vision-EXP 的结果💬5🔄0❤️15👀5600📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "2bb8867a56b9bf585a45b43f4d0959fca2ce9a51",
@@ -347,7 +369,7 @@
       "title": "Ox Alpha 做的这个还是动态的",
       "url": "https://x.com/op7418/status/2091396289229664590",
       "published_at": "2026-08-23T05:25:06Z",
-      "summary": "Ox Alpha 做的这个还是动态的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的🔗 View Quoted Tweet💬47🔄5❤️101👀2725…"
+      "summary": "Ox Alpha 做的这个还是动态的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的🔗 View Quoted Tweet💬47🔄5❤️103👀2796…"
     },
     {
       "id": "574fe93c326a63f3288f9b2d499ed078fc3d11cd",
@@ -358,7 +380,7 @@
       "title": "Ox Alpha 多模态和代码能力真的牛皮\n\n给了他一张图片，让他用 WebGL 还原这个网页。\n\n他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。\n\n最牛逼的是，我如果不是拿原图跟这个图片...",
       "url": "https://x.com/op7418/status/2091395283028738303",
       "published_at": "2026-08-23T05:21:06Z",
-      "summary": "Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的💬21🔄17❤️277👀92249📊71⚡ Powered by xgo.ing"
+      "summary": "Ox Alpha 多模态和代码能力真的牛皮 给了他一张图片，让他用 WebGL 还原这个网页。 他真的做出来了这种 3D 玻璃材质的质感和透视，非常清晰。 最牛逼的是，我如果不是拿原图跟这个图片对比的话，我都以为它是直接把原图垫在下面，只有一些字体上的区别，然后文字的位置、排版细节都是一样的💬21🔄17❤️281👀95219📊73⚡ Powered by xgo.ing"
     }
   ]
 }
