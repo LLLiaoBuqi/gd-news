@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T18:31:43.347837Z",
+  "generated_at": "2026-08-27T06:58:34.607285Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 758,
+      "duration_ms": 367,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 23,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1696,
+      "duration_ms": 1429,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1133,
+      "duration_ms": 987,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 987,
+      "duration_ms": 845,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 530,
+      "duration_ms": 1202,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1009,
+      "duration_ms": 315,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2559,
+      "duration_ms": 2311,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1565,
+      "duration_ms": 890,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,173 +192,306 @@
       ],
       "items": [
         {
-          "id": "f7c5ac7c2b98a7d22d9cd7be1e81e312b077b22a",
+          "id": "efe07130965f60cc22dab5078b68f9d138263617",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codepilot 0.67.10 更新了，本次更新内容：\n\n优化了模型选择器（现在可以收藏对应的模型和渠道）\n\n修改了右侧边栏的交互：\n\n支持打开文件树、看板；同时内置浏览器升级为真正的浏览器，不仅...",
+          "url": "https://x.com/op7418/status/2092806384006139907",
+          "published_at": "2026-08-27T02:48:19Z",
+          "summary": "Codepilot 0.67.10 更新了，本次更新内容： 优化了模型选择器（现在可以收藏对应的模型和渠道） 修改了右侧边栏的交互： 支持打开文件树、看板；同时内置浏览器升级为真正的浏览器，不仅能访问外部网页，还可以把需要的 Tab 固定在上面 Windows 端支持自动更新与增量更新 支持了 GLM 5.3 Flash github.com/op7418/CodePil…歸藏(guizang.ai)@op7418T3 Code 的这个 Agent 和模型选择结合在一起的选择器挺不错的，给 Code Pilot 参考了一下，用上了🔗 View Quote…"
+        },
+        {
+          "id": "4b15ef15b264933f2e3ef34ef267b5a3d7b89812",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "测了一下 Ox-Alpha （GLM-5.3 Flash)，太牛了！\n\n远低于 V4 Flash 的价格，完爆 V4 Flash Vision 的能力，新的斩杀线来了。",
+          "url": "https://x.com/op7418/status/2092655955037376886",
+          "published_at": "2026-08-26T16:50:34Z",
+          "summary": "测了一下 Ox-Alpha （GLM-5.3 Flash)，太牛了！ 远低于 V4 Flash 的价格，完爆 V4 Flash Vision 的能力，新的斩杀线来了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2092…🔗 View Quoted Tweet💬53🔄7❤️153👀52882📊62⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "f972e21c320c7b062a18987f14271a1093675d87",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "完整测评：https://t.co/1hMB9i2Qdf",
+          "url": "https://x.com/op7418/status/2092633912157896855",
+          "published_at": "2026-08-26T15:22:58Z",
+          "summary": "完整测评：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2092…🔗 View Quoted Tweet💬0🔄0❤️0👀2059⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3b7c0b44d984d780ffdee32123843468f01fec83",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "https://t.co/hG8DNeIzLU",
+          "url": "https://x.com/op7418/status/2092632212487499881",
+          "published_at": "2026-08-26T15:16:13Z",
+          "summary": "x.com/i/article/2092…💬7🔄8❤️57👀74282📊24⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3d10589c4819382c66449852cb41172300430c01",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "卡尔的AI沃茨",
           "region": "domestic",
-          "title": "PixVerse的世界模型都能做互动影游了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509899&idx=1&sn=d57d03616f7f1b061e12fca78a8497e6",
-          "published_at": "2026-08-24T11:11:00Z",
-          "summary": "你以为退出了，那个AI世界还在继续"
+          "title": "实测飞书和豆包合体后第1个Agent，我挖到了豆包工作的8个使用技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e",
+          "published_at": "2026-08-26T08:27:00Z",
+          "summary": "数据为王"
         },
         {
-          "id": "5d41af23408e519c4968cece46bbc75d80f87943",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "还有 3 个自研的芯片的信息在这。",
-          "url": "https://x.com/op7418/status/2091782844473549205",
-          "published_at": "2026-08-24T07:01:08Z",
-          "summary": "还有 3 个自研的芯片的信息在这。💬3🔄2❤️45👀18627📊8⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4f9841675077dc38453ee844edca4e19ebe366e8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。",
-          "url": "https://x.com/op7418/status/2091780906965242131",
-          "published_at": "2026-08-24T06:53:26Z",
-          "summary": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。💬96🔄80❤️834👀252343📊234⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "62857faa88d54dc315fd668925b9890311bf722c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。\n\n这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。\n\n你转发，我不管，再强调一遍：所有用 AI...",
-          "url": "https://x.com/op7418/status/2091738749734666258",
-          "published_at": "2026-08-24T04:05:55Z",
-          "summary": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。 这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。 你转发，我不管，再强调一遍：所有用 AI 回复我的内容的人，我都会拉黑 这是一个非常吃力不讨好、闲得没事干、浪费 token 的行为，怎么还有人锲而不舍地这么干？💬153🔄5❤️187👀44296📊144⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "694a4771bca1f37d57059209b35fb8560786ee7a",
+          "id": "4fc1a981da9d2b0d56024363603f88ea79c1d1a9",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "阿真Irene",
           "region": "domestic",
-          "title": "有趣的小红书图文自动排版Skill，使用教程来喽！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498199&idx=1&sn=7671959db300bec50eaec83ef9aefcca",
-          "published_at": "2026-08-24T03:55:00Z",
-          "summary": "基于自己IP自动排版的图文Skill，很好玩的!"
-        },
-        {
-          "id": "7c2da3e5d4be6452bfdc642c3ffb725d1826563d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codex 重置了，提到的 Token 过度消耗问题也得到了修复",
-          "url": "https://x.com/op7418/status/2091691189531750722",
-          "published_at": "2026-08-24T00:56:55Z",
-          "summary": "Codex 重置了，提到的 Token 过度消耗问题也得到了修复Tibo@thsottiauxGood Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating.🔗 View Q…"
-        },
-        {
-          "id": "a90ab68bac65490207beb26127124a9f538c0f0c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "两个16岁的高中生，共享了自己的显卡和API，想让全校同学都免费用上AI。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685481&idx=1&sn=fd49a287e70eb66dc38c627dc9769c74",
-          "published_at": "2026-08-24T00:08:00Z",
-          "summary": "少年的理想主义"
+          "title": "豆包工作一手实测，这下真是飞一般的感觉了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498217&idx=1&sn=90cc6f3c9a4316918f6cb92ca710cc2e",
+          "published_at": "2026-08-26T07:06:00Z",
+          "summary": "深度打通飞书，从生成内容走向完成工作！"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "0d3ea1e2071d27322a49b338dee2189b01eb6903",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We worked with METR and Redwood Research to conduct a third-party assessment of the model behavior o...",
+          "url": "https://x.com/OpenAI/status/2092691863505346634",
+          "published_at": "2026-08-26T19:13:15Z",
+          "summary": "We worked with METR and Redwood Research to conduct a third-party assessment of the model behavior observed during the incident. They’re sharing a report of their findings: metr.org/blog/2026-08-2…💬30🔄26❤️496👀337695📊94⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e0345ab5c4a81b9fc4fde3569560a02431284f93",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We have conducted a thorough investigation into the Hugging Face incident.\n\nWe are releasing a techn...",
+          "url": "https://x.com/OpenAI/status/2092691861773160673",
+          "published_at": "2026-08-26T19:13:14Z",
+          "summary": "We have conducted a thorough investigation into the Hugging Face incident. We are releasing a technical report and accompanying blog post that reconstruct the agents’ activity, explain why existing safeguards failed, and detail how we’re preventing recurrence. openai.com/index/hu…"
+        },
+        {
+          "id": "24962ee80f02ba694286ec2fae438ce846c2822a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Get personalized help when you need it. 🧠\n\nWith Personal Intelligence, Gemini Live now remembers th...",
+          "url": "https://x.com/GeminiApp/status/2092662302172762213",
+          "published_at": "2026-08-26T17:15:47Z",
+          "summary": "Get personalized help when you need it. 🧠 With Personal Intelligence, Gemini Live now remembers the things you’ve chatted about and that matter to you. It connects the dots across your past conversations and your @Google apps like @Gmail, @GooglePhotos, Search, and @YouTube, so y…"
+        },
+        {
+          "id": "24b41b6fdc551684ad2e5a5be108d02592e6a27d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini Live is available globally at no cost. Availability, compatibility, and age restrictions for ...",
+          "url": "https://x.com/GeminiApp/status/2092662303489769701",
+          "published_at": "2026-08-26T17:15:47Z",
+          "summary": "Gemini Live is available globally at no cost. Availability, compatibility, and age restrictions for integrations vary; setup or subscription may be required. See how you can turn your voice into action with new productivity features in Gemini Live: goo.gle/4ccDD5u💬2🔄4❤️36👀9535📊7⚡…"
+        },
+        {
+          "id": "db639b4621db679ffdc506d4aac1b0e83c43de3a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini Live is moving beyond conversation to handle complex tasks on your behalf.\n\nWith new features...",
+          "url": "https://x.com/GeminiApp/status/2092661911120978024",
+          "published_at": "2026-08-26T17:14:14Z",
+          "summary": "Gemini Live is moving beyond conversation to handle complex tasks on your behalf. With new features in Live like Daily Brief, Gemini Spark, Personal Intelligence, and @Gmail inbox management, you can talk through your day and delegate your to-dos without missing a beat. 🧵💬60🔄80❤️…"
+        },
+        {
+          "id": "0f66d93192d1eefb9c6545efc97cf082b45f5589",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "— Try it out in the @Geminiapp on macOS and Gboard on @Android\n— Build in the Gemini API via @google...",
+          "url": "https://x.com/GoogleAI/status/2092660092135199039",
+          "published_at": "2026-08-26T17:07:00Z",
+          "summary": "— Try it out in the @Geminiapp on macOS and Gboard on @Android — Build in the Gemini API via @googleaistudio, @antigravity, and the Gemini Enterprise Agent Platform (public preview) — Coming soon to @googlechrome and Gemini Enterprise for Customer Experience Learn more: blog.goog…"
+        },
+        {
+          "id": "8940daf3ef67329033726c787f7282ef476e5b0b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Today we’re introducing Gemini 3.5 Transcribe, our latest transcription model built for incredibly p...",
+          "url": "https://x.com/GoogleAI/status/2092660089509314735",
+          "published_at": "2026-08-26T17:06:59Z",
+          "summary": "Today we’re introducing Gemini 3.5 Transcribe, our latest transcription model built for incredibly precise, smart dictation across your favorite apps and devices. Remember when traditional speech-to-text meant shouting over background noise, constantly hitting backspace to fix mi…"
+        }
+      ]
     }
   },
   "items": [
     {
-      "id": "f7c5ac7c2b98a7d22d9cd7be1e81e312b077b22a",
+      "id": "efe07130965f60cc22dab5078b68f9d138263617",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Codepilot 0.67.10 更新了，本次更新内容：\n\n优化了模型选择器（现在可以收藏对应的模型和渠道）\n\n修改了右侧边栏的交互：\n\n支持打开文件树、看板；同时内置浏览器升级为真正的浏览器，不仅...",
+      "url": "https://x.com/op7418/status/2092806384006139907",
+      "published_at": "2026-08-27T02:48:19Z",
+      "summary": "Codepilot 0.67.10 更新了，本次更新内容： 优化了模型选择器（现在可以收藏对应的模型和渠道） 修改了右侧边栏的交互： 支持打开文件树、看板；同时内置浏览器升级为真正的浏览器，不仅能访问外部网页，还可以把需要的 Tab 固定在上面 Windows 端支持自动更新与增量更新 支持了 GLM 5.3 Flash github.com/op7418/CodePil…歸藏(guizang.ai)@op7418T3 Code 的这个 Agent 和模型选择结合在一起的选择器挺不错的，给 Code Pilot 参考了一下，用上了🔗 View Quote…"
+    },
+    {
+      "id": "0d3ea1e2071d27322a49b338dee2189b01eb6903",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We worked with METR and Redwood Research to conduct a third-party assessment of the model behavior o...",
+      "url": "https://x.com/OpenAI/status/2092691863505346634",
+      "published_at": "2026-08-26T19:13:15Z",
+      "summary": "We worked with METR and Redwood Research to conduct a third-party assessment of the model behavior observed during the incident. They’re sharing a report of their findings: metr.org/blog/2026-08-2…💬30🔄26❤️496👀337695📊94⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e0345ab5c4a81b9fc4fde3569560a02431284f93",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We have conducted a thorough investigation into the Hugging Face incident.\n\nWe are releasing a techn...",
+      "url": "https://x.com/OpenAI/status/2092691861773160673",
+      "published_at": "2026-08-26T19:13:14Z",
+      "summary": "We have conducted a thorough investigation into the Hugging Face incident. We are releasing a technical report and accompanying blog post that reconstruct the agents’ activity, explain why existing safeguards failed, and detail how we’re preventing recurrence. openai.com/index/hu…"
+    },
+    {
+      "id": "24962ee80f02ba694286ec2fae438ce846c2822a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Get personalized help when you need it. 🧠\n\nWith Personal Intelligence, Gemini Live now remembers th...",
+      "url": "https://x.com/GeminiApp/status/2092662302172762213",
+      "published_at": "2026-08-26T17:15:47Z",
+      "summary": "Get personalized help when you need it. 🧠 With Personal Intelligence, Gemini Live now remembers the things you’ve chatted about and that matter to you. It connects the dots across your past conversations and your @Google apps like @Gmail, @GooglePhotos, Search, and @YouTube, so y…"
+    },
+    {
+      "id": "24b41b6fdc551684ad2e5a5be108d02592e6a27d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini Live is available globally at no cost. Availability, compatibility, and age restrictions for ...",
+      "url": "https://x.com/GeminiApp/status/2092662303489769701",
+      "published_at": "2026-08-26T17:15:47Z",
+      "summary": "Gemini Live is available globally at no cost. Availability, compatibility, and age restrictions for integrations vary; setup or subscription may be required. See how you can turn your voice into action with new productivity features in Gemini Live: goo.gle/4ccDD5u💬2🔄4❤️36👀9535📊7⚡…"
+    },
+    {
+      "id": "db639b4621db679ffdc506d4aac1b0e83c43de3a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini Live is moving beyond conversation to handle complex tasks on your behalf.\n\nWith new features...",
+      "url": "https://x.com/GeminiApp/status/2092661911120978024",
+      "published_at": "2026-08-26T17:14:14Z",
+      "summary": "Gemini Live is moving beyond conversation to handle complex tasks on your behalf. With new features in Live like Daily Brief, Gemini Spark, Personal Intelligence, and @Gmail inbox management, you can talk through your day and delegate your to-dos without missing a beat. 🧵💬60🔄80❤️…"
+    },
+    {
+      "id": "0f66d93192d1eefb9c6545efc97cf082b45f5589",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "— Try it out in the @Geminiapp on macOS and Gboard on @Android\n— Build in the Gemini API via @google...",
+      "url": "https://x.com/GoogleAI/status/2092660092135199039",
+      "published_at": "2026-08-26T17:07:00Z",
+      "summary": "— Try it out in the @Geminiapp on macOS and Gboard on @Android — Build in the Gemini API via @googleaistudio, @antigravity, and the Gemini Enterprise Agent Platform (public preview) — Coming soon to @googlechrome and Gemini Enterprise for Customer Experience Learn more: blog.goog…"
+    },
+    {
+      "id": "8940daf3ef67329033726c787f7282ef476e5b0b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Today we’re introducing Gemini 3.5 Transcribe, our latest transcription model built for incredibly p...",
+      "url": "https://x.com/GoogleAI/status/2092660089509314735",
+      "published_at": "2026-08-26T17:06:59Z",
+      "summary": "Today we’re introducing Gemini 3.5 Transcribe, our latest transcription model built for incredibly precise, smart dictation across your favorite apps and devices. Remember when traditional speech-to-text meant shouting over background noise, constantly hitting backspace to fix mi…"
+    },
+    {
+      "id": "4b15ef15b264933f2e3ef34ef267b5a3d7b89812",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "测了一下 Ox-Alpha （GLM-5.3 Flash)，太牛了！\n\n远低于 V4 Flash 的价格，完爆 V4 Flash Vision 的能力，新的斩杀线来了。",
+      "url": "https://x.com/op7418/status/2092655955037376886",
+      "published_at": "2026-08-26T16:50:34Z",
+      "summary": "测了一下 Ox-Alpha （GLM-5.3 Flash)，太牛了！ 远低于 V4 Flash 的价格，完爆 V4 Flash Vision 的能力，新的斩杀线来了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418x.com/i/article/2092…🔗 View Quoted Tweet💬53🔄7❤️153👀52882📊62⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "f972e21c320c7b062a18987f14271a1093675d87",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "完整测评：https://t.co/1hMB9i2Qdf",
+      "url": "https://x.com/op7418/status/2092633912157896855",
+      "published_at": "2026-08-26T15:22:58Z",
+      "summary": "完整测评：x.com/op7418/status/…歸藏(guizang.ai)@op7418x.com/i/article/2092…🔗 View Quoted Tweet💬0🔄0❤️0👀2059⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3b7c0b44d984d780ffdee32123843468f01fec83",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "https://t.co/hG8DNeIzLU",
+      "url": "https://x.com/op7418/status/2092632212487499881",
+      "published_at": "2026-08-26T15:16:13Z",
+      "summary": "x.com/i/article/2092…💬7🔄8❤️57👀74282📊24⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3d10589c4819382c66449852cb41172300430c01",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "卡尔的AI沃茨",
       "region": "domestic",
-      "title": "PixVerse的世界模型都能做互动影游了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509899&idx=1&sn=d57d03616f7f1b061e12fca78a8497e6",
-      "published_at": "2026-08-24T11:11:00Z",
-      "summary": "你以为退出了，那个AI世界还在继续"
+      "title": "实测飞书和豆包合体后第1个Agent，我挖到了豆包工作的8个使用技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e",
+      "published_at": "2026-08-26T08:27:00Z",
+      "summary": "数据为王"
     },
     {
-      "id": "5d41af23408e519c4968cece46bbc75d80f87943",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "还有 3 个自研的芯片的信息在这。",
-      "url": "https://x.com/op7418/status/2091782844473549205",
-      "published_at": "2026-08-24T07:01:08Z",
-      "summary": "还有 3 个自研的芯片的信息在这。💬3🔄2❤️45👀18627📊8⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4f9841675077dc38453ee844edca4e19ebe366e8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。",
-      "url": "https://x.com/op7418/status/2091780906965242131",
-      "published_at": "2026-08-24T06:53:26Z",
-      "summary": "小米发了一个 AI 的本地的主机，搭载他们新发布的三个芯片，O3、O100 和 D100，支持 120B 和 3B 双模型，支持快慢系统的切换。💬96🔄80❤️834👀252343📊234⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "62857faa88d54dc315fd668925b9890311bf722c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。\n\n这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。\n\n你转发，我不管，再强调一遍：所有用 AI...",
-      "url": "https://x.com/op7418/status/2091738749734666258",
-      "published_at": "2026-08-24T04:05:55Z",
-      "summary": "我实在搞不懂那些用 AI 回复的人是什么心理和心态。 这样只会加大你被别人拉黑的概率，而且你的内容一眼就能看出来是 AI 生成的，AI 圈所有人都能看懂。 你转发，我不管，再强调一遍：所有用 AI 回复我的内容的人，我都会拉黑 这是一个非常吃力不讨好、闲得没事干、浪费 token 的行为，怎么还有人锲而不舍地这么干？💬153🔄5❤️187👀44296📊144⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "694a4771bca1f37d57059209b35fb8560786ee7a",
+      "id": "4fc1a981da9d2b0d56024363603f88ea79c1d1a9",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "阿真Irene",
       "region": "domestic",
-      "title": "有趣的小红书图文自动排版Skill，使用教程来喽！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498199&idx=1&sn=7671959db300bec50eaec83ef9aefcca",
-      "published_at": "2026-08-24T03:55:00Z",
-      "summary": "基于自己IP自动排版的图文Skill，很好玩的!"
-    },
-    {
-      "id": "7c2da3e5d4be6452bfdc642c3ffb725d1826563d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codex 重置了，提到的 Token 过度消耗问题也得到了修复",
-      "url": "https://x.com/op7418/status/2091691189531750722",
-      "published_at": "2026-08-24T00:56:55Z",
-      "summary": "Codex 重置了，提到的 Token 过度消耗问题也得到了修复Tibo@thsottiauxGood Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating.🔗 View Q…"
-    },
-    {
-      "id": "a90ab68bac65490207beb26127124a9f538c0f0c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "两个16岁的高中生，共享了自己的显卡和API，想让全校同学都免费用上AI。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685481&idx=1&sn=fd49a287e70eb66dc38c627dc9769c74",
-      "published_at": "2026-08-24T00:08:00Z",
-      "summary": "少年的理想主义"
+      "title": "豆包工作一手实测，这下真是飞一般的感觉了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498217&idx=1&sn=90cc6f3c9a4316918f6cb92ca710cc2e",
+      "published_at": "2026-08-26T07:06:00Z",
+      "summary": "深度打通飞书，从生成内容走向完成工作！"
     }
   ]
 }
