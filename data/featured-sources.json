@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30T02:57:31.978106Z",
+  "generated_at": "2026-08-30T08:56:41.932001Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 791,
+      "duration_ms": 846,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 23,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1659,
+      "duration_ms": 1564,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1314,
+      "duration_ms": 1064,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 903,
+      "duration_ms": 746,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 689,
+      "duration_ms": 598,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 695,
+      "duration_ms": 641,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2776,
+      "duration_ms": 2506,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1587,
+      "duration_ms": 1621,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "5980314a3f4b71367fbc797c5d7580f358cfea12",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "很难想象，Anthropic 这些人的脑子是怎么长的，说人话都很难。\n\n现在我知道为什么 opus 五这么不说人话了，因为训练它的人就不会说话。\n\n他们宣布，9月14号以后，所有人的订阅额度会降低17...",
+          "url": "https://x.com/op7418/status/2093954604493066244",
+          "published_at": "2026-08-30T06:50:56Z",
+          "summary": "很难想象，Anthropic 这些人的脑子是怎么长的，说人话都很难。 现在我知道为什么 opus 五这么不说人话了，因为训练它的人就不会说话。 他们宣布，9月14号以后，所有人的订阅额度会降低17%。但描述的时候，让你以为是增长了25%。 主要是他把用户当傻逼，以为没人能看出来，太蠢了ClaudeDevs@ClaudeDevsStarting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, an…"
+        },
         {
           "id": "94c02e73cc3b047fab3fa73f6311737d43f8f5a9",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "网上找了张应县木塔的图试了一下",
           "url": "https://x.com/op7418/status/2093668635042873692",
           "published_at": "2026-08-29T11:54:35Z",
-          "summary": "网上找了张应县木塔的图试了一下💬0🔄0❤️4👀3095📊1⚡ Powered by xgo.ing"
+          "summary": "网上找了张应县木塔的图试了一下💬1🔄0❤️5👀3578📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "0bfd0aae633e9e3c40d0f6c469dee684f9c7da7f",
@@ -211,62 +222,7 @@
           "title": "根据图片来选择风格和排版",
           "url": "https://x.com/op7418/status/2093667717077434733",
           "published_at": "2026-08-29T11:50:56Z",
-          "summary": "根据图片来选择风格和排版💬1🔄0❤️8👀3928📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4646a20ffcb6fa8be856ed53d6d9a6bbfa971e0c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "做个 Skill，帮大家分享自己拍的古建筑和国风场景。\n\n迭代一下这几天发。",
-          "url": "https://x.com/op7418/status/2093576213097070717",
-          "published_at": "2026-08-29T05:47:20Z",
-          "summary": "做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。💬30🔄11❤️106👀17361📊46⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c3b86ee0129137e06fadc3abea26747eadc18a20",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "兄弟们得抓紧蹬了，明天有可能还会重置。",
-          "url": "https://x.com/op7418/status/2093574242155835480",
-          "published_at": "2026-08-29T05:39:30Z",
-          "summary": "兄弟们得抓紧蹬了，明天有可能还会重置。Tibo@thsottiauxLooking at the dashboard we might hit a new milestone to celebrate tomorrow. Hold on to your Codex🔗 View Quoted Tweet💬65🔄0❤️50👀29998📊46⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1ab673e726c419812d51de473ac48bfe18e581a6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "加了个别的风格代码，混合了一下 \n\n--sref 2116795492 2698223612 --profile e6wl24r ewz6eee",
-          "url": "https://x.com/op7418/status/2093540680660586895",
-          "published_at": "2026-08-29T03:26:09Z",
-          "summary": "加了个别的风格代码，混合了一下 --sref 2116795492 2698223612 --profile e6wl24r ewz6eee💬0🔄1❤️8👀2889📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b869a6f2973a3dea082ebf9809db4c3a09fdd18b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "还有就是这个风格化会添加那些大光圈造成的虚化，不管是前景还是背景，总会有点",
-          "url": "https://x.com/op7418/status/2093536847205224772",
-          "published_at": "2026-08-29T03:10:55Z",
-          "summary": "还有就是这个风格化会添加那些大光圈造成的虚化，不管是前景还是背景，总会有点💬1🔄0❤️1👀3876📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e56d5f6d3c49a633d2ca68c04a98b3735118b2bf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这个 Midjourney 的代码真不错呀！\n\n暖色比较多，而且比较亮，同时还有点厚涂的感觉，感觉很阳光\n\n--sref 2698223612  --profile e6wl24r",
-          "url": "https://x.com/op7418/status/2093535781436670127",
-          "published_at": "2026-08-29T03:06:40Z",
-          "summary": "这个 Midjourney 的代码真不错呀！ 暖色比较多，而且比较亮，同时还有点厚涂的感觉，感觉很阳光 --sref 2698223612 --profile e6wl24rGlitter Gal@GlitterPixelyOne of my favorite blends. Super whimsy landscapes and characters 🧚‍♀️✨ --sref 2698223612 --profile e6wl24r🔗 View Quoted Tweet💬12🔄20❤️212👀31213📊52⚡ Powered by xgo.ing"
+          "summary": "根据图片来选择风格和排版💬1🔄0❤️9👀4684📊2⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -284,6 +240,17 @@
   },
   "items": [
     {
+      "id": "5980314a3f4b71367fbc797c5d7580f358cfea12",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "很难想象，Anthropic 这些人的脑子是怎么长的，说人话都很难。\n\n现在我知道为什么 opus 五这么不说人话了，因为训练它的人就不会说话。\n\n他们宣布，9月14号以后，所有人的订阅额度会降低17...",
+      "url": "https://x.com/op7418/status/2093954604493066244",
+      "published_at": "2026-08-30T06:50:56Z",
+      "summary": "很难想象，Anthropic 这些人的脑子是怎么长的，说人话都很难。 现在我知道为什么 opus 五这么不说人话了，因为训练它的人就不会说话。 他们宣布，9月14号以后，所有人的订阅额度会降低17%。但描述的时候，让你以为是增长了25%。 主要是他把用户当傻逼，以为没人能看出来，太蠢了ClaudeDevs@ClaudeDevsStarting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, an…"
+    },
+    {
       "id": "94c02e73cc3b047fab3fa73f6311737d43f8f5a9",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -292,7 +259,7 @@
       "title": "网上找了张应县木塔的图试了一下",
       "url": "https://x.com/op7418/status/2093668635042873692",
       "published_at": "2026-08-29T11:54:35Z",
-      "summary": "网上找了张应县木塔的图试了一下💬0🔄0❤️4👀3095📊1⚡ Powered by xgo.ing"
+      "summary": "网上找了张应县木塔的图试了一下💬1🔄0❤️5👀3578📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "0bfd0aae633e9e3c40d0f6c469dee684f9c7da7f",
@@ -303,62 +270,7 @@
       "title": "根据图片来选择风格和排版",
       "url": "https://x.com/op7418/status/2093667717077434733",
       "published_at": "2026-08-29T11:50:56Z",
-      "summary": "根据图片来选择风格和排版💬1🔄0❤️8👀3928📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4646a20ffcb6fa8be856ed53d6d9a6bbfa971e0c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "做个 Skill，帮大家分享自己拍的古建筑和国风场景。\n\n迭代一下这几天发。",
-      "url": "https://x.com/op7418/status/2093576213097070717",
-      "published_at": "2026-08-29T05:47:20Z",
-      "summary": "做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。💬30🔄11❤️106👀17361📊46⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c3b86ee0129137e06fadc3abea26747eadc18a20",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "兄弟们得抓紧蹬了，明天有可能还会重置。",
-      "url": "https://x.com/op7418/status/2093574242155835480",
-      "published_at": "2026-08-29T05:39:30Z",
-      "summary": "兄弟们得抓紧蹬了，明天有可能还会重置。Tibo@thsottiauxLooking at the dashboard we might hit a new milestone to celebrate tomorrow. Hold on to your Codex🔗 View Quoted Tweet💬65🔄0❤️50👀29998📊46⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1ab673e726c419812d51de473ac48bfe18e581a6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "加了个别的风格代码，混合了一下 \n\n--sref 2116795492 2698223612 --profile e6wl24r ewz6eee",
-      "url": "https://x.com/op7418/status/2093540680660586895",
-      "published_at": "2026-08-29T03:26:09Z",
-      "summary": "加了个别的风格代码，混合了一下 --sref 2116795492 2698223612 --profile e6wl24r ewz6eee💬0🔄1❤️8👀2889📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b869a6f2973a3dea082ebf9809db4c3a09fdd18b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "还有就是这个风格化会添加那些大光圈造成的虚化，不管是前景还是背景，总会有点",
-      "url": "https://x.com/op7418/status/2093536847205224772",
-      "published_at": "2026-08-29T03:10:55Z",
-      "summary": "还有就是这个风格化会添加那些大光圈造成的虚化，不管是前景还是背景，总会有点💬1🔄0❤️1👀3876📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e56d5f6d3c49a633d2ca68c04a98b3735118b2bf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这个 Midjourney 的代码真不错呀！\n\n暖色比较多，而且比较亮，同时还有点厚涂的感觉，感觉很阳光\n\n--sref 2698223612  --profile e6wl24r",
-      "url": "https://x.com/op7418/status/2093535781436670127",
-      "published_at": "2026-08-29T03:06:40Z",
-      "summary": "这个 Midjourney 的代码真不错呀！ 暖色比较多，而且比较亮，同时还有点厚涂的感觉，感觉很阳光 --sref 2698223612 --profile e6wl24rGlitter Gal@GlitterPixelyOne of my favorite blends. Super whimsy landscapes and characters 🧚‍♀️✨ --sref 2698223612 --profile e6wl24r🔗 View Quoted Tweet💬12🔄20❤️212👀31213📊52⚡ Powered by xgo.ing"
+      "summary": "根据图片来选择风格和排版💬1🔄0❤️9👀4684📊2⚡ Powered by xgo.ing"
     }
   ]
 }
