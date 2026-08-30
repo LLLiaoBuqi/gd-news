@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30T08:56:41.932001Z",
+  "generated_at": "2026-08-30T18:07:37.610632Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 846,
+      "duration_ms": 781,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 20,
+      "duration_ms": 34,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1564,
+      "duration_ms": 1446,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1064,
+      "duration_ms": 1308,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 746,
+      "duration_ms": 688,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 598,
+      "duration_ms": 597,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 641,
+      "duration_ms": 523,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 37,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2506,
+      "duration_ms": 2485,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1621,
+      "duration_ms": 1340,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,28 +201,6 @@
           "url": "https://x.com/op7418/status/2093954604493066244",
           "published_at": "2026-08-30T06:50:56Z",
           "summary": "很难想象，Anthropic 这些人的脑子是怎么长的，说人话都很难。 现在我知道为什么 opus 五这么不说人话了，因为训练它的人就不会说话。 他们宣布，9月14号以后，所有人的订阅额度会降低17%。但描述的时候，让你以为是增长了25%。 主要是他把用户当傻逼，以为没人能看出来，太蠢了ClaudeDevs@ClaudeDevsStarting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, an…"
-        },
-        {
-          "id": "94c02e73cc3b047fab3fa73f6311737d43f8f5a9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "网上找了张应县木塔的图试了一下",
-          "url": "https://x.com/op7418/status/2093668635042873692",
-          "published_at": "2026-08-29T11:54:35Z",
-          "summary": "网上找了张应县木塔的图试了一下💬1🔄0❤️5👀3578📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0bfd0aae633e9e3c40d0f6c469dee684f9c7da7f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "根据图片来选择风格和排版",
-          "url": "https://x.com/op7418/status/2093667717077434733",
-          "published_at": "2026-08-29T11:50:56Z",
-          "summary": "根据图片来选择风格和排版💬1🔄0❤️9👀4684📊2⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -249,28 +227,6 @@
       "url": "https://x.com/op7418/status/2093954604493066244",
       "published_at": "2026-08-30T06:50:56Z",
       "summary": "很难想象，Anthropic 这些人的脑子是怎么长的，说人话都很难。 现在我知道为什么 opus 五这么不说人话了，因为训练它的人就不会说话。 他们宣布，9月14号以后，所有人的订阅额度会降低17%。但描述的时候，让你以为是增长了25%。 主要是他把用户当傻逼，以为没人能看出来，太蠢了ClaudeDevs@ClaudeDevsStarting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, an…"
-    },
-    {
-      "id": "94c02e73cc3b047fab3fa73f6311737d43f8f5a9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "网上找了张应县木塔的图试了一下",
-      "url": "https://x.com/op7418/status/2093668635042873692",
-      "published_at": "2026-08-29T11:54:35Z",
-      "summary": "网上找了张应县木塔的图试了一下💬1🔄0❤️5👀3578📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0bfd0aae633e9e3c40d0f6c469dee684f9c7da7f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "根据图片来选择风格和排版",
-      "url": "https://x.com/op7418/status/2093667717077434733",
-      "published_at": "2026-08-29T11:50:56Z",
-      "summary": "根据图片来选择风格和排版💬1🔄0❤️9👀4684📊2⚡ Powered by xgo.ing"
     }
   ]
 }
