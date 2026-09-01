@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T01:02:19.778073Z",
+  "generated_at": "2026-09-01T06:26:42.662336Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 297,
+      "duration_ms": 182,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 101,
+      "duration_ms": 166,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1655,
+      "duration_ms": 1819,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1394,
+      "duration_ms": 1521,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1005,
+      "duration_ms": 989,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 901,
+      "duration_ms": 1015,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 901,
+      "duration_ms": 723,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 92,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2507,
+      "duration_ms": 2637,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1774,
+      "duration_ms": 1879,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "fab79570d66c63c5ac426b631228a12701938112",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Runway 发布的这个新模型 Solaris 挺有意思，他们说是首个界面世界模型，本质上叫新型操作系统，可以逐帧实时生成交互界面。\n\n它生成的视频能根据你的点击和拖动实时发生变化。比如下面这个例子：...",
+          "url": "https://x.com/op7418/status/2094650416575533125",
+          "published_at": "2026-09-01T04:55:50Z",
+          "summary": "Runway 发布的这个新模型 Solaris 挺有意思，他们说是首个界面世界模型，本质上叫新型操作系统，可以逐帧实时生成交互界面。 它生成的视频能根据你的点击和拖动实时发生变化。比如下面这个例子： • 向上拖动树，树就会变大 • 向斜下方拖动壁画，壁画也会变大 • 把灯拖出来移动位置，它就会放到你拖动到的最终位置，并重新渲染光线和物体之间的交互 • 点击的话还会弹出一个 UI 选项，让你去变换样式 这一切都是基于视频模型去完成的。 我觉得这个想法和思路还是挺好的，但目前实时生成的问题依然比较大。 主要问题在于延迟、实时生成的成本、一致性，以及连贯性和速…"
+        },
+        {
+          "id": "d88d7f598973e2a665f8fb515c1c2875038af636",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Linear的产品负责人居然加入 Open AI 了，负责 Codex 和 ChatGPT 的产品应该是",
+          "url": "https://x.com/op7418/status/2094647470529843322",
+          "published_at": "2026-09-01T04:44:08Z",
+          "summary": "Linear的产品负责人居然加入 Open AI 了，负责 Codex 和 ChatGPT 的产品应该是Nan Yu@thenanyuSome personal news—I’m joining OpenAI to work on Codex and ChatGPT. I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've lear…"
+        },
         {
           "id": "75e6773ce23d5730fb87c887b508608928be5965",
           "site_id": "featuredrss",
@@ -200,40 +222,7 @@
           "title": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。",
           "url": "https://x.com/op7418/status/2094476612565921994",
           "published_at": "2026-08-31T17:25:12Z",
-          "summary": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。歸藏(guizang.ai)@op7418做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。🔗 View Quoted Tweet💬12🔄13❤️132👀10805📊31⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f85cf840ee7eabb707c50b8500dfc6afa2bacdbc",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "已经重置了，同时宣布达到了 2500 万活跃用户",
-          "url": "https://x.com/op7418/status/2094251478940860534",
-          "published_at": "2026-08-31T02:30:36Z",
-          "summary": "已经重置了，同时宣布达到了 2500 万活跃用户💬0🔄0❤️1👀1161⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "96f701c80a089f71909b8754ed356fb16e3abe90",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "大概是北京时间今天上午九点或者十点",
-          "url": "https://x.com/op7418/status/2094250137157804380",
-          "published_at": "2026-08-31T02:25:16Z",
-          "summary": "大概是北京时间今天上午九点或者十点💬3🔄0❤️1👀3978📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "61ebb6171ce36d669aae89090d786a7c4fe61163",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "又重置了",
-          "url": "https://x.com/op7418/status/2094246671068864573",
-          "published_at": "2026-08-31T02:11:30Z",
-          "summary": "又重置了Tibo@thsottiauxYour Codex and ChatGPT Work reset will land at 6pm PST. I challenge you to burn as much usage as you can and discover and the latest awesome features. Time to go /fast🔗 View Quoted Tweet💬16🔄0❤️13👀13845📊11⚡ Powered by xgo.ing"
+          "summary": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。歸藏(guizang.ai)@op7418做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。🔗 View Quoted Tweet💬33🔄51❤️428👀37081📊102⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -251,6 +240,28 @@
   },
   "items": [
     {
+      "id": "fab79570d66c63c5ac426b631228a12701938112",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Runway 发布的这个新模型 Solaris 挺有意思，他们说是首个界面世界模型，本质上叫新型操作系统，可以逐帧实时生成交互界面。\n\n它生成的视频能根据你的点击和拖动实时发生变化。比如下面这个例子：...",
+      "url": "https://x.com/op7418/status/2094650416575533125",
+      "published_at": "2026-09-01T04:55:50Z",
+      "summary": "Runway 发布的这个新模型 Solaris 挺有意思，他们说是首个界面世界模型，本质上叫新型操作系统，可以逐帧实时生成交互界面。 它生成的视频能根据你的点击和拖动实时发生变化。比如下面这个例子： • 向上拖动树，树就会变大 • 向斜下方拖动壁画，壁画也会变大 • 把灯拖出来移动位置，它就会放到你拖动到的最终位置，并重新渲染光线和物体之间的交互 • 点击的话还会弹出一个 UI 选项，让你去变换样式 这一切都是基于视频模型去完成的。 我觉得这个想法和思路还是挺好的，但目前实时生成的问题依然比较大。 主要问题在于延迟、实时生成的成本、一致性，以及连贯性和速…"
+    },
+    {
+      "id": "d88d7f598973e2a665f8fb515c1c2875038af636",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Linear的产品负责人居然加入 Open AI 了，负责 Codex 和 ChatGPT 的产品应该是",
+      "url": "https://x.com/op7418/status/2094647470529843322",
+      "published_at": "2026-09-01T04:44:08Z",
+      "summary": "Linear的产品负责人居然加入 Open AI 了，负责 Codex 和 ChatGPT 的产品应该是Nan Yu@thenanyuSome personal news—I’m joining OpenAI to work on Codex and ChatGPT. I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've lear…"
+    },
+    {
       "id": "75e6773ce23d5730fb87c887b508608928be5965",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -259,40 +270,7 @@
       "title": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。",
       "url": "https://x.com/op7418/status/2094476612565921994",
       "published_at": "2026-08-31T17:25:12Z",
-      "summary": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。歸藏(guizang.ai)@op7418做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。🔗 View Quoted Tweet💬12🔄13❤️132👀10805📊31⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f85cf840ee7eabb707c50b8500dfc6afa2bacdbc",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "已经重置了，同时宣布达到了 2500 万活跃用户",
-      "url": "https://x.com/op7418/status/2094251478940860534",
-      "published_at": "2026-08-31T02:30:36Z",
-      "summary": "已经重置了，同时宣布达到了 2500 万活跃用户💬0🔄0❤️1👀1161⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "96f701c80a089f71909b8754ed356fb16e3abe90",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "大概是北京时间今天上午九点或者十点",
-      "url": "https://x.com/op7418/status/2094250137157804380",
-      "published_at": "2026-08-31T02:25:16Z",
-      "summary": "大概是北京时间今天上午九点或者十点💬3🔄0❤️1👀3978📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "61ebb6171ce36d669aae89090d786a7c4fe61163",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "又重置了",
-      "url": "https://x.com/op7418/status/2094246671068864573",
-      "published_at": "2026-08-31T02:11:30Z",
-      "summary": "又重置了Tibo@thsottiauxYour Codex and ChatGPT Work reset will land at 6pm PST. I challenge you to burn as much usage as you can and discover and the latest awesome features. Time to go /fast🔗 View Quoted Tweet💬16🔄0❤️13👀13845📊11⚡ Powered by xgo.ing"
+      "summary": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。歸藏(guizang.ai)@op7418做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。🔗 View Quoted Tweet💬33🔄51❤️428👀37081📊102⚡ Powered by xgo.ing"
     }
   ]
 }
