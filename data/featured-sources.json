@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T11:53:26.749936Z",
+  "generated_at": "2026-09-01T15:53:51.071499Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 392,
+      "duration_ms": 617,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1491,
+      "duration_ms": 1518,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1312,
+      "duration_ms": 1313,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1016,
+      "duration_ms": 885,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 335,
+      "duration_ms": 797,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 894,
+      "duration_ms": 500,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2498,
+      "duration_ms": 2099,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 739,
+      "duration_ms": 1415,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "9f1b2e66718040561ee974ff309001adba7e5b52",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "让他做了一个美式照片的海报也意外的不错",
+          "url": "https://x.com/op7418/status/2094808552837976145",
+          "published_at": "2026-09-01T15:24:13Z",
+          "summary": "让他做了一个美式照片的海报也意外的不错💬1🔄0❤️3👀508📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3bac8f5138c547ea89da6fdadd9b9bd91f021627",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "效果更好了",
+          "url": "https://x.com/op7418/status/2094792045584151016",
+          "published_at": "2026-09-01T14:18:37Z",
+          "summary": "效果更好了💬1🔄0❤️9👀1519📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1ceea9ecf66a8456e0e119fb6c99a9251ec07206",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "还得是 Twitter，很难想象会跟纳瓦尔本人产生交集",
+          "url": "https://x.com/op7418/status/2094791365406474519",
+          "published_at": "2026-09-01T14:15:55Z",
+          "summary": "还得是 Twitter，很难想象会跟纳瓦尔本人产生交集歸藏(guizang.ai)@op7418Runway 发布的这个新模型 Solaris 挺有意思，他们说是首个界面世界模型，本质上叫新型操作系统，可以逐帧实时生成交互界面。 它生成的视频能根据你的点击和拖动实时发生变化。比如下面这个例子： • 向上拖动树，树就会变大 • 向斜下方拖动壁画，壁画也会变大 • 把灯拖出来移动位置，它就会放到你拖动到的最终位置，并重新渲染光线和物体之间的交互 • 点击的话还会弹出一个 UI 选项，让你去变换样式 这一切都是基于视频模型去完成的。 我觉得这个想法和思路还是挺…"
+        },
         {
           "id": "fab79570d66c63c5ac426b631228a12701938112",
           "site_id": "featuredrss",
@@ -222,7 +255,7 @@
           "title": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。",
           "url": "https://x.com/op7418/status/2094476612565921994",
           "published_at": "2026-08-31T17:25:12Z",
-          "summary": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。歸藏(guizang.ai)@op7418做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。🔗 View Quoted Tweet💬44🔄77❤️605👀61042📊148⚡ Powered by xgo.ing"
+          "summary": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。歸藏(guizang.ai)@op7418做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。🔗 View Quoted Tweet💬51🔄98❤️702👀76285📊174⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -239,6 +272,39 @@
     }
   },
   "items": [
+    {
+      "id": "9f1b2e66718040561ee974ff309001adba7e5b52",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "让他做了一个美式照片的海报也意外的不错",
+      "url": "https://x.com/op7418/status/2094808552837976145",
+      "published_at": "2026-09-01T15:24:13Z",
+      "summary": "让他做了一个美式照片的海报也意外的不错💬1🔄0❤️3👀508📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3bac8f5138c547ea89da6fdadd9b9bd91f021627",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "效果更好了",
+      "url": "https://x.com/op7418/status/2094792045584151016",
+      "published_at": "2026-09-01T14:18:37Z",
+      "summary": "效果更好了💬1🔄0❤️9👀1519📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1ceea9ecf66a8456e0e119fb6c99a9251ec07206",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "还得是 Twitter，很难想象会跟纳瓦尔本人产生交集",
+      "url": "https://x.com/op7418/status/2094791365406474519",
+      "published_at": "2026-09-01T14:15:55Z",
+      "summary": "还得是 Twitter，很难想象会跟纳瓦尔本人产生交集歸藏(guizang.ai)@op7418Runway 发布的这个新模型 Solaris 挺有意思，他们说是首个界面世界模型，本质上叫新型操作系统，可以逐帧实时生成交互界面。 它生成的视频能根据你的点击和拖动实时发生变化。比如下面这个例子： • 向上拖动树，树就会变大 • 向斜下方拖动壁画，壁画也会变大 • 把灯拖出来移动位置，它就会放到你拖动到的最终位置，并重新渲染光线和物体之间的交互 • 点击的话还会弹出一个 UI 选项，让你去变换样式 这一切都是基于视频模型去完成的。 我觉得这个想法和思路还是挺…"
+    },
     {
       "id": "fab79570d66c63c5ac426b631228a12701938112",
       "site_id": "featuredrss",
@@ -270,7 +336,7 @@
       "title": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。",
       "url": "https://x.com/op7418/status/2094476612565921994",
       "published_at": "2026-08-31T17:25:12Z",
-      "summary": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。歸藏(guizang.ai)@op7418做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。🔗 View Quoted Tweet💬44🔄77❤️605👀61042📊148⚡ Powered by xgo.ing"
+      "summary": "即使你照片拍得不行，我这个 Skill 也会通过处理细节和排版帮你重新做出一个非常漂亮的海报出来。歸藏(guizang.ai)@op7418做个 Skill，帮大家分享自己拍的古建筑和国风场景。 迭代一下这几天发。🔗 View Quoted Tweet💬51🔄98❤️702👀76285📊174⚡ Powered by xgo.ing"
     }
   ]
 }
