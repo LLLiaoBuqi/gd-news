@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T13:00:32.281425Z",
+  "generated_at": "2026-09-06T16:22:05.219714Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 783,
+      "duration_ms": 1576,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 33,
+      "duration_ms": 25,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1261,
+      "duration_ms": 1610,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1150,
+      "duration_ms": 1392,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 794,
+      "duration_ms": 994,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 807,
+      "duration_ms": 1129,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 401,
+      "duration_ms": 1722,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 28,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2190,
+      "duration_ms": 2344,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1487,
+      "duration_ms": 990,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 13,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "3b44c6af4b155f336b61a30aa150e026b49877d8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Windwos 下的体验太好了：https://t.co/chWTqOGFFz",
+          "url": "https://x.com/op7418/status/2096605428344050082",
+          "published_at": "2026-09-06T14:24:21Z",
+          "summary": "Windwos 下的体验太好了：x.com/op7418/status/…歸藏(guizang.ai)@op7418用我的 Windows 给这个用 GPT-6 Astra 做的 3D 游戏录了一个纯粹的演示 在 5070 Ti 的加持下，整个环境更加真实了，细节更多，而且超级流畅Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️2👀1849📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "0641abe0ff33d0f65e61e58c3fb4d0cfcda32122",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "用我的 Windows 给这个用 GPT-6 Astra 做的 3D 游戏录了一个纯粹的演示\n\n在 5070 Ti 的加持下，整个环境更加真实了，细节更多，而且超级流畅",
+          "url": "https://x.com/op7418/status/2096605334651728200",
+          "published_at": "2026-09-06T14:23:59Z",
+          "summary": "用我的 Windows 给这个用 GPT-6 Astra 做的 3D 游戏录了一个纯粹的演示 在 5070 Ti 的加持下，整个环境更加真实了，细节更多，而且超级流畅Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，…"
+        },
         {
           "id": "00d4c847990a392f4237f0eca7022651417251d3",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "这里“https://t.co/3LZeZZ1An1”",
           "url": "https://x.com/op7418/status/2096577445642273264",
           "published_at": "2026-09-06T12:33:10Z",
-          "summary": "这里“x.com/op7418/status/…”歸藏(guizang.ai)@op7418pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩🔗 View Quoted Tweet💬0🔄0❤️0👀563⚡ Powered by xgo.ing"
+          "summary": "这里“x.com/op7418/status/…”歸藏(guizang.ai)@op7418pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩🔗 View Quoted Tweet💬0🔄0❤️2👀2684⚡ Powered by xgo.ing"
         },
         {
           "id": "02d38d0ca7cf7654914b08df575972727118b916",
@@ -211,7 +233,7 @@
           "title": "https://t.co/ruabGqgPa0 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩",
           "url": "https://x.com/op7418/status/2096522760520667414",
           "published_at": "2026-09-06T08:55:52Z",
-          "summary": "pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩💬0🔄0❤️3👀3014📊1⚡ Powered by xgo.ing"
+          "summary": "pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩💬2🔄0❤️8👀7159📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "17a7c4a3d5eb44fd0613ba278cfb1fb2542ec569",
@@ -222,7 +244,7 @@
           "title": "搞了个完整游戏：https://t.co/or6O4XBHYh",
           "url": "https://x.com/op7418/status/2096510087800270892",
           "published_at": "2026-09-06T08:05:30Z",
-          "summary": "搞了个完整游戏：x.com/op7418/status/…歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️4👀2369📊1⚡ Powered b…"
+          "summary": "搞了个完整游戏：x.com/op7418/status/…歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️4👀2890📊1⚡ Powered b…"
         },
         {
           "id": "60bdf8624e48bb7b710c9dfbc11d867d3e9df411",
@@ -233,7 +255,7 @@
           "title": "看有朋友不信，贴一下我现在的余额和我的那个分析页面",
           "url": "https://x.com/op7418/status/2096509443076980819",
           "published_at": "2026-09-06T08:02:57Z",
-          "summary": "看有朋友不信，贴一下我现在的余额和我的那个分析页面💬2🔄1❤️4👀4643📊3⚡ Powered by xgo.ing"
+          "summary": "看有朋友不信，贴一下我现在的余额和我的那个分析页面💬2🔄1❤️4👀5217📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "7b1b1c46e80ceda5cb420cb103c72b826164dd84",
@@ -244,7 +266,7 @@
           "title": "有朋友想玩一下、试一下吗？\n\n想的话，我打包俩客户端给大家玩玩？",
           "url": "https://x.com/op7418/status/2096507824113393707",
           "published_at": "2026-09-06T07:56:31Z",
-          "summary": "有朋友想玩一下、试一下吗？ 想的话，我打包俩客户端给大家玩玩？歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬21🔄1❤️18👀7385📊16⚡ Powe…"
+          "summary": "有朋友想玩一下、试一下吗？ 想的话，我打包俩客户端给大家玩玩？歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬21🔄2❤️26👀11186📊17⚡ Pow…"
         },
         {
           "id": "5bedccfaad8e42bb068d9e6f3c64fbff93d03349",
@@ -266,7 +288,7 @@
           "title": "GPT-6 Astra + Blender + Godot Engine\n\nGPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡\n\n昼夜循环、天气系统、3D...",
           "url": "https://x.com/op7418/status/2096494840431386950",
           "published_at": "2026-09-06T07:04:55Z",
-          "summary": "GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter💬47🔄16❤️258👀50444📊105⚡ Powered by xgo.ing"
+          "summary": "GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter💬56🔄36❤️482👀83619📊173⚡ Powered by xgo.ing"
         },
         {
           "id": "5778542e3a4128b3549e703e189423962b158561",
@@ -288,7 +310,7 @@
           "title": "小宇宙：https://t.co/P5H4rzbQYu\n\nB 站：https://t.co/Bw8BKZI2wN",
           "url": "https://x.com/op7418/status/2096433655568839169",
           "published_at": "2026-09-06T03:01:47Z",
-          "summary": "小宇宙：xiaoyuzhoufm.com/episode/6a9ad8… B 站：bilibili.com/video/BV1qdtz6…💬1🔄0❤️3👀2520📊2⚡ Powered by xgo.ing"
+          "summary": "小宇宙：xiaoyuzhoufm.com/episode/6a9ad8… B 站：bilibili.com/video/BV1qdtz6…💬7🔄0❤️3👀2739📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "94dd3f2ebd30757ad57c842b8bfc508d2d7963e7",
@@ -299,7 +321,7 @@
           "title": "跟杨攀、橘子、乔木一起做了一个播客，叫 NEXT Token，拿下了昨天的小宇宙新星榜！\n\n主要是借着当周的一些新闻，聊聊我们对这些事情的看法和认知。\n\n一期大概一个多小时，非常像 AI 圈的谐星聊天...",
           "url": "https://x.com/op7418/status/2096433364983238781",
           "published_at": "2026-09-06T03:00:38Z",
-          "summary": "跟杨攀、橘子、乔木一起做了一个播客，叫 NEXT Token，拿下了昨天的小宇宙新星榜！ 主要是借着当周的一些新闻，聊聊我们对这些事情的看法和认知。 一期大概一个多小时，非常像 AI 圈的谐星聊天会，后续也会有视频播客。 这一期尤其推荐厂商听，我们提了非常多关于模型厂商和大厂我觉得应该做的事情💬21🔄0❤️19👀7676📊21⚡ Powered by xgo.ing"
+          "summary": "跟杨攀、橘子、乔木一起做了一个播客，叫 NEXT Token，拿下了昨天的小宇宙新星榜！ 主要是借着当周的一些新闻，聊聊我们对这些事情的看法和认知。 一期大概一个多小时，非常像 AI 圈的谐星聊天会，后续也会有视频播客。 这一期尤其推荐厂商听，我们提了非常多关于模型厂商和大厂我觉得应该做的事情💬25🔄0❤️23👀9097📊25⚡ Powered by xgo.ing"
         },
         {
           "id": "9ea9aadca80ef0bdfc3a1927e0259d9ad6638f15",
@@ -310,7 +332,7 @@
           "title": "OpenAI Astra 发布视频在推特上居然有 1.25 亿的曝光。\n\n在其他平台，那些搬运视频的曝光也很高。这宣传片做得太好了",
           "url": "https://x.com/op7418/status/2096424679586279896",
           "published_at": "2026-09-06T02:26:07Z",
-          "summary": "OpenAI Astra 发布视频在推特上居然有 1.25 亿的曝光。 在其他平台，那些搬运视频的曝光也很高。这宣传片做得太好了OpenAI@OpenAIThis is GPT-6 Astra. Anything you can do on a computer, Astra can do for you. Fast.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬19🔄0❤️19👀18744📊15⚡ Powered by xgo.ing"
+          "summary": "OpenAI Astra 发布视频在推特上居然有 1.25 亿的曝光。 在其他平台，那些搬运视频的曝光也很高。这宣传片做得太好了OpenAI@OpenAIThis is GPT-6 Astra. Anything you can do on a computer, Astra can do for you. Fast.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬19🔄0❤️27👀23193📊15⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -328,6 +350,28 @@
   },
   "items": [
     {
+      "id": "3b44c6af4b155f336b61a30aa150e026b49877d8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Windwos 下的体验太好了：https://t.co/chWTqOGFFz",
+      "url": "https://x.com/op7418/status/2096605428344050082",
+      "published_at": "2026-09-06T14:24:21Z",
+      "summary": "Windwos 下的体验太好了：x.com/op7418/status/…歸藏(guizang.ai)@op7418用我的 Windows 给这个用 GPT-6 Astra 做的 3D 游戏录了一个纯粹的演示 在 5070 Ti 的加持下，整个环境更加真实了，细节更多，而且超级流畅Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️2👀1849📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "0641abe0ff33d0f65e61e58c3fb4d0cfcda32122",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "用我的 Windows 给这个用 GPT-6 Astra 做的 3D 游戏录了一个纯粹的演示\n\n在 5070 Ti 的加持下，整个环境更加真实了，细节更多，而且超级流畅",
+      "url": "https://x.com/op7418/status/2096605334651728200",
+      "published_at": "2026-09-06T14:23:59Z",
+      "summary": "用我的 Windows 给这个用 GPT-6 Astra 做的 3D 游戏录了一个纯粹的演示 在 5070 Ti 的加持下，整个环境更加真实了，细节更多，而且超级流畅Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，…"
+    },
+    {
       "id": "00d4c847990a392f4237f0eca7022651417251d3",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -336,7 +380,7 @@
       "title": "这里“https://t.co/3LZeZZ1An1”",
       "url": "https://x.com/op7418/status/2096577445642273264",
       "published_at": "2026-09-06T12:33:10Z",
-      "summary": "这里“x.com/op7418/status/…”歸藏(guizang.ai)@op7418pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩🔗 View Quoted Tweet💬0🔄0❤️0👀563⚡ Powered by xgo.ing"
+      "summary": "这里“x.com/op7418/status/…”歸藏(guizang.ai)@op7418pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩🔗 View Quoted Tweet💬0🔄0❤️2👀2684⚡ Powered by xgo.ing"
     },
     {
       "id": "02d38d0ca7cf7654914b08df575972727118b916",
@@ -347,7 +391,7 @@
       "title": "https://t.co/ruabGqgPa0 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩",
       "url": "https://x.com/op7418/status/2096522760520667414",
       "published_at": "2026-09-06T08:55:52Z",
-      "summary": "pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩💬0🔄0❤️3👀3014📊1⚡ Powered by xgo.ing"
+      "summary": "pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩💬2🔄0❤️8👀7159📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "17a7c4a3d5eb44fd0613ba278cfb1fb2542ec569",
@@ -358,7 +402,7 @@
       "title": "搞了个完整游戏：https://t.co/or6O4XBHYh",
       "url": "https://x.com/op7418/status/2096510087800270892",
       "published_at": "2026-09-06T08:05:30Z",
-      "summary": "搞了个完整游戏：x.com/op7418/status/…歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️4👀2369📊1⚡ Powered b…"
+      "summary": "搞了个完整游戏：x.com/op7418/status/…歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️4👀2890📊1⚡ Powered b…"
     },
     {
       "id": "60bdf8624e48bb7b710c9dfbc11d867d3e9df411",
@@ -369,7 +413,7 @@
       "title": "看有朋友不信，贴一下我现在的余额和我的那个分析页面",
       "url": "https://x.com/op7418/status/2096509443076980819",
       "published_at": "2026-09-06T08:02:57Z",
-      "summary": "看有朋友不信，贴一下我现在的余额和我的那个分析页面💬2🔄1❤️4👀4643📊3⚡ Powered by xgo.ing"
+      "summary": "看有朋友不信，贴一下我现在的余额和我的那个分析页面💬2🔄1❤️4👀5217📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "7b1b1c46e80ceda5cb420cb103c72b826164dd84",
@@ -380,7 +424,7 @@
       "title": "有朋友想玩一下、试一下吗？\n\n想的话，我打包俩客户端给大家玩玩？",
       "url": "https://x.com/op7418/status/2096507824113393707",
       "published_at": "2026-09-06T07:56:31Z",
-      "summary": "有朋友想玩一下、试一下吗？ 想的话，我打包俩客户端给大家玩玩？歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬21🔄1❤️18👀7385📊16⚡ Powe…"
+      "summary": "有朋友想玩一下、试一下吗？ 想的话，我打包俩客户端给大家玩玩？歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬21🔄2❤️26👀11186📊17⚡ Pow…"
     },
     {
       "id": "5bedccfaad8e42bb068d9e6f3c64fbff93d03349",
@@ -402,7 +446,7 @@
       "title": "GPT-6 Astra + Blender + Godot Engine\n\nGPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡\n\n昼夜循环、天气系统、3D...",
       "url": "https://x.com/op7418/status/2096494840431386950",
       "published_at": "2026-09-06T07:04:55Z",
-      "summary": "GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter💬47🔄16❤️258👀50444📊105⚡ Powered by xgo.ing"
+      "summary": "GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪Your browser does not support the video tag.🔗 View on Twitter💬56🔄36❤️482👀83619📊173⚡ Powered by xgo.ing"
     },
     {
       "id": "5778542e3a4128b3549e703e189423962b158561",
@@ -424,7 +468,7 @@
       "title": "小宇宙：https://t.co/P5H4rzbQYu\n\nB 站：https://t.co/Bw8BKZI2wN",
       "url": "https://x.com/op7418/status/2096433655568839169",
       "published_at": "2026-09-06T03:01:47Z",
-      "summary": "小宇宙：xiaoyuzhoufm.com/episode/6a9ad8… B 站：bilibili.com/video/BV1qdtz6…💬1🔄0❤️3👀2520📊2⚡ Powered by xgo.ing"
+      "summary": "小宇宙：xiaoyuzhoufm.com/episode/6a9ad8… B 站：bilibili.com/video/BV1qdtz6…💬7🔄0❤️3👀2739📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "94dd3f2ebd30757ad57c842b8bfc508d2d7963e7",
@@ -435,7 +479,7 @@
       "title": "跟杨攀、橘子、乔木一起做了一个播客，叫 NEXT Token，拿下了昨天的小宇宙新星榜！\n\n主要是借着当周的一些新闻，聊聊我们对这些事情的看法和认知。\n\n一期大概一个多小时，非常像 AI 圈的谐星聊天...",
       "url": "https://x.com/op7418/status/2096433364983238781",
       "published_at": "2026-09-06T03:00:38Z",
-      "summary": "跟杨攀、橘子、乔木一起做了一个播客，叫 NEXT Token，拿下了昨天的小宇宙新星榜！ 主要是借着当周的一些新闻，聊聊我们对这些事情的看法和认知。 一期大概一个多小时，非常像 AI 圈的谐星聊天会，后续也会有视频播客。 这一期尤其推荐厂商听，我们提了非常多关于模型厂商和大厂我觉得应该做的事情💬21🔄0❤️19👀7676📊21⚡ Powered by xgo.ing"
+      "summary": "跟杨攀、橘子、乔木一起做了一个播客，叫 NEXT Token，拿下了昨天的小宇宙新星榜！ 主要是借着当周的一些新闻，聊聊我们对这些事情的看法和认知。 一期大概一个多小时，非常像 AI 圈的谐星聊天会，后续也会有视频播客。 这一期尤其推荐厂商听，我们提了非常多关于模型厂商和大厂我觉得应该做的事情💬25🔄0❤️23👀9097📊25⚡ Powered by xgo.ing"
     },
     {
       "id": "9ea9aadca80ef0bdfc3a1927e0259d9ad6638f15",
@@ -446,7 +490,7 @@
       "title": "OpenAI Astra 发布视频在推特上居然有 1.25 亿的曝光。\n\n在其他平台，那些搬运视频的曝光也很高。这宣传片做得太好了",
       "url": "https://x.com/op7418/status/2096424679586279896",
       "published_at": "2026-09-06T02:26:07Z",
-      "summary": "OpenAI Astra 发布视频在推特上居然有 1.25 亿的曝光。 在其他平台，那些搬运视频的曝光也很高。这宣传片做得太好了OpenAI@OpenAIThis is GPT-6 Astra. Anything you can do on a computer, Astra can do for you. Fast.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬19🔄0❤️19👀18744📊15⚡ Powered by xgo.ing"
+      "summary": "OpenAI Astra 发布视频在推特上居然有 1.25 亿的曝光。 在其他平台，那些搬运视频的曝光也很高。这宣传片做得太好了OpenAI@OpenAIThis is GPT-6 Astra. Anything you can do on a computer, Astra can do for you. Fast.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬19🔄0❤️27👀23193📊15⚡ Powered by xgo.ing"
     }
   ]
 }
