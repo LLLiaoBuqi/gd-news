@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T00:52:54.653601Z",
+  "generated_at": "2026-09-10T12:35:32.237859Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 274,
+      "duration_ms": 1212,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 16,
-      "duration_ms": 68,
+      "item_count": 15,
+      "duration_ms": 55,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1460,
+      "duration_ms": 1473,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1543,
+      "duration_ms": 1440,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1165,
+      "duration_ms": 795,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 545,
+      "duration_ms": 1144,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 981,
+      "duration_ms": 1365,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 95,
+      "duration_ms": 72,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2385,
+      "duration_ms": 1818,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1491,
+      "duration_ms": 792,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,107 +192,306 @@
       ],
       "items": [
         {
-          "id": "a62006b8c56427adade5c12fffa6e8abbc1bfc32",
+          "id": "c1f65c975ab033ddea5c5564d7a818a5408ad0b8",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "安装包在这里面“https://t.co/3LZeZZ1An1”",
-          "url": "https://x.com/op7418/status/2096969850627530897",
-          "published_at": "2026-09-07T14:32:26Z",
-          "summary": "安装包在这里面“x.com/op7418/status/…”歸藏(guizang.ai)@op7418pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩🔗 View Quoted Tweet💬0🔄0❤️0👀3123📊1⚡ Powered by xgo.ing"
+          "title": "真的很离谱，这个人之前在 OpenAI，后来去 Anthropic 上班，上了三个星期还是六个星期就离职了。\n\n然后输出了一堆 AI 末日论的信息，全是观点，没有事实。\n\n1.3 亿的曝光，很难想象大...",
+          "url": "https://x.com/op7418/status/2097905476382118107",
+          "published_at": "2026-09-10T04:30:17Z",
+          "summary": "真的很离谱，这个人之前在 OpenAI，后来去 Anthropic 上班，上了三个星期还是六个星期就离职了。 然后输出了一堆 AI 末日论的信息，全是观点，没有事实。 1.3 亿的曝光，很难想象大家为什么都很相信这个东西Jacob Coxon@hilbertspaessI resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting…"
         },
         {
-          "id": "a82ac46c075699708dfe21d443c771511cdaf908",
+          "id": "755da2073dd1fb5227bef0dfa5cef7d00ee1d72f",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
+          "source": "数字生命卡兹克",
           "region": "domestic",
-          "title": "GPT-6 Astra 用 Blender 和 Godot Engine \n\n帮我做了一个完整的类吸血鬼幸存者游戏\n\n优化了一下地图，现在地图非常大。\n\n你可以去铁匠铺升级武器，所有的类吸血鬼幸存者的...",
-          "url": "https://x.com/op7418/status/2096949703829295484",
-          "published_at": "2026-09-07T13:12:23Z",
-          "summary": "GPT-6 Astra 用 Blender 和 Godot Engine 帮我做了一个完整的类吸血鬼幸存者游戏 优化了一下地图，现在地图非常大。 你可以去铁匠铺升级武器，所有的类吸血鬼幸存者的设定都是有的，还有 BOSSYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜…"
+          "title": "一个27岁的AI研究员从Anthropic辞职了，因为他担心AI会导致人类灭绝。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
+          "published_at": "2026-09-10T00:08:00Z",
+          "summary": "仿佛回到了11年前"
         },
         {
-          "id": "313bb3af378bcf682644560ddd1c9620a4a46100",
+          "id": "334dba657433fbeca2ca3ca1de8fbc252be6fc8d",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "卡尔的AI沃茨",
           "region": "domestic",
-          "title": "分享一个我随时随地只用手机就能远程操控Agent的新工作流",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510661&idx=1&sn=f8fecd6b0fd33bc99f7a8c63b9d3cbe6",
-          "published_at": "2026-09-07T06:34:00Z",
-          "summary": "好耶！出门再不用背一台不敢锁屏的电脑了"
+          "title": "AI+折叠屏/耳机/手表….苹果发布会最短总结",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510922&idx=1&sn=8889b608b5685ff38e717fed3a22e76d",
+          "published_at": "2026-09-10T00:03:00Z",
+          "summary": "卡尔的AI沃茨 2026-09-10 08:03 浙江 啥都别说了，iPhone Duo 10 月 16 号才能预约，现在版本之子是 AirPods 5。无耳塞的设计居然能开降噪，能用耳机柄调整音量，还能同步翻译，也没涨价也不需要等，直接开香槟。 iOS 27的Apple Intelligence继续炒冷饭。我能记住的就是Siri变自然了，语速和生动程度可以自己调，八百年不用的功能。然后就是图片消除和直接修改图片角度我是挺感兴趣的，图片消除我用很久了用来擦水印非常好用。 iPhone 18 Pro Max我印象最深的是续航，45小时视频播放，正常用也能撑…"
         },
         {
-          "id": "b19522436cac810ce5739e39ee9ad044a9041c81",
+          "id": "24912587c1842facede0465caa7066af97802a2d",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "海辛的 Codex 3D 场景教程",
-          "url": "https://x.com/op7418/status/2096769803751178381",
-          "published_at": "2026-09-07T01:17:31Z",
-          "summary": "海辛的 Codex 3D 场景教程Ring Hyacinth@ring_hyacinthCodex 做 3D 场景的正确打开方式 前段时间我们用 Codex 制作了许多 3D 场景，很多朋友希望我们能出一期详细教程。 这一章节的场景主要是用 Codex + Tripo + Nanobanana 制作的，为了网页端能跑，我们的使用的技术栈是 three.JS 和 Web3D 总之我知道的都在视频里啦～ 恰逢 GPT 6 Astra 发布，如果你在网上看到了很多惊艳的案例，又对自己做出来的效果没有那么满意，那这一期分享可能会对你有启发～ #codex#tri…"
+          "title": "iPhone Duo 国行起售价 15999 了\n\n1T 版本要 21499 太可怕了\n\n而且国内需要 10 月 16 日才能预购 23 日发售\n\n下面还写了需要在批准后发售，难道是还有可能延期的意思...",
+          "url": "https://x.com/op7418/status/2097754211618623503",
+          "published_at": "2026-09-09T18:29:13Z",
+          "summary": "iPhone Duo 国行起售价 15999 了 1T 版本要 21499 太可怕了 而且国内需要 10 月 16 日才能预购 23 日发售 下面还写了需要在批准后发售，难道是还有可能延期的意思？ 这手机全球只有 esim 版本💬66🔄0❤️19👀21097📊55⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c1720c4758bf6a4a42f5bfd768877df1b51a8a1c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "超大杯实测Image 2.5！稳扎稳打地小小进步了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498444&idx=1&sn=342c864bbf65d7ddf132bfc22ffba85a",
+          "published_at": "2026-09-09T16:04:00Z",
+          "summary": "发狠了忘情了又是一个超大杯哎嘿。"
+        },
+        {
+          "id": "2887f2948bb107f5ad29b2a98aa02cd0b06bc710",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "RunningHub联动华语科幻星云奖AI长片大赛，等你来投稿！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498437&idx=1&sn=8ea397a75aaf6b64f705e05f6ae15447",
+          "published_at": "2026-09-09T13:38:00Z",
+          "summary": "RunningHub 丨 第十七届华语科幻星云奖，全球AIGC长片创作大赛启动！"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "16a46a6e954c00549a6802ff13056e0ad18fe18a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber mod...",
+          "url": "https://x.com/OpenAI/status/2097786616311840853",
+          "published_at": "2026-09-09T20:37:58Z",
+          "summary": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find and fix vulnerabilities we might never have discovered otherwise. We’re sharing what we learned, the architecture, and a practical playbook so you can build your…"
+        },
+        {
+          "id": "e8fa28be401255df995479866687676219dc1d01",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Ready to produce your next track? 🎵\n\nTune into our next Gemini Discord demo, where a Googler will s...",
+          "url": "https://x.com/GeminiApp/status/2097765788149330058",
+          "published_at": "2026-09-09T19:15:13Z",
+          "summary": "Ready to produce your next track? 🎵 Tune into our next Gemini Discord demo, where a Googler will show off Lyria 3.5’s new creative controls. Choose your music’s duration, genre, and vocals, or get quick inspiration for your creations with templates. 👉 Join the Discord to watch li…"
+        },
+        {
+          "id": "1aa16f4c55323b5e7e139b409d342102b26b00d1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Paul Christiano, founder of the Alignment Research Center, is joining the OpenAI Foundation Board an...",
+          "url": "https://x.com/OpenAI/status/2097741659509584091",
+          "published_at": "2026-09-09T17:39:20Z",
+          "summary": "Paul Christiano, founder of the Alignment Research Center, is joining the OpenAI Foundation Board and its Safety and Security Committee, which provides governance over the safety and security practices across OpenAI. As AI capabilities advance, strong safety, security, alignment,…"
+        },
+        {
+          "id": "c152456fbc5e9dec83cdc646b3f327ad135b1714",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Get your clutter under control with the help of Gemini Live.\n\nFrom shopping for new organizers to fi...",
+          "url": "https://x.com/GeminiApp/status/2097699222493839413",
+          "published_at": "2026-09-09T14:50:42Z",
+          "summary": "Get your clutter under control with the help of Gemini Live. From shopping for new organizers to finding local battery disposal spots, Gemini can help you declutter smarter. Just open Gemini Live, point your camera at the mess, and talk through how to declutter it in real time.💬4…"
+        },
+        {
+          "id": "80b26fb3eed2b50db21523c5aeb75d4852f1a190",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Read the blog to learn more about how these brain maps continue to advance neuroscience ↓ https://t....",
+          "url": "https://x.com/GoogleAI/status/2097678995533771154",
+          "published_at": "2026-09-09T13:30:20Z",
+          "summary": "Read the blog to learn more about how these brain maps continue to advance neuroscience ↓ blog.google/innovation-and…💬3🔄4❤️59👀9217📊9⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "9dd1bb250c9b736d408ea0ba8df0a5fd66598b28",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "What makes this specific brain map such a massive leap forward?\n\nOur new connectome maps over 166,00...",
+          "url": "https://x.com/GoogleAI/status/2097678993629561026",
+          "published_at": "2026-09-09T13:30:19Z",
+          "summary": "What makes this specific brain map such a massive leap forward? Our new connectome maps over 166,000 neurons and 125 million connections, and it extends beyond the brain to include the nerve cord, which is analogous to our spinal cord. By comparison, our 2020 hemibrain connectome…"
+        },
+        {
+          "id": "5659a9e244a68b0ea204345b1665cb80e3a1e963",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Our @GoogleResearch Connectomics team, in collaboration with @HHMIJanelia, has released the complete...",
+          "url": "https://x.com/GoogleAI/status/2097678989695324609",
+          "published_at": "2026-09-09T13:30:18Z",
+          "summary": "Our @GoogleResearch Connectomics team, in collaboration with @HHMIJanelia, has released the complete wiring diagram of a male fruit fly’s brain and central nervous system — the largest brain map by number of proofread neurons to date. So, why do we care so much about a tiny fly's…"
+        }
+      ]
     }
   },
   "items": [
     {
-      "id": "a62006b8c56427adade5c12fffa6e8abbc1bfc32",
+      "id": "c1f65c975ab033ddea5c5564d7a818a5408ad0b8",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "歸藏(guizang.ai)(@op7418)",
       "region": "domestic",
-      "title": "安装包在这里面“https://t.co/3LZeZZ1An1”",
-      "url": "https://x.com/op7418/status/2096969850627530897",
-      "published_at": "2026-09-07T14:32:26Z",
-      "summary": "安装包在这里面“x.com/op7418/status/…”歸藏(guizang.ai)@op7418pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩🔗 View Quoted Tweet💬0🔄0❤️0👀3123📊1⚡ Powered by xgo.ing"
+      "title": "真的很离谱，这个人之前在 OpenAI，后来去 Anthropic 上班，上了三个星期还是六个星期就离职了。\n\n然后输出了一堆 AI 末日论的信息，全是观点，没有事实。\n\n1.3 亿的曝光，很难想象大...",
+      "url": "https://x.com/op7418/status/2097905476382118107",
+      "published_at": "2026-09-10T04:30:17Z",
+      "summary": "真的很离谱，这个人之前在 OpenAI，后来去 Anthropic 上班，上了三个星期还是六个星期就离职了。 然后输出了一堆 AI 末日论的信息，全是观点，没有事实。 1.3 亿的曝光，很难想象大家为什么都很相信这个东西Jacob Coxon@hilbertspaessI resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting…"
     },
     {
-      "id": "a82ac46c075699708dfe21d443c771511cdaf908",
+      "id": "755da2073dd1fb5227bef0dfa5cef7d00ee1d72f",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
+      "source": "数字生命卡兹克",
       "region": "domestic",
-      "title": "GPT-6 Astra 用 Blender 和 Godot Engine \n\n帮我做了一个完整的类吸血鬼幸存者游戏\n\n优化了一下地图，现在地图非常大。\n\n你可以去铁匠铺升级武器，所有的类吸血鬼幸存者的...",
-      "url": "https://x.com/op7418/status/2096949703829295484",
-      "published_at": "2026-09-07T13:12:23Z",
-      "summary": "GPT-6 Astra 用 Blender 和 Godot Engine 帮我做了一个完整的类吸血鬼幸存者游戏 优化了一下地图，现在地图非常大。 你可以去铁匠铺升级武器，所有的类吸血鬼幸存者的设定都是有的，还有 BOSSYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418GPT-6 Astra + Blender + Godot Engine GPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡 昼夜…"
+      "title": "一个27岁的AI研究员从Anthropic辞职了，因为他担心AI会导致人类灭绝。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
+      "published_at": "2026-09-10T00:08:00Z",
+      "summary": "仿佛回到了11年前"
     },
     {
-      "id": "313bb3af378bcf682644560ddd1c9620a4a46100",
+      "id": "334dba657433fbeca2ca3ca1de8fbc252be6fc8d",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "卡尔的AI沃茨",
       "region": "domestic",
-      "title": "分享一个我随时随地只用手机就能远程操控Agent的新工作流",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510661&idx=1&sn=f8fecd6b0fd33bc99f7a8c63b9d3cbe6",
-      "published_at": "2026-09-07T06:34:00Z",
-      "summary": "好耶！出门再不用背一台不敢锁屏的电脑了"
+      "title": "AI+折叠屏/耳机/手表….苹果发布会最短总结",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510922&idx=1&sn=8889b608b5685ff38e717fed3a22e76d",
+      "published_at": "2026-09-10T00:03:00Z",
+      "summary": "卡尔的AI沃茨 2026-09-10 08:03 浙江 啥都别说了，iPhone Duo 10 月 16 号才能预约，现在版本之子是 AirPods 5。无耳塞的设计居然能开降噪，能用耳机柄调整音量，还能同步翻译，也没涨价也不需要等，直接开香槟。 iOS 27的Apple Intelligence继续炒冷饭。我能记住的就是Siri变自然了，语速和生动程度可以自己调，八百年不用的功能。然后就是图片消除和直接修改图片角度我是挺感兴趣的，图片消除我用很久了用来擦水印非常好用。 iPhone 18 Pro Max我印象最深的是续航，45小时视频播放，正常用也能撑…"
     },
     {
-      "id": "b19522436cac810ce5739e39ee9ad044a9041c81",
+      "id": "16a46a6e954c00549a6802ff13056e0ad18fe18a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber mod...",
+      "url": "https://x.com/OpenAI/status/2097786616311840853",
+      "published_at": "2026-09-09T20:37:58Z",
+      "summary": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find and fix vulnerabilities we might never have discovered otherwise. We’re sharing what we learned, the architecture, and a practical playbook so you can build your…"
+    },
+    {
+      "id": "e8fa28be401255df995479866687676219dc1d01",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Ready to produce your next track? 🎵\n\nTune into our next Gemini Discord demo, where a Googler will s...",
+      "url": "https://x.com/GeminiApp/status/2097765788149330058",
+      "published_at": "2026-09-09T19:15:13Z",
+      "summary": "Ready to produce your next track? 🎵 Tune into our next Gemini Discord demo, where a Googler will show off Lyria 3.5’s new creative controls. Choose your music’s duration, genre, and vocals, or get quick inspiration for your creations with templates. 👉 Join the Discord to watch li…"
+    },
+    {
+      "id": "24912587c1842facede0465caa7066af97802a2d",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "歸藏(guizang.ai)(@op7418)",
       "region": "domestic",
-      "title": "海辛的 Codex 3D 场景教程",
-      "url": "https://x.com/op7418/status/2096769803751178381",
-      "published_at": "2026-09-07T01:17:31Z",
-      "summary": "海辛的 Codex 3D 场景教程Ring Hyacinth@ring_hyacinthCodex 做 3D 场景的正确打开方式 前段时间我们用 Codex 制作了许多 3D 场景，很多朋友希望我们能出一期详细教程。 这一章节的场景主要是用 Codex + Tripo + Nanobanana 制作的，为了网页端能跑，我们的使用的技术栈是 three.JS 和 Web3D 总之我知道的都在视频里啦～ 恰逢 GPT 6 Astra 发布，如果你在网上看到了很多惊艳的案例，又对自己做出来的效果没有那么满意，那这一期分享可能会对你有启发～ #codex#tri…"
+      "title": "iPhone Duo 国行起售价 15999 了\n\n1T 版本要 21499 太可怕了\n\n而且国内需要 10 月 16 日才能预购 23 日发售\n\n下面还写了需要在批准后发售，难道是还有可能延期的意思...",
+      "url": "https://x.com/op7418/status/2097754211618623503",
+      "published_at": "2026-09-09T18:29:13Z",
+      "summary": "iPhone Duo 国行起售价 15999 了 1T 版本要 21499 太可怕了 而且国内需要 10 月 16 日才能预购 23 日发售 下面还写了需要在批准后发售，难道是还有可能延期的意思？ 这手机全球只有 esim 版本💬66🔄0❤️19👀21097📊55⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1aa16f4c55323b5e7e139b409d342102b26b00d1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Paul Christiano, founder of the Alignment Research Center, is joining the OpenAI Foundation Board an...",
+      "url": "https://x.com/OpenAI/status/2097741659509584091",
+      "published_at": "2026-09-09T17:39:20Z",
+      "summary": "Paul Christiano, founder of the Alignment Research Center, is joining the OpenAI Foundation Board and its Safety and Security Committee, which provides governance over the safety and security practices across OpenAI. As AI capabilities advance, strong safety, security, alignment,…"
+    },
+    {
+      "id": "c1720c4758bf6a4a42f5bfd768877df1b51a8a1c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "超大杯实测Image 2.5！稳扎稳打地小小进步了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498444&idx=1&sn=342c864bbf65d7ddf132bfc22ffba85a",
+      "published_at": "2026-09-09T16:04:00Z",
+      "summary": "发狠了忘情了又是一个超大杯哎嘿。"
+    },
+    {
+      "id": "c152456fbc5e9dec83cdc646b3f327ad135b1714",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Get your clutter under control with the help of Gemini Live.\n\nFrom shopping for new organizers to fi...",
+      "url": "https://x.com/GeminiApp/status/2097699222493839413",
+      "published_at": "2026-09-09T14:50:42Z",
+      "summary": "Get your clutter under control with the help of Gemini Live. From shopping for new organizers to finding local battery disposal spots, Gemini can help you declutter smarter. Just open Gemini Live, point your camera at the mess, and talk through how to declutter it in real time.💬4…"
+    },
+    {
+      "id": "2887f2948bb107f5ad29b2a98aa02cd0b06bc710",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "RunningHub联动华语科幻星云奖AI长片大赛，等你来投稿！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498437&idx=1&sn=8ea397a75aaf6b64f705e05f6ae15447",
+      "published_at": "2026-09-09T13:38:00Z",
+      "summary": "RunningHub 丨 第十七届华语科幻星云奖，全球AIGC长片创作大赛启动！"
+    },
+    {
+      "id": "80b26fb3eed2b50db21523c5aeb75d4852f1a190",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Read the blog to learn more about how these brain maps continue to advance neuroscience ↓ https://t....",
+      "url": "https://x.com/GoogleAI/status/2097678995533771154",
+      "published_at": "2026-09-09T13:30:20Z",
+      "summary": "Read the blog to learn more about how these brain maps continue to advance neuroscience ↓ blog.google/innovation-and…💬3🔄4❤️59👀9217📊9⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "9dd1bb250c9b736d408ea0ba8df0a5fd66598b28",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "What makes this specific brain map such a massive leap forward?\n\nOur new connectome maps over 166,00...",
+      "url": "https://x.com/GoogleAI/status/2097678993629561026",
+      "published_at": "2026-09-09T13:30:19Z",
+      "summary": "What makes this specific brain map such a massive leap forward? Our new connectome maps over 166,000 neurons and 125 million connections, and it extends beyond the brain to include the nerve cord, which is analogous to our spinal cord. By comparison, our 2020 hemibrain connectome…"
+    },
+    {
+      "id": "5659a9e244a68b0ea204345b1665cb80e3a1e963",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Our @GoogleResearch Connectomics team, in collaboration with @HHMIJanelia, has released the complete...",
+      "url": "https://x.com/GoogleAI/status/2097678989695324609",
+      "published_at": "2026-09-09T13:30:18Z",
+      "summary": "Our @GoogleResearch Connectomics team, in collaboration with @HHMIJanelia, has released the complete wiring diagram of a male fruit fly’s brain and central nervous system — the largest brain map by number of proofread neurons to date. So, why do we care so much about a tiny fly's…"
     }
   ]
 }
