@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T01:33:45.343058Z",
+  "generated_at": "2026-09-17T06:59:35.518525Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 938,
+      "duration_ms": 775,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 49,
+      "duration_ms": 45,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 870,
+      "duration_ms": 875,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1369,
+      "duration_ms": 1068,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 823,
+      "duration_ms": 816,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1423,
+      "duration_ms": 1001,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1275,
+      "duration_ms": 745,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 41,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2360,
+      "duration_ms": 2515,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 728,
+      "duration_ms": 744,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,57 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "50dfee69752c84fee3ac354aebe8b9ef5695ff4b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "🐂🍺 Grok Bot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露",
+          "url": "https://x.com/op7418/status/2100421505536639231",
+          "published_at": "2026-09-17T03:08:05Z",
+          "summary": "🐂🍺 Grok Bot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露Grok Bot@botGrok Bot can now use 1Password. Share items in a vault, approve each fill, and the secrets stay in your password manager.🔗 View Quoted Tweet💬2🔄0❤️16👀5564📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b9e25d0a005896376173f5798beda386a5bb5fea",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "🐂🍺 GorkBot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露",
+          "url": "https://x.com/op7418/status/2100418689346728422",
+          "published_at": "2026-09-17T02:56:54Z",
+          "summary": "🐂🍺 GorkBot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露Grok Bot@botGrok Bot can now use 1Password. Share items in a vault, approve each fill, and the secrets stay in your password manager.🔗 View Quoted Tweet💬0🔄0❤️1👀374⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3a001f9099426461ef6c26701a405bc093b58314",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这也太开放了",
+          "url": "https://x.com/op7418/status/2100415929872273846",
+          "published_at": "2026-09-17T02:45:56Z",
+          "summary": "这也太开放了💬0🔄0❤️3👀2557📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "76702d36a2b07848147c26874c9d43a3a9a228fa",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我操，太整活了！\n\n小米 MiMo 团队居然在直播他们新模型 MiMo-V2.6 的RL 训练过程，看起来是一直在进行自动化的评估和测试。\n\n然后一个特别的点是，它显示了成本，而且成本是实时显示的。\n...",
+          "url": "https://x.com/op7418/status/2100415629383934152",
+          "published_at": "2026-09-17T02:44:44Z",
+          "summary": "我操，太整活了！ 小米 MiMo 团队居然在直播他们新模型 MiMo-V2.6 的RL 训练过程，看起来是一直在进行自动化的评估和测试。 然后一个特别的点是，它显示了成本，而且成本是实时显示的。 你可以看到训一个模型到底有多费钱，每一秒都在涨那个钱！Fuli Luo@_LuoFuliNearly half a year of silence. We spent it studying one problem: how far RL can scale. MiMo-V2.6 is in the middle of its RL run right now.…"
+        },
         {
           "id": "1536564798ee552c33e7cbf7fda99ef00a8f84eb",
           "site_id": "featuredrss",
@@ -200,7 +244,7 @@
           "title": "这里尝试：https://t.co/ILGeMxhTWb",
           "url": "https://x.com/op7418/status/2100255469311041964",
           "published_at": "2026-09-16T16:08:19Z",
-          "summary": "这里尝试：glimpse.cards💬0🔄0❤️2👀1516📊1⚡ Powered by xgo.ing"
+          "summary": "这里尝试：glimpse.cards💬0🔄0❤️2👀1876📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "e734ec9025dc2513619e74deb6bfd1530a40c3c4",
@@ -211,7 +255,7 @@
           "title": "即览 1.01 已经更新了！\n\n如果你之前在使用中遇到了一些问题，可以更新一下。新版本进行了大量的体验优化和视觉样式的重构。\n\n现在更好搜索了，基本上搜名字就能搜出来",
           "url": "https://x.com/op7418/status/2100248136514150904",
           "published_at": "2026-09-16T15:39:11Z",
-          "summary": "即览 1.01 已经更新了！ 如果你之前在使用中遇到了一些问题，可以更新一下。新版本进行了大量的体验优化和视觉样式的重构。 现在更好搜索了，基本上搜名字就能搜出来歸藏(guizang.ai)@op7418居然在美区效率榜单排 44，而且美区是不限免的，谢谢各位❤️🔗 View Quoted Tweet💬5🔄0❤️11👀7192📊4⚡ Powered by xgo.ing"
+          "summary": "即览 1.01 已经更新了！ 如果你之前在使用中遇到了一些问题，可以更新一下。新版本进行了大量的体验优化和视觉样式的重构。 现在更好搜索了，基本上搜名字就能搜出来歸藏(guizang.ai)@op7418居然在美区效率榜单排 44，而且美区是不限免的，谢谢各位❤️🔗 View Quoted Tweet💬6🔄0❤️11👀8514📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "4a38e95bc408b23dfa41f808b99eada4a71ed587",
@@ -222,7 +266,7 @@
           "title": "彻底搞定了，哈哈！\n\n真的很漂亮，目前有日历时钟和番茄钟，只要折叠到对应的角度就会自动触发这个展示样式",
           "url": "https://x.com/op7418/status/2100179069585461507",
           "published_at": "2026-09-16T11:04:44Z",
-          "summary": "彻底搞定了，哈哈！ 真的很漂亮，目前有日历时钟和番茄钟，只要折叠到对应的角度就会自动触发这个展示样式歸藏(guizang.ai)@op7418给我的安卓折叠屏整一个 iPhone Duo 同款应用玩玩 用了原生的 Material Design 风格🔗 View Quoted Tweet💬1🔄1❤️20👀13104📊4⚡ Powered by xgo.ing"
+          "summary": "彻底搞定了，哈哈！ 真的很漂亮，目前有日历时钟和番茄钟，只要折叠到对应的角度就会自动触发这个展示样式歸藏(guizang.ai)@op7418给我的安卓折叠屏整一个 iPhone Duo 同款应用玩玩 用了原生的 Material Design 风格🔗 View Quoted Tweet💬1🔄2❤️22👀14573📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "349ecd6c4abd9a86001a36503babd85d89ea10ae",
@@ -278,12 +322,56 @@
           "title": "Go from inspiration to physical objects with Gemini. \n\nWith Canvas in Gemini, you can code a custom ...",
           "url": "https://x.com/GeminiApp/status/2100276144633434150",
           "published_at": "2026-09-16T17:30:28Z",
-          "summary": "Go from inspiration to physical objects with Gemini. With Canvas in Gemini, you can code a custom app to design a vase and change its mathematical parameters to visualize it in 3D. Then, export it as an .STL file for 3D printing to watch your ideas take shape.💬51🔄101❤️901👀54255📊1…"
+          "summary": "Go from inspiration to physical objects with Gemini. With Canvas in Gemini, you can code a custom app to design a vase and change its mathematical parameters to visualize it in 3D. Then, export it as an .STL file for 3D printing to watch your ideas take shape.💬55🔄116❤️1065👀65389📊…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "50dfee69752c84fee3ac354aebe8b9ef5695ff4b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "🐂🍺 Grok Bot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露",
+      "url": "https://x.com/op7418/status/2100421505536639231",
+      "published_at": "2026-09-17T03:08:05Z",
+      "summary": "🐂🍺 Grok Bot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露Grok Bot@botGrok Bot can now use 1Password. Share items in a vault, approve each fill, and the secrets stay in your password manager.🔗 View Quoted Tweet💬2🔄0❤️16👀5564📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b9e25d0a005896376173f5798beda386a5bb5fea",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "🐂🍺 GorkBot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露",
+      "url": "https://x.com/op7418/status/2100418689346728422",
+      "published_at": "2026-09-17T02:56:54Z",
+      "summary": "🐂🍺 GorkBot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露Grok Bot@botGrok Bot can now use 1Password. Share items in a vault, approve each fill, and the secrets stay in your password manager.🔗 View Quoted Tweet💬0🔄0❤️1👀374⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3a001f9099426461ef6c26701a405bc093b58314",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这也太开放了",
+      "url": "https://x.com/op7418/status/2100415929872273846",
+      "published_at": "2026-09-17T02:45:56Z",
+      "summary": "这也太开放了💬0🔄0❤️3👀2557📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "76702d36a2b07848147c26874c9d43a3a9a228fa",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我操，太整活了！\n\n小米 MiMo 团队居然在直播他们新模型 MiMo-V2.6 的RL 训练过程，看起来是一直在进行自动化的评估和测试。\n\n然后一个特别的点是，它显示了成本，而且成本是实时显示的。\n...",
+      "url": "https://x.com/op7418/status/2100415629383934152",
+      "published_at": "2026-09-17T02:44:44Z",
+      "summary": "我操，太整活了！ 小米 MiMo 团队居然在直播他们新模型 MiMo-V2.6 的RL 训练过程，看起来是一直在进行自动化的评估和测试。 然后一个特别的点是，它显示了成本，而且成本是实时显示的。 你可以看到训一个模型到底有多费钱，每一秒都在涨那个钱！Fuli Luo@_LuoFuliNearly half a year of silence. We spent it studying one problem: how far RL can scale. MiMo-V2.6 is in the middle of its RL run right now.…"
+    },
     {
       "id": "3d882a1c69807068942fa88000e892cfcdfed482",
       "site_id": "featuredrss",
@@ -304,7 +392,7 @@
       "title": "Go from inspiration to physical objects with Gemini. \n\nWith Canvas in Gemini, you can code a custom ...",
       "url": "https://x.com/GeminiApp/status/2100276144633434150",
       "published_at": "2026-09-16T17:30:28Z",
-      "summary": "Go from inspiration to physical objects with Gemini. With Canvas in Gemini, you can code a custom app to design a vase and change its mathematical parameters to visualize it in 3D. Then, export it as an .STL file for 3D printing to watch your ideas take shape.💬51🔄101❤️901👀54255📊1…"
+      "summary": "Go from inspiration to physical objects with Gemini. With Canvas in Gemini, you can code a custom app to design a vase and change its mathematical parameters to visualize it in 3D. Then, export it as an .STL file for 3D printing to watch your ideas take shape.💬55🔄116❤️1065👀65389📊…"
     },
     {
       "id": "1536564798ee552c33e7cbf7fda99ef00a8f84eb",
@@ -315,7 +403,7 @@
       "title": "这里尝试：https://t.co/ILGeMxhTWb",
       "url": "https://x.com/op7418/status/2100255469311041964",
       "published_at": "2026-09-16T16:08:19Z",
-      "summary": "这里尝试：glimpse.cards💬0🔄0❤️2👀1516📊1⚡ Powered by xgo.ing"
+      "summary": "这里尝试：glimpse.cards💬0🔄0❤️2👀1876📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "e734ec9025dc2513619e74deb6bfd1530a40c3c4",
@@ -326,7 +414,7 @@
       "title": "即览 1.01 已经更新了！\n\n如果你之前在使用中遇到了一些问题，可以更新一下。新版本进行了大量的体验优化和视觉样式的重构。\n\n现在更好搜索了，基本上搜名字就能搜出来",
       "url": "https://x.com/op7418/status/2100248136514150904",
       "published_at": "2026-09-16T15:39:11Z",
-      "summary": "即览 1.01 已经更新了！ 如果你之前在使用中遇到了一些问题，可以更新一下。新版本进行了大量的体验优化和视觉样式的重构。 现在更好搜索了，基本上搜名字就能搜出来歸藏(guizang.ai)@op7418居然在美区效率榜单排 44，而且美区是不限免的，谢谢各位❤️🔗 View Quoted Tweet💬5🔄0❤️11👀7192📊4⚡ Powered by xgo.ing"
+      "summary": "即览 1.01 已经更新了！ 如果你之前在使用中遇到了一些问题，可以更新一下。新版本进行了大量的体验优化和视觉样式的重构。 现在更好搜索了，基本上搜名字就能搜出来歸藏(guizang.ai)@op7418居然在美区效率榜单排 44，而且美区是不限免的，谢谢各位❤️🔗 View Quoted Tweet💬6🔄0❤️11👀8514📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "4a38e95bc408b23dfa41f808b99eada4a71ed587",
@@ -337,7 +425,7 @@
       "title": "彻底搞定了，哈哈！\n\n真的很漂亮，目前有日历时钟和番茄钟，只要折叠到对应的角度就会自动触发这个展示样式",
       "url": "https://x.com/op7418/status/2100179069585461507",
       "published_at": "2026-09-16T11:04:44Z",
-      "summary": "彻底搞定了，哈哈！ 真的很漂亮，目前有日历时钟和番茄钟，只要折叠到对应的角度就会自动触发这个展示样式歸藏(guizang.ai)@op7418给我的安卓折叠屏整一个 iPhone Duo 同款应用玩玩 用了原生的 Material Design 风格🔗 View Quoted Tweet💬1🔄1❤️20👀13104📊4⚡ Powered by xgo.ing"
+      "summary": "彻底搞定了，哈哈！ 真的很漂亮，目前有日历时钟和番茄钟，只要折叠到对应的角度就会自动触发这个展示样式歸藏(guizang.ai)@op7418给我的安卓折叠屏整一个 iPhone Duo 同款应用玩玩 用了原生的 Material Design 风格🔗 View Quoted Tweet💬1🔄2❤️22👀14573📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "349ecd6c4abd9a86001a36503babd85d89ea10ae",
