@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T15:36:04.676306Z",
+  "generated_at": "2026-09-18T18:46:57.792711Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1237,
+      "duration_ms": 248,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 21,
+      "duration_ms": 102,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 896,
+      "duration_ms": 1538,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1382,
+      "duration_ms": 1651,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1161,
+      "duration_ms": 1432,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1370,
+      "duration_ms": 1598,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1530,
+      "duration_ms": 1008,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 41,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2264,
+      "duration_ms": 2597,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 662,
+      "duration_ms": 1488,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -206,7 +206,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -214,6 +214,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "a86291c85a6cdd6152cec2fa863e49a1e41910e5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "It’s time for our end-of-week recap 👇\n\n— Gemini 3.8 Live and 3.8 Live Extended Thinking, our most a...",
+          "url": "https://x.com/GoogleAI/status/2101008284010602924",
+          "published_at": "2026-09-18T17:59:44Z",
+          "summary": "It’s time for our end-of-week recap 👇 — Gemini 3.8 Live and 3.8 Live Extended Thinking, our most advanced live dialogue audio models yet — Dreambeans, an experiment from @GoogleLabs that curates a daily personalized collection of stories, is now GA — CC from @GoogleLabs has expan…"
+        },
         {
           "id": "9f65ea0c22d123aa0756625b1788611377ce9713",
           "site_id": "featuredrss",
@@ -256,12 +267,23 @@
           "title": "Astra for Law: Frontier intelligence built for your practice.\n\nA new offering powered by GPT-6 Astra...",
           "url": "https://x.com/OpenAI/status/2100679992720142459",
           "published_at": "2026-09-17T20:15:13Z",
-          "summary": "Astra for Law: Frontier intelligence built for your practice. A new offering powered by GPT-6 Astra with tools, settings, and context to support the expertise and judgment of lawyers and legal technology firms.Your browser does not support the video tag.🔗 View on Twitter💬785🔄1412…"
+          "summary": "Astra for Law: Frontier intelligence built for your practice. A new offering powered by GPT-6 Astra with tools, settings, and context to support the expertise and judgment of lawyers and legal technology firms.Your browser does not support the video tag.🔗 View on Twitter💬853🔄1531…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "a86291c85a6cdd6152cec2fa863e49a1e41910e5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "It’s time for our end-of-week recap 👇\n\n— Gemini 3.8 Live and 3.8 Live Extended Thinking, our most a...",
+      "url": "https://x.com/GoogleAI/status/2101008284010602924",
+      "published_at": "2026-09-18T17:59:44Z",
+      "summary": "It’s time for our end-of-week recap 👇 — Gemini 3.8 Live and 3.8 Live Extended Thinking, our most advanced live dialogue audio models yet — Dreambeans, an experiment from @GoogleLabs that curates a daily personalized collection of stories, is now GA — CC from @GoogleLabs has expan…"
+    },
     {
       "id": "9f2807c8dbadecb94f73e85f4110576f0fdb056d",
       "site_id": "featuredrss",
@@ -315,7 +337,7 @@
       "title": "Astra for Law: Frontier intelligence built for your practice.\n\nA new offering powered by GPT-6 Astra...",
       "url": "https://x.com/OpenAI/status/2100679992720142459",
       "published_at": "2026-09-17T20:15:13Z",
-      "summary": "Astra for Law: Frontier intelligence built for your practice. A new offering powered by GPT-6 Astra with tools, settings, and context to support the expertise and judgment of lawyers and legal technology firms.Your browser does not support the video tag.🔗 View on Twitter💬785🔄1412…"
+      "summary": "Astra for Law: Frontier intelligence built for your practice. A new offering powered by GPT-6 Astra with tools, settings, and context to support the expertise and judgment of lawyers and legal technology firms.Your browser does not support the video tag.🔗 View on Twitter💬853🔄1531…"
     }
   ]
 }
