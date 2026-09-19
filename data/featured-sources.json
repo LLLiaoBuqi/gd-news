@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T23:25:36.502508Z",
+  "generated_at": "2026-09-19T01:21:25.893715Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 187,
+      "duration_ms": 520,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 180,
+      "duration_ms": 37,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1083,
+      "duration_ms": 945,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1576,
+      "duration_ms": 1145,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 952,
+      "duration_ms": 634,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 567,
+      "duration_ms": 1127,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 949,
+      "duration_ms": 427,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12,
+      "duration_ms": 25,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2825,
+      "duration_ms": 2451,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1732,
+      "duration_ms": 1663,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,17 +201,6 @@
           "url": "https://x.com/op7418/status/2101084981443584332",
           "published_at": "2026-09-18T23:04:30Z",
           "summary": "妈的，Claude Code 终于支持 AGENT.md 文件了 默认行为是如果没有 CLAUDE.md 就会执行 AGENT.md 但也可以自己设置成只支持 AGENT.md，不用维护两份规则了Thariq@trq212We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. You…"
-        },
-        {
-          "id": "9f2807c8dbadecb94f73e85f4110576f0fdb056d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "这个只会做选择题的Jev，却是今年我觉得最特别的大模型。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-          "published_at": "2026-09-18T00:08:00Z",
-          "summary": "智能的杰文斯悖论"
         }
       ]
     },
@@ -261,17 +250,6 @@
       "url": "https://x.com/GoogleAI/status/2101008284010602924",
       "published_at": "2026-09-18T17:59:44Z",
       "summary": "It’s time for our end-of-week recap 👇 — Gemini 3.8 Live and 3.8 Live Extended Thinking, our most advanced live dialogue audio models yet — Dreambeans, an experiment from @GoogleLabs that curates a daily personalized collection of stories, is now GA — CC from @GoogleLabs has expan…"
-    },
-    {
-      "id": "9f2807c8dbadecb94f73e85f4110576f0fdb056d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "这个只会做选择题的Jev，却是今年我觉得最特别的大模型。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-      "published_at": "2026-09-18T00:08:00Z",
-      "summary": "智能的杰文斯悖论"
     }
   ]
 }
