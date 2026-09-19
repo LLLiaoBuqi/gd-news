@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T11:17:01.421716Z",
+  "generated_at": "2026-09-19T14:35:06.674486Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1153,
+      "duration_ms": 183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 26,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 945,
+      "duration_ms": 1464,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1096,
+      "duration_ms": 1738,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 919,
+      "duration_ms": 1367,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 652,
+      "duration_ms": 1576,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 711,
+      "duration_ms": 737,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 21,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2408,
+      "duration_ms": 2756,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1687,
+      "duration_ms": 1920,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -203,6 +203,17 @@
           "summary": "发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418用 GPT 做了个可以基于你的代码库生成产品更新宣传片的 skill（guizang-product-video-skill） 它可以直接读你的代码库，把你的组件、配色、logo 和其他素材拿来用，自动写文案、做动效。 最屌的是它的音乐居然是 GPT 用 Python 生成的，直接用代码写音乐，太厉害了！ 视频是纯前端生成的，不依赖生成模型，所以成本很低。 感兴趣可以试试，下面还有几个其他代码库的案例可以看看Your browser does not support…"
         },
         {
+          "id": "baca1dbd08c4e41a05f9620fac9ea9a93792417d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "分享一个帮我快速把陌生领域方法论做成skill的新技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511489&idx=1&sn=dcb0e5f18a5263fd5fa0fa166a055c05",
+          "published_at": "2026-09-19T04:04:00Z",
+          "summary": "这次我要站在前辈们的肩膀上猛猛发力"
+        },
+        {
           "id": "5b2e46fd0b1295dcd71dfa1f9fb7027711c5d196",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -211,7 +222,7 @@
           "title": "这是他基于 T3-Code 的代码库做的更新宣传视频。\n\n可以看到，这个跟上面的 Craft Agent 相比，风格差异还是挺明显的。\n\n因为读了代码库的素材，还有一些视觉样式（包括组件），它都是用的...",
           "url": "https://x.com/op7418/status/2101153286795706760",
           "published_at": "2026-09-19T03:35:55Z",
-          "summary": "这是他基于 T3-Code 的代码库做的更新宣传视频。 可以看到，这个跟上面的 Craft Agent 相比，风格差异还是挺明显的。 因为读了代码库的素材，还有一些视觉样式（包括组件），它都是用的软件里边的组件做的动效，所以用户就很好理解Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️4👀1572📊1⚡ Powered by xgo.ing"
+          "summary": "这是他基于 T3-Code 的代码库做的更新宣传视频。 可以看到，这个跟上面的 Craft Agent 相比，风格差异还是挺明显的。 因为读了代码库的素材，还有一些视觉样式（包括组件），它都是用的软件里边的组件做的动效，所以用户就很好理解Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️4👀1829📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "4adc6b073bcfc307484c488f7fcaae5061f9a337",
@@ -222,7 +233,7 @@
           "title": "这是我把 Craft Agent 的代码拉下来，让他基于代码库做的近期更新内容的宣传视频，一次搞定。\n\n我没有写让他做什么，我也不知道他更新了什么，是他自己扫代码库看到并做出来的",
           "url": "https://x.com/op7418/status/2101153085997633873",
           "published_at": "2026-09-19T03:35:07Z",
-          "summary": "这是我把 Craft Agent 的代码拉下来，让他基于代码库做的近期更新内容的宣传视频，一次搞定。 我没有写让他做什么，我也不知道他更新了什么，是他自己扫代码库看到并做出来的Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️3👀2052📊2⚡ Powered by xgo.ing"
+          "summary": "这是我把 Craft Agent 的代码拉下来，让他基于代码库做的近期更新内容的宣传视频，一次搞定。 我没有写让他做什么，我也不知道他更新了什么，是他自己扫代码库看到并做出来的Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️3👀2401📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "6c7a04c4f3959e4373f7d1b8d53c02d5d4301fd4",
@@ -285,6 +296,17 @@
       "summary": "发了：x.com/op7418/status/…歸藏(guizang.ai)@op7418用 GPT 做了个可以基于你的代码库生成产品更新宣传片的 skill（guizang-product-video-skill） 它可以直接读你的代码库，把你的组件、配色、logo 和其他素材拿来用，自动写文案、做动效。 最屌的是它的音乐居然是 GPT 用 Python 生成的，直接用代码写音乐，太厉害了！ 视频是纯前端生成的，不依赖生成模型，所以成本很低。 感兴趣可以试试，下面还有几个其他代码库的案例可以看看Your browser does not support…"
     },
     {
+      "id": "baca1dbd08c4e41a05f9620fac9ea9a93792417d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "分享一个帮我快速把陌生领域方法论做成skill的新技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511489&idx=1&sn=dcb0e5f18a5263fd5fa0fa166a055c05",
+      "published_at": "2026-09-19T04:04:00Z",
+      "summary": "这次我要站在前辈们的肩膀上猛猛发力"
+    },
+    {
       "id": "5b2e46fd0b1295dcd71dfa1f9fb7027711c5d196",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -293,7 +315,7 @@
       "title": "这是他基于 T3-Code 的代码库做的更新宣传视频。\n\n可以看到，这个跟上面的 Craft Agent 相比，风格差异还是挺明显的。\n\n因为读了代码库的素材，还有一些视觉样式（包括组件），它都是用的...",
       "url": "https://x.com/op7418/status/2101153286795706760",
       "published_at": "2026-09-19T03:35:55Z",
-      "summary": "这是他基于 T3-Code 的代码库做的更新宣传视频。 可以看到，这个跟上面的 Craft Agent 相比，风格差异还是挺明显的。 因为读了代码库的素材，还有一些视觉样式（包括组件），它都是用的软件里边的组件做的动效，所以用户就很好理解Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️4👀1572📊1⚡ Powered by xgo.ing"
+      "summary": "这是他基于 T3-Code 的代码库做的更新宣传视频。 可以看到，这个跟上面的 Craft Agent 相比，风格差异还是挺明显的。 因为读了代码库的素材，还有一些视觉样式（包括组件），它都是用的软件里边的组件做的动效，所以用户就很好理解Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️4👀1829📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "4adc6b073bcfc307484c488f7fcaae5061f9a337",
@@ -304,7 +326,7 @@
       "title": "这是我把 Craft Agent 的代码拉下来，让他基于代码库做的近期更新内容的宣传视频，一次搞定。\n\n我没有写让他做什么，我也不知道他更新了什么，是他自己扫代码库看到并做出来的",
       "url": "https://x.com/op7418/status/2101153085997633873",
       "published_at": "2026-09-19T03:35:07Z",
-      "summary": "这是我把 Craft Agent 的代码拉下来，让他基于代码库做的近期更新内容的宣传视频，一次搞定。 我没有写让他做什么，我也不知道他更新了什么，是他自己扫代码库看到并做出来的Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️3👀2052📊2⚡ Powered by xgo.ing"
+      "summary": "这是我把 Craft Agent 的代码拉下来，让他基于代码库做的近期更新内容的宣传视频，一次搞定。 我没有写让他做什么，我也不知道他更新了什么，是他自己扫代码库看到并做出来的Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️3👀2401📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "6c7a04c4f3959e4373f7d1b8d53c02d5d4301fd4",
