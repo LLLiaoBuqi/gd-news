@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-21T10:54:52.708508Z",
+  "generated_at": "2026-09-21T16:43:38.927300Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 504,
+      "duration_ms": 545,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 30,
+      "duration_ms": 18,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1005,
+      "duration_ms": 751,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1424,
+      "duration_ms": 1321,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 881,
+      "duration_ms": 739,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 812,
+      "duration_ms": 460,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 413,
+      "duration_ms": 1102,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 12,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2062,
+      "duration_ms": 1943,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 2,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1640,
+      "duration_ms": 1510,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "fcd0ce5d51485e42a932e747f09a638be4a259d3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测阶跃星辰新模型Step 5 Preview，网页复刻这块我愿称之为天才程序员级",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511578&idx=1&sn=f468f88e308cf28a8b94ae2bee0186ca",
+          "published_at": "2026-09-21T08:20:00Z",
+          "summary": "好用模型+1"
+        },
         {
           "id": "25751e53228bb92b5cf83eedc79ddb71316915d3",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "5 美元有效期 30 天",
           "url": "https://x.com/op7418/status/2101889116514509046",
           "published_at": "2026-09-21T04:19:51Z",
-          "summary": "5 美元有效期 30 天💬0🔄0❤️1👀2394📊1⚡ Powered by xgo.ing"
+          "summary": "5 美元有效期 30 天💬0🔄0❤️1👀2798📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "f5f31bd85ca10c897318138cb02bb928e912bec4",
@@ -211,7 +222,7 @@
           "title": "来源：https://t.co/SFXYNZbrT6",
           "url": "https://x.com/op7418/status/2101874659893625068",
           "published_at": "2026-09-21T03:22:24Z",
-          "summary": "来源：x.com/typesafeai/sta…TypeSafe AI@typesafeaiJev is now available to everyone. No waitlist. Start using it here: console.typesafe.ai🔗 View Quoted Tweet💬0🔄0❤️0👀2957⚡ Powered by xgo.ing"
+          "summary": "来源：x.com/typesafeai/sta…TypeSafe AI@typesafeaiJev is now available to everyone. No waitlist. Start using it here: console.typesafe.ai🔗 View Quoted Tweet💬0🔄0❤️0👀3289⚡ Powered by xgo.ing"
         },
         {
           "id": "d5ea3a8c00dcee1eb6a8fdc3e88ad52f9b369f42",
@@ -233,7 +244,7 @@
           "title": "我的 JEV 案例：https://t.co/KUnD8dF6NS",
           "url": "https://x.com/op7418/status/2101871633556525274",
           "published_at": "2026-09-21T03:10:22Z",
-          "summary": "我的 JEV 案例：x.com/op7418/status/…歸藏(guizang.ai)@op7418我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀3998📊1⚡ Powe…"
+          "summary": "我的 JEV 案例：x.com/op7418/status/…歸藏(guizang.ai)@op7418我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀4740📊1⚡ Powe…"
         },
         {
           "id": "0bba37bf86344e78975458530a7ec060893d64b3",
@@ -244,7 +255,7 @@
           "title": "先更新了音频：https://t.co/GiGu0pSNX7",
           "url": "https://x.com/op7418/status/2101870845216141351",
           "published_at": "2026-09-21T03:07:15Z",
-          "summary": "先更新了音频：xiaoyuzhoufm.com/episode/6ab064…💬1🔄0❤️1👀3542📊1⚡ Powered by xgo.ing"
+          "summary": "先更新了音频：xiaoyuzhoufm.com/episode/6ab064…💬1🔄0❤️2👀4169📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "a2bf461738c4b092d0a08e02af7752efce372974",
@@ -284,6 +295,17 @@
   },
   "items": [
     {
+      "id": "fcd0ce5d51485e42a932e747f09a638be4a259d3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测阶跃星辰新模型Step 5 Preview，网页复刻这块我愿称之为天才程序员级",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511578&idx=1&sn=f468f88e308cf28a8b94ae2bee0186ca",
+      "published_at": "2026-09-21T08:20:00Z",
+      "summary": "好用模型+1"
+    },
+    {
       "id": "25751e53228bb92b5cf83eedc79ddb71316915d3",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -292,7 +314,7 @@
       "title": "5 美元有效期 30 天",
       "url": "https://x.com/op7418/status/2101889116514509046",
       "published_at": "2026-09-21T04:19:51Z",
-      "summary": "5 美元有效期 30 天💬0🔄0❤️1👀2394📊1⚡ Powered by xgo.ing"
+      "summary": "5 美元有效期 30 天💬0🔄0❤️1👀2798📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "f5f31bd85ca10c897318138cb02bb928e912bec4",
@@ -303,7 +325,7 @@
       "title": "来源：https://t.co/SFXYNZbrT6",
       "url": "https://x.com/op7418/status/2101874659893625068",
       "published_at": "2026-09-21T03:22:24Z",
-      "summary": "来源：x.com/typesafeai/sta…TypeSafe AI@typesafeaiJev is now available to everyone. No waitlist. Start using it here: console.typesafe.ai🔗 View Quoted Tweet💬0🔄0❤️0👀2957⚡ Powered by xgo.ing"
+      "summary": "来源：x.com/typesafeai/sta…TypeSafe AI@typesafeaiJev is now available to everyone. No waitlist. Start using it here: console.typesafe.ai🔗 View Quoted Tweet💬0🔄0❤️0👀3289⚡ Powered by xgo.ing"
     },
     {
       "id": "d5ea3a8c00dcee1eb6a8fdc3e88ad52f9b369f42",
@@ -325,7 +347,7 @@
       "title": "我的 JEV 案例：https://t.co/KUnD8dF6NS",
       "url": "https://x.com/op7418/status/2101871633556525274",
       "published_at": "2026-09-21T03:10:22Z",
-      "summary": "我的 JEV 案例：x.com/op7418/status/…歸藏(guizang.ai)@op7418我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀3998📊1⚡ Powe…"
+      "summary": "我的 JEV 案例：x.com/op7418/status/…歸藏(guizang.ai)@op7418我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀4740📊1⚡ Powe…"
     },
     {
       "id": "0bba37bf86344e78975458530a7ec060893d64b3",
@@ -336,7 +358,7 @@
       "title": "先更新了音频：https://t.co/GiGu0pSNX7",
       "url": "https://x.com/op7418/status/2101870845216141351",
       "published_at": "2026-09-21T03:07:15Z",
-      "summary": "先更新了音频：xiaoyuzhoufm.com/episode/6ab064…💬1🔄0❤️1👀3542📊1⚡ Powered by xgo.ing"
+      "summary": "先更新了音频：xiaoyuzhoufm.com/episode/6ab064…💬1🔄0❤️2👀4169📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "a2bf461738c4b092d0a08e02af7752efce372974",
