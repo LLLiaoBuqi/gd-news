@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-21T00:21:33.014666Z",
+  "generated_at": "2026-09-21T05:12:46.497241Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 309,
+      "duration_ms": 318,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 30,
+      "duration_ms": 33,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1184,
+      "duration_ms": 1154,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1577,
+      "duration_ms": 1520,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1031,
+      "duration_ms": 1183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1066,
+      "duration_ms": 909,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 821,
+      "duration_ms": 1103,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 36,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2486,
+      "duration_ms": 2089,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1829,
+      "duration_ms": 1827,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,79 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "25751e53228bb92b5cf83eedc79ddb71316915d3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "5 美元有效期 30 天",
+          "url": "https://x.com/op7418/status/2101889116514509046",
+          "published_at": "2026-09-21T04:19:51Z",
+          "summary": "5 美元有效期 30 天💬0🔄0❤️0👀446⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "f5f31bd85ca10c897318138cb02bb928e912bec4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "来源：https://t.co/SFXYNZbrT6",
+          "url": "https://x.com/op7418/status/2101874659893625068",
+          "published_at": "2026-09-21T03:22:24Z",
+          "summary": "来源：x.com/typesafeai/sta…TypeSafe AI@typesafeaiJev is now available to everyone. No waitlist. Start using it here: console.typesafe.ai🔗 View Quoted Tweet💬0🔄0❤️0👀1720⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d5ea3a8c00dcee1eb6a8fdc3e88ad52f9b369f42",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "现在，TypeSafe 的 JEV 模型已经全量开放了，不需要申请等待列表。\n\n而且每个人有 5 美元的免费额度，这模型非常便宜，5 美元够你用好久了！可以去试试我这个案例了",
+          "url": "https://x.com/op7418/status/2101874580432552170",
+          "published_at": "2026-09-21T03:22:05Z",
+          "summary": "现在，TypeSafe 的 JEV 模型已经全量开放了，不需要申请等待列表。 而且每个人有 5 美元的免费额度，这模型非常便宜，5 美元够你用好久了！可以去试试我这个案例了歸藏(guizang.ai)@op7418我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗…"
+        },
+        {
+          "id": "b23208622686b19491777924e5cf82d7f48d44f7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我的 JEV 案例：https://t.co/KUnD8dF6NS",
+          "url": "https://x.com/op7418/status/2101871633556525274",
+          "published_at": "2026-09-21T03:10:22Z",
+          "summary": "我的 JEV 案例：x.com/op7418/status/…歸藏(guizang.ai)@op7418我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀2057📊1⚡ Powe…"
+        },
+        {
+          "id": "0bba37bf86344e78975458530a7ec060893d64b3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "先更新了音频：https://t.co/GiGu0pSNX7",
+          "url": "https://x.com/op7418/status/2101870845216141351",
+          "published_at": "2026-09-21T03:07:15Z",
+          "summary": "先更新了音频：xiaoyuzhoufm.com/episode/6ab064…💬1🔄0❤️1👀1813📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a2bf461738c4b092d0a08e02af7752efce372974",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "估计 AI 圈大家都没有预料到，在有 GPT-Astra 和 Fable 发布以后，还能有这么热的新类型模型火起来。\n\nJEV 能这么火，一方面是确实解决了某些问题；另一个核心原因在于它的速度优势非常...",
+          "url": "https://x.com/op7418/status/2101870777465557020",
+          "published_at": "2026-09-21T03:06:58Z",
+          "summary": "估计 AI 圈大家都没有预料到，在有 GPT-Astra 和 Fable 发布以后，还能有这么热的新类型模型火起来。 JEV 能这么火，一方面是确实解决了某些问题；另一个核心原因在于它的速度优势非常易于传播。 速度和数量它都占了。你会发现那些网页里演示 JEV 的案例，都会展示它的速度以及处理的数量，这最能给人原始刺激，也说明大家确实对这两点非常重视，所以各种 Demo 和案例就疯狂传播。 当然这个模型也不是万能的。如果硬要让它脱离大语言模型只靠自己工作，应用场景其实比较有限；但如果加上大模型辅助或其他工具，效果会非常好。 同时它现在还缺一个多模态，如果…"
+        },
         {
           "id": "7d51a08c7d0a918a3727da586427d9baa3f32be7",
           "site_id": "featuredrss",
@@ -200,29 +266,7 @@
           "title": "上到线上了，现在所有人都可以玩。\n\n如果你有 TypeSafe AI 的，也就是 JEV 官方的 API 的话，需要自带 API\n\nhttps://t.co/mfW1W8ImUt",
           "url": "https://x.com/op7418/status/2101579527919124682",
           "published_at": "2026-09-20T07:49:39Z",
-          "summary": "上到线上了，现在所有人都可以玩。 如果你有 TypeSafe AI 的，也就是 JEV 官方的 API 的话，需要自带 API form-jev-scene-lab.op7418.chatgpt.site💬0🔄0❤️8👀4620📊4⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3a2a9b5ff99deda9a77aa95988afb9647bc9b3a2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "那些做游戏的厂商，他们的素材库非常丰富，用这种思路来做的话。\n\n就可以直接从素材库里快速生成各种游戏环境和地图场景，用来做 demo 和演示非常有用。",
-          "url": "https://x.com/op7418/status/2101538086748598554",
-          "published_at": "2026-09-20T05:04:59Z",
-          "summary": "那些做游戏的厂商，他们的素材库非常丰富，用这种思路来做的话。 就可以直接从素材库里快速生成各种游戏环境和地图场景，用来做 demo 和演示非常有用。💬2🔄0❤️4👀7412📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "41ce2ada77485d9e715357d71b2957b81eb7f7c8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我用 @typesafeai  JEV 模型做了一个实时 3D 场景生成器。\n\n这个速度实在太夸张了！\n\n从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。\n\n同时对这些素材的着...",
-          "url": "https://x.com/op7418/status/2101536330018918793",
-          "published_at": "2026-09-20T04:58:00Z",
-          "summary": "我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗 View on Twitter💬125🔄62❤️535👀64192📊261⚡ Powered by xgo.ing"
+          "summary": "上到线上了，现在所有人都可以玩。 如果你有 TypeSafe AI 的，也就是 JEV 官方的 API 的话，需要自带 API form-jev-scene-lab.op7418.chatgpt.site💬0🔄0❤️12👀5574📊4⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -240,6 +284,72 @@
   },
   "items": [
     {
+      "id": "25751e53228bb92b5cf83eedc79ddb71316915d3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "5 美元有效期 30 天",
+      "url": "https://x.com/op7418/status/2101889116514509046",
+      "published_at": "2026-09-21T04:19:51Z",
+      "summary": "5 美元有效期 30 天💬0🔄0❤️0👀446⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "f5f31bd85ca10c897318138cb02bb928e912bec4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "来源：https://t.co/SFXYNZbrT6",
+      "url": "https://x.com/op7418/status/2101874659893625068",
+      "published_at": "2026-09-21T03:22:24Z",
+      "summary": "来源：x.com/typesafeai/sta…TypeSafe AI@typesafeaiJev is now available to everyone. No waitlist. Start using it here: console.typesafe.ai🔗 View Quoted Tweet💬0🔄0❤️0👀1720⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d5ea3a8c00dcee1eb6a8fdc3e88ad52f9b369f42",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "现在，TypeSafe 的 JEV 模型已经全量开放了，不需要申请等待列表。\n\n而且每个人有 5 美元的免费额度，这模型非常便宜，5 美元够你用好久了！可以去试试我这个案例了",
+      "url": "https://x.com/op7418/status/2101874580432552170",
+      "published_at": "2026-09-21T03:22:05Z",
+      "summary": "现在，TypeSafe 的 JEV 模型已经全量开放了，不需要申请等待列表。 而且每个人有 5 美元的免费额度，这模型非常便宜，5 美元够你用好久了！可以去试试我这个案例了歸藏(guizang.ai)@op7418我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗…"
+    },
+    {
+      "id": "b23208622686b19491777924e5cf82d7f48d44f7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我的 JEV 案例：https://t.co/KUnD8dF6NS",
+      "url": "https://x.com/op7418/status/2101871633556525274",
+      "published_at": "2026-09-21T03:10:22Z",
+      "summary": "我的 JEV 案例：x.com/op7418/status/…歸藏(guizang.ai)@op7418我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀2057📊1⚡ Powe…"
+    },
+    {
+      "id": "0bba37bf86344e78975458530a7ec060893d64b3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "先更新了音频：https://t.co/GiGu0pSNX7",
+      "url": "https://x.com/op7418/status/2101870845216141351",
+      "published_at": "2026-09-21T03:07:15Z",
+      "summary": "先更新了音频：xiaoyuzhoufm.com/episode/6ab064…💬1🔄0❤️1👀1813📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a2bf461738c4b092d0a08e02af7752efce372974",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "估计 AI 圈大家都没有预料到，在有 GPT-Astra 和 Fable 发布以后，还能有这么热的新类型模型火起来。\n\nJEV 能这么火，一方面是确实解决了某些问题；另一个核心原因在于它的速度优势非常...",
+      "url": "https://x.com/op7418/status/2101870777465557020",
+      "published_at": "2026-09-21T03:06:58Z",
+      "summary": "估计 AI 圈大家都没有预料到，在有 GPT-Astra 和 Fable 发布以后，还能有这么热的新类型模型火起来。 JEV 能这么火，一方面是确实解决了某些问题；另一个核心原因在于它的速度优势非常易于传播。 速度和数量它都占了。你会发现那些网页里演示 JEV 的案例，都会展示它的速度以及处理的数量，这最能给人原始刺激，也说明大家确实对这两点非常重视，所以各种 Demo 和案例就疯狂传播。 当然这个模型也不是万能的。如果硬要让它脱离大语言模型只靠自己工作，应用场景其实比较有限；但如果加上大模型辅助或其他工具，效果会非常好。 同时它现在还缺一个多模态，如果…"
+    },
+    {
       "id": "7d51a08c7d0a918a3727da586427d9baa3f32be7",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -248,29 +358,7 @@
       "title": "上到线上了，现在所有人都可以玩。\n\n如果你有 TypeSafe AI 的，也就是 JEV 官方的 API 的话，需要自带 API\n\nhttps://t.co/mfW1W8ImUt",
       "url": "https://x.com/op7418/status/2101579527919124682",
       "published_at": "2026-09-20T07:49:39Z",
-      "summary": "上到线上了，现在所有人都可以玩。 如果你有 TypeSafe AI 的，也就是 JEV 官方的 API 的话，需要自带 API form-jev-scene-lab.op7418.chatgpt.site💬0🔄0❤️8👀4620📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3a2a9b5ff99deda9a77aa95988afb9647bc9b3a2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "那些做游戏的厂商，他们的素材库非常丰富，用这种思路来做的话。\n\n就可以直接从素材库里快速生成各种游戏环境和地图场景，用来做 demo 和演示非常有用。",
-      "url": "https://x.com/op7418/status/2101538086748598554",
-      "published_at": "2026-09-20T05:04:59Z",
-      "summary": "那些做游戏的厂商，他们的素材库非常丰富，用这种思路来做的话。 就可以直接从素材库里快速生成各种游戏环境和地图场景，用来做 demo 和演示非常有用。💬2🔄0❤️4👀7412📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "41ce2ada77485d9e715357d71b2957b81eb7f7c8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我用 @typesafeai  JEV 模型做了一个实时 3D 场景生成器。\n\n这个速度实在太夸张了！\n\n从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。\n\n同时对这些素材的着...",
-      "url": "https://x.com/op7418/status/2101536330018918793",
-      "published_at": "2026-09-20T04:58:00Z",
-      "summary": "我用 @typesafeai JEV 模型做了一个实时 3D 场景生成器。 这个速度实在太夸张了！ 从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。 同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。Your browser does not support the video tag.🔗 View on Twitter💬125🔄62❤️535👀64192📊261⚡ Powered by xgo.ing"
+      "summary": "上到线上了，现在所有人都可以玩。 如果你有 TypeSafe AI 的，也就是 JEV 官方的 API 的话，需要自带 API form-jev-scene-lab.op7418.chatgpt.site💬0🔄0❤️12👀5574📊4⚡ Powered by xgo.ing"
     }
   ]
 }
