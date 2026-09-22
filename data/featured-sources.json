@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T13:32:20.817297Z",
+  "generated_at": "2026-09-22T17:51:20.888775Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 211,
+      "duration_ms": 938,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 13,
+      "duration_ms": 32,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1422,
+      "duration_ms": 1067,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1804,
+      "duration_ms": 1489,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1248,
+      "duration_ms": 630,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 834,
+      "duration_ms": 468,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 780,
+      "duration_ms": 949,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2824,
+      "duration_ms": 2445,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 789,
+      "duration_ms": 1698,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "531e2d9ebb5ec4267b80c31107a70ad93114ad55",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Opus 5.5 来了，他们说这次 Opus 5.5 的大部分能力达到了 Fable 5.1 的水平。\n\n这次居然降价了，比原来的 Opus 5.0 降了一点点，平均任务消耗的金额也降了 40%。\n\n...",
+          "url": "https://x.com/op7418/status/2102438056293003424",
+          "published_at": "2026-09-22T16:41:08Z",
+          "summary": "Opus 5.5 来了，他们说这次 Opus 5.5 的大部分能力达到了 Fable 5.1 的水平。 这次居然降价了，比原来的 Opus 5.0 降了一点点，平均任务消耗的金额也降了 40%。 同时增加了 5 小时的使用额度并且重置了。 最重要的是，优化了它的写作和回复问题。 到时候试试看是不是开始说人话了Claude@claudeaiIntroducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude…"
+        },
+        {
+          "id": "aee7493429fa24d1ab84b53a4ec374dc675a7a48",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了",
+          "url": "https://x.com/op7418/status/2102383737069879362",
+          "published_at": "2026-09-22T13:05:17Z",
+          "summary": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了DHH@dhhThrilled to announce @alibaba_cloud as a Founding Corporate Patron for the Omacom Foundation! $3 million in funding, collaboration on Omarchy China, and bringing Omarchy to the newly announced Qwen Book. Agentic computers need…"
+        },
         {
           "id": "d5e48d0c1cc6843760aac45a05e1fdd354200898",
           "site_id": "featuredrss",
@@ -248,6 +270,17 @@
       ],
       "items": [
         {
+          "id": "8edeb0aa7fc931eaac7d51aa2f8f4a78d71bcf9b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments w...",
+          "url": "https://x.com/OpenAI/status/2102447425243828347",
+          "published_at": "2026-09-22T17:18:22Z",
+          "summary": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment. That access should enable third party assessors to challenge our assumptions, identify risks we may have miss…"
+        },
+        {
           "id": "1f970b176ebf1f3ecab839b08e22af0e8c99e550",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -257,22 +290,44 @@
           "url": "https://x.com/GeminiApp/status/2102129380042666458",
           "published_at": "2026-09-21T20:14:34Z",
           "summary": "Join us for a live demo of how you can use Gemini to shop. Whether you're trying to make informed purchases, comparing options, or browsing with a snap of your camera, you can shop smarter with the power of Gemini. 👉 Join the Discord to watch live:discord.gg/geminih 📅 Tuesday, Se…"
-        },
-        {
-          "id": "b234425cdea7e16beea4a4e6760caca14755c1ce",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re working with an independent advisory group of mathematicians to help OpenAI responsibly share ...",
-          "url": "https://x.com/OpenAI/status/2102093145051943229",
-          "published_at": "2026-09-21T17:50:35Z",
-          "summary": "We’re working with an independent advisory group of mathematicians to help OpenAI responsibly share advances in AI and mathematics. The group will advise on how we assess and communicate new mathematical results, uphold academic and professional standards, and build tools that su…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "8edeb0aa7fc931eaac7d51aa2f8f4a78d71bcf9b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments w...",
+      "url": "https://x.com/OpenAI/status/2102447425243828347",
+      "published_at": "2026-09-22T17:18:22Z",
+      "summary": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment. That access should enable third party assessors to challenge our assumptions, identify risks we may have miss…"
+    },
+    {
+      "id": "531e2d9ebb5ec4267b80c31107a70ad93114ad55",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Opus 5.5 来了，他们说这次 Opus 5.5 的大部分能力达到了 Fable 5.1 的水平。\n\n这次居然降价了，比原来的 Opus 5.0 降了一点点，平均任务消耗的金额也降了 40%。\n\n...",
+      "url": "https://x.com/op7418/status/2102438056293003424",
+      "published_at": "2026-09-22T16:41:08Z",
+      "summary": "Opus 5.5 来了，他们说这次 Opus 5.5 的大部分能力达到了 Fable 5.1 的水平。 这次居然降价了，比原来的 Opus 5.0 降了一点点，平均任务消耗的金额也降了 40%。 同时增加了 5 小时的使用额度并且重置了。 最重要的是，优化了它的写作和回复问题。 到时候试试看是不是开始说人话了Claude@claudeaiIntroducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude…"
+    },
+    {
+      "id": "aee7493429fa24d1ab84b53a4ec374dc675a7a48",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了",
+      "url": "https://x.com/op7418/status/2102383737069879362",
+      "published_at": "2026-09-22T13:05:17Z",
+      "summary": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了DHH@dhhThrilled to announce @alibaba_cloud as a Founding Corporate Patron for the Omacom Foundation! $3 million in funding, collaboration on Omarchy China, and bringing Omarchy to the newly announced Qwen Book. Agentic computers need…"
+    },
     {
       "id": "d5e48d0c1cc6843760aac45a05e1fdd354200898",
       "site_id": "featuredrss",
@@ -327,17 +382,6 @@
       "url": "https://x.com/GeminiApp/status/2102129380042666458",
       "published_at": "2026-09-21T20:14:34Z",
       "summary": "Join us for a live demo of how you can use Gemini to shop. Whether you're trying to make informed purchases, comparing options, or browsing with a snap of your camera, you can shop smarter with the power of Gemini. 👉 Join the Discord to watch live:discord.gg/geminih 📅 Tuesday, Se…"
-    },
-    {
-      "id": "b234425cdea7e16beea4a4e6760caca14755c1ce",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re working with an independent advisory group of mathematicians to help OpenAI responsibly share ...",
-      "url": "https://x.com/OpenAI/status/2102093145051943229",
-      "published_at": "2026-09-21T17:50:35Z",
-      "summary": "We’re working with an independent advisory group of mathematicians to help OpenAI responsibly share advances in AI and mathematics. The group will advise on how we assess and communicate new mathematical results, uphold academic and professional standards, and build tools that su…"
     }
   ]
 }
