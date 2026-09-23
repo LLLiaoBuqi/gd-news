@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-23T12:50:49.448983Z",
+  "generated_at": "2026-09-23T17:38:05.755059Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 21,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 704,
+      "duration_ms": 353,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1289,
+      "duration_ms": 1159,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1554,
+      "duration_ms": 1589,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 913,
+      "duration_ms": 1164,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 466,
+      "duration_ms": 840,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 980,
+      "duration_ms": 929,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 36,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2095,
+      "duration_ms": 2365,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1663,
+      "duration_ms": 1798,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -192,6 +192,39 @@
       ],
       "items": [
         {
+          "id": "d725818c4290b1b3b21fbe71e105260b1f8ed5f7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "可以见到现在国内的竞争多么激烈。\n\n这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。\n\n结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。\n\n那...",
+          "url": "https://x.com/op7418/status/2102806761711546875",
+          "published_at": "2026-09-23T17:06:14Z",
+          "summary": "可以见到现在国内的竞争多么激烈。 这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。 结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。 那么这些人是哪来的呢？很好奇，以前确实从来没有出现过这种情况。歸藏(guizang.ai)@op7418我内测了很久的 Today AI，在 24 号国内就能全量上线了。 这应该是国内我看到的第一个贯彻 personal agent 概念的产品。 它在交互体验、上下文获取、使用体验和一些细节地方做得特别好。 我从内测开始就一直在用，到时候可以试试。🔗 View Qu…"
+        },
+        {
+          "id": "98d916170ab554644d3fbf40a1f711dba272d0ea",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "发可以，不要频繁地刷屏和回复哈。\n\n然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了",
+          "url": "https://x.com/op7418/status/2102806696641138892",
+          "published_at": "2026-09-23T17:05:59Z",
+          "summary": "发可以，不要频繁地刷屏和回复哈。 然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了💬0🔄0❤️0👀171⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "6378cbd4b7e0efaaad4b9f8dc9ee5521dfd5a4c5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Muse 这个头像也很好玩，可以自定义的\n\n他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑",
+          "url": "https://x.com/op7418/status/2102802137906630955",
+          "published_at": "2026-09-23T16:47:52Z",
+          "summary": "Muse 这个头像也很好玩，可以自定义的 他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑💬2🔄0❤️0👀1200📊2⚡ Powered by xgo.ing"
+        },
+        {
           "id": "70bd8b424910f86d92dea793f2f5d91ffb5d57ea",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -200,7 +233,7 @@
           "title": "终于用上最近很火的 Muse 了！\n\nAnthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。\n\n根本不给你被封号的机会。",
           "url": "https://x.com/op7418/status/2102727307693813921",
           "published_at": "2026-09-23T11:50:31Z",
-          "summary": "终于用上最近很火的 Muse 了！ Anthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。 根本不给你被封号的机会。💬1🔄0❤️6👀806📊2⚡ Powered by xgo.ing"
+          "summary": "终于用上最近很火的 Muse 了！ Anthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。 根本不给你被封号的机会。💬139🔄5❤️159👀111697📊140⚡ Powered by xgo.ing"
         },
         {
           "id": "27cc494758ec3ba2c5589be079485f28bf613297",
@@ -222,7 +255,7 @@
           "title": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行",
           "url": "https://x.com/op7418/status/2102610094508974493",
           "published_at": "2026-09-23T04:04:45Z",
-          "summary": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行💬0🔄1❤️3👀4367📊1⚡ Powered by xgo.ing"
+          "summary": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行💬0🔄1❤️6👀5399📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "aa412b4114b1fe129001101df4660da4276f9a7c",
@@ -233,7 +266,7 @@
           "title": "https://t.co/0CZSHVA7yp",
           "url": "https://x.com/op7418/status/2102590728677540290",
           "published_at": "2026-09-23T02:47:48Z",
-          "summary": "github.com/op7418/Humaniz…💬1🔄5❤️32👀6627📊14⚡ Powered by xgo.ing"
+          "summary": "github.com/op7418/Humaniz…💬2🔄5❤️42👀7992📊17⚡ Powered by xgo.ing"
         },
         {
           "id": "5f99679825637b5802d949ff0e3f74cd2c8a3ad3",
@@ -244,7 +277,7 @@
           "title": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！\n\n这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。\n\n大家可以试试。如...",
           "url": "https://x.com/op7418/status/2102590676156432876",
           "published_at": "2026-09-23T02:47:36Z",
-          "summary": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！ 这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。 大家可以试试。如果有问题，可以在 issue 里反馈💬81🔄85❤️612👀47220📊260⚡ Powered by xgo.ing"
+          "summary": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！ 这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。 大家可以试试。如果有问题，可以在 issue 里反馈💬128🔄129❤️833👀64299📊369⚡ Powered by xgo.ing"
         },
         {
           "id": "e98f9e127610f159a080cac06c8cc8487cda46e6",
@@ -256,45 +289,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686632&idx=1&sn=a2f12c73bae55d0293e3ed02bebd59c9",
           "published_at": "2026-09-22T22:37:00Z",
           "summary": "属于帕累托前沿的战争"
-        },
-        {
-          "id": "531e2d9ebb5ec4267b80c31107a70ad93114ad55",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Opus 5.5 来了，他们说这次 Opus 5.5 的大部分能力达到了 Fable 5.1 的水平。\n\n这次居然降价了，比原来的 Opus 5.0 降了一点点，平均任务消耗的金额也降了 40%。\n\n...",
-          "url": "https://x.com/op7418/status/2102438056293003424",
-          "published_at": "2026-09-22T16:41:08Z",
-          "summary": "Opus 5.5 来了，他们说这次 Opus 5.5 的大部分能力达到了 Fable 5.1 的水平。 这次居然降价了，比原来的 Opus 5.0 降了一点点，平均任务消耗的金额也降了 40%。 同时增加了 5 小时的使用额度并且重置了。 最重要的是，优化了它的写作和回复问题。 到时候试试看是不是开始说人话了Claude@claudeaiIntroducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude…"
-        },
-        {
-          "id": "aee7493429fa24d1ab84b53a4ec374dc675a7a48",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了",
-          "url": "https://x.com/op7418/status/2102383737069879362",
-          "published_at": "2026-09-22T13:05:17Z",
-          "summary": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了DHH@dhhThrilled to announce @alibaba_cloud as a Founding Corporate Patron for the Omacom Foundation! $3 million in funding, collaboration on Omarchy China, and bringing Omarchy to the newly announced Qwen Book. Agentic computers need…"
-        },
-        {
-          "id": "d5e48d0c1cc6843760aac45a05e1fdd354200898",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我内测了很久的 Today AI，在 24 号国内就能全量上线了。\n\n这应该是国内我看到的第一个贯彻 personal agent 概念的产品。\n\n它在交互体验、上下文获取、使用体验和一些细节地方做得...",
-          "url": "https://x.com/op7418/status/2102380784179130715",
-          "published_at": "2026-09-22T12:53:33Z",
-          "summary": "我内测了很久的 Today AI，在 24 号国内就能全量上线了。 这应该是国内我看到的第一个贯彻 personal agent 概念的产品。 它在交互体验、上下文获取、使用体验和一些细节地方做得特别好。 我从内测开始就一直在用，到时候可以试试。Today AI@TodayAIofficial9月24日，和 Today 见面。 Today 中国版将于9月正式上线。你的专属 AI 助理会逐渐记住与你有关的事，在需要时主动帮你。 Meet Today on September 24. Today launches in China. Your persona…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 12,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -302,6 +302,94 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "2b131fca1dbec24adb4b46cff7056955284970a1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "This new slate of MCP connections is rolling out in the Gemini app today.\n\nTo learn more about how y...",
+          "url": "https://x.com/GeminiApp/status/2102792109086687639",
+          "published_at": "2026-09-23T16:08:01Z",
+          "summary": "This new slate of MCP connections is rolling out in the Gemini app today. To learn more about how you can connect your favorite services directly to Gemini, visit our blog: goo.gle/47ee3Kf💬0🔄0❤️7👀3495📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "0f84e48d8322fa87653b086052975320249bbbe6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Summarize meetings, capture voice notes, and extract action items with @WisprFlow.\n\nJust as Gemini t...",
+          "url": "https://x.com/GeminiApp/status/2102792107140534658",
+          "published_at": "2026-09-23T16:08:00Z",
+          "summary": "Summarize meetings, capture voice notes, and extract action items with @WisprFlow. Just as Gemini to “Check what decisions came out of my most recent meetings with Wispr.”💬1🔄0❤️7👀3726📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "ce0d7f2cf664a85bdbb01d8b4815e84cb78b8a3e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Search and query your workspaces, bases, and manage your tables, records, pages, and automation with...",
+          "url": "https://x.com/GeminiApp/status/2102792097392972228",
+          "published_at": "2026-09-23T16:07:58Z",
+          "summary": "Search and query your workspaces, bases, and manage your tables, records, pages, and automation with @Airtable. Just ask Gemini to “Find all open tasks in my Project Management base on Airtable.”💬1🔄1❤️8👀1308📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "51cc1ef61ae79bec5d224e01339a69e7661639b3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Brainstorm and search for domains with @Squarespace.\n\nJust ask Gemini to “Find domains for my new in...",
+          "url": "https://x.com/GeminiApp/status/2102792095446815039",
+          "published_at": "2026-09-23T16:07:58Z",
+          "summary": "Brainstorm and search for domains with @Squarespace. Just ask Gemini to “Find domains for my new interior design business in Squarespace.”💬1🔄0❤️5👀975📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "ca01089804e2b98e11421a5cb81c03b05e8d1225",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Search for and schedule classes, and create multi-day training plans with @OnePeloton.\n\nJust ask Gem...",
+          "url": "https://x.com/GeminiApp/status/2102792093521559832",
+          "published_at": "2026-09-23T16:07:57Z",
+          "summary": "Search for and schedule classes, and create multi-day training plans with @OnePeloton. Just ask Gemini to “Find a 30-minute advanced strength class focusing on core with Peloton.”💬1🔄0❤️3👀1019📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "6ec29337a88bcec330a3a19a7d224718f416ca33",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Now Gemini can connect with 13 new apps like @adobe, @squarespace, @onepeloton, and more.\n\nInstead o...",
+          "url": "https://x.com/GeminiApp/status/2102790841270210746",
+          "published_at": "2026-09-23T16:02:59Z",
+          "summary": "Now Gemini can connect with 13 new apps like @adobe, @squarespace, @onepeloton, and more. Instead of switching between tabs, you can now grow your business, design assets, and plan your workouts all in Gemini. 🧵💬52🔄41❤️389👀39567📊95⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a67887972cbf824f03c282261569a31c1a905510",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Rolling out starting today:\n\n— Developers: Both models in @GoogleAIStudio and the Gemini API\n— Consu...",
+          "url": "https://x.com/GoogleAI/status/2102781697372934481",
+          "published_at": "2026-09-23T15:26:39Z",
+          "summary": "Rolling out starting today: — Developers: Both models in @GoogleAIStudio and the Gemini API — Consumers: Gemini 3.8 Flash TTS in @Gemini_Notebook and Gemini 3.8 Flash-Lite TTS in Google Vids — Coming soon: Both models in Gemini Enterprise blog.google/innovation-and…💬3🔄0❤️24👀5217📊…"
+        },
+        {
+          "id": "a96b2ae83049ec0e74e6aab1547989774eef8318",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️\n\nOur most expressive audio mod...",
+          "url": "https://x.com/GoogleAI/status/2102781694730285427",
+          "published_at": "2026-09-23T15:26:38Z",
+          "summary": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️ Our most expressive audio models yet let you create custom voices across 100+ languages or pick from 2,000+ ready-to-use ones. You can direct back-and-forth conversations, guide the delivery line-by-line, and a…"
+        },
         {
           "id": "5e12f456c2db2741594b42f9f067c33f9dbc5c5c",
           "site_id": "featuredrss",
@@ -311,7 +399,7 @@
           "title": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 c...",
           "url": "https://x.com/OpenAI/status/2102460992202420225",
           "published_at": "2026-09-22T18:12:17Z",
-          "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬28🔄61❤️2401👀398575📊217⚡ Powered by xgo.ing"
+          "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬28🔄61❤️2438👀411021📊220⚡ Powered by xgo.ing"
         },
         {
           "id": "72c23fbe5c6089ff3ccbbf336630952a7ca60426",
@@ -322,7 +410,7 @@
           "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and...",
           "url": "https://x.com/OpenAI/status/2102460995180663204",
           "published_at": "2026-09-22T18:12:17Z",
-          "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬113🔄132❤️2513👀560593📊328⚡ Powered by xgo.ing"
+          "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬117🔄132❤️2547👀576126📊334⚡ Powered by xgo.ing"
         },
         {
           "id": "06aea2bece89a76ce0c97c9ea9d49064aa0234b0",
@@ -333,7 +421,7 @@
           "title": "Higher usage limits and lower cost give you more flexibility and room to iterate.",
           "url": "https://x.com/OpenAI/status/2102460984782938221",
           "published_at": "2026-09-22T18:12:15Z",
-          "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬123🔄223❤️4212👀561437📊533⚡ Powered by xgo.ing"
+          "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬126🔄231❤️4286👀584831📊545⚡ Powered by xgo.ing"
         },
         {
           "id": "76ed1a0685f04b3444a6a2efc0ceb5fa8a2fd1ab",
@@ -345,22 +433,132 @@
           "url": "https://x.com/OpenAI/status/2102460975790137662",
           "published_at": "2026-09-22T18:12:13Z",
           "summary": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe. GPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale. We’ve also made caching and inference more efficient, and we…"
-        },
-        {
-          "id": "8edeb0aa7fc931eaac7d51aa2f8f4a78d71bcf9b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments w...",
-          "url": "https://x.com/OpenAI/status/2102447425243828347",
-          "published_at": "2026-09-22T17:18:22Z",
-          "summary": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment. That access should enable third party assessors to challenge our assumptions, identify risks we may have miss…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "d725818c4290b1b3b21fbe71e105260b1f8ed5f7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "可以见到现在国内的竞争多么激烈。\n\n这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。\n\n结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。\n\n那...",
+      "url": "https://x.com/op7418/status/2102806761711546875",
+      "published_at": "2026-09-23T17:06:14Z",
+      "summary": "可以见到现在国内的竞争多么激烈。 这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。 结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。 那么这些人是哪来的呢？很好奇，以前确实从来没有出现过这种情况。歸藏(guizang.ai)@op7418我内测了很久的 Today AI，在 24 号国内就能全量上线了。 这应该是国内我看到的第一个贯彻 personal agent 概念的产品。 它在交互体验、上下文获取、使用体验和一些细节地方做得特别好。 我从内测开始就一直在用，到时候可以试试。🔗 View Qu…"
+    },
+    {
+      "id": "98d916170ab554644d3fbf40a1f711dba272d0ea",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "发可以，不要频繁地刷屏和回复哈。\n\n然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了",
+      "url": "https://x.com/op7418/status/2102806696641138892",
+      "published_at": "2026-09-23T17:05:59Z",
+      "summary": "发可以，不要频繁地刷屏和回复哈。 然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了💬0🔄0❤️0👀171⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "6378cbd4b7e0efaaad4b9f8dc9ee5521dfd5a4c5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Muse 这个头像也很好玩，可以自定义的\n\n他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑",
+      "url": "https://x.com/op7418/status/2102802137906630955",
+      "published_at": "2026-09-23T16:47:52Z",
+      "summary": "Muse 这个头像也很好玩，可以自定义的 他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑💬2🔄0❤️0👀1200📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "2b131fca1dbec24adb4b46cff7056955284970a1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "This new slate of MCP connections is rolling out in the Gemini app today.\n\nTo learn more about how y...",
+      "url": "https://x.com/GeminiApp/status/2102792109086687639",
+      "published_at": "2026-09-23T16:08:01Z",
+      "summary": "This new slate of MCP connections is rolling out in the Gemini app today. To learn more about how you can connect your favorite services directly to Gemini, visit our blog: goo.gle/47ee3Kf💬0🔄0❤️7👀3495📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "0f84e48d8322fa87653b086052975320249bbbe6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Summarize meetings, capture voice notes, and extract action items with @WisprFlow.\n\nJust as Gemini t...",
+      "url": "https://x.com/GeminiApp/status/2102792107140534658",
+      "published_at": "2026-09-23T16:08:00Z",
+      "summary": "Summarize meetings, capture voice notes, and extract action items with @WisprFlow. Just as Gemini to “Check what decisions came out of my most recent meetings with Wispr.”💬1🔄0❤️7👀3726📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "ce0d7f2cf664a85bdbb01d8b4815e84cb78b8a3e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Search and query your workspaces, bases, and manage your tables, records, pages, and automation with...",
+      "url": "https://x.com/GeminiApp/status/2102792097392972228",
+      "published_at": "2026-09-23T16:07:58Z",
+      "summary": "Search and query your workspaces, bases, and manage your tables, records, pages, and automation with @Airtable. Just ask Gemini to “Find all open tasks in my Project Management base on Airtable.”💬1🔄1❤️8👀1308📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "51cc1ef61ae79bec5d224e01339a69e7661639b3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Brainstorm and search for domains with @Squarespace.\n\nJust ask Gemini to “Find domains for my new in...",
+      "url": "https://x.com/GeminiApp/status/2102792095446815039",
+      "published_at": "2026-09-23T16:07:58Z",
+      "summary": "Brainstorm and search for domains with @Squarespace. Just ask Gemini to “Find domains for my new interior design business in Squarespace.”💬1🔄0❤️5👀975📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "ca01089804e2b98e11421a5cb81c03b05e8d1225",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Search for and schedule classes, and create multi-day training plans with @OnePeloton.\n\nJust ask Gem...",
+      "url": "https://x.com/GeminiApp/status/2102792093521559832",
+      "published_at": "2026-09-23T16:07:57Z",
+      "summary": "Search for and schedule classes, and create multi-day training plans with @OnePeloton. Just ask Gemini to “Find a 30-minute advanced strength class focusing on core with Peloton.”💬1🔄0❤️3👀1019📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "6ec29337a88bcec330a3a19a7d224718f416ca33",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Now Gemini can connect with 13 new apps like @adobe, @squarespace, @onepeloton, and more.\n\nInstead o...",
+      "url": "https://x.com/GeminiApp/status/2102790841270210746",
+      "published_at": "2026-09-23T16:02:59Z",
+      "summary": "Now Gemini can connect with 13 new apps like @adobe, @squarespace, @onepeloton, and more. Instead of switching between tabs, you can now grow your business, design assets, and plan your workouts all in Gemini. 🧵💬52🔄41❤️389👀39567📊95⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a67887972cbf824f03c282261569a31c1a905510",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Rolling out starting today:\n\n— Developers: Both models in @GoogleAIStudio and the Gemini API\n— Consu...",
+      "url": "https://x.com/GoogleAI/status/2102781697372934481",
+      "published_at": "2026-09-23T15:26:39Z",
+      "summary": "Rolling out starting today: — Developers: Both models in @GoogleAIStudio and the Gemini API — Consumers: Gemini 3.8 Flash TTS in @Gemini_Notebook and Gemini 3.8 Flash-Lite TTS in Google Vids — Coming soon: Both models in Gemini Enterprise blog.google/innovation-and…💬3🔄0❤️24👀5217📊…"
+    },
+    {
+      "id": "a96b2ae83049ec0e74e6aab1547989774eef8318",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️\n\nOur most expressive audio mod...",
+      "url": "https://x.com/GoogleAI/status/2102781694730285427",
+      "published_at": "2026-09-23T15:26:38Z",
+      "summary": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️ Our most expressive audio models yet let you create custom voices across 100+ languages or pick from 2,000+ ready-to-use ones. You can direct back-and-forth conversations, guide the delivery line-by-line, and a…"
+    },
     {
       "id": "70bd8b424910f86d92dea793f2f5d91ffb5d57ea",
       "site_id": "featuredrss",
@@ -370,7 +568,7 @@
       "title": "终于用上最近很火的 Muse 了！\n\nAnthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。\n\n根本不给你被封号的机会。",
       "url": "https://x.com/op7418/status/2102727307693813921",
       "published_at": "2026-09-23T11:50:31Z",
-      "summary": "终于用上最近很火的 Muse 了！ Anthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。 根本不给你被封号的机会。💬1🔄0❤️6👀806📊2⚡ Powered by xgo.ing"
+      "summary": "终于用上最近很火的 Muse 了！ Anthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。 根本不给你被封号的机会。💬139🔄5❤️159👀111697📊140⚡ Powered by xgo.ing"
     },
     {
       "id": "27cc494758ec3ba2c5589be079485f28bf613297",
@@ -392,7 +590,7 @@
       "title": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行",
       "url": "https://x.com/op7418/status/2102610094508974493",
       "published_at": "2026-09-23T04:04:45Z",
-      "summary": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行💬0🔄1❤️3👀4367📊1⚡ Powered by xgo.ing"
+      "summary": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行💬0🔄1❤️6👀5399📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "aa412b4114b1fe129001101df4660da4276f9a7c",
@@ -403,7 +601,7 @@
       "title": "https://t.co/0CZSHVA7yp",
       "url": "https://x.com/op7418/status/2102590728677540290",
       "published_at": "2026-09-23T02:47:48Z",
-      "summary": "github.com/op7418/Humaniz…💬1🔄5❤️32👀6627📊14⚡ Powered by xgo.ing"
+      "summary": "github.com/op7418/Humaniz…💬2🔄5❤️42👀7992📊17⚡ Powered by xgo.ing"
     },
     {
       "id": "5f99679825637b5802d949ff0e3f74cd2c8a3ad3",
@@ -414,7 +612,7 @@
       "title": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！\n\n这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。\n\n大家可以试试。如...",
       "url": "https://x.com/op7418/status/2102590676156432876",
       "published_at": "2026-09-23T02:47:36Z",
-      "summary": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！ 这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。 大家可以试试。如果有问题，可以在 issue 里反馈💬81🔄85❤️612👀47220📊260⚡ Powered by xgo.ing"
+      "summary": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！ 这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。 大家可以试试。如果有问题，可以在 issue 里反馈💬128🔄129❤️833👀64299📊369⚡ Powered by xgo.ing"
     },
     {
       "id": "e98f9e127610f159a080cac06c8cc8487cda46e6",
@@ -436,7 +634,7 @@
       "title": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 c...",
       "url": "https://x.com/OpenAI/status/2102460992202420225",
       "published_at": "2026-09-22T18:12:17Z",
-      "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬28🔄61❤️2401👀398575📊217⚡ Powered by xgo.ing"
+      "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬28🔄61❤️2438👀411021📊220⚡ Powered by xgo.ing"
     },
     {
       "id": "72c23fbe5c6089ff3ccbbf336630952a7ca60426",
@@ -447,7 +645,7 @@
       "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and...",
       "url": "https://x.com/OpenAI/status/2102460995180663204",
       "published_at": "2026-09-22T18:12:17Z",
-      "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬113🔄132❤️2513👀560593📊328⚡ Powered by xgo.ing"
+      "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬117🔄132❤️2547👀576126📊334⚡ Powered by xgo.ing"
     },
     {
       "id": "06aea2bece89a76ce0c97c9ea9d49064aa0234b0",
@@ -458,7 +656,7 @@
       "title": "Higher usage limits and lower cost give you more flexibility and room to iterate.",
       "url": "https://x.com/OpenAI/status/2102460984782938221",
       "published_at": "2026-09-22T18:12:15Z",
-      "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬123🔄223❤️4212👀561437📊533⚡ Powered by xgo.ing"
+      "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬126🔄231❤️4286👀584831📊545⚡ Powered by xgo.ing"
     },
     {
       "id": "76ed1a0685f04b3444a6a2efc0ceb5fa8a2fd1ab",
@@ -470,50 +668,6 @@
       "url": "https://x.com/OpenAI/status/2102460975790137662",
       "published_at": "2026-09-22T18:12:13Z",
       "summary": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe. GPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale. We’ve also made caching and inference more efficient, and we…"
-    },
-    {
-      "id": "8edeb0aa7fc931eaac7d51aa2f8f4a78d71bcf9b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments w...",
-      "url": "https://x.com/OpenAI/status/2102447425243828347",
-      "published_at": "2026-09-22T17:18:22Z",
-      "summary": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment. That access should enable third party assessors to challenge our assumptions, identify risks we may have miss…"
-    },
-    {
-      "id": "531e2d9ebb5ec4267b80c31107a70ad93114ad55",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Opus 5.5 来了，他们说这次 Opus 5.5 的大部分能力达到了 Fable 5.1 的水平。\n\n这次居然降价了，比原来的 Opus 5.0 降了一点点，平均任务消耗的金额也降了 40%。\n\n...",
-      "url": "https://x.com/op7418/status/2102438056293003424",
-      "published_at": "2026-09-22T16:41:08Z",
-      "summary": "Opus 5.5 来了，他们说这次 Opus 5.5 的大部分能力达到了 Fable 5.1 的水平。 这次居然降价了，比原来的 Opus 5.0 降了一点点，平均任务消耗的金额也降了 40%。 同时增加了 5 小时的使用额度并且重置了。 最重要的是，优化了它的写作和回复问题。 到时候试试看是不是开始说人话了Claude@claudeaiIntroducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude…"
-    },
-    {
-      "id": "aee7493429fa24d1ab84b53a4ec374dc675a7a48",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了",
-      "url": "https://x.com/op7418/status/2102383737069879362",
-      "published_at": "2026-09-22T13:05:17Z",
-      "summary": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了DHH@dhhThrilled to announce @alibaba_cloud as a Founding Corporate Patron for the Omacom Foundation! $3 million in funding, collaboration on Omarchy China, and bringing Omarchy to the newly announced Qwen Book. Agentic computers need…"
-    },
-    {
-      "id": "d5e48d0c1cc6843760aac45a05e1fdd354200898",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我内测了很久的 Today AI，在 24 号国内就能全量上线了。\n\n这应该是国内我看到的第一个贯彻 personal agent 概念的产品。\n\n它在交互体验、上下文获取、使用体验和一些细节地方做得...",
-      "url": "https://x.com/op7418/status/2102380784179130715",
-      "published_at": "2026-09-22T12:53:33Z",
-      "summary": "我内测了很久的 Today AI，在 24 号国内就能全量上线了。 这应该是国内我看到的第一个贯彻 personal agent 概念的产品。 它在交互体验、上下文获取、使用体验和一些细节地方做得特别好。 我从内测开始就一直在用，到时候可以试试。Today AI@TodayAIofficial9月24日，和 Today 见面。 Today 中国版将于9月正式上线。你的专属 AI 助理会逐渐记住与你有关的事，在需要时主动帮你。 Meet Today on September 24. Today launches in China. Your persona…"
     }
   ]
 }
