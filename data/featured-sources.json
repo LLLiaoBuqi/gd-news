@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T17:51:20.888775Z",
+  "generated_at": "2026-09-23T01:36:35.730272Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 938,
+      "duration_ms": 177,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 32,
+      "duration_ms": 20,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1067,
+      "duration_ms": 1804,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1489,
+      "duration_ms": 1834,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 630,
+      "duration_ms": 1670,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 468,
+      "duration_ms": 1402,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 949,
+      "duration_ms": 1683,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2445,
+      "duration_ms": 2526,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1698,
+      "duration_ms": 1645,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -261,7 +261,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -269,6 +269,50 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "5e12f456c2db2741594b42f9f067c33f9dbc5c5c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 c...",
+          "url": "https://x.com/OpenAI/status/2102460992202420225",
+          "published_at": "2026-09-22T18:12:17Z",
+          "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬17🔄53❤️2127👀323360📊187⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "72c23fbe5c6089ff3ccbbf336630952a7ca60426",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and...",
+          "url": "https://x.com/OpenAI/status/2102460995180663204",
+          "published_at": "2026-09-22T18:12:17Z",
+          "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬90🔄114❤️2176👀426329📊278⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "06aea2bece89a76ce0c97c9ea9d49064aa0234b0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Higher usage limits and lower cost give you more flexibility and room to iterate.",
+          "url": "https://x.com/OpenAI/status/2102460984782938221",
+          "published_at": "2026-09-22T18:12:15Z",
+          "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬88🔄184❤️3613👀393895📊440⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "76ed1a0685f04b3444a6a2efc0ceb5fa8a2fd1ab",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the adva...",
+          "url": "https://x.com/OpenAI/status/2102460975790137662",
+          "published_at": "2026-09-22T18:12:13Z",
+          "summary": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe. GPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale. We’ve also made caching and inference more efficient, and we…"
+        },
         {
           "id": "8edeb0aa7fc931eaac7d51aa2f8f4a78d71bcf9b",
           "site_id": "featuredrss",
@@ -279,22 +323,55 @@
           "url": "https://x.com/OpenAI/status/2102447425243828347",
           "published_at": "2026-09-22T17:18:22Z",
           "summary": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment. That access should enable third party assessors to challenge our assumptions, identify risks we may have miss…"
-        },
-        {
-          "id": "1f970b176ebf1f3ecab839b08e22af0e8c99e550",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Join us for a live demo of how you can use Gemini to shop.\n\nWhether you're trying to make informed p...",
-          "url": "https://x.com/GeminiApp/status/2102129380042666458",
-          "published_at": "2026-09-21T20:14:34Z",
-          "summary": "Join us for a live demo of how you can use Gemini to shop. Whether you're trying to make informed purchases, comparing options, or browsing with a snap of your camera, you can shop smarter with the power of Gemini. 👉 Join the Discord to watch live:discord.gg/geminih 📅 Tuesday, Se…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "5e12f456c2db2741594b42f9f067c33f9dbc5c5c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 c...",
+      "url": "https://x.com/OpenAI/status/2102460992202420225",
+      "published_at": "2026-09-22T18:12:17Z",
+      "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬17🔄53❤️2127👀323360📊187⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "72c23fbe5c6089ff3ccbbf336630952a7ca60426",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and...",
+      "url": "https://x.com/OpenAI/status/2102460995180663204",
+      "published_at": "2026-09-22T18:12:17Z",
+      "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬90🔄114❤️2176👀426329📊278⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "06aea2bece89a76ce0c97c9ea9d49064aa0234b0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Higher usage limits and lower cost give you more flexibility and room to iterate.",
+      "url": "https://x.com/OpenAI/status/2102460984782938221",
+      "published_at": "2026-09-22T18:12:15Z",
+      "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬88🔄184❤️3613👀393895📊440⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "76ed1a0685f04b3444a6a2efc0ceb5fa8a2fd1ab",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the adva...",
+      "url": "https://x.com/OpenAI/status/2102460975790137662",
+      "published_at": "2026-09-22T18:12:13Z",
+      "summary": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe. GPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale. We’ve also made caching and inference more efficient, and we…"
+    },
     {
       "id": "8edeb0aa7fc931eaac7d51aa2f8f4a78d71bcf9b",
       "site_id": "featuredrss",
@@ -371,17 +448,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
       "published_at": "2026-09-22T02:02:00Z",
       "summary": "新一代源神"
-    },
-    {
-      "id": "1f970b176ebf1f3ecab839b08e22af0e8c99e550",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Join us for a live demo of how you can use Gemini to shop.\n\nWhether you're trying to make informed p...",
-      "url": "https://x.com/GeminiApp/status/2102129380042666458",
-      "published_at": "2026-09-21T20:14:34Z",
-      "summary": "Join us for a live demo of how you can use Gemini to shop. Whether you're trying to make informed purchases, comparing options, or browsing with a snap of your camera, you can shop smarter with the power of Gemini. 👉 Join the Discord to watch live:discord.gg/geminih 📅 Tuesday, Se…"
     }
   ]
 }
