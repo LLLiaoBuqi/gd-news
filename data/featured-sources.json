@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-23T07:07:51.062484Z",
+  "generated_at": "2026-09-23T12:50:49.448983Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 14,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 388,
+      "duration_ms": 704,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 35,
+      "duration_ms": 33,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 963,
+      "duration_ms": 1289,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1052,
+      "duration_ms": 1554,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 599,
+      "duration_ms": 913,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 338,
+      "duration_ms": 466,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 572,
+      "duration_ms": 980,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2120,
+      "duration_ms": 2095,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 942,
+      "duration_ms": 1663,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "70bd8b424910f86d92dea793f2f5d91ffb5d57ea",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "终于用上最近很火的 Muse 了！\n\nAnthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。\n\n根本不给你被封号的机会。",
+          "url": "https://x.com/op7418/status/2102727307693813921",
+          "published_at": "2026-09-23T11:50:31Z",
+          "summary": "终于用上最近很火的 Muse 了！ Anthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。 根本不给你被封号的机会。💬1🔄0❤️6👀806📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "27cc494758ec3ba2c5589be079485f28bf613297",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测小米新模型MiMo V2.6，我真服了第一次看开源那么彻底的",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511745&idx=1&sn=0829edc267592e4cc74a300061f01757",
+          "published_at": "2026-09-23T10:45:00Z",
+          "summary": "罗圣这六天350万刀完全没白花啊"
+        },
         {
           "id": "f05373a51c9fbe308aa0f59bf5e8c34cdfd5f168",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行",
           "url": "https://x.com/op7418/status/2102610094508974493",
           "published_at": "2026-09-23T04:04:45Z",
-          "summary": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行💬0🔄1❤️2👀2927📊1⚡ Powered by xgo.ing"
+          "summary": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行💬0🔄1❤️3👀4367📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "aa412b4114b1fe129001101df4660da4276f9a7c",
@@ -211,7 +233,7 @@
           "title": "https://t.co/0CZSHVA7yp",
           "url": "https://x.com/op7418/status/2102590728677540290",
           "published_at": "2026-09-23T02:47:48Z",
-          "summary": "github.com/op7418/Humaniz…💬1🔄2❤️21👀4860📊10⚡ Powered by xgo.ing"
+          "summary": "github.com/op7418/Humaniz…💬1🔄5❤️32👀6627📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "5f99679825637b5802d949ff0e3f74cd2c8a3ad3",
@@ -222,7 +244,18 @@
           "title": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！\n\n这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。\n\n大家可以试试。如...",
           "url": "https://x.com/op7418/status/2102590676156432876",
           "published_at": "2026-09-23T02:47:36Z",
-          "summary": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！ 这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。 大家可以试试。如果有问题，可以在 issue 里反馈💬51🔄57❤️416👀28138📊172⚡ Powered by xgo.ing"
+          "summary": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！ 这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。 大家可以试试。如果有问题，可以在 issue 里反馈💬81🔄85❤️612👀47220📊260⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e98f9e127610f159a080cac06c8cc8487cda46e6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "一夜三连发，Claude Opus 5.5、GPT-6 Sol和Luna全部都来了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686632&idx=1&sn=a2f12c73bae55d0293e3ed02bebd59c9",
+          "published_at": "2026-09-22T22:37:00Z",
+          "summary": "属于帕累托前沿的战争"
         },
         {
           "id": "531e2d9ebb5ec4267b80c31107a70ad93114ad55",
@@ -278,7 +311,7 @@
           "title": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 c...",
           "url": "https://x.com/OpenAI/status/2102460992202420225",
           "published_at": "2026-09-22T18:12:17Z",
-          "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬23🔄58❤️2317👀372542📊207⚡ Powered by xgo.ing"
+          "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬28🔄61❤️2401👀398575📊217⚡ Powered by xgo.ing"
         },
         {
           "id": "72c23fbe5c6089ff3ccbbf336630952a7ca60426",
@@ -289,7 +322,7 @@
           "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and...",
           "url": "https://x.com/OpenAI/status/2102460995180663204",
           "published_at": "2026-09-22T18:12:17Z",
-          "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬102🔄125❤️2420👀523876📊310⚡ Powered by xgo.ing"
+          "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬113🔄132❤️2513👀560593📊328⚡ Powered by xgo.ing"
         },
         {
           "id": "06aea2bece89a76ce0c97c9ea9d49064aa0234b0",
@@ -300,7 +333,7 @@
           "title": "Higher usage limits and lower cost give you more flexibility and room to iterate.",
           "url": "https://x.com/OpenAI/status/2102460984782938221",
           "published_at": "2026-09-22T18:12:15Z",
-          "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬115🔄213❤️4054👀508186📊509⚡ Powered by xgo.ing"
+          "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬123🔄223❤️4212👀561437📊533⚡ Powered by xgo.ing"
         },
         {
           "id": "76ed1a0685f04b3444a6a2efc0ceb5fa8a2fd1ab",
@@ -329,6 +362,28 @@
   },
   "items": [
     {
+      "id": "70bd8b424910f86d92dea793f2f5d91ffb5d57ea",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "终于用上最近很火的 Muse 了！\n\nAnthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。\n\n根本不给你被封号的机会。",
+      "url": "https://x.com/op7418/status/2102727307693813921",
+      "published_at": "2026-09-23T11:50:31Z",
+      "summary": "终于用上最近很火的 Muse 了！ Anthropic 的风控在 Meta 面前就是弟弟。小扎的产品说不让你用，你根本用不上，连账号都注册不了。 根本不给你被封号的机会。💬1🔄0❤️6👀806📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "27cc494758ec3ba2c5589be079485f28bf613297",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测小米新模型MiMo V2.6，我真服了第一次看开源那么彻底的",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511745&idx=1&sn=0829edc267592e4cc74a300061f01757",
+      "published_at": "2026-09-23T10:45:00Z",
+      "summary": "罗圣这六天350万刀完全没白花啊"
+    },
+    {
       "id": "f05373a51c9fbe308aa0f59bf5e8c34cdfd5f168",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -337,7 +392,7 @@
       "title": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行",
       "url": "https://x.com/op7418/status/2102610094508974493",
       "published_at": "2026-09-23T04:04:45Z",
-      "summary": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行💬0🔄1❤️2👀2927📊1⚡ Powered by xgo.ing"
+      "summary": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行💬0🔄1❤️3👀4367📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "aa412b4114b1fe129001101df4660da4276f9a7c",
@@ -348,7 +403,7 @@
       "title": "https://t.co/0CZSHVA7yp",
       "url": "https://x.com/op7418/status/2102590728677540290",
       "published_at": "2026-09-23T02:47:48Z",
-      "summary": "github.com/op7418/Humaniz…💬1🔄2❤️21👀4860📊10⚡ Powered by xgo.ing"
+      "summary": "github.com/op7418/Humaniz…💬1🔄5❤️32👀6627📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "5f99679825637b5802d949ff0e3f74cd2c8a3ad3",
@@ -359,7 +414,18 @@
       "title": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！\n\n这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。\n\n大家可以试试。如...",
       "url": "https://x.com/op7418/status/2102590676156432876",
       "published_at": "2026-09-23T02:47:36Z",
-      "summary": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！ 这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。 大家可以试试。如果有问题，可以在 issue 里反馈💬51🔄57❤️416👀28138📊172⚡ Powered by xgo.ing"
+      "summary": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！ 这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。 大家可以试试。如果有问题，可以在 issue 里反馈💬81🔄85❤️612👀47220📊260⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e98f9e127610f159a080cac06c8cc8487cda46e6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "一夜三连发，Claude Opus 5.5、GPT-6 Sol和Luna全部都来了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686632&idx=1&sn=a2f12c73bae55d0293e3ed02bebd59c9",
+      "published_at": "2026-09-22T22:37:00Z",
+      "summary": "属于帕累托前沿的战争"
     },
     {
       "id": "5e12f456c2db2741594b42f9f067c33f9dbc5c5c",
@@ -370,7 +436,7 @@
       "title": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 c...",
       "url": "https://x.com/OpenAI/status/2102460992202420225",
       "published_at": "2026-09-22T18:12:17Z",
-      "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬23🔄58❤️2317👀372542📊207⚡ Powered by xgo.ing"
+      "summary": "GPT‑6 Sol and Luna build on Astra’s advances in alignment, showing improvements over their GPT-5.6 counterparts.💬28🔄61❤️2401👀398575📊217⚡ Powered by xgo.ing"
     },
     {
       "id": "72c23fbe5c6089ff3ccbbf336630952a7ca60426",
@@ -381,7 +447,7 @@
       "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and...",
       "url": "https://x.com/OpenAI/status/2102460995180663204",
       "published_at": "2026-09-22T18:12:17Z",
-      "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬102🔄125❤️2420👀523876📊310⚡ Powered by xgo.ing"
+      "summary": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app. openai.com/index/introduc…💬113🔄132❤️2513👀560593📊328⚡ Powered by xgo.ing"
     },
     {
       "id": "06aea2bece89a76ce0c97c9ea9d49064aa0234b0",
@@ -392,7 +458,7 @@
       "title": "Higher usage limits and lower cost give you more flexibility and room to iterate.",
       "url": "https://x.com/OpenAI/status/2102460984782938221",
       "published_at": "2026-09-22T18:12:15Z",
-      "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬115🔄213❤️4054👀508186📊509⚡ Powered by xgo.ing"
+      "summary": "Higher usage limits and lower cost give you more flexibility and room to iterate.💬123🔄223❤️4212👀561437📊533⚡ Powered by xgo.ing"
     },
     {
       "id": "76ed1a0685f04b3444a6a2efc0ceb5fa8a2fd1ab",
