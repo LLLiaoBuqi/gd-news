@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T12:48:16.869339Z",
+  "generated_at": "2026-09-24T21:00:38.740864Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 21,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 280,
+      "duration_ms": 461,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 69,
+      "duration_ms": 53,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1442,
+      "duration_ms": 1020,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1426,
+      "duration_ms": 1109,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 997,
+      "duration_ms": 530,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 823,
+      "duration_ms": 948,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 869,
+      "duration_ms": 408,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 59,
+      "duration_ms": 39,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2254,
+      "duration_ms": 1713,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1683,
+      "duration_ms": 1055,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,101 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 14,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c3e5796074c52f450d00e672bba182ba216586a3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "注意，这里边的音乐和音效也是代码做的！",
+          "url": "https://x.com/op7418/status/2103153332135374859",
+          "published_at": "2026-09-24T16:03:23Z",
+          "summary": "注意，这里边的音乐和音效也是代码做的！💬0🔄0❤️6👀1901📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "7bc066ea06117c4070453bd474cef5442b21f7f4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "看到结果那一刻，真的眩晕瘫坐了",
+          "url": "https://x.com/op7418/status/2103152888382116270",
+          "published_at": "2026-09-24T16:01:37Z",
+          "summary": "看到结果那一刻，真的眩晕瘫坐了💬1🔄0❤️2👀2043📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c904c2ddda127430abe416f5ae285ba433959af7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "注意，这个没有提供任何素材，只是给了他我的软件代码库的访问权限",
+          "url": "https://x.com/op7418/status/2103152241381368011",
+          "published_at": "2026-09-24T15:59:03Z",
+          "summary": "注意，这个没有提供任何素材，只是给了他我的软件代码库的访问权限歸藏(guizang.ai)@op7418我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果。Your browser does not support the video tag.🔗 View on Twitter🔗…"
+        },
+        {
+          "id": "43367bdd2c0ee276bbcb27744f2286dd43ef1438",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！\n\n让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。\n\n简直吊打前几天的 GPT-6 Astra。\n\n后面...",
+          "url": "https://x.com/op7418/status/2103148288400924827",
+          "published_at": "2026-09-24T15:43:21Z",
+          "summary": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果。Your browser does not support the video tag.🔗 View on Twitter💬12🔄10❤️187👀22289📊54⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "7a333367f14948dbd4360c47889f12e5236599f6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "很多人说微信不行，别拿这个方法搞微信哈",
+          "url": "https://x.com/op7418/status/2103141312900018204",
+          "published_at": "2026-09-24T15:15:38Z",
+          "summary": "很多人说微信不行，别拿这个方法搞微信哈💬0🔄0❤️3👀2450📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3fa3c50be92a798a3bb9e2ae66e34c67352b0edd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "安装地址在这里\n\nhttps://t.co/wGm5KxdSIb\n\nhttps://t.co/gMxrFp0N7l",
+          "url": "https://x.com/op7418/status/2103136625232691455",
+          "published_at": "2026-09-24T14:57:00Z",
+          "summary": "安装地址在这里 download.deepseek.com/dsh-desk/bin/w…download.deepseek.com/dsh-desk/bin/m…💬1🔄1❤️21👀6165📊8⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "48c39a589de04a287c63b6c4dd814ffdf2458bfc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Deepseek Harness 居然发布了官方打包的客户端版本\n\n不需要每次运行或者安装都用命令了，Windows 和 Mac 都有",
+          "url": "https://x.com/op7418/status/2103136184000217188",
+          "published_at": "2026-09-24T14:55:15Z",
+          "summary": "Deepseek Harness 居然发布了官方打包的客户端版本 不需要每次运行或者安装都用命令了，Windows 和 Mac 都有💬19🔄12❤️183👀40378📊54⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5ff44dd73af312655705316f00c60509b64a5971",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我已经在下面屏蔽了一堆刷屏来宣传Pass AI Detector 这个产品的人，这是非常差的营销方式，买这种服务的那个产品负责人 这辈子有了",
+          "url": "https://x.com/op7418/status/2103128715194777706",
+          "published_at": "2026-09-24T14:25:34Z",
+          "summary": "我已经在下面屏蔽了一堆刷屏来宣传Pass AI Detector 这个产品的人，这是非常差的营销方式，买这种服务的那个产品负责人 这辈子有了💬1🔄0❤️3👀1243📊1⚡ Powered by xgo.ing"
+        },
         {
           "id": "bf533ec9594696c5a44f36ee203bb31481a285e0",
           "site_id": "featuredrss",
@@ -200,7 +288,7 @@
           "title": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679",
           "url": "https://x.com/op7418/status/2103081163208421602",
           "published_at": "2026-09-24T11:16:37Z",
-          "summary": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679💬0🔄0❤️0👀898⚡ Powered by xgo.ing"
+          "summary": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679💬0🔄0❤️0👀2826📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "f74c8f93cc7e83e6606d342774918d249ea30040",
@@ -211,7 +299,7 @@
           "title": "送会员的是国区哈 https://t.co/opMEPr22KC",
           "url": "https://x.com/op7418/status/2103075023619784971",
           "published_at": "2026-09-24T10:52:13Z",
-          "summary": "送会员的是国区哈 todayai.cn💬0🔄0❤️0👀1043📊1⚡ Powered by xgo.ing"
+          "summary": "送会员的是国区哈 todayai.cn💬0🔄0❤️0👀2456📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "de778c4ddd8c854aa3af61f75b5667c12aeb00b2",
@@ -222,7 +310,7 @@
           "title": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。",
           "url": "https://x.com/op7418/status/2103065240065966438",
           "published_at": "2026-09-24T10:13:20Z",
-          "summary": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。💬2🔄0❤️3👀2436📊2⚡ Powered by xgo.ing"
+          "summary": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。💬2🔄0❤️4👀4155📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "de9a36b8348eaa5308c665d7fe485fe2bdfafe53",
@@ -244,7 +332,7 @@
           "title": "Codex 这个 computer use 真的是牛逼！  \n\n还可以让它通过 Mac 的 iPhone 镜像功能去操作你的手机，而且操作得非常快。  \n\n这样手机上的一些设置信息都可以通过这种方式读...",
           "url": "https://x.com/op7418/status/2103041358500110607",
           "published_at": "2026-09-24T08:38:27Z",
-          "summary": "Codex 这个 computer use 真的是牛逼！ 还可以让它通过 Mac 的 iPhone 镜像功能去操作你的手机，而且操作得非常快。 这样手机上的一些设置信息都可以通过这种方式读取，而且非常安全。 甚至读取微信，微信也肯定不会检测到。💬46🔄11❤️194👀41102📊73⚡ Powered by xgo.ing"
+          "summary": "Codex 这个 computer use 真的是牛逼！ 还可以让它通过 Mac 的 iPhone 镜像功能去操作你的手机，而且操作得非常快。 这样手机上的一些设置信息都可以通过这种方式读取，而且非常安全。 甚至读取微信，微信也肯定不会检测到。💬84🔄17❤️344👀81817📊132⚡ Powered by xgo.ing"
         },
         {
           "id": "a53a415d2db54acdf19836e3fd1a60f7fff25ad1",
@@ -256,56 +344,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686693&idx=1&sn=8bcd40ab4ea0b32c2138bcd28cb71b89",
           "published_at": "2026-09-24T00:44:00Z",
           "summary": "你相信140元的光吗"
-        },
-        {
-          "id": "d725818c4290b1b3b21fbe71e105260b1f8ed5f7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "可以见到现在国内的竞争多么激烈。\n\n这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。\n\n结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。\n\n那...",
-          "url": "https://x.com/op7418/status/2102806761711546875",
-          "published_at": "2026-09-23T17:06:14Z",
-          "summary": "可以见到现在国内的竞争多么激烈。 这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。 结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。 那么这些人是哪来的呢？很好奇，以前确实从来没有出现过这种情况。歸藏(guizang.ai)@op7418我内测了很久的 Today AI，在 24 号国内就能全量上线了。 这应该是国内我看到的第一个贯彻 personal agent 概念的产品。 它在交互体验、上下文获取、使用体验和一些细节地方做得特别好。 我从内测开始就一直在用，到时候可以试试。🔗 View Qu…"
-        },
-        {
-          "id": "98d916170ab554644d3fbf40a1f711dba272d0ea",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "发可以，不要频繁地刷屏和回复哈。\n\n然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了",
-          "url": "https://x.com/op7418/status/2102806696641138892",
-          "published_at": "2026-09-23T17:05:59Z",
-          "summary": "发可以，不要频繁地刷屏和回复哈。 然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了💬0🔄0❤️1👀10075📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6378cbd4b7e0efaaad4b9f8dc9ee5521dfd5a4c5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Muse 这个头像也很好玩，可以自定义的\n\n他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑",
-          "url": "https://x.com/op7418/status/2102802137906630955",
-          "published_at": "2026-09-23T16:47:52Z",
-          "summary": "Muse 这个头像也很好玩，可以自定义的 他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑💬2🔄0❤️4👀12755📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a5119375f8c0223d7080b012b4af5e25470c783e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "7B模型这么卷？云栖现场带回Qwen-Image-2.1一手实测，纯干货分享来咯~",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498562&idx=1&sn=42e14a108a6b4230942767487c36b418",
-          "published_at": "2026-09-23T12:57:00Z",
-          "summary": "三合一的强效得劲开源图片模型来了。"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 11,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -314,130 +358,108 @@
       ],
       "items": [
         {
-          "id": "146031e843111dbe411c5d5ef73700ea237ecea1",
+          "id": "13b77c8bab8aa9ba4e738cc8d478c975f0732f14",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
+          "source": "Anthropic Research",
           "region": "global",
-          "title": "We’re demonstrating how frontier models have continued to improve in realistic mental health convers...",
-          "url": "https://x.com/OpenAI/status/2102837574092161102",
-          "published_at": "2026-09-23T19:08:41Z",
-          "summary": "We’re demonstrating how frontier models have continued to improve in realistic mental health conversations with MentalHealthBench. This new open benchmark was built with input from more than 80 mental health clinicians. We’re releasing it openly so other researchers can examine t…"
-        },
-        {
-          "id": "dcde4eddb66bca2bda11632b13c623015a47fa7b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Most mental health benchmarks focus on emergency situations. \n\nMentalHealthBench is designed to cove...",
-          "url": "https://x.com/OpenAI/status/2102837575568519450",
-          "published_at": "2026-09-23T19:08:41Z",
-          "summary": "Most mental health benchmarks focus on emergency situations. MentalHealthBench is designed to cover the full spectrum of mental health conversations that people bring to AI - from everyday support to more acute crisis scenarios.💬54🔄23❤️345👀82307📊72⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c61b48538cb082ae9d727129110876a9bb112d47",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Sl...",
-          "url": "https://x.com/OpenAI/status/2102808325742322002",
-          "published_at": "2026-09-23T17:12:27Z",
-          "summary": "We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Slack. - Be powered by GPT-6 Astra, Sol, and Luna. - Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the b…"
-        },
-        {
-          "id": "2b131fca1dbec24adb4b46cff7056955284970a1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "This new slate of MCP connections is rolling out in the Gemini app today.\n\nTo learn more about how y...",
-          "url": "https://x.com/GeminiApp/status/2102792109086687639",
-          "published_at": "2026-09-23T16:08:01Z",
-          "summary": "This new slate of MCP connections is rolling out in the Gemini app today. To learn more about how you can connect your favorite services directly to Gemini, visit our blog: goo.gle/47ee3Kf💬1🔄2❤️43👀11382📊6⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0f84e48d8322fa87653b086052975320249bbbe6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Summarize meetings, capture voice notes, and extract action items with @WisprFlow.\n\nJust as Gemini t...",
-          "url": "https://x.com/GeminiApp/status/2102792107140534658",
-          "published_at": "2026-09-23T16:08:00Z",
-          "summary": "Summarize meetings, capture voice notes, and extract action items with @WisprFlow. Just as Gemini to “Check what decisions came out of my most recent meetings with Wispr.”💬1🔄2❤️36👀11565📊5⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ce0d7f2cf664a85bdbb01d8b4815e84cb78b8a3e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Search and query your workspaces, bases, and manage your tables, records, pages, and automation with...",
-          "url": "https://x.com/GeminiApp/status/2102792097392972228",
-          "published_at": "2026-09-23T16:07:58Z",
-          "summary": "Search and query your workspaces, bases, and manage your tables, records, pages, and automation with @Airtable. Just ask Gemini to “Find all open tasks in my Project Management base on Airtable.”💬1🔄4❤️30👀5576📊5⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "51cc1ef61ae79bec5d224e01339a69e7661639b3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Brainstorm and search for domains with @Squarespace.\n\nJust ask Gemini to “Find domains for my new in...",
-          "url": "https://x.com/GeminiApp/status/2102792095446815039",
-          "published_at": "2026-09-23T16:07:58Z",
-          "summary": "Brainstorm and search for domains with @Squarespace. Just ask Gemini to “Find domains for my new interior design business in Squarespace.”💬1🔄1❤️25👀4265📊4⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ca01089804e2b98e11421a5cb81c03b05e8d1225",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Search for and schedule classes, and create multi-day training plans with @OnePeloton.\n\nJust ask Gem...",
-          "url": "https://x.com/GeminiApp/status/2102792093521559832",
-          "published_at": "2026-09-23T16:07:57Z",
-          "summary": "Search for and schedule classes, and create multi-day training plans with @OnePeloton. Just ask Gemini to “Find a 30-minute advanced strength class focusing on core with Peloton.”💬1🔄1❤️20👀4435📊4⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6ec29337a88bcec330a3a19a7d224718f416ca33",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Now Gemini can connect with 13 new apps like @adobe, @squarespace, @onepeloton, and more.\n\nInstead o...",
-          "url": "https://x.com/GeminiApp/status/2102790841270210746",
-          "published_at": "2026-09-23T16:02:59Z",
-          "summary": "Now Gemini can connect with 13 new apps like @adobe, @squarespace, @onepeloton, and more. Instead of switching between tabs, you can now grow your business, design assets, and plan your workouts all in Gemini. 🧵💬134🔄170❤️1609👀203769📊339⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a67887972cbf824f03c282261569a31c1a905510",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Rolling out starting today:\n\n— Developers: Both models in @GoogleAIStudio and the Gemini API\n— Consu...",
-          "url": "https://x.com/GoogleAI/status/2102781697372934481",
-          "published_at": "2026-09-23T15:26:39Z",
-          "summary": "Rolling out starting today: — Developers: Both models in @GoogleAIStudio and the Gemini API — Consumers: Gemini 3.8 Flash TTS in @Gemini_Notebook and Gemini 3.8 Flash-Lite TTS in Google Vids — Coming soon: Both models in Gemini Enterprise blog.google/innovation-and…💬8🔄3❤️60👀11631…"
-        },
-        {
-          "id": "a96b2ae83049ec0e74e6aab1547989774eef8318",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️\n\nOur most expressive audio mod...",
-          "url": "https://x.com/GoogleAI/status/2102781694730285427",
-          "published_at": "2026-09-23T15:26:38Z",
-          "summary": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️ Our most expressive audio models yet let you create custom voices across 100+ languages or pick from 2,000+ ready-to-use ones. You can direct back-and-forth conversations, guide the delivery line-by-line, and a…"
+          "title": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+          "url": "https://www.anthropic.com/research/project-swap",
+          "published_at": "2026-09-24T00:00:00Z",
+          "summary": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "c3e5796074c52f450d00e672bba182ba216586a3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "注意，这里边的音乐和音效也是代码做的！",
+      "url": "https://x.com/op7418/status/2103153332135374859",
+      "published_at": "2026-09-24T16:03:23Z",
+      "summary": "注意，这里边的音乐和音效也是代码做的！💬0🔄0❤️6👀1901📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "7bc066ea06117c4070453bd474cef5442b21f7f4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "看到结果那一刻，真的眩晕瘫坐了",
+      "url": "https://x.com/op7418/status/2103152888382116270",
+      "published_at": "2026-09-24T16:01:37Z",
+      "summary": "看到结果那一刻，真的眩晕瘫坐了💬1🔄0❤️2👀2043📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "c904c2ddda127430abe416f5ae285ba433959af7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "注意，这个没有提供任何素材，只是给了他我的软件代码库的访问权限",
+      "url": "https://x.com/op7418/status/2103152241381368011",
+      "published_at": "2026-09-24T15:59:03Z",
+      "summary": "注意，这个没有提供任何素材，只是给了他我的软件代码库的访问权限歸藏(guizang.ai)@op7418我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果。Your browser does not support the video tag.🔗 View on Twitter🔗…"
+    },
+    {
+      "id": "43367bdd2c0ee276bbcb27744f2286dd43ef1438",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！\n\n让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。\n\n简直吊打前几天的 GPT-6 Astra。\n\n后面...",
+      "url": "https://x.com/op7418/status/2103148288400924827",
+      "published_at": "2026-09-24T15:43:21Z",
+      "summary": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果。Your browser does not support the video tag.🔗 View on Twitter💬12🔄10❤️187👀22289📊54⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "7a333367f14948dbd4360c47889f12e5236599f6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "很多人说微信不行，别拿这个方法搞微信哈",
+      "url": "https://x.com/op7418/status/2103141312900018204",
+      "published_at": "2026-09-24T15:15:38Z",
+      "summary": "很多人说微信不行，别拿这个方法搞微信哈💬0🔄0❤️3👀2450📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3fa3c50be92a798a3bb9e2ae66e34c67352b0edd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "安装地址在这里\n\nhttps://t.co/wGm5KxdSIb\n\nhttps://t.co/gMxrFp0N7l",
+      "url": "https://x.com/op7418/status/2103136625232691455",
+      "published_at": "2026-09-24T14:57:00Z",
+      "summary": "安装地址在这里 download.deepseek.com/dsh-desk/bin/w…download.deepseek.com/dsh-desk/bin/m…💬1🔄1❤️21👀6165📊8⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "48c39a589de04a287c63b6c4dd814ffdf2458bfc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Deepseek Harness 居然发布了官方打包的客户端版本\n\n不需要每次运行或者安装都用命令了，Windows 和 Mac 都有",
+      "url": "https://x.com/op7418/status/2103136184000217188",
+      "published_at": "2026-09-24T14:55:15Z",
+      "summary": "Deepseek Harness 居然发布了官方打包的客户端版本 不需要每次运行或者安装都用命令了，Windows 和 Mac 都有💬19🔄12❤️183👀40378📊54⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5ff44dd73af312655705316f00c60509b64a5971",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我已经在下面屏蔽了一堆刷屏来宣传Pass AI Detector 这个产品的人，这是非常差的营销方式，买这种服务的那个产品负责人 这辈子有了",
+      "url": "https://x.com/op7418/status/2103128715194777706",
+      "published_at": "2026-09-24T14:25:34Z",
+      "summary": "我已经在下面屏蔽了一堆刷屏来宣传Pass AI Detector 这个产品的人，这是非常差的营销方式，买这种服务的那个产品负责人 这辈子有了💬1🔄0❤️3👀1243📊1⚡ Powered by xgo.ing"
+    },
     {
       "id": "bf533ec9594696c5a44f36ee203bb31481a285e0",
       "site_id": "featuredrss",
@@ -447,7 +469,7 @@
       "title": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679",
       "url": "https://x.com/op7418/status/2103081163208421602",
       "published_at": "2026-09-24T11:16:37Z",
-      "summary": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679💬0🔄0❤️0👀898⚡ Powered by xgo.ing"
+      "summary": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679💬0🔄0❤️0👀2826📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "f74c8f93cc7e83e6606d342774918d249ea30040",
@@ -458,7 +480,7 @@
       "title": "送会员的是国区哈 https://t.co/opMEPr22KC",
       "url": "https://x.com/op7418/status/2103075023619784971",
       "published_at": "2026-09-24T10:52:13Z",
-      "summary": "送会员的是国区哈 todayai.cn💬0🔄0❤️0👀1043📊1⚡ Powered by xgo.ing"
+      "summary": "送会员的是国区哈 todayai.cn💬0🔄0❤️0👀2456📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "de778c4ddd8c854aa3af61f75b5667c12aeb00b2",
@@ -469,7 +491,7 @@
       "title": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。",
       "url": "https://x.com/op7418/status/2103065240065966438",
       "published_at": "2026-09-24T10:13:20Z",
-      "summary": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。💬2🔄0❤️3👀2436📊2⚡ Powered by xgo.ing"
+      "summary": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。💬2🔄0❤️4👀4155📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "de9a36b8348eaa5308c665d7fe485fe2bdfafe53",
@@ -491,7 +513,7 @@
       "title": "Codex 这个 computer use 真的是牛逼！  \n\n还可以让它通过 Mac 的 iPhone 镜像功能去操作你的手机，而且操作得非常快。  \n\n这样手机上的一些设置信息都可以通过这种方式读...",
       "url": "https://x.com/op7418/status/2103041358500110607",
       "published_at": "2026-09-24T08:38:27Z",
-      "summary": "Codex 这个 computer use 真的是牛逼！ 还可以让它通过 Mac 的 iPhone 镜像功能去操作你的手机，而且操作得非常快。 这样手机上的一些设置信息都可以通过这种方式读取，而且非常安全。 甚至读取微信，微信也肯定不会检测到。💬46🔄11❤️194👀41102📊73⚡ Powered by xgo.ing"
+      "summary": "Codex 这个 computer use 真的是牛逼！ 还可以让它通过 Mac 的 iPhone 镜像功能去操作你的手机，而且操作得非常快。 这样手机上的一些设置信息都可以通过这种方式读取，而且非常安全。 甚至读取微信，微信也肯定不会检测到。💬84🔄17❤️344👀81817📊132⚡ Powered by xgo.ing"
     },
     {
       "id": "a53a415d2db54acdf19836e3fd1a60f7fff25ad1",
@@ -505,169 +527,15 @@
       "summary": "你相信140元的光吗"
     },
     {
-      "id": "146031e843111dbe411c5d5ef73700ea237ecea1",
+      "id": "13b77c8bab8aa9ba4e738cc8d478c975f0732f14",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
+      "source": "Anthropic Research",
       "region": "global",
-      "title": "We’re demonstrating how frontier models have continued to improve in realistic mental health convers...",
-      "url": "https://x.com/OpenAI/status/2102837574092161102",
-      "published_at": "2026-09-23T19:08:41Z",
-      "summary": "We’re demonstrating how frontier models have continued to improve in realistic mental health conversations with MentalHealthBench. This new open benchmark was built with input from more than 80 mental health clinicians. We’re releasing it openly so other researchers can examine t…"
-    },
-    {
-      "id": "dcde4eddb66bca2bda11632b13c623015a47fa7b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Most mental health benchmarks focus on emergency situations. \n\nMentalHealthBench is designed to cove...",
-      "url": "https://x.com/OpenAI/status/2102837575568519450",
-      "published_at": "2026-09-23T19:08:41Z",
-      "summary": "Most mental health benchmarks focus on emergency situations. MentalHealthBench is designed to cover the full spectrum of mental health conversations that people bring to AI - from everyday support to more acute crisis scenarios.💬54🔄23❤️345👀82307📊72⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c61b48538cb082ae9d727129110876a9bb112d47",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Sl...",
-      "url": "https://x.com/OpenAI/status/2102808325742322002",
-      "published_at": "2026-09-23T17:12:27Z",
-      "summary": "We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Slack. - Be powered by GPT-6 Astra, Sol, and Luna. - Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the b…"
-    },
-    {
-      "id": "d725818c4290b1b3b21fbe71e105260b1f8ed5f7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "可以见到现在国内的竞争多么激烈。\n\n这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。\n\n结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。\n\n那...",
-      "url": "https://x.com/op7418/status/2102806761711546875",
-      "published_at": "2026-09-23T17:06:14Z",
-      "summary": "可以见到现在国内的竞争多么激烈。 这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。 结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。 那么这些人是哪来的呢？很好奇，以前确实从来没有出现过这种情况。歸藏(guizang.ai)@op7418我内测了很久的 Today AI，在 24 号国内就能全量上线了。 这应该是国内我看到的第一个贯彻 personal agent 概念的产品。 它在交互体验、上下文获取、使用体验和一些细节地方做得特别好。 我从内测开始就一直在用，到时候可以试试。🔗 View Qu…"
-    },
-    {
-      "id": "98d916170ab554644d3fbf40a1f711dba272d0ea",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "发可以，不要频繁地刷屏和回复哈。\n\n然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了",
-      "url": "https://x.com/op7418/status/2102806696641138892",
-      "published_at": "2026-09-23T17:05:59Z",
-      "summary": "发可以，不要频繁地刷屏和回复哈。 然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了💬0🔄0❤️1👀10075📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "6378cbd4b7e0efaaad4b9f8dc9ee5521dfd5a4c5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Muse 这个头像也很好玩，可以自定义的\n\n他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑",
-      "url": "https://x.com/op7418/status/2102802137906630955",
-      "published_at": "2026-09-23T16:47:52Z",
-      "summary": "Muse 这个头像也很好玩，可以自定义的 他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑💬2🔄0❤️4👀12755📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2b131fca1dbec24adb4b46cff7056955284970a1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "This new slate of MCP connections is rolling out in the Gemini app today.\n\nTo learn more about how y...",
-      "url": "https://x.com/GeminiApp/status/2102792109086687639",
-      "published_at": "2026-09-23T16:08:01Z",
-      "summary": "This new slate of MCP connections is rolling out in the Gemini app today. To learn more about how you can connect your favorite services directly to Gemini, visit our blog: goo.gle/47ee3Kf💬1🔄2❤️43👀11382📊6⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0f84e48d8322fa87653b086052975320249bbbe6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Summarize meetings, capture voice notes, and extract action items with @WisprFlow.\n\nJust as Gemini t...",
-      "url": "https://x.com/GeminiApp/status/2102792107140534658",
-      "published_at": "2026-09-23T16:08:00Z",
-      "summary": "Summarize meetings, capture voice notes, and extract action items with @WisprFlow. Just as Gemini to “Check what decisions came out of my most recent meetings with Wispr.”💬1🔄2❤️36👀11565📊5⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ce0d7f2cf664a85bdbb01d8b4815e84cb78b8a3e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Search and query your workspaces, bases, and manage your tables, records, pages, and automation with...",
-      "url": "https://x.com/GeminiApp/status/2102792097392972228",
-      "published_at": "2026-09-23T16:07:58Z",
-      "summary": "Search and query your workspaces, bases, and manage your tables, records, pages, and automation with @Airtable. Just ask Gemini to “Find all open tasks in my Project Management base on Airtable.”💬1🔄4❤️30👀5576📊5⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "51cc1ef61ae79bec5d224e01339a69e7661639b3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Brainstorm and search for domains with @Squarespace.\n\nJust ask Gemini to “Find domains for my new in...",
-      "url": "https://x.com/GeminiApp/status/2102792095446815039",
-      "published_at": "2026-09-23T16:07:58Z",
-      "summary": "Brainstorm and search for domains with @Squarespace. Just ask Gemini to “Find domains for my new interior design business in Squarespace.”💬1🔄1❤️25👀4265📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ca01089804e2b98e11421a5cb81c03b05e8d1225",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Search for and schedule classes, and create multi-day training plans with @OnePeloton.\n\nJust ask Gem...",
-      "url": "https://x.com/GeminiApp/status/2102792093521559832",
-      "published_at": "2026-09-23T16:07:57Z",
-      "summary": "Search for and schedule classes, and create multi-day training plans with @OnePeloton. Just ask Gemini to “Find a 30-minute advanced strength class focusing on core with Peloton.”💬1🔄1❤️20👀4435📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "6ec29337a88bcec330a3a19a7d224718f416ca33",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Now Gemini can connect with 13 new apps like @adobe, @squarespace, @onepeloton, and more.\n\nInstead o...",
-      "url": "https://x.com/GeminiApp/status/2102790841270210746",
-      "published_at": "2026-09-23T16:02:59Z",
-      "summary": "Now Gemini can connect with 13 new apps like @adobe, @squarespace, @onepeloton, and more. Instead of switching between tabs, you can now grow your business, design assets, and plan your workouts all in Gemini. 🧵💬134🔄170❤️1609👀203769📊339⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a67887972cbf824f03c282261569a31c1a905510",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Rolling out starting today:\n\n— Developers: Both models in @GoogleAIStudio and the Gemini API\n— Consu...",
-      "url": "https://x.com/GoogleAI/status/2102781697372934481",
-      "published_at": "2026-09-23T15:26:39Z",
-      "summary": "Rolling out starting today: — Developers: Both models in @GoogleAIStudio and the Gemini API — Consumers: Gemini 3.8 Flash TTS in @Gemini_Notebook and Gemini 3.8 Flash-Lite TTS in Google Vids — Coming soon: Both models in Gemini Enterprise blog.google/innovation-and…💬8🔄3❤️60👀11631…"
-    },
-    {
-      "id": "a96b2ae83049ec0e74e6aab1547989774eef8318",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️\n\nOur most expressive audio mod...",
-      "url": "https://x.com/GoogleAI/status/2102781694730285427",
-      "published_at": "2026-09-23T15:26:38Z",
-      "summary": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️ Our most expressive audio models yet let you create custom voices across 100+ languages or pick from 2,000+ ready-to-use ones. You can direct back-and-forth conversations, guide the delivery line-by-line, and a…"
-    },
-    {
-      "id": "a5119375f8c0223d7080b012b4af5e25470c783e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "7B模型这么卷？云栖现场带回Qwen-Image-2.1一手实测，纯干货分享来咯~",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498562&idx=1&sn=42e14a108a6b4230942767487c36b418",
-      "published_at": "2026-09-23T12:57:00Z",
-      "summary": "三合一的强效得劲开源图片模型来了。"
+      "title": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "url": "https://www.anthropic.com/research/project-swap",
+      "published_at": "2026-09-24T00:00:00Z",
+      "summary": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?"
     }
   ]
 }
