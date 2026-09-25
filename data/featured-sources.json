@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-25T08:58:46.202592Z",
+  "generated_at": "2026-09-25T14:28:59.355154Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 185,
+      "duration_ms": 459,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 26,
+      "duration_ms": 19,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 933,
+      "duration_ms": 938,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 995,
+      "duration_ms": 1127,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 743,
+      "duration_ms": 793,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 877,
+      "duration_ms": 835,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 695,
+      "duration_ms": 373,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 12,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1734,
+      "duration_ms": 1714,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 615,
+      "duration_ms": 1439,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 15,
+      "total_items": 11,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "430ceb11cea87278554344fc22d5c759aef06394",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "尝试将 Opus 5.5 的宣传视频能力蒸馏到我的 guizang-product-video-skill\n\n让 Deepseek 4.1 Flash 这样的模型也能低成本做出好看的产品宣传片",
+          "url": "https://x.com/op7418/status/2103425210464800786",
+          "published_at": "2026-09-25T10:03:44Z",
+          "summary": "尝试将 Opus 5.5 的宣传视频能力蒸馏到我的 guizang-product-video-skill 让 Deepseek 4.1 Flash 这样的模型也能低成本做出好看的产品宣传片歸藏(guizang.ai)@op7418我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果…"
+        },
         {
           "id": "3fdeb661a184b7210bd0f6c73c53b0584f400dc4",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "很明显可以看到，他没有用任何既定的模板或方案去复刻。\n\n他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。\n\n他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式...",
           "url": "https://x.com/op7418/status/2103301651151180074",
           "published_at": "2026-09-25T01:52:45Z",
-          "summary": "很明显可以看到，他没有用任何既定的模板或方案去复刻。 他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。 他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式。 这个太牛逼了！这是比套模板更高层次的创作智能。💬1🔄0❤️3👀2084📊1⚡ Powered by xgo.ing"
+          "summary": "很明显可以看到，他没有用任何既定的模板或方案去复刻。 他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。 他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式。 这个太牛逼了！这是比套模板更高层次的创作智能。💬1🔄0❤️3👀2454📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "ef9c1e5f10f65493339be81f032b1a9c518f9f89",
@@ -222,7 +233,7 @@
           "title": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。\n\n我操，这个也很屌啊！\n\n一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音...",
           "url": "https://x.com/op7418/status/2103300490184564849",
           "published_at": "2026-09-25T01:48:08Z",
-          "summary": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。 我操，这个也很屌啊！ 一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音乐和节奏也非常好，完美地展示了这个产品的风格和它的能力。 Opus 5.5 太牛逼了！Your browser does not support the video tag.🔗 View on Twitter💬19🔄4❤️93👀18505📊38⚡ Powered by xgo.ing"
+          "summary": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。 我操，这个也很屌啊！ 一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音乐和节奏也非常好，完美地展示了这个产品的风格和它的能力。 Opus 5.5 太牛逼了！Your browser does not support the video tag.🔗 View on Twitter💬23🔄4❤️116👀22882📊45⚡ Powered by xgo.ing"
         },
         {
           "id": "c3e5796074c52f450d00e672bba182ba216586a3",
@@ -233,7 +244,7 @@
           "title": "注意，这里边的音乐和音效也是代码做的！",
           "url": "https://x.com/op7418/status/2103153332135374859",
           "published_at": "2026-09-24T16:03:23Z",
-          "summary": "注意，这里边的音乐和音效也是代码做的！💬1🔄1❤️13👀4745📊3⚡ Powered by xgo.ing"
+          "summary": "注意，这里边的音乐和音效也是代码做的！💬2🔄1❤️16👀5349📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "7bc066ea06117c4070453bd474cef5442b21f7f4",
@@ -266,7 +277,7 @@
           "title": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！\n\n让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。\n\n简直吊打前几天的 GPT-6 Astra。\n\n后面...",
           "url": "https://x.com/op7418/status/2103148288400924827",
           "published_at": "2026-09-24T15:43:21Z",
-          "summary": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果。Your browser does not support the video tag.🔗 View on Twitter💬36🔄29❤️365👀74382📊128⚡ Powered by xgo.ing"
+          "summary": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果。Your browser does not support the video tag.🔗 View on Twitter💬44🔄35❤️416👀96955📊150⚡ Powered by xgo.ing"
         },
         {
           "id": "7a333367f14948dbd4360c47889f12e5236599f6",
@@ -277,7 +288,7 @@
           "title": "很多人说微信不行，别拿这个方法搞微信哈",
           "url": "https://x.com/op7418/status/2103141312900018204",
           "published_at": "2026-09-24T15:15:38Z",
-          "summary": "很多人说微信不行，别拿这个方法搞微信哈💬0🔄0❤️4👀4377📊1⚡ Powered by xgo.ing"
+          "summary": "很多人说微信不行，别拿这个方法搞微信哈💬0🔄0❤️5👀5169📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "3fa3c50be92a798a3bb9e2ae66e34c67352b0edd",
@@ -288,7 +299,7 @@
           "title": "安装地址在这里\n\nhttps://t.co/wGm5KxdSIb\n\nhttps://t.co/gMxrFp0N7l",
           "url": "https://x.com/op7418/status/2103136625232691455",
           "published_at": "2026-09-24T14:57:00Z",
-          "summary": "安装地址在这里 download.deepseek.com/dsh-desk/bin/w…download.deepseek.com/dsh-desk/bin/m…💬2🔄3❤️38👀11544📊14⚡ Powered by xgo.ing"
+          "summary": "安装地址在这里 download.deepseek.com/dsh-desk/bin/w…download.deepseek.com/dsh-desk/bin/m…💬2🔄4❤️40👀12711📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "48c39a589de04a287c63b6c4dd814ffdf2458bfc",
@@ -299,62 +310,7 @@
           "title": "Deepseek Harness 居然发布了官方打包的客户端版本\n\n不需要每次运行或者安装都用命令了，Windows 和 Mac 都有",
           "url": "https://x.com/op7418/status/2103136184000217188",
           "published_at": "2026-09-24T14:55:15Z",
-          "summary": "Deepseek Harness 居然发布了官方打包的客户端版本 不需要每次运行或者安装都用命令了，Windows 和 Mac 都有💬42🔄21❤️385👀87515📊112⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5ff44dd73af312655705316f00c60509b64a5971",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我已经在下面屏蔽了一堆刷屏来宣传Pass AI Detector 这个产品的人，这是非常差的营销方式，买这种服务的那个产品负责人 这辈子有了",
-          "url": "https://x.com/op7418/status/2103128715194777706",
-          "published_at": "2026-09-24T14:25:34Z",
-          "summary": "我已经在下面屏蔽了一堆刷屏来宣传Pass AI Detector 这个产品的人，这是非常差的营销方式，买这种服务的那个产品负责人 这辈子有了💬1🔄0❤️3👀1683📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bf533ec9594696c5a44f36ee203bb31481a285e0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679",
-          "url": "https://x.com/op7418/status/2103081163208421602",
-          "published_at": "2026-09-24T11:16:37Z",
-          "summary": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679💬0🔄0❤️0👀3211📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f74c8f93cc7e83e6606d342774918d249ea30040",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "送会员的是国区哈 https://t.co/opMEPr22KC",
-          "url": "https://x.com/op7418/status/2103075023619784971",
-          "published_at": "2026-09-24T10:52:13Z",
-          "summary": "送会员的是国区哈 todayai.cn💬0🔄0❤️0👀2991📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "de778c4ddd8c854aa3af61f75b5667c12aeb00b2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。",
-          "url": "https://x.com/op7418/status/2103065240065966438",
-          "published_at": "2026-09-24T10:13:20Z",
-          "summary": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。💬2🔄0❤️4👀4860📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "de9a36b8348eaa5308c665d7fe485fe2bdfafe53",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Muse 是真的火，直接登顶美区 App Store 榜首。官宣接入那天，Shopify 直接涨了 13%。\n\n刚好我朋友做的 Today AI 今天也在国区上线了。\n\nMuse 直接把 Person...",
-          "url": "https://x.com/op7418/status/2103065067789193679",
-          "published_at": "2026-09-24T10:12:39Z",
-          "summary": "Muse 是真的火，直接登顶美区 App Store 榜首。官宣接入那天，Shopify 直接涨了 13%。 刚好我朋友做的 Today AI 今天也在国区上线了。 Muse 直接把 Personal Agent 这个概念带火了，其实之前 Grok bot 就有迹象。 可惜 Muse 我们用起来很麻烦、很费劲（毕竟 Meta 几十年的风控积累，比 Anthropic 还严格）。 Today AI 应该也是国内能用的第一个做得这么完整的 Personal AI。 我觉得这种 Agent 终于摸索出了一个完全不需要门槛的 AI 应用雏形。这是我第一次意识到，…"
+          "summary": "Deepseek Harness 居然发布了官方打包的客户端版本 不需要每次运行或者安装都用命令了，Windows 和 Mac 都有💬47🔄22❤️424👀100662📊122⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -372,6 +328,17 @@
   },
   "items": [
     {
+      "id": "430ceb11cea87278554344fc22d5c759aef06394",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "尝试将 Opus 5.5 的宣传视频能力蒸馏到我的 guizang-product-video-skill\n\n让 Deepseek 4.1 Flash 这样的模型也能低成本做出好看的产品宣传片",
+      "url": "https://x.com/op7418/status/2103425210464800786",
+      "published_at": "2026-09-25T10:03:44Z",
+      "summary": "尝试将 Opus 5.5 的宣传视频能力蒸馏到我的 guizang-product-video-skill 让 Deepseek 4.1 Flash 这样的模型也能低成本做出好看的产品宣传片歸藏(guizang.ai)@op7418我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果…"
+    },
+    {
       "id": "3fdeb661a184b7210bd0f6c73c53b0584f400dc4",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -380,7 +347,7 @@
       "title": "很明显可以看到，他没有用任何既定的模板或方案去复刻。\n\n他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。\n\n他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式...",
       "url": "https://x.com/op7418/status/2103301651151180074",
       "published_at": "2026-09-25T01:52:45Z",
-      "summary": "很明显可以看到，他没有用任何既定的模板或方案去复刻。 他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。 他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式。 这个太牛逼了！这是比套模板更高层次的创作智能。💬1🔄0❤️3👀2084📊1⚡ Powered by xgo.ing"
+      "summary": "很明显可以看到，他没有用任何既定的模板或方案去复刻。 他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。 他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式。 这个太牛逼了！这是比套模板更高层次的创作智能。💬1🔄0❤️3👀2454📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "ef9c1e5f10f65493339be81f032b1a9c518f9f89",
@@ -402,7 +369,7 @@
       "title": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。\n\n我操，这个也很屌啊！\n\n一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音...",
       "url": "https://x.com/op7418/status/2103300490184564849",
       "published_at": "2026-09-25T01:48:08Z",
-      "summary": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。 我操，这个也很屌啊！ 一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音乐和节奏也非常好，完美地展示了这个产品的风格和它的能力。 Opus 5.5 太牛逼了！Your browser does not support the video tag.🔗 View on Twitter💬19🔄4❤️93👀18505📊38⚡ Powered by xgo.ing"
+      "summary": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。 我操，这个也很屌啊！ 一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音乐和节奏也非常好，完美地展示了这个产品的风格和它的能力。 Opus 5.5 太牛逼了！Your browser does not support the video tag.🔗 View on Twitter💬23🔄4❤️116👀22882📊45⚡ Powered by xgo.ing"
     },
     {
       "id": "c3e5796074c52f450d00e672bba182ba216586a3",
@@ -413,7 +380,7 @@
       "title": "注意，这里边的音乐和音效也是代码做的！",
       "url": "https://x.com/op7418/status/2103153332135374859",
       "published_at": "2026-09-24T16:03:23Z",
-      "summary": "注意，这里边的音乐和音效也是代码做的！💬1🔄1❤️13👀4745📊3⚡ Powered by xgo.ing"
+      "summary": "注意，这里边的音乐和音效也是代码做的！💬2🔄1❤️16👀5349📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "7bc066ea06117c4070453bd474cef5442b21f7f4",
@@ -446,7 +413,7 @@
       "title": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！\n\n让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。\n\n简直吊打前几天的 GPT-6 Astra。\n\n后面...",
       "url": "https://x.com/op7418/status/2103148288400924827",
       "published_at": "2026-09-24T15:43:21Z",
-      "summary": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果。Your browser does not support the video tag.🔗 View on Twitter💬36🔄29❤️365👀74382📊128⚡ Powered by xgo.ing"
+      "summary": "我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果。Your browser does not support the video tag.🔗 View on Twitter💬44🔄35❤️416👀96955📊150⚡ Powered by xgo.ing"
     },
     {
       "id": "7a333367f14948dbd4360c47889f12e5236599f6",
@@ -457,7 +424,7 @@
       "title": "很多人说微信不行，别拿这个方法搞微信哈",
       "url": "https://x.com/op7418/status/2103141312900018204",
       "published_at": "2026-09-24T15:15:38Z",
-      "summary": "很多人说微信不行，别拿这个方法搞微信哈💬0🔄0❤️4👀4377📊1⚡ Powered by xgo.ing"
+      "summary": "很多人说微信不行，别拿这个方法搞微信哈💬0🔄0❤️5👀5169📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "3fa3c50be92a798a3bb9e2ae66e34c67352b0edd",
@@ -468,7 +435,7 @@
       "title": "安装地址在这里\n\nhttps://t.co/wGm5KxdSIb\n\nhttps://t.co/gMxrFp0N7l",
       "url": "https://x.com/op7418/status/2103136625232691455",
       "published_at": "2026-09-24T14:57:00Z",
-      "summary": "安装地址在这里 download.deepseek.com/dsh-desk/bin/w…download.deepseek.com/dsh-desk/bin/m…💬2🔄3❤️38👀11544📊14⚡ Powered by xgo.ing"
+      "summary": "安装地址在这里 download.deepseek.com/dsh-desk/bin/w…download.deepseek.com/dsh-desk/bin/m…💬2🔄4❤️40👀12711📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "48c39a589de04a287c63b6c4dd814ffdf2458bfc",
@@ -479,62 +446,7 @@
       "title": "Deepseek Harness 居然发布了官方打包的客户端版本\n\n不需要每次运行或者安装都用命令了，Windows 和 Mac 都有",
       "url": "https://x.com/op7418/status/2103136184000217188",
       "published_at": "2026-09-24T14:55:15Z",
-      "summary": "Deepseek Harness 居然发布了官方打包的客户端版本 不需要每次运行或者安装都用命令了，Windows 和 Mac 都有💬42🔄21❤️385👀87515📊112⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5ff44dd73af312655705316f00c60509b64a5971",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我已经在下面屏蔽了一堆刷屏来宣传Pass AI Detector 这个产品的人，这是非常差的营销方式，买这种服务的那个产品负责人 这辈子有了",
-      "url": "https://x.com/op7418/status/2103128715194777706",
-      "published_at": "2026-09-24T14:25:34Z",
-      "summary": "我已经在下面屏蔽了一堆刷屏来宣传Pass AI Detector 这个产品的人，这是非常差的营销方式，买这种服务的那个产品负责人 这辈子有了💬1🔄0❤️3👀1683📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "bf533ec9594696c5a44f36ee203bb31481a285e0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679",
-      "url": "https://x.com/op7418/status/2103081163208421602",
-      "published_at": "2026-09-24T11:16:37Z",
-      "summary": "用不了的试试 today aihttps://x.com/op7418/status/2103065067789193679💬0🔄0❤️0👀3211📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f74c8f93cc7e83e6606d342774918d249ea30040",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "送会员的是国区哈 https://t.co/opMEPr22KC",
-      "url": "https://x.com/op7418/status/2103075023619784971",
-      "published_at": "2026-09-24T10:52:13Z",
-      "summary": "送会员的是国区哈 todayai.cn💬0🔄0❤️0👀2991📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "de778c4ddd8c854aa3af61f75b5667c12aeb00b2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。",
-      "url": "https://x.com/op7418/status/2103065240065966438",
-      "published_at": "2026-09-24T10:13:20Z",
-      "summary": "如果大家对 Personal AI 感兴趣，可以去试试 Today AI，基础版永久免费，新用户还送 1 亿 token 和 1 个月 Pro 会员。💬2🔄0❤️4👀4860📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "de9a36b8348eaa5308c665d7fe485fe2bdfafe53",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Muse 是真的火，直接登顶美区 App Store 榜首。官宣接入那天，Shopify 直接涨了 13%。\n\n刚好我朋友做的 Today AI 今天也在国区上线了。\n\nMuse 直接把 Person...",
-      "url": "https://x.com/op7418/status/2103065067789193679",
-      "published_at": "2026-09-24T10:12:39Z",
-      "summary": "Muse 是真的火，直接登顶美区 App Store 榜首。官宣接入那天，Shopify 直接涨了 13%。 刚好我朋友做的 Today AI 今天也在国区上线了。 Muse 直接把 Personal Agent 这个概念带火了，其实之前 Grok bot 就有迹象。 可惜 Muse 我们用起来很麻烦、很费劲（毕竟 Meta 几十年的风控积累，比 Anthropic 还严格）。 Today AI 应该也是国内能用的第一个做得这么完整的 Personal AI。 我觉得这种 Agent 终于摸索出了一个完全不需要门槛的 AI 应用雏形。这是我第一次意识到，…"
+      "summary": "Deepseek Harness 居然发布了官方打包的客户端版本 不需要每次运行或者安装都用命令了，Windows 和 Mac 都有💬47🔄22❤️424👀100662📊122⚡ Powered by xgo.ing"
     }
   ]
 }
