@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-25T18:48:59.730462Z",
+  "generated_at": "2026-09-26T18:12:41.473136Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 390,
+      "duration_ms": 1539,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 42,
+      "duration_ms": 51,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2966,
+      "duration_ms": 1339,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3222,
+      "duration_ms": 1514,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2755,
+      "duration_ms": 1162,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 735,
+      "duration_ms": 1279,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 979,
+      "duration_ms": 1778,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 18,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 7508,
+      "duration_ms": 1822,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1111,
+      "duration_ms": 1223,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,76 +192,120 @@
       ],
       "items": [
         {
-          "id": "cf7a6e3a7010b0f1a728369dcbc43fa60f95f5ef",
+          "id": "3b381b9fc918d3fb42b3835294e31e4e4dfc88e0",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "Skill 在这里：https://t.co/psVUZK0Cma",
-          "url": "https://x.com/op7418/status/2103490994583015515",
-          "published_at": "2026-09-25T14:25:08Z",
-          "summary": "Skill 在这里：github.com/op7418/guizang…💬0🔄0❤️0👀172⚡ Powered by xgo.ing"
+          "title": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板",
+          "url": "https://x.com/op7418/status/2103803583426936866",
+          "published_at": "2026-09-26T11:07:15Z",
+          "summary": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板💬1🔄0❤️3👀2313📊1⚡ Powered by xgo.ing"
         },
         {
-          "id": "d6a0f07bd6702f1b07e5eabca8aa32d82a26292c",
+          "id": "eae5e1c7e91c917c281ccb2ef61e35dbf724b4eb",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "用 Opus 5.5 和 guizang-product-video-skill 给我们几个做的视频播客 Next Token 做了个宣传视频\n\n他把握风格和内容的能力真的牛批，给他官网地址，他就能自...",
-          "url": "https://x.com/op7418/status/2103488476591399234",
-          "published_at": "2026-09-25T14:15:08Z",
-          "summary": "用 Opus 5.5 和 guizang-product-video-skill 给我们几个做的视频播客 Next Token 做了个宣传视频 他把握风格和内容的能力真的牛批，给他官网地址，他就能自己找素材做视频 而且找的那些观点、信息和内容太牛了，我自己都忘了说过这些Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418估计 AI 圈大家都没有预料到，在有 GPT-Astra 和 Fable 发布以后，还能有这么热的新类型模型火起来。 JEV…"
+          "title": "他这个连接器体系也很牛批",
+          "url": "https://x.com/op7418/status/2103774332757635425",
+          "published_at": "2026-09-26T09:11:01Z",
+          "summary": "他这个连接器体系也很牛批歸藏(guizang.ai)@op7418Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。 而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。 它在连接时把复杂度降到了最低： • Steam：它给一个选项、一个按钮，填一下 token 就好 • DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美 • B 站：直接给一个二维码 我去，这个上下文获取的流程，我觉得一定是精心设计过的🔗 View Quoted Tw…"
         },
         {
-          "id": "430ceb11cea87278554344fc22d5c759aef06394",
+          "id": "c74a0f5def9df8c02490a3cacaab90e43cb57b0b",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "尝试将 Opus 5.5 的宣传视频能力蒸馏到我的 guizang-product-video-skill\n\n让 Deepseek 4.1 Flash 这样的模型也能低成本做出好看的产品宣传片",
-          "url": "https://x.com/op7418/status/2103425210464800786",
-          "published_at": "2026-09-25T10:03:44Z",
-          "summary": "尝试将 Opus 5.5 的宣传视频能力蒸馏到我的 guizang-product-video-skill 让 Deepseek 4.1 Flash 这样的模型也能低成本做出好看的产品宣传片歸藏(guizang.ai)@op7418我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果…"
+          "title": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。\n\n而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。\n\n它在连接时...",
+          "url": "https://x.com/op7418/status/2103772252982690115",
+          "published_at": "2026-09-26T09:02:45Z",
+          "summary": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。 而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。 它在连接时把复杂度降到了最低： • Steam：它给一个选项、一个按钮，填一下 token 就好 • DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美 • B 站：直接给一个二维码 我去，这个上下文获取的流程，我觉得一定是精心设计过的歸藏(guizang.ai)@op7418Muse 这种带虚拟机的 Agent ，玩法超级多 朋友…"
         },
         {
-          "id": "3fdeb661a184b7210bd0f6c73c53b0584f400dc4",
+          "id": "ec71a1e6bd5d43d793853738ca3a4ea85c53af5e",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
+          "source": "卡尔的AI沃茨",
           "region": "domestic",
-          "title": "很明显可以看到，他没有用任何既定的模板或方案去复刻。\n\n他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。\n\n他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式...",
-          "url": "https://x.com/op7418/status/2103301651151180074",
-          "published_at": "2026-09-25T01:52:45Z",
-          "summary": "很明显可以看到，他没有用任何既定的模板或方案去复刻。 他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。 他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式。 这个太牛逼了！这是比套模板更高层次的创作智能。💬1🔄0❤️3👀2515📊1⚡ Powered by xgo.ing"
+          "title": "实测LibTV1.5五大新功能，我把1个完整剧组搬进了AI短剧工作流",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511963&idx=1&sn=a8046b9f44949b1eed69a7c149c2efdb",
+          "published_at": "2026-09-26T09:00:00Z",
+          "summary": "一句话生成3D建模，预演都能做了"
         },
         {
-          "id": "ef9c1e5f10f65493339be81f032b1a9c518f9f89",
+          "id": "21b2607d88da1126bffb87299ec9326225e6255d",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "给 zed 做了一个效果也很好啊https://t.co/rav3EbnjAC",
-          "url": "https://x.com/op7418/status/2103300709357965346",
-          "published_at": "2026-09-25T01:49:01Z",
-          "summary": "给 zed 做了一个效果也很好啊x.com/op7418/status/…歸藏(guizang.ai)@op7418迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。 我操，这个也很屌啊！ 一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音乐和节奏也非常好，完美地展示了这个产品的风格和它的能力。 Opus 5.5 太牛逼了！Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬…"
+          "title": "也可以试试我的 muse 邀请码：RS3NKG",
+          "url": "https://x.com/op7418/status/2103751981898850505",
+          "published_at": "2026-09-26T07:42:12Z",
+          "summary": "也可以试试我的 muse 邀请码：RS3NKG💬2🔄0❤️1👀2798📊2⚡ Powered by xgo.ing"
         },
         {
-          "id": "8d96deb4a466267fefeb0482b172256228211e46",
+          "id": "6f59a6633a8de50ebd311f541967de46e9db9a2b",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "歸藏(guizang.ai)(@op7418)",
           "region": "domestic",
-          "title": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。\n\n我操，这个也很屌啊！\n\n一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音...",
-          "url": "https://x.com/op7418/status/2103300490184564849",
-          "published_at": "2026-09-25T01:48:08Z",
-          "summary": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。 我操，这个也很屌啊！ 一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音乐和节奏也非常好，完美地展示了这个产品的风格和它的能力。 Opus 5.5 太牛逼了！Your browser does not support the video tag.🔗 View on Twitter💬24🔄5❤️118👀23319📊47⚡ Powered by xgo.ing"
+          "title": "Muse 这种带虚拟机的 Agent ，玩法超级多\n\n朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。\n\n刚好最近我也在用 Muse，就让它把 DeepSeek Har...",
+          "url": "https://x.com/op7418/status/2103746853699465676",
+          "published_at": "2026-09-26T07:21:50Z",
+          "summary": "Muse 这种带虚拟机的 Agent ，玩法超级多 朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。 刚好最近我也在用 Muse，就让它把 DeepSeek Harness 装到 Muse 云端的虚拟机里去。 只要涉及到国内的信息检索，就直接调用虚拟机上的 DeepSeek Harness 去查。💬98🔄20❤️154👀48816📊124⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "518ce1f32712aa6acf0a728f351a9a4032b3a08b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。\n\n新增了资源库和图像两个页面。\n\n资源库里包含你所有的图像、图片、文件夹和...",
+          "url": "https://x.com/op7418/status/2103740776647942575",
+          "published_at": "2026-09-26T06:57:41Z",
+          "summary": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。 新增了资源库和图像两个页面。 资源库里包含你所有的图像、图片、文件夹和收藏，你创作的所有文档以及 AI 创作的图像文档也都保存在这里。 图片那边的话，就是 ChatGPT 原来的图片页面里，有一些用 GPT-Image 模型的一些模板和提示词 其实这样改更好了。 不然之前全放在顶部，随着项目和聊天越来越多，每次找顶部那几个入口都得往回滚，挺烦的。 而且这次藏师傅的 CodePilot 领先 Codex 一个版本，几个月前就添加了资…"
+        },
+        {
+          "id": "09a3e5225231146daa619f2b5e8f9f9280dd0e1f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这是徽章版本",
+          "url": "https://x.com/op7418/status/2103725620698255417",
+          "published_at": "2026-09-26T05:57:27Z",
+          "summary": "这是徽章版本Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️5👀2559📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "964df51ef6adf63f06733097407e685bc118eec4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "用 Opus 5.5 做游戏结算动画，也很不错!\n\n原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现\n\n这是第一个宝箱版本，后面还有个徽章...",
+          "url": "https://x.com/op7418/status/2103724883301814408",
+          "published_at": "2026-09-26T05:54:32Z",
+          "summary": "用 Opus 5.5 做游戏结算动画，也很不错! 原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现 这是第一个宝箱版本，后面还有个徽章版本Your browser does not support the video tag.🔗 View on Twitter💬10🔄3❤️60👀11045📊25⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "40030e10165e1eb05d354b0d623b5c3d36f73e74",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "真他妈离谱啊，用 Opus 5.5 做的网页版的Splatoon",
+          "url": "https://x.com/op7418/status/2103709667138621740",
+          "published_at": "2026-09-26T04:54:04Z",
+          "summary": "真他妈离谱啊，用 Opus 5.5 做的网页版的SplatoonJayden Davis@JaydenDavisNCThe full Splatoon Game made by Claude Opus 5.5 from scratch is now out exclusively on the browser! Here is some gameplay, enjoy and have fun! inkwave-six.vercel.appYour browser does not support the video tag.🔗 View on Twit…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -270,96 +314,184 @@
       ],
       "items": [
         {
-          "id": "e9f392219c7a4d7ae063ab5d5864d0d145378179",
+          "id": "afdd94adcb6be5383ba7e07b5adc661c399d40ec",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "Anthropic Research",
+          "source": "OpenAI(@OpenAI)",
           "region": "global",
-          "title": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "published_at": "2026-09-25T00:00:00Z",
-          "summary": "Sep 25, 2026ScienceYes, Claude can do Nine Loops"
+          "title": "We’ve shared details on how AI agents in our research environment sent training and evaluation data ...",
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "published_at": "2026-09-25T20:46:50Z",
+          "summary": "We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-…"
+        },
+        {
+          "id": "f68e0e47091a4104cdf578d74619d312e2014fd4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken b...",
+          "url": "https://x.com/OpenAI/status/2103566736356458911",
+          "published_at": "2026-09-25T19:26:06Z",
+          "summary": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing. The vast majority of actions we’ve reviewed we…"
+        },
+        {
+          "id": "9b4cad2667787553f056107a925fe8c2e53a6163",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Check out this week's updates and releases:\n\n— Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, t...",
+          "url": "https://x.com/GoogleAI/status/2103552111233343980",
+          "published_at": "2026-09-25T18:28:00Z",
+          "summary": "Check out this week's updates and releases: — Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, two of our most expressive audio generation models yet — Gemini 3.8 Live with Live Avatar, bringing near real-time visual presence to Gemini’s conversational AI — @Gemini_Notebook In…"
         }
       ]
     }
   },
   "items": [
     {
-      "id": "cf7a6e3a7010b0f1a728369dcbc43fa60f95f5ef",
+      "id": "3b381b9fc918d3fb42b3835294e31e4e4dfc88e0",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "歸藏(guizang.ai)(@op7418)",
       "region": "domestic",
-      "title": "Skill 在这里：https://t.co/psVUZK0Cma",
-      "url": "https://x.com/op7418/status/2103490994583015515",
-      "published_at": "2026-09-25T14:25:08Z",
-      "summary": "Skill 在这里：github.com/op7418/guizang…💬0🔄0❤️0👀172⚡ Powered by xgo.ing"
+      "title": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板",
+      "url": "https://x.com/op7418/status/2103803583426936866",
+      "published_at": "2026-09-26T11:07:15Z",
+      "summary": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板💬1🔄0❤️3👀2313📊1⚡ Powered by xgo.ing"
     },
     {
-      "id": "d6a0f07bd6702f1b07e5eabca8aa32d82a26292c",
+      "id": "eae5e1c7e91c917c281ccb2ef61e35dbf724b4eb",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "歸藏(guizang.ai)(@op7418)",
       "region": "domestic",
-      "title": "用 Opus 5.5 和 guizang-product-video-skill 给我们几个做的视频播客 Next Token 做了个宣传视频\n\n他把握风格和内容的能力真的牛批，给他官网地址，他就能自...",
-      "url": "https://x.com/op7418/status/2103488476591399234",
-      "published_at": "2026-09-25T14:15:08Z",
-      "summary": "用 Opus 5.5 和 guizang-product-video-skill 给我们几个做的视频播客 Next Token 做了个宣传视频 他把握风格和内容的能力真的牛批，给他官网地址，他就能自己找素材做视频 而且找的那些观点、信息和内容太牛了，我自己都忘了说过这些Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418估计 AI 圈大家都没有预料到，在有 GPT-Astra 和 Fable 发布以后，还能有这么热的新类型模型火起来。 JEV…"
+      "title": "他这个连接器体系也很牛批",
+      "url": "https://x.com/op7418/status/2103774332757635425",
+      "published_at": "2026-09-26T09:11:01Z",
+      "summary": "他这个连接器体系也很牛批歸藏(guizang.ai)@op7418Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。 而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。 它在连接时把复杂度降到了最低： • Steam：它给一个选项、一个按钮，填一下 token 就好 • DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美 • B 站：直接给一个二维码 我去，这个上下文获取的流程，我觉得一定是精心设计过的🔗 View Quoted Tw…"
     },
     {
-      "id": "430ceb11cea87278554344fc22d5c759aef06394",
+      "id": "c74a0f5def9df8c02490a3cacaab90e43cb57b0b",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "歸藏(guizang.ai)(@op7418)",
       "region": "domestic",
-      "title": "尝试将 Opus 5.5 的宣传视频能力蒸馏到我的 guizang-product-video-skill\n\n让 Deepseek 4.1 Flash 这样的模型也能低成本做出好看的产品宣传片",
-      "url": "https://x.com/op7418/status/2103425210464800786",
-      "published_at": "2026-09-25T10:03:44Z",
-      "summary": "尝试将 Opus 5.5 的宣传视频能力蒸馏到我的 guizang-product-video-skill 让 Deepseek 4.1 Flash 这样的模型也能低成本做出好看的产品宣传片歸藏(guizang.ai)@op7418我操，Opus 5.5 做这种前端的图像图形，做产品宣传视频太牛逼了！ 让他给我这个 CodePilot 产品做了个宣传片，太猛了，一键生成的。 简直吊打前几天的 GPT-6 Astra。 后面也会将这些经验用在我的这个 guizang-product-video-skilll 里面。 然后一些比较差的模型也能得到比较好的效果…"
+      "title": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。\n\n而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。\n\n它在连接时...",
+      "url": "https://x.com/op7418/status/2103772252982690115",
+      "published_at": "2026-09-26T09:02:45Z",
+      "summary": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。 而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。 它在连接时把复杂度降到了最低： • Steam：它给一个选项、一个按钮，填一下 token 就好 • DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美 • B 站：直接给一个二维码 我去，这个上下文获取的流程，我觉得一定是精心设计过的歸藏(guizang.ai)@op7418Muse 这种带虚拟机的 Agent ，玩法超级多 朋友…"
     },
     {
-      "id": "3fdeb661a184b7210bd0f6c73c53b0584f400dc4",
+      "id": "ec71a1e6bd5d43d793853738ca3a4ea85c53af5e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测LibTV1.5五大新功能，我把1个完整剧组搬进了AI短剧工作流",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511963&idx=1&sn=a8046b9f44949b1eed69a7c149c2efdb",
+      "published_at": "2026-09-26T09:00:00Z",
+      "summary": "一句话生成3D建模，预演都能做了"
+    },
+    {
+      "id": "21b2607d88da1126bffb87299ec9326225e6255d",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "歸藏(guizang.ai)(@op7418)",
       "region": "domestic",
-      "title": "很明显可以看到，他没有用任何既定的模板或方案去复刻。\n\n他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。\n\n他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式...",
-      "url": "https://x.com/op7418/status/2103301651151180074",
-      "published_at": "2026-09-25T01:52:45Z",
-      "summary": "很明显可以看到，他没有用任何既定的模板或方案去复刻。 他是真正理解了做产品宣传片深层的理论和思路，而不是简简单单地套模板。 他会去分析这些代码库以及它的产品气质，找到适合这个产品定位人群的宣发方式。 这个太牛逼了！这是比套模板更高层次的创作智能。💬1🔄0❤️3👀2515📊1⚡ Powered by xgo.ing"
+      "title": "也可以试试我的 muse 邀请码：RS3NKG",
+      "url": "https://x.com/op7418/status/2103751981898850505",
+      "published_at": "2026-09-26T07:42:12Z",
+      "summary": "也可以试试我的 muse 邀请码：RS3NKG💬2🔄0❤️1👀2798📊2⚡ Powered by xgo.ing"
     },
     {
-      "id": "ef9c1e5f10f65493339be81f032b1a9c518f9f89",
+      "id": "6f59a6633a8de50ebd311f541967de46e9db9a2b",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "歸藏(guizang.ai)(@op7418)",
       "region": "domestic",
-      "title": "给 zed 做了一个效果也很好啊https://t.co/rav3EbnjAC",
-      "url": "https://x.com/op7418/status/2103300709357965346",
-      "published_at": "2026-09-25T01:49:01Z",
-      "summary": "给 zed 做了一个效果也很好啊x.com/op7418/status/…歸藏(guizang.ai)@op7418迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。 我操，这个也很屌啊！ 一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音乐和节奏也非常好，完美地展示了这个产品的风格和它的能力。 Opus 5.5 太牛逼了！Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬…"
+      "title": "Muse 这种带虚拟机的 Agent ，玩法超级多\n\n朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。\n\n刚好最近我也在用 Muse，就让它把 DeepSeek Har...",
+      "url": "https://x.com/op7418/status/2103746853699465676",
+      "published_at": "2026-09-26T07:21:50Z",
+      "summary": "Muse 这种带虚拟机的 Agent ，玩法超级多 朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。 刚好最近我也在用 Muse，就让它把 DeepSeek Harness 装到 Muse 云端的虚拟机里去。 只要涉及到国内的信息检索，就直接调用虚拟机上的 DeepSeek Harness 去查。💬98🔄20❤️154👀48816📊124⚡ Powered by xgo.ing"
     },
     {
-      "id": "8d96deb4a466267fefeb0482b172256228211e46",
+      "id": "518ce1f32712aa6acf0a728f351a9a4032b3a08b",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "歸藏(guizang.ai)(@op7418)",
       "region": "domestic",
-      "title": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。\n\n我操，这个也很屌啊！\n\n一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音...",
-      "url": "https://x.com/op7418/status/2103300490184564849",
-      "published_at": "2026-09-25T01:48:08Z",
-      "summary": "迭代了一下 Skill，让 Opus 5.5 基于 Zed 的代码库做了一个宣传视频。 我操，这个也很屌啊！ 一直在整个编辑器里运动，通过不同的编辑器运动介绍产品的各种功能，而且卡点卡得非常好，音乐和节奏也非常好，完美地展示了这个产品的风格和它的能力。 Opus 5.5 太牛逼了！Your browser does not support the video tag.🔗 View on Twitter💬24🔄5❤️118👀23319📊47⚡ Powered by xgo.ing"
+      "title": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。\n\n新增了资源库和图像两个页面。\n\n资源库里包含你所有的图像、图片、文件夹和...",
+      "url": "https://x.com/op7418/status/2103740776647942575",
+      "published_at": "2026-09-26T06:57:41Z",
+      "summary": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。 新增了资源库和图像两个页面。 资源库里包含你所有的图像、图片、文件夹和收藏，你创作的所有文档以及 AI 创作的图像文档也都保存在这里。 图片那边的话，就是 ChatGPT 原来的图片页面里，有一些用 GPT-Image 模型的一些模板和提示词 其实这样改更好了。 不然之前全放在顶部，随着项目和聊天越来越多，每次找顶部那几个入口都得往回滚，挺烦的。 而且这次藏师傅的 CodePilot 领先 Codex 一个版本，几个月前就添加了资…"
     },
     {
-      "id": "e9f392219c7a4d7ae063ab5d5864d0d145378179",
+      "id": "09a3e5225231146daa619f2b5e8f9f9280dd0e1f",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "Anthropic Research",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这是徽章版本",
+      "url": "https://x.com/op7418/status/2103725620698255417",
+      "published_at": "2026-09-26T05:57:27Z",
+      "summary": "这是徽章版本Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️5👀2559📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "964df51ef6adf63f06733097407e685bc118eec4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "用 Opus 5.5 做游戏结算动画，也很不错!\n\n原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现\n\n这是第一个宝箱版本，后面还有个徽章...",
+      "url": "https://x.com/op7418/status/2103724883301814408",
+      "published_at": "2026-09-26T05:54:32Z",
+      "summary": "用 Opus 5.5 做游戏结算动画，也很不错! 原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现 这是第一个宝箱版本，后面还有个徽章版本Your browser does not support the video tag.🔗 View on Twitter💬10🔄3❤️60👀11045📊25⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "40030e10165e1eb05d354b0d623b5c3d36f73e74",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "真他妈离谱啊，用 Opus 5.5 做的网页版的Splatoon",
+      "url": "https://x.com/op7418/status/2103709667138621740",
+      "published_at": "2026-09-26T04:54:04Z",
+      "summary": "真他妈离谱啊，用 Opus 5.5 做的网页版的SplatoonJayden Davis@JaydenDavisNCThe full Splatoon Game made by Claude Opus 5.5 from scratch is now out exclusively on the browser! Here is some gameplay, enjoy and have fun! inkwave-six.vercel.appYour browser does not support the video tag.🔗 View on Twit…"
+    },
+    {
+      "id": "afdd94adcb6be5383ba7e07b5adc661c399d40ec",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
       "region": "global",
-      "title": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "published_at": "2026-09-25T00:00:00Z",
-      "summary": "Sep 25, 2026ScienceYes, Claude can do Nine Loops"
+      "title": "We’ve shared details on how AI agents in our research environment sent training and evaluation data ...",
+      "url": "https://x.com/OpenAI/status/2103587050347995581",
+      "published_at": "2026-09-25T20:46:50Z",
+      "summary": "We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-…"
+    },
+    {
+      "id": "f68e0e47091a4104cdf578d74619d312e2014fd4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken b...",
+      "url": "https://x.com/OpenAI/status/2103566736356458911",
+      "published_at": "2026-09-25T19:26:06Z",
+      "summary": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing. The vast majority of actions we’ve reviewed we…"
+    },
+    {
+      "id": "9b4cad2667787553f056107a925fe8c2e53a6163",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Check out this week's updates and releases:\n\n— Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, t...",
+      "url": "https://x.com/GoogleAI/status/2103552111233343980",
+      "published_at": "2026-09-25T18:28:00Z",
+      "summary": "Check out this week's updates and releases: — Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, two of our most expressive audio generation models yet — Gemini 3.8 Live with Live Avatar, bringing near real-time visual presence to Gemini’s conversational AI — @Gemini_Notebook In…"
     }
   ]
 }
