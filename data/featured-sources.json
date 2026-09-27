@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T03:01:41.947288Z",
+  "generated_at": "2026-09-27T09:25:23.223096Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 290,
+      "duration_ms": 138,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 31,
+      "duration_ms": 272,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1346,
+      "duration_ms": 865,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1395,
+      "duration_ms": 1252,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1138,
+      "duration_ms": 761,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1163,
+      "duration_ms": 790,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1005,
+      "duration_ms": 548,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 105,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2041,
+      "duration_ms": 1834,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1866,
+      "duration_ms": 1198,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "452c343f4a72aa2cd9bfc611a5d2c98f24475699",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "提示词:\n\n帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。\n做成一个可以直接打开的单文件网页（HTML + CSS + J...",
+          "url": "https://x.com/op7418/status/2104085539419021491",
+          "published_at": "2026-09-27T05:47:39Z",
+          "summary": "提示词: 帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。 【世界观与风格】 - 原创美术，不要模仿任何现有游戏的 IP、角色或 Logo。 - 卡通手游风：高饱和配色，统一的深色描边（例如 #1A1033），圆润厚重的造型。 - 配色随等级升级：[等级阶梯，例如：普通绿 → 稀有蓝 → 史诗紫 → 传说金]。每升一级都要切换主色、光效颜色和背景色调。…"
+        },
+        {
+          "id": "e324dec4cef8c5bc8098060fd3c5092c605c90cb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Opus 5.5 游戏动效制作提示词来了！\n\n昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。\n\n顺便还做了一个新的抽卡动画，提示词太长放下面了",
+          "url": "https://x.com/op7418/status/2104085484347818226",
+          "published_at": "2026-09-27T05:47:26Z",
+          "summary": "Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418用 Opus 5.5 做游戏结算动画，也很不错! 原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现 这是第一个宝箱版本，后面还有个徽章版本Your browser d…"
+        },
+        {
+          "id": "e5f21121684d7dae080b9544f4c1ed5b85a417cd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "早上整个日报啥的",
+          "url": "https://x.com/op7418/status/2104084543976386568",
+          "published_at": "2026-09-27T05:43:41Z",
+          "summary": "早上整个日报啥的💬0🔄0❤️0👀1172⚡ Powered by xgo.ing"
+        },
         {
           "id": "3b381b9fc918d3fb42b3835294e31e4e4dfc88e0",
           "site_id": "featuredrss",
@@ -200,106 +233,7 @@
           "title": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板",
           "url": "https://x.com/op7418/status/2103803583426936866",
           "published_at": "2026-09-26T11:07:15Z",
-          "summary": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板💬1🔄0❤️5👀3072📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "eae5e1c7e91c917c281ccb2ef61e35dbf724b4eb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "他这个连接器体系也很牛批",
-          "url": "https://x.com/op7418/status/2103774332757635425",
-          "published_at": "2026-09-26T09:11:01Z",
-          "summary": "他这个连接器体系也很牛批歸藏(guizang.ai)@op7418Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。 而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。 它在连接时把复杂度降到了最低： • Steam：它给一个选项、一个按钮，填一下 token 就好 • DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美 • B 站：直接给一个二维码 我去，这个上下文获取的流程，我觉得一定是精心设计过的🔗 View Quoted Tw…"
-        },
-        {
-          "id": "c74a0f5def9df8c02490a3cacaab90e43cb57b0b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。\n\n而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。\n\n它在连接时...",
-          "url": "https://x.com/op7418/status/2103772252982690115",
-          "published_at": "2026-09-26T09:02:45Z",
-          "summary": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。 而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。 它在连接时把复杂度降到了最低： • Steam：它给一个选项、一个按钮，填一下 token 就好 • DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美 • B 站：直接给一个二维码 我去，这个上下文获取的流程，我觉得一定是精心设计过的歸藏(guizang.ai)@op7418Muse 这种带虚拟机的 Agent ，玩法超级多 朋友…"
-        },
-        {
-          "id": "ec71a1e6bd5d43d793853738ca3a4ea85c53af5e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测LibTV1.5五大新功能，我把1个完整剧组搬进了AI短剧工作流",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511963&idx=1&sn=a8046b9f44949b1eed69a7c149c2efdb",
-          "published_at": "2026-09-26T09:00:00Z",
-          "summary": "一句话生成3D建模，预演都能做了"
-        },
-        {
-          "id": "21b2607d88da1126bffb87299ec9326225e6255d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "也可以试试我的 muse 邀请码：RS3NKG",
-          "url": "https://x.com/op7418/status/2103751981898850505",
-          "published_at": "2026-09-26T07:42:12Z",
-          "summary": "也可以试试我的 muse 邀请码：RS3NKG💬2🔄0❤️1👀2798📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6f59a6633a8de50ebd311f541967de46e9db9a2b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Muse 这种带虚拟机的 Agent ，玩法超级多\n\n朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。\n\n刚好最近我也在用 Muse，就让它把 DeepSeek Har...",
-          "url": "https://x.com/op7418/status/2103746853699465676",
-          "published_at": "2026-09-26T07:21:50Z",
-          "summary": "Muse 这种带虚拟机的 Agent ，玩法超级多 朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。 刚好最近我也在用 Muse，就让它把 DeepSeek Harness 装到 Muse 云端的虚拟机里去。 只要涉及到国内的信息检索，就直接调用虚拟机上的 DeepSeek Harness 去查。💬112🔄24❤️197👀61631📊149⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "518ce1f32712aa6acf0a728f351a9a4032b3a08b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。\n\n新增了资源库和图像两个页面。\n\n资源库里包含你所有的图像、图片、文件夹和...",
-          "url": "https://x.com/op7418/status/2103740776647942575",
-          "published_at": "2026-09-26T06:57:41Z",
-          "summary": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。 新增了资源库和图像两个页面。 资源库里包含你所有的图像、图片、文件夹和收藏，你创作的所有文档以及 AI 创作的图像文档也都保存在这里。 图片那边的话，就是 ChatGPT 原来的图片页面里，有一些用 GPT-Image 模型的一些模板和提示词 其实这样改更好了。 不然之前全放在顶部，随着项目和聊天越来越多，每次找顶部那几个入口都得往回滚，挺烦的。 而且这次藏师傅的 CodePilot 领先 Codex 一个版本，几个月前就添加了资…"
-        },
-        {
-          "id": "09a3e5225231146daa619f2b5e8f9f9280dd0e1f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这是徽章版本",
-          "url": "https://x.com/op7418/status/2103725620698255417",
-          "published_at": "2026-09-26T05:57:27Z",
-          "summary": "这是徽章版本Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️10👀3104📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "964df51ef6adf63f06733097407e685bc118eec4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "用 Opus 5.5 做游戏结算动画，也很不错!\n\n原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现\n\n这是第一个宝箱版本，后面还有个徽章...",
-          "url": "https://x.com/op7418/status/2103724883301814408",
-          "published_at": "2026-09-26T05:54:32Z",
-          "summary": "用 Opus 5.5 做游戏结算动画，也很不错! 原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现 这是第一个宝箱版本，后面还有个徽章版本Your browser does not support the video tag.🔗 View on Twitter💬13🔄7❤️205👀20342📊67⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "40030e10165e1eb05d354b0d623b5c3d36f73e74",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "真他妈离谱啊，用 Opus 5.5 做的网页版的Splatoon",
-          "url": "https://x.com/op7418/status/2103709667138621740",
-          "published_at": "2026-09-26T04:54:04Z",
-          "summary": "真他妈离谱啊，用 Opus 5.5 做的网页版的SplatoonJayden Davis@JaydenDavisNCThe full Splatoon Game made by Claude Opus 5.5 from scratch is now out exclusively on the browser! Here is some gameplay, enjoy and have fun! inkwave-six.vercel.appYour browser does not support the video tag.🔗 View on Twit…"
+          "summary": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板💬2🔄0❤️5👀4355📊3⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -317,6 +251,39 @@
   },
   "items": [
     {
+      "id": "452c343f4a72aa2cd9bfc611a5d2c98f24475699",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "提示词:\n\n帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。\n做成一个可以直接打开的单文件网页（HTML + CSS + J...",
+      "url": "https://x.com/op7418/status/2104085539419021491",
+      "published_at": "2026-09-27T05:47:39Z",
+      "summary": "提示词: 帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。 【世界观与风格】 - 原创美术，不要模仿任何现有游戏的 IP、角色或 Logo。 - 卡通手游风：高饱和配色，统一的深色描边（例如 #1A1033），圆润厚重的造型。 - 配色随等级升级：[等级阶梯，例如：普通绿 → 稀有蓝 → 史诗紫 → 传说金]。每升一级都要切换主色、光效颜色和背景色调。…"
+    },
+    {
+      "id": "e324dec4cef8c5bc8098060fd3c5092c605c90cb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Opus 5.5 游戏动效制作提示词来了！\n\n昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。\n\n顺便还做了一个新的抽卡动画，提示词太长放下面了",
+      "url": "https://x.com/op7418/status/2104085484347818226",
+      "published_at": "2026-09-27T05:47:26Z",
+      "summary": "Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418用 Opus 5.5 做游戏结算动画，也很不错! 原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现 这是第一个宝箱版本，后面还有个徽章版本Your browser d…"
+    },
+    {
+      "id": "e5f21121684d7dae080b9544f4c1ed5b85a417cd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "早上整个日报啥的",
+      "url": "https://x.com/op7418/status/2104084543976386568",
+      "published_at": "2026-09-27T05:43:41Z",
+      "summary": "早上整个日报啥的💬0🔄0❤️0👀1172⚡ Powered by xgo.ing"
+    },
+    {
       "id": "3b381b9fc918d3fb42b3835294e31e4e4dfc88e0",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -325,106 +292,7 @@
       "title": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板",
       "url": "https://x.com/op7418/status/2103803583426936866",
       "published_at": "2026-09-26T11:07:15Z",
-      "summary": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板💬1🔄0❤️5👀3072📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "eae5e1c7e91c917c281ccb2ef61e35dbf724b4eb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "他这个连接器体系也很牛批",
-      "url": "https://x.com/op7418/status/2103774332757635425",
-      "published_at": "2026-09-26T09:11:01Z",
-      "summary": "他这个连接器体系也很牛批歸藏(guizang.ai)@op7418Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。 而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。 它在连接时把复杂度降到了最低： • Steam：它给一个选项、一个按钮，填一下 token 就好 • DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美 • B 站：直接给一个二维码 我去，这个上下文获取的流程，我觉得一定是精心设计过的🔗 View Quoted Tw…"
-    },
-    {
-      "id": "c74a0f5def9df8c02490a3cacaab90e43cb57b0b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。\n\n而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。\n\n它在连接时...",
-      "url": "https://x.com/op7418/status/2103772252982690115",
-      "published_at": "2026-09-26T09:02:45Z",
-      "summary": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。 而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。 它在连接时把复杂度降到了最低： • Steam：它给一个选项、一个按钮，填一下 token 就好 • DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美 • B 站：直接给一个二维码 我去，这个上下文获取的流程，我觉得一定是精心设计过的歸藏(guizang.ai)@op7418Muse 这种带虚拟机的 Agent ，玩法超级多 朋友…"
-    },
-    {
-      "id": "ec71a1e6bd5d43d793853738ca3a4ea85c53af5e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测LibTV1.5五大新功能，我把1个完整剧组搬进了AI短剧工作流",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511963&idx=1&sn=a8046b9f44949b1eed69a7c149c2efdb",
-      "published_at": "2026-09-26T09:00:00Z",
-      "summary": "一句话生成3D建模，预演都能做了"
-    },
-    {
-      "id": "21b2607d88da1126bffb87299ec9326225e6255d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "也可以试试我的 muse 邀请码：RS3NKG",
-      "url": "https://x.com/op7418/status/2103751981898850505",
-      "published_at": "2026-09-26T07:42:12Z",
-      "summary": "也可以试试我的 muse 邀请码：RS3NKG💬2🔄0❤️1👀2798📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "6f59a6633a8de50ebd311f541967de46e9db9a2b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Muse 这种带虚拟机的 Agent ，玩法超级多\n\n朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。\n\n刚好最近我也在用 Muse，就让它把 DeepSeek Har...",
-      "url": "https://x.com/op7418/status/2103746853699465676",
-      "published_at": "2026-09-26T07:21:50Z",
-      "summary": "Muse 这种带虚拟机的 Agent ，玩法超级多 朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。 刚好最近我也在用 Muse，就让它把 DeepSeek Harness 装到 Muse 云端的虚拟机里去。 只要涉及到国内的信息检索，就直接调用虚拟机上的 DeepSeek Harness 去查。💬112🔄24❤️197👀61631📊149⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "518ce1f32712aa6acf0a728f351a9a4032b3a08b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。\n\n新增了资源库和图像两个页面。\n\n资源库里包含你所有的图像、图片、文件夹和...",
-      "url": "https://x.com/op7418/status/2103740776647942575",
-      "published_at": "2026-09-26T06:57:41Z",
-      "summary": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。 新增了资源库和图像两个页面。 资源库里包含你所有的图像、图片、文件夹和收藏，你创作的所有文档以及 AI 创作的图像文档也都保存在这里。 图片那边的话，就是 ChatGPT 原来的图片页面里，有一些用 GPT-Image 模型的一些模板和提示词 其实这样改更好了。 不然之前全放在顶部，随着项目和聊天越来越多，每次找顶部那几个入口都得往回滚，挺烦的。 而且这次藏师傅的 CodePilot 领先 Codex 一个版本，几个月前就添加了资…"
-    },
-    {
-      "id": "09a3e5225231146daa619f2b5e8f9f9280dd0e1f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这是徽章版本",
-      "url": "https://x.com/op7418/status/2103725620698255417",
-      "published_at": "2026-09-26T05:57:27Z",
-      "summary": "这是徽章版本Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️10👀3104📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "964df51ef6adf63f06733097407e685bc118eec4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "用 Opus 5.5 做游戏结算动画，也很不错!\n\n原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现\n\n这是第一个宝箱版本，后面还有个徽章...",
-      "url": "https://x.com/op7418/status/2103724883301814408",
-      "published_at": "2026-09-26T05:54:32Z",
-      "summary": "用 Opus 5.5 做游戏结算动画，也很不错! 原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现 这是第一个宝箱版本，后面还有个徽章版本Your browser does not support the video tag.🔗 View on Twitter💬13🔄7❤️205👀20342📊67⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "40030e10165e1eb05d354b0d623b5c3d36f73e74",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "真他妈离谱啊，用 Opus 5.5 做的网页版的Splatoon",
-      "url": "https://x.com/op7418/status/2103709667138621740",
-      "published_at": "2026-09-26T04:54:04Z",
-      "summary": "真他妈离谱啊，用 Opus 5.5 做的网页版的SplatoonJayden Davis@JaydenDavisNCThe full Splatoon Game made by Claude Opus 5.5 from scratch is now out exclusively on the browser! Here is some gameplay, enjoy and have fun! inkwave-six.vercel.appYour browser does not support the video tag.🔗 View on Twit…"
+      "summary": "他们还有这个构件的功能，就是将你的上下文作为数据库，然后将 artifact 固定成看板💬2🔄0❤️5👀4355📊3⚡ Powered by xgo.ing"
     }
   ]
 }
