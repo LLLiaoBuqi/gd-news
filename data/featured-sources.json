@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T05:40:06.601605Z",
+  "generated_at": "2026-09-28T12:35:41.710648Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 423,
+      "duration_ms": 430,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 45,
+      "duration_ms": 54,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 981,
+      "duration_ms": 910,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1041,
+      "duration_ms": 1168,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 838,
+      "duration_ms": 607,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 370,
+      "duration_ms": 717,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 574,
+      "duration_ms": 363,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 54,
+      "duration_ms": 43,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1897,
+      "duration_ms": 1776,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 912,
+      "duration_ms": 1241,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,37 +192,15 @@
       ],
       "items": [
         {
-          "id": "452c343f4a72aa2cd9bfc611a5d2c98f24475699",
+          "id": "b182796dba89e0bbc5ef089d4a4b4dbf3840bae4",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
+          "source": "数字生命卡兹克",
           "region": "domestic",
-          "title": "提示词:\n\n帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。\n做成一个可以直接打开的单文件网页（HTML + CSS + J...",
-          "url": "https://x.com/op7418/status/2104085539419021491",
-          "published_at": "2026-09-27T05:47:39Z",
-          "summary": "提示词: 帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。 【世界观与风格】 - 原创美术，不要模仿任何现有游戏的 IP、角色或 Logo。 - 卡通手游风：高饱和配色，统一的深色描边（例如 #1A1033），圆润厚重的造型。 - 配色随等级升级：[等级阶梯，例如：普通绿 → 稀有蓝 → 史诗紫 → 传说金]。每升一级都要切换主色、光效颜色和背景色调。…"
-        },
-        {
-          "id": "e324dec4cef8c5bc8098060fd3c5092c605c90cb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Opus 5.5 游戏动效制作提示词来了！\n\n昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。\n\n顺便还做了一个新的抽卡动画，提示词太长放下面了",
-          "url": "https://x.com/op7418/status/2104085484347818226",
-          "published_at": "2026-09-27T05:47:26Z",
-          "summary": "Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418用 Opus 5.5 做游戏结算动画，也很不错! 原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现 这是第一个宝箱版本，后面还有个徽章版本Your browser d…"
-        },
-        {
-          "id": "e5f21121684d7dae080b9544f4c1ed5b85a417cd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "早上整个日报啥的",
-          "url": "https://x.com/op7418/status/2104084543976386568",
-          "published_at": "2026-09-27T05:43:41Z",
-          "summary": "早上整个日报啥的💬0🔄0❤️0👀2210⚡ Powered by xgo.ing"
+          "title": "我整理了GPT-Image 2.5的12种玩法，希望能承包你的整个假期朋友圈。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686740&idx=1&sn=ae96d1c72375f5ad62ddb05432b04584",
+          "published_at": "2026-09-28T00:28:00Z",
+          "summary": "拯救你的所有废片"
         }
       ]
     },
@@ -240,37 +218,15 @@
   },
   "items": [
     {
-      "id": "452c343f4a72aa2cd9bfc611a5d2c98f24475699",
+      "id": "b182796dba89e0bbc5ef089d4a4b4dbf3840bae4",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
+      "source": "数字生命卡兹克",
       "region": "domestic",
-      "title": "提示词:\n\n帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。\n做成一个可以直接打开的单文件网页（HTML + CSS + J...",
-      "url": "https://x.com/op7418/status/2104085539419021491",
-      "published_at": "2026-09-27T05:47:39Z",
-      "summary": "提示词: 帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML + CSS + JS），点一下就能完整播放，效果对标商业手游的结算 / 奖励演出。 【世界观与风格】 - 原创美术，不要模仿任何现有游戏的 IP、角色或 Logo。 - 卡通手游风：高饱和配色，统一的深色描边（例如 #1A1033），圆润厚重的造型。 - 配色随等级升级：[等级阶梯，例如：普通绿 → 稀有蓝 → 史诗紫 → 传说金]。每升一级都要切换主色、光效颜色和背景色调。…"
-    },
-    {
-      "id": "e324dec4cef8c5bc8098060fd3c5092c605c90cb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Opus 5.5 游戏动效制作提示词来了！\n\n昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。\n\n顺便还做了一个新的抽卡动画，提示词太长放下面了",
-      "url": "https://x.com/op7418/status/2104085484347818226",
-      "published_at": "2026-09-27T05:47:26Z",
-      "summary": "Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418用 Opus 5.5 做游戏结算动画，也很不错! 原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现 这是第一个宝箱版本，后面还有个徽章版本Your browser d…"
-    },
-    {
-      "id": "e5f21121684d7dae080b9544f4c1ed5b85a417cd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "早上整个日报啥的",
-      "url": "https://x.com/op7418/status/2104084543976386568",
-      "published_at": "2026-09-27T05:43:41Z",
-      "summary": "早上整个日报啥的💬0🔄0❤️0👀2210⚡ Powered by xgo.ing"
+      "title": "我整理了GPT-Image 2.5的12种玩法，希望能承包你的整个假期朋友圈。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686740&idx=1&sn=ae96d1c72375f5ad62ddb05432b04584",
+      "published_at": "2026-09-28T00:28:00Z",
+      "summary": "拯救你的所有废片"
     }
   ]
 }
