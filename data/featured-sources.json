@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-10-01T09:12:23.764739Z",
+  "generated_at": "2026-10-01T16:35:45.578515Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 8,
   "feed_total": 12,
-  "ok_feeds": 9,
+  "ok_feeds": 8,
   "failed_feeds": [
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
-    "rsshub://bilibili/user/video/385670211"
+    "rsshub://bilibili/user/video/385670211",
+    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -20,7 +21,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1346,
+      "duration_ms": 534,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +35,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 20,
+      "duration_ms": 62,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +49,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1471,
+      "duration_ms": 834,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +63,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1485,
+      "duration_ms": 1009,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +77,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1144,
+      "duration_ms": 480,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +91,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 434,
+      "duration_ms": 418,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +119,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1108,
+      "duration_ms": 678,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +133,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 103,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +147,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1878,
+      "duration_ms": 1782,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -172,10 +173,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 1201,
-      "error": null,
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 118,
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -184,13 +185,36 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 5,
       "feed_total": 5,
-      "ok_feeds": 4,
+      "ok_feeds": 3,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
       ],
       "items": [
+        {
+          "id": "209034c73610980cd75fbe25b5f4e590b458517d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Opus 5.5 做这种科普和人文视频也很牛批啊\n\n让他做了一个关于榫卯的科普介绍视频，质量非常好",
+          "url": "https://x.com/op7418/status/2105675440409174160",
+          "published_at": "2026-10-01T15:05:21Z",
+          "summary": "Opus 5.5 做这种科普和人文视频也很牛批啊 让他做了一个关于榫卯的科普介绍视频，质量非常好Your browser does not support the video tag.🔗 View on Twitter💬8🔄1❤️29👀3831📊12⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "99b38dc6bdcad47cccf3a79d68455c64e34c41da",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。\n\n而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。\n\n之前我们说的 100 万上...",
+          "url": "https://x.com/op7418/status/2105578214970237149",
+          "published_at": "2026-10-01T08:39:00Z",
+          "summary": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。 而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。 之前我们说的 100 万上下文只是输入长度可以很长，输出的话大部分都是 64K，直接把输出长度扩展到 100 万还是挺顶的。 我对谷歌的希望，就是它能有一个接近于国产模型头部的 Agent 或者 coding 能力，同时依旧维持它比较长板的写作能力和多模态能力，这样就已经很能打了Google AI@GoogleAIAnnouncing Gemini 4 Argon, our new fr…"
+        },
         {
           "id": "0953e335fb7b363b39cdca407706201760374fc9",
           "site_id": "featuredrss",
@@ -200,7 +224,7 @@
           "title": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少",
           "url": "https://x.com/op7418/status/2105491916586631647",
           "published_at": "2026-10-01T02:56:05Z",
-          "summary": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少💬2🔄0❤️3👀2291📊2⚡ Powered by xgo.ing"
+          "summary": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少💬3🔄0❤️3👀3238📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "82566282aa8c0044c28d534726b572b6daf92820",
@@ -211,7 +235,7 @@
           "title": "最近 Personal Agent 很火\n\n对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。\n\nGrokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很...",
           "url": "https://x.com/op7418/status/2105490925518815618",
           "published_at": "2026-10-01T02:52:09Z",
-          "summary": "最近 Personal Agent 很火 对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。 Grokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很高。 不过 Dot 好像不是独享虚拟机的，可能存在共用情况💬18🔄5❤️32👀9722📊23⚡ Powered by xgo.ing"
+          "summary": "最近 Personal Agent 很火 对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。 Grokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很高。 不过 Dot 好像不是独享虚拟机的，可能存在共用情况💬24🔄6❤️52👀16468📊32⚡ Powered by xgo.ing"
         },
         {
           "id": "83ce7803012b4c3f65d679cfe463868703f6084b",
@@ -222,68 +246,13 @@
           "title": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面",
           "url": "https://x.com/op7418/status/2105339488969036268",
           "published_at": "2026-09-30T16:50:24Z",
-          "summary": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面Anime Girl Worshiper@TobynJacobsI put the entire of game minecraft into elden ring as mod. its runs on Mac.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀7654📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8d19e2ee5643c035aad56e0a5101156028e2fcba",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "就是介绍一下玩法哈，别纠结视频效果，一分价钱一分货",
-          "url": "https://x.com/op7418/status/2105322339919654948",
-          "published_at": "2026-09-30T15:42:15Z",
-          "summary": "就是介绍一下玩法哈，别纠结视频效果，一分价钱一分货💬0🔄0❤️1👀2215⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ee97b4e198aa64d42e763b5fd04787b53af978fa",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Muse 用法+1，每天早上帮我生成一个 AI 资讯早报视频\n\n写一下实践的步骤：\n\n1. 基于我日常的内容渠道和喜好先整理文案来源到 Notion 和聊天里面\n\n2. 查找下载相关内容的图片和视频素...",
-          "url": "https://x.com/op7418/status/2105320934072865260",
-          "published_at": "2026-09-30T15:36:40Z",
-          "summary": "Muse 用法+1，每天早上帮我生成一个 AI 资讯早报视频 写一下实践的步骤： 1. 基于我日常的内容渠道和喜好先整理文案来源到 Notion 和聊天里面 2. 查找下载相关内容的图片和视频素材 3. 在虚拟机里面通过 Pi 调用我的 K3 和 GLM 5.3 模型利用 guizang-product-video-skill 将所有的信息组装成视频 4. 通过 Mues 聊天界面发给我Your browser does not support the video tag.🔗 View on Twitter💬35🔄8❤️79👀13781📊53⚡ Powe…"
-        },
-        {
-          "id": "789f55b142e077fb2c40cc4bd0a75a4bacd58d37",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "也就是之前一周的量，等于送了一次灵活重置",
-          "url": "https://x.com/op7418/status/2105297008286392651",
-          "published_at": "2026-09-30T14:01:35Z",
-          "summary": "也就是之前一周的量，等于送了一次灵活重置💬0🔄0❤️4👀2829📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ad6f50f8c80bde2b9f5cc80eddf7cc667f6f56db",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我算了一下，购买积分的话，2500 积分是 100 美元。\n\n所以如果按积分的价格算，这 62500 积分等于一次性给了你 2500 美元的额度",
-          "url": "https://x.com/op7418/status/2105295158350889011",
-          "published_at": "2026-09-30T13:54:14Z",
-          "summary": "我算了一下，购买积分的话，2500 积分是 100 美元。 所以如果按积分的价格算，这 62500 积分等于一次性给了你 2500 美元的额度💬1🔄0❤️5👀3687📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d5773f6484dc2a24c7750753baae4e77445231f5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "收到 OpenAI 发的邮件了。\n\n应该是在调整 200 美元 Pro 会员额度以后，给所有受影响的 200 美元 Pro 用户增加了 62,500 点积分。\n\n这个是长期的，会在今年年底过期，看起来...",
-          "url": "https://x.com/op7418/status/2105289078971437268",
-          "published_at": "2026-09-30T13:30:05Z",
-          "summary": "收到 OpenAI 发的邮件了。 应该是在调整 200 美元 Pro 会员额度以后，给所有受影响的 200 美元 Pro 用户增加了 62,500 点积分。 这个是长期的，会在今年年底过期，看起来积分挺多的。 我觉得他们如果在宣传的时候，把这些补偿措施一下子说完，昨天大家抵触情绪可能也不会这么强烈歸藏(guizang.ai)@op7418Tibo 宣布，明天 Codex 200 美元的会员按照 API 额度算的话，会开始减半，降低一半额度。 这也就是为什么之前传言他们会出 500 美元，估计 500 美元的额度跟现在的 200 美元是一样的吧。 他找补了…"
+          "summary": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面Anime Girl Worshiper@TobynJacobsI put the entire of game minecraft into elden ring as mod. its runs on Mac.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀9064📊1⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -311,7 +280,7 @@
           "title": "Learn more ↓\nhttps://t.co/5HDyFn72nL",
           "url": "https://x.com/GoogleAI/status/2105388481031647521",
           "published_at": "2026-09-30T20:05:04Z",
-          "summary": "Learn more ↓ blog.google/innovation-and…💬8🔄15❤️273👀59447📊34⚡ Powered by xgo.ing"
+          "summary": "Learn more ↓ blog.google/innovation-and…💬12🔄16❤️297👀65850📊39⚡ Powered by xgo.ing"
         },
         {
           "id": "b5cb1ae7e6a37784df3e9e84478363743f7a398d",
@@ -323,55 +292,33 @@
           "url": "https://x.com/OpenAI/status/2105373267171438779",
           "published_at": "2026-09-30T19:04:37Z",
           "summary": "Small teams are taking on more with AI—from finding customers to building products and managing finances. Our new report explores how small businesses are putting AI agents to work. And through a new partnership with @ASBDC, we're bringing hands-on AI training and local guidance…"
-        },
-        {
-          "id": "69b2b0ae63e84fe0d68feb1844d0eea4cdc2768a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Gems will automatically migrate into Skills.\n\nAs we bring even more functionality to skills in the c...",
-          "url": "https://x.com/GeminiApp/status/2105328195511984523",
-          "published_at": "2026-09-30T16:05:31Z",
-          "summary": "Gems will automatically migrate into Skills. As we bring even more functionality to skills in the coming weeks, skills will replace Gems as the tool for tailoring instructions for specific tasks starting in November for individuals with personal accounts (March 2027 for Workspace…"
-        },
-        {
-          "id": "eb9dc551402c77549e93798bc9c1b8193d90c3eb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Skills are rolling out globally in Gemini today, and expanding to @GoogleWorkspace business, enterpr...",
-          "url": "https://x.com/GeminiApp/status/2105328196816457902",
-          "published_at": "2026-09-30T16:05:31Z",
-          "summary": "Skills are rolling out globally in Gemini today, and expanding to @GoogleWorkspace business, enterprise, nonprofit, and education customers in the coming weeks. Learn how you can let skills in Gemini tackle your most repetitive tasks in our blog : goo.gle/4AGE1DE💬4🔄10❤️64👀12488📊1…"
-        },
-        {
-          "id": "467219fe934fb2b6baf320b5a2ec5998819987c6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Skip the repetitive prompting and jump straight to the results with skills in Gemini.\n\nSkills are sa...",
-          "url": "https://x.com/GeminiApp/status/2105327839054835886",
-          "published_at": "2026-09-30T16:04:06Z",
-          "summary": "Skip the repetitive prompting and jump straight to the results with skills in Gemini. Skills are saved sets of instructions for specific tasks that you do time and time again. Think of a skill like a shortcut, ready whenever you need it. 🧵💬114🔄187❤️1819👀156405📊379⚡ Powered by xgo…"
-        },
-        {
-          "id": "7f46585656d1fccc5d9a3bd4aebebd4e024bb67c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic News",
-          "region": "global",
-          "title": "Barclays scales Claude to upgrade operations and improve client experience",
-          "url": "https://www.anthropic.com/news/barclays-scales-claude",
-          "published_at": "2026-09-30T16:00:00Z",
-          "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations. Barclays is extending Claude across the bank to accelerate software development, modernize legacy systems a…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "209034c73610980cd75fbe25b5f4e590b458517d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Opus 5.5 做这种科普和人文视频也很牛批啊\n\n让他做了一个关于榫卯的科普介绍视频，质量非常好",
+      "url": "https://x.com/op7418/status/2105675440409174160",
+      "published_at": "2026-10-01T15:05:21Z",
+      "summary": "Opus 5.5 做这种科普和人文视频也很牛批啊 让他做了一个关于榫卯的科普介绍视频，质量非常好Your browser does not support the video tag.🔗 View on Twitter💬8🔄1❤️29👀3831📊12⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "99b38dc6bdcad47cccf3a79d68455c64e34c41da",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。\n\n而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。\n\n之前我们说的 100 万上...",
+      "url": "https://x.com/op7418/status/2105578214970237149",
+      "published_at": "2026-10-01T08:39:00Z",
+      "summary": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。 而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。 之前我们说的 100 万上下文只是输入长度可以很长，输出的话大部分都是 64K，直接把输出长度扩展到 100 万还是挺顶的。 我对谷歌的希望，就是它能有一个接近于国产模型头部的 Agent 或者 coding 能力，同时依旧维持它比较长板的写作能力和多模态能力，这样就已经很能打了Google AI@GoogleAIAnnouncing Gemini 4 Argon, our new fr…"
+    },
     {
       "id": "0953e335fb7b363b39cdca407706201760374fc9",
       "site_id": "featuredrss",
@@ -381,7 +328,7 @@
       "title": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少",
       "url": "https://x.com/op7418/status/2105491916586631647",
       "published_at": "2026-10-01T02:56:05Z",
-      "summary": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少💬2🔄0❤️3👀2291📊2⚡ Powered by xgo.ing"
+      "summary": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少💬3🔄0❤️3👀3238📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "82566282aa8c0044c28d534726b572b6daf92820",
@@ -392,7 +339,7 @@
       "title": "最近 Personal Agent 很火\n\n对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。\n\nGrokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很...",
       "url": "https://x.com/op7418/status/2105490925518815618",
       "published_at": "2026-10-01T02:52:09Z",
-      "summary": "最近 Personal Agent 很火 对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。 Grokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很高。 不过 Dot 好像不是独享虚拟机的，可能存在共用情况💬18🔄5❤️32👀9722📊23⚡ Powered by xgo.ing"
+      "summary": "最近 Personal Agent 很火 对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。 Grokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很高。 不过 Dot 好像不是独享虚拟机的，可能存在共用情况💬24🔄6❤️52👀16468📊32⚡ Powered by xgo.ing"
     },
     {
       "id": "1ac465a82cfa7b081b95bd6a34e572c0fdc787ff",
@@ -414,7 +361,7 @@
       "title": "Learn more ↓\nhttps://t.co/5HDyFn72nL",
       "url": "https://x.com/GoogleAI/status/2105388481031647521",
       "published_at": "2026-09-30T20:05:04Z",
-      "summary": "Learn more ↓ blog.google/innovation-and…💬8🔄15❤️273👀59447📊34⚡ Powered by xgo.ing"
+      "summary": "Learn more ↓ blog.google/innovation-and…💬12🔄16❤️297👀65850📊39⚡ Powered by xgo.ing"
     },
     {
       "id": "b5cb1ae7e6a37784df3e9e84478363743f7a398d",
@@ -436,106 +383,7 @@
       "title": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面",
       "url": "https://x.com/op7418/status/2105339488969036268",
       "published_at": "2026-09-30T16:50:24Z",
-      "summary": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面Anime Girl Worshiper@TobynJacobsI put the entire of game minecraft into elden ring as mod. its runs on Mac.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀7654📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "69b2b0ae63e84fe0d68feb1844d0eea4cdc2768a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gems will automatically migrate into Skills.\n\nAs we bring even more functionality to skills in the c...",
-      "url": "https://x.com/GeminiApp/status/2105328195511984523",
-      "published_at": "2026-09-30T16:05:31Z",
-      "summary": "Gems will automatically migrate into Skills. As we bring even more functionality to skills in the coming weeks, skills will replace Gems as the tool for tailoring instructions for specific tasks starting in November for individuals with personal accounts (March 2027 for Workspace…"
-    },
-    {
-      "id": "eb9dc551402c77549e93798bc9c1b8193d90c3eb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Skills are rolling out globally in Gemini today, and expanding to @GoogleWorkspace business, enterpr...",
-      "url": "https://x.com/GeminiApp/status/2105328196816457902",
-      "published_at": "2026-09-30T16:05:31Z",
-      "summary": "Skills are rolling out globally in Gemini today, and expanding to @GoogleWorkspace business, enterprise, nonprofit, and education customers in the coming weeks. Learn how you can let skills in Gemini tackle your most repetitive tasks in our blog : goo.gle/4AGE1DE💬4🔄10❤️64👀12488📊1…"
-    },
-    {
-      "id": "467219fe934fb2b6baf320b5a2ec5998819987c6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Skip the repetitive prompting and jump straight to the results with skills in Gemini.\n\nSkills are sa...",
-      "url": "https://x.com/GeminiApp/status/2105327839054835886",
-      "published_at": "2026-09-30T16:04:06Z",
-      "summary": "Skip the repetitive prompting and jump straight to the results with skills in Gemini. Skills are saved sets of instructions for specific tasks that you do time and time again. Think of a skill like a shortcut, ready whenever you need it. 🧵💬114🔄187❤️1819👀156405📊379⚡ Powered by xgo…"
-    },
-    {
-      "id": "7f46585656d1fccc5d9a3bd4aebebd4e024bb67c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic News",
-      "region": "global",
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "published_at": "2026-09-30T16:00:00Z",
-      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations. Barclays is extending Claude across the bank to accelerate software development, modernize legacy systems a…"
-    },
-    {
-      "id": "8d19e2ee5643c035aad56e0a5101156028e2fcba",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "就是介绍一下玩法哈，别纠结视频效果，一分价钱一分货",
-      "url": "https://x.com/op7418/status/2105322339919654948",
-      "published_at": "2026-09-30T15:42:15Z",
-      "summary": "就是介绍一下玩法哈，别纠结视频效果，一分价钱一分货💬0🔄0❤️1👀2215⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ee97b4e198aa64d42e763b5fd04787b53af978fa",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Muse 用法+1，每天早上帮我生成一个 AI 资讯早报视频\n\n写一下实践的步骤：\n\n1. 基于我日常的内容渠道和喜好先整理文案来源到 Notion 和聊天里面\n\n2. 查找下载相关内容的图片和视频素...",
-      "url": "https://x.com/op7418/status/2105320934072865260",
-      "published_at": "2026-09-30T15:36:40Z",
-      "summary": "Muse 用法+1，每天早上帮我生成一个 AI 资讯早报视频 写一下实践的步骤： 1. 基于我日常的内容渠道和喜好先整理文案来源到 Notion 和聊天里面 2. 查找下载相关内容的图片和视频素材 3. 在虚拟机里面通过 Pi 调用我的 K3 和 GLM 5.3 模型利用 guizang-product-video-skill 将所有的信息组装成视频 4. 通过 Mues 聊天界面发给我Your browser does not support the video tag.🔗 View on Twitter💬35🔄8❤️79👀13781📊53⚡ Powe…"
-    },
-    {
-      "id": "789f55b142e077fb2c40cc4bd0a75a4bacd58d37",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "也就是之前一周的量，等于送了一次灵活重置",
-      "url": "https://x.com/op7418/status/2105297008286392651",
-      "published_at": "2026-09-30T14:01:35Z",
-      "summary": "也就是之前一周的量，等于送了一次灵活重置💬0🔄0❤️4👀2829📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ad6f50f8c80bde2b9f5cc80eddf7cc667f6f56db",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我算了一下，购买积分的话，2500 积分是 100 美元。\n\n所以如果按积分的价格算，这 62500 积分等于一次性给了你 2500 美元的额度",
-      "url": "https://x.com/op7418/status/2105295158350889011",
-      "published_at": "2026-09-30T13:54:14Z",
-      "summary": "我算了一下，购买积分的话，2500 积分是 100 美元。 所以如果按积分的价格算，这 62500 积分等于一次性给了你 2500 美元的额度💬1🔄0❤️5👀3687📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d5773f6484dc2a24c7750753baae4e77445231f5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "收到 OpenAI 发的邮件了。\n\n应该是在调整 200 美元 Pro 会员额度以后，给所有受影响的 200 美元 Pro 用户增加了 62,500 点积分。\n\n这个是长期的，会在今年年底过期，看起来...",
-      "url": "https://x.com/op7418/status/2105289078971437268",
-      "published_at": "2026-09-30T13:30:05Z",
-      "summary": "收到 OpenAI 发的邮件了。 应该是在调整 200 美元 Pro 会员额度以后，给所有受影响的 200 美元 Pro 用户增加了 62,500 点积分。 这个是长期的，会在今年年底过期，看起来积分挺多的。 我觉得他们如果在宣传的时候，把这些补偿措施一下子说完，昨天大家抵触情绪可能也不会这么强烈歸藏(guizang.ai)@op7418Tibo 宣布，明天 Codex 200 美元的会员按照 API 额度算的话，会开始减半，降低一半额度。 这也就是为什么之前传言他们会出 500 美元，估计 500 美元的额度跟现在的 200 美元是一样的吧。 他找补了…"
+      "summary": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面Anime Girl Worshiper@TobynJacobsI put the entire of game minecraft into elden ring as mod. its runs on Mac.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀9064📊1⚡ Powered by xgo.ing"
     }
   ]
 }
