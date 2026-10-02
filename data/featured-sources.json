@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-10-01T16:35:45.578515Z",
+  "generated_at": "2026-10-02T13:59:16.693383Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 4,
   "feed_total": 12,
-  "ok_feeds": 8,
+  "ok_feeds": 9,
   "failed_feeds": [
     "rsshub://bilibili/user/video/302188068",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
-    "rsshub://bilibili/user/video/385670211",
-    "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+    "rsshub://bilibili/user/video/385670211"
   ],
   "skipped_feeds": [],
   "feeds": [
@@ -21,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 534,
+      "duration_ms": 816,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -35,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 62,
+      "duration_ms": 26,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -49,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 834,
+      "duration_ms": 894,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -63,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1009,
+      "duration_ms": 1246,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -77,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 480,
+      "duration_ms": 641,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -91,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 418,
+      "duration_ms": 1465,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -119,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 678,
+      "duration_ms": 1519,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -133,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 103,
+      "duration_ms": 32,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -147,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1782,
+      "duration_ms": 1744,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -173,10 +172,10 @@
       "feed_title": "阿真Irene",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 118,
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 570,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -185,14 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 4,
       "feed_total": 5,
-      "ok_feeds": 3,
+      "ok_feeds": 4,
       "failed_feeds": [
-        "https://imjuya.github.io/juya-ai-daily/rss.xml",
-        "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml"
+        "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "994f32ab054fbd0c09c22ae89095e1644d2e6884",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "国庆相册里舍不得删的废片，我找到了25种新玩法来拯救它们！",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512190&idx=1&sn=91d791884cd089c7204d4a32f9d068fe",
+          "published_at": "2026-10-02T10:07:00Z",
+          "summary": "Hy Image3.5 preview真的行，元宝免费！"
+        },
+        {
+          "id": "f069be7b21b057b5b1c7e025c551364113a4ccf0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "最近 Agent 也像以前的一些软件一样出现了分化：\n\n1. Personal Agent（面向大众与生活类工具）：\n\n这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生...",
+          "url": "https://x.com/op7418/status/2105883326599032937",
+          "published_at": "2026-10-02T04:51:25Z",
+          "summary": "最近 Agent 也像以前的一些软件一样出现了分化： 1. Personal Agent（面向大众与生活类工具）： 这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生活、处理简单的工作。 它的特点是上手门槛非常低，只需要通过对话就可以完成任务，并且还会配有一个远程虚拟机供用户自己使用。 2. 极致自定义与自我构建的 Agent（面向专家与专业技能人群）： 这部分强调极致的自定义和丰富的自我构建，类似于通过迭代式（如 RSI 方式）去构建自己的软件，让专家和拥有专业技能的人构建自己的 Agent。 在底层 Agent 的框架上…"
+        },
+        {
+          "id": "dd463a29fbe39021d24a6687d6de230d7f7cce91",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。...",
+          "url": "https://x.com/op7418/status/2105867869749993678",
+          "published_at": "2026-10-02T03:49:59Z",
+          "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。 但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。💬22🔄13❤️89👀21875📊45⚡ Powered by xgo.ing"
+        },
         {
           "id": "209034c73610980cd75fbe25b5f4e590b458517d",
           "site_id": "featuredrss",
@@ -202,101 +233,56 @@
           "title": "Opus 5.5 做这种科普和人文视频也很牛批啊\n\n让他做了一个关于榫卯的科普介绍视频，质量非常好",
           "url": "https://x.com/op7418/status/2105675440409174160",
           "published_at": "2026-10-01T15:05:21Z",
-          "summary": "Opus 5.5 做这种科普和人文视频也很牛批啊 让他做了一个关于榫卯的科普介绍视频，质量非常好Your browser does not support the video tag.🔗 View on Twitter💬8🔄1❤️29👀3831📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "99b38dc6bdcad47cccf3a79d68455c64e34c41da",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。\n\n而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。\n\n之前我们说的 100 万上...",
-          "url": "https://x.com/op7418/status/2105578214970237149",
-          "published_at": "2026-10-01T08:39:00Z",
-          "summary": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。 而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。 之前我们说的 100 万上下文只是输入长度可以很长，输出的话大部分都是 64K，直接把输出长度扩展到 100 万还是挺顶的。 我对谷歌的希望，就是它能有一个接近于国产模型头部的 Agent 或者 coding 能力，同时依旧维持它比较长板的写作能力和多模态能力，这样就已经很能打了Google AI@GoogleAIAnnouncing Gemini 4 Argon, our new fr…"
-        },
-        {
-          "id": "0953e335fb7b363b39cdca407706201760374fc9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少",
-          "url": "https://x.com/op7418/status/2105491916586631647",
-          "published_at": "2026-10-01T02:56:05Z",
-          "summary": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少💬3🔄0❤️3👀3238📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "82566282aa8c0044c28d534726b572b6daf92820",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "最近 Personal Agent 很火\n\n对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。\n\nGrokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很...",
-          "url": "https://x.com/op7418/status/2105490925518815618",
-          "published_at": "2026-10-01T02:52:09Z",
-          "summary": "最近 Personal Agent 很火 对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。 Grokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很高。 不过 Dot 好像不是独享虚拟机的，可能存在共用情况💬24🔄6❤️52👀16468📊32⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "83ce7803012b4c3f65d679cfe463868703f6084b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面",
-          "url": "https://x.com/op7418/status/2105339488969036268",
-          "published_at": "2026-09-30T16:50:24Z",
-          "summary": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面Anime Girl Worshiper@TobynJacobsI put the entire of game minecraft into elden ring as mod. its runs on Mac.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀9064📊1⚡ Powered by xgo.ing"
+          "summary": "Opus 5.5 做这种科普和人文视频也很牛批啊 让他做了一个关于榫卯的科普介绍视频，质量非常好Your browser does not support the video tag.🔗 View on Twitter💬25🔄8❤️114👀18058📊44⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "1ac465a82cfa7b081b95bd6a34e572c0fdc787ff",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Announcing Gemini 4 Argon, our new frontier model.\n\nArgon is built to sustain deep reasoning across ...",
-          "url": "https://x.com/GoogleAI/status/2105388478683119904",
-          "published_at": "2026-09-30T20:05:04Z",
-          "summary": "Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and…"
-        },
-        {
-          "id": "a480c829cd4ed71d6fe6b5bebd9fe5d365318b0e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Learn more ↓\nhttps://t.co/5HDyFn72nL",
-          "url": "https://x.com/GoogleAI/status/2105388481031647521",
-          "published_at": "2026-09-30T20:05:04Z",
-          "summary": "Learn more ↓ blog.google/innovation-and…💬12🔄16❤️297👀65850📊39⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b5cb1ae7e6a37784df3e9e84478363743f7a398d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Small teams are taking on more with AI—from finding customers to building products and managing fina...",
-          "url": "https://x.com/OpenAI/status/2105373267171438779",
-          "published_at": "2026-09-30T19:04:37Z",
-          "summary": "Small teams are taking on more with AI—from finding customers to building products and managing finances. Our new report explores how small businesses are putting AI agents to work. And through a new partnership with @ASBDC, we're bringing hands-on AI training and local guidance…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
+    {
+      "id": "994f32ab054fbd0c09c22ae89095e1644d2e6884",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "国庆相册里舍不得删的废片，我找到了25种新玩法来拯救它们！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512190&idx=1&sn=91d791884cd089c7204d4a32f9d068fe",
+      "published_at": "2026-10-02T10:07:00Z",
+      "summary": "Hy Image3.5 preview真的行，元宝免费！"
+    },
+    {
+      "id": "f069be7b21b057b5b1c7e025c551364113a4ccf0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "最近 Agent 也像以前的一些软件一样出现了分化：\n\n1. Personal Agent（面向大众与生活类工具）：\n\n这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生...",
+      "url": "https://x.com/op7418/status/2105883326599032937",
+      "published_at": "2026-10-02T04:51:25Z",
+      "summary": "最近 Agent 也像以前的一些软件一样出现了分化： 1. Personal Agent（面向大众与生活类工具）： 这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生活、处理简单的工作。 它的特点是上手门槛非常低，只需要通过对话就可以完成任务，并且还会配有一个远程虚拟机供用户自己使用。 2. 极致自定义与自我构建的 Agent（面向专家与专业技能人群）： 这部分强调极致的自定义和丰富的自我构建，类似于通过迭代式（如 RSI 方式）去构建自己的软件，让专家和拥有专业技能的人构建自己的 Agent。 在底层 Agent 的框架上…"
+    },
+    {
+      "id": "dd463a29fbe39021d24a6687d6de230d7f7cce91",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。...",
+      "url": "https://x.com/op7418/status/2105867869749993678",
+      "published_at": "2026-10-02T03:49:59Z",
+      "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。 但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。💬22🔄13❤️89👀21875📊45⚡ Powered by xgo.ing"
+    },
     {
       "id": "209034c73610980cd75fbe25b5f4e590b458517d",
       "site_id": "featuredrss",
@@ -306,84 +292,7 @@
       "title": "Opus 5.5 做这种科普和人文视频也很牛批啊\n\n让他做了一个关于榫卯的科普介绍视频，质量非常好",
       "url": "https://x.com/op7418/status/2105675440409174160",
       "published_at": "2026-10-01T15:05:21Z",
-      "summary": "Opus 5.5 做这种科普和人文视频也很牛批啊 让他做了一个关于榫卯的科普介绍视频，质量非常好Your browser does not support the video tag.🔗 View on Twitter💬8🔄1❤️29👀3831📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "99b38dc6bdcad47cccf3a79d68455c64e34c41da",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。\n\n而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。\n\n之前我们说的 100 万上...",
-      "url": "https://x.com/op7418/status/2105578214970237149",
-      "published_at": "2026-10-01T08:39:00Z",
-      "summary": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。 而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。 之前我们说的 100 万上下文只是输入长度可以很长，输出的话大部分都是 64K，直接把输出长度扩展到 100 万还是挺顶的。 我对谷歌的希望，就是它能有一个接近于国产模型头部的 Agent 或者 coding 能力，同时依旧维持它比较长板的写作能力和多模态能力，这样就已经很能打了Google AI@GoogleAIAnnouncing Gemini 4 Argon, our new fr…"
-    },
-    {
-      "id": "0953e335fb7b363b39cdca407706201760374fc9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少",
-      "url": "https://x.com/op7418/status/2105491916586631647",
-      "published_at": "2026-10-01T02:56:05Z",
-      "summary": "Dot 这个限制比较多，不能用 SSH 连，玩法少了不少💬3🔄0❤️3👀3238📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "82566282aa8c0044c28d534726b572b6daf92820",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "最近 Personal Agent 很火\n\n对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。\n\nGrokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很...",
-      "url": "https://x.com/op7418/status/2105490925518815618",
-      "published_at": "2026-10-01T02:52:09Z",
-      "summary": "最近 Personal Agent 很火 对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。 Grokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很高。 不过 Dot 好像不是独享虚拟机的，可能存在共用情况💬24🔄6❤️52👀16468📊32⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1ac465a82cfa7b081b95bd6a34e572c0fdc787ff",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Announcing Gemini 4 Argon, our new frontier model.\n\nArgon is built to sustain deep reasoning across ...",
-      "url": "https://x.com/GoogleAI/status/2105388478683119904",
-      "published_at": "2026-09-30T20:05:04Z",
-      "summary": "Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and…"
-    },
-    {
-      "id": "a480c829cd4ed71d6fe6b5bebd9fe5d365318b0e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Learn more ↓\nhttps://t.co/5HDyFn72nL",
-      "url": "https://x.com/GoogleAI/status/2105388481031647521",
-      "published_at": "2026-09-30T20:05:04Z",
-      "summary": "Learn more ↓ blog.google/innovation-and…💬12🔄16❤️297👀65850📊39⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b5cb1ae7e6a37784df3e9e84478363743f7a398d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Small teams are taking on more with AI—from finding customers to building products and managing fina...",
-      "url": "https://x.com/OpenAI/status/2105373267171438779",
-      "published_at": "2026-09-30T19:04:37Z",
-      "summary": "Small teams are taking on more with AI—from finding customers to building products and managing finances. Our new report explores how small businesses are putting AI agents to work. And through a new partnership with @ASBDC, we're bringing hands-on AI training and local guidance…"
-    },
-    {
-      "id": "83ce7803012b4c3f65d679cfe463868703f6084b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面",
-      "url": "https://x.com/op7418/status/2105339488969036268",
-      "published_at": "2026-09-30T16:50:24Z",
-      "summary": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面Anime Girl Worshiper@TobynJacobsI put the entire of game minecraft into elden ring as mod. its runs on Mac.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀9064📊1⚡ Powered by xgo.ing"
+      "summary": "Opus 5.5 做这种科普和人文视频也很牛批啊 让他做了一个关于榫卯的科普介绍视频，质量非常好Your browser does not support the video tag.🔗 View on Twitter💬25🔄8❤️114👀18058📊44⚡ Powered by xgo.ing"
     }
   ]
 }
