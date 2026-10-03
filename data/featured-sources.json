@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T13:59:16.693383Z",
+  "generated_at": "2026-10-03T02:10:10.150060Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 816,
+      "duration_ms": 153,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 26,
+      "duration_ms": 275,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 894,
+      "duration_ms": 1068,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1246,
+      "duration_ms": 1153,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 641,
+      "duration_ms": 987,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1465,
+      "duration_ms": 760,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1519,
+      "duration_ms": 1377,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1744,
+      "duration_ms": 1878,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 570,
+      "duration_ms": 890,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -191,6 +191,17 @@
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "25c72bbefe4b08778addf394ab1a33ab9e7b18ad",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色\n\n它可以帮你分配任务和创建各种不同的 Bot 分配任务\n\n易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太...",
+          "url": "https://x.com/op7418/status/2106037504642277451",
+          "published_at": "2026-10-02T15:04:04Z",
+          "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬19🔄0❤️15👀5772📊18⚡ Powered by xgo.ing"
+        },
         {
           "id": "994f32ab054fbd0c09c22ae89095e1644d2e6884",
           "site_id": "featuredrss",
@@ -222,34 +233,79 @@
           "title": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。...",
           "url": "https://x.com/op7418/status/2105867869749993678",
           "published_at": "2026-10-02T03:49:59Z",
-          "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。 但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。💬22🔄13❤️89👀21875📊45⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "209034c73610980cd75fbe25b5f4e590b458517d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Opus 5.5 做这种科普和人文视频也很牛批啊\n\n让他做了一个关于榫卯的科普介绍视频，质量非常好",
-          "url": "https://x.com/op7418/status/2105675440409174160",
-          "published_at": "2026-10-01T15:05:21Z",
-          "summary": "Opus 5.5 做这种科普和人文视频也很牛批啊 让他做了一个关于榫卯的科普介绍视频，质量非常好Your browser does not support the video tag.🔗 View on Twitter💬25🔄8❤️114👀18058📊44⚡ Powered by xgo.ing"
+          "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。 但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。💬25🔄19❤️113👀28931📊56⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "13c01997b434618da5ad8ee5176a15d1d474ca20",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Learn more ↓  https://t.co/2RgktiPyOC",
+          "url": "https://x.com/GoogleAI/status/2106049987905995221",
+          "published_at": "2026-10-02T15:53:40Z",
+          "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄4❤️33👀8955📊5⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b74a3b9a971817f44ec87f07450df5a9c9eea799",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Project Suncatcher has liftoff! ☀️🚀\n\nAnnounced last year, this moonshot project explores if we can ...",
+          "url": "https://x.com/GoogleAI/status/2106049984164463069",
+          "published_at": "2026-10-02T15:53:39Z",
+          "summary": "Project Suncatcher has liftoff! ☀️🚀 Announced last year, this moonshot project explores if we can one day host machine learning infrastructure in space. After years of research, we’ve just launched a prototype satellite, built in partnership with @planet, into orbit on @SpaceX's…"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "13c01997b434618da5ad8ee5176a15d1d474ca20",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Learn more ↓  https://t.co/2RgktiPyOC",
+      "url": "https://x.com/GoogleAI/status/2106049987905995221",
+      "published_at": "2026-10-02T15:53:40Z",
+      "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄4❤️33👀8955📊5⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b74a3b9a971817f44ec87f07450df5a9c9eea799",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Project Suncatcher has liftoff! ☀️🚀\n\nAnnounced last year, this moonshot project explores if we can ...",
+      "url": "https://x.com/GoogleAI/status/2106049984164463069",
+      "published_at": "2026-10-02T15:53:39Z",
+      "summary": "Project Suncatcher has liftoff! ☀️🚀 Announced last year, this moonshot project explores if we can one day host machine learning infrastructure in space. After years of research, we’ve just launched a prototype satellite, built in partnership with @planet, into orbit on @SpaceX's…"
+    },
+    {
+      "id": "25c72bbefe4b08778addf394ab1a33ab9e7b18ad",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色\n\n它可以帮你分配任务和创建各种不同的 Bot 分配任务\n\n易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太...",
+      "url": "https://x.com/op7418/status/2106037504642277451",
+      "published_at": "2026-10-02T15:04:04Z",
+      "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬19🔄0❤️15👀5772📊18⚡ Powered by xgo.ing"
+    },
     {
       "id": "994f32ab054fbd0c09c22ae89095e1644d2e6884",
       "site_id": "featuredrss",
@@ -281,18 +337,7 @@
       "title": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。...",
       "url": "https://x.com/op7418/status/2105867869749993678",
       "published_at": "2026-10-02T03:49:59Z",
-      "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。 但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。💬22🔄13❤️89👀21875📊45⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "209034c73610980cd75fbe25b5f4e590b458517d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Opus 5.5 做这种科普和人文视频也很牛批啊\n\n让他做了一个关于榫卯的科普介绍视频，质量非常好",
-      "url": "https://x.com/op7418/status/2105675440409174160",
-      "published_at": "2026-10-01T15:05:21Z",
-      "summary": "Opus 5.5 做这种科普和人文视频也很牛批啊 让他做了一个关于榫卯的科普介绍视频，质量非常好Your browser does not support the video tag.🔗 View on Twitter💬25🔄8❤️114👀18058📊44⚡ Powered by xgo.ing"
+      "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。 但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。💬25🔄19❤️113👀28931📊56⚡ Powered by xgo.ing"
     }
   ]
 }
