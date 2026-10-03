@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T02:10:10.150060Z",
+  "generated_at": "2026-10-03T08:23:26.660322Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 153,
+      "duration_ms": 310,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 275,
+      "duration_ms": 61,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1068,
+      "duration_ms": 1141,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1153,
+      "duration_ms": 1121,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 987,
+      "duration_ms": 962,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 760,
+      "duration_ms": 704,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1377,
+      "duration_ms": 511,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 62,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1878,
+      "duration_ms": 2220,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 890,
+      "duration_ms": 989,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,57 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "098aab8fe5a0f45b6bfa73a9bb8a5319481fb8bc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。\n\n只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。\n\n只要你不发行，感觉人人...",
+          "url": "https://x.com/op7418/status/2106220877872345298",
+          "published_at": "2026-10-03T03:12:43Z",
+          "summary": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。 只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。 只要你不发行，感觉人人都可以有游戏玩。 比如说《光环3》已经被完全反编译了，可能以后想怎么改就怎么改，基于它来做自己的那部分模组，或者是发布到其他平台的版本lostbutlucky@lostbutluckyHalo 3 has been fully decompiled🔗 View Quoted Tweet💬5🔄1❤️20👀8855📊8⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1cdaa1c3d9d8c9e5b1fd3498b5203b20dce341a3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哦 还有一个叫 Muse Home Link 的设备\n\n可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支...",
+          "url": "https://x.com/op7418/status/2106219779006829053",
+          "published_at": "2026-10-03T03:08:21Z",
+          "summary": "哦 还有一个叫 Muse Home Link 的设备 可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支持 Muse 的设备，然后 Muse 就可以调用它们进行协同工作。 比如让它开灯、控制电视，或者将一些文档发送到打印机。 这个 Muse Home Link 订阅用户可以免费领取，仅限美国。💬0🔄0❤️2👀1986📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "5d8273b4f02573524c176cb4f09a5377f06f259f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我去，这个好玩！\n\nMuse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。\n\n获得关于 Muse 的一些信息，然后来构建 ...",
+          "url": "https://x.com/op7418/status/2106219171914932515",
+          "published_at": "2026-10-03T03:05:56Z",
+          "summary": "我去，这个好玩！ Muse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。 获得关于 Muse 的一些信息，然后来构建 Muse 的周边硬件。这个太爽了呀！ 不用羡慕他们刚发布的那个 Muse 硬件了，你现在可以自己做。Nat Friedman@natfriedman🚨 side project alert 🚨 Announcing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can…"
+        },
+        {
+          "id": "db17c0e8a9bcd1d3839ff0a00996ac68d8c205d2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哈哈 这个 Claude Mod 好玩，在等待任务的时候启动一个游戏，里面匹配的全是等待 Claude 完成任务的人",
+          "url": "https://x.com/op7418/status/2106218041780711815",
+          "published_at": "2026-10-03T03:01:27Z",
+          "summary": "哈哈 这个 Claude Mod 好玩，在等待任务的时候启动一个游戏，里面匹配的全是等待 Claude 完成任务的人Alex Christou@alexchristou_Claude Code just shipped mods... I made one that connects you to a multiplayer MW2 Quick scoping lobby Every other player in the match is a person waiting for their Claude to finish.Your browser…"
+        },
         {
           "id": "25c72bbefe4b08778addf394ab1a33ab9e7b18ad",
           "site_id": "featuredrss",
@@ -200,7 +244,7 @@
           "title": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色\n\n它可以帮你分配任务和创建各种不同的 Bot 分配任务\n\n易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太...",
           "url": "https://x.com/op7418/status/2106037504642277451",
           "published_at": "2026-10-02T15:04:04Z",
-          "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬19🔄0❤️15👀5772📊18⚡ Powered by xgo.ing"
+          "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬27🔄1❤️26👀8438📊26⚡ Powered by xgo.ing"
         },
         {
           "id": "994f32ab054fbd0c09c22ae89095e1644d2e6884",
@@ -212,28 +256,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512190&idx=1&sn=91d791884cd089c7204d4a32f9d068fe",
           "published_at": "2026-10-02T10:07:00Z",
           "summary": "Hy Image3.5 preview真的行，元宝免费！"
-        },
-        {
-          "id": "f069be7b21b057b5b1c7e025c551364113a4ccf0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "最近 Agent 也像以前的一些软件一样出现了分化：\n\n1. Personal Agent（面向大众与生活类工具）：\n\n这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生...",
-          "url": "https://x.com/op7418/status/2105883326599032937",
-          "published_at": "2026-10-02T04:51:25Z",
-          "summary": "最近 Agent 也像以前的一些软件一样出现了分化： 1. Personal Agent（面向大众与生活类工具）： 这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生活、处理简单的工作。 它的特点是上手门槛非常低，只需要通过对话就可以完成任务，并且还会配有一个远程虚拟机供用户自己使用。 2. 极致自定义与自我构建的 Agent（面向专家与专业技能人群）： 这部分强调极致的自定义和丰富的自我构建，类似于通过迭代式（如 RSI 方式）去构建自己的软件，让专家和拥有专业技能的人构建自己的 Agent。 在底层 Agent 的框架上…"
-        },
-        {
-          "id": "dd463a29fbe39021d24a6687d6de230d7f7cce91",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。...",
-          "url": "https://x.com/op7418/status/2105867869749993678",
-          "published_at": "2026-10-02T03:49:59Z",
-          "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。 但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。💬25🔄19❤️113👀28931📊56⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -256,7 +278,7 @@
           "title": "Learn more ↓  https://t.co/2RgktiPyOC",
           "url": "https://x.com/GoogleAI/status/2106049987905995221",
           "published_at": "2026-10-02T15:53:40Z",
-          "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄4❤️33👀8955📊5⚡ Powered by xgo.ing"
+          "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄5❤️40👀10572📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "b74a3b9a971817f44ec87f07450df5a9c9eea799",
@@ -274,6 +296,50 @@
   },
   "items": [
     {
+      "id": "098aab8fe5a0f45b6bfa73a9bb8a5319481fb8bc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。\n\n只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。\n\n只要你不发行，感觉人人...",
+      "url": "https://x.com/op7418/status/2106220877872345298",
+      "published_at": "2026-10-03T03:12:43Z",
+      "summary": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。 只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。 只要你不发行，感觉人人都可以有游戏玩。 比如说《光环3》已经被完全反编译了，可能以后想怎么改就怎么改，基于它来做自己的那部分模组，或者是发布到其他平台的版本lostbutlucky@lostbutluckyHalo 3 has been fully decompiled🔗 View Quoted Tweet💬5🔄1❤️20👀8855📊8⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1cdaa1c3d9d8c9e5b1fd3498b5203b20dce341a3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哦 还有一个叫 Muse Home Link 的设备\n\n可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支...",
+      "url": "https://x.com/op7418/status/2106219779006829053",
+      "published_at": "2026-10-03T03:08:21Z",
+      "summary": "哦 还有一个叫 Muse Home Link 的设备 可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支持 Muse 的设备，然后 Muse 就可以调用它们进行协同工作。 比如让它开灯、控制电视，或者将一些文档发送到打印机。 这个 Muse Home Link 订阅用户可以免费领取，仅限美国。💬0🔄0❤️2👀1986📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5d8273b4f02573524c176cb4f09a5377f06f259f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我去，这个好玩！\n\nMuse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。\n\n获得关于 Muse 的一些信息，然后来构建 ...",
+      "url": "https://x.com/op7418/status/2106219171914932515",
+      "published_at": "2026-10-03T03:05:56Z",
+      "summary": "我去，这个好玩！ Muse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。 获得关于 Muse 的一些信息，然后来构建 Muse 的周边硬件。这个太爽了呀！ 不用羡慕他们刚发布的那个 Muse 硬件了，你现在可以自己做。Nat Friedman@natfriedman🚨 side project alert 🚨 Announcing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can…"
+    },
+    {
+      "id": "db17c0e8a9bcd1d3839ff0a00996ac68d8c205d2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哈哈 这个 Claude Mod 好玩，在等待任务的时候启动一个游戏，里面匹配的全是等待 Claude 完成任务的人",
+      "url": "https://x.com/op7418/status/2106218041780711815",
+      "published_at": "2026-10-03T03:01:27Z",
+      "summary": "哈哈 这个 Claude Mod 好玩，在等待任务的时候启动一个游戏，里面匹配的全是等待 Claude 完成任务的人Alex Christou@alexchristou_Claude Code just shipped mods... I made one that connects you to a multiplayer MW2 Quick scoping lobby Every other player in the match is a person waiting for their Claude to finish.Your browser…"
+    },
+    {
       "id": "13c01997b434618da5ad8ee5176a15d1d474ca20",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -282,7 +348,7 @@
       "title": "Learn more ↓  https://t.co/2RgktiPyOC",
       "url": "https://x.com/GoogleAI/status/2106049987905995221",
       "published_at": "2026-10-02T15:53:40Z",
-      "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄4❤️33👀8955📊5⚡ Powered by xgo.ing"
+      "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄5❤️40👀10572📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "b74a3b9a971817f44ec87f07450df5a9c9eea799",
@@ -304,7 +370,7 @@
       "title": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色\n\n它可以帮你分配任务和创建各种不同的 Bot 分配任务\n\n易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太...",
       "url": "https://x.com/op7418/status/2106037504642277451",
       "published_at": "2026-10-02T15:04:04Z",
-      "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬19🔄0❤️15👀5772📊18⚡ Powered by xgo.ing"
+      "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬27🔄1❤️26👀8438📊26⚡ Powered by xgo.ing"
     },
     {
       "id": "994f32ab054fbd0c09c22ae89095e1644d2e6884",
@@ -316,28 +382,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512190&idx=1&sn=91d791884cd089c7204d4a32f9d068fe",
       "published_at": "2026-10-02T10:07:00Z",
       "summary": "Hy Image3.5 preview真的行，元宝免费！"
-    },
-    {
-      "id": "f069be7b21b057b5b1c7e025c551364113a4ccf0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "最近 Agent 也像以前的一些软件一样出现了分化：\n\n1. Personal Agent（面向大众与生活类工具）：\n\n这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生...",
-      "url": "https://x.com/op7418/status/2105883326599032937",
-      "published_at": "2026-10-02T04:51:25Z",
-      "summary": "最近 Agent 也像以前的一些软件一样出现了分化： 1. Personal Agent（面向大众与生活类工具）： 这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生活、处理简单的工作。 它的特点是上手门槛非常低，只需要通过对话就可以完成任务，并且还会配有一个远程虚拟机供用户自己使用。 2. 极致自定义与自我构建的 Agent（面向专家与专业技能人群）： 这部分强调极致的自定义和丰富的自我构建，类似于通过迭代式（如 RSI 方式）去构建自己的软件，让专家和拥有专业技能的人构建自己的 Agent。 在底层 Agent 的框架上…"
-    },
-    {
-      "id": "dd463a29fbe39021d24a6687d6de230d7f7cce91",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。...",
-      "url": "https://x.com/op7418/status/2105867869749993678",
-      "published_at": "2026-10-02T03:49:59Z",
-      "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。 但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。💬25🔄19❤️113👀28931📊56⚡ Powered by xgo.ing"
     }
   ]
 }
