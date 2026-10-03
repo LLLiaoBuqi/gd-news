@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:23:26.660322Z",
+  "generated_at": "2026-10-03T13:36:41.754418Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 8,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 310,
+      "duration_ms": 874,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 61,
+      "duration_ms": 22,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1141,
+      "duration_ms": 1124,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1121,
+      "duration_ms": 1219,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 962,
+      "duration_ms": 966,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 704,
+      "duration_ms": 938,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 511,
+      "duration_ms": 549,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 25,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2220,
+      "duration_ms": 2266,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 989,
+      "duration_ms": 1561,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -192,6 +192,17 @@
       ],
       "items": [
         {
+          "id": "05ea4dd42eab5c48335c40f96b3bdf06938c3dc9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "他妈的，现在评论区的伪人是真的多，而且他们的 AI 回复的调教都是一样的，都从哪儿买的提示词和课",
+          "url": "https://x.com/op7418/status/2106351873372615020",
+          "published_at": "2026-10-03T11:53:15Z",
+          "summary": "他妈的，现在评论区的伪人是真的多，而且他们的 AI 回复的调教都是一样的，都从哪儿买的提示词和课💬24🔄0❤️24👀6018📊22⚡ Powered by xgo.ing"
+        },
+        {
           "id": "098aab8fe5a0f45b6bfa73a9bb8a5319481fb8bc",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -200,7 +211,7 @@
           "title": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。\n\n只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。\n\n只要你不发行，感觉人人...",
           "url": "https://x.com/op7418/status/2106220877872345298",
           "published_at": "2026-10-03T03:12:43Z",
-          "summary": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。 只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。 只要你不发行，感觉人人都可以有游戏玩。 比如说《光环3》已经被完全反编译了，可能以后想怎么改就怎么改，基于它来做自己的那部分模组，或者是发布到其他平台的版本lostbutlucky@lostbutluckyHalo 3 has been fully decompiled🔗 View Quoted Tweet💬5🔄1❤️20👀8855📊8⚡ Powered by xgo.ing"
+          "summary": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。 只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。 只要你不发行，感觉人人都可以有游戏玩。 比如说《光环3》已经被完全反编译了，可能以后想怎么改就怎么改，基于它来做自己的那部分模组，或者是发布到其他平台的版本lostbutlucky@lostbutluckyHalo 3 has been fully decompiled🔗 View Quoted Tweet💬6🔄2❤️24👀13487📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "1cdaa1c3d9d8c9e5b1fd3498b5203b20dce341a3",
@@ -211,7 +222,7 @@
           "title": "哦 还有一个叫 Muse Home Link 的设备\n\n可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支...",
           "url": "https://x.com/op7418/status/2106219779006829053",
           "published_at": "2026-10-03T03:08:21Z",
-          "summary": "哦 还有一个叫 Muse Home Link 的设备 可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支持 Muse 的设备，然后 Muse 就可以调用它们进行协同工作。 比如让它开灯、控制电视，或者将一些文档发送到打印机。 这个 Muse Home Link 订阅用户可以免费领取，仅限美国。💬0🔄0❤️2👀1986📊1⚡ Powered by xgo.ing"
+          "summary": "哦 还有一个叫 Muse Home Link 的设备 可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支持 Muse 的设备，然后 Muse 就可以调用它们进行协同工作。 比如让它开灯、控制电视，或者将一些文档发送到打印机。 这个 Muse Home Link 订阅用户可以免费领取，仅限美国。💬1🔄0❤️2👀2624📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "5d8273b4f02573524c176cb4f09a5377f06f259f",
@@ -244,18 +255,7 @@
           "title": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色\n\n它可以帮你分配任务和创建各种不同的 Bot 分配任务\n\n易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太...",
           "url": "https://x.com/op7418/status/2106037504642277451",
           "published_at": "2026-10-02T15:04:04Z",
-          "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬27🔄1❤️26👀8438📊26⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "994f32ab054fbd0c09c22ae89095e1644d2e6884",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "国庆相册里舍不得删的废片，我找到了25种新玩法来拯救它们！",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512190&idx=1&sn=91d791884cd089c7204d4a32f9d068fe",
-          "published_at": "2026-10-02T10:07:00Z",
-          "summary": "Hy Image3.5 preview真的行，元宝免费！"
+          "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬29🔄2❤️37👀10086📊30⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -278,7 +278,7 @@
           "title": "Learn more ↓  https://t.co/2RgktiPyOC",
           "url": "https://x.com/GoogleAI/status/2106049987905995221",
           "published_at": "2026-10-02T15:53:40Z",
-          "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄5❤️40👀10572📊6⚡ Powered by xgo.ing"
+          "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄5❤️42👀11636📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "b74a3b9a971817f44ec87f07450df5a9c9eea799",
@@ -296,6 +296,17 @@
   },
   "items": [
     {
+      "id": "05ea4dd42eab5c48335c40f96b3bdf06938c3dc9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "他妈的，现在评论区的伪人是真的多，而且他们的 AI 回复的调教都是一样的，都从哪儿买的提示词和课",
+      "url": "https://x.com/op7418/status/2106351873372615020",
+      "published_at": "2026-10-03T11:53:15Z",
+      "summary": "他妈的，现在评论区的伪人是真的多，而且他们的 AI 回复的调教都是一样的，都从哪儿买的提示词和课💬24🔄0❤️24👀6018📊22⚡ Powered by xgo.ing"
+    },
+    {
       "id": "098aab8fe5a0f45b6bfa73a9bb8a5319481fb8bc",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -304,7 +315,7 @@
       "title": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。\n\n只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。\n\n只要你不发行，感觉人人...",
       "url": "https://x.com/op7418/status/2106220877872345298",
       "published_at": "2026-10-03T03:12:43Z",
-      "summary": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。 只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。 只要你不发行，感觉人人都可以有游戏玩。 比如说《光环3》已经被完全反编译了，可能以后想怎么改就怎么改，基于它来做自己的那部分模组，或者是发布到其他平台的版本lostbutlucky@lostbutluckyHalo 3 has been fully decompiled🔗 View Quoted Tweet💬5🔄1❤️20👀8855📊8⚡ Powered by xgo.ing"
+      "summary": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。 只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。 只要你不发行，感觉人人都可以有游戏玩。 比如说《光环3》已经被完全反编译了，可能以后想怎么改就怎么改，基于它来做自己的那部分模组，或者是发布到其他平台的版本lostbutlucky@lostbutluckyHalo 3 has been fully decompiled🔗 View Quoted Tweet💬6🔄2❤️24👀13487📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "1cdaa1c3d9d8c9e5b1fd3498b5203b20dce341a3",
@@ -315,7 +326,7 @@
       "title": "哦 还有一个叫 Muse Home Link 的设备\n\n可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支...",
       "url": "https://x.com/op7418/status/2106219779006829053",
       "published_at": "2026-10-03T03:08:21Z",
-      "summary": "哦 还有一个叫 Muse Home Link 的设备 可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支持 Muse 的设备，然后 Muse 就可以调用它们进行协同工作。 比如让它开灯、控制电视，或者将一些文档发送到打印机。 这个 Muse Home Link 订阅用户可以免费领取，仅限美国。💬0🔄0❤️2👀1986📊1⚡ Powered by xgo.ing"
+      "summary": "哦 还有一个叫 Muse Home Link 的设备 可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支持 Muse 的设备，然后 Muse 就可以调用它们进行协同工作。 比如让它开灯、控制电视，或者将一些文档发送到打印机。 这个 Muse Home Link 订阅用户可以免费领取，仅限美国。💬1🔄0❤️2👀2624📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "5d8273b4f02573524c176cb4f09a5377f06f259f",
@@ -348,7 +359,7 @@
       "title": "Learn more ↓  https://t.co/2RgktiPyOC",
       "url": "https://x.com/GoogleAI/status/2106049987905995221",
       "published_at": "2026-10-02T15:53:40Z",
-      "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄5❤️40👀10572📊6⚡ Powered by xgo.ing"
+      "summary": "Learn more ↓ blog.google/innovation-and…💬2🔄5❤️42👀11636📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "b74a3b9a971817f44ec87f07450df5a9c9eea799",
@@ -370,18 +381,7 @@
       "title": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色\n\n它可以帮你分配任务和创建各种不同的 Bot 分配任务\n\n易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太...",
       "url": "https://x.com/op7418/status/2106037504642277451",
       "published_at": "2026-10-02T15:04:04Z",
-      "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬27🔄1❤️26👀8438📊26⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "994f32ab054fbd0c09c22ae89095e1644d2e6884",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "国庆相册里舍不得删的废片，我找到了25种新玩法来拯救它们！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512190&idx=1&sn=91d791884cd089c7204d4a32f9d068fe",
-      "published_at": "2026-10-02T10:07:00Z",
-      "summary": "Hy Image3.5 preview真的行，元宝免费！"
+      "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了 用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的💬29🔄2❤️37👀10086📊30⚡ Powered by xgo.ing"
     }
   ]
 }
