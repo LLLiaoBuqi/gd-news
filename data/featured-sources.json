@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T02:00:24.859585Z",
+  "generated_at": "2026-10-06T09:10:38.511177Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 340,
+      "duration_ms": 1288,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 173,
-      "duration_ms": 144,
+      "duration_ms": 92,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1466,
+      "duration_ms": 1213,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1409,
+      "duration_ms": 1536,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 808,
+      "duration_ms": 1533,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1299,
+      "duration_ms": 1114,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1085,
+      "duration_ms": 483,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2152,
+      "duration_ms": 2402,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1613,
+      "duration_ms": 1504,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "2292177218077994dd7c0e5c074bdda04b02c61c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Next Token 04 在小宇宙正式一万播放了\n\n作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关\n\nB 站的视频播客这一期播放量也不低",
+          "url": "https://x.com/op7418/status/2107291622539251838",
+          "published_at": "2026-10-06T02:07:29Z",
+          "summary": "Next Token 04 在小宇宙正式一万播放了 作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关 B 站的视频播客这一期播放量也不低💬15🔄2❤️17👀4720📊15⚡ Powered by xgo.ing"
+        },
         {
           "id": "e8000bba7060936fdc46c0aa7d244a38a84c308a",
           "site_id": "featuredrss",
@@ -201,61 +212,6 @@
           "url": "https://x.com/op7418/status/2107057203274461508",
           "published_at": "2026-10-05T10:35:59Z",
           "summary": "M5 Stack Stop Watch + Muse Gadgets + MiniMax API 用视频演示一下，基于 Muse Gadgets 做的硬件。 我做了一些 UI 优化，更改了语言、加上了语音输出，并且可以磁吸在电脑屏幕旁边。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418搞定了 Muse 那个小玩具 哈哈 我用的 M5 Stack 的 Stop Watch Meta 搞得 这个 Muse Gadgets SDK 真的很方便 而…"
-        },
-        {
-          "id": "ea209ff6d1108c25564373d3560602e7d96a5067",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "它现在这样直接磁吸在我的显示屏右边，我随时就可以拿下来了，然后 Muse 有一些主动通知也能直接看到",
-          "url": "https://x.com/op7418/status/2107022693359030282",
-          "published_at": "2026-10-05T08:18:51Z",
-          "summary": "它现在这样直接磁吸在我的显示屏右边，我随时就可以拿下来了，然后 Muse 有一些主动通知也能直接看到💬2🔄0❤️2👀2567📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ba77509a460c98e69d9b06278ce5e9638195e4b3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "神奇，没想到即览在国区限免结束之后还有人购买，确实说明确实有用。\n\n回本了，起码把苹果开发者的 100 美元注册费用挣回来了",
-          "url": "https://x.com/op7418/status/2107017257763426381",
-          "published_at": "2026-10-05T07:57:15Z",
-          "summary": "神奇，没想到即览在国区限免结束之后还有人购买，确实说明确实有用。 回本了，起码把苹果开发者的 100 美元注册费用挣回来了歸藏(guizang.ai)@op7418卧槽！我开发的 Markdown 和 HTML 预览 iOS 应用「即览」终于上架了！目前国区限免！ 苹果上架时真的麻烦啊，审核等了十一天。 主要帮大家解决 AI 时代两大主流文件在手机上无法预览的问题。 手机上的各个应用对这两类文件的预览其实都不太好：Markdown 就别说了，最近有些虽然支持了但体验并不好； HTML 文件的话，即使是浏览器本身，想要打开本地的 HTML 文件也非常麻烦。…"
-        },
-        {
-          "id": "6f64d9322c1f8b767666165969d076a5506cd989",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "它原始的 Muse Gadgets SDK 在这个设备上的设计有点问题，就是太臃肿、太拥挤了，而且默认也不是中文。\n\n然后我就改了一下，整个 UI 看着更协调，同时界面改成了中文，还把中间的形象换成了...",
-          "url": "https://x.com/op7418/status/2107015036493615446",
-          "published_at": "2026-10-05T07:48:25Z",
-          "summary": "它原始的 Muse Gadgets SDK 在这个设备上的设计有点问题，就是太臃肿、太拥挤了，而且默认也不是中文。 然后我就改了一下，整个 UI 看着更协调，同时界面改成了中文，还把中间的形象换成了和我 Muse 一样的那个橘猫歸藏(guizang.ai)@op7418搞定了 Muse 那个小玩具 哈哈 我用的 M5 Stack 的 Stop Watch Meta 搞得 这个 Muse Gadgets SDK 真的很方便 而且已经内置了好几个常见 ESP 32 设备的固件，直接刷进去就行🔗 View Quoted Tweet💬12🔄0❤️19👀6989📊…"
-        },
-        {
-          "id": "7478535b72a33ea89186a64632ff1c86b890597d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "专门为安卓折叠屏做了一个模仿 iPhone Duo那个半折状态下的屏保应用。\n\n考虑到实在是没几个人用，所以就没发，有需要的话我开源一下",
-          "url": "https://x.com/op7418/status/2106976063620632944",
-          "published_at": "2026-10-05T05:13:33Z",
-          "summary": "专门为安卓折叠屏做了一个模仿 iPhone Duo那个半折状态下的屏保应用。 考虑到实在是没几个人用，所以就没发，有需要的话我开源一下💬9🔄0❤️6👀7701📊8⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c3eec65d08c5bc9b7baf2729bf76e1df9bdf0fff",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "搞定了 Muse 那个小玩具 哈哈\n\n我用的 M5 Stack 的 Stop Watch Meta 搞得\n\n这个 Muse Gadgets SDK 真的很方便\n\n而且已经内置了好几个常见 ESP 32...",
-          "url": "https://x.com/op7418/status/2106974366722662786",
-          "published_at": "2026-10-05T05:06:49Z",
-          "summary": "搞定了 Muse 那个小玩具 哈哈 我用的 M5 Stack 的 Stop Watch Meta 搞得 这个 Muse Gadgets SDK 真的很方便 而且已经内置了好几个常见 ESP 32 设备的固件，直接刷进去就行歸藏(guizang.ai)@op7418我去，这个好玩！ Muse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。 获得关于 Muse 的一些信息，然后来构建 Muse 的周边硬件。这个太爽了呀！ 不用羡慕他们刚发布的那个 Muse 硬件了，你现在可以自己做。…"
         }
       ]
     },
@@ -311,12 +267,23 @@
           "title": "https://t.co/cdfqoSOtJm",
           "url": "https://x.com/GoogleAI/status/2107152626873663898",
           "published_at": "2026-10-05T16:55:09Z",
-          "summary": "x.com/i/article/2107…💬38🔄126❤️1068👀66028📊182⚡ Powered by xgo.ing"
+          "summary": "x.com/i/article/2107…💬47🔄183❤️1484👀88540📊251⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "2292177218077994dd7c0e5c074bdda04b02c61c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Next Token 04 在小宇宙正式一万播放了\n\n作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关\n\nB 站的视频播客这一期播放量也不低",
+      "url": "https://x.com/op7418/status/2107291622539251838",
+      "published_at": "2026-10-06T02:07:29Z",
+      "summary": "Next Token 04 在小宇宙正式一万播放了 作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关 B 站的视频播客这一期播放量也不低💬15🔄2❤️17👀4720📊15⚡ Powered by xgo.ing"
+    },
     {
       "id": "c7be8ee45d99a768201d47e5575d02d92813c947",
       "site_id": "featuredrss",
@@ -359,7 +326,7 @@
       "title": "https://t.co/cdfqoSOtJm",
       "url": "https://x.com/GoogleAI/status/2107152626873663898",
       "published_at": "2026-10-05T16:55:09Z",
-      "summary": "x.com/i/article/2107…💬38🔄126❤️1068👀66028📊182⚡ Powered by xgo.ing"
+      "summary": "x.com/i/article/2107…💬47🔄183❤️1484👀88540📊251⚡ Powered by xgo.ing"
     },
     {
       "id": "e8000bba7060936fdc46c0aa7d244a38a84c308a",
@@ -371,61 +338,6 @@
       "url": "https://x.com/op7418/status/2107057203274461508",
       "published_at": "2026-10-05T10:35:59Z",
       "summary": "M5 Stack Stop Watch + Muse Gadgets + MiniMax API 用视频演示一下，基于 Muse Gadgets 做的硬件。 我做了一些 UI 优化，更改了语言、加上了语音输出，并且可以磁吸在电脑屏幕旁边。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418搞定了 Muse 那个小玩具 哈哈 我用的 M5 Stack 的 Stop Watch Meta 搞得 这个 Muse Gadgets SDK 真的很方便 而…"
-    },
-    {
-      "id": "ea209ff6d1108c25564373d3560602e7d96a5067",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "它现在这样直接磁吸在我的显示屏右边，我随时就可以拿下来了，然后 Muse 有一些主动通知也能直接看到",
-      "url": "https://x.com/op7418/status/2107022693359030282",
-      "published_at": "2026-10-05T08:18:51Z",
-      "summary": "它现在这样直接磁吸在我的显示屏右边，我随时就可以拿下来了，然后 Muse 有一些主动通知也能直接看到💬2🔄0❤️2👀2567📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ba77509a460c98e69d9b06278ce5e9638195e4b3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "神奇，没想到即览在国区限免结束之后还有人购买，确实说明确实有用。\n\n回本了，起码把苹果开发者的 100 美元注册费用挣回来了",
-      "url": "https://x.com/op7418/status/2107017257763426381",
-      "published_at": "2026-10-05T07:57:15Z",
-      "summary": "神奇，没想到即览在国区限免结束之后还有人购买，确实说明确实有用。 回本了，起码把苹果开发者的 100 美元注册费用挣回来了歸藏(guizang.ai)@op7418卧槽！我开发的 Markdown 和 HTML 预览 iOS 应用「即览」终于上架了！目前国区限免！ 苹果上架时真的麻烦啊，审核等了十一天。 主要帮大家解决 AI 时代两大主流文件在手机上无法预览的问题。 手机上的各个应用对这两类文件的预览其实都不太好：Markdown 就别说了，最近有些虽然支持了但体验并不好； HTML 文件的话，即使是浏览器本身，想要打开本地的 HTML 文件也非常麻烦。…"
-    },
-    {
-      "id": "6f64d9322c1f8b767666165969d076a5506cd989",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "它原始的 Muse Gadgets SDK 在这个设备上的设计有点问题，就是太臃肿、太拥挤了，而且默认也不是中文。\n\n然后我就改了一下，整个 UI 看着更协调，同时界面改成了中文，还把中间的形象换成了...",
-      "url": "https://x.com/op7418/status/2107015036493615446",
-      "published_at": "2026-10-05T07:48:25Z",
-      "summary": "它原始的 Muse Gadgets SDK 在这个设备上的设计有点问题，就是太臃肿、太拥挤了，而且默认也不是中文。 然后我就改了一下，整个 UI 看着更协调，同时界面改成了中文，还把中间的形象换成了和我 Muse 一样的那个橘猫歸藏(guizang.ai)@op7418搞定了 Muse 那个小玩具 哈哈 我用的 M5 Stack 的 Stop Watch Meta 搞得 这个 Muse Gadgets SDK 真的很方便 而且已经内置了好几个常见 ESP 32 设备的固件，直接刷进去就行🔗 View Quoted Tweet💬12🔄0❤️19👀6989📊…"
-    },
-    {
-      "id": "7478535b72a33ea89186a64632ff1c86b890597d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "专门为安卓折叠屏做了一个模仿 iPhone Duo那个半折状态下的屏保应用。\n\n考虑到实在是没几个人用，所以就没发，有需要的话我开源一下",
-      "url": "https://x.com/op7418/status/2106976063620632944",
-      "published_at": "2026-10-05T05:13:33Z",
-      "summary": "专门为安卓折叠屏做了一个模仿 iPhone Duo那个半折状态下的屏保应用。 考虑到实在是没几个人用，所以就没发，有需要的话我开源一下💬9🔄0❤️6👀7701📊8⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c3eec65d08c5bc9b7baf2729bf76e1df9bdf0fff",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "搞定了 Muse 那个小玩具 哈哈\n\n我用的 M5 Stack 的 Stop Watch Meta 搞得\n\n这个 Muse Gadgets SDK 真的很方便\n\n而且已经内置了好几个常见 ESP 32...",
-      "url": "https://x.com/op7418/status/2106974366722662786",
-      "published_at": "2026-10-05T05:06:49Z",
-      "summary": "搞定了 Muse 那个小玩具 哈哈 我用的 M5 Stack 的 Stop Watch Meta 搞得 这个 Muse Gadgets SDK 真的很方便 而且已经内置了好几个常见 ESP 32 设备的固件，直接刷进去就行歸藏(guizang.ai)@op7418我去，这个好玩！ Muse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。 获得关于 Muse 的一些信息，然后来构建 Muse 的周边硬件。这个太爽了呀！ 不用羡慕他们刚发布的那个 Muse 硬件了，你现在可以自己做。…"
     }
   ]
 }
