@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T14:07:49.472029Z",
+  "generated_at": "2026-10-07T20:02:26.070366Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 18,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 188,
+      "duration_ms": 379,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 173,
-      "duration_ms": 95,
+      "duration_ms": 88,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1553,
+      "duration_ms": 1000,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1549,
+      "duration_ms": 980,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1253,
+      "duration_ms": 753,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 843,
+      "duration_ms": 1613,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1368,
+      "duration_ms": 789,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 52,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2720,
+      "duration_ms": 2208,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1545,
+      "duration_ms": 1348,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了",
           "url": "https://x.com/op7418/status/2107794249051951205",
           "published_at": "2026-10-07T11:24:44Z",
-          "summary": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了歸藏(guizang.ai)@op7418我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。🔗 View Quoted Tweet💬7🔄0❤️19👀9923📊7⚡ Powered by xgo.ing"
+          "summary": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了歸藏(guizang.ai)@op7418我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。🔗 View Quoted Tweet💬10🔄1❤️38👀18729📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "1fb1790f74d88224a39b0b2cf5d10ab350e948b3",
@@ -211,7 +211,7 @@
           "title": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。\n\n...",
           "url": "https://x.com/op7418/status/2107793626705355111",
           "published_at": "2026-10-07T11:22:16Z",
-          "summary": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。 这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。💬2🔄0❤️0👀2946📊2⚡ Powered by xgo.ing"
+          "summary": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。 这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。💬3🔄0❤️0👀5076📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "f4a8619019efcc4faf479a68b2c18e59ce7ff958",
@@ -244,7 +244,7 @@
           "title": "尝试让 Opus 5.5 做个网站解释奇门遁甲",
           "url": "https://x.com/op7418/status/2107696000899158404",
           "published_at": "2026-10-07T04:54:20Z",
-          "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬26🔄4❤️53👀13390📊30⚡ Powered by xgo.ing"
+          "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬29🔄4❤️63👀15467📊34⚡ Powered by xgo.ing"
         },
         {
           "id": "951c1036b4ffd3a33a756160dd57ced3a52e8513",
@@ -256,45 +256,12 @@
           "url": "https://x.com/op7418/status/2107676475336044892",
           "published_at": "2026-10-07T03:36:45Z",
           "summary": "重置了居然！Tibo@thsottiauxWe shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment. Therefore ..…"
-        },
-        {
-          "id": "ce6cddee022d4587ea23d3028c72bc10bbdf283a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！\n\n会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro...",
-          "url": "https://x.com/op7418/status/2107523062619054174",
-          "published_at": "2026-10-06T17:27:08Z",
-          "summary": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！ 会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro 会员太值了呀！ 整体非常漂亮，而且细节很丰富，那些动效非常的细腻。 然后他们左侧这个卡片也很有意思，它是 AI 自定义的。而且 不知道现在还有没有？我是前几天就申请了，所以上来就送了Brett Adcock@adcock_brettIntroducing Hark Pro Hark Pro is now live on web, iOS, and Andro…"
-        },
-        {
-          "id": "7a196794eb97909bacc3fb25cef4054f7f69d23d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
-          "url": "https://x.com/op7418/status/2107515877977698568",
-          "published_at": "2026-10-06T16:58:35Z",
-          "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️4👀3127📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "6eeb174cba6e94985b2cc86684f855df517f8c5d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "谷歌发布了 Nano Banana 2.1 图像模型\n\n中文的文字清晰度和错字问题大幅改善！\n\n中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！\n\n它比 GPT 的主要优势...",
-          "url": "https://x.com/op7418/status/2107515249360597365",
-          "published_at": "2026-10-06T16:56:05Z",
-          "summary": "谷歌发布了 Nano Banana 2.1 图像模型 中文的文字清晰度和错字问题大幅改善！ 中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！ 它比 GPT 的主要优势在于可以生成 4K 图片，感觉一下又有用了呀！ 当然，价格还是挺贵的。Google AI Studio@GoogleAIStudiointroducing @NanoBanana 2.1 🍌 our latest image generation model outperforms our previous models across the board: - b…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 12,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -302,6 +269,116 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "1551f8d661b8af9a57fb0f7a3ae98b44c6eb8cd7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a...",
+          "url": "https://x.com/OpenAI/status/2107909792945832070",
+          "published_at": "2026-10-07T19:03:52Z",
+          "summary": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a preview of College Planner, new study tools, and support for college advisers and teen voices. ChatGPT for Teens applies automatically to accounts identified as belonging to someo…"
+        },
+        {
+          "id": "97001ea9b3b4924dea4f411124d332d60e5f7a49",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and ...",
+          "url": "https://x.com/OpenAI/status/2107895006350791071",
+          "published_at": "2026-10-07T18:05:06Z",
+          "summary": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow. GPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Bo…"
+        },
+        {
+          "id": "be2d760d7d866b625f4d05bb29ed46676d0921bb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Play around with interactive answers to help customize your response.",
+          "url": "https://x.com/OpenAI/status/2107895004819775938",
+          "published_at": "2026-10-07T18:05:06Z",
+          "summary": "Play around with interactive answers to help customize your response.Your browser does not support the video tag.🔗 View on Twitter💬3🔄6❤️324👀48914📊30⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a7ccc505230ab7671bffc6b55f0a6d32e34f64a1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Deepen your understanding of a topic with visuals that bring concepts to life.",
+          "url": "https://x.com/OpenAI/status/2107895003490169213",
+          "published_at": "2026-10-07T18:05:06Z",
+          "summary": "Deepen your understanding of a topic with visuals that bring concepts to life.Your browser does not support the video tag.🔗 View on Twitter💬3🔄9❤️375👀30438📊34⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "2fe7a14f0b4e216751607d2a9b3c324c06e8d761",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Create interactive tools you can use right in the conversation, like a game or interactive budget pl...",
+          "url": "https://x.com/OpenAI/status/2107895002022187411",
+          "published_at": "2026-10-07T18:05:05Z",
+          "summary": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator.Your browser does not support the video tag.🔗 View on Twitter💬13🔄10❤️459👀34364📊50⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "0ee0ddeb76dd127a0372b10a5b53233a9a19bd66",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Explore ideas through interactive visuals that respond as you learn, try, and discover.",
+          "url": "https://x.com/OpenAI/status/2107895000642294250",
+          "published_at": "2026-10-07T18:05:05Z",
+          "summary": "Explore ideas through interactive visuals that respond as you learn, try, and discover.Your browser does not support the video tag.🔗 View on Twitter💬10🔄13❤️523👀40145📊53⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "864e7823f213ba0fce6178c4c842ed69510d1d23",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, ...",
+          "url": "https://x.com/OpenAI/status/2107894999119774148",
+          "published_at": "2026-10-07T18:05:05Z",
+          "summary": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question. Responses can include graphics and charts to help explain an idea, along with tappable buttons, forms, and interactive experi…"
+        },
+        {
+          "id": "7b10f2c9793b9ddb415a73bcaf9e5440c2ad5c43",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delive...",
+          "url": "https://x.com/OpenAI/status/2107894997538525580",
+          "published_at": "2026-10-07T18:05:04Z",
+          "summary": "GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone. Intelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot.Your browser does no…"
+        },
+        {
+          "id": "9f9e4de6667647cbb191d935dd80afae87d3474b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Learn more about identifying AI-generated content: https://t.co/CGOirl0INT",
+          "url": "https://x.com/GoogleAI/status/2107836752308171062",
+          "published_at": "2026-10-07T14:13:38Z",
+          "summary": "Learn more about identifying AI-generated content: blog.google/innovation-and…💬2🔄1❤️36👀10335📊7⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "52ed6f925a188fc691f959c0ab95065a74d280ce",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Our SynthID technology lets you easily verify if an image, video, or audio file is AI-generated, and...",
+          "url": "https://x.com/GoogleAI/status/2107836750257107133",
+          "published_at": "2026-10-07T14:13:37Z",
+          "summary": "Our SynthID technology lets you easily verify if an image, video, or audio file is AI-generated, and today we’re expanding access. Now anyone can go to synthid.com to check files for a SynthID watermark — whether they were generated by us or industry partners like @OpenAI, @nvidi…"
+        },
         {
           "id": "1cd1962a73127e833358f16befa900c6355c4514",
           "site_id": "featuredrss",
@@ -311,7 +388,7 @@
           "title": "https://t.co/edRBkXdUAN",
           "url": "https://x.com/OpenAI/status/2107596716367388924",
           "published_at": "2026-10-06T22:19:49Z",
-          "summary": "openai.com/index/sharing-…💬37🔄112❤️1340👀795734📊186⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/sharing-…💬42🔄124❤️1560👀1098123📊217⚡ Powered by xgo.ing"
         },
         {
           "id": "a0d580a73a970445b4cf6020742c16847be83137",
@@ -323,55 +400,121 @@
           "url": "https://x.com/OpenAI/status/2107596713791767021",
           "published_at": "2026-10-06T22:19:48Z",
           "summary": "We’re releasing a broad range of new mathematical results produced by an internal frontier model. We’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public…"
-        },
-        {
-          "id": "9fe93d0a426d2e2593012c829d2b8cab2fccec66",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "When you share your camera in Gemini Live with Guided Vision turned on, Gemini acts as a conversatio...",
-          "url": "https://x.com/GeminiApp/status/2107546682145787983",
-          "published_at": "2026-10-06T19:01:00Z",
-          "summary": "When you share your camera in Gemini Live with Guided Vision turned on, Gemini acts as a conversational partner. If your camera is pointed too high, too close, or slightly off to the side, Gemini provides natural verbal prompts to help you reframe, asking you to pan slowly to the…"
-        },
-        {
-          "id": "eb45843f3811e4a30201f9113119f84b4e007012",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Whether locating objects, preparing a meal, or picking an outfit, Guided Vision supports everyday ta...",
-          "url": "https://x.com/GeminiApp/status/2107546683571880406",
-          "published_at": "2026-10-06T19:01:00Z",
-          "summary": "Whether locating objects, preparing a meal, or picking an outfit, Guided Vision supports everyday tasks where quick visual help matters most: 📖 Reading fine print and complex text 🔍 Finding and locating objects 🗣️ Describing objects and matching details 📍 Exploring your immediate…"
-        },
-        {
-          "id": "6dd94055934282cd31ba9a9b2c2dbf1c3dfef183",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Guided Vision is now available on @Android devices running Android 9 and above in regions and langua...",
-          "url": "https://x.com/GeminiApp/status/2107546685048340716",
-          "published_at": "2026-10-06T19:01:00Z",
-          "summary": "Guided Vision is now available on @Android devices running Android 9 and above in regions and languages where Gemini Live is supported. Make sure your Gemini app and Android system software are updated to the latest versions to get started. Check out our blog for a breakdown of e…"
-        },
-        {
-          "id": "8741a78ca9b0c4aed88c9151c08cd266d315a44f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversation...",
-          "url": "https://x.com/GeminiApp/status/2107546530987286542",
-          "published_at": "2026-10-06T19:00:23Z",
-          "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬52🔄66❤️668👀831…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "1551f8d661b8af9a57fb0f7a3ae98b44c6eb8cd7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a...",
+      "url": "https://x.com/OpenAI/status/2107909792945832070",
+      "published_at": "2026-10-07T19:03:52Z",
+      "summary": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a preview of College Planner, new study tools, and support for college advisers and teen voices. ChatGPT for Teens applies automatically to accounts identified as belonging to someo…"
+    },
+    {
+      "id": "97001ea9b3b4924dea4f411124d332d60e5f7a49",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and ...",
+      "url": "https://x.com/OpenAI/status/2107895006350791071",
+      "published_at": "2026-10-07T18:05:06Z",
+      "summary": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow. GPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Bo…"
+    },
+    {
+      "id": "be2d760d7d866b625f4d05bb29ed46676d0921bb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Play around with interactive answers to help customize your response.",
+      "url": "https://x.com/OpenAI/status/2107895004819775938",
+      "published_at": "2026-10-07T18:05:06Z",
+      "summary": "Play around with interactive answers to help customize your response.Your browser does not support the video tag.🔗 View on Twitter💬3🔄6❤️324👀48914📊30⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a7ccc505230ab7671bffc6b55f0a6d32e34f64a1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Deepen your understanding of a topic with visuals that bring concepts to life.",
+      "url": "https://x.com/OpenAI/status/2107895003490169213",
+      "published_at": "2026-10-07T18:05:06Z",
+      "summary": "Deepen your understanding of a topic with visuals that bring concepts to life.Your browser does not support the video tag.🔗 View on Twitter💬3🔄9❤️375👀30438📊34⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "2fe7a14f0b4e216751607d2a9b3c324c06e8d761",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Create interactive tools you can use right in the conversation, like a game or interactive budget pl...",
+      "url": "https://x.com/OpenAI/status/2107895002022187411",
+      "published_at": "2026-10-07T18:05:05Z",
+      "summary": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator.Your browser does not support the video tag.🔗 View on Twitter💬13🔄10❤️459👀34364📊50⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "0ee0ddeb76dd127a0372b10a5b53233a9a19bd66",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Explore ideas through interactive visuals that respond as you learn, try, and discover.",
+      "url": "https://x.com/OpenAI/status/2107895000642294250",
+      "published_at": "2026-10-07T18:05:05Z",
+      "summary": "Explore ideas through interactive visuals that respond as you learn, try, and discover.Your browser does not support the video tag.🔗 View on Twitter💬10🔄13❤️523👀40145📊53⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "864e7823f213ba0fce6178c4c842ed69510d1d23",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, ...",
+      "url": "https://x.com/OpenAI/status/2107894999119774148",
+      "published_at": "2026-10-07T18:05:05Z",
+      "summary": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question. Responses can include graphics and charts to help explain an idea, along with tappable buttons, forms, and interactive experi…"
+    },
+    {
+      "id": "7b10f2c9793b9ddb415a73bcaf9e5440c2ad5c43",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delive...",
+      "url": "https://x.com/OpenAI/status/2107894997538525580",
+      "published_at": "2026-10-07T18:05:04Z",
+      "summary": "GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone. Intelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot.Your browser does no…"
+    },
+    {
+      "id": "9f9e4de6667647cbb191d935dd80afae87d3474b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Learn more about identifying AI-generated content: https://t.co/CGOirl0INT",
+      "url": "https://x.com/GoogleAI/status/2107836752308171062",
+      "published_at": "2026-10-07T14:13:38Z",
+      "summary": "Learn more about identifying AI-generated content: blog.google/innovation-and…💬2🔄1❤️36👀10335📊7⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "52ed6f925a188fc691f959c0ab95065a74d280ce",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Our SynthID technology lets you easily verify if an image, video, or audio file is AI-generated, and...",
+      "url": "https://x.com/GoogleAI/status/2107836750257107133",
+      "published_at": "2026-10-07T14:13:37Z",
+      "summary": "Our SynthID technology lets you easily verify if an image, video, or audio file is AI-generated, and today we’re expanding access. Now anyone can go to synthid.com to check files for a SynthID watermark — whether they were generated by us or industry partners like @OpenAI, @nvidi…"
+    },
     {
       "id": "aa9acb5d0b8e5bf433a5d2259c76fae5caa44b68",
       "site_id": "featuredrss",
@@ -381,7 +524,7 @@
       "title": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了",
       "url": "https://x.com/op7418/status/2107794249051951205",
       "published_at": "2026-10-07T11:24:44Z",
-      "summary": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了歸藏(guizang.ai)@op7418我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。🔗 View Quoted Tweet💬7🔄0❤️19👀9923📊7⚡ Powered by xgo.ing"
+      "summary": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了歸藏(guizang.ai)@op7418我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。🔗 View Quoted Tweet💬10🔄1❤️38👀18729📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "1fb1790f74d88224a39b0b2cf5d10ab350e948b3",
@@ -392,7 +535,7 @@
       "title": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。\n\n...",
       "url": "https://x.com/op7418/status/2107793626705355111",
       "published_at": "2026-10-07T11:22:16Z",
-      "summary": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。 这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。💬2🔄0❤️0👀2946📊2⚡ Powered by xgo.ing"
+      "summary": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。 这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。💬3🔄0❤️0👀5076📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "f4a8619019efcc4faf479a68b2c18e59ce7ff958",
@@ -425,7 +568,7 @@
       "title": "尝试让 Opus 5.5 做个网站解释奇门遁甲",
       "url": "https://x.com/op7418/status/2107696000899158404",
       "published_at": "2026-10-07T04:54:20Z",
-      "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬26🔄4❤️53👀13390📊30⚡ Powered by xgo.ing"
+      "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬29🔄4❤️63👀15467📊34⚡ Powered by xgo.ing"
     },
     {
       "id": "951c1036b4ffd3a33a756160dd57ced3a52e8513",
@@ -447,7 +590,7 @@
       "title": "https://t.co/edRBkXdUAN",
       "url": "https://x.com/OpenAI/status/2107596716367388924",
       "published_at": "2026-10-06T22:19:49Z",
-      "summary": "openai.com/index/sharing-…💬37🔄112❤️1340👀795734📊186⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/sharing-…💬42🔄124❤️1560👀1098123📊217⚡ Powered by xgo.ing"
     },
     {
       "id": "a0d580a73a970445b4cf6020742c16847be83137",
@@ -459,83 +602,6 @@
       "url": "https://x.com/OpenAI/status/2107596713791767021",
       "published_at": "2026-10-06T22:19:48Z",
       "summary": "We’re releasing a broad range of new mathematical results produced by an internal frontier model. We’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public…"
-    },
-    {
-      "id": "9fe93d0a426d2e2593012c829d2b8cab2fccec66",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "When you share your camera in Gemini Live with Guided Vision turned on, Gemini acts as a conversatio...",
-      "url": "https://x.com/GeminiApp/status/2107546682145787983",
-      "published_at": "2026-10-06T19:01:00Z",
-      "summary": "When you share your camera in Gemini Live with Guided Vision turned on, Gemini acts as a conversational partner. If your camera is pointed too high, too close, or slightly off to the side, Gemini provides natural verbal prompts to help you reframe, asking you to pan slowly to the…"
-    },
-    {
-      "id": "eb45843f3811e4a30201f9113119f84b4e007012",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Whether locating objects, preparing a meal, or picking an outfit, Guided Vision supports everyday ta...",
-      "url": "https://x.com/GeminiApp/status/2107546683571880406",
-      "published_at": "2026-10-06T19:01:00Z",
-      "summary": "Whether locating objects, preparing a meal, or picking an outfit, Guided Vision supports everyday tasks where quick visual help matters most: 📖 Reading fine print and complex text 🔍 Finding and locating objects 🗣️ Describing objects and matching details 📍 Exploring your immediate…"
-    },
-    {
-      "id": "6dd94055934282cd31ba9a9b2c2dbf1c3dfef183",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Guided Vision is now available on @Android devices running Android 9 and above in regions and langua...",
-      "url": "https://x.com/GeminiApp/status/2107546685048340716",
-      "published_at": "2026-10-06T19:01:00Z",
-      "summary": "Guided Vision is now available on @Android devices running Android 9 and above in regions and languages where Gemini Live is supported. Make sure your Gemini app and Android system software are updated to the latest versions to get started. Check out our blog for a breakdown of e…"
-    },
-    {
-      "id": "8741a78ca9b0c4aed88c9151c08cd266d315a44f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversation...",
-      "url": "https://x.com/GeminiApp/status/2107546530987286542",
-      "published_at": "2026-10-06T19:00:23Z",
-      "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬52🔄66❤️668👀831…"
-    },
-    {
-      "id": "ce6cddee022d4587ea23d3028c72bc10bbdf283a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！\n\n会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro...",
-      "url": "https://x.com/op7418/status/2107523062619054174",
-      "published_at": "2026-10-06T17:27:08Z",
-      "summary": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！ 会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro 会员太值了呀！ 整体非常漂亮，而且细节很丰富，那些动效非常的细腻。 然后他们左侧这个卡片也很有意思，它是 AI 自定义的。而且 不知道现在还有没有？我是前几天就申请了，所以上来就送了Brett Adcock@adcock_brettIntroducing Hark Pro Hark Pro is now live on web, iOS, and Andro…"
-    },
-    {
-      "id": "7a196794eb97909bacc3fb25cef4054f7f69d23d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
-      "url": "https://x.com/op7418/status/2107515877977698568",
-      "published_at": "2026-10-06T16:58:35Z",
-      "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️4👀3127📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "6eeb174cba6e94985b2cc86684f855df517f8c5d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "谷歌发布了 Nano Banana 2.1 图像模型\n\n中文的文字清晰度和错字问题大幅改善！\n\n中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！\n\n它比 GPT 的主要优势...",
-      "url": "https://x.com/op7418/status/2107515249360597365",
-      "published_at": "2026-10-06T16:56:05Z",
-      "summary": "谷歌发布了 Nano Banana 2.1 图像模型 中文的文字清晰度和错字问题大幅改善！ 中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！ 它比 GPT 的主要优势在于可以生成 4K 图片，感觉一下又有用了呀！ 当然，价格还是挺贵的。Google AI Studio@GoogleAIStudiointroducing @NanoBanana 2.1 🍌 our latest image generation model outperforms our previous models across the board: - b…"
     }
   ]
 }
