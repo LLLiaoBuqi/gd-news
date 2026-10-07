@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T06:45:54.978360Z",
+  "generated_at": "2026-10-07T14:07:49.472029Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 150,
+      "duration_ms": 188,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 173,
-      "duration_ms": 193,
+      "duration_ms": 95,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1077,
+      "duration_ms": 1553,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1142,
+      "duration_ms": 1549,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 999,
+      "duration_ms": 1253,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 925,
+      "duration_ms": 843,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 513,
+      "duration_ms": 1368,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 33,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2479,
+      "duration_ms": 2720,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 929,
+      "duration_ms": 1545,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,57 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "aa9acb5d0b8e5bf433a5d2259c76fae5caa44b68",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了",
+          "url": "https://x.com/op7418/status/2107794249051951205",
+          "published_at": "2026-10-07T11:24:44Z",
+          "summary": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了歸藏(guizang.ai)@op7418我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。🔗 View Quoted Tweet💬7🔄0❤️19👀9923📊7⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1fb1790f74d88224a39b0b2cf5d10ab350e948b3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。\n\n...",
+          "url": "https://x.com/op7418/status/2107793626705355111",
+          "published_at": "2026-10-07T11:22:16Z",
+          "summary": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。 这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。💬2🔄0❤️0👀2946📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "f4a8619019efcc4faf479a68b2c18e59ce7ff958",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我操，Grok bot 现在无敌了！\n\n老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。\n\n也就是说，它不止使用 Grok 4.7 或者 4.6 了。\n\n还会使用 Opus 5.5、...",
+          "url": "https://x.com/op7418/status/2107788042929160367",
+          "published_at": "2026-10-07T11:00:04Z",
+          "summary": "我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。Elon Musk@elonmuskImportant note regarding Grok @Bot: Going forward, @SpaceX will use the best back end model for any given task, including Claud…"
+        },
+        {
+          "id": "9033d5eec58833d23464ec98d8335012a86242ed",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "一口气全跟上！国庆假期落下的个AI热点！",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512191&idx=1&sn=c833ad4f126c62f193dd3e4c32a26095",
+          "published_at": "2026-10-07T05:31:00Z",
+          "summary": "卡尔的AI沃茨 2026-10-07 13:31 浙江 这周没刷AI的，我来帮你全补回来。1️⃣先是OpenAI，Tibo义父在5号开了28天挑战，接下来每天要不发一个更新，要不额度重置。 第一天给GPT-6 Astra和Sol提速了50%，从30 tokens/s拉到50。第二天上线了免费auto-review，长任务里有第二个Agent帮你审查操作，不扣额度。第三天是额度重置。加上2号那次，这周重置了2次了，根本用不完。 ChatGPT这周还推出了Meetings插件。可以记会议笔记，基于ChatGPT对你和工作的了解生成个性化摘要，还能用Codex…"
+        },
         {
           "id": "2c43ba976e54ac9e0c7ca4db7d93d76cac293536",
           "site_id": "featuredrss",
@@ -200,7 +244,7 @@
           "title": "尝试让 Opus 5.5 做个网站解释奇门遁甲",
           "url": "https://x.com/op7418/status/2107696000899158404",
           "published_at": "2026-10-07T04:54:20Z",
-          "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬14🔄3❤️29👀5061📊16⚡ Powered by xgo.ing"
+          "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬26🔄4❤️53👀13390📊30⚡ Powered by xgo.ing"
         },
         {
           "id": "951c1036b4ffd3a33a756160dd57ced3a52e8513",
@@ -233,7 +277,7 @@
           "title": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
           "url": "https://x.com/op7418/status/2107515877977698568",
           "published_at": "2026-10-06T16:58:35Z",
-          "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️4👀2748📊1⚡ Powered by xgo.ing"
+          "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️4👀3127📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "6eeb174cba6e94985b2cc86684f855df517f8c5d",
@@ -267,7 +311,7 @@
           "title": "https://t.co/edRBkXdUAN",
           "url": "https://x.com/OpenAI/status/2107596716367388924",
           "published_at": "2026-10-06T22:19:49Z",
-          "summary": "openai.com/index/sharing-…💬30🔄80❤️1015👀334157📊138⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/sharing-…💬37🔄112❤️1340👀795734📊186⚡ Powered by xgo.ing"
         },
         {
           "id": "a0d580a73a970445b4cf6020742c16847be83137",
@@ -322,12 +366,56 @@
           "title": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversation...",
           "url": "https://x.com/GeminiApp/status/2107546530987286542",
           "published_at": "2026-10-06T19:00:23Z",
-          "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬43🔄53❤️540👀666…"
+          "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬52🔄66❤️668👀831…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "aa9acb5d0b8e5bf433a5d2259c76fae5caa44b68",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了",
+      "url": "https://x.com/op7418/status/2107794249051951205",
+      "published_at": "2026-10-07T11:24:44Z",
+      "summary": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了歸藏(guizang.ai)@op7418我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。🔗 View Quoted Tweet💬7🔄0❤️19👀9923📊7⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1fb1790f74d88224a39b0b2cf5d10ab350e948b3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。\n\n...",
+      "url": "https://x.com/op7418/status/2107793626705355111",
+      "published_at": "2026-10-07T11:22:16Z",
+      "summary": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。 这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。💬2🔄0❤️0👀2946📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "f4a8619019efcc4faf479a68b2c18e59ce7ff958",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我操，Grok bot 现在无敌了！\n\n老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。\n\n也就是说，它不止使用 Grok 4.7 或者 4.6 了。\n\n还会使用 Opus 5.5、...",
+      "url": "https://x.com/op7418/status/2107788042929160367",
+      "published_at": "2026-10-07T11:00:04Z",
+      "summary": "我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。Elon Musk@elonmuskImportant note regarding Grok @Bot: Going forward, @SpaceX will use the best back end model for any given task, including Claud…"
+    },
+    {
+      "id": "9033d5eec58833d23464ec98d8335012a86242ed",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "一口气全跟上！国庆假期落下的个AI热点！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512191&idx=1&sn=c833ad4f126c62f193dd3e4c32a26095",
+      "published_at": "2026-10-07T05:31:00Z",
+      "summary": "卡尔的AI沃茨 2026-10-07 13:31 浙江 这周没刷AI的，我来帮你全补回来。1️⃣先是OpenAI，Tibo义父在5号开了28天挑战，接下来每天要不发一个更新，要不额度重置。 第一天给GPT-6 Astra和Sol提速了50%，从30 tokens/s拉到50。第二天上线了免费auto-review，长任务里有第二个Agent帮你审查操作，不扣额度。第三天是额度重置。加上2号那次，这周重置了2次了，根本用不完。 ChatGPT这周还推出了Meetings插件。可以记会议笔记，基于ChatGPT对你和工作的了解生成个性化摘要，还能用Codex…"
+    },
     {
       "id": "2c43ba976e54ac9e0c7ca4db7d93d76cac293536",
       "site_id": "featuredrss",
@@ -337,7 +425,7 @@
       "title": "尝试让 Opus 5.5 做个网站解释奇门遁甲",
       "url": "https://x.com/op7418/status/2107696000899158404",
       "published_at": "2026-10-07T04:54:20Z",
-      "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬14🔄3❤️29👀5061📊16⚡ Powered by xgo.ing"
+      "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬26🔄4❤️53👀13390📊30⚡ Powered by xgo.ing"
     },
     {
       "id": "951c1036b4ffd3a33a756160dd57ced3a52e8513",
@@ -359,7 +447,7 @@
       "title": "https://t.co/edRBkXdUAN",
       "url": "https://x.com/OpenAI/status/2107596716367388924",
       "published_at": "2026-10-06T22:19:49Z",
-      "summary": "openai.com/index/sharing-…💬30🔄80❤️1015👀334157📊138⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/sharing-…💬37🔄112❤️1340👀795734📊186⚡ Powered by xgo.ing"
     },
     {
       "id": "a0d580a73a970445b4cf6020742c16847be83137",
@@ -414,7 +502,7 @@
       "title": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversation...",
       "url": "https://x.com/GeminiApp/status/2107546530987286542",
       "published_at": "2026-10-06T19:00:23Z",
-      "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬43🔄53❤️540👀666…"
+      "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬52🔄66❤️668👀831…"
     },
     {
       "id": "ce6cddee022d4587ea23d3028c72bc10bbdf283a",
@@ -436,7 +524,7 @@
       "title": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
       "url": "https://x.com/op7418/status/2107515877977698568",
       "published_at": "2026-10-06T16:58:35Z",
-      "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️4👀2748📊1⚡ Powered by xgo.ing"
+      "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️4👀3127📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "6eeb174cba6e94985b2cc86684f855df517f8c5d",
