@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T16:05:29.561951Z",
+  "generated_at": "2026-10-07T00:52:32.866131Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 285,
+      "duration_ms": 248,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 173,
-      "duration_ms": 60,
+      "duration_ms": 68,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 911,
+      "duration_ms": 914,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1056,
+      "duration_ms": 1106,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 933,
+      "duration_ms": 750,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 814,
+      "duration_ms": 827,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 666,
+      "duration_ms": 641,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 65,
+      "duration_ms": 33,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2164,
+      "duration_ms": 2456,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 536,
+      "duration_ms": 620,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "ce6cddee022d4587ea23d3028c72bc10bbdf283a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！\n\n会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro...",
+          "url": "https://x.com/op7418/status/2107523062619054174",
+          "published_at": "2026-10-06T17:27:08Z",
+          "summary": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！ 会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro 会员太值了呀！ 整体非常漂亮，而且细节很丰富，那些动效非常的细腻。 然后他们左侧这个卡片也很有意思，它是 AI 自定义的。而且 不知道现在还有没有？我是前几天就申请了，所以上来就送了Brett Adcock@adcock_brettIntroducing Hark Pro Hark Pro is now live on web, iOS, and Andro…"
+        },
+        {
+          "id": "7a196794eb97909bacc3fb25cef4054f7f69d23d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
+          "url": "https://x.com/op7418/status/2107515877977698568",
+          "published_at": "2026-10-06T16:58:35Z",
+          "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️3👀1684⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "6eeb174cba6e94985b2cc86684f855df517f8c5d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "谷歌发布了 Nano Banana 2.1 图像模型\n\n中文的文字清晰度和错字问题大幅改善！\n\n中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！\n\n它比 GPT 的主要优势...",
+          "url": "https://x.com/op7418/status/2107515249360597365",
+          "published_at": "2026-10-06T16:56:05Z",
+          "summary": "谷歌发布了 Nano Banana 2.1 图像模型 中文的文字清晰度和错字问题大幅改善！ 中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！ 它比 GPT 的主要优势在于可以生成 4K 图片，感觉一下又有用了呀！ 当然，价格还是挺贵的。Google AI Studio@GoogleAIStudiointroducing @NanoBanana 2.1 🍌 our latest image generation model outperforms our previous models across the board: - b…"
+        },
         {
           "id": "2292177218077994dd7c0e5c074bdda04b02c61c",
           "site_id": "featuredrss",
@@ -200,24 +233,13 @@
           "title": "Next Token 04 在小宇宙正式一万播放了\n\n作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关\n\nB 站的视频播客这一期播放量也不低",
           "url": "https://x.com/op7418/status/2107291622539251838",
           "published_at": "2026-10-06T02:07:29Z",
-          "summary": "Next Token 04 在小宇宙正式一万播放了 作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关 B 站的视频播客这一期播放量也不低💬18🔄2❤️19👀6020📊18⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c94b1aa0be0d7ca22557c39c934334a658d9e051",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
-          "published_at": "2026-10-06T00:18:00Z",
-          "summary": "万物皆周期"
+          "summary": "Next Token 04 在小宇宙正式一万播放了 作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关 B 站的视频播客这一期播放量也不低💬18🔄2❤️20👀6657📊18⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 6,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -226,53 +248,174 @@
       ],
       "items": [
         {
-          "id": "c7be8ee45d99a768201d47e5575d02d92813c947",
+          "id": "1cd1962a73127e833358f16befa900c6355c4514",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "OpenAI(@OpenAI)",
           "region": "global",
-          "title": "Watermarks have limits. They’re often undetectable, especially in short passages. Rewriting or trans...",
-          "url": "https://x.com/OpenAI/status/2107164653147340988",
-          "published_at": "2026-10-05T17:42:57Z",
-          "summary": "Watermarks have limits. They’re often undetectable, especially in short passages. Rewriting or translating text can completely remove the watermark. That’s why, for now, only approved researchers will have access to our detector, so they can help us evaluate and improve the techn…"
+          "title": "https://t.co/edRBkXdUAN",
+          "url": "https://x.com/OpenAI/status/2107596716367388924",
+          "published_at": "2026-10-06T22:19:49Z",
+          "summary": "openai.com/index/sharing-…💬12🔄37❤️464👀104216📊61⚡ Powered by xgo.ing"
         },
         {
-          "id": "20242b22ced10b5834eaff846ad475240af9ee2f",
+          "id": "a0d580a73a970445b4cf6020742c16847be83137",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "OpenAI(@OpenAI)",
           "region": "global",
-          "title": "We're expanding our approach to content provenance to include text in response to EU regulatory requ...",
-          "url": "https://x.com/OpenAI/status/2107164650249101695",
-          "published_at": "2026-10-05T17:42:56Z",
-          "summary": "We're expanding our approach to content provenance to include text in response to EU regulatory requirements, while recognizing the significant limitations of current text watermarking technology. Our tools already help verify whether an image or audio file was created with our m…"
+          "title": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nW...",
+          "url": "https://x.com/OpenAI/status/2107596713791767021",
+          "published_at": "2026-10-06T22:19:48Z",
+          "summary": "We’re releasing a broad range of new mathematical results produced by an internal frontier model. We’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public…"
         },
         {
-          "id": "d214a28d239c5f8978355063be74a7a177c9ccd8",
+          "id": "9fe93d0a426d2e2593012c829d2b8cab2fccec66",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
+          "source": "Google Gemini(@GeminiApp)",
           "region": "global",
-          "title": "When possible, we want to give people a choice—and be clear about what watermarking can and can’t do...",
-          "url": "https://x.com/OpenAI/status/2107164651478012412",
-          "published_at": "2026-10-05T17:42:56Z",
-          "summary": "When possible, we want to give people a choice—and be clear about what watermarking can and can’t do. A text watermark helps answer one question: “Was this likely generated by an OpenAI model?” It works by embedding an invisible statistical signal in text as it’s generated. A det…"
+          "title": "When you share your camera in Gemini Live with Guided Vision turned on, Gemini acts as a conversatio...",
+          "url": "https://x.com/GeminiApp/status/2107546682145787983",
+          "published_at": "2026-10-06T19:01:00Z",
+          "summary": "When you share your camera in Gemini Live with Guided Vision turned on, Gemini acts as a conversational partner. If your camera is pointed too high, too close, or slightly off to the side, Gemini provides natural verbal prompts to help you reframe, asking you to pan slowly to the…"
         },
         {
-          "id": "1e6238ab3d33868f93bfaac536ceb29d192b11d7",
+          "id": "eb45843f3811e4a30201f9113119f84b4e007012",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
+          "source": "Google Gemini(@GeminiApp)",
           "region": "global",
-          "title": "https://t.co/cdfqoSOtJm",
-          "url": "https://x.com/GoogleAI/status/2107152626873663898",
-          "published_at": "2026-10-05T16:55:09Z",
-          "summary": "x.com/i/article/2107…💬53🔄204❤️1649👀100304📊284⚡ Powered by xgo.ing"
+          "title": "Whether locating objects, preparing a meal, or picking an outfit, Guided Vision supports everyday ta...",
+          "url": "https://x.com/GeminiApp/status/2107546683571880406",
+          "published_at": "2026-10-06T19:01:00Z",
+          "summary": "Whether locating objects, preparing a meal, or picking an outfit, Guided Vision supports everyday tasks where quick visual help matters most: 📖 Reading fine print and complex text 🔍 Finding and locating objects 🗣️ Describing objects and matching details 📍 Exploring your immediate…"
+        },
+        {
+          "id": "6dd94055934282cd31ba9a9b2c2dbf1c3dfef183",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Guided Vision is now available on @Android devices running Android 9 and above in regions and langua...",
+          "url": "https://x.com/GeminiApp/status/2107546685048340716",
+          "published_at": "2026-10-06T19:01:00Z",
+          "summary": "Guided Vision is now available on @Android devices running Android 9 and above in regions and languages where Gemini Live is supported. Make sure your Gemini app and Android system software are updated to the latest versions to get started. Check out our blog for a breakdown of e…"
+        },
+        {
+          "id": "8741a78ca9b0c4aed88c9151c08cd266d315a44f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversation...",
+          "url": "https://x.com/GeminiApp/status/2107546530987286542",
+          "published_at": "2026-10-06T19:00:23Z",
+          "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬38🔄37❤️388👀430…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "1cd1962a73127e833358f16befa900c6355c4514",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "https://t.co/edRBkXdUAN",
+      "url": "https://x.com/OpenAI/status/2107596716367388924",
+      "published_at": "2026-10-06T22:19:49Z",
+      "summary": "openai.com/index/sharing-…💬12🔄37❤️464👀104216📊61⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a0d580a73a970445b4cf6020742c16847be83137",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nW...",
+      "url": "https://x.com/OpenAI/status/2107596713791767021",
+      "published_at": "2026-10-06T22:19:48Z",
+      "summary": "We’re releasing a broad range of new mathematical results produced by an internal frontier model. We’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public…"
+    },
+    {
+      "id": "9fe93d0a426d2e2593012c829d2b8cab2fccec66",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "When you share your camera in Gemini Live with Guided Vision turned on, Gemini acts as a conversatio...",
+      "url": "https://x.com/GeminiApp/status/2107546682145787983",
+      "published_at": "2026-10-06T19:01:00Z",
+      "summary": "When you share your camera in Gemini Live with Guided Vision turned on, Gemini acts as a conversational partner. If your camera is pointed too high, too close, or slightly off to the side, Gemini provides natural verbal prompts to help you reframe, asking you to pan slowly to the…"
+    },
+    {
+      "id": "eb45843f3811e4a30201f9113119f84b4e007012",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Whether locating objects, preparing a meal, or picking an outfit, Guided Vision supports everyday ta...",
+      "url": "https://x.com/GeminiApp/status/2107546683571880406",
+      "published_at": "2026-10-06T19:01:00Z",
+      "summary": "Whether locating objects, preparing a meal, or picking an outfit, Guided Vision supports everyday tasks where quick visual help matters most: 📖 Reading fine print and complex text 🔍 Finding and locating objects 🗣️ Describing objects and matching details 📍 Exploring your immediate…"
+    },
+    {
+      "id": "6dd94055934282cd31ba9a9b2c2dbf1c3dfef183",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Guided Vision is now available on @Android devices running Android 9 and above in regions and langua...",
+      "url": "https://x.com/GeminiApp/status/2107546685048340716",
+      "published_at": "2026-10-06T19:01:00Z",
+      "summary": "Guided Vision is now available on @Android devices running Android 9 and above in regions and languages where Gemini Live is supported. Make sure your Gemini app and Android system software are updated to the latest versions to get started. Check out our blog for a breakdown of e…"
+    },
+    {
+      "id": "8741a78ca9b0c4aed88c9151c08cd266d315a44f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversation...",
+      "url": "https://x.com/GeminiApp/status/2107546530987286542",
+      "published_at": "2026-10-06T19:00:23Z",
+      "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬38🔄37❤️388👀430…"
+    },
+    {
+      "id": "ce6cddee022d4587ea23d3028c72bc10bbdf283a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！\n\n会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro...",
+      "url": "https://x.com/op7418/status/2107523062619054174",
+      "published_at": "2026-10-06T17:27:08Z",
+      "summary": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！ 会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro 会员太值了呀！ 整体非常漂亮，而且细节很丰富，那些动效非常的细腻。 然后他们左侧这个卡片也很有意思，它是 AI 自定义的。而且 不知道现在还有没有？我是前几天就申请了，所以上来就送了Brett Adcock@adcock_brettIntroducing Hark Pro Hark Pro is now live on web, iOS, and Andro…"
+    },
+    {
+      "id": "7a196794eb97909bacc3fb25cef4054f7f69d23d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
+      "url": "https://x.com/op7418/status/2107515877977698568",
+      "published_at": "2026-10-06T16:58:35Z",
+      "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️3👀1684⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "6eeb174cba6e94985b2cc86684f855df517f8c5d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "谷歌发布了 Nano Banana 2.1 图像模型\n\n中文的文字清晰度和错字问题大幅改善！\n\n中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！\n\n它比 GPT 的主要优势...",
+      "url": "https://x.com/op7418/status/2107515249360597365",
+      "published_at": "2026-10-06T16:56:05Z",
+      "summary": "谷歌发布了 Nano Banana 2.1 图像模型 中文的文字清晰度和错字问题大幅改善！ 中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！ 它比 GPT 的主要优势在于可以生成 4K 图片，感觉一下又有用了呀！ 当然，价格还是挺贵的。Google AI Studio@GoogleAIStudiointroducing @NanoBanana 2.1 🍌 our latest image generation model outperforms our previous models across the board: - b…"
+    },
     {
       "id": "2292177218077994dd7c0e5c074bdda04b02c61c",
       "site_id": "featuredrss",
@@ -282,62 +425,7 @@
       "title": "Next Token 04 在小宇宙正式一万播放了\n\n作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关\n\nB 站的视频播客这一期播放量也不低",
       "url": "https://x.com/op7418/status/2107291622539251838",
       "published_at": "2026-10-06T02:07:29Z",
-      "summary": "Next Token 04 在小宇宙正式一万播放了 作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关 B 站的视频播客这一期播放量也不低💬18🔄2❤️19👀6020📊18⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c94b1aa0be0d7ca22557c39c934334a658d9e051",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
-      "published_at": "2026-10-06T00:18:00Z",
-      "summary": "万物皆周期"
-    },
-    {
-      "id": "c7be8ee45d99a768201d47e5575d02d92813c947",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Watermarks have limits. They’re often undetectable, especially in short passages. Rewriting or trans...",
-      "url": "https://x.com/OpenAI/status/2107164653147340988",
-      "published_at": "2026-10-05T17:42:57Z",
-      "summary": "Watermarks have limits. They’re often undetectable, especially in short passages. Rewriting or translating text can completely remove the watermark. That’s why, for now, only approved researchers will have access to our detector, so they can help us evaluate and improve the techn…"
-    },
-    {
-      "id": "20242b22ced10b5834eaff846ad475240af9ee2f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We're expanding our approach to content provenance to include text in response to EU regulatory requ...",
-      "url": "https://x.com/OpenAI/status/2107164650249101695",
-      "published_at": "2026-10-05T17:42:56Z",
-      "summary": "We're expanding our approach to content provenance to include text in response to EU regulatory requirements, while recognizing the significant limitations of current text watermarking technology. Our tools already help verify whether an image or audio file was created with our m…"
-    },
-    {
-      "id": "d214a28d239c5f8978355063be74a7a177c9ccd8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "When possible, we want to give people a choice—and be clear about what watermarking can and can’t do...",
-      "url": "https://x.com/OpenAI/status/2107164651478012412",
-      "published_at": "2026-10-05T17:42:56Z",
-      "summary": "When possible, we want to give people a choice—and be clear about what watermarking can and can’t do. A text watermark helps answer one question: “Was this likely generated by an OpenAI model?” It works by embedding an invisible statistical signal in text as it’s generated. A det…"
-    },
-    {
-      "id": "1e6238ab3d33868f93bfaac536ceb29d192b11d7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "https://t.co/cdfqoSOtJm",
-      "url": "https://x.com/GoogleAI/status/2107152626873663898",
-      "published_at": "2026-10-05T16:55:09Z",
-      "summary": "x.com/i/article/2107…💬53🔄204❤️1649👀100304📊284⚡ Powered by xgo.ing"
+      "summary": "Next Token 04 在小宇宙正式一万播放了 作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关 B 站的视频播客这一期播放量也不低💬18🔄2❤️20👀6657📊18⚡ Powered by xgo.ing"
     }
   ]
 }
