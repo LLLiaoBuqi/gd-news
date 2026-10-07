@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T00:52:32.866131Z",
+  "generated_at": "2026-10-07T06:45:54.978360Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 248,
+      "duration_ms": 150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 173,
-      "duration_ms": 68,
+      "duration_ms": 193,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 914,
+      "duration_ms": 1077,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1106,
+      "duration_ms": 1142,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 750,
+      "duration_ms": 999,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 827,
+      "duration_ms": 925,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 641,
+      "duration_ms": 513,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 30,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2456,
+      "duration_ms": 2479,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 620,
+      "duration_ms": 929,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "2c43ba976e54ac9e0c7ca4db7d93d76cac293536",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "尝试让 Opus 5.5 做个网站解释奇门遁甲",
+          "url": "https://x.com/op7418/status/2107696000899158404",
+          "published_at": "2026-10-07T04:54:20Z",
+          "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬14🔄3❤️29👀5061📊16⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "951c1036b4ffd3a33a756160dd57ced3a52e8513",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "重置了居然！",
+          "url": "https://x.com/op7418/status/2107676475336044892",
+          "published_at": "2026-10-07T03:36:45Z",
+          "summary": "重置了居然！Tibo@thsottiauxWe shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment. Therefore ..…"
+        },
         {
           "id": "ce6cddee022d4587ea23d3028c72bc10bbdf283a",
           "site_id": "featuredrss",
@@ -211,7 +233,7 @@
           "title": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
           "url": "https://x.com/op7418/status/2107515877977698568",
           "published_at": "2026-10-06T16:58:35Z",
-          "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️3👀1684⚡ Powered by xgo.ing"
+          "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️4👀2748📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "6eeb174cba6e94985b2cc86684f855df517f8c5d",
@@ -223,17 +245,6 @@
           "url": "https://x.com/op7418/status/2107515249360597365",
           "published_at": "2026-10-06T16:56:05Z",
           "summary": "谷歌发布了 Nano Banana 2.1 图像模型 中文的文字清晰度和错字问题大幅改善！ 中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！ 它比 GPT 的主要优势在于可以生成 4K 图片，感觉一下又有用了呀！ 当然，价格还是挺贵的。Google AI Studio@GoogleAIStudiointroducing @NanoBanana 2.1 🍌 our latest image generation model outperforms our previous models across the board: - b…"
-        },
-        {
-          "id": "2292177218077994dd7c0e5c074bdda04b02c61c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Next Token 04 在小宇宙正式一万播放了\n\n作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关\n\nB 站的视频播客这一期播放量也不低",
-          "url": "https://x.com/op7418/status/2107291622539251838",
-          "published_at": "2026-10-06T02:07:29Z",
-          "summary": "Next Token 04 在小宇宙正式一万播放了 作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关 B 站的视频播客这一期播放量也不低💬18🔄2❤️20👀6657📊18⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -256,7 +267,7 @@
           "title": "https://t.co/edRBkXdUAN",
           "url": "https://x.com/OpenAI/status/2107596716367388924",
           "published_at": "2026-10-06T22:19:49Z",
-          "summary": "openai.com/index/sharing-…💬12🔄37❤️464👀104216📊61⚡ Powered by xgo.ing"
+          "summary": "openai.com/index/sharing-…💬30🔄80❤️1015👀334157📊138⚡ Powered by xgo.ing"
         },
         {
           "id": "a0d580a73a970445b4cf6020742c16847be83137",
@@ -311,12 +322,34 @@
           "title": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversation...",
           "url": "https://x.com/GeminiApp/status/2107546530987286542",
           "published_at": "2026-10-06T19:00:23Z",
-          "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬38🔄37❤️388👀430…"
+          "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬43🔄53❤️540👀666…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "2c43ba976e54ac9e0c7ca4db7d93d76cac293536",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "尝试让 Opus 5.5 做个网站解释奇门遁甲",
+      "url": "https://x.com/op7418/status/2107696000899158404",
+      "published_at": "2026-10-07T04:54:20Z",
+      "summary": "尝试让 Opus 5.5 做个网站解释奇门遁甲💬14🔄3❤️29👀5061📊16⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "951c1036b4ffd3a33a756160dd57ced3a52e8513",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "重置了居然！",
+      "url": "https://x.com/op7418/status/2107676475336044892",
+      "published_at": "2026-10-07T03:36:45Z",
+      "summary": "重置了居然！Tibo@thsottiauxWe shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment. Therefore ..…"
+    },
     {
       "id": "1cd1962a73127e833358f16befa900c6355c4514",
       "site_id": "featuredrss",
@@ -326,7 +359,7 @@
       "title": "https://t.co/edRBkXdUAN",
       "url": "https://x.com/OpenAI/status/2107596716367388924",
       "published_at": "2026-10-06T22:19:49Z",
-      "summary": "openai.com/index/sharing-…💬12🔄37❤️464👀104216📊61⚡ Powered by xgo.ing"
+      "summary": "openai.com/index/sharing-…💬30🔄80❤️1015👀334157📊138⚡ Powered by xgo.ing"
     },
     {
       "id": "a0d580a73a970445b4cf6020742c16847be83137",
@@ -381,7 +414,7 @@
       "title": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversation...",
       "url": "https://x.com/GeminiApp/status/2107546530987286542",
       "published_at": "2026-10-06T19:00:23Z",
-      "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬38🔄37❤️388👀430…"
+      "summary": "Built alongside the blind and low-vision community, Guided Vision in Gemini Live offers conversational, real-time visual assistance. Now you can share your camera to receive dynamic audio descriptions and natural verbal reframing cues to explore your environment. 🧵💬43🔄53❤️540👀666…"
     },
     {
       "id": "ce6cddee022d4587ea23d3028c72bc10bbdf283a",
@@ -403,7 +436,7 @@
       "title": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
       "url": "https://x.com/op7418/status/2107515877977698568",
       "published_at": "2026-10-06T16:58:35Z",
-      "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️3👀1684⚡ Powered by xgo.ing"
+      "summary": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。💬0🔄0❤️4👀2748📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "6eeb174cba6e94985b2cc86684f855df517f8c5d",
@@ -415,17 +448,6 @@
       "url": "https://x.com/op7418/status/2107515249360597365",
       "published_at": "2026-10-06T16:56:05Z",
       "summary": "谷歌发布了 Nano Banana 2.1 图像模型 中文的文字清晰度和错字问题大幅改善！ 中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！ 它比 GPT 的主要优势在于可以生成 4K 图片，感觉一下又有用了呀！ 当然，价格还是挺贵的。Google AI Studio@GoogleAIStudiointroducing @NanoBanana 2.1 🍌 our latest image generation model outperforms our previous models across the board: - b…"
-    },
-    {
-      "id": "2292177218077994dd7c0e5c074bdda04b02c61c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Next Token 04 在小宇宙正式一万播放了\n\n作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关\n\nB 站的视频播客这一期播放量也不低",
-      "url": "https://x.com/op7418/status/2107291622539251838",
-      "published_at": "2026-10-06T02:07:29Z",
-      "summary": "Next Token 04 在小宇宙正式一万播放了 作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关 B 站的视频播客这一期播放量也不低💬18🔄2❤️20👀6657📊18⚡ Powered by xgo.ing"
     }
   ]
 }
