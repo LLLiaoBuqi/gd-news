@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T06:24:51.004274Z",
+  "generated_at": "2026-10-08T13:49:02.869921Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 31,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 204,
+      "duration_ms": 624,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 173,
-      "duration_ms": 100,
+      "duration_ms": 118,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1159,
+      "duration_ms": 1032,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1390,
+      "duration_ms": 1234,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1128,
+      "duration_ms": 860,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 802,
+      "duration_ms": 1249,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1127,
+      "duration_ms": 529,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 30,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2784,
+      "duration_ms": 2430,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1621,
+      "duration_ms": 1612,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,167 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 21,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "f24453e6bc20abc2cc12ea5a55788bcb317e96e7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "还有个邪修玩法：https://t.co/sNDY2xP9Qm",
+          "url": "https://x.com/op7418/status/2108162445760217200",
+          "published_at": "2026-10-08T11:47:49Z",
+          "summary": "还有个邪修玩法：x.com/op7418/status/…歸藏(guizang.ai)@op7418再分享个邪修用法： 在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。 然后让 Grok Bot 调这些 token 去写代码、渲染视频，闲着的额度也就不浪费了🔗 View Quoted Tweet💬0🔄0❤️1👀1123⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "09546be708537e03359df39643b18db3d7c1e285",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "再分享个邪修用法：\n\n在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。\n\n然后让 Grok Bot...",
+          "url": "https://x.com/op7418/status/2108162381000093893",
+          "published_at": "2026-10-08T11:47:34Z",
+          "summary": "再分享个邪修用法： 在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。 然后让 Grok Bot 调这些 token 去写代码、渲染视频，闲着的额度也就不浪费了歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面…"
+        },
+        {
+          "id": "d6a32a04f1eaa6fcfea31929cf5a346603d652c0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "顺便，Grok Bot 的模型不会已经是 Opus 5.5 了吧，复杂任务效果巨好",
+          "url": "https://x.com/op7418/status/2108161410517930397",
+          "published_at": "2026-10-08T11:43:42Z",
+          "summary": "顺便，Grok Bot 的模型不会已经是 Opus 5.5 了吧，复杂任务效果巨好歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄1❤️1…"
+        },
+        {
+          "id": "e87ad5418cad9b531921545c57e12a5cd52bb9a3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "你也可以直接在这里 @ 你的 bot，让它加入到你的每日任务",
+          "url": "https://x.com/op7418/status/2108156015225290865",
+          "published_at": "2026-10-08T11:22:16Z",
+          "summary": "你也可以直接在这里 @ 你的 bot，让它加入到你的每日任务💬1🔄1❤️1👀1829📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a89d9f204fb49a56b10bc03c335f9b61532f4434",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Muse、Dots 或者其他有云端电脑的 Agent 都可以用",
+          "url": "https://x.com/op7418/status/2108150460037444094",
+          "published_at": "2026-10-08T11:00:11Z",
+          "summary": "Muse、Dots 或者其他有云端电脑的 Agent 都可以用歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄0❤️12👀3506📊4⚡ P…"
+        },
+        {
+          "id": "f2e977ef4274b8ac8ddc2103d9eba3ef1b2fa886",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！\n\n全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。\n\n我写了个提示词，直接复制过去的...",
+          "url": "https://x.com/op7418/status/2108148604447883464",
+          "published_at": "2026-10-08T10:52:49Z",
+          "summary": "让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter💬35🔄4❤️71👀18671📊55⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e67f160b72b581a01c73f04f6207a51254ecc627",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "怎么这么多精神 Anthropic 公司人\n\n我发这个信息说了句降价，这个定价专门用来狙击国产模型，说了句恶心，一堆人来骂\n\n好像这模型一便宜就忘了 Anthropic 之前干过啥了",
+          "url": "https://x.com/op7418/status/2108126537044353334",
+          "published_at": "2026-10-08T09:25:08Z",
+          "summary": "怎么这么多精神 Anthropic 公司人 我发这个信息说了句降价，这个定价专门用来狙击国产模型，说了句恶心，一堆人来骂 好像这模型一便宜就忘了 Anthropic 之前干过啥了歸藏(guizang.ai)@op7418Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！ 我对比了一下它和几个中国竞品的价格和测试评分 从价格来看，它比 DeepSeek-V4.1 flash 和智谱的 GLM 5.3 flash 都便宜 从测试集和一些分数来看，在 Terminal Bench 4.0 上，AA 的测试比 5.3 fl…"
+        },
+        {
+          "id": "809061d260f7f2ede1b02b9f4f9af8abd2ee0e41",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "那些就因为我说了几句 Anthropic 恶心，就在下面逼逼赖赖的人，希望封你们号的时候，别骂噢",
+          "url": "https://x.com/op7418/status/2108124981473206739",
+          "published_at": "2026-10-08T09:18:57Z",
+          "summary": "那些就因为我说了几句 Anthropic 恶心，就在下面逼逼赖赖的人，希望封你们号的时候，别骂噢💬1🔄0❤️13👀3465📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b25e30a350474da1e68e33c89427df2dee1f2841",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "谨慎领取，有可能是钓鱼执法",
+          "url": "https://x.com/op7418/status/2108117505478939112",
+          "published_at": "2026-10-08T08:49:14Z",
+          "summary": "谨慎领取，有可能是钓鱼执法💬0🔄0❤️5👀1517📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "df2f4bda1cfba48b9431c06e80465495ef928b26",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "妈的，当时为了抢那 99 美元的额度，用的另一个账号买的 Gork Bot，导致现在我的 Twitter @它，它不回我",
+          "url": "https://x.com/op7418/status/2108113214944985394",
+          "published_at": "2026-10-08T08:32:11Z",
+          "summary": "妈的，当时为了抢那 99 美元的额度，用的另一个账号买的 Gork Bot，导致现在我的 Twitter @它，它不回我歸藏(guizang.ai)@op7418Grok bot 最近真猛啊！ 现在可以搜索、阅读甚至监控指定的推特内容 比如你可以让他在 tibo 重置 Codex 额度的时候通知你 这些都是免费的，不通过以前的 xapi 实现🔗 View Quoted Tweet💬11🔄0❤️17👀8565📊9⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c9c53a7177a748fd6bba4857cf8ae0b47e532464",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "笑死，你永远不知道一个设计师会在产品的哪个地方开始抠细节，做着做着就跑偏了。\n\n把“关于”页面这个罗盘做成 3D 的，细节非常丰富，设计比较现代，而且指针还会跟随你的鼠标去转动",
+          "url": "https://x.com/op7418/status/2108110101076902078",
+          "published_at": "2026-10-08T08:19:49Z",
+          "summary": "笑死，你永远不知道一个设计师会在产品的哪个地方开始抠细节，做着做着就跑偏了。 把“关于”页面这个罗盘做成 3D 的，细节非常丰富，设计比较现代，而且指针还会跟随你的鼠标去转动Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Opus 5.5 做的奇门遁甲排盘教学网站上线了！ 本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了 …n-jiugong-xuetang.op7418.chatgpt.siteYou…"
+        },
+        {
+          "id": "7de743543a851483eabe48f2bd3244485510110b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哦，知道为啥没反应了，因为绑定的不是我这个推特账号",
+          "url": "https://x.com/op7418/status/2108108208074305707",
+          "published_at": "2026-10-08T08:12:18Z",
+          "summary": "哦，知道为啥没反应了，因为绑定的不是我这个推特账号💬1🔄0❤️7👀2302📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "07c60effe0c283592640f3e64c27d134c5a296dd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "嘿 @bot  我能为我的机器人要 [redacted-email] 吗？",
+          "url": "https://x.com/op7418/status/2108104962911928376",
+          "published_at": "2026-10-08T07:59:24Z",
+          "summary": "嘿 @bot 我能为我的机器人要 [redacted-email] 吗？lauren@potetohey @bot can I get [redacted-email] for my bot?🔗 View Quoted Tweet💬4🔄0❤️5👀7888📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3b43f358e560508fa192fd40324482807babebf8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "很多人说这有啥恶心的？这个看你屁股坐在哪边。\n\n在在国产厂商这边，他当然恶心了，对吧，总不能说他最近模型强了就忘了之前干了什么事吧，开始替 Anthropic 说话了",
+          "url": "https://x.com/op7418/status/2108099006463381645",
+          "published_at": "2026-10-08T07:35:44Z",
+          "summary": "很多人说这有啥恶心的？这个看你屁股坐在哪边。 在在国产厂商这边，他当然恶心了，对吧，总不能说他最近模型强了就忘了之前干了什么事吧，开始替 Anthropic 说话了💬7🔄0❤️22👀5912📊8⚡ Powered by xgo.ing"
+        },
         {
           "id": "5893d88f6605d67eb091d8fa91d444fe91ee7870",
           "site_id": "featuredrss",
@@ -200,7 +354,7 @@
           "title": "防杠，我也是菜逼，各路大师要是有其他见解可以自己搞哈，后面会把代码开源出来",
           "url": "https://x.com/op7418/status/2108052862572138938",
           "published_at": "2026-10-08T04:32:22Z",
-          "summary": "防杠，我也是菜逼，各路大师要是有其他见解可以自己搞哈，后面会把代码开源出来💬1🔄0❤️1👀1343📊1⚡ Powered by xgo.ing"
+          "summary": "防杠，我也是菜逼，各路大师要是有其他见解可以自己搞哈，后面会把代码开源出来💬1🔄0❤️1👀2522📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "45b2ccd1e23caf4eefb7023998d734eccb96cedf",
@@ -211,7 +365,7 @@
           "title": "Opus 5.5 做的奇门遁甲排盘教学网站上线了！\n\n本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了\n\nhttps://t.co/B7GCJuTKaN",
           "url": "https://x.com/op7418/status/2108050013054271544",
           "published_at": "2026-10-08T04:21:03Z",
-          "summary": "Opus 5.5 做的奇门遁甲排盘教学网站上线了！ 本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了 …n-jiugong-xuetang.op7418.chatgpt.siteYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418尝试让 Opus 5.5 做个网站解释奇门遁甲🔗 View Quoted Tweet💬19🔄4❤️40👀8248📊20⚡ Powered by xgo.ing"
+          "summary": "Opus 5.5 做的奇门遁甲排盘教学网站上线了！ 本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了 …n-jiugong-xuetang.op7418.chatgpt.siteYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418尝试让 Opus 5.5 做个网站解释奇门遁甲🔗 View Quoted Tweet💬30🔄15❤️94👀20079📊39⚡ Powered by xgo.ing"
         },
         {
           "id": "f706b6f4870c0c3fb04d9c25b0e835cc7696b073",
@@ -222,7 +376,7 @@
           "title": "Codex 今天送重置卡",
           "url": "https://x.com/op7418/status/2108025814227009681",
           "published_at": "2026-10-08T02:44:53Z",
-          "summary": "Codex 今天送重置卡Tibo@thsottiauxDay 3/ The big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work. Loading a banked reset in everyone's paid accounts. See you again tomorrow!🔗 View Quoted Tweet💬4🔄0❤️6👀4724…"
+          "summary": "Codex 今天送重置卡Tibo@thsottiauxDay 3/ The big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work. Loading a banked reset in everyone's paid accounts. See you again tomorrow!🔗 View Quoted Tweet💬4🔄0❤️7👀6265…"
         },
         {
           "id": "56b2c58a18a04bc85c5f8ff0b1d2e9676637097f",
@@ -233,7 +387,7 @@
           "title": "Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！\n\n我对比了一下它和几个中国竞品的价格和测试评分\n\n从价格来看，它比 DeepSeek-V4.1 flash ...",
           "url": "https://x.com/op7418/status/2108017913030717443",
           "published_at": "2026-10-08T02:13:30Z",
-          "summary": "Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！ 我对比了一下它和几个中国竞品的价格和测试评分 从价格来看，它比 DeepSeek-V4.1 flash 和智谱的 GLM 5.3 flash 都便宜 从测试集和一些分数来看，在 Terminal Bench 4.0 上，AA 的测试比 5.3 flash 高一分，也跟 5.3 flash 相同，比其他两个更高💬65🔄12❤️166👀53326📊81⚡ Powered by xgo.ing"
+          "summary": "Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！ 我对比了一下它和几个中国竞品的价格和测试评分 从价格来看，它比 DeepSeek-V4.1 flash 和智谱的 GLM 5.3 flash 都便宜 从测试集和一些分数来看，在 Terminal Bench 4.0 上，AA 的测试比 5.3 flash 高一分，也跟 5.3 flash 相同，比其他两个更高💬106🔄23❤️280👀111819📊135⚡ Powered by xgo.ing"
         },
         {
           "id": "86b3774437a5df6d0bb0f634f29dbd8f3e31573f",
@@ -255,40 +409,18 @@
           "title": "Grok bot 最近真猛啊！\n\n现在可以搜索、阅读甚至监控指定的推特内容\n\n比如你可以让他在 tibo 重置 Codex 额度的时候通知你\n\n这些都是免费的，不通过以前的 xapi 实现",
           "url": "https://x.com/op7418/status/2108010689889767493",
           "published_at": "2026-10-08T01:44:48Z",
-          "summary": "Grok bot 最近真猛啊！ 现在可以搜索、阅读甚至监控指定的推特内容 比如你可以让他在 tibo 重置 Codex 额度的时候通知你 这些都是免费的，不通过以前的 xapi 实现Grok Bot@botGrok Bot can now search, read, and monitor X.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄2❤️40👀11767📊13⚡ Powered by xgo.ing"
+          "summary": "Grok bot 最近真猛啊！ 现在可以搜索、阅读甚至监控指定的推特内容 比如你可以让他在 tibo 重置 Codex 额度的时候通知你 这些都是免费的，不通过以前的 xapi 实现💬19🔄2❤️69👀25891📊28⚡ Powered by xgo.ing"
         },
         {
-          "id": "aa9acb5d0b8e5bf433a5d2259c76fae5caa44b68",
+          "id": "f8d502a7bebb710209a40dd475dbd2514cba4ae0",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
+          "source": "数字生命卡兹克",
           "region": "domestic",
-          "title": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了",
-          "url": "https://x.com/op7418/status/2107794249051951205",
-          "published_at": "2026-10-07T11:24:44Z",
-          "summary": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了歸藏(guizang.ai)@op7418我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。🔗 View Quoted Tweet💬11🔄1❤️48👀24762📊13⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1fb1790f74d88224a39b0b2cf5d10ab350e948b3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。\n\n...",
-          "url": "https://x.com/op7418/status/2107793626705355111",
-          "published_at": "2026-10-07T11:22:16Z",
-          "summary": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。 这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。💬3🔄0❤️1👀6420📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f4a8619019efcc4faf479a68b2c18e59ce7ff958",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我操，Grok bot 现在无敌了！\n\n老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。\n\n也就是说，它不止使用 Grok 4.7 或者 4.6 了。\n\n还会使用 Opus 5.5、...",
-          "url": "https://x.com/op7418/status/2107788042929160367",
-          "published_at": "2026-10-07T11:00:04Z",
-          "summary": "我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。Elon Musk@elonmuskImportant note regarding Grok @Bot: Going forward, @SpaceX will use the best back end model for any given task, including Claud…"
+          "title": "AI让数学再也回不去那个旧世界了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
+          "published_at": "2026-10-08T00:36:00Z",
+          "summary": "722篇论文的重量"
         }
       ]
     },
@@ -333,7 +465,7 @@
           "title": "Play around with interactive answers to help customize your response.",
           "url": "https://x.com/OpenAI/status/2107895004819775938",
           "published_at": "2026-10-07T18:05:06Z",
-          "summary": "Play around with interactive answers to help customize your response.Your browser does not support the video tag.🔗 View on Twitter💬4🔄20❤️695👀146633📊66⚡ Powered by xgo.ing"
+          "summary": "Play around with interactive answers to help customize your response.Your browser does not support the video tag.🔗 View on Twitter💬4🔄22❤️774👀167245📊72⚡ Powered by xgo.ing"
         },
         {
           "id": "a7ccc505230ab7671bffc6b55f0a6d32e34f64a1",
@@ -344,7 +476,7 @@
           "title": "Deepen your understanding of a topic with visuals that bring concepts to life.",
           "url": "https://x.com/OpenAI/status/2107895003490169213",
           "published_at": "2026-10-07T18:05:06Z",
-          "summary": "Deepen your understanding of a topic with visuals that bring concepts to life.Your browser does not support the video tag.🔗 View on Twitter💬5🔄22❤️856👀112261📊81⚡ Powered by xgo.ing"
+          "summary": "Deepen your understanding of a topic with visuals that bring concepts to life.Your browser does not support the video tag.🔗 View on Twitter💬6🔄26❤️946👀130431📊90⚡ Powered by xgo.ing"
         },
         {
           "id": "2fe7a14f0b4e216751607d2a9b3c324c06e8d761",
@@ -355,7 +487,7 @@
           "title": "Create interactive tools you can use right in the conversation, like a game or interactive budget pl...",
           "url": "https://x.com/OpenAI/status/2107895002022187411",
           "published_at": "2026-10-07T18:05:05Z",
-          "summary": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator.Your browser does not support the video tag.🔗 View on Twitter💬17🔄36❤️1114👀139774📊118⚡ Powered by xgo.ing"
+          "summary": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator.Your browser does not support the video tag.🔗 View on Twitter💬19🔄38❤️1237👀161922📊130⚡ Powered by xgo.ing"
         },
         {
           "id": "0ee0ddeb76dd127a0372b10a5b53233a9a19bd66",
@@ -366,7 +498,7 @@
           "title": "Explore ideas through interactive visuals that respond as you learn, try, and discover.",
           "url": "https://x.com/OpenAI/status/2107895000642294250",
           "published_at": "2026-10-07T18:05:05Z",
-          "summary": "Explore ideas through interactive visuals that respond as you learn, try, and discover.Your browser does not support the video tag.🔗 View on Twitter💬13🔄42❤️1200👀163865📊122⚡ Powered by xgo.ing"
+          "summary": "Explore ideas through interactive visuals that respond as you learn, try, and discover.Your browser does not support the video tag.🔗 View on Twitter💬13🔄46❤️1341👀193278📊137⚡ Powered by xgo.ing"
         },
         {
           "id": "864e7823f213ba0fce6178c4c842ed69510d1d23",
@@ -399,7 +531,7 @@
           "title": "Learn more about identifying AI-generated content: https://t.co/CGOirl0INT",
           "url": "https://x.com/GoogleAI/status/2107836752308171062",
           "published_at": "2026-10-07T14:13:38Z",
-          "summary": "Learn more about identifying AI-generated content: blog.google/innovation-and…💬2🔄1❤️46👀13304📊8⚡ Powered by xgo.ing"
+          "summary": "Learn more about identifying AI-generated content: blog.google/innovation-and…💬2🔄1❤️53👀14642📊9⚡ Powered by xgo.ing"
         },
         {
           "id": "52ed6f925a188fc691f959c0ab95065a74d280ce",
@@ -417,6 +549,160 @@
   },
   "items": [
     {
+      "id": "f24453e6bc20abc2cc12ea5a55788bcb317e96e7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "还有个邪修玩法：https://t.co/sNDY2xP9Qm",
+      "url": "https://x.com/op7418/status/2108162445760217200",
+      "published_at": "2026-10-08T11:47:49Z",
+      "summary": "还有个邪修玩法：x.com/op7418/status/…歸藏(guizang.ai)@op7418再分享个邪修用法： 在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。 然后让 Grok Bot 调这些 token 去写代码、渲染视频，闲着的额度也就不浪费了🔗 View Quoted Tweet💬0🔄0❤️1👀1123⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "09546be708537e03359df39643b18db3d7c1e285",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "再分享个邪修用法：\n\n在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。\n\n然后让 Grok Bot...",
+      "url": "https://x.com/op7418/status/2108162381000093893",
+      "published_at": "2026-10-08T11:47:34Z",
+      "summary": "再分享个邪修用法： 在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。 然后让 Grok Bot 调这些 token 去写代码、渲染视频，闲着的额度也就不浪费了歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面…"
+    },
+    {
+      "id": "d6a32a04f1eaa6fcfea31929cf5a346603d652c0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "顺便，Grok Bot 的模型不会已经是 Opus 5.5 了吧，复杂任务效果巨好",
+      "url": "https://x.com/op7418/status/2108161410517930397",
+      "published_at": "2026-10-08T11:43:42Z",
+      "summary": "顺便，Grok Bot 的模型不会已经是 Opus 5.5 了吧，复杂任务效果巨好歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄1❤️1…"
+    },
+    {
+      "id": "e87ad5418cad9b531921545c57e12a5cd52bb9a3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "你也可以直接在这里 @ 你的 bot，让它加入到你的每日任务",
+      "url": "https://x.com/op7418/status/2108156015225290865",
+      "published_at": "2026-10-08T11:22:16Z",
+      "summary": "你也可以直接在这里 @ 你的 bot，让它加入到你的每日任务💬1🔄1❤️1👀1829📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a89d9f204fb49a56b10bc03c335f9b61532f4434",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Muse、Dots 或者其他有云端电脑的 Agent 都可以用",
+      "url": "https://x.com/op7418/status/2108150460037444094",
+      "published_at": "2026-10-08T11:00:11Z",
+      "summary": "Muse、Dots 或者其他有云端电脑的 Agent 都可以用歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄0❤️12👀3506📊4⚡ P…"
+    },
+    {
+      "id": "f2e977ef4274b8ac8ddc2103d9eba3ef1b2fa886",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！\n\n全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。\n\n我写了个提示词，直接复制过去的...",
+      "url": "https://x.com/op7418/status/2108148604447883464",
+      "published_at": "2026-10-08T10:52:49Z",
+      "summary": "让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter💬35🔄4❤️71👀18671📊55⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e67f160b72b581a01c73f04f6207a51254ecc627",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "怎么这么多精神 Anthropic 公司人\n\n我发这个信息说了句降价，这个定价专门用来狙击国产模型，说了句恶心，一堆人来骂\n\n好像这模型一便宜就忘了 Anthropic 之前干过啥了",
+      "url": "https://x.com/op7418/status/2108126537044353334",
+      "published_at": "2026-10-08T09:25:08Z",
+      "summary": "怎么这么多精神 Anthropic 公司人 我发这个信息说了句降价，这个定价专门用来狙击国产模型，说了句恶心，一堆人来骂 好像这模型一便宜就忘了 Anthropic 之前干过啥了歸藏(guizang.ai)@op7418Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！ 我对比了一下它和几个中国竞品的价格和测试评分 从价格来看，它比 DeepSeek-V4.1 flash 和智谱的 GLM 5.3 flash 都便宜 从测试集和一些分数来看，在 Terminal Bench 4.0 上，AA 的测试比 5.3 fl…"
+    },
+    {
+      "id": "809061d260f7f2ede1b02b9f4f9af8abd2ee0e41",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "那些就因为我说了几句 Anthropic 恶心，就在下面逼逼赖赖的人，希望封你们号的时候，别骂噢",
+      "url": "https://x.com/op7418/status/2108124981473206739",
+      "published_at": "2026-10-08T09:18:57Z",
+      "summary": "那些就因为我说了几句 Anthropic 恶心，就在下面逼逼赖赖的人，希望封你们号的时候，别骂噢💬1🔄0❤️13👀3465📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b25e30a350474da1e68e33c89427df2dee1f2841",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "谨慎领取，有可能是钓鱼执法",
+      "url": "https://x.com/op7418/status/2108117505478939112",
+      "published_at": "2026-10-08T08:49:14Z",
+      "summary": "谨慎领取，有可能是钓鱼执法💬0🔄0❤️5👀1517📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "df2f4bda1cfba48b9431c06e80465495ef928b26",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "妈的，当时为了抢那 99 美元的额度，用的另一个账号买的 Gork Bot，导致现在我的 Twitter @它，它不回我",
+      "url": "https://x.com/op7418/status/2108113214944985394",
+      "published_at": "2026-10-08T08:32:11Z",
+      "summary": "妈的，当时为了抢那 99 美元的额度，用的另一个账号买的 Gork Bot，导致现在我的 Twitter @它，它不回我歸藏(guizang.ai)@op7418Grok bot 最近真猛啊！ 现在可以搜索、阅读甚至监控指定的推特内容 比如你可以让他在 tibo 重置 Codex 额度的时候通知你 这些都是免费的，不通过以前的 xapi 实现🔗 View Quoted Tweet💬11🔄0❤️17👀8565📊9⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "c9c53a7177a748fd6bba4857cf8ae0b47e532464",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "笑死，你永远不知道一个设计师会在产品的哪个地方开始抠细节，做着做着就跑偏了。\n\n把“关于”页面这个罗盘做成 3D 的，细节非常丰富，设计比较现代，而且指针还会跟随你的鼠标去转动",
+      "url": "https://x.com/op7418/status/2108110101076902078",
+      "published_at": "2026-10-08T08:19:49Z",
+      "summary": "笑死，你永远不知道一个设计师会在产品的哪个地方开始抠细节，做着做着就跑偏了。 把“关于”页面这个罗盘做成 3D 的，细节非常丰富，设计比较现代，而且指针还会跟随你的鼠标去转动Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Opus 5.5 做的奇门遁甲排盘教学网站上线了！ 本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了 …n-jiugong-xuetang.op7418.chatgpt.siteYou…"
+    },
+    {
+      "id": "7de743543a851483eabe48f2bd3244485510110b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哦，知道为啥没反应了，因为绑定的不是我这个推特账号",
+      "url": "https://x.com/op7418/status/2108108208074305707",
+      "published_at": "2026-10-08T08:12:18Z",
+      "summary": "哦，知道为啥没反应了，因为绑定的不是我这个推特账号💬1🔄0❤️7👀2302📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "07c60effe0c283592640f3e64c27d134c5a296dd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "嘿 @bot  我能为我的机器人要 [redacted-email] 吗？",
+      "url": "https://x.com/op7418/status/2108104962911928376",
+      "published_at": "2026-10-08T07:59:24Z",
+      "summary": "嘿 @bot 我能为我的机器人要 [redacted-email] 吗？lauren@potetohey @bot can I get [redacted-email] for my bot?🔗 View Quoted Tweet💬4🔄0❤️5👀7888📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3b43f358e560508fa192fd40324482807babebf8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "很多人说这有啥恶心的？这个看你屁股坐在哪边。\n\n在在国产厂商这边，他当然恶心了，对吧，总不能说他最近模型强了就忘了之前干了什么事吧，开始替 Anthropic 说话了",
+      "url": "https://x.com/op7418/status/2108099006463381645",
+      "published_at": "2026-10-08T07:35:44Z",
+      "summary": "很多人说这有啥恶心的？这个看你屁股坐在哪边。 在在国产厂商这边，他当然恶心了，对吧，总不能说他最近模型强了就忘了之前干了什么事吧，开始替 Anthropic 说话了💬7🔄0❤️22👀5912📊8⚡ Powered by xgo.ing"
+    },
+    {
       "id": "5893d88f6605d67eb091d8fa91d444fe91ee7870",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -425,7 +711,7 @@
       "title": "防杠，我也是菜逼，各路大师要是有其他见解可以自己搞哈，后面会把代码开源出来",
       "url": "https://x.com/op7418/status/2108052862572138938",
       "published_at": "2026-10-08T04:32:22Z",
-      "summary": "防杠，我也是菜逼，各路大师要是有其他见解可以自己搞哈，后面会把代码开源出来💬1🔄0❤️1👀1343📊1⚡ Powered by xgo.ing"
+      "summary": "防杠，我也是菜逼，各路大师要是有其他见解可以自己搞哈，后面会把代码开源出来💬1🔄0❤️1👀2522📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "45b2ccd1e23caf4eefb7023998d734eccb96cedf",
@@ -436,7 +722,7 @@
       "title": "Opus 5.5 做的奇门遁甲排盘教学网站上线了！\n\n本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了\n\nhttps://t.co/B7GCJuTKaN",
       "url": "https://x.com/op7418/status/2108050013054271544",
       "published_at": "2026-10-08T04:21:03Z",
-      "summary": "Opus 5.5 做的奇门遁甲排盘教学网站上线了！ 本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了 …n-jiugong-xuetang.op7418.chatgpt.siteYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418尝试让 Opus 5.5 做个网站解释奇门遁甲🔗 View Quoted Tweet💬19🔄4❤️40👀8248📊20⚡ Powered by xgo.ing"
+      "summary": "Opus 5.5 做的奇门遁甲排盘教学网站上线了！ 本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了 …n-jiugong-xuetang.op7418.chatgpt.siteYour browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418尝试让 Opus 5.5 做个网站解释奇门遁甲🔗 View Quoted Tweet💬30🔄15❤️94👀20079📊39⚡ Powered by xgo.ing"
     },
     {
       "id": "f706b6f4870c0c3fb04d9c25b0e835cc7696b073",
@@ -447,7 +733,7 @@
       "title": "Codex 今天送重置卡",
       "url": "https://x.com/op7418/status/2108025814227009681",
       "published_at": "2026-10-08T02:44:53Z",
-      "summary": "Codex 今天送重置卡Tibo@thsottiauxDay 3/ The big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work. Loading a banked reset in everyone's paid accounts. See you again tomorrow!🔗 View Quoted Tweet💬4🔄0❤️6👀4724…"
+      "summary": "Codex 今天送重置卡Tibo@thsottiauxDay 3/ The big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work. Loading a banked reset in everyone's paid accounts. See you again tomorrow!🔗 View Quoted Tweet💬4🔄0❤️7👀6265…"
     },
     {
       "id": "56b2c58a18a04bc85c5f8ff0b1d2e9676637097f",
@@ -458,7 +744,7 @@
       "title": "Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！\n\n我对比了一下它和几个中国竞品的价格和测试评分\n\n从价格来看，它比 DeepSeek-V4.1 flash ...",
       "url": "https://x.com/op7418/status/2108017913030717443",
       "published_at": "2026-10-08T02:13:30Z",
-      "summary": "Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！ 我对比了一下它和几个中国竞品的价格和测试评分 从价格来看，它比 DeepSeek-V4.1 flash 和智谱的 GLM 5.3 flash 都便宜 从测试集和一些分数来看，在 Terminal Bench 4.0 上，AA 的测试比 5.3 flash 高一分，也跟 5.3 flash 相同，比其他两个更高💬65🔄12❤️166👀53326📊81⚡ Powered by xgo.ing"
+      "summary": "Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！ 我对比了一下它和几个中国竞品的价格和测试评分 从价格来看，它比 DeepSeek-V4.1 flash 和智谱的 GLM 5.3 flash 都便宜 从测试集和一些分数来看，在 Terminal Bench 4.0 上，AA 的测试比 5.3 flash 高一分，也跟 5.3 flash 相同，比其他两个更高💬106🔄23❤️280👀111819📊135⚡ Powered by xgo.ing"
     },
     {
       "id": "86b3774437a5df6d0bb0f634f29dbd8f3e31573f",
@@ -480,7 +766,18 @@
       "title": "Grok bot 最近真猛啊！\n\n现在可以搜索、阅读甚至监控指定的推特内容\n\n比如你可以让他在 tibo 重置 Codex 额度的时候通知你\n\n这些都是免费的，不通过以前的 xapi 实现",
       "url": "https://x.com/op7418/status/2108010689889767493",
       "published_at": "2026-10-08T01:44:48Z",
-      "summary": "Grok bot 最近真猛啊！ 现在可以搜索、阅读甚至监控指定的推特内容 比如你可以让他在 tibo 重置 Codex 额度的时候通知你 这些都是免费的，不通过以前的 xapi 实现Grok Bot@botGrok Bot can now search, read, and monitor X.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬10🔄2❤️40👀11767📊13⚡ Powered by xgo.ing"
+      "summary": "Grok bot 最近真猛啊！ 现在可以搜索、阅读甚至监控指定的推特内容 比如你可以让他在 tibo 重置 Codex 额度的时候通知你 这些都是免费的，不通过以前的 xapi 实现💬19🔄2❤️69👀25891📊28⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "f8d502a7bebb710209a40dd475dbd2514cba4ae0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "AI让数学再也回不去那个旧世界了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686908&idx=1&sn=29a97b5ff695871a7bf219d3d6bd6487",
+      "published_at": "2026-10-08T00:36:00Z",
+      "summary": "722篇论文的重量"
     },
     {
       "id": "1551f8d661b8af9a57fb0f7a3ae98b44c6eb8cd7",
@@ -513,7 +810,7 @@
       "title": "Play around with interactive answers to help customize your response.",
       "url": "https://x.com/OpenAI/status/2107895004819775938",
       "published_at": "2026-10-07T18:05:06Z",
-      "summary": "Play around with interactive answers to help customize your response.Your browser does not support the video tag.🔗 View on Twitter💬4🔄20❤️695👀146633📊66⚡ Powered by xgo.ing"
+      "summary": "Play around with interactive answers to help customize your response.Your browser does not support the video tag.🔗 View on Twitter💬4🔄22❤️774👀167245📊72⚡ Powered by xgo.ing"
     },
     {
       "id": "a7ccc505230ab7671bffc6b55f0a6d32e34f64a1",
@@ -524,7 +821,7 @@
       "title": "Deepen your understanding of a topic with visuals that bring concepts to life.",
       "url": "https://x.com/OpenAI/status/2107895003490169213",
       "published_at": "2026-10-07T18:05:06Z",
-      "summary": "Deepen your understanding of a topic with visuals that bring concepts to life.Your browser does not support the video tag.🔗 View on Twitter💬5🔄22❤️856👀112261📊81⚡ Powered by xgo.ing"
+      "summary": "Deepen your understanding of a topic with visuals that bring concepts to life.Your browser does not support the video tag.🔗 View on Twitter💬6🔄26❤️946👀130431📊90⚡ Powered by xgo.ing"
     },
     {
       "id": "2fe7a14f0b4e216751607d2a9b3c324c06e8d761",
@@ -535,7 +832,7 @@
       "title": "Create interactive tools you can use right in the conversation, like a game or interactive budget pl...",
       "url": "https://x.com/OpenAI/status/2107895002022187411",
       "published_at": "2026-10-07T18:05:05Z",
-      "summary": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator.Your browser does not support the video tag.🔗 View on Twitter💬17🔄36❤️1114👀139774📊118⚡ Powered by xgo.ing"
+      "summary": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator.Your browser does not support the video tag.🔗 View on Twitter💬19🔄38❤️1237👀161922📊130⚡ Powered by xgo.ing"
     },
     {
       "id": "0ee0ddeb76dd127a0372b10a5b53233a9a19bd66",
@@ -546,7 +843,7 @@
       "title": "Explore ideas through interactive visuals that respond as you learn, try, and discover.",
       "url": "https://x.com/OpenAI/status/2107895000642294250",
       "published_at": "2026-10-07T18:05:05Z",
-      "summary": "Explore ideas through interactive visuals that respond as you learn, try, and discover.Your browser does not support the video tag.🔗 View on Twitter💬13🔄42❤️1200👀163865📊122⚡ Powered by xgo.ing"
+      "summary": "Explore ideas through interactive visuals that respond as you learn, try, and discover.Your browser does not support the video tag.🔗 View on Twitter💬13🔄46❤️1341👀193278📊137⚡ Powered by xgo.ing"
     },
     {
       "id": "864e7823f213ba0fce6178c4c842ed69510d1d23",
@@ -579,7 +876,7 @@
       "title": "Learn more about identifying AI-generated content: https://t.co/CGOirl0INT",
       "url": "https://x.com/GoogleAI/status/2107836752308171062",
       "published_at": "2026-10-07T14:13:38Z",
-      "summary": "Learn more about identifying AI-generated content: blog.google/innovation-and…💬2🔄1❤️46👀13304📊8⚡ Powered by xgo.ing"
+      "summary": "Learn more about identifying AI-generated content: blog.google/innovation-and…💬2🔄1❤️53👀14642📊9⚡ Powered by xgo.ing"
     },
     {
       "id": "52ed6f925a188fc691f959c0ab95065a74d280ce",
@@ -591,39 +888,6 @@
       "url": "https://x.com/GoogleAI/status/2107836750257107133",
       "published_at": "2026-10-07T14:13:37Z",
       "summary": "Our SynthID technology lets you easily verify if an image, video, or audio file is AI-generated, and today we’re expanding access. Now anyone can go to synthid.com to check files for a SynthID watermark — whether they were generated by us or industry partners like @OpenAI, @nvidi…"
-    },
-    {
-      "id": "aa9acb5d0b8e5bf433a5d2259c76fae5caa44b68",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了",
-      "url": "https://x.com/op7418/status/2107794249051951205",
-      "published_at": "2026-10-07T11:24:44Z",
-      "summary": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了歸藏(guizang.ai)@op7418我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。🔗 View Quoted Tweet💬11🔄1❤️48👀24762📊13⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1fb1790f74d88224a39b0b2cf5d10ab350e948b3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。\n\n...",
-      "url": "https://x.com/op7418/status/2107793626705355111",
-      "published_at": "2026-10-07T11:22:16Z",
-      "summary": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。 这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。💬3🔄0❤️1👀6420📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f4a8619019efcc4faf479a68b2c18e59ce7ff958",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我操，Grok bot 现在无敌了！\n\n老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。\n\n也就是说，它不止使用 Grok 4.7 或者 4.6 了。\n\n还会使用 Opus 5.5、...",
-      "url": "https://x.com/op7418/status/2107788042929160367",
-      "published_at": "2026-10-07T11:00:04Z",
-      "summary": "我操，Grok bot 现在无敌了！ 老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。 也就是说，它不止使用 Grok 4.7 或者 4.6 了。 还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。Elon Musk@elonmuskImportant note regarding Grok @Bot: Going forward, @SpaceX will use the best back end model for any given task, including Claud…"
     }
   ]
 }
