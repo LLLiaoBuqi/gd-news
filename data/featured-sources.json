@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T13:34:18.914153Z",
+  "generated_at": "2026-10-09T19:10:49.645858Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 392,
+      "duration_ms": 200,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 175,
-      "duration_ms": 65,
+      "duration_ms": 125,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 478,
+      "duration_ms": 1546,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 808,
+      "duration_ms": 1484,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 605,
+      "duration_ms": 1524,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 343,
+      "duration_ms": 632,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 817,
+      "duration_ms": 1448,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2156,
+      "duration_ms": 2385,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1047,
+      "duration_ms": 1637,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -191,6 +191,72 @@
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "4f0801f8a692764e9bd6c32664d94a69b6a77fdc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "已经站起来蹬了",
+          "url": "https://x.com/op7418/status/2108604561753874568",
+          "published_at": "2026-10-09T17:04:38Z",
+          "summary": "已经站起来蹬了💬1🔄0❤️1👀947📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "18601074fb3bedb31533b913ee79927c1b1cccf6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "顺便再次感叹一下老马的豪横！\n\n我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。\n\n我这个是之前 99 美元买的 Grok 会员",
+          "url": "https://x.com/op7418/status/2108604299383337210",
+          "published_at": "2026-10-09T17:03:35Z",
+          "summary": "顺便再次感叹一下老马的豪横！ 我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。 我这个是之前 99 美元买的 Grok 会员歸藏(guizang.ai)@op7418我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬7🔄1❤️14👀3943📊7⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c9b9ef22467cd633e6f55e391173faf6a95e6c7a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频\n\n他给了我这个",
+          "url": "https://x.com/op7418/status/2108599286984561073",
+          "published_at": "2026-10-09T16:43:40Z",
+          "summary": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter💬8🔄2❤️18👀7292📊11⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1278661205aa399d35499377f76a4ab53c10b994",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我把这个流程直接做成了一个 bot 并发布了。\n\n你现在可以一键安装了：https://t.co/QGDZDyOunM",
+          "url": "https://x.com/op7418/status/2108566650350170411",
+          "published_at": "2026-10-09T14:33:59Z",
+          "summary": "我把这个流程直接做成了一个 bot 并发布了。 你现在可以一键安装了：x.ai/bot/8mi67EcgDU…歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted…"
+        },
+        {
+          "id": "4af669739a590f71b6d0d3912fac0ce0a868faa1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "my Grok @bot turns my AI newsletter into a 2-min video now. \n\nmade it a template so you can steal it...",
+          "url": "https://x.com/op7418/status/2108566423115350121",
+          "published_at": "2026-10-09T14:33:05Z",
+          "summary": "my Grok @bot turns my AI newsletter into a 2-min video now. made it a template so you can steal it x.ai/bot/8mi67EcgDU…Your browser does not support the video tag.🔗 View on Twitter💬5🔄2❤️12👀4646📊7⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e0376dae66b91dca36fe369be6d437a6484a5be1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。\n\n比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。\n\n做自媒体干了这么长时间，都没有监控过自己的...",
+          "url": "https://x.com/op7418/status/2108545983647023493",
+          "published_at": "2026-10-09T13:11:52Z",
+          "summary": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。 比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。 做自媒体干了这么长时间，都没有监控过自己的一些数据，刚才跟他花了 15 分钟一起就把这些东西建起来了。💬33🔄9❤️79👀15117📊47⚡ Powered by xgo.ing"
+        },
         {
           "id": "3b4efba01f434dd55c2193865eba5cbae07af453",
           "site_id": "featuredrss",
@@ -211,7 +277,7 @@
           "title": "在野外跟 Grok bot 搏斗",
           "url": "https://x.com/op7418/status/2108430748101570855",
           "published_at": "2026-10-09T05:33:57Z",
-          "summary": "在野外跟 Grok bot 搏斗💬13🔄1❤️18👀5100📊12⚡ Powered by xgo.ing"
+          "summary": "在野外跟 Grok bot 搏斗💬13🔄1❤️20👀5877📊13⚡ Powered by xgo.ing"
         },
         {
           "id": "cb31eed955f27d91441cb03b7f0515e6190d4b18",
@@ -233,7 +299,7 @@
           "title": "B 站：https://t.co/b84ptTEHJZ\n\n小宇宙：https://t.co/ksgTtluFuR",
           "url": "https://x.com/op7418/status/2108376628820943258",
           "published_at": "2026-10-09T01:58:54Z",
-          "summary": "B 站：bilibili.com/video/BV1ZDHX6… 小宇宙：xiaoyuzhoufm.com/episode/6ac6da…💬0🔄0❤️3👀2111📊1⚡ Powered by xgo.ing"
+          "summary": "B 站：bilibili.com/video/BV1ZDHX6… 小宇宙：xiaoyuzhoufm.com/episode/6ac6da…💬0🔄0❤️3👀2331📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "48b6476124db0fbf8ee3ee294249b6c565376185",
@@ -244,89 +310,112 @@
           "title": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。\n\n我们继续聊了聊关于 personal agent 的话题：\n• 为什么 Dots 这么难用\n• 为什么...",
           "url": "https://x.com/op7418/status/2108376538056212876",
           "published_at": "2026-10-09T01:58:33Z",
-          "summary": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。 第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！💬14🔄2❤️26👀5508📊16⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "617624561394cea87283753f161cd91bda89f610",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "3D 这一块还是 GPT-6 Astra 牛皮啊\n\n让它读取了一下我的 Memory，根据我的喜好，用 Blender 建模的几个模型做了张海报\n\n模型的细节、材质、光影都能做得很好",
-          "url": "https://x.com/op7418/status/2108229061529239705",
-          "published_at": "2026-10-08T16:12:31Z",
-          "summary": "3D 这一块还是 GPT-6 Astra 牛皮啊 让它读取了一下我的 Memory，根据我的喜好，用 Blender 建模的几个模型做了张海报 模型的细节、材质、光影都能做得很好💬18🔄4❤️63👀10316📊25⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "880877b8ea971667bd54e4d89fc2d8cc7f62b6bc",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "A÷小伎俩",
-          "url": "https://x.com/op7418/status/2108225180111896660",
-          "published_at": "2026-10-08T15:57:06Z",
-          "summary": "A÷小伎俩卡比卡比@jakevin7@op7418 归藏老师的贴子今天提到 A➗刻意压价，然而其实连`压价`本身都是假的压价。 Haiku 的价格策略是阶梯策略，但是这个策略很恶心的点在于上下文 <100k 的时候，价格才很低，一旦 > 100k，价格翻了5倍。(对比之下，gpt的分界线则是272k) 图片里看起来它的价格很低，实际上真实使用价格要高得多。这个设计真的很鸡贼....甚至可以说是面向Benchmark的特化优化。 用这种办法打榜到了第一。🔗 View Quoted Tweet💬0🔄0❤️4👀2775⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "5caff1ad44b4a287486e077bc9348f00f2fc923d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "模型强该用用，怎么公司还说不得了，我寻思那些人应该也没 A÷股份啊",
-          "url": "https://x.com/op7418/status/2108221358228512809",
-          "published_at": "2026-10-08T15:41:55Z",
-          "summary": "模型强该用用，怎么公司还说不得了，我寻思那些人应该也没 A÷股份啊💬7🔄0❤️22👀3487📊8⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d6d8aa4bb6c119a5b1bf9bcbdc227b7d24b0c566",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "就这么说吧，就冲着他封了我那么多号还不退钱，我对这公司就不可能有好话",
-          "url": "https://x.com/op7418/status/2108220832422228202",
-          "published_at": "2026-10-08T15:39:49Z",
-          "summary": "就这么说吧，就冲着他封了我那么多号还不退钱，我对这公司就不可能有好话💬5🔄0❤️25👀4069📊6⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b33fecb185bdc4e3ccfd554deecce6238ad347ae",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "当然也可以打开两个狗头军师帮我参谋",
-          "url": "https://x.com/op7418/status/2108197180133798142",
-          "published_at": "2026-10-08T14:05:50Z",
-          "summary": "当然也可以打开两个狗头军师帮我参谋💬0🔄0❤️2👀2757⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a8838002cfd7ae1edf7bc41432bf5585ebf7d9be",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Grok bot 跟折叠屏手机真是绝配，左边跟他聊天，右边直接就发布了",
-          "url": "https://x.com/op7418/status/2108195841949446528",
-          "published_at": "2026-10-08T14:00:31Z",
-          "summary": "Grok bot 跟折叠屏手机真是绝配，左边跟他聊天，右边直接就发布了歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬19🔄0❤️19👀1183…"
+          "summary": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。 第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！💬15🔄2❤️26👀5988📊17⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "8fb40adbcdd082fc5bfbdaf6db72fbb2b31dfb29",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "It’s Friday 🎉 Here’s a look at this week’s announcements:\n\n— https://t.co/aIbQoguyFu is now availab...",
+          "url": "https://x.com/GoogleAI/status/2108550067724407281",
+          "published_at": "2026-10-09T13:28:05Z",
+          "summary": "It’s Friday 🎉 Here’s a look at this week’s announcements: —SynthID.comu is now available globally in English, allowing anyone to use our detector portal to easily verify if images, video, or audio files were AI-generated by Google or industry partners — Nano Banana 2.1, featuring…"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "4f0801f8a692764e9bd6c32664d94a69b6a77fdc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "已经站起来蹬了",
+      "url": "https://x.com/op7418/status/2108604561753874568",
+      "published_at": "2026-10-09T17:04:38Z",
+      "summary": "已经站起来蹬了💬1🔄0❤️1👀947📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "18601074fb3bedb31533b913ee79927c1b1cccf6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "顺便再次感叹一下老马的豪横！\n\n我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。\n\n我这个是之前 99 美元买的 Grok 会员",
+      "url": "https://x.com/op7418/status/2108604299383337210",
+      "published_at": "2026-10-09T17:03:35Z",
+      "summary": "顺便再次感叹一下老马的豪横！ 我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。 我这个是之前 99 美元买的 Grok 会员歸藏(guizang.ai)@op7418我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬7🔄1❤️14👀3943📊7⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "c9b9ef22467cd633e6f55e391173faf6a95e6c7a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频\n\n他给了我这个",
+      "url": "https://x.com/op7418/status/2108599286984561073",
+      "published_at": "2026-10-09T16:43:40Z",
+      "summary": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter💬8🔄2❤️18👀7292📊11⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1278661205aa399d35499377f76a4ab53c10b994",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我把这个流程直接做成了一个 bot 并发布了。\n\n你现在可以一键安装了：https://t.co/QGDZDyOunM",
+      "url": "https://x.com/op7418/status/2108566650350170411",
+      "published_at": "2026-10-09T14:33:59Z",
+      "summary": "我把这个流程直接做成了一个 bot 并发布了。 你现在可以一键安装了：x.ai/bot/8mi67EcgDU…歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted…"
+    },
+    {
+      "id": "4af669739a590f71b6d0d3912fac0ce0a868faa1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "my Grok @bot turns my AI newsletter into a 2-min video now. \n\nmade it a template so you can steal it...",
+      "url": "https://x.com/op7418/status/2108566423115350121",
+      "published_at": "2026-10-09T14:33:05Z",
+      "summary": "my Grok @bot turns my AI newsletter into a 2-min video now. made it a template so you can steal it x.ai/bot/8mi67EcgDU…Your browser does not support the video tag.🔗 View on Twitter💬5🔄2❤️12👀4646📊7⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8fb40adbcdd082fc5bfbdaf6db72fbb2b31dfb29",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "It’s Friday 🎉 Here’s a look at this week’s announcements:\n\n— https://t.co/aIbQoguyFu is now availab...",
+      "url": "https://x.com/GoogleAI/status/2108550067724407281",
+      "published_at": "2026-10-09T13:28:05Z",
+      "summary": "It’s Friday 🎉 Here’s a look at this week’s announcements: —SynthID.comu is now available globally in English, allowing anyone to use our detector portal to easily verify if images, video, or audio files were AI-generated by Google or industry partners — Nano Banana 2.1, featuring…"
+    },
+    {
+      "id": "e0376dae66b91dca36fe369be6d437a6484a5be1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。\n\n比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。\n\n做自媒体干了这么长时间，都没有监控过自己的...",
+      "url": "https://x.com/op7418/status/2108545983647023493",
+      "published_at": "2026-10-09T13:11:52Z",
+      "summary": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。 比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。 做自媒体干了这么长时间，都没有监控过自己的一些数据，刚才跟他花了 15 分钟一起就把这些东西建起来了。💬33🔄9❤️79👀15117📊47⚡ Powered by xgo.ing"
+    },
     {
       "id": "3b4efba01f434dd55c2193865eba5cbae07af453",
       "site_id": "featuredrss",
@@ -347,7 +436,7 @@
       "title": "在野外跟 Grok bot 搏斗",
       "url": "https://x.com/op7418/status/2108430748101570855",
       "published_at": "2026-10-09T05:33:57Z",
-      "summary": "在野外跟 Grok bot 搏斗💬13🔄1❤️18👀5100📊12⚡ Powered by xgo.ing"
+      "summary": "在野外跟 Grok bot 搏斗💬13🔄1❤️20👀5877📊13⚡ Powered by xgo.ing"
     },
     {
       "id": "cb31eed955f27d91441cb03b7f0515e6190d4b18",
@@ -369,7 +458,7 @@
       "title": "B 站：https://t.co/b84ptTEHJZ\n\n小宇宙：https://t.co/ksgTtluFuR",
       "url": "https://x.com/op7418/status/2108376628820943258",
       "published_at": "2026-10-09T01:58:54Z",
-      "summary": "B 站：bilibili.com/video/BV1ZDHX6… 小宇宙：xiaoyuzhoufm.com/episode/6ac6da…💬0🔄0❤️3👀2111📊1⚡ Powered by xgo.ing"
+      "summary": "B 站：bilibili.com/video/BV1ZDHX6… 小宇宙：xiaoyuzhoufm.com/episode/6ac6da…💬0🔄0❤️3👀2331📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "48b6476124db0fbf8ee3ee294249b6c565376185",
@@ -380,73 +469,7 @@
       "title": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。\n\n我们继续聊了聊关于 personal agent 的话题：\n• 为什么 Dots 这么难用\n• 为什么...",
       "url": "https://x.com/op7418/status/2108376538056212876",
       "published_at": "2026-10-09T01:58:33Z",
-      "summary": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。 第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！💬14🔄2❤️26👀5508📊16⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "617624561394cea87283753f161cd91bda89f610",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "3D 这一块还是 GPT-6 Astra 牛皮啊\n\n让它读取了一下我的 Memory，根据我的喜好，用 Blender 建模的几个模型做了张海报\n\n模型的细节、材质、光影都能做得很好",
-      "url": "https://x.com/op7418/status/2108229061529239705",
-      "published_at": "2026-10-08T16:12:31Z",
-      "summary": "3D 这一块还是 GPT-6 Astra 牛皮啊 让它读取了一下我的 Memory，根据我的喜好，用 Blender 建模的几个模型做了张海报 模型的细节、材质、光影都能做得很好💬18🔄4❤️63👀10316📊25⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "880877b8ea971667bd54e4d89fc2d8cc7f62b6bc",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "A÷小伎俩",
-      "url": "https://x.com/op7418/status/2108225180111896660",
-      "published_at": "2026-10-08T15:57:06Z",
-      "summary": "A÷小伎俩卡比卡比@jakevin7@op7418 归藏老师的贴子今天提到 A➗刻意压价，然而其实连`压价`本身都是假的压价。 Haiku 的价格策略是阶梯策略，但是这个策略很恶心的点在于上下文 <100k 的时候，价格才很低，一旦 > 100k，价格翻了5倍。(对比之下，gpt的分界线则是272k) 图片里看起来它的价格很低，实际上真实使用价格要高得多。这个设计真的很鸡贼....甚至可以说是面向Benchmark的特化优化。 用这种办法打榜到了第一。🔗 View Quoted Tweet💬0🔄0❤️4👀2775⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "5caff1ad44b4a287486e077bc9348f00f2fc923d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "模型强该用用，怎么公司还说不得了，我寻思那些人应该也没 A÷股份啊",
-      "url": "https://x.com/op7418/status/2108221358228512809",
-      "published_at": "2026-10-08T15:41:55Z",
-      "summary": "模型强该用用，怎么公司还说不得了，我寻思那些人应该也没 A÷股份啊💬7🔄0❤️22👀3487📊8⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d6d8aa4bb6c119a5b1bf9bcbdc227b7d24b0c566",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "就这么说吧，就冲着他封了我那么多号还不退钱，我对这公司就不可能有好话",
-      "url": "https://x.com/op7418/status/2108220832422228202",
-      "published_at": "2026-10-08T15:39:49Z",
-      "summary": "就这么说吧，就冲着他封了我那么多号还不退钱，我对这公司就不可能有好话💬5🔄0❤️25👀4069📊6⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b33fecb185bdc4e3ccfd554deecce6238ad347ae",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "当然也可以打开两个狗头军师帮我参谋",
-      "url": "https://x.com/op7418/status/2108197180133798142",
-      "published_at": "2026-10-08T14:05:50Z",
-      "summary": "当然也可以打开两个狗头军师帮我参谋💬0🔄0❤️2👀2757⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a8838002cfd7ae1edf7bc41432bf5585ebf7d9be",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Grok bot 跟折叠屏手机真是绝配，左边跟他聊天，右边直接就发布了",
-      "url": "https://x.com/op7418/status/2108195841949446528",
-      "published_at": "2026-10-08T14:00:31Z",
-      "summary": "Grok bot 跟折叠屏手机真是绝配，左边跟他聊天，右边直接就发布了歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬19🔄0❤️19👀1183…"
+      "summary": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。 第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！💬15🔄2❤️26👀5988📊17⚡ Powered by xgo.ing"
     }
   ]
 }
