@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T09:16:55.051072Z",
+  "generated_at": "2026-10-10T15:29:28.242870Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 580,
+      "duration_ms": 506,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 176,
-      "duration_ms": 95,
+      "duration_ms": 93,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1382,
+      "duration_ms": 767,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1372,
+      "duration_ms": 1139,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1099,
+      "duration_ms": 1009,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1015,
+      "duration_ms": 439,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 516,
+      "duration_ms": 1059,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 41,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2750,
+      "duration_ms": 2700,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1532,
+      "duration_ms": 1720,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -192,6 +192,17 @@
       ],
       "items": [
         {
+          "id": "bbd4ce12395303512d9dd9965fcfcdb70dfca9c1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "谁能想到只播了 5 期 订阅就超 7000 了",
+          "url": "https://x.com/op7418/status/2108917380600791463",
+          "published_at": "2026-10-10T13:47:39Z",
+          "summary": "谁能想到只播了 5 期 订阅就超 7000 了歸藏(guizang.ai)@op7418Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。 第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！🔗 View Quoted Tweet💬…"
+        },
+        {
           "id": "d2b5bff0c10ae9ebb1768ab6cfeac833137571a0",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -203,6 +214,28 @@
           "summary": "Midjourney 终于要有 MCP 了Midjourney@midjourneywe want to start testing a Midjourney MCP with a limited community. the intention is to find creative and technical people to push the boundaries of what our models can do. this is not for Midjourney in SaaS products, it's for purely arti…"
         },
         {
+          "id": "985ba0adec39530e6eb839ac8d5136590a5c0dae",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "八款AI语音输入法大横测！我找到了Vibe Coding的最佳搭配",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512286&idx=1&sn=781a271be869453cd487551dd028ed9f",
+          "published_at": "2026-10-10T01:45:00Z",
+          "summary": "多到我选择困难症犯了"
+        },
+        {
+          "id": "342971ddeaf6fd32f84fb872fd23e1e137005ec2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "我花了5天时间，对公司进行了一场AI化改造。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686948&idx=1&sn=d43b6d924d339092f96e3ba826119f6c",
+          "published_at": "2026-10-10T00:32:00Z",
+          "summary": "给公司装个新脑子"
+        },
+        {
           "id": "113e49d35361447b5e2b0df71432bb38df2d0095",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -211,7 +244,7 @@
           "title": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱\n\n直接在评论区 @ 或者把这个推特发给他就行",
           "url": "https://x.com/op7418/status/2108649243301081319",
           "published_at": "2026-10-09T20:02:11Z",
-          "summary": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱 直接在评论区 @ 或者把这个推特发给他就行Grok Bot@botGrok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you, or schedule time with someone.🔗 View Quoted Tweet💬91🔄10❤️110👀49040📊85⚡ Powered by xgo.ing"
+          "summary": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱 直接在评论区 @ 或者把这个推特发给他就行Grok Bot@botGrok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you, or schedule time with someone.🔗 View Quoted Tweet💬102🔄11❤️116👀54791📊94⚡ Powered by xgo.ing"
         },
         {
           "id": "4f0801f8a692764e9bd6c32664d94a69b6a77fdc",
@@ -222,7 +255,7 @@
           "title": "已经站起来蹬了",
           "url": "https://x.com/op7418/status/2108604561753874568",
           "published_at": "2026-10-09T17:04:38Z",
-          "summary": "已经站起来蹬了💬1🔄0❤️2👀3783📊1⚡ Powered by xgo.ing"
+          "summary": "已经站起来蹬了💬1🔄0❤️2👀4317📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "18601074fb3bedb31533b913ee79927c1b1cccf6",
@@ -233,7 +266,7 @@
           "title": "顺便再次感叹一下老马的豪横！\n\n我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。\n\n我这个是之前 99 美元买的 Grok 会员",
           "url": "https://x.com/op7418/status/2108604299383337210",
           "published_at": "2026-10-09T17:03:35Z",
-          "summary": "顺便再次感叹一下老马的豪横！ 我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。 我这个是之前 99 美元买的 Grok 会员歸藏(guizang.ai)@op7418我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬19🔄2❤️61👀24519📊22⚡ Powered by xgo.ing"
+          "summary": "顺便再次感叹一下老马的豪横！ 我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。 我这个是之前 99 美元买的 Grok 会员歸藏(guizang.ai)@op7418我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬21🔄2❤️67👀29497📊24⚡ Powered by xgo.ing"
         },
         {
           "id": "c9b9ef22467cd633e6f55e391173faf6a95e6c7a",
@@ -244,68 +277,34 @@
           "title": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频\n\n他给了我这个",
           "url": "https://x.com/op7418/status/2108599286984561073",
           "published_at": "2026-10-09T16:43:40Z",
-          "summary": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter💬23🔄3❤️51👀35445📊29⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1278661205aa399d35499377f76a4ab53c10b994",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我把这个流程直接做成了一个 bot 并发布了。\n\n你现在可以一键安装了：https://t.co/QGDZDyOunM",
-          "url": "https://x.com/op7418/status/2108566650350170411",
-          "published_at": "2026-10-09T14:33:59Z",
-          "summary": "我把这个流程直接做成了一个 bot 并发布了。 你现在可以一键安装了：x.ai/bot/8mi67EcgDU…歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted…"
-        },
-        {
-          "id": "4af669739a590f71b6d0d3912fac0ce0a868faa1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "my Grok @bot turns my AI newsletter into a 2-min video now. \n\nmade it a template so you can steal it...",
-          "url": "https://x.com/op7418/status/2108566423115350121",
-          "published_at": "2026-10-09T14:33:05Z",
-          "summary": "my Grok @bot turns my AI newsletter into a 2-min video now. made it a template so you can steal it x.ai/bot/8mi67EcgDU…Your browser does not support the video tag.🔗 View on Twitter💬6🔄2❤️15👀6741📊9⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e0376dae66b91dca36fe369be6d437a6484a5be1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。\n\n比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。\n\n做自媒体干了这么长时间，都没有监控过自己的...",
-          "url": "https://x.com/op7418/status/2108545983647023493",
-          "published_at": "2026-10-09T13:11:52Z",
-          "summary": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。 比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。 做自媒体干了这么长时间，都没有监控过自己的一些数据，刚才跟他花了 15 分钟一起就把这些东西建起来了。💬38🔄11❤️144👀26892📊64⚡ Powered by xgo.ing"
+          "summary": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter💬25🔄4❤️55👀41697📊31⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "8fb40adbcdd082fc5bfbdaf6db72fbb2b31dfb29",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "It’s Friday 🎉 Here’s a look at this week’s announcements:\n\n— https://t.co/aIbQoguyFu is now availab...",
-          "url": "https://x.com/GoogleAI/status/2108550067724407281",
-          "published_at": "2026-10-09T13:28:05Z",
-          "summary": "It’s Friday 🎉 Here’s a look at this week’s announcements: —SynthID.comu is now available globally in English, allowing anyone to use our detector portal to easily verify if images, video, or audio files were AI-generated by Google or industry partners — Nano Banana 2.1, featuring…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
+    {
+      "id": "bbd4ce12395303512d9dd9965fcfcdb70dfca9c1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "谁能想到只播了 5 期 订阅就超 7000 了",
+      "url": "https://x.com/op7418/status/2108917380600791463",
+      "published_at": "2026-10-10T13:47:39Z",
+      "summary": "谁能想到只播了 5 期 订阅就超 7000 了歸藏(guizang.ai)@op7418Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。 第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！🔗 View Quoted Tweet💬…"
+    },
     {
       "id": "d2b5bff0c10ae9ebb1768ab6cfeac833137571a0",
       "site_id": "featuredrss",
@@ -318,6 +317,28 @@
       "summary": "Midjourney 终于要有 MCP 了Midjourney@midjourneywe want to start testing a Midjourney MCP with a limited community. the intention is to find creative and technical people to push the boundaries of what our models can do. this is not for Midjourney in SaaS products, it's for purely arti…"
     },
     {
+      "id": "985ba0adec39530e6eb839ac8d5136590a5c0dae",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "八款AI语音输入法大横测！我找到了Vibe Coding的最佳搭配",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512286&idx=1&sn=781a271be869453cd487551dd028ed9f",
+      "published_at": "2026-10-10T01:45:00Z",
+      "summary": "多到我选择困难症犯了"
+    },
+    {
+      "id": "342971ddeaf6fd32f84fb872fd23e1e137005ec2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "我花了5天时间，对公司进行了一场AI化改造。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686948&idx=1&sn=d43b6d924d339092f96e3ba826119f6c",
+      "published_at": "2026-10-10T00:32:00Z",
+      "summary": "给公司装个新脑子"
+    },
+    {
       "id": "113e49d35361447b5e2b0df71432bb38df2d0095",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -326,7 +347,7 @@
       "title": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱\n\n直接在评论区 @ 或者把这个推特发给他就行",
       "url": "https://x.com/op7418/status/2108649243301081319",
       "published_at": "2026-10-09T20:02:11Z",
-      "summary": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱 直接在评论区 @ 或者把这个推特发给他就行Grok Bot@botGrok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you, or schedule time with someone.🔗 View Quoted Tweet💬91🔄10❤️110👀49040📊85⚡ Powered by xgo.ing"
+      "summary": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱 直接在评论区 @ 或者把这个推特发给他就行Grok Bot@botGrok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you, or schedule time with someone.🔗 View Quoted Tweet💬102🔄11❤️116👀54791📊94⚡ Powered by xgo.ing"
     },
     {
       "id": "4f0801f8a692764e9bd6c32664d94a69b6a77fdc",
@@ -337,7 +358,7 @@
       "title": "已经站起来蹬了",
       "url": "https://x.com/op7418/status/2108604561753874568",
       "published_at": "2026-10-09T17:04:38Z",
-      "summary": "已经站起来蹬了💬1🔄0❤️2👀3783📊1⚡ Powered by xgo.ing"
+      "summary": "已经站起来蹬了💬1🔄0❤️2👀4317📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "18601074fb3bedb31533b913ee79927c1b1cccf6",
@@ -348,7 +369,7 @@
       "title": "顺便再次感叹一下老马的豪横！\n\n我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。\n\n我这个是之前 99 美元买的 Grok 会员",
       "url": "https://x.com/op7418/status/2108604299383337210",
       "published_at": "2026-10-09T17:03:35Z",
-      "summary": "顺便再次感叹一下老马的豪横！ 我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。 我这个是之前 99 美元买的 Grok 会员歸藏(guizang.ai)@op7418我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬19🔄2❤️61👀24519📊22⚡ Powered by xgo.ing"
+      "summary": "顺便再次感叹一下老马的豪横！ 我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。 我这个是之前 99 美元买的 Grok 会员歸藏(guizang.ai)@op7418我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬21🔄2❤️67👀29497📊24⚡ Powered by xgo.ing"
     },
     {
       "id": "c9b9ef22467cd633e6f55e391173faf6a95e6c7a",
@@ -359,51 +380,7 @@
       "title": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频\n\n他给了我这个",
       "url": "https://x.com/op7418/status/2108599286984561073",
       "published_at": "2026-10-09T16:43:40Z",
-      "summary": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter💬23🔄3❤️51👀35445📊29⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1278661205aa399d35499377f76a4ab53c10b994",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我把这个流程直接做成了一个 bot 并发布了。\n\n你现在可以一键安装了：https://t.co/QGDZDyOunM",
-      "url": "https://x.com/op7418/status/2108566650350170411",
-      "published_at": "2026-10-09T14:33:59Z",
-      "summary": "我把这个流程直接做成了一个 bot 并发布了。 你现在可以一键安装了：x.ai/bot/8mi67EcgDU…歸藏(guizang.ai)@op7418让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！ 全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。 我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务 提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted…"
-    },
-    {
-      "id": "4af669739a590f71b6d0d3912fac0ce0a868faa1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "my Grok @bot turns my AI newsletter into a 2-min video now. \n\nmade it a template so you can steal it...",
-      "url": "https://x.com/op7418/status/2108566423115350121",
-      "published_at": "2026-10-09T14:33:05Z",
-      "summary": "my Grok @bot turns my AI newsletter into a 2-min video now. made it a template so you can steal it x.ai/bot/8mi67EcgDU…Your browser does not support the video tag.🔗 View on Twitter💬6🔄2❤️15👀6741📊9⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8fb40adbcdd082fc5bfbdaf6db72fbb2b31dfb29",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "It’s Friday 🎉 Here’s a look at this week’s announcements:\n\n— https://t.co/aIbQoguyFu is now availab...",
-      "url": "https://x.com/GoogleAI/status/2108550067724407281",
-      "published_at": "2026-10-09T13:28:05Z",
-      "summary": "It’s Friday 🎉 Here’s a look at this week’s announcements: —SynthID.comu is now available globally in English, allowing anyone to use our detector portal to easily verify if images, video, or audio files were AI-generated by Google or industry partners — Nano Banana 2.1, featuring…"
-    },
-    {
-      "id": "e0376dae66b91dca36fe369be6d437a6484a5be1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。\n\n比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。\n\n做自媒体干了这么长时间，都没有监控过自己的...",
-      "url": "https://x.com/op7418/status/2108545983647023493",
-      "published_at": "2026-10-09T13:11:52Z",
-      "summary": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。 比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。 做自媒体干了这么长时间，都没有监控过自己的一些数据，刚才跟他花了 15 分钟一起就把这些东西建起来了。💬38🔄11❤️144👀26892📊64⚡ Powered by xgo.ing"
+      "summary": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter💬25🔄4❤️55👀41697📊31⚡ Powered by xgo.ing"
     }
   ]
 }
