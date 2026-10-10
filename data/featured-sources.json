@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:29:28.242870Z",
+  "generated_at": "2026-10-10T19:27:09.427563Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 8,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 506,
+      "duration_ms": 1207,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 176,
-      "duration_ms": 93,
+      "duration_ms": 89,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 767,
+      "duration_ms": 1229,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1139,
+      "duration_ms": 1266,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1009,
+      "duration_ms": 1121,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 439,
+      "duration_ms": 991,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1059,
+      "duration_ms": 1554,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 16,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2700,
+      "duration_ms": 2494,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1720,
+      "duration_ms": 898,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -191,6 +191,39 @@
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "8da8385950b87ce1461996cdce044e12d0276301",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果",
+          "url": "https://x.com/op7418/status/2108971987750298094",
+          "published_at": "2026-10-10T17:24:39Z",
+          "summary": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果💬1🔄0❤️1👀669📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "46f372aa322bddba64309a9a0d3b0ac3e84a1da9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "超有用的 GrokBot 用法：\n\n将复杂难阅读的推串内容变成长文档，在手机上阅读\n\n有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。\n\n我直接让 Gr...",
+          "url": "https://x.com/op7418/status/2108966708740505828",
+          "published_at": "2026-10-10T17:03:40Z",
+          "summary": "超有用的 GrokBot 用法： 将复杂难阅读的推串内容变成长文档，在手机上阅读 有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。 我直接让 Grok bot 帮我拉取了所有内容： 不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中文文章。 在这种场景下简直太好用了，我直接在手机上就能看、能消化这些信息Keenan Crane@keenanisaliveWith everyone busily using LLMs + Blender/Three.js to make…"
+        },
+        {
+          "id": "aaa58c972a516b6b1fbed3f5f70de354be15ab58",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "给我的 Grok Bot 换个新头像",
+          "url": "https://x.com/op7418/status/2108961526635983040",
+          "published_at": "2026-10-10T16:43:05Z",
+          "summary": "给我的 Grok Bot 换个新头像Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️8👀2805📊2⚡ Powered by xgo.ing"
+        },
         {
           "id": "bbd4ce12395303512d9dd9965fcfcdb70dfca9c1",
           "site_id": "featuredrss",
@@ -244,40 +277,7 @@
           "title": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱\n\n直接在评论区 @ 或者把这个推特发给他就行",
           "url": "https://x.com/op7418/status/2108649243301081319",
           "published_at": "2026-10-09T20:02:11Z",
-          "summary": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱 直接在评论区 @ 或者把这个推特发给他就行Grok Bot@botGrok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you, or schedule time with someone.🔗 View Quoted Tweet💬102🔄11❤️116👀54791📊94⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4f0801f8a692764e9bd6c32664d94a69b6a77fdc",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "已经站起来蹬了",
-          "url": "https://x.com/op7418/status/2108604561753874568",
-          "published_at": "2026-10-09T17:04:38Z",
-          "summary": "已经站起来蹬了💬1🔄0❤️2👀4317📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "18601074fb3bedb31533b913ee79927c1b1cccf6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "顺便再次感叹一下老马的豪横！\n\n我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。\n\n我这个是之前 99 美元买的 Grok 会员",
-          "url": "https://x.com/op7418/status/2108604299383337210",
-          "published_at": "2026-10-09T17:03:35Z",
-          "summary": "顺便再次感叹一下老马的豪横！ 我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。 我这个是之前 99 美元买的 Grok 会员歸藏(guizang.ai)@op7418我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬21🔄2❤️67👀29497📊24⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c9b9ef22467cd633e6f55e391173faf6a95e6c7a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频\n\n他给了我这个",
-          "url": "https://x.com/op7418/status/2108599286984561073",
-          "published_at": "2026-10-09T16:43:40Z",
-          "summary": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter💬25🔄4❤️55👀41697📊31⚡ Powered by xgo.ing"
+          "summary": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱 直接在评论区 @ 或者把这个推特发给他就行Grok Bot@botGrok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you, or schedule time with someone.🔗 View Quoted Tweet💬112🔄11❤️117👀56853📊101⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -294,6 +294,39 @@
     }
   },
   "items": [
+    {
+      "id": "8da8385950b87ce1461996cdce044e12d0276301",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果",
+      "url": "https://x.com/op7418/status/2108971987750298094",
+      "published_at": "2026-10-10T17:24:39Z",
+      "summary": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果💬1🔄0❤️1👀669📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "46f372aa322bddba64309a9a0d3b0ac3e84a1da9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "超有用的 GrokBot 用法：\n\n将复杂难阅读的推串内容变成长文档，在手机上阅读\n\n有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。\n\n我直接让 Gr...",
+      "url": "https://x.com/op7418/status/2108966708740505828",
+      "published_at": "2026-10-10T17:03:40Z",
+      "summary": "超有用的 GrokBot 用法： 将复杂难阅读的推串内容变成长文档，在手机上阅读 有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。 我直接让 Grok bot 帮我拉取了所有内容： 不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中文文章。 在这种场景下简直太好用了，我直接在手机上就能看、能消化这些信息Keenan Crane@keenanisaliveWith everyone busily using LLMs + Blender/Three.js to make…"
+    },
+    {
+      "id": "aaa58c972a516b6b1fbed3f5f70de354be15ab58",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "给我的 Grok Bot 换个新头像",
+      "url": "https://x.com/op7418/status/2108961526635983040",
+      "published_at": "2026-10-10T16:43:05Z",
+      "summary": "给我的 Grok Bot 换个新头像Your browser does not support the video tag.🔗 View on Twitter💬0🔄0❤️8👀2805📊2⚡ Powered by xgo.ing"
+    },
     {
       "id": "bbd4ce12395303512d9dd9965fcfcdb70dfca9c1",
       "site_id": "featuredrss",
@@ -347,40 +380,7 @@
       "title": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱\n\n直接在评论区 @ 或者把这个推特发给他就行",
       "url": "https://x.com/op7418/status/2108649243301081319",
       "published_at": "2026-10-09T20:02:11Z",
-      "summary": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱 直接在评论区 @ 或者把这个推特发给他就行Grok Bot@botGrok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you, or schedule time with someone.🔗 View Quoted Tweet💬102🔄11❤️116👀54791📊94⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4f0801f8a692764e9bd6c32664d94a69b6a77fdc",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "已经站起来蹬了",
-      "url": "https://x.com/op7418/status/2108604561753874568",
-      "published_at": "2026-10-09T17:04:38Z",
-      "summary": "已经站起来蹬了💬1🔄0❤️2👀4317📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "18601074fb3bedb31533b913ee79927c1b1cccf6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "顺便再次感叹一下老马的豪横！\n\n我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。\n\n我这个是之前 99 美元买的 Grok 会员",
-      "url": "https://x.com/op7418/status/2108604299383337210",
-      "published_at": "2026-10-09T17:03:35Z",
-      "summary": "顺便再次感叹一下老马的豪横！ 我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。 我这个是之前 99 美元买的 Grok 会员歸藏(guizang.ai)@op7418我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬21🔄2❤️67👀29497📊24⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c9b9ef22467cd633e6f55e391173faf6a95e6c7a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频\n\n他给了我这个",
-      "url": "https://x.com/op7418/status/2108599286984561073",
-      "published_at": "2026-10-09T16:43:40Z",
-      "summary": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频 他给了我这个Your browser does not support the video tag.🔗 View on Twitter💬25🔄4❤️55👀41697📊31⚡ Powered by xgo.ing"
+      "summary": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱 直接在评论区 @ 或者把这个推特发给他就行Grok Bot@botGrok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you, or schedule time with someone.🔗 View Quoted Tweet💬112🔄11❤️117👀56853📊101⚡ Powered by xgo.ing"
     }
   ]
 }
