@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:27:26.993032Z",
+  "generated_at": "2026-10-11T07:37:25.858725Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 6,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 497,
+      "duration_ms": 325,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 176,
-      "duration_ms": 95,
+      "duration_ms": 155,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1133,
+      "duration_ms": 911,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1188,
+      "duration_ms": 935,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1014,
+      "duration_ms": 828,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 553,
+      "duration_ms": 795,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 988,
+      "duration_ms": 796,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 50,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2549,
+      "duration_ms": 2448,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1529,
+      "duration_ms": 501,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -192,6 +192,28 @@
       ],
       "items": [
         {
+          "id": "4dd9d93bf54052e525f396fe022755ed3e27bfc4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Next Token 上周的观察，再次领先国内其他媒体\n\n关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。\n\n业内的人还是可以多看看我们聊的这些东西。...",
+          "url": "https://x.com/op7418/status/2109159416599883861",
+          "published_at": "2026-10-11T05:49:25Z",
+          "summary": "Next Token 上周的观察，再次领先国内其他媒体 关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。 业内的人还是可以多看看我们聊的这些东西。 总结一下我们在播客里面的观点。歸藏(guizang.ai)@op7418Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带…"
+        },
+        {
+          "id": "99f27a833b0fc47dc8e9694d0b48fcf0f50c1036",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "重置了",
+          "url": "https://x.com/op7418/status/2109102136890180034",
+          "published_at": "2026-10-11T02:01:49Z",
+          "summary": "重置了Tibo@thsottiauxDay 6/ Reset🔗 View Quoted Tweet💬30🔄0❤️9👀11458📊21⚡ Powered by xgo.ing"
+        },
+        {
           "id": "8da8385950b87ce1461996cdce044e12d0276301",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -200,7 +222,7 @@
           "title": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果",
           "url": "https://x.com/op7418/status/2108971987750298094",
           "published_at": "2026-10-10T17:24:39Z",
-          "summary": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果💬2🔄0❤️2👀1497📊2⚡ Powered by xgo.ing"
+          "summary": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果💬2🔄0❤️2👀2170📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "46f372aa322bddba64309a9a0d3b0ac3e84a1da9",
@@ -222,7 +244,7 @@
           "title": "给我的 Grok Bot 换个新头像",
           "url": "https://x.com/op7418/status/2108961526635983040",
           "published_at": "2026-10-10T16:43:05Z",
-          "summary": "给我的 Grok Bot 换个新头像Your browser does not support the video tag.🔗 View on Twitter💬7🔄0❤️10👀5262📊7⚡ Powered by xgo.ing"
+          "summary": "给我的 Grok Bot 换个新头像Your browser does not support the video tag.🔗 View on Twitter💬12🔄0❤️13👀8490📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "bbd4ce12395303512d9dd9965fcfcdb70dfca9c1",
@@ -234,28 +256,6 @@
           "url": "https://x.com/op7418/status/2108917380600791463",
           "published_at": "2026-10-10T13:47:39Z",
           "summary": "谁能想到只播了 5 期 订阅就超 7000 了歸藏(guizang.ai)@op7418Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。 第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！🔗 View Quoted Tweet💬…"
-        },
-        {
-          "id": "d2b5bff0c10ae9ebb1768ab6cfeac833137571a0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Midjourney 终于要有 MCP 了",
-          "url": "https://x.com/op7418/status/2108750890480078899",
-          "published_at": "2026-10-10T02:46:05Z",
-          "summary": "Midjourney 终于要有 MCP 了Midjourney@midjourneywe want to start testing a Midjourney MCP with a limited community. the intention is to find creative and technical people to push the boundaries of what our models can do. this is not for Midjourney in SaaS products, it's for purely arti…"
-        },
-        {
-          "id": "985ba0adec39530e6eb839ac8d5136590a5c0dae",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "八款AI语音输入法大横测！我找到了Vibe Coding的最佳搭配",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512286&idx=1&sn=781a271be869453cd487551dd028ed9f",
-          "published_at": "2026-10-10T01:45:00Z",
-          "summary": "多到我选择困难症犯了"
         }
       ]
     },
@@ -273,6 +273,28 @@
   },
   "items": [
     {
+      "id": "4dd9d93bf54052e525f396fe022755ed3e27bfc4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Next Token 上周的观察，再次领先国内其他媒体\n\n关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。\n\n业内的人还是可以多看看我们聊的这些东西。...",
+      "url": "https://x.com/op7418/status/2109159416599883861",
+      "published_at": "2026-10-11T05:49:25Z",
+      "summary": "Next Token 上周的观察，再次领先国内其他媒体 关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。 业内的人还是可以多看看我们聊的这些东西。 总结一下我们在播客里面的观点。歸藏(guizang.ai)@op7418Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带…"
+    },
+    {
+      "id": "99f27a833b0fc47dc8e9694d0b48fcf0f50c1036",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "重置了",
+      "url": "https://x.com/op7418/status/2109102136890180034",
+      "published_at": "2026-10-11T02:01:49Z",
+      "summary": "重置了Tibo@thsottiauxDay 6/ Reset🔗 View Quoted Tweet💬30🔄0❤️9👀11458📊21⚡ Powered by xgo.ing"
+    },
+    {
       "id": "8da8385950b87ce1461996cdce044e12d0276301",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -281,7 +303,7 @@
       "title": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果",
       "url": "https://x.com/op7418/status/2108971987750298094",
       "published_at": "2026-10-10T17:24:39Z",
-      "summary": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果💬2🔄0❤️2👀1497📊2⚡ Powered by xgo.ing"
+      "summary": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果💬2🔄0❤️2👀2170📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "46f372aa322bddba64309a9a0d3b0ac3e84a1da9",
@@ -303,7 +325,7 @@
       "title": "给我的 Grok Bot 换个新头像",
       "url": "https://x.com/op7418/status/2108961526635983040",
       "published_at": "2026-10-10T16:43:05Z",
-      "summary": "给我的 Grok Bot 换个新头像Your browser does not support the video tag.🔗 View on Twitter💬7🔄0❤️10👀5262📊7⚡ Powered by xgo.ing"
+      "summary": "给我的 Grok Bot 换个新头像Your browser does not support the video tag.🔗 View on Twitter💬12🔄0❤️13👀8490📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "bbd4ce12395303512d9dd9965fcfcdb70dfca9c1",
@@ -315,28 +337,6 @@
       "url": "https://x.com/op7418/status/2108917380600791463",
       "published_at": "2026-10-10T13:47:39Z",
       "summary": "谁能想到只播了 5 期 订阅就超 7000 了歸藏(guizang.ai)@op7418Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。 第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！🔗 View Quoted Tweet💬…"
-    },
-    {
-      "id": "d2b5bff0c10ae9ebb1768ab6cfeac833137571a0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Midjourney 终于要有 MCP 了",
-      "url": "https://x.com/op7418/status/2108750890480078899",
-      "published_at": "2026-10-10T02:46:05Z",
-      "summary": "Midjourney 终于要有 MCP 了Midjourney@midjourneywe want to start testing a Midjourney MCP with a limited community. the intention is to find creative and technical people to push the boundaries of what our models can do. this is not for Midjourney in SaaS products, it's for purely arti…"
-    },
-    {
-      "id": "985ba0adec39530e6eb839ac8d5136590a5c0dae",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "八款AI语音输入法大横测！我找到了Vibe Coding的最佳搭配",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512286&idx=1&sn=781a271be869453cd487551dd028ed9f",
-      "published_at": "2026-10-10T01:45:00Z",
-      "summary": "多到我选择困难症犯了"
     }
   ]
 }
