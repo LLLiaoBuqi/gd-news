@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T14:32:30.336489Z",
+  "generated_at": "2026-10-11T19:17:14.764330Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 182,
+      "duration_ms": 296,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 176,
-      "duration_ms": 109,
+      "duration_ms": 83,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1406,
+      "duration_ms": 694,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1573,
+      "duration_ms": 904,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1565,
+      "duration_ms": 664,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1640,
+      "duration_ms": 570,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1111,
+      "duration_ms": 589,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 85,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2675,
+      "duration_ms": 2629,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1013,
+      "duration_ms": 858,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,40 +211,7 @@
           "title": "重置了",
           "url": "https://x.com/op7418/status/2109102136890180034",
           "published_at": "2026-10-11T02:01:49Z",
-          "summary": "重置了Tibo@thsottiauxDay 6/ Reset🔗 View Quoted Tweet💬30🔄0❤️12👀13415📊21⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8da8385950b87ce1461996cdce044e12d0276301",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果",
-          "url": "https://x.com/op7418/status/2108971987750298094",
-          "published_at": "2026-10-10T17:24:39Z",
-          "summary": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果💬2🔄0❤️2👀2487📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "46f372aa322bddba64309a9a0d3b0ac3e84a1da9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "超有用的 GrokBot 用法：\n\n将复杂难阅读的推串内容变成长文档，在手机上阅读\n\n有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。\n\n我直接让 Gr...",
-          "url": "https://x.com/op7418/status/2108966708740505828",
-          "published_at": "2026-10-10T17:03:40Z",
-          "summary": "超有用的 GrokBot 用法： 将复杂难阅读的推串内容变成长文档，在手机上阅读 有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。 我直接让 Grok bot 帮我拉取了所有内容： 不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中文文章。 在这种场景下简直太好用了，我直接在手机上就能看、能消化这些信息Keenan Crane@keenanisaliveWith everyone busily using LLMs + Blender/Three.js to make…"
-        },
-        {
-          "id": "aaa58c972a516b6b1fbed3f5f70de354be15ab58",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "给我的 Grok Bot 换个新头像",
-          "url": "https://x.com/op7418/status/2108961526635983040",
-          "published_at": "2026-10-10T16:43:05Z",
-          "summary": "给我的 Grok Bot 换个新头像Your browser does not support the video tag.🔗 View on Twitter💬14🔄0❤️15👀10080📊14⚡ Powered by xgo.ing"
+          "summary": "重置了Tibo@thsottiauxDay 6/ Reset🔗 View Quoted Tweet💬30🔄0❤️12👀14041📊21⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -281,40 +248,7 @@
       "title": "重置了",
       "url": "https://x.com/op7418/status/2109102136890180034",
       "published_at": "2026-10-11T02:01:49Z",
-      "summary": "重置了Tibo@thsottiauxDay 6/ Reset🔗 View Quoted Tweet💬30🔄0❤️12👀13415📊21⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8da8385950b87ce1461996cdce044e12d0276301",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果",
-      "url": "https://x.com/op7418/status/2108971987750298094",
-      "published_at": "2026-10-10T17:24:39Z",
-      "summary": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果💬2🔄0❤️2👀2487📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "46f372aa322bddba64309a9a0d3b0ac3e84a1da9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "超有用的 GrokBot 用法：\n\n将复杂难阅读的推串内容变成长文档，在手机上阅读\n\n有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。\n\n我直接让 Gr...",
-      "url": "https://x.com/op7418/status/2108966708740505828",
-      "published_at": "2026-10-10T17:03:40Z",
-      "summary": "超有用的 GrokBot 用法： 将复杂难阅读的推串内容变成长文档，在手机上阅读 有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。 我直接让 Grok bot 帮我拉取了所有内容： 不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中文文章。 在这种场景下简直太好用了，我直接在手机上就能看、能消化这些信息Keenan Crane@keenanisaliveWith everyone busily using LLMs + Blender/Three.js to make…"
-    },
-    {
-      "id": "aaa58c972a516b6b1fbed3f5f70de354be15ab58",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "给我的 Grok Bot 换个新头像",
-      "url": "https://x.com/op7418/status/2108961526635983040",
-      "published_at": "2026-10-10T16:43:05Z",
-      "summary": "给我的 Grok Bot 换个新头像Your browser does not support the video tag.🔗 View on Twitter💬14🔄0❤️15👀10080📊14⚡ Powered by xgo.ing"
+      "summary": "重置了Tibo@thsottiauxDay 6/ Reset🔗 View Quoted Tweet💬30🔄0❤️12👀14041📊21⚡ Powered by xgo.ing"
     }
   ]
 }
