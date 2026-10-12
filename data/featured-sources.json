@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T10:04:32.976641Z",
+  "generated_at": "2026-10-12T19:54:20.753624Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 822,
+      "duration_ms": 1400,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 176,
-      "duration_ms": 98,
+      "item_count": 177,
+      "duration_ms": 96,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1278,
+      "duration_ms": 1306,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1179,
+      "duration_ms": 1421,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1002,
+      "duration_ms": 1113,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1550,
+      "duration_ms": 924,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1239,
+      "duration_ms": 700,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2379,
+      "duration_ms": 2905,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 768,
+      "duration_ms": 1587,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "1ced495ba3e710ca20e72deb64b3fb71d9ce5753",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "无人深空居然上线 iOS 端了",
+          "url": "https://x.com/op7418/status/2109693353633927310",
+          "published_at": "2026-10-12T17:11:06Z",
+          "summary": "无人深空居然上线 iOS 端了Sean Murray@NoMansSkyiOS Deep Dive 🪐NMS on iPhone + iPad! 👉Rebuilt for Touch 🎮Controller Support 🖱️Mouse + Keys Support 😮iPhone 11 and up 💰10 Years of Updates 🕵️‍♀️4GB Download 🚽Play Anywhere 🌍The Whole Game 🪄Metal FX 🖥️M class support 😍Console Graphics 🦸apps.apple…"
+        },
+        {
+          "id": "a06e5e89fb5d67332a08414cbe8781b6a97f4fc8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Anatomy 应该是这周最火的 Skill\n\n能将复杂的机械结构变成一个风格非常独特的等轴立体动画。\n\n然后我在想，用这个风格做那种科普视频是不是很爽？\n\n于是结合了 Grok bot，还用即梦生成...",
+          "url": "https://x.com/op7418/status/2109679880438989160",
+          "published_at": "2026-10-12T16:17:34Z",
+          "summary": "Anatomy 应该是这周最火的 Skill 能将复杂的机械结构变成一个风格非常独特的等轴立体动画。 然后我在想，用这个风格做那种科普视频是不是很爽？ 于是结合了 Grok bot，还用即梦生成了一些图片和视频， 最后用这个 skill 做了个“芯片是如何制造的”科普视频，讲解得挺清楚的Your browser does not support the video tag.🔗 View on TwitterR@wheresryan22Introducing Anatomy Describe a machine in one line. Claude br…"
+        },
+        {
+          "id": "7fab37cde9d3637451e1a0b88017f8b50f3e5851",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。\n\n顺便没想到库克也来了，感谢苹果邀请。\n\n就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。",
+          "url": "https://x.com/op7418/status/2109675087729492472",
+          "published_at": "2026-10-12T15:58:31Z",
+          "summary": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。 顺便没想到库克也来了，感谢苹果邀请。 就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。💬10🔄2❤️27👀6430📊12⚡ Powered by xgo.ing"
+        },
         {
           "id": "2797a8a963922d668706a69d7693d66474243ed3",
           "site_id": "featuredrss",
@@ -200,7 +233,18 @@
           "title": "Opus 5.5 + 即梦 CLI\n\n试了一下，让 Opus 5.5 结合视频模型做故事片表达\n\n没想到效果还不错，所有的编排、视频特效、提示词、视频剪辑都是 Opus 5.5 决定\n\n即梦 CLI ...",
           "url": "https://x.com/op7418/status/2109515395749310821",
           "published_at": "2026-10-12T05:23:57Z",
-          "summary": "Opus 5.5 + 即梦 CLI 试了一下，让 Opus 5.5 结合视频模型做故事片表达 没想到效果还不错，所有的编排、视频特效、提示词、视频剪辑都是 Opus 5.5 决定 即梦 CLI 负责对应分镜的图片和视频生成。 在视频上叠加了非常多的代码做的动画效果，看起来质感好了不少Your browser does not support the video tag.🔗 View on Twitter💬38🔄14❤️122👀12782📊63⚡ Powered by xgo.ing"
+          "summary": "Opus 5.5 + 即梦 CLI 试了一下，让 Opus 5.5 结合视频模型做故事片表达 没想到效果还不错，所有的编排、视频特效、提示词、视频剪辑都是 Opus 5.5 决定 即梦 CLI 负责对应分镜的图片和视频生成。 在视频上叠加了非常多的代码做的动画效果，看起来质感好了不少Your browser does not support the video tag.🔗 View on Twitter💬65🔄34❤️275👀26355📊126⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "73f5db8b0e6bb83fb9a7c3db1149061bdf95eee1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "在大水和薄肌理论高压下我决定提出大AI理论",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512289&idx=1&sn=0c7b6141051a21dd2c1eabe374fd0686",
+          "published_at": "2026-10-12T03:46:00Z",
+          "summary": "卡尔的AI沃茨 2026-10-12 11:46 浙江 真的没空跟你们这些大水、大睡、大菜、薄肌理论闹了，现在我提出大AI理论！ 大水理论为什么比薄肌理论火？薄肌还需要练，大水理论直接来瓶水就可以了。 大AI理论也吸收了这优点，不挑订阅，不挑模型，不挑Agent框架，不需要记提示语，主打一个分三阶段给AI对话就把模型能力拉到极致。 1️⃣ 第一步，把现在用的模型推理程度拉到最高，选择计划模式，然后把键盘丢掉，用语音，图片和视频发信息！ 就把AI当成平时跟朋友聊天那样，我跟朋友解释一个梗的时候也不会一个个图一句句话说，都是直接一个视频丢过去让TA看来龙去脉…"
         },
         {
           "id": "c078aac5157e3fc1f7a8dc87dacd69ce0f72d6c1",
@@ -211,7 +255,7 @@
           "title": "我的 Grok Bot 工作室配置",
           "url": "https://x.com/op7418/status/2109471885960647082",
           "published_at": "2026-10-12T02:31:04Z",
-          "summary": "我的 Grok Bot 工作室配置歸藏(guizang.ai)@op7418介绍一下新的 GrokBot 玩法： 让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。 注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。 而且做完这一堆以后，我的额度消耗还不到 4% 他帮我做的原始视频，放下面了。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬16🔄4❤️60👀10059📊22⚡ Powered by xgo.i…"
+          "summary": "我的 Grok Bot 工作室配置歸藏(guizang.ai)@op7418介绍一下新的 GrokBot 玩法： 让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。 注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。 而且做完这一堆以后，我的额度消耗还不到 4% 他帮我做的原始视频，放下面了。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬18🔄8❤️97👀14795📊30⚡ Powered by xgo.i…"
         },
         {
           "id": "e866020ad396b9d605359b12c2418dc5d86c4680",
@@ -222,7 +266,7 @@
           "title": "可以把这段话发给你的 GrokBot：https://t.co/xOsbVBwpAz",
           "url": "https://x.com/op7418/status/2109470015091261561",
           "published_at": "2026-10-12T02:23:38Z",
-          "summary": "可以把这段话发给你的 GrokBot：x.com/op7418/status/…歸藏(guizang.ai)@op7418教一下怎么让 Grok Bot 食用 公众号文章在这里：mp.weixin.qq.com/s/1afnn-WeU4Kv…🔗 View Quoted Tweet💬0🔄0❤️2👀2809📊1⚡ Powered by xgo.ing"
+          "summary": "可以把这段话发给你的 GrokBot：x.com/op7418/status/…歸藏(guizang.ai)@op7418教一下怎么让 Grok Bot 食用 公众号文章在这里：mp.weixin.qq.com/s/1afnn-WeU4Kv…🔗 View Quoted Tweet💬0🔄0❤️5👀3476📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "8d66b6f29cf652e206b35e626f07bb8c0437cbbf",
@@ -244,7 +288,7 @@
           "title": "他帮我做的那个教程视频",
           "url": "https://x.com/op7418/status/2109467948582891554",
           "published_at": "2026-10-12T02:15:25Z",
-          "summary": "他帮我做的那个教程视频Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️3👀3331📊2⚡ Powered by xgo.ing"
+          "summary": "他帮我做的那个教程视频Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️4👀4069📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "e966b4e2e323b0b37408594773e9626cee8297bf",
@@ -255,23 +299,68 @@
           "title": "介绍一下新的 GrokBot 玩法：\n\n让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。\n\n注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。\n\n而且做完这一堆以后...",
           "url": "https://x.com/op7418/status/2109467496298516760",
           "published_at": "2026-10-12T02:13:37Z",
-          "summary": "介绍一下新的 GrokBot 玩法： 让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。 注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。 而且做完这一堆以后，我的额度消耗还不到 4% 他帮我做的原始视频，放下面了。Your browser does not support the video tag.🔗 View on Twitter💬44🔄17❤️123👀29360📊73⚡ Powered by xgo.ing"
+          "summary": "介绍一下新的 GrokBot 玩法： 让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。 注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。 而且做完这一堆以后，我的额度消耗还不到 4% 他帮我做的原始视频，放下面了。Your browser does not support the video tag.🔗 View on Twitter💬54🔄25❤️187👀43815📊99⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "55b2fb89c2350fcd15ddf36c455d4f8ffc2faae2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "AI models may be capable of self-replicating without access to a datacenter",
+          "url": "https://www.anthropic.com/research/self-replicating-ai",
+          "published_at": "2026-10-12T00:00:00Z",
+          "summary": "AI models may be capable of self-replicating without access to a datacenter"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "1ced495ba3e710ca20e72deb64b3fb71d9ce5753",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "无人深空居然上线 iOS 端了",
+      "url": "https://x.com/op7418/status/2109693353633927310",
+      "published_at": "2026-10-12T17:11:06Z",
+      "summary": "无人深空居然上线 iOS 端了Sean Murray@NoMansSkyiOS Deep Dive 🪐NMS on iPhone + iPad! 👉Rebuilt for Touch 🎮Controller Support 🖱️Mouse + Keys Support 😮iPhone 11 and up 💰10 Years of Updates 🕵️‍♀️4GB Download 🚽Play Anywhere 🌍The Whole Game 🪄Metal FX 🖥️M class support 😍Console Graphics 🦸apps.apple…"
+    },
+    {
+      "id": "a06e5e89fb5d67332a08414cbe8781b6a97f4fc8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anatomy 应该是这周最火的 Skill\n\n能将复杂的机械结构变成一个风格非常独特的等轴立体动画。\n\n然后我在想，用这个风格做那种科普视频是不是很爽？\n\n于是结合了 Grok bot，还用即梦生成...",
+      "url": "https://x.com/op7418/status/2109679880438989160",
+      "published_at": "2026-10-12T16:17:34Z",
+      "summary": "Anatomy 应该是这周最火的 Skill 能将复杂的机械结构变成一个风格非常独特的等轴立体动画。 然后我在想，用这个风格做那种科普视频是不是很爽？ 于是结合了 Grok bot，还用即梦生成了一些图片和视频， 最后用这个 skill 做了个“芯片是如何制造的”科普视频，讲解得挺清楚的Your browser does not support the video tag.🔗 View on TwitterR@wheresryan22Introducing Anatomy Describe a machine in one line. Claude br…"
+    },
+    {
+      "id": "7fab37cde9d3637451e1a0b88017f8b50f3e5851",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。\n\n顺便没想到库克也来了，感谢苹果邀请。\n\n就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。",
+      "url": "https://x.com/op7418/status/2109675087729492472",
+      "published_at": "2026-10-12T15:58:31Z",
+      "summary": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。 顺便没想到库克也来了，感谢苹果邀请。 就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。💬10🔄2❤️27👀6430📊12⚡ Powered by xgo.ing"
+    },
     {
       "id": "2797a8a963922d668706a69d7693d66474243ed3",
       "site_id": "featuredrss",
@@ -281,7 +370,18 @@
       "title": "Opus 5.5 + 即梦 CLI\n\n试了一下，让 Opus 5.5 结合视频模型做故事片表达\n\n没想到效果还不错，所有的编排、视频特效、提示词、视频剪辑都是 Opus 5.5 决定\n\n即梦 CLI ...",
       "url": "https://x.com/op7418/status/2109515395749310821",
       "published_at": "2026-10-12T05:23:57Z",
-      "summary": "Opus 5.5 + 即梦 CLI 试了一下，让 Opus 5.5 结合视频模型做故事片表达 没想到效果还不错，所有的编排、视频特效、提示词、视频剪辑都是 Opus 5.5 决定 即梦 CLI 负责对应分镜的图片和视频生成。 在视频上叠加了非常多的代码做的动画效果，看起来质感好了不少Your browser does not support the video tag.🔗 View on Twitter💬38🔄14❤️122👀12782📊63⚡ Powered by xgo.ing"
+      "summary": "Opus 5.5 + 即梦 CLI 试了一下，让 Opus 5.5 结合视频模型做故事片表达 没想到效果还不错，所有的编排、视频特效、提示词、视频剪辑都是 Opus 5.5 决定 即梦 CLI 负责对应分镜的图片和视频生成。 在视频上叠加了非常多的代码做的动画效果，看起来质感好了不少Your browser does not support the video tag.🔗 View on Twitter💬65🔄34❤️275👀26355📊126⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "73f5db8b0e6bb83fb9a7c3db1149061bdf95eee1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "在大水和薄肌理论高压下我决定提出大AI理论",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512289&idx=1&sn=0c7b6141051a21dd2c1eabe374fd0686",
+      "published_at": "2026-10-12T03:46:00Z",
+      "summary": "卡尔的AI沃茨 2026-10-12 11:46 浙江 真的没空跟你们这些大水、大睡、大菜、薄肌理论闹了，现在我提出大AI理论！ 大水理论为什么比薄肌理论火？薄肌还需要练，大水理论直接来瓶水就可以了。 大AI理论也吸收了这优点，不挑订阅，不挑模型，不挑Agent框架，不需要记提示语，主打一个分三阶段给AI对话就把模型能力拉到极致。 1️⃣ 第一步，把现在用的模型推理程度拉到最高，选择计划模式，然后把键盘丢掉，用语音，图片和视频发信息！ 就把AI当成平时跟朋友聊天那样，我跟朋友解释一个梗的时候也不会一个个图一句句话说，都是直接一个视频丢过去让TA看来龙去脉…"
     },
     {
       "id": "c078aac5157e3fc1f7a8dc87dacd69ce0f72d6c1",
@@ -292,7 +392,7 @@
       "title": "我的 Grok Bot 工作室配置",
       "url": "https://x.com/op7418/status/2109471885960647082",
       "published_at": "2026-10-12T02:31:04Z",
-      "summary": "我的 Grok Bot 工作室配置歸藏(guizang.ai)@op7418介绍一下新的 GrokBot 玩法： 让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。 注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。 而且做完这一堆以后，我的额度消耗还不到 4% 他帮我做的原始视频，放下面了。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬16🔄4❤️60👀10059📊22⚡ Powered by xgo.i…"
+      "summary": "我的 Grok Bot 工作室配置歸藏(guizang.ai)@op7418介绍一下新的 GrokBot 玩法： 让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。 注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。 而且做完这一堆以后，我的额度消耗还不到 4% 他帮我做的原始视频，放下面了。Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬18🔄8❤️97👀14795📊30⚡ Powered by xgo.i…"
     },
     {
       "id": "e866020ad396b9d605359b12c2418dc5d86c4680",
@@ -303,7 +403,7 @@
       "title": "可以把这段话发给你的 GrokBot：https://t.co/xOsbVBwpAz",
       "url": "https://x.com/op7418/status/2109470015091261561",
       "published_at": "2026-10-12T02:23:38Z",
-      "summary": "可以把这段话发给你的 GrokBot：x.com/op7418/status/…歸藏(guizang.ai)@op7418教一下怎么让 Grok Bot 食用 公众号文章在这里：mp.weixin.qq.com/s/1afnn-WeU4Kv…🔗 View Quoted Tweet💬0🔄0❤️2👀2809📊1⚡ Powered by xgo.ing"
+      "summary": "可以把这段话发给你的 GrokBot：x.com/op7418/status/…歸藏(guizang.ai)@op7418教一下怎么让 Grok Bot 食用 公众号文章在这里：mp.weixin.qq.com/s/1afnn-WeU4Kv…🔗 View Quoted Tweet💬0🔄0❤️5👀3476📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "8d66b6f29cf652e206b35e626f07bb8c0437cbbf",
@@ -325,7 +425,7 @@
       "title": "他帮我做的那个教程视频",
       "url": "https://x.com/op7418/status/2109467948582891554",
       "published_at": "2026-10-12T02:15:25Z",
-      "summary": "他帮我做的那个教程视频Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️3👀3331📊2⚡ Powered by xgo.ing"
+      "summary": "他帮我做的那个教程视频Your browser does not support the video tag.🔗 View on Twitter💬1🔄0❤️4👀4069📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "e966b4e2e323b0b37408594773e9626cee8297bf",
@@ -336,7 +436,18 @@
       "title": "介绍一下新的 GrokBot 玩法：\n\n让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。\n\n注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。\n\n而且做完这一堆以后...",
       "url": "https://x.com/op7418/status/2109467496298516760",
       "published_at": "2026-10-12T02:13:37Z",
-      "summary": "介绍一下新的 GrokBot 玩法： 让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。 注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。 而且做完这一堆以后，我的额度消耗还不到 4% 他帮我做的原始视频，放下面了。Your browser does not support the video tag.🔗 View on Twitter💬44🔄17❤️123👀29360📊73⚡ Powered by xgo.ing"
+      "summary": "介绍一下新的 GrokBot 玩法： 让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。 注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。 而且做完这一堆以后，我的额度消耗还不到 4% 他帮我做的原始视频，放下面了。Your browser does not support the video tag.🔗 View on Twitter💬54🔄25❤️187👀43815📊99⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "55b2fb89c2350fcd15ddf36c455d4f8ffc2faae2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "published_at": "2026-10-12T00:00:00Z",
+      "summary": "AI models may be capable of self-replicating without access to a datacenter"
     }
   ]
 }
