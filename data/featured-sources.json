@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T23:01:07.945674Z",
+  "generated_at": "2026-10-12T02:32:09.406877Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 469,
+      "duration_ms": 614,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 176,
-      "duration_ms": 55,
+      "duration_ms": 93,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 936,
+      "duration_ms": 1328,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1025,
+      "duration_ms": 1445,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 571,
+      "duration_ms": 1275,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 776,
+      "duration_ms": 466,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1086,
+      "duration_ms": 1542,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 67,
+      "duration_ms": 16,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2396,
+      "duration_ms": 2706,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 499,
+      "duration_ms": 1440,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,17 +201,6 @@
           "url": "https://x.com/op7418/status/2109159416599883861",
           "published_at": "2026-10-11T05:49:25Z",
           "summary": "Next Token 上周的观察，再次领先国内其他媒体 关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。 业内的人还是可以多看看我们聊的这些东西。 总结一下我们在播客里面的观点。歸藏(guizang.ai)@op7418Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带…"
-        },
-        {
-          "id": "99f27a833b0fc47dc8e9694d0b48fcf0f50c1036",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "重置了",
-          "url": "https://x.com/op7418/status/2109102136890180034",
-          "published_at": "2026-10-11T02:01:49Z",
-          "summary": "重置了Tibo@thsottiauxDay 6/ Reset🔗 View Quoted Tweet💬30🔄0❤️12👀14227📊21⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -238,17 +227,6 @@
       "url": "https://x.com/op7418/status/2109159416599883861",
       "published_at": "2026-10-11T05:49:25Z",
       "summary": "Next Token 上周的观察，再次领先国内其他媒体 关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。 业内的人还是可以多看看我们聊的这些东西。 总结一下我们在播客里面的观点。歸藏(guizang.ai)@op7418Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这么难用 • 为什么国内 personal agent 可能不成立 也详细聊了聊关于 AI 复刻任何软件可能会带…"
-    },
-    {
-      "id": "99f27a833b0fc47dc8e9694d0b48fcf0f50c1036",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "重置了",
-      "url": "https://x.com/op7418/status/2109102136890180034",
-      "published_at": "2026-10-11T02:01:49Z",
-      "summary": "重置了Tibo@thsottiauxDay 6/ Reset🔗 View Quoted Tweet💬30🔄0❤️12👀14227📊21⚡ Powered by xgo.ing"
     }
   ]
 }
