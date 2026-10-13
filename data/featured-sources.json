@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T08:48:53.249382Z",
+  "generated_at": "2026-10-13T16:39:16.494699Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 22,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 197,
+      "duration_ms": 955,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 178,
-      "duration_ms": 86,
+      "duration_ms": 87,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 891,
+      "duration_ms": 585,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1000,
+      "duration_ms": 918,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 832,
+      "duration_ms": 529,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 660,
+      "duration_ms": 1227,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 780,
+      "duration_ms": 1484,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 42,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2725,
+      "duration_ms": 2379,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 530,
+      "duration_ms": 1345,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,123 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 17,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "e4471b508f3969bc72f1076e6df27c41ff5985df",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这玩意儿搭配“即览”，用起来实在是太舒服了\n\n刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的",
+          "url": "https://x.com/op7418/status/2110034493419725049",
+          "published_at": "2026-10-13T15:46:40Z",
+          "summary": "这玩意儿搭配“即览”，用起来实在是太舒服了 刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的💬0🔄0❤️0👀24⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b06272153d0737c94effdc7b96701b0f89e92104",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "太狠了，京东自己当黄牛了。\n\n这 7999 只是你有购买的资格，你手机的钱还是得另付",
+          "url": "https://x.com/op7418/status/2110032798656676194",
+          "published_at": "2026-10-13T15:39:56Z",
+          "summary": "太狠了，京东自己当黄牛了。 这 7999 只是你有购买的资格，你手机的钱还是得另付💬2🔄0❤️2👀636📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "eb1c25dca7546bc61d30e25aa275c557f509fc5a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哎呀，突然想到自己还有很多 skill 没发\n\n看大家想要哪个：\n\n1. 口播视频字幕生成和剪辑 skill\n2. 视频包装 skill\n3. 微信公众号排版 skill\n4. HTML 文档排版 s...",
+          "url": "https://x.com/op7418/status/2110031290020110454",
+          "published_at": "2026-10-13T15:33:56Z",
+          "summary": "哎呀，突然想到自己还有很多 skill 没发 看大家想要哪个： 1. 口播视频字幕生成和剪辑 skill 2. 视频包装 skill 3. 微信公众号排版 skill 4. HTML 文档排版 skill 5. 半成品 Personal Agent 个人上下文挂载工具💬7🔄0❤️6👀938📊7⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3345e0b9a9cbccb68c70e5bb106d1b65d3e2e271",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "让我想起来还有个 skill 没发过，就是将复杂内容排版成非常优秀的 HTML 页面帮你阅读的 skill。\n\n刚好搭配 GrokBot，太爽了！\n\n不想看的长视频，直接让它转成排版非常优秀的长文去阅...",
+          "url": "https://x.com/op7418/status/2110029627263709637",
+          "published_at": "2026-10-13T15:27:20Z",
+          "summary": "让我想起来还有个 skill 没发过，就是将复杂内容排版成非常优秀的 HTML 页面帮你阅读的 skill。 刚好搭配 GrokBot，太爽了！ 不想看的长视频，直接让它转成排版非常优秀的长文去阅读歸藏(guizang.ai)@op7418超有用的 GrokBot 用法： 将复杂难阅读的推串内容变成长文档，在手机上阅读 有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。 我直接让 Grok bot 帮我拉取了所有内容： 不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中…"
+        },
+        {
+          "id": "c2fae3be817196ca30ff7b515faae1769ac56626",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "跑了一下风暴怕死队：https://t.co/3h1xAhwkzv",
+          "url": "https://x.com/op7418/status/2109984387274309766",
+          "published_at": "2026-10-13T12:27:34Z",
+          "summary": "跑了一下风暴怕死队：x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下《风暴怕死队》，还行，而且我在玩这个游戏的时候还开着内录呢，也没怎么卡Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀2191📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "b34a60c18b7013c04f15f2cbe8a6b2282053c10b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "试了一下《风暴怕死队》，还行，而且我在玩这个游戏的时候还开着内录呢，也没怎么卡",
+          "url": "https://x.com/op7418/status/2109981486393016590",
+          "published_at": "2026-10-13T12:16:02Z",
+          "summary": "试了一下《风暴怕死队》，还行，而且我在玩这个游戏的时候还开着内录呢，也没怎么卡Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 AI 破解一切的风潮，感觉游戏行业是最惨的。 现在你都能在安卓手机上直接玩 Steam 游戏了！ 我自己试了一下，这个叫 DroidDeck 的项目，那些常玩的独立游戏（比如说《哈迪斯》之类的）都能跑，这下就爽了呀！ 出门直接带个简易的小游戏手柄，再带个支持 DP in 的 Pad，就能爽玩 Steam 游戏了…"
+        },
+        {
+          "id": "834c10bfcde7cd04284d476373df40f8448c9c11",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "具体项目在这里，你可以让你的 AI 帮你装：https://t.co/mC7X2i13QN",
+          "url": "https://x.com/op7418/status/2109942154957373508",
+          "published_at": "2026-10-13T09:39:45Z",
+          "summary": "具体项目在这里，你可以让你的 AI 帮你装：github.com/Droid-Deck/Dro…💬1🔄0❤️9👀4375📊6⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "ea598c7db6a04269310d0555d9e736d1a71c41dc",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "最近 AI 破解一切的风潮，感觉游戏行业是最惨的。\n\n现在你都能在安卓手机上直接玩 Steam 游戏了！\n\n我自己试了一下，这个叫 DroidDeck 的项目，那些常玩的独立游戏（比如说《哈迪斯》之类...",
+          "url": "https://x.com/op7418/status/2109941901868834836",
+          "published_at": "2026-10-13T09:38:44Z",
+          "summary": "最近 AI 破解一切的风潮，感觉游戏行业是最惨的。 现在你都能在安卓手机上直接玩 Steam 游戏了！ 我自己试了一下，这个叫 DroidDeck 的项目，那些常玩的独立游戏（比如说《哈迪斯》之类的）都能跑，这下就爽了呀！ 出门直接带个简易的小游戏手柄，再带个支持 DP in 的 Pad，就能爽玩 Steam 游戏了。Your browser does not support the video tag.🔗 View on Twitter💬46🔄6❤️109👀22160📊67⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "31316e38163bb4c3dc883b73ad39db0aeb20e43c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "十几天没有AI的生活我是怎么过的？哈哈哈回来干活啦。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498612&idx=1&sn=62e798116aadc7ddc98525a47706224f",
+          "published_at": "2026-10-13T04:25:00Z",
+          "summary": "一回来被薄肌理论大水理论砸晕了。"
+        },
+        {
+          "id": "3c1d478d098e9d91695345b0491bbd6b68120916",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "开源「红绿灯」提示语，解决Agent刹不住车浪费token额度的老毛病",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512301&idx=1&sn=40314d1a32248853cd0106205eb03857",
+          "published_at": "2026-10-13T04:24:00Z",
+          "summary": "治好了我的进度焦虑症"
+        },
         {
           "id": "418d84c7d8653fc2316aa8ccb61c7391392d641a",
           "site_id": "featuredrss",
@@ -211,7 +321,7 @@
           "title": "注意！最低 8 美元的订阅不包含 Grok Bot",
           "url": "https://x.com/op7418/status/2109848153650495617",
           "published_at": "2026-10-13T03:26:13Z",
-          "summary": "注意！最低 8 美元的订阅不包含 Grok Bot💬6🔄0❤️5👀3063📊5⚡ Powered by xgo.ing"
+          "summary": "注意！最低 8 美元的订阅不包含 Grok Bot💬6🔄0❤️6👀3947📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "b411934c7980b26ab5f4a62866fe802b2db15301",
@@ -222,7 +332,7 @@
           "title": "没活了又重置",
           "url": "https://x.com/op7418/status/2109846692443161040",
           "published_at": "2026-10-13T03:20:25Z",
-          "summary": "没活了又重置Tibo@thsottiauxDay 8/ Reset🔗 View Quoted Tweet💬12🔄0❤️10👀6667📊9⚡ Powered by xgo.ing"
+          "summary": "没活了又重置Tibo@thsottiauxDay 8/ Reset🔗 View Quoted Tweet💬15🔄0❤️13👀9087📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "94c7549d0cb9eb588fb2ed32a236f2e7146a7679",
@@ -233,7 +343,7 @@
           "title": "官方解释：https://t.co/EgNyIUhKnZ",
           "url": "https://x.com/op7418/status/2109839657739644966",
           "published_at": "2026-10-13T02:52:27Z",
-          "summary": "官方解释：x.com/SpaceXSI/statu…SpaceX Super Intelligence@SpaceXSIWe've unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄0❤️1👀4351📊2⚡ Powered by xgo.ing"
+          "summary": "官方解释：x.com/SpaceXSI/statu…SpaceX Super Intelligence@SpaceXSIWe've unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄0❤️2👀5487📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "5d90862d57f0b7188a7f96c3dc741a12f7855dcf",
@@ -255,7 +365,7 @@
           "title": "@bot 可以看到这条推特吗",
           "url": "https://x.com/op7418/status/2109835512068591616",
           "published_at": "2026-10-13T02:35:59Z",
-          "summary": "@bot 可以看到这条推特吗💬2🔄0❤️0👀1483📊2⚡ Powered by xgo.ing"
+          "summary": "@bot 可以看到这条推特吗💬2🔄0❤️0👀1764📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "1ced495ba3e710ca20e72deb64b3fb71d9ce5753",
@@ -267,44 +377,243 @@
           "url": "https://x.com/op7418/status/2109693353633927310",
           "published_at": "2026-10-12T17:11:06Z",
           "summary": "无人深空居然上线 iOS 端了Sean Murray@NoMansSkyiOS Deep Dive 🪐NMS on iPhone + iPad! 👉Rebuilt for Touch 🎮Controller Support 🖱️Mouse + Keys Support 😮iPhone 11 and up 💰10 Years of Updates 🕵️‍♀️4GB Download 🚽Play Anywhere 🌍The Whole Game 🪄Metal FX 🖥️M class support 😍Console Graphics 🦸apps.apple…"
-        },
-        {
-          "id": "a06e5e89fb5d67332a08414cbe8781b6a97f4fc8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Anatomy 应该是这周最火的 Skill\n\n能将复杂的机械结构变成一个风格非常独特的等轴立体动画。\n\n然后我在想，用这个风格做那种科普视频是不是很爽？\n\n于是结合了 Grok bot，还用即梦生成...",
-          "url": "https://x.com/op7418/status/2109679880438989160",
-          "published_at": "2026-10-12T16:17:34Z",
-          "summary": "Anatomy 应该是这周最火的 Skill 能将复杂的机械结构变成一个风格非常独特的等轴立体动画。 然后我在想，用这个风格做那种科普视频是不是很爽？ 于是结合了 Grok bot，还用即梦生成了一些图片和视频， 最后用这个 skill 做了个“芯片是如何制造的”科普视频，讲解得挺清楚的Your browser does not support the video tag.🔗 View on TwitterR@wheresryan22Introducing Anatomy Describe a machine in one line. Claude br…"
-        },
-        {
-          "id": "7fab37cde9d3637451e1a0b88017f8b50f3e5851",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。\n\n顺便没想到库克也来了，感谢苹果邀请。\n\n就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。",
-          "url": "https://x.com/op7418/status/2109675087729492472",
-          "published_at": "2026-10-12T15:58:31Z",
-          "summary": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。 顺便没想到库克也来了，感谢苹果邀请。 就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。💬22🔄2❤️64👀18900📊25⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 5,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "510ea704a888d733c9917fe8e9d9370c40f68fce",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "@Instacart @OpenTable @Adobe @Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subsc...",
+          "url": "https://x.com/GeminiApp/status/2110040189817237836",
+          "published_at": "2026-10-13T16:09:18Z",
+          "summary": "@Instacart@OpenTable@Adobe@Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subscribers globally starting today. Learn more about Gemini 4 Argon and additional updates coming to the Gemini app in our blog: goo.gle/4B9P74A💬3🔄3❤️24👀1041📊7⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "3569876adf21d8cc316e5b8f306938e4e0add7ae",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify ...",
+          "url": "https://x.com/GeminiApp/status/2110040019444654242",
+          "published_at": "2026-10-13T16:08:37Z",
+          "summary": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify to help you tackle tasks like ordering groceries and booking tables, to designing and building your business.Your browser does not support the video tag.🔗 View on Twitter💬2🔄1❤️15👀1…"
+        },
+        {
+          "id": "7b1efbc527af61e067860c27caa0dfced7170b76",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Gemini 4 Argon also brings major improvements in coding, so we’re making it easier to switch between...",
+          "url": "https://x.com/GeminiApp/status/2110039888901063072",
+          "published_at": "2026-10-13T16:08:06Z",
+          "summary": "Gemini 4 Argon also brings major improvements in coding, so we’re making it easier to switch between chatting and coding with Google Antigravity's agentic coding interface now available directly in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twi…"
+        },
+        {
+          "id": "3158b11f36ea47a55e001f3b63de9c0bdbd2b698",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "The moment you've been waiting 4…\n\nOur new frontier model, Gemini 4 Argon, is rolling out now in the...",
+          "url": "https://x.com/GeminiApp/status/2110039322229649783",
+          "published_at": "2026-10-13T16:05:51Z",
+          "summary": "The moment you've been waiting 4… Our new frontier model, Gemini 4 Argon, is rolling out now in the Gemini app to bring your most complex ideas into reality. See how Gemini 4 Argon and our latest updates across the Gemini app help you get the most out of every prompt. 🧵💬46🔄89❤️59…"
+        },
+        {
+          "id": "ac532eb201b0b21e8df1ba6466f26a6b790f9b77",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Tweet",
+          "url": "https://x.com/GeminiApp/status/2110034343892771186",
+          "published_at": "2026-10-13T15:46:04Z",
+          "summary": "Your browser does not support the video tag.🔗 View on Twitter💬117🔄171❤️1482👀37982📊306⚡ Powered by xgo.ing"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "510ea704a888d733c9917fe8e9d9370c40f68fce",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "@Instacart @OpenTable @Adobe @Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subsc...",
+      "url": "https://x.com/GeminiApp/status/2110040189817237836",
+      "published_at": "2026-10-13T16:09:18Z",
+      "summary": "@Instacart@OpenTable@Adobe@Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subscribers globally starting today. Learn more about Gemini 4 Argon and additional updates coming to the Gemini app in our blog: goo.gle/4B9P74A💬3🔄3❤️24👀1041📊7⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3569876adf21d8cc316e5b8f306938e4e0add7ae",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify ...",
+      "url": "https://x.com/GeminiApp/status/2110040019444654242",
+      "published_at": "2026-10-13T16:08:37Z",
+      "summary": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify to help you tackle tasks like ordering groceries and booking tables, to designing and building your business.Your browser does not support the video tag.🔗 View on Twitter💬2🔄1❤️15👀1…"
+    },
+    {
+      "id": "7b1efbc527af61e067860c27caa0dfced7170b76",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Gemini 4 Argon also brings major improvements in coding, so we’re making it easier to switch between...",
+      "url": "https://x.com/GeminiApp/status/2110039888901063072",
+      "published_at": "2026-10-13T16:08:06Z",
+      "summary": "Gemini 4 Argon also brings major improvements in coding, so we’re making it easier to switch between chatting and coding with Google Antigravity's agentic coding interface now available directly in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twi…"
+    },
+    {
+      "id": "3158b11f36ea47a55e001f3b63de9c0bdbd2b698",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "The moment you've been waiting 4…\n\nOur new frontier model, Gemini 4 Argon, is rolling out now in the...",
+      "url": "https://x.com/GeminiApp/status/2110039322229649783",
+      "published_at": "2026-10-13T16:05:51Z",
+      "summary": "The moment you've been waiting 4… Our new frontier model, Gemini 4 Argon, is rolling out now in the Gemini app to bring your most complex ideas into reality. See how Gemini 4 Argon and our latest updates across the Gemini app help you get the most out of every prompt. 🧵💬46🔄89❤️59…"
+    },
+    {
+      "id": "e4471b508f3969bc72f1076e6df27c41ff5985df",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这玩意儿搭配“即览”，用起来实在是太舒服了\n\n刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的",
+      "url": "https://x.com/op7418/status/2110034493419725049",
+      "published_at": "2026-10-13T15:46:40Z",
+      "summary": "这玩意儿搭配“即览”，用起来实在是太舒服了 刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的💬0🔄0❤️0👀24⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "ac532eb201b0b21e8df1ba6466f26a6b790f9b77",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Tweet",
+      "url": "https://x.com/GeminiApp/status/2110034343892771186",
+      "published_at": "2026-10-13T15:46:04Z",
+      "summary": "Your browser does not support the video tag.🔗 View on Twitter💬117🔄171❤️1482👀37982📊306⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b06272153d0737c94effdc7b96701b0f89e92104",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "太狠了，京东自己当黄牛了。\n\n这 7999 只是你有购买的资格，你手机的钱还是得另付",
+      "url": "https://x.com/op7418/status/2110032798656676194",
+      "published_at": "2026-10-13T15:39:56Z",
+      "summary": "太狠了，京东自己当黄牛了。 这 7999 只是你有购买的资格，你手机的钱还是得另付💬2🔄0❤️2👀636📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "eb1c25dca7546bc61d30e25aa275c557f509fc5a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哎呀，突然想到自己还有很多 skill 没发\n\n看大家想要哪个：\n\n1. 口播视频字幕生成和剪辑 skill\n2. 视频包装 skill\n3. 微信公众号排版 skill\n4. HTML 文档排版 s...",
+      "url": "https://x.com/op7418/status/2110031290020110454",
+      "published_at": "2026-10-13T15:33:56Z",
+      "summary": "哎呀，突然想到自己还有很多 skill 没发 看大家想要哪个： 1. 口播视频字幕生成和剪辑 skill 2. 视频包装 skill 3. 微信公众号排版 skill 4. HTML 文档排版 skill 5. 半成品 Personal Agent 个人上下文挂载工具💬7🔄0❤️6👀938📊7⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "3345e0b9a9cbccb68c70e5bb106d1b65d3e2e271",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "让我想起来还有个 skill 没发过，就是将复杂内容排版成非常优秀的 HTML 页面帮你阅读的 skill。\n\n刚好搭配 GrokBot，太爽了！\n\n不想看的长视频，直接让它转成排版非常优秀的长文去阅...",
+      "url": "https://x.com/op7418/status/2110029627263709637",
+      "published_at": "2026-10-13T15:27:20Z",
+      "summary": "让我想起来还有个 skill 没发过，就是将复杂内容排版成非常优秀的 HTML 页面帮你阅读的 skill。 刚好搭配 GrokBot，太爽了！ 不想看的长视频，直接让它转成排版非常优秀的长文去阅读歸藏(guizang.ai)@op7418超有用的 GrokBot 用法： 将复杂难阅读的推串内容变成长文档，在手机上阅读 有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。 我直接让 Grok bot 帮我拉取了所有内容： 不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中…"
+    },
+    {
+      "id": "c2fae3be817196ca30ff7b515faae1769ac56626",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "跑了一下风暴怕死队：https://t.co/3h1xAhwkzv",
+      "url": "https://x.com/op7418/status/2109984387274309766",
+      "published_at": "2026-10-13T12:27:34Z",
+      "summary": "跑了一下风暴怕死队：x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下《风暴怕死队》，还行，而且我在玩这个游戏的时候还开着内录呢，也没怎么卡Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️1👀2191📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "b34a60c18b7013c04f15f2cbe8a6b2282053c10b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "试了一下《风暴怕死队》，还行，而且我在玩这个游戏的时候还开着内录呢，也没怎么卡",
+      "url": "https://x.com/op7418/status/2109981486393016590",
+      "published_at": "2026-10-13T12:16:02Z",
+      "summary": "试了一下《风暴怕死队》，还行，而且我在玩这个游戏的时候还开着内录呢，也没怎么卡Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 AI 破解一切的风潮，感觉游戏行业是最惨的。 现在你都能在安卓手机上直接玩 Steam 游戏了！ 我自己试了一下，这个叫 DroidDeck 的项目，那些常玩的独立游戏（比如说《哈迪斯》之类的）都能跑，这下就爽了呀！ 出门直接带个简易的小游戏手柄，再带个支持 DP in 的 Pad，就能爽玩 Steam 游戏了…"
+    },
+    {
+      "id": "834c10bfcde7cd04284d476373df40f8448c9c11",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "具体项目在这里，你可以让你的 AI 帮你装：https://t.co/mC7X2i13QN",
+      "url": "https://x.com/op7418/status/2109942154957373508",
+      "published_at": "2026-10-13T09:39:45Z",
+      "summary": "具体项目在这里，你可以让你的 AI 帮你装：github.com/Droid-Deck/Dro…💬1🔄0❤️9👀4375📊6⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "ea598c7db6a04269310d0555d9e736d1a71c41dc",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "最近 AI 破解一切的风潮，感觉游戏行业是最惨的。\n\n现在你都能在安卓手机上直接玩 Steam 游戏了！\n\n我自己试了一下，这个叫 DroidDeck 的项目，那些常玩的独立游戏（比如说《哈迪斯》之类...",
+      "url": "https://x.com/op7418/status/2109941901868834836",
+      "published_at": "2026-10-13T09:38:44Z",
+      "summary": "最近 AI 破解一切的风潮，感觉游戏行业是最惨的。 现在你都能在安卓手机上直接玩 Steam 游戏了！ 我自己试了一下，这个叫 DroidDeck 的项目，那些常玩的独立游戏（比如说《哈迪斯》之类的）都能跑，这下就爽了呀！ 出门直接带个简易的小游戏手柄，再带个支持 DP in 的 Pad，就能爽玩 Steam 游戏了。Your browser does not support the video tag.🔗 View on Twitter💬46🔄6❤️109👀22160📊67⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "31316e38163bb4c3dc883b73ad39db0aeb20e43c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "十几天没有AI的生活我是怎么过的？哈哈哈回来干活啦。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498612&idx=1&sn=62e798116aadc7ddc98525a47706224f",
+      "published_at": "2026-10-13T04:25:00Z",
+      "summary": "一回来被薄肌理论大水理论砸晕了。"
+    },
+    {
+      "id": "3c1d478d098e9d91695345b0491bbd6b68120916",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "开源「红绿灯」提示语，解决Agent刹不住车浪费token额度的老毛病",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512301&idx=1&sn=40314d1a32248853cd0106205eb03857",
+      "published_at": "2026-10-13T04:24:00Z",
+      "summary": "治好了我的进度焦虑症"
+    },
     {
       "id": "418d84c7d8653fc2316aa8ccb61c7391392d641a",
       "site_id": "featuredrss",
@@ -325,7 +634,7 @@
       "title": "注意！最低 8 美元的订阅不包含 Grok Bot",
       "url": "https://x.com/op7418/status/2109848153650495617",
       "published_at": "2026-10-13T03:26:13Z",
-      "summary": "注意！最低 8 美元的订阅不包含 Grok Bot💬6🔄0❤️5👀3063📊5⚡ Powered by xgo.ing"
+      "summary": "注意！最低 8 美元的订阅不包含 Grok Bot💬6🔄0❤️6👀3947📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "b411934c7980b26ab5f4a62866fe802b2db15301",
@@ -336,7 +645,7 @@
       "title": "没活了又重置",
       "url": "https://x.com/op7418/status/2109846692443161040",
       "published_at": "2026-10-13T03:20:25Z",
-      "summary": "没活了又重置Tibo@thsottiauxDay 8/ Reset🔗 View Quoted Tweet💬12🔄0❤️10👀6667📊9⚡ Powered by xgo.ing"
+      "summary": "没活了又重置Tibo@thsottiauxDay 8/ Reset🔗 View Quoted Tweet💬15🔄0❤️13👀9087📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "94c7549d0cb9eb588fb2ed32a236f2e7146a7679",
@@ -347,7 +656,7 @@
       "title": "官方解释：https://t.co/EgNyIUhKnZ",
       "url": "https://x.com/op7418/status/2109839657739644966",
       "published_at": "2026-10-13T02:52:27Z",
-      "summary": "官方解释：x.com/SpaceXSI/statu…SpaceX Super Intelligence@SpaceXSIWe've unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄0❤️1👀4351📊2⚡ Powered by xgo.ing"
+      "summary": "官方解释：x.com/SpaceXSI/statu…SpaceX Super Intelligence@SpaceXSIWe've unified plans across Grok, Cursor, and X Premium. Introducing The X Subscription.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬2🔄0❤️2👀5487📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "5d90862d57f0b7188a7f96c3dc741a12f7855dcf",
@@ -369,7 +678,7 @@
       "title": "@bot 可以看到这条推特吗",
       "url": "https://x.com/op7418/status/2109835512068591616",
       "published_at": "2026-10-13T02:35:59Z",
-      "summary": "@bot 可以看到这条推特吗💬2🔄0❤️0👀1483📊2⚡ Powered by xgo.ing"
+      "summary": "@bot 可以看到这条推特吗💬2🔄0❤️0👀1764📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "1ced495ba3e710ca20e72deb64b3fb71d9ce5753",
@@ -381,28 +690,6 @@
       "url": "https://x.com/op7418/status/2109693353633927310",
       "published_at": "2026-10-12T17:11:06Z",
       "summary": "无人深空居然上线 iOS 端了Sean Murray@NoMansSkyiOS Deep Dive 🪐NMS on iPhone + iPad! 👉Rebuilt for Touch 🎮Controller Support 🖱️Mouse + Keys Support 😮iPhone 11 and up 💰10 Years of Updates 🕵️‍♀️4GB Download 🚽Play Anywhere 🌍The Whole Game 🪄Metal FX 🖥️M class support 😍Console Graphics 🦸apps.apple…"
-    },
-    {
-      "id": "a06e5e89fb5d67332a08414cbe8781b6a97f4fc8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Anatomy 应该是这周最火的 Skill\n\n能将复杂的机械结构变成一个风格非常独特的等轴立体动画。\n\n然后我在想，用这个风格做那种科普视频是不是很爽？\n\n于是结合了 Grok bot，还用即梦生成...",
-      "url": "https://x.com/op7418/status/2109679880438989160",
-      "published_at": "2026-10-12T16:17:34Z",
-      "summary": "Anatomy 应该是这周最火的 Skill 能将复杂的机械结构变成一个风格非常独特的等轴立体动画。 然后我在想，用这个风格做那种科普视频是不是很爽？ 于是结合了 Grok bot，还用即梦生成了一些图片和视频， 最后用这个 skill 做了个“芯片是如何制造的”科普视频，讲解得挺清楚的Your browser does not support the video tag.🔗 View on TwitterR@wheresryan22Introducing Anatomy Describe a machine in one line. Claude br…"
-    },
-    {
-      "id": "7fab37cde9d3637451e1a0b88017f8b50f3e5851",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。\n\n顺便没想到库克也来了，感谢苹果邀请。\n\n就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。",
-      "url": "https://x.com/op7418/status/2109675087729492472",
-      "published_at": "2026-10-12T15:58:31Z",
-      "summary": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。 顺便没想到库克也来了，感谢苹果邀请。 就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。💬22🔄2❤️64👀18900📊25⚡ Powered by xgo.ing"
     }
   ]
 }
