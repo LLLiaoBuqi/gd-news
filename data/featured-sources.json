@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T15:43:39.977361Z",
+  "generated_at": "2026-10-14T19:54:40.034504Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 29,
+  "total_items": 18,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 157,
+      "duration_ms": 129,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 178,
-      "duration_ms": 97,
+      "duration_ms": 200,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1147,
+      "duration_ms": 1192,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1320,
+      "duration_ms": 1247,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 748,
+      "duration_ms": 1200,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1411,
+      "duration_ms": 1396,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 645,
+      "duration_ms": 968,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 100,
+      "duration_ms": 115,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2314,
+      "duration_ms": 2138,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1362,
+      "duration_ms": 837,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 17,
+      "total_items": 14,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "7b13fcc1c8e3a6e4eaa7dd8cee938d17711e50ae",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "更新了，鼠标灯光设置",
+          "url": "https://x.com/op7418/status/2110393732738830671",
+          "published_at": "2026-10-14T15:34:09Z",
+          "summary": "更新了，鼠标灯光设置💬0🔄0❤️1👀1052⚡ Powered by xgo.ing"
+        },
         {
           "id": "bf270c5db399fcab61215418fbe3c6b9c15552c9",
           "site_id": "featuredrss",
@@ -200,7 +211,7 @@
           "title": "好像说 Muse 在大规模封号啊。\n\n不过毕竟免费，薅得太狠，小扎也顶不住",
           "url": "https://x.com/op7418/status/2110380300618637704",
           "published_at": "2026-10-14T14:40:47Z",
-          "summary": "好像说 Muse 在大规模封号啊。 不过毕竟免费，薅得太狠，小扎也顶不住💬4🔄0❤️7👀1786📊4⚡ Powered by xgo.ing"
+          "summary": "好像说 Muse 在大规模封号啊。 不过毕竟免费，薅得太狠，小扎也顶不住💬32🔄0❤️35👀20668📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "2a548946285db02e4717742afb2e6553d1ff2a0e",
@@ -211,7 +222,7 @@
           "title": "YOUWARE 的新产品，一套视频创作 Skill\n\n可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频",
           "url": "https://x.com/op7418/status/2110331992621605278",
           "published_at": "2026-10-14T11:28:49Z",
-          "summary": "YOUWARE 的新产品，一套视频创作 Skill 可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频Renoise@renoiseaiMade with Renoise MCP. Tell your agent: Install plugin from the repo github.com/ArcoCodes/reno… Then enjoy.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬11🔄1❤️17👀5751📊13⚡ Powe…"
+          "summary": "YOUWARE 的新产品，一套视频创作 Skill 可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频Renoise@renoiseaiMade with Renoise MCP. Tell your agent: Install plugin from the repo github.com/ArcoCodes/reno… Then enjoy.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬14🔄3❤️26👀8143📊17⚡ Powe…"
         },
         {
           "id": "a83bf442344d988896a4d3d4f57ca9a86fdeafe3",
@@ -244,7 +255,7 @@
           "title": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号",
           "url": "https://x.com/op7418/status/2110284372956037409",
           "published_at": "2026-10-14T08:19:36Z",
-          "summary": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号歸藏(guizang.ai)@op7418他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈🔗 View Quoted Tweet💬33🔄0❤️62👀13062📊26⚡ Powered by xgo.ing"
+          "summary": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号歸藏(guizang.ai)@op7418他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈🔗 View Quoted Tweet💬35🔄0❤️67👀15835📊27⚡ Powered by xgo.ing"
         },
         {
           "id": "0c4033c493dfb14a11cc39a77806c2e9644dc98f",
@@ -255,7 +266,7 @@
           "title": "蓝牙和 USB 直连已经支持",
           "url": "https://x.com/op7418/status/2110279876360155317",
           "published_at": "2026-10-14T08:01:44Z",
-          "summary": "蓝牙和 USB 直连已经支持💬0🔄0❤️1👀1668⚡ Powered by xgo.ing"
+          "summary": "蓝牙和 USB 直连已经支持💬1🔄0❤️1👀2487📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "2473f19bd4849987cf5ee057729ea69484ec3a65",
@@ -266,7 +277,7 @@
           "title": "开整",
           "url": "https://x.com/op7418/status/2110278509516181641",
           "published_at": "2026-10-14T07:56:18Z",
-          "summary": "开整💬1🔄0❤️3👀2826📊1⚡ Powered by xgo.ing"
+          "summary": "开整💬1🔄0❤️3👀3250📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "2f101db9d068c2d417109bfbeed20445d7d857c0",
@@ -299,7 +310,7 @@
           "title": "前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。\n\n但这个 macOS 的网页驱动实在是我不太会用，按键绑定也没有 macOS 办公用的那些设置。\n\n所以自己写了一个原生的怒喵鼠标 macOS 驱动软件...",
           "url": "https://x.com/op7418/status/2110235096716591145",
           "published_at": "2026-10-14T05:03:47Z",
-          "summary": "前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。 但这个 macOS 的网页驱动实在是我不太会用，按键绑定也没有 macOS 办公用的那些设置。 所以自己写了一个原生的怒喵鼠标 macOS 驱动软件，重新设计了整个 UI 交互和功能。 这个用的人确实不多，我就先没开源。如果大家确实有需求，我就开源一下💬22🔄0❤️26👀12416📊23⚡ Powered by xgo.ing"
+          "summary": "前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。 但这个 macOS 的网页驱动实在是我不太会用，按键绑定也没有 macOS 办公用的那些设置。 所以自己写了一个原生的怒喵鼠标 macOS 驱动软件，重新设计了整个 UI 交互和功能。 这个用的人确实不多，我就先没开源。如果大家确实有需求，我就开源一下💬24🔄0❤️36👀14396📊26⚡ Powered by xgo.ing"
         },
         {
           "id": "acbc5d42b9241ff9117fc64856aa92a75367fe45",
@@ -310,7 +321,7 @@
           "title": "他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈",
           "url": "https://x.com/op7418/status/2110223456830885975",
           "published_at": "2026-10-14T04:17:32Z",
-          "summary": "他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈💬157🔄1❤️176👀52149📊144⚡ Powered by xgo.ing"
+          "summary": "他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈💬164🔄1❤️189👀58232📊150⚡ Powered by xgo.ing"
         },
         {
           "id": "e4b00875d0341011529fa3a325215d687a361598",
@@ -333,56 +344,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
           "published_at": "2026-10-13T22:56:00Z",
           "summary": "有点沉默了"
-        },
-        {
-          "id": "7152fe0b826a1ee66ac59220043a3c3c41805c2d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Gemini APP 和 Antigravity 都已经有了",
-          "url": "https://x.com/op7418/status/2110040473524109782",
-          "published_at": "2026-10-13T16:10:26Z",
-          "summary": "Gemini APP 和 Antigravity 都已经有了💬1🔄0❤️1👀4389📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d0d4917dc1c218affe31615ef930e492cd5a5b7c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "来了，Gemini 4 Argon正式发布！\n\n在 Gemini API 下，Gemini APP 的 Pro 和 Ultra 用户。\n\n然后 Google AI Ultra 会员的 Antigrav...",
-          "url": "https://x.com/op7418/status/2110039924435288217",
-          "published_at": "2026-10-13T16:08:15Z",
-          "summary": "来了，Gemini 4 Argon正式发布！ 在 Gemini API 下，Gemini APP 的 Pro 和 Ultra 用户。 然后 Google AI Ultra 会员的 Antigravity 和 AI Studio 也可以用。Google DeepMind@GoogleDeepMindGemini 4 Argon is now globally available. Built to solve your hardest problems from start to finish, the model brings frontier capa…"
-        },
-        {
-          "id": "3a0f6562889f8f96678fd18755da69e1d7165738",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "以及还有哪些需求想要做成 Skill 或者软件的也可以聊聊",
-          "url": "https://x.com/op7418/status/2110038105151713368",
-          "published_at": "2026-10-13T16:01:01Z",
-          "summary": "以及还有哪些需求想要做成 Skill 或者软件的也可以聊聊💬3🔄0❤️3👀3014📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e4471b508f3969bc72f1076e6df27c41ff5985df",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这玩意儿搭配“即览”，用起来实在是太舒服了\n\n刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的",
-          "url": "https://x.com/op7418/status/2110034493419725049",
-          "published_at": "2026-10-13T15:46:40Z",
-          "summary": "这玩意儿搭配“即览”，用起来实在是太舒服了 刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的💬1🔄0❤️1👀3375📊2⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 12,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -390,6 +357,39 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "4432ec587973333e104667a635cbee4f8ee30c81",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among...",
+          "url": "https://x.com/OpenAI/status/2110442001749659890",
+          "published_at": "2026-10-14T18:45:57Z",
+          "summary": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region. Our latest Economic Research report explo…"
+        },
+        {
+          "id": "02f9468294a7910cbcdc1815e0c421a34c9cd7ca",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft.\n\nJust connect ...",
+          "url": "https://x.com/GeminiApp/status/2110425806833119609",
+          "published_at": "2026-10-14T17:41:36Z",
+          "summary": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft. Just connect your @GoogleWorkspace apps to turn scattered recipes, handwritten guest lists, and photos of seating charts into a polished proposal deck, email draft, and automated tracker.💬46🔄22❤…"
+        },
+        {
+          "id": "e89965cd09b021defff50f391e020d08ebd54825",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "Textbook biology, brought to life right in your browser 🌿\n\nThis interactive 5-stage visual atlas bu...",
+          "url": "https://x.com/GoogleAI/status/2110392574754107405",
+          "published_at": "2026-10-14T15:29:33Z",
+          "summary": "Textbook biology, brought to life right in your browser 🌿 This interactive 5-stage visual atlas built by Argon in @antigravity turns dense textbook biology into a hands-on experience. With fluid animations and scientific precision, you can scroll from a sunlit leaf all the way do…"
+        },
         {
           "id": "ccca00d22788d59837dfb8996fef8281d0f87020",
           "site_id": "featuredrss",
@@ -399,133 +399,56 @@
           "title": "Gemini 4 Argon lets you reimagine your video or webcam feed as a playable synthesizer.\n\nSpin up an i...",
           "url": "https://x.com/GeminiApp/status/2110105496145576406",
           "published_at": "2026-10-13T20:28:48Z",
-          "summary": "Gemini 4 Argon lets you reimagine your video or webcam feed as a playable synthesizer. Spin up an interactive audio app in Canvas, set the vibe, and play your camera like an instrument.💬62🔄104❤️1103👀90176📊214⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "dadeea2cd722fbb1079271eeae7ca3fa61a31140",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "We’ve been exploring the potential of using Gemini 4 Argon to accelerate research @Google. One of ou...",
-          "url": "https://x.com/GoogleAI/status/2110083927620591769",
-          "published_at": "2026-10-13T19:03:06Z",
-          "summary": "We’ve been exploring the potential of using Gemini 4 Argon to accelerate research @Google. One of our tests was using videos of humans performing fun tasks (game of bags, anyone?) to autonomously spin up training simulations, rather than relying entirely on manual programming. He…"
-        },
-        {
-          "id": "510ea704a888d733c9917fe8e9d9370c40f68fce",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "@Instacart @OpenTable @Adobe @Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subsc...",
-          "url": "https://x.com/GeminiApp/status/2110040189817237836",
-          "published_at": "2026-10-13T16:09:18Z",
-          "summary": "@Instacart@OpenTable@Adobe@Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subscribers globally starting today. Learn more about Gemini 4 Argon and additional updates coming to the Gemini app in our blog: goo.gle/4B9P74A💬42🔄45❤️449👀70971📊98⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3569876adf21d8cc316e5b8f306938e4e0add7ae",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify ...",
-          "url": "https://x.com/GeminiApp/status/2110040019444654242",
-          "published_at": "2026-10-13T16:08:37Z",
-          "summary": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify to help you tackle tasks like ordering groceries and booking tables, to designing and building your business.Your browser does not support the video tag.🔗 View on Twitter💬11🔄13❤️29…"
-        },
-        {
-          "id": "7b1efbc527af61e067860c27caa0dfced7170b76",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Gemini 4 Argon also brings major improvements in coding, so we’re making it easier to switch between...",
-          "url": "https://x.com/GeminiApp/status/2110039888901063072",
-          "published_at": "2026-10-13T16:08:06Z",
-          "summary": "Gemini 4 Argon also brings major improvements in coding, so we’re making it easier to switch between chatting and coding with Google Antigravity's agentic coding interface now available directly in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twi…"
-        },
-        {
-          "id": "1bd10b7c91a773d3d0a4a6409dbd90aa28780bd8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Gemini 4 Argon is available:\n\n— For developers: Build with the Gemini API paid tier and if you’re a ...",
-          "url": "https://x.com/GoogleAI/status/2110039868910735565",
-          "published_at": "2026-10-13T16:08:02Z",
-          "summary": "Gemini 4 Argon is available: — For developers: Build with the Gemini API paid tier and if you’re a Google AI Ultra subscriber, you can try it in @antigravity, @GoogleAIStudio, and @Android Studio. — For enterprises: Try it in Gemini for business, the API, and @antigravity. — For…"
-        },
-        {
-          "id": "bc67c2bd4d9e8a99551c84ca785d12a40127e925",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "See how Argon uses the Gemini API and Managed Agents to act as your personal game developer, turning...",
-          "url": "https://x.com/GoogleAI/status/2110039866788507709",
-          "published_at": "2026-10-13T16:08:01Z",
-          "summary": "See how Argon uses the Gemini API and Managed Agents to act as your personal game developer, turning your ideas into a playable pixel-art retro arcade game delivered right to your screen.Your browser does not support the video tag.🔗 View on Twitter💬13🔄7❤️101👀19711📊21⚡ Powered by…"
-        },
-        {
-          "id": "92cfeee6f8adc15c3fd60e2d2685ca468e5ecbec",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Gemini 4️⃣ Argon ✨ is now rolling out globally.\n\nOur frontier model is built for complex, real-world...",
-          "url": "https://x.com/GoogleAI/status/2110039860077527293",
-          "published_at": "2026-10-13T16:07:59Z",
-          "summary": "Gemini 4️⃣ Argon ✨ is now rolling out globally. Our frontier model is built for complex, real-world tasks across coding, finance, legal, cybersecurity, and science. Check out how you can use Argon in your favorite Google product 🧵Your browser does not support the video tag.🔗 View…"
-        },
-        {
-          "id": "3158b11f36ea47a55e001f3b63de9c0bdbd2b698",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "The moment you've been waiting 4…\n\nOur new frontier model, Gemini 4 Argon, is rolling out now in the...",
-          "url": "https://x.com/GeminiApp/status/2110039322229649783",
-          "published_at": "2026-10-13T16:05:51Z",
-          "summary": "The moment you've been waiting 4… Our new frontier model, Gemini 4 Argon, is rolling out now in the Gemini app to bring your most complex ideas into reality. See how Gemini 4 Argon and our latest updates across the Gemini app help you get the most out of every prompt. 🧵💬406🔄695❤️…"
-        },
-        {
-          "id": "9db9867177026f45b2fd3f6c93afa36e91dd8d99",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic News",
-          "region": "global",
-          "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-          "url": "https://www.anthropic.com/news/singapore-office-opening",
-          "published_at": "2026-10-13T16:00:00Z",
-          "summary": "Today, we are expanding our Asia-Pacific operations by opening a new office in Singapore—our fifth in the region—and signing a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information. Singapore is one of our most active markets anywher…"
-        },
-        {
-          "id": "b61e01e230baaa3d9cc3616c7eda2f9c4f3d9c2b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Tweet",
-          "url": "https://x.com/GoogleAI/status/2110034521080864997",
-          "published_at": "2026-10-13T15:46:47Z",
-          "summary": "Your browser does not support the video tag.🔗 View on Twitter💬46🔄84❤️1154👀56330📊146⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ac532eb201b0b21e8df1ba6466f26a6b790f9b77",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Tweet",
-          "url": "https://x.com/GeminiApp/status/2110034343892771186",
-          "published_at": "2026-10-13T15:46:04Z",
-          "summary": "Your browser does not support the video tag.🔗 View on Twitter💬292🔄499❤️6682👀313247📊1037⚡ Powered by xgo.ing"
+          "summary": "Gemini 4 Argon lets you reimagine your video or webcam feed as a playable synthesizer. Spin up an interactive audio app in Canvas, set the vibe, and play your camera like an instrument.💬70🔄113❤️1191👀98573📊235⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "4432ec587973333e104667a635cbee4f8ee30c81",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among...",
+      "url": "https://x.com/OpenAI/status/2110442001749659890",
+      "published_at": "2026-10-14T18:45:57Z",
+      "summary": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region. Our latest Economic Research report explo…"
+    },
+    {
+      "id": "02f9468294a7910cbcdc1815e0c421a34c9cd7ca",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft.\n\nJust connect ...",
+      "url": "https://x.com/GeminiApp/status/2110425806833119609",
+      "published_at": "2026-10-14T17:41:36Z",
+      "summary": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft. Just connect your @GoogleWorkspace apps to turn scattered recipes, handwritten guest lists, and photos of seating charts into a polished proposal deck, email draft, and automated tracker.💬46🔄22❤…"
+    },
+    {
+      "id": "7b13fcc1c8e3a6e4eaa7dd8cee938d17711e50ae",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "更新了，鼠标灯光设置",
+      "url": "https://x.com/op7418/status/2110393732738830671",
+      "published_at": "2026-10-14T15:34:09Z",
+      "summary": "更新了，鼠标灯光设置💬0🔄0❤️1👀1052⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e89965cd09b021defff50f391e020d08ebd54825",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "Textbook biology, brought to life right in your browser 🌿\n\nThis interactive 5-stage visual atlas bu...",
+      "url": "https://x.com/GoogleAI/status/2110392574754107405",
+      "published_at": "2026-10-14T15:29:33Z",
+      "summary": "Textbook biology, brought to life right in your browser 🌿 This interactive 5-stage visual atlas built by Argon in @antigravity turns dense textbook biology into a hands-on experience. With fluid animations and scientific precision, you can scroll from a sunlit leaf all the way do…"
+    },
     {
       "id": "bf270c5db399fcab61215418fbe3c6b9c15552c9",
       "site_id": "featuredrss",
@@ -535,7 +458,7 @@
       "title": "好像说 Muse 在大规模封号啊。\n\n不过毕竟免费，薅得太狠，小扎也顶不住",
       "url": "https://x.com/op7418/status/2110380300618637704",
       "published_at": "2026-10-14T14:40:47Z",
-      "summary": "好像说 Muse 在大规模封号啊。 不过毕竟免费，薅得太狠，小扎也顶不住💬4🔄0❤️7👀1786📊4⚡ Powered by xgo.ing"
+      "summary": "好像说 Muse 在大规模封号啊。 不过毕竟免费，薅得太狠，小扎也顶不住💬32🔄0❤️35👀20668📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "2a548946285db02e4717742afb2e6553d1ff2a0e",
@@ -546,7 +469,7 @@
       "title": "YOUWARE 的新产品，一套视频创作 Skill\n\n可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频",
       "url": "https://x.com/op7418/status/2110331992621605278",
       "published_at": "2026-10-14T11:28:49Z",
-      "summary": "YOUWARE 的新产品，一套视频创作 Skill 可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频Renoise@renoiseaiMade with Renoise MCP. Tell your agent: Install plugin from the repo github.com/ArcoCodes/reno… Then enjoy.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬11🔄1❤️17👀5751📊13⚡ Powe…"
+      "summary": "YOUWARE 的新产品，一套视频创作 Skill 可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频Renoise@renoiseaiMade with Renoise MCP. Tell your agent: Install plugin from the repo github.com/ArcoCodes/reno… Then enjoy.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬14🔄3❤️26👀8143📊17⚡ Powe…"
     },
     {
       "id": "a83bf442344d988896a4d3d4f57ca9a86fdeafe3",
@@ -579,7 +502,7 @@
       "title": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号",
       "url": "https://x.com/op7418/status/2110284372956037409",
       "published_at": "2026-10-14T08:19:36Z",
-      "summary": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号歸藏(guizang.ai)@op7418他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈🔗 View Quoted Tweet💬33🔄0❤️62👀13062📊26⚡ Powered by xgo.ing"
+      "summary": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号歸藏(guizang.ai)@op7418他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈🔗 View Quoted Tweet💬35🔄0❤️67👀15835📊27⚡ Powered by xgo.ing"
     },
     {
       "id": "0c4033c493dfb14a11cc39a77806c2e9644dc98f",
@@ -590,7 +513,7 @@
       "title": "蓝牙和 USB 直连已经支持",
       "url": "https://x.com/op7418/status/2110279876360155317",
       "published_at": "2026-10-14T08:01:44Z",
-      "summary": "蓝牙和 USB 直连已经支持💬0🔄0❤️1👀1668⚡ Powered by xgo.ing"
+      "summary": "蓝牙和 USB 直连已经支持💬1🔄0❤️1👀2487📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "2473f19bd4849987cf5ee057729ea69484ec3a65",
@@ -601,7 +524,7 @@
       "title": "开整",
       "url": "https://x.com/op7418/status/2110278509516181641",
       "published_at": "2026-10-14T07:56:18Z",
-      "summary": "开整💬1🔄0❤️3👀2826📊1⚡ Powered by xgo.ing"
+      "summary": "开整💬1🔄0❤️3👀3250📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "2f101db9d068c2d417109bfbeed20445d7d857c0",
@@ -634,7 +557,7 @@
       "title": "前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。\n\n但这个 macOS 的网页驱动实在是我不太会用，按键绑定也没有 macOS 办公用的那些设置。\n\n所以自己写了一个原生的怒喵鼠标 macOS 驱动软件...",
       "url": "https://x.com/op7418/status/2110235096716591145",
       "published_at": "2026-10-14T05:03:47Z",
-      "summary": "前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。 但这个 macOS 的网页驱动实在是我不太会用，按键绑定也没有 macOS 办公用的那些设置。 所以自己写了一个原生的怒喵鼠标 macOS 驱动软件，重新设计了整个 UI 交互和功能。 这个用的人确实不多，我就先没开源。如果大家确实有需求，我就开源一下💬22🔄0❤️26👀12416📊23⚡ Powered by xgo.ing"
+      "summary": "前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。 但这个 macOS 的网页驱动实在是我不太会用，按键绑定也没有 macOS 办公用的那些设置。 所以自己写了一个原生的怒喵鼠标 macOS 驱动软件，重新设计了整个 UI 交互和功能。 这个用的人确实不多，我就先没开源。如果大家确实有需求，我就开源一下💬24🔄0❤️36👀14396📊26⚡ Powered by xgo.ing"
     },
     {
       "id": "acbc5d42b9241ff9117fc64856aa92a75367fe45",
@@ -645,7 +568,7 @@
       "title": "他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈",
       "url": "https://x.com/op7418/status/2110223456830885975",
       "published_at": "2026-10-14T04:17:32Z",
-      "summary": "他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈💬157🔄1❤️176👀52149📊144⚡ Powered by xgo.ing"
+      "summary": "他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈💬164🔄1❤️189👀58232📊150⚡ Powered by xgo.ing"
     },
     {
       "id": "e4b00875d0341011529fa3a325215d687a361598",
@@ -678,172 +601,7 @@
       "title": "Gemini 4 Argon lets you reimagine your video or webcam feed as a playable synthesizer.\n\nSpin up an i...",
       "url": "https://x.com/GeminiApp/status/2110105496145576406",
       "published_at": "2026-10-13T20:28:48Z",
-      "summary": "Gemini 4 Argon lets you reimagine your video or webcam feed as a playable synthesizer. Spin up an interactive audio app in Canvas, set the vibe, and play your camera like an instrument.💬62🔄104❤️1103👀90176📊214⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "dadeea2cd722fbb1079271eeae7ca3fa61a31140",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "We’ve been exploring the potential of using Gemini 4 Argon to accelerate research @Google. One of ou...",
-      "url": "https://x.com/GoogleAI/status/2110083927620591769",
-      "published_at": "2026-10-13T19:03:06Z",
-      "summary": "We’ve been exploring the potential of using Gemini 4 Argon to accelerate research @Google. One of our tests was using videos of humans performing fun tasks (game of bags, anyone?) to autonomously spin up training simulations, rather than relying entirely on manual programming. He…"
-    },
-    {
-      "id": "7152fe0b826a1ee66ac59220043a3c3c41805c2d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Gemini APP 和 Antigravity 都已经有了",
-      "url": "https://x.com/op7418/status/2110040473524109782",
-      "published_at": "2026-10-13T16:10:26Z",
-      "summary": "Gemini APP 和 Antigravity 都已经有了💬1🔄0❤️1👀4389📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "510ea704a888d733c9917fe8e9d9370c40f68fce",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "@Instacart @OpenTable @Adobe @Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subsc...",
-      "url": "https://x.com/GeminiApp/status/2110040189817237836",
-      "published_at": "2026-10-13T16:09:18Z",
-      "summary": "@Instacart@OpenTable@Adobe@Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subscribers globally starting today. Learn more about Gemini 4 Argon and additional updates coming to the Gemini app in our blog: goo.gle/4B9P74A💬42🔄45❤️449👀70971📊98⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3569876adf21d8cc316e5b8f306938e4e0add7ae",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify ...",
-      "url": "https://x.com/GeminiApp/status/2110040019444654242",
-      "published_at": "2026-10-13T16:08:37Z",
-      "summary": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify to help you tackle tasks like ordering groceries and booking tables, to designing and building your business.Your browser does not support the video tag.🔗 View on Twitter💬11🔄13❤️29…"
-    },
-    {
-      "id": "d0d4917dc1c218affe31615ef930e492cd5a5b7c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "来了，Gemini 4 Argon正式发布！\n\n在 Gemini API 下，Gemini APP 的 Pro 和 Ultra 用户。\n\n然后 Google AI Ultra 会员的 Antigrav...",
-      "url": "https://x.com/op7418/status/2110039924435288217",
-      "published_at": "2026-10-13T16:08:15Z",
-      "summary": "来了，Gemini 4 Argon正式发布！ 在 Gemini API 下，Gemini APP 的 Pro 和 Ultra 用户。 然后 Google AI Ultra 会员的 Antigravity 和 AI Studio 也可以用。Google DeepMind@GoogleDeepMindGemini 4 Argon is now globally available. Built to solve your hardest problems from start to finish, the model brings frontier capa…"
-    },
-    {
-      "id": "7b1efbc527af61e067860c27caa0dfced7170b76",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gemini 4 Argon also brings major improvements in coding, so we’re making it easier to switch between...",
-      "url": "https://x.com/GeminiApp/status/2110039888901063072",
-      "published_at": "2026-10-13T16:08:06Z",
-      "summary": "Gemini 4 Argon also brings major improvements in coding, so we’re making it easier to switch between chatting and coding with Google Antigravity's agentic coding interface now available directly in the Gemini app for macOS.Your browser does not support the video tag.🔗 View on Twi…"
-    },
-    {
-      "id": "1bd10b7c91a773d3d0a4a6409dbd90aa28780bd8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Gemini 4 Argon is available:\n\n— For developers: Build with the Gemini API paid tier and if you’re a ...",
-      "url": "https://x.com/GoogleAI/status/2110039868910735565",
-      "published_at": "2026-10-13T16:08:02Z",
-      "summary": "Gemini 4 Argon is available: — For developers: Build with the Gemini API paid tier and if you’re a Google AI Ultra subscriber, you can try it in @antigravity, @GoogleAIStudio, and @Android Studio. — For enterprises: Try it in Gemini for business, the API, and @antigravity. — For…"
-    },
-    {
-      "id": "bc67c2bd4d9e8a99551c84ca785d12a40127e925",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "See how Argon uses the Gemini API and Managed Agents to act as your personal game developer, turning...",
-      "url": "https://x.com/GoogleAI/status/2110039866788507709",
-      "published_at": "2026-10-13T16:08:01Z",
-      "summary": "See how Argon uses the Gemini API and Managed Agents to act as your personal game developer, turning your ideas into a playable pixel-art retro arcade game delivered right to your screen.Your browser does not support the video tag.🔗 View on Twitter💬13🔄7❤️101👀19711📊21⚡ Powered by…"
-    },
-    {
-      "id": "92cfeee6f8adc15c3fd60e2d2685ca468e5ecbec",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Gemini 4️⃣ Argon ✨ is now rolling out globally.\n\nOur frontier model is built for complex, real-world...",
-      "url": "https://x.com/GoogleAI/status/2110039860077527293",
-      "published_at": "2026-10-13T16:07:59Z",
-      "summary": "Gemini 4️⃣ Argon ✨ is now rolling out globally. Our frontier model is built for complex, real-world tasks across coding, finance, legal, cybersecurity, and science. Check out how you can use Argon in your favorite Google product 🧵Your browser does not support the video tag.🔗 View…"
-    },
-    {
-      "id": "3158b11f36ea47a55e001f3b63de9c0bdbd2b698",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "The moment you've been waiting 4…\n\nOur new frontier model, Gemini 4 Argon, is rolling out now in the...",
-      "url": "https://x.com/GeminiApp/status/2110039322229649783",
-      "published_at": "2026-10-13T16:05:51Z",
-      "summary": "The moment you've been waiting 4… Our new frontier model, Gemini 4 Argon, is rolling out now in the Gemini app to bring your most complex ideas into reality. See how Gemini 4 Argon and our latest updates across the Gemini app help you get the most out of every prompt. 🧵💬406🔄695❤️…"
-    },
-    {
-      "id": "3a0f6562889f8f96678fd18755da69e1d7165738",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "以及还有哪些需求想要做成 Skill 或者软件的也可以聊聊",
-      "url": "https://x.com/op7418/status/2110038105151713368",
-      "published_at": "2026-10-13T16:01:01Z",
-      "summary": "以及还有哪些需求想要做成 Skill 或者软件的也可以聊聊💬3🔄0❤️3👀3014📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "9db9867177026f45b2fd3f6c93afa36e91dd8d99",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic News",
-      "region": "global",
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "published_at": "2026-10-13T16:00:00Z",
-      "summary": "Today, we are expanding our Asia-Pacific operations by opening a new office in Singapore—our fifth in the region—and signing a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information. Singapore is one of our most active markets anywher…"
-    },
-    {
-      "id": "b61e01e230baaa3d9cc3616c7eda2f9c4f3d9c2b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Tweet",
-      "url": "https://x.com/GoogleAI/status/2110034521080864997",
-      "published_at": "2026-10-13T15:46:47Z",
-      "summary": "Your browser does not support the video tag.🔗 View on Twitter💬46🔄84❤️1154👀56330📊146⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e4471b508f3969bc72f1076e6df27c41ff5985df",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这玩意儿搭配“即览”，用起来实在是太舒服了\n\n刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的",
-      "url": "https://x.com/op7418/status/2110034493419725049",
-      "published_at": "2026-10-13T15:46:40Z",
-      "summary": "这玩意儿搭配“即览”，用起来实在是太舒服了 刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的💬1🔄0❤️1👀3375📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ac532eb201b0b21e8df1ba6466f26a6b790f9b77",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Tweet",
-      "url": "https://x.com/GeminiApp/status/2110034343892771186",
-      "published_at": "2026-10-13T15:46:04Z",
-      "summary": "Your browser does not support the video tag.🔗 View on Twitter💬292🔄499❤️6682👀313247📊1037⚡ Powered by xgo.ing"
+      "summary": "Gemini 4 Argon lets you reimagine your video or webcam feed as a playable synthesizer. Spin up an interactive audio app in Canvas, set the vibe, and play your camera like an instrument.💬70🔄113❤️1191👀98573📊235⚡ Powered by xgo.ing"
     }
   ]
 }
