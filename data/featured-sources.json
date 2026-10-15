@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T06:06:13.359752Z",
+  "generated_at": "2026-10-15T11:50:57.532102Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 17,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 148,
+      "duration_ms": 117,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 178,
-      "duration_ms": 89,
+      "duration_ms": 65,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1132,
+      "duration_ms": 1029,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1196,
+      "duration_ms": 1228,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1035,
+      "duration_ms": 1082,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2114,
+      "duration_ms": 822,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1003,
+      "duration_ms": 790,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2333,
+      "duration_ms": 2401,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1525,
+      "duration_ms": 1168,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 13,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "cfd8673d23b1c54afaddfe7545d09aac04ccd5cd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "DeepSeek 居然给他们服务挂机影响的用户补偿了，破天荒啊\n\n补偿是过去 7 天账户消耗的所有 API 的金额，会以赠金的形式退到账户里",
+          "url": "https://x.com/op7418/status/2110668428105363721",
+          "published_at": "2026-10-15T09:45:42Z",
+          "summary": "DeepSeek 居然给他们服务挂机影响的用户补偿了，破天荒啊 补偿是过去 7 天账户消耗的所有 API 的金额，会以赠金的形式退到账户里Tianyi Cui@tianyiBetween 8:11 and 13:04 (Beijing Time) on October 15, 2026, DeepSeek API service system experienced a failure that prevented the API service from functioning properly during that period. We since…"
+        },
+        {
+          "id": "92ceeb543d16fcae0d89a94209d9646f6ace73f4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "OpenCode 现在直接把 DeepSeek V4.1 Flash 免费了！\n\n不过免费版只有 200K 的上下文，付费版有 1M",
+          "url": "https://x.com/op7418/status/2110656210685071604",
+          "published_at": "2026-10-15T08:57:09Z",
+          "summary": "OpenCode 现在直接把 DeepSeek V4.1 Flash 免费了！ 不过免费版只有 200K 的上下文，付费版有 1MOpenCode@opencodeDeepSeek V4.1 Flash is now free in OpenCode🔗 View Quoted Tweet💬7🔄0❤️10👀5617📊6⚡ Powered by xgo.ing"
+        },
         {
           "id": "fff244beb8133834ead9a6edb44dcfab4a405866",
           "site_id": "featuredrss",
@@ -222,7 +244,7 @@
           "title": "让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少",
           "url": "https://x.com/op7418/status/2110574294564839439",
           "published_at": "2026-10-15T03:31:39Z",
-          "summary": "让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少Zach@ZryMillerI had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier 💁🔗 View Quoted Tweet💬6🔄1❤️8👀2780📊5⚡ Powered by xgo.ing"
+          "summary": "让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少Zach@ZryMillerI had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier 💁🔗 View Quoted Tweet💬14🔄1❤️14👀4901📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "2a78ebb547905377bc200c5b646feb33efae7753",
@@ -233,7 +255,7 @@
           "title": "详情：https://t.co/Y0KocGE55p",
           "url": "https://x.com/op7418/status/2110565603518116226",
           "published_at": "2026-10-15T02:57:06Z",
-          "summary": "详情：typesafe.ai/blog/jev-1-14💬0🔄0❤️3👀1829📊1⚡ Powered by xgo.ing"
+          "summary": "详情：typesafe.ai/blog/jev-1-14💬0🔄0❤️3👀2841📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "0aa4da62718650a6841f2e5cfa5dc068acb8149c",
@@ -244,7 +266,18 @@
           "title": "JEV 昨天更新了一个大版本 1.14.0\n\n终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。\n\n有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包...",
           "url": "https://x.com/op7418/status/2110565405752496445",
           "published_at": "2026-10-15T02:56:19Z",
-          "summary": "JEV 昨天更新了一个大版本 1.14.0 终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。 有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包括图像编辑，都需要快速的反应和决策。 新增了一个类型（box）：模型能够返回目标在图里的位置。 上下文和多语言能力提升：每次请求和每个问题的回答都提高到了 262K 的上下文，长了非常多；最重要的是多语言也变得更好了💬30🔄6❤️118👀16754📊52⚡ Powered by xgo.ing"
+          "summary": "JEV 昨天更新了一个大版本 1.14.0 终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。 有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包括图像编辑，都需要快速的反应和决策。 新增了一个类型（box）：模型能够返回目标在图里的位置。 上下文和多语言能力提升：每次请求和每个问题的回答都提高到了 262K 的上下文，长了非常多；最重要的是多语言也变得更好了💬48🔄18❤️214👀32678📊90⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "cdb04286c1ee69607089c4b686aa5921183e8df8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+          "published_at": "2026-10-15T00:26:00Z",
+          "summary": "好奇心再也不会被辜负"
         },
         {
           "id": "7b13fcc1c8e3a6e4eaa7dd8cee938d17711e50ae",
@@ -255,7 +288,7 @@
           "title": "更新了，鼠标灯光设置",
           "url": "https://x.com/op7418/status/2110393732738830671",
           "published_at": "2026-10-14T15:34:09Z",
-          "summary": "更新了，鼠标灯光设置💬0🔄0❤️1👀1691⚡ Powered by xgo.ing"
+          "summary": "更新了，鼠标灯光设置💬0🔄0❤️1👀1778⚡ Powered by xgo.ing"
         },
         {
           "id": "bf270c5db399fcab61215418fbe3c6b9c15552c9",
@@ -266,73 +299,7 @@
           "title": "好像说 Muse 在大规模封号啊。\n\n不过毕竟免费，薅得太狠，小扎也顶不住",
           "url": "https://x.com/op7418/status/2110380300618637704",
           "published_at": "2026-10-14T14:40:47Z",
-          "summary": "好像说 Muse 在大规模封号啊。 不过毕竟免费，薅得太狠，小扎也顶不住💬61🔄0❤️67👀48974📊57⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "2a548946285db02e4717742afb2e6553d1ff2a0e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "YOUWARE 的新产品，一套视频创作 Skill\n\n可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频",
-          "url": "https://x.com/op7418/status/2110331992621605278",
-          "published_at": "2026-10-14T11:28:49Z",
-          "summary": "YOUWARE 的新产品，一套视频创作 Skill 可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频Renoise@renoiseaiMade with Renoise MCP. Tell your agent: Install plugin from the repo github.com/ArcoCodes/reno… Then enjoy.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬15🔄5❤️39👀10404📊21⚡ Pow…"
-        },
-        {
-          "id": "a83bf442344d988896a4d3d4f57ca9a86fdeafe3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "OpenAI 有一个员工偷偷在他们高管会议室装窃听器被发现了。\n\n这过程还挺有意思的，有些人也发掘了一些这个员工的信息。\n\n我让 Grokbot 把这些素材和过程做成了一个讲解视频，想了解的话直接看这...",
-          "url": "https://x.com/op7418/status/2110331012043649527",
-          "published_at": "2026-10-14T11:24:55Z",
-          "summary": "OpenAI 有一个员工偷偷在他们高管会议室装窃听器被发现了。 这过程还挺有意思的，有些人也发掘了一些这个员工的信息。 我让 Grokbot 把这些素材和过程做成了一个讲解视频，想了解的话直接看这个视频就行Your browser does not support the video tag.🔗 View on TwitterOpenAI Newsroom@OpenAINewsroomWe discovered a sophisticated recording device that was hidden inside one of our offic…"
-        },
-        {
-          "id": "133ee8125100f48867f29e889cb3f939c94b8439",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "豆包工作悄悄上新功能，把我多Agent记忆整合的焦虑治好了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512337&idx=1&sn=a7c5407604eefbd24e1c237357b1c039",
-          "published_at": "2026-10-14T09:25:00Z",
-          "summary": "这把好用到我不认识了又"
-        },
-        {
-          "id": "113077123b53f8056e6216125f38d8c5fca3c692",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号",
-          "url": "https://x.com/op7418/status/2110284372956037409",
-          "published_at": "2026-10-14T08:19:36Z",
-          "summary": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号歸藏(guizang.ai)@op7418他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈🔗 View Quoted Tweet💬45🔄0❤️86👀21267📊35⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0c4033c493dfb14a11cc39a77806c2e9644dc98f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "蓝牙和 USB 直连已经支持",
-          "url": "https://x.com/op7418/status/2110279876360155317",
-          "published_at": "2026-10-14T08:01:44Z",
-          "summary": "蓝牙和 USB 直连已经支持💬1🔄0❤️1👀3042📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "2473f19bd4849987cf5ee057729ea69484ec3a65",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "开整",
-          "url": "https://x.com/op7418/status/2110278509516181641",
-          "published_at": "2026-10-14T07:56:18Z",
-          "summary": "开整💬1🔄0❤️3👀3783📊1⚡ Powered by xgo.ing"
+          "summary": "好像说 Muse 在大规模封号啊。 不过毕竟免费，薅得太狠，小扎也顶不住💬65🔄0❤️72👀53361📊61⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -377,7 +344,7 @@
           "title": "What are you building with Gemini 4 Argon? Show us what you've made 👇",
           "url": "https://x.com/GeminiApp/status/2110491356376576409",
           "published_at": "2026-10-14T22:02:05Z",
-          "summary": "What are you building with Gemini 4 Argon? Show us what you've made 👇💬589🔄65❤️1852👀252054📊698⚡ Powered by xgo.ing"
+          "summary": "What are you building with Gemini 4 Argon? Show us what you've made 👇💬816🔄95❤️2807👀404507📊996⚡ Powered by xgo.ing"
         },
         {
           "id": "6363e71e9e0dfb853eaa15348d4a027d6c602ed6",
@@ -410,7 +377,7 @@
           "title": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft.\n\nJust connect ...",
           "url": "https://x.com/GeminiApp/status/2110425806833119609",
           "published_at": "2026-10-14T17:41:36Z",
-          "summary": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft. Just connect your @GoogleWorkspace apps to turn scattered recipes, handwritten guest lists, and photos of seating charts into a polished proposal deck, email draft, and automated tracker.💬72🔄59❤…"
+          "summary": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft. Just connect your @GoogleWorkspace apps to turn scattered recipes, handwritten guest lists, and photos of seating charts into a polished proposal deck, email draft, and automated tracker.💬76🔄68❤…"
         },
         {
           "id": "e89965cd09b021defff50f391e020d08ebd54825",
@@ -427,6 +394,28 @@
     }
   },
   "items": [
+    {
+      "id": "cfd8673d23b1c54afaddfe7545d09aac04ccd5cd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "DeepSeek 居然给他们服务挂机影响的用户补偿了，破天荒啊\n\n补偿是过去 7 天账户消耗的所有 API 的金额，会以赠金的形式退到账户里",
+      "url": "https://x.com/op7418/status/2110668428105363721",
+      "published_at": "2026-10-15T09:45:42Z",
+      "summary": "DeepSeek 居然给他们服务挂机影响的用户补偿了，破天荒啊 补偿是过去 7 天账户消耗的所有 API 的金额，会以赠金的形式退到账户里Tianyi Cui@tianyiBetween 8:11 and 13:04 (Beijing Time) on October 15, 2026, DeepSeek API service system experienced a failure that prevented the API service from functioning properly during that period. We since…"
+    },
+    {
+      "id": "92ceeb543d16fcae0d89a94209d9646f6ace73f4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "OpenCode 现在直接把 DeepSeek V4.1 Flash 免费了！\n\n不过免费版只有 200K 的上下文，付费版有 1M",
+      "url": "https://x.com/op7418/status/2110656210685071604",
+      "published_at": "2026-10-15T08:57:09Z",
+      "summary": "OpenCode 现在直接把 DeepSeek V4.1 Flash 免费了！ 不过免费版只有 200K 的上下文，付费版有 1MOpenCode@opencodeDeepSeek V4.1 Flash is now free in OpenCode🔗 View Quoted Tweet💬7🔄0❤️10👀5617📊6⚡ Powered by xgo.ing"
+    },
     {
       "id": "fff244beb8133834ead9a6edb44dcfab4a405866",
       "site_id": "featuredrss",
@@ -458,7 +447,7 @@
       "title": "让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少",
       "url": "https://x.com/op7418/status/2110574294564839439",
       "published_at": "2026-10-15T03:31:39Z",
-      "summary": "让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少Zach@ZryMillerI had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier 💁🔗 View Quoted Tweet💬6🔄1❤️8👀2780📊5⚡ Powered by xgo.ing"
+      "summary": "让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少Zach@ZryMillerI had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier 💁🔗 View Quoted Tweet💬14🔄1❤️14👀4901📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "2a78ebb547905377bc200c5b646feb33efae7753",
@@ -469,7 +458,7 @@
       "title": "详情：https://t.co/Y0KocGE55p",
       "url": "https://x.com/op7418/status/2110565603518116226",
       "published_at": "2026-10-15T02:57:06Z",
-      "summary": "详情：typesafe.ai/blog/jev-1-14💬0🔄0❤️3👀1829📊1⚡ Powered by xgo.ing"
+      "summary": "详情：typesafe.ai/blog/jev-1-14💬0🔄0❤️3👀2841📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "0aa4da62718650a6841f2e5cfa5dc068acb8149c",
@@ -480,7 +469,18 @@
       "title": "JEV 昨天更新了一个大版本 1.14.0\n\n终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。\n\n有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包...",
       "url": "https://x.com/op7418/status/2110565405752496445",
       "published_at": "2026-10-15T02:56:19Z",
-      "summary": "JEV 昨天更新了一个大版本 1.14.0 终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。 有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包括图像编辑，都需要快速的反应和决策。 新增了一个类型（box）：模型能够返回目标在图里的位置。 上下文和多语言能力提升：每次请求和每个问题的回答都提高到了 262K 的上下文，长了非常多；最重要的是多语言也变得更好了💬30🔄6❤️118👀16754📊52⚡ Powered by xgo.ing"
+      "summary": "JEV 昨天更新了一个大版本 1.14.0 终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。 有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包括图像编辑，都需要快速的反应和决策。 新增了一个类型（box）：模型能够返回目标在图里的位置。 上下文和多语言能力提升：每次请求和每个问题的回答都提高到了 262K 的上下文，长了非常多；最重要的是多语言也变得更好了💬48🔄18❤️214👀32678📊90⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "cdb04286c1ee69607089c4b686aa5921183e8df8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+      "published_at": "2026-10-15T00:26:00Z",
+      "summary": "好奇心再也不会被辜负"
     },
     {
       "id": "8083d7ccd85090cb954533b7e472f37461a35a0a",
@@ -513,7 +513,7 @@
       "title": "What are you building with Gemini 4 Argon? Show us what you've made 👇",
       "url": "https://x.com/GeminiApp/status/2110491356376576409",
       "published_at": "2026-10-14T22:02:05Z",
-      "summary": "What are you building with Gemini 4 Argon? Show us what you've made 👇💬589🔄65❤️1852👀252054📊698⚡ Powered by xgo.ing"
+      "summary": "What are you building with Gemini 4 Argon? Show us what you've made 👇💬816🔄95❤️2807👀404507📊996⚡ Powered by xgo.ing"
     },
     {
       "id": "6363e71e9e0dfb853eaa15348d4a027d6c602ed6",
@@ -546,7 +546,7 @@
       "title": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft.\n\nJust connect ...",
       "url": "https://x.com/GeminiApp/status/2110425806833119609",
       "published_at": "2026-10-14T17:41:36Z",
-      "summary": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft. Just connect your @GoogleWorkspace apps to turn scattered recipes, handwritten guest lists, and photos of seating charts into a polished proposal deck, email draft, and automated tracker.💬72🔄59❤…"
+      "summary": "With Gemini 4 Argon, spend less time on repetitive admin and more time on your craft. Just connect your @GoogleWorkspace apps to turn scattered recipes, handwritten guest lists, and photos of seating charts into a polished proposal deck, email draft, and automated tracker.💬76🔄68❤…"
     },
     {
       "id": "7b13fcc1c8e3a6e4eaa7dd8cee938d17711e50ae",
@@ -557,7 +557,7 @@
       "title": "更新了，鼠标灯光设置",
       "url": "https://x.com/op7418/status/2110393732738830671",
       "published_at": "2026-10-14T15:34:09Z",
-      "summary": "更新了，鼠标灯光设置💬0🔄0❤️1👀1691⚡ Powered by xgo.ing"
+      "summary": "更新了，鼠标灯光设置💬0🔄0❤️1👀1778⚡ Powered by xgo.ing"
     },
     {
       "id": "e89965cd09b021defff50f391e020d08ebd54825",
@@ -579,73 +579,7 @@
       "title": "好像说 Muse 在大规模封号啊。\n\n不过毕竟免费，薅得太狠，小扎也顶不住",
       "url": "https://x.com/op7418/status/2110380300618637704",
       "published_at": "2026-10-14T14:40:47Z",
-      "summary": "好像说 Muse 在大规模封号啊。 不过毕竟免费，薅得太狠，小扎也顶不住💬61🔄0❤️67👀48974📊57⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2a548946285db02e4717742afb2e6553d1ff2a0e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "YOUWARE 的新产品，一套视频创作 Skill\n\n可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频",
-      "url": "https://x.com/op7418/status/2110331992621605278",
-      "published_at": "2026-10-14T11:28:49Z",
-      "summary": "YOUWARE 的新产品，一套视频创作 Skill 可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频Renoise@renoiseaiMade with Renoise MCP. Tell your agent: Install plugin from the repo github.com/ArcoCodes/reno… Then enjoy.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬15🔄5❤️39👀10404📊21⚡ Pow…"
-    },
-    {
-      "id": "a83bf442344d988896a4d3d4f57ca9a86fdeafe3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "OpenAI 有一个员工偷偷在他们高管会议室装窃听器被发现了。\n\n这过程还挺有意思的，有些人也发掘了一些这个员工的信息。\n\n我让 Grokbot 把这些素材和过程做成了一个讲解视频，想了解的话直接看这...",
-      "url": "https://x.com/op7418/status/2110331012043649527",
-      "published_at": "2026-10-14T11:24:55Z",
-      "summary": "OpenAI 有一个员工偷偷在他们高管会议室装窃听器被发现了。 这过程还挺有意思的，有些人也发掘了一些这个员工的信息。 我让 Grokbot 把这些素材和过程做成了一个讲解视频，想了解的话直接看这个视频就行Your browser does not support the video tag.🔗 View on TwitterOpenAI Newsroom@OpenAINewsroomWe discovered a sophisticated recording device that was hidden inside one of our offic…"
-    },
-    {
-      "id": "133ee8125100f48867f29e889cb3f939c94b8439",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "豆包工作悄悄上新功能，把我多Agent记忆整合的焦虑治好了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512337&idx=1&sn=a7c5407604eefbd24e1c237357b1c039",
-      "published_at": "2026-10-14T09:25:00Z",
-      "summary": "这把好用到我不认识了又"
-    },
-    {
-      "id": "113077123b53f8056e6216125f38d8c5fca3c692",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号",
-      "url": "https://x.com/op7418/status/2110284372956037409",
-      "published_at": "2026-10-14T08:19:36Z",
-      "summary": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号歸藏(guizang.ai)@op7418他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈🔗 View Quoted Tweet💬45🔄0❤️86👀21267📊35⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0c4033c493dfb14a11cc39a77806c2e9644dc98f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "蓝牙和 USB 直连已经支持",
-      "url": "https://x.com/op7418/status/2110279876360155317",
-      "published_at": "2026-10-14T08:01:44Z",
-      "summary": "蓝牙和 USB 直连已经支持💬1🔄0❤️1👀3042📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2473f19bd4849987cf5ee057729ea69484ec3a65",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "开整",
-      "url": "https://x.com/op7418/status/2110278509516181641",
-      "published_at": "2026-10-14T07:56:18Z",
-      "summary": "开整💬1🔄0❤️3👀3783📊1⚡ Powered by xgo.ing"
+      "summary": "好像说 Muse 在大规模封号啊。 不过毕竟免费，薅得太狠，小扎也顶不住💬65🔄0❤️72👀53361📊61⚡ Powered by xgo.ing"
     }
   ]
 }
