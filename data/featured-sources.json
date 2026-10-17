@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T04:45:56.322620Z",
+  "generated_at": "2026-10-17T08:57:21.794463Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 364,
+      "duration_ms": 134,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 81,
+      "duration_ms": 188,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1174,
+      "duration_ms": 963,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1351,
+      "duration_ms": 6774,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1272,
+      "duration_ms": 736,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 735,
+      "duration_ms": 600,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 972,
+      "duration_ms": 527,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 47,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2352,
+      "duration_ms": 1954,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1367,
+      "duration_ms": 930,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "32ef1a82ef40dba1f8b7aa7a3219aa1b41fcf37b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "详情：https://t.co/hduOwnlFZv",
+          "url": "https://x.com/op7418/status/2111380969798451222",
+          "published_at": "2026-10-17T08:57:05Z",
+          "summary": "详情：x.com/deepseek_ai/st…DeepSeek@deepseek_ai🚀 DeepSeek-V4.1-Flash-1017 is here! Stronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API. 🛠️ Optimized…"
+        },
+        {
+          "id": "26113b4765db35a0e409b118982b55d6997f62bd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Deepseek 发布了 V4.1 Flash 1017 版本\n\n他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！\n\n整体能力再次大幅提升，同时缩...",
+          "url": "https://x.com/op7418/status/2111380782174683300",
+          "published_at": "2026-10-17T08:56:20Z",
+          "summary": "Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅提升，同时缩短了模型的任务运行时间和输出长度，能以更低的成本完成同样的任务。 另外，他们这次着重强调了可以从零开始完成整个项目的开发： 不用人工干预，用非常简单的提示词就行，类似 OpenAI 5.5 这种一句话做个视频或一句话做个游戏。 还有一个比较重要的点是它开放了自研的搜索 API。 Deepseek 在国内信息数据的搜索结果上非常精准且强大，所以这个 API 挺有用…"
+        },
         {
           "id": "1157bbbe6cda32a2034b2472ff45e9c3c49b6f73",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "iPhone Duo 语音输入打错了",
           "url": "https://x.com/op7418/status/2111110577481535938",
           "published_at": "2026-10-16T15:02:38Z",
-          "summary": "iPhone Duo 语音输入打错了💬1🔄0❤️1👀4677📊1⚡ Powered by xgo.ing"
+          "summary": "iPhone Duo 语音输入打错了💬1🔄0❤️1👀5402📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "1cc3ee5aadeeaf26434eb074f0ea1ffb74968ab8",
@@ -211,7 +233,7 @@
           "title": "大家都不傻，都预料到了 iPhone Duo 的火爆。\n\n今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。\n\n现在抢到第一批，基本上就起飞了",
           "url": "https://x.com/op7418/status/2111082519777194281",
           "published_at": "2026-10-16T13:11:09Z",
-          "summary": "大家都不傻，都预料到了 iPhone Duo 的火爆。 今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。 现在抢到第一批，基本上就起飞了John Ternus@johnternusiPhone Duo… a whole new way to iPhone. Pre-orders start today.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬39🔄0❤️40👀62097📊29⚡ Po…"
+          "summary": "大家都不傻，都预料到了 iPhone Duo 的火爆。 今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。 现在抢到第一批，基本上就起飞了John Ternus@johnternusiPhone Duo… a whole new way to iPhone. Pre-orders start today.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬43🔄0❤️47👀69348📊33⚡ Po…"
         },
         {
           "id": "f33889d95e579433b51309564b635c847eccb690",
@@ -223,17 +245,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498674&idx=1&sn=8d7885c7ce84b3f18a2b4fa51f9fa6c2",
           "published_at": "2026-10-16T09:02:00Z",
           "summary": "Vidu Q4 Preview来了，便宜大碗，嘎嘎好用！"
-        },
-        {
-          "id": "45ba263ad90a19cb03f75c1917eeac60c6d69aa0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "马斯克在八年前就说这过这个设想\n\n当时评论区很多人觉得他在开玩笑",
-          "url": "https://x.com/op7418/status/2110987435874431392",
-          "published_at": "2026-10-16T06:53:19Z",
-          "summary": "马斯克在八年前就说这过这个设想 当时评论区很多人觉得他在开玩笑歸藏(guizang.ai)@op7418卧槽，特斯拉这个新的跑车太离谱了 居然能短暂飞行并且在空中调整姿态 演示的时候可以直接跳起来反转然后正常落地Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬64🔄40❤️503👀44694📊89⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -278,12 +289,34 @@
           "title": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you c...",
           "url": "https://x.com/GeminiApp/status/2111147479248855484",
           "published_at": "2026-10-16T17:29:16Z",
-          "summary": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.💬106🔄150❤️1867👀100905📊392⚡ Powered by xgo.ing"
+          "summary": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.💬123🔄185❤️2303👀128951📊473⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "32ef1a82ef40dba1f8b7aa7a3219aa1b41fcf37b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "详情：https://t.co/hduOwnlFZv",
+      "url": "https://x.com/op7418/status/2111380969798451222",
+      "published_at": "2026-10-17T08:57:05Z",
+      "summary": "详情：x.com/deepseek_ai/st…DeepSeek@deepseek_ai🚀 DeepSeek-V4.1-Flash-1017 is here! Stronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API. 🛠️ Optimized…"
+    },
+    {
+      "id": "26113b4765db35a0e409b118982b55d6997f62bd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Deepseek 发布了 V4.1 Flash 1017 版本\n\n他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！\n\n整体能力再次大幅提升，同时缩...",
+      "url": "https://x.com/op7418/status/2111380782174683300",
+      "published_at": "2026-10-17T08:56:20Z",
+      "summary": "Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅提升，同时缩短了模型的任务运行时间和输出长度，能以更低的成本完成同样的任务。 另外，他们这次着重强调了可以从零开始完成整个项目的开发： 不用人工干预，用非常简单的提示词就行，类似 OpenAI 5.5 这种一句话做个视频或一句话做个游戏。 还有一个比较重要的点是它开放了自研的搜索 API。 Deepseek 在国内信息数据的搜索结果上非常精准且强大，所以这个 API 挺有用…"
+    },
     {
       "id": "110a639a9d4a5ac7ceb98f165d872f01904c2c12",
       "site_id": "featuredrss",
@@ -315,7 +348,7 @@
       "title": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you c...",
       "url": "https://x.com/GeminiApp/status/2111147479248855484",
       "published_at": "2026-10-16T17:29:16Z",
-      "summary": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.💬106🔄150❤️1867👀100905📊392⚡ Powered by xgo.ing"
+      "summary": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.💬123🔄185❤️2303👀128951📊473⚡ Powered by xgo.ing"
     },
     {
       "id": "1157bbbe6cda32a2034b2472ff45e9c3c49b6f73",
@@ -326,7 +359,7 @@
       "title": "iPhone Duo 语音输入打错了",
       "url": "https://x.com/op7418/status/2111110577481535938",
       "published_at": "2026-10-16T15:02:38Z",
-      "summary": "iPhone Duo 语音输入打错了💬1🔄0❤️1👀4677📊1⚡ Powered by xgo.ing"
+      "summary": "iPhone Duo 语音输入打错了💬1🔄0❤️1👀5402📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "1cc3ee5aadeeaf26434eb074f0ea1ffb74968ab8",
@@ -337,7 +370,7 @@
       "title": "大家都不傻，都预料到了 iPhone Duo 的火爆。\n\n今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。\n\n现在抢到第一批，基本上就起飞了",
       "url": "https://x.com/op7418/status/2111082519777194281",
       "published_at": "2026-10-16T13:11:09Z",
-      "summary": "大家都不傻，都预料到了 iPhone Duo 的火爆。 今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。 现在抢到第一批，基本上就起飞了John Ternus@johnternusiPhone Duo… a whole new way to iPhone. Pre-orders start today.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬39🔄0❤️40👀62097📊29⚡ Po…"
+      "summary": "大家都不傻，都预料到了 iPhone Duo 的火爆。 今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。 现在抢到第一批，基本上就起飞了John Ternus@johnternusiPhone Duo… a whole new way to iPhone. Pre-orders start today.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬43🔄0❤️47👀69348📊33⚡ Po…"
     },
     {
       "id": "f33889d95e579433b51309564b635c847eccb690",
@@ -349,17 +382,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498674&idx=1&sn=8d7885c7ce84b3f18a2b4fa51f9fa6c2",
       "published_at": "2026-10-16T09:02:00Z",
       "summary": "Vidu Q4 Preview来了，便宜大碗，嘎嘎好用！"
-    },
-    {
-      "id": "45ba263ad90a19cb03f75c1917eeac60c6d69aa0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "马斯克在八年前就说这过这个设想\n\n当时评论区很多人觉得他在开玩笑",
-      "url": "https://x.com/op7418/status/2110987435874431392",
-      "published_at": "2026-10-16T06:53:19Z",
-      "summary": "马斯克在八年前就说这过这个设想 当时评论区很多人觉得他在开玩笑歸藏(guizang.ai)@op7418卧槽，特斯拉这个新的跑车太离谱了 居然能短暂飞行并且在空中调整姿态 演示的时候可以直接跳起来反转然后正常落地Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬64🔄40❤️503👀44694📊89⚡ Powered by xgo.ing"
     }
   ]
 }
