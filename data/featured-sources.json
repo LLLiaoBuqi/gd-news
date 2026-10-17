@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T12:42:17.689499Z",
+  "generated_at": "2026-10-17T16:04:02.258361Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 199,
+      "duration_ms": 201,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 61,
+      "duration_ms": 128,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 954,
+      "duration_ms": 867,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 895,
+      "duration_ms": 992,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 941,
+      "duration_ms": 881,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 790,
+      "duration_ms": 1458,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 738,
+      "duration_ms": 1536,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 95,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2072,
+      "duration_ms": 2558,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1104,
+      "duration_ms": 637,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "64c2e4ebe0de3c888b551852a8d8b66b7f214b40",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "简单试了一下https://t.co/ouUTs65BNm",
+          "url": "https://x.com/op7418/status/2111428801255342213",
+          "published_at": "2026-10-17T12:07:09Z",
+          "summary": "简单试了一下x.com/op7418/status/…歸藏(guizang.ai)@op7418简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀2518⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "99a2a50eaaf445f9d1c27197cace32faecea6afe",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "提示词在这里：https://t.co/rI9kXMLdMR",
+          "url": "https://x.com/op7418/status/2111427773017530611",
+          "published_at": "2026-10-17T12:03:04Z",
+          "summary": "提示词在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀2123📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "28753fbeb841dde0666bb46db8921bf089aaf40f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！\n\n用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。\n\n虽然细节上和创造性上差 Opus 5.5 还是不少...",
+          "url": "https://x.com/op7418/status/2111427699520749951",
+          "published_at": "2026-10-17T12:02:46Z",
+          "summary": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅…"
+        },
         {
           "id": "f77756d0250d05d3dfec7c2f936ac3b7f84b3ba8",
           "site_id": "featuredrss",
@@ -256,28 +289,6 @@
           "url": "https://x.com/op7418/status/2111380782174683300",
           "published_at": "2026-10-17T08:56:20Z",
           "summary": "Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅提升，同时缩短了模型的任务运行时间和输出长度，能以更低的成本完成同样的任务。 另外，他们这次着重强调了可以从零开始完成整个项目的开发： 不用人工干预，用非常简单的提示词就行，类似 OpenAI 5.5 这种一句话做个视频或一句话做个游戏。 还有一个比较重要的点是它开放了自研的搜索 API。 Deepseek 在国内信息数据的搜索结果上非常精准且强大，所以这个 API 挺有用…"
-        },
-        {
-          "id": "1157bbbe6cda32a2034b2472ff45e9c3c49b6f73",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "iPhone Duo 语音输入打错了",
-          "url": "https://x.com/op7418/status/2111110577481535938",
-          "published_at": "2026-10-16T15:02:38Z",
-          "summary": "iPhone Duo 语音输入打错了💬1🔄0❤️1👀5693📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1cc3ee5aadeeaf26434eb074f0ea1ffb74968ab8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "大家都不傻，都预料到了 iPhone Duo 的火爆。\n\n今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。\n\n现在抢到第一批，基本上就起飞了",
-          "url": "https://x.com/op7418/status/2111082519777194281",
-          "published_at": "2026-10-16T13:11:09Z",
-          "summary": "大家都不傻，都预料到了 iPhone Duo 的火爆。 今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。 现在抢到第一批，基本上就起飞了John Ternus@johnternusiPhone Duo… a whole new way to iPhone. Pre-orders start today.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬44🔄1❤️50👀72605📊34⚡ Po…"
         }
       ]
     },
@@ -322,12 +333,45 @@
           "title": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you c...",
           "url": "https://x.com/GeminiApp/status/2111147479248855484",
           "published_at": "2026-10-16T17:29:16Z",
-          "summary": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.💬130🔄208❤️2535👀146181📊518⚡ Powered by xgo.ing"
+          "summary": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.💬140🔄233❤️2745👀164659📊563⚡ Powered by xgo.ing"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "64c2e4ebe0de3c888b551852a8d8b66b7f214b40",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "简单试了一下https://t.co/ouUTs65BNm",
+      "url": "https://x.com/op7418/status/2111428801255342213",
+      "published_at": "2026-10-17T12:07:09Z",
+      "summary": "简单试了一下x.com/op7418/status/…歸藏(guizang.ai)@op7418简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀2518⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "99a2a50eaaf445f9d1c27197cace32faecea6afe",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "提示词在这里：https://t.co/rI9kXMLdMR",
+      "url": "https://x.com/op7418/status/2111427773017530611",
+      "published_at": "2026-10-17T12:03:04Z",
+      "summary": "提示词在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀2123📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "28753fbeb841dde0666bb46db8921bf089aaf40f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！\n\n用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。\n\n虽然细节上和创造性上差 Opus 5.5 还是不少...",
+      "url": "https://x.com/op7418/status/2111427699520749951",
+      "published_at": "2026-10-17T12:02:46Z",
+      "summary": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅…"
+    },
     {
       "id": "f77756d0250d05d3dfec7c2f936ac3b7f84b3ba8",
       "site_id": "featuredrss",
@@ -425,29 +469,7 @@
       "title": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you c...",
       "url": "https://x.com/GeminiApp/status/2111147479248855484",
       "published_at": "2026-10-16T17:29:16Z",
-      "summary": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.💬130🔄208❤️2535👀146181📊518⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1157bbbe6cda32a2034b2472ff45e9c3c49b6f73",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "iPhone Duo 语音输入打错了",
-      "url": "https://x.com/op7418/status/2111110577481535938",
-      "published_at": "2026-10-16T15:02:38Z",
-      "summary": "iPhone Duo 语音输入打错了💬1🔄0❤️1👀5693📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1cc3ee5aadeeaf26434eb074f0ea1ffb74968ab8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "大家都不傻，都预料到了 iPhone Duo 的火爆。\n\n今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。\n\n现在抢到第一批，基本上就起飞了",
-      "url": "https://x.com/op7418/status/2111082519777194281",
-      "published_at": "2026-10-16T13:11:09Z",
-      "summary": "大家都不傻，都预料到了 iPhone Duo 的火爆。 今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。 现在抢到第一批，基本上就起飞了John Ternus@johnternusiPhone Duo… a whole new way to iPhone. Pre-orders start today.Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬44🔄1❤️50👀72605📊34⚡ Po…"
+      "summary": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.💬140🔄233❤️2745👀164659📊563⚡ Powered by xgo.ing"
     }
   ]
 }
