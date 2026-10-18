@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T11:30:01.005467Z",
+  "generated_at": "2026-10-18T14:45:38.959900Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 0,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 324,
+      "duration_ms": 157,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 105,
+      "duration_ms": 87,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1417,
+      "duration_ms": 1036,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1287,
+      "duration_ms": 1105,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 966,
+      "duration_ms": 859,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1391,
+      "duration_ms": 648,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1309,
+      "duration_ms": 1043,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 18,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2270,
+      "duration_ms": 2364,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 559,
+      "duration_ms": 436,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,80 +184,13 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 0,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": [
-        {
-          "id": "64c2e4ebe0de3c888b551852a8d8b66b7f214b40",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "简单试了一下https://t.co/ouUTs65BNm",
-          "url": "https://x.com/op7418/status/2111428801255342213",
-          "published_at": "2026-10-17T12:07:09Z",
-          "summary": "简单试了一下x.com/op7418/status/…歸藏(guizang.ai)@op7418简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️2👀3858⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "99a2a50eaaf445f9d1c27197cace32faecea6afe",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "提示词在这里：https://t.co/rI9kXMLdMR",
-          "url": "https://x.com/op7418/status/2111427773017530611",
-          "published_at": "2026-10-17T12:03:04Z",
-          "summary": "提示词在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️2👀3310📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "28753fbeb841dde0666bb46db8921bf089aaf40f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！\n\n用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。\n\n虽然细节上和创造性上差 Opus 5.5 还是不少...",
-          "url": "https://x.com/op7418/status/2111427699520749951",
-          "published_at": "2026-10-17T12:02:46Z",
-          "summary": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅…"
-        },
-        {
-          "id": "f77756d0250d05d3dfec7c2f936ac3b7f84b3ba8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "简单试了一下：https://t.co/neEs33wCyI",
-          "url": "https://x.com/op7418/status/2111426242297942291",
-          "published_at": "2026-10-17T11:56:59Z",
-          "summary": "简单试了一下：x.com/op7418/status/…歸藏(guizang.ai)@op7418简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️0👀48⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "b85f9bb62684c2fa65338da6a2c7b715571cb5d1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "提示词在这里：https://t.co/rI9kXMLdMR",
-          "url": "https://x.com/op7418/status/2111426159678521614",
-          "published_at": "2026-10-17T11:56:39Z",
-          "summary": "提示词在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀65⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "43f8a05d5776d56b762cfcaea3e971a28aa815b3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！\n\n用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。\n\n虽然细节上和创造性上差 Opus 5.5 还是不少...",
-          "url": "https://x.com/op7418/status/2111426041151647775",
-          "published_at": "2026-10-17T11:56:11Z",
-          "summary": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅…"
-        }
-      ]
+      "items": []
     },
     "global": {
       "label": "国外精选",
@@ -271,72 +204,5 @@
       "items": []
     }
   },
-  "items": [
-    {
-      "id": "64c2e4ebe0de3c888b551852a8d8b66b7f214b40",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "简单试了一下https://t.co/ouUTs65BNm",
-      "url": "https://x.com/op7418/status/2111428801255342213",
-      "published_at": "2026-10-17T12:07:09Z",
-      "summary": "简单试了一下x.com/op7418/status/…歸藏(guizang.ai)@op7418简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️2👀3858⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "99a2a50eaaf445f9d1c27197cace32faecea6afe",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "提示词在这里：https://t.co/rI9kXMLdMR",
-      "url": "https://x.com/op7418/status/2111427773017530611",
-      "published_at": "2026-10-17T12:03:04Z",
-      "summary": "提示词在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬1🔄0❤️2👀3310📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "28753fbeb841dde0666bb46db8921bf089aaf40f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！\n\n用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。\n\n虽然细节上和创造性上差 Opus 5.5 还是不少...",
-      "url": "https://x.com/op7418/status/2111427699520749951",
-      "published_at": "2026-10-17T12:02:46Z",
-      "summary": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅…"
-    },
-    {
-      "id": "f77756d0250d05d3dfec7c2f936ac3b7f84b3ba8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "简单试了一下：https://t.co/neEs33wCyI",
-      "url": "https://x.com/op7418/status/2111426242297942291",
-      "published_at": "2026-10-17T11:56:59Z",
-      "summary": "简单试了一下：x.com/op7418/status/…歸藏(guizang.ai)@op7418简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️0👀48⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "b85f9bb62684c2fa65338da6a2c7b715571cb5d1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "提示词在这里：https://t.co/rI9kXMLdMR",
-      "url": "https://x.com/op7418/status/2111426159678521614",
-      "published_at": "2026-10-17T11:56:39Z",
-      "summary": "提示词在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418Opus 5.5 游戏动效制作提示词来了！ 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。 顺便还做了一个新的抽卡动画，提示词太长放下面了Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬0🔄0❤️1👀65⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "43f8a05d5776d56b762cfcaea3e971a28aa815b3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！\n\n用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。\n\n虽然细节上和创造性上差 Opus 5.5 还是不少...",
-      "url": "https://x.com/op7418/status/2111426041151647775",
-      "published_at": "2026-10-17T11:56:11Z",
-      "summary": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！ 用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。 虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418Deepseek 发布了 V4.1 Flash 1017 版本 他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！ 整体能力再次大幅…"
-    }
-  ]
+  "items": []
 }
