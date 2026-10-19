@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T05:01:26.269083Z",
+  "generated_at": "2026-10-19T11:01:54.587900Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 167,
+      "duration_ms": 177,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 75,
+      "duration_ms": 117,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 894,
+      "duration_ms": 1369,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1157,
+      "duration_ms": 1251,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 811,
+      "duration_ms": 1148,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 708,
+      "duration_ms": 707,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 630,
+      "duration_ms": 484,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 62,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2356,
+      "duration_ms": 2832,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 674,
+      "duration_ms": 1006,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "ac6f020ec33994df0a2bd4b54824b83ce7d7b2ee",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。\n\n其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 A...",
+          "url": "https://x.com/op7418/status/2112125082562929018",
+          "published_at": "2026-10-19T10:13:55Z",
+          "summary": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。 其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 Apple 生态的人的体感接近。感兴趣可以看看SwiftSIQI@SwiftSIQI过去一个月，我们围绕 Xcode 和 Apple 生态做了一次 AI 方向的调研。今天，分析报告正式公开！🎉 本次发布的是基于 100 位 Apple 生态领域专家反馈的专家组报告，大众组的数据仍在收集中。 希望这份报告能为大家提供有价值的参考，也欢迎交流讨论！ 📊 完整报告re…"
+        },
+        {
+          "id": "d165180a6c43d7419a4745f4d227f3ac70988c1f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude Code",
+          "url": "https://x.com/op7418/status/2112114363624800300",
+          "published_at": "2026-10-19T09:31:20Z",
+          "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬5🔄0❤️14👀4254📊5⚡ Powered by xgo.ing"
+        },
         {
           "id": "f0375e4380eed302150cf420b0074a14dcb2615b",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
           "url": "https://x.com/op7418/status/2112022770771202436",
           "published_at": "2026-10-19T03:27:22Z",
-          "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬0🔄0❤️0👀754⚡ Powered by xgo.ing"
+          "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬1🔄0❤️0👀2258📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "c30ebbdca563a58222bc86c540f71483e5643e12",
@@ -229,6 +251,28 @@
   },
   "items": [
     {
+      "id": "ac6f020ec33994df0a2bd4b54824b83ce7d7b2ee",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。\n\n其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 A...",
+      "url": "https://x.com/op7418/status/2112125082562929018",
+      "published_at": "2026-10-19T10:13:55Z",
+      "summary": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。 其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 Apple 生态的人的体感接近。感兴趣可以看看SwiftSIQI@SwiftSIQI过去一个月，我们围绕 Xcode 和 Apple 生态做了一次 AI 方向的调研。今天，分析报告正式公开！🎉 本次发布的是基于 100 位 Apple 生态领域专家反馈的专家组报告，大众组的数据仍在收集中。 希望这份报告能为大家提供有价值的参考，也欢迎交流讨论！ 📊 完整报告re…"
+    },
+    {
+      "id": "d165180a6c43d7419a4745f4d227f3ac70988c1f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude Code",
+      "url": "https://x.com/op7418/status/2112114363624800300",
+      "published_at": "2026-10-19T09:31:20Z",
+      "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬5🔄0❤️14👀4254📊5⚡ Powered by xgo.ing"
+    },
+    {
       "id": "f0375e4380eed302150cf420b0074a14dcb2615b",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -237,7 +281,7 @@
       "title": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
       "url": "https://x.com/op7418/status/2112022770771202436",
       "published_at": "2026-10-19T03:27:22Z",
-      "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬0🔄0❤️0👀754⚡ Powered by xgo.ing"
+      "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬1🔄0❤️0👀2258📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "c30ebbdca563a58222bc86c540f71483e5643e12",
