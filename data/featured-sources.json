@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T11:01:54.587900Z",
+  "generated_at": "2026-10-19T17:37:32.995479Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 177,
+      "duration_ms": 223,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 117,
+      "duration_ms": 69,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1369,
+      "duration_ms": 820,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1251,
+      "duration_ms": 1083,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1148,
+      "duration_ms": 1023,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 707,
+      "duration_ms": 560,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 484,
+      "duration_ms": 1050,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 14,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2832,
+      "duration_ms": 2459,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1006,
+      "duration_ms": 1378,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "9dbbbdfde6655bd8235e5146f047fe724b2bbdf4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "神奇 难道关注我了吗？他自己把视频删了",
+          "url": "https://x.com/op7418/status/2112162558685942048",
+          "published_at": "2026-10-19T12:42:50Z",
+          "summary": "神奇 难道关注我了吗？他自己把视频删了💬3🔄0❤️5👀2174📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "7924fa34d13bdd63fd32b970034b48067c042cc4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "抖音对于搬运的内容真是非常的纵容啊！\n\n尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来",
+          "url": "https://x.com/op7418/status/2112155703309926729",
+          "published_at": "2026-10-19T12:15:36Z",
+          "summary": "抖音对于搬运的内容真是非常的纵容啊！ 尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来Higgsfield AI 🧩@higgsfield_aiDeepSeek V4.1 Flash looks like the new SOTA for motion design. Look at the 3D detail and UI transitions. Made with Higgsfiled.Your browser does not support the video tag.🔗 View on Twitter…"
+        },
+        {
+          "id": "d0ec5db9e3a9a8ccd3c1f3857f6db8b7bf65bdda",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测Lovart 2.0，AI设计终于可以打破千篇一律的模板化死板了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512399&idx=1&sn=8aad2f1c9fe7cf02a3f61fbfef1bd644",
+          "published_at": "2026-10-19T10:26:00Z",
+          "summary": "Personal Agent在设计这一块迎来了史诗级加强"
+        },
         {
           "id": "ac6f020ec33994df0a2bd4b54824b83ce7d7b2ee",
           "site_id": "featuredrss",
@@ -211,7 +244,7 @@
           "title": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude Code",
           "url": "https://x.com/op7418/status/2112114363624800300",
           "published_at": "2026-10-19T09:31:20Z",
-          "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬5🔄0❤️14👀4254📊5⚡ Powered by xgo.ing"
+          "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬64🔄11❤️236👀59404📊71⚡ Powered by xgo.ing"
         },
         {
           "id": "f0375e4380eed302150cf420b0074a14dcb2615b",
@@ -222,7 +255,7 @@
           "title": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
           "url": "https://x.com/op7418/status/2112022770771202436",
           "published_at": "2026-10-19T03:27:22Z",
-          "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬1🔄0❤️0👀2258📊1⚡ Powered by xgo.ing"
+          "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬1🔄0❤️1👀2748📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "c30ebbdca563a58222bc86c540f71483e5643e12",
@@ -234,22 +267,89 @@
           "url": "https://x.com/op7418/status/2112022611228230108",
           "published_at": "2026-10-19T03:26:44Z",
           "summary": "我们在这一期《Next Token》播客里的一些核心认知： 橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃 所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式 多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升 我还分享了一下我是如何不开电脑做自媒体的，包括发图文、剪视频等等。 这期昨天已经更新了，欢迎收听！ 早上一起床已经有 4000 多个播放…"
+        },
+        {
+          "id": "10f883c87a3b57d64971f29aff9977e36a295805",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "Lovart 2.0 保姆级攻略，个人设计Agent Arti太棒了！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498685&idx=1&sn=b9f2c385e4d6c44b356d837d6367f2d4",
+          "published_at": "2026-10-19T02:30:00Z",
+          "summary": "个人设计Agent Arti来了。"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "508f305ac7139dd961e4e95850726574167d8ad9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Our team built a playable 3D Wizard Chess game from scratch with Gemini 4 Argon using Google Antigra...",
+          "url": "https://x.com/GeminiApp/status/2112214581443498261",
+          "published_at": "2026-10-19T16:09:33Z",
+          "summary": "Our team built a playable 3D Wizard Chess game from scratch with Gemini 4 Argon using Google Antigravity in the Gemini app for Mac. Coordinate a multi-agent Blender workflow to model, design, and deliver fluid, real-time animations so you go straight from idea to play.💬54🔄37❤️438…"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "508f305ac7139dd961e4e95850726574167d8ad9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Our team built a playable 3D Wizard Chess game from scratch with Gemini 4 Argon using Google Antigra...",
+      "url": "https://x.com/GeminiApp/status/2112214581443498261",
+      "published_at": "2026-10-19T16:09:33Z",
+      "summary": "Our team built a playable 3D Wizard Chess game from scratch with Gemini 4 Argon using Google Antigravity in the Gemini app for Mac. Coordinate a multi-agent Blender workflow to model, design, and deliver fluid, real-time animations so you go straight from idea to play.💬54🔄37❤️438…"
+    },
+    {
+      "id": "9dbbbdfde6655bd8235e5146f047fe724b2bbdf4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "神奇 难道关注我了吗？他自己把视频删了",
+      "url": "https://x.com/op7418/status/2112162558685942048",
+      "published_at": "2026-10-19T12:42:50Z",
+      "summary": "神奇 难道关注我了吗？他自己把视频删了💬3🔄0❤️5👀2174📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "7924fa34d13bdd63fd32b970034b48067c042cc4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "抖音对于搬运的内容真是非常的纵容啊！\n\n尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来",
+      "url": "https://x.com/op7418/status/2112155703309926729",
+      "published_at": "2026-10-19T12:15:36Z",
+      "summary": "抖音对于搬运的内容真是非常的纵容啊！ 尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来Higgsfield AI 🧩@higgsfield_aiDeepSeek V4.1 Flash looks like the new SOTA for motion design. Look at the 3D detail and UI transitions. Made with Higgsfiled.Your browser does not support the video tag.🔗 View on Twitter…"
+    },
+    {
+      "id": "d0ec5db9e3a9a8ccd3c1f3857f6db8b7bf65bdda",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测Lovart 2.0，AI设计终于可以打破千篇一律的模板化死板了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512399&idx=1&sn=8aad2f1c9fe7cf02a3f61fbfef1bd644",
+      "published_at": "2026-10-19T10:26:00Z",
+      "summary": "Personal Agent在设计这一块迎来了史诗级加强"
+    },
     {
       "id": "ac6f020ec33994df0a2bd4b54824b83ce7d7b2ee",
       "site_id": "featuredrss",
@@ -270,7 +370,7 @@
       "title": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude Code",
       "url": "https://x.com/op7418/status/2112114363624800300",
       "published_at": "2026-10-19T09:31:20Z",
-      "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬5🔄0❤️14👀4254📊5⚡ Powered by xgo.ing"
+      "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬64🔄11❤️236👀59404📊71⚡ Powered by xgo.ing"
     },
     {
       "id": "f0375e4380eed302150cf420b0074a14dcb2615b",
@@ -281,7 +381,7 @@
       "title": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
       "url": "https://x.com/op7418/status/2112022770771202436",
       "published_at": "2026-10-19T03:27:22Z",
-      "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬1🔄0❤️0👀2258📊1⚡ Powered by xgo.ing"
+      "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬1🔄0❤️1👀2748📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "c30ebbdca563a58222bc86c540f71483e5643e12",
@@ -293,6 +393,17 @@
       "url": "https://x.com/op7418/status/2112022611228230108",
       "published_at": "2026-10-19T03:26:44Z",
       "summary": "我们在这一期《Next Token》播客里的一些核心认知： 橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃 所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式 多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升 我还分享了一下我是如何不开电脑做自媒体的，包括发图文、剪视频等等。 这期昨天已经更新了，欢迎收听！ 早上一起床已经有 4000 多个播放…"
+    },
+    {
+      "id": "10f883c87a3b57d64971f29aff9977e36a295805",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "Lovart 2.0 保姆级攻略，个人设计Agent Arti太棒了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498685&idx=1&sn=b9f2c385e4d6c44b356d837d6367f2d4",
+      "published_at": "2026-10-19T02:30:00Z",
+      "summary": "个人设计Agent Arti来了。"
     }
   ]
 }
