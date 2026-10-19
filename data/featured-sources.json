@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T00:19:13.321362Z",
+  "generated_at": "2026-10-19T05:01:26.269083Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 0,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 165,
+      "duration_ms": 167,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 123,
+      "duration_ms": 75,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1056,
+      "duration_ms": 894,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1053,
+      "duration_ms": 1157,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 908,
+      "duration_ms": 811,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 862,
+      "duration_ms": 630,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 106,
+      "duration_ms": 40,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2533,
+      "duration_ms": 2356,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 589,
+      "duration_ms": 674,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,36 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 0,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "f0375e4380eed302150cf420b0074a14dcb2615b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
+          "url": "https://x.com/op7418/status/2112022770771202436",
+          "published_at": "2026-10-19T03:27:22Z",
+          "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬0🔄0❤️0👀754⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c30ebbdca563a58222bc86c540f71483e5643e12",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我们在这一期《Next Token》播客里的一些核心认知：\n\n橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃\n...",
+          "url": "https://x.com/op7418/status/2112022611228230108",
+          "published_at": "2026-10-19T03:26:44Z",
+          "summary": "我们在这一期《Next Token》播客里的一些核心认知： 橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃 所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式 多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升 我还分享了一下我是如何不开电脑做自媒体的，包括发图文、剪视频等等。 这期昨天已经更新了，欢迎收听！ 早上一起床已经有 4000 多个播放…"
+        }
+      ]
     },
     "global": {
       "label": "国外精选",
@@ -204,5 +227,28 @@
       "items": []
     }
   },
-  "items": []
+  "items": [
+    {
+      "id": "f0375e4380eed302150cf420b0074a14dcb2615b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
+      "url": "https://x.com/op7418/status/2112022770771202436",
+      "published_at": "2026-10-19T03:27:22Z",
+      "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬0🔄0❤️0👀754⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "c30ebbdca563a58222bc86c540f71483e5643e12",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我们在这一期《Next Token》播客里的一些核心认知：\n\n橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃\n...",
+      "url": "https://x.com/op7418/status/2112022611228230108",
+      "published_at": "2026-10-19T03:26:44Z",
+      "summary": "我们在这一期《Next Token》播客里的一些核心认知： 橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃 所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式 多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升 我还分享了一下我是如何不开电脑做自媒体的，包括发图文、剪视频等等。 这期昨天已经更新了，欢迎收听！ 早上一起床已经有 4000 多个播放…"
+    }
+  ]
 }
