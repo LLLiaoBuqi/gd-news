@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T00:51:48.504644Z",
+  "generated_at": "2026-10-20T05:36:17.126639Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 7,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 332,
+      "duration_ms": 249,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 94,
+      "duration_ms": 103,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1399,
+      "duration_ms": 2869,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3141,
+      "duration_ms": 2973,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 865,
+      "duration_ms": 2634,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1509,
+      "duration_ms": 719,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1512,
+      "duration_ms": 779,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 74,
+      "duration_ms": 31,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2609,
+      "duration_ms": 4701,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 884,
+      "duration_ms": 1105,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -245,39 +245,6 @@
           "url": "https://x.com/op7418/status/2112114363624800300",
           "published_at": "2026-10-19T09:31:20Z",
           "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬68🔄11❤️261👀67614📊77⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f0375e4380eed302150cf420b0074a14dcb2615b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
-          "url": "https://x.com/op7418/status/2112022770771202436",
-          "published_at": "2026-10-19T03:27:22Z",
-          "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬1🔄0❤️1👀2871📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c30ebbdca563a58222bc86c540f71483e5643e12",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我们在这一期《Next Token》播客里的一些核心认知：\n\n橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃\n...",
-          "url": "https://x.com/op7418/status/2112022611228230108",
-          "published_at": "2026-10-19T03:26:44Z",
-          "summary": "我们在这一期《Next Token》播客里的一些核心认知： 橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃 所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式 多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升 我还分享了一下我是如何不开电脑做自媒体的，包括发图文、剪视频等等。 这期昨天已经更新了，欢迎收听！ 早上一起床已经有 4000 多个播放…"
-        },
-        {
-          "id": "10f883c87a3b57d64971f29aff9977e36a295805",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "Lovart 2.0 保姆级攻略，个人设计Agent Arti太棒了！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498685&idx=1&sn=b9f2c385e4d6c44b356d837d6367f2d4",
-          "published_at": "2026-10-19T02:30:00Z",
-          "summary": "个人设计Agent Arti来了。"
         }
       ]
     },
@@ -393,39 +360,6 @@
       "url": "https://x.com/op7418/status/2112114363624800300",
       "published_at": "2026-10-19T09:31:20Z",
       "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬68🔄11❤️261👀67614📊77⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f0375e4380eed302150cf420b0074a14dcb2615b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
-      "url": "https://x.com/op7418/status/2112022770771202436",
-      "published_at": "2026-10-19T03:27:22Z",
-      "summary": "小宇宙：xiaoyuzhoufm.com/episode/6ad50a… B 站视频版：bilibili.com/video/BV1g8nj6…💬1🔄0❤️1👀2871📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c30ebbdca563a58222bc86c540f71483e5643e12",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我们在这一期《Next Token》播客里的一些核心认知：\n\n橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃\n...",
-      "url": "https://x.com/op7418/status/2112022611228230108",
-      "published_at": "2026-10-19T03:26:44Z",
-      "summary": "我们在这一期《Next Token》播客里的一些核心认知： 橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃 所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式 多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升 我还分享了一下我是如何不开电脑做自媒体的，包括发图文、剪视频等等。 这期昨天已经更新了，欢迎收听！ 早上一起床已经有 4000 多个播放…"
-    },
-    {
-      "id": "10f883c87a3b57d64971f29aff9977e36a295805",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "Lovart 2.0 保姆级攻略，个人设计Agent Arti太棒了！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498685&idx=1&sn=b9f2c385e4d6c44b356d837d6367f2d4",
-      "published_at": "2026-10-19T02:30:00Z",
-      "summary": "个人设计Agent Arti来了。"
     }
   ]
 }
