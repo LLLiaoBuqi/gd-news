@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T05:36:17.126639Z",
+  "generated_at": "2026-10-20T10:46:39.880945Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 249,
+      "duration_ms": 217,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 183,
-      "duration_ms": 103,
+      "duration_ms": 150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2869,
+      "duration_ms": 3074,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2973,
+      "duration_ms": 2972,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2634,
+      "duration_ms": 2856,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 719,
+      "duration_ms": 756,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 779,
+      "duration_ms": 570,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 34,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4701,
+      "duration_ms": 4588,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1105,
+      "duration_ms": 1033,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "a4c31773452d397203a02fdb96c3b59b0ee90475",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "有人做了35万个AI，只为了反过来骗骗子。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+          "published_at": "2026-10-20T00:26:00Z",
+          "summary": "善良的人不应该被骗"
+        },
         {
           "id": "9dbbbdfde6655bd8235e5146f047fe724b2bbdf4",
           "site_id": "featuredrss",
@@ -212,39 +223,6 @@
           "url": "https://x.com/op7418/status/2112155703309926729",
           "published_at": "2026-10-19T12:15:36Z",
           "summary": "抖音对于搬运的内容真是非常的纵容啊！ 尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来Higgsfield AI 🧩@higgsfield_aiDeepSeek V4.1 Flash looks like the new SOTA for motion design. Look at the 3D detail and UI transitions. Made with Higgsfiled.Your browser does not support the video tag.🔗 View on Twitter…"
-        },
-        {
-          "id": "d0ec5db9e3a9a8ccd3c1f3857f6db8b7bf65bdda",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测Lovart 2.0，AI设计终于可以打破千篇一律的模板化死板了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512399&idx=1&sn=8aad2f1c9fe7cf02a3f61fbfef1bd644",
-          "published_at": "2026-10-19T10:26:00Z",
-          "summary": "Personal Agent在设计这一块迎来了史诗级加强"
-        },
-        {
-          "id": "ac6f020ec33994df0a2bd4b54824b83ce7d7b2ee",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。\n\n其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 A...",
-          "url": "https://x.com/op7418/status/2112125082562929018",
-          "published_at": "2026-10-19T10:13:55Z",
-          "summary": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。 其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 Apple 生态的人的体感接近。感兴趣可以看看SwiftSIQI@SwiftSIQI过去一个月，我们围绕 Xcode 和 Apple 生态做了一次 AI 方向的调研。今天，分析报告正式公开！🎉 本次发布的是基于 100 位 Apple 生态领域专家反馈的专家组报告，大众组的数据仍在收集中。 希望这份报告能为大家提供有价值的参考，也欢迎交流讨论！ 📊 完整报告re…"
-        },
-        {
-          "id": "d165180a6c43d7419a4745f4d227f3ac70988c1f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude Code",
-          "url": "https://x.com/op7418/status/2112114363624800300",
-          "published_at": "2026-10-19T09:31:20Z",
-          "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬68🔄11❤️261👀67614📊77⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -284,6 +262,17 @@
     }
   },
   "items": [
+    {
+      "id": "a4c31773452d397203a02fdb96c3b59b0ee90475",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "有人做了35万个AI，只为了反过来骗骗子。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+      "published_at": "2026-10-20T00:26:00Z",
+      "summary": "善良的人不应该被骗"
+    },
     {
       "id": "2ed8e775f27e96c9e3fe415150367117fd9c3c9a",
       "site_id": "featuredrss",
@@ -327,39 +316,6 @@
       "url": "https://x.com/op7418/status/2112155703309926729",
       "published_at": "2026-10-19T12:15:36Z",
       "summary": "抖音对于搬运的内容真是非常的纵容啊！ 尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来Higgsfield AI 🧩@higgsfield_aiDeepSeek V4.1 Flash looks like the new SOTA for motion design. Look at the 3D detail and UI transitions. Made with Higgsfiled.Your browser does not support the video tag.🔗 View on Twitter…"
-    },
-    {
-      "id": "d0ec5db9e3a9a8ccd3c1f3857f6db8b7bf65bdda",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测Lovart 2.0，AI设计终于可以打破千篇一律的模板化死板了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512399&idx=1&sn=8aad2f1c9fe7cf02a3f61fbfef1bd644",
-      "published_at": "2026-10-19T10:26:00Z",
-      "summary": "Personal Agent在设计这一块迎来了史诗级加强"
-    },
-    {
-      "id": "ac6f020ec33994df0a2bd4b54824b83ce7d7b2ee",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。\n\n其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 A...",
-      "url": "https://x.com/op7418/status/2112125082562929018",
-      "published_at": "2026-10-19T10:13:55Z",
-      "summary": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。 其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 Apple 生态的人的体感接近。感兴趣可以看看SwiftSIQI@SwiftSIQI过去一个月，我们围绕 Xcode 和 Apple 生态做了一次 AI 方向的调研。今天，分析报告正式公开！🎉 本次发布的是基于 100 位 Apple 生态领域专家反馈的专家组报告，大众组的数据仍在收集中。 希望这份报告能为大家提供有价值的参考，也欢迎交流讨论！ 📊 完整报告re…"
-    },
-    {
-      "id": "d165180a6c43d7419a4745f4d227f3ac70988c1f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude Code",
-      "url": "https://x.com/op7418/status/2112114363624800300",
-      "published_at": "2026-10-19T09:31:20Z",
-      "summary": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude CodeDHH@dhh@buaaxhm No, I route all my Claude Code use over my tailscale network 😄🔗 View Quoted Tweet💬68🔄11❤️261👀67614📊77⚡ Powered by xgo.ing"
     }
   ]
 }
