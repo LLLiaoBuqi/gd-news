@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:46:39.880945Z",
+  "generated_at": "2026-10-20T15:30:51.777541Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 5,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 217,
+      "duration_ms": 585,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 183,
-      "duration_ms": 150,
+      "item_count": 184,
+      "duration_ms": 83,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3074,
+      "duration_ms": 2565,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2972,
+      "duration_ms": 2701,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2856,
+      "duration_ms": 2620,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 756,
+      "duration_ms": 479,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 570,
+      "duration_ms": 645,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 86,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4588,
+      "duration_ms": 4352,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1033,
+      "duration_ms": 850,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "0b80948bb106bb4c4343f62085c82375d8f449a6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "开源「提示语管理.skill」，就为快速选出最适合你的Prompt（附25个深度思考提示语）",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512425&idx=1&sn=7e0e605336d602aa5149ea92689de203",
+          "published_at": "2026-10-20T03:24:00Z",
+          "summary": "思考是件快乐的事"
+        },
         {
           "id": "a4c31773452d397203a02fdb96c3b59b0ee90475",
           "site_id": "featuredrss",
@@ -201,34 +212,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
           "published_at": "2026-10-20T00:26:00Z",
           "summary": "善良的人不应该被骗"
-        },
-        {
-          "id": "9dbbbdfde6655bd8235e5146f047fe724b2bbdf4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "神奇 难道关注我了吗？他自己把视频删了",
-          "url": "https://x.com/op7418/status/2112162558685942048",
-          "published_at": "2026-10-19T12:42:50Z",
-          "summary": "神奇 难道关注我了吗？他自己把视频删了💬3🔄0❤️5👀2531📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7924fa34d13bdd63fd32b970034b48067c042cc4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "抖音对于搬运的内容真是非常的纵容啊！\n\n尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来",
-          "url": "https://x.com/op7418/status/2112155703309926729",
-          "published_at": "2026-10-19T12:15:36Z",
-          "summary": "抖音对于搬运的内容真是非常的纵容啊！ 尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来Higgsfield AI 🧩@higgsfield_aiDeepSeek V4.1 Flash looks like the new SOTA for motion design. Look at the 3D detail and UI transitions. Made with Higgsfiled.Your browser does not support the video tag.🔗 View on Twitter…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 2,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -236,6 +225,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "b65a7cdfa3acadb294f0aa0a7f783a495182838e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "How Claude designed protein binders against scorpion neurotoxins",
+          "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+          "published_at": "2026-10-20T00:00:00Z",
+          "summary": "How Claude designed protein binders against scorpion neurotoxins"
+        },
         {
           "id": "2ed8e775f27e96c9e3fe415150367117fd9c3c9a",
           "site_id": "featuredrss",
@@ -263,6 +263,17 @@
   },
   "items": [
     {
+      "id": "0b80948bb106bb4c4343f62085c82375d8f449a6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "开源「提示语管理.skill」，就为快速选出最适合你的Prompt（附25个深度思考提示语）",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512425&idx=1&sn=7e0e605336d602aa5149ea92689de203",
+      "published_at": "2026-10-20T03:24:00Z",
+      "summary": "思考是件快乐的事"
+    },
+    {
       "id": "a4c31773452d397203a02fdb96c3b59b0ee90475",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -272,6 +283,17 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
       "published_at": "2026-10-20T00:26:00Z",
       "summary": "善良的人不应该被骗"
+    },
+    {
+      "id": "b65a7cdfa3acadb294f0aa0a7f783a495182838e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "How Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "published_at": "2026-10-20T00:00:00Z",
+      "summary": "How Claude designed protein binders against scorpion neurotoxins"
     },
     {
       "id": "2ed8e775f27e96c9e3fe415150367117fd9c3c9a",
@@ -294,28 +316,6 @@
       "url": "https://x.com/GeminiApp/status/2112214581443498261",
       "published_at": "2026-10-19T16:09:33Z",
       "summary": "Our team built a playable 3D Wizard Chess game from scratch with Gemini 4 Argon using Google Antigravity in the Gemini app for Mac. Coordinate a multi-agent Blender workflow to model, design, and deliver fluid, real-time animations so you go straight from idea to play.💬104🔄82❤️10…"
-    },
-    {
-      "id": "9dbbbdfde6655bd8235e5146f047fe724b2bbdf4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "神奇 难道关注我了吗？他自己把视频删了",
-      "url": "https://x.com/op7418/status/2112162558685942048",
-      "published_at": "2026-10-19T12:42:50Z",
-      "summary": "神奇 难道关注我了吗？他自己把视频删了💬3🔄0❤️5👀2531📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7924fa34d13bdd63fd32b970034b48067c042cc4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "抖音对于搬运的内容真是非常的纵容啊！\n\n尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来",
-      "url": "https://x.com/op7418/status/2112155703309926729",
-      "published_at": "2026-10-19T12:15:36Z",
-      "summary": "抖音对于搬运的内容真是非常的纵容啊！ 尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来Higgsfield AI 🧩@higgsfield_aiDeepSeek V4.1 Flash looks like the new SOTA for motion design. Look at the 3D detail and UI transitions. Made with Higgsfiled.Your browser does not support the video tag.🔗 View on Twitter…"
     }
   ]
 }
