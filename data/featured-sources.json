@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T07:09:44.786870Z",
+  "generated_at": "2026-10-27T13:26:55.587818Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 242,
+      "duration_ms": 240,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 189,
-      "duration_ms": 105,
+      "duration_ms": 96,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3117,
+      "duration_ms": 2741,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3125,
+      "duration_ms": 2846,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2898,
+      "duration_ms": 2621,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 662,
+      "duration_ms": 889,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 806,
+      "duration_ms": 1138,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 38,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4667,
+      "duration_ms": 4501,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1257,
+      "duration_ms": 912,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,15 +192,26 @@
       ],
       "items": [
         {
-          "id": "f58e9b8128ae849698f59cedf51f1c3de48da537",
+          "id": "0e8163f36e4c4b9ef3fd74ae3f70d0774681f16c",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "阿真Irene",
+          "source": "卡尔的AI沃茨",
           "region": "domestic",
-          "title": "实测豆包工作无限画布，这下真的一小时干完一周工作量了。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498729&idx=1&sn=9b923ab9a6b8cb1c4d76cf0e65709ec1",
-          "published_at": "2026-10-26T07:28:00Z",
-          "summary": "分层PSD加超长长图，做设计不烧心！"
+          "title": "把15个国民级App接入灵光后，我造出了最舒适的国产Personal Agent",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512531&idx=1&sn=6ff3d9cb37bc415737783af8928b92fe",
+          "published_at": "2026-10-27T06:14:00Z",
+          "summary": "未来已来"
+        },
+        {
+          "id": "042ca4949aeb4b22c8e5dd483c48e1bb43f85499",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "Anthropic要IPO了，帮大家总结了一下招股书里11个有趣的细节。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "published_at": "2026-10-27T00:05:00Z",
+          "summary": "昨天晚上，Anthropic终于公开了他们的IPO申请，把他们的招股书挂上了美国证监会的网站。"
         }
       ]
     },
@@ -252,6 +263,28 @@
   },
   "items": [
     {
+      "id": "0e8163f36e4c4b9ef3fd74ae3f70d0774681f16c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "把15个国民级App接入灵光后，我造出了最舒适的国产Personal Agent",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512531&idx=1&sn=6ff3d9cb37bc415737783af8928b92fe",
+      "published_at": "2026-10-27T06:14:00Z",
+      "summary": "未来已来"
+    },
+    {
+      "id": "042ca4949aeb4b22c8e5dd483c48e1bb43f85499",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "Anthropic要IPO了，帮大家总结了一下招股书里11个有趣的细节。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+      "published_at": "2026-10-27T00:05:00Z",
+      "summary": "昨天晚上，Anthropic终于公开了他们的IPO申请，把他们的招股书挂上了美国证监会的网站。"
+    },
+    {
       "id": "934574d0edf4f810b45437106aa54f4cc260ef90",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -283,17 +316,6 @@
       "url": "https://x.com/OpenAI/status/2114780715086754261",
       "published_at": "2026-10-26T18:06:27Z",
       "summary": "GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families. It’s a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices. In ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terra than with GPT‑5.6 Terra—…"
-    },
-    {
-      "id": "f58e9b8128ae849698f59cedf51f1c3de48da537",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "实测豆包工作无限画布，这下真的一小时干完一周工作量了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498729&idx=1&sn=9b923ab9a6b8cb1c4d76cf0e65709ec1",
-      "published_at": "2026-10-26T07:28:00Z",
-      "summary": "分层PSD加超长长图，做设计不烧心！"
     }
   ]
 }
