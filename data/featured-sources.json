@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T01:52:11.499720Z",
+  "generated_at": "2026-10-27T07:09:44.786870Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 249,
+      "duration_ms": 242,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 189,
-      "duration_ms": 96,
+      "duration_ms": 105,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2849,
+      "duration_ms": 3117,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2950,
+      "duration_ms": 3125,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2579,
+      "duration_ms": 2898,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 670,
+      "duration_ms": 662,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 502,
+      "duration_ms": 806,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4539,
+      "duration_ms": 4667,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1127,
+      "duration_ms": 1257,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -201,17 +201,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498729&idx=1&sn=9b923ab9a6b8cb1c4d76cf0e65709ec1",
           "published_at": "2026-10-26T07:28:00Z",
           "summary": "分层PSD加超长长图，做设计不烧心！"
-        },
-        {
-          "id": "1c0145a8d81138bd4fc3d1f79a4dc90221fcc347",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "分享6个新提示语去掉DeepSeek新模型的AI味",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512456&idx=1&sn=f133a530ea894a1d9725eb0582b4d632",
-          "published_at": "2026-10-26T05:55:00Z",
-          "summary": "卡尔的AI沃茨 2026-10-26 13:55 吉林 最近在琢磨怎么用DeepSeek做出类Claude Opus 5.5的代码动画。这类动画可以理解成让模型用代码规定好画面里的字和图形怎么动，再由程序按这些规则一帧帧生成。跟做网页UI共用不少能力，排版、配色、留白都用得上。 1. 删重复文案 Deepseek喜欢把页面写成说明书，中文大标题上还要顶一行没啥信息的英文小字。 提示语1️⃣ 审查当前画面里的全部文字。删掉没有实际信息的口号，标题上方纯装饰的英文小字，以及把标题意思又复述一遍的解释。同一件事只说一次，优先靠位置远近，分组和间距表达关系。做视…"
         }
       ]
     },
@@ -305,17 +294,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498729&idx=1&sn=9b923ab9a6b8cb1c4d76cf0e65709ec1",
       "published_at": "2026-10-26T07:28:00Z",
       "summary": "分层PSD加超长长图，做设计不烧心！"
-    },
-    {
-      "id": "1c0145a8d81138bd4fc3d1f79a4dc90221fcc347",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "分享6个新提示语去掉DeepSeek新模型的AI味",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512456&idx=1&sn=f133a530ea894a1d9725eb0582b4d632",
-      "published_at": "2026-10-26T05:55:00Z",
-      "summary": "卡尔的AI沃茨 2026-10-26 13:55 吉林 最近在琢磨怎么用DeepSeek做出类Claude Opus 5.5的代码动画。这类动画可以理解成让模型用代码规定好画面里的字和图形怎么动，再由程序按这些规则一帧帧生成。跟做网页UI共用不少能力，排版、配色、留白都用得上。 1. 删重复文案 Deepseek喜欢把页面写成说明书，中文大标题上还要顶一行没啥信息的英文小字。 提示语1️⃣ 审查当前画面里的全部文字。删掉没有实际信息的口号，标题上方纯装饰的英文小字，以及把标题意思又复述一遍的解释。同一件事只说一次，优先靠位置远近，分组和间距表达关系。做视…"
     }
   ]
 }
