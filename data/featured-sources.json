@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T13:26:55.587818Z",
+  "generated_at": "2026-10-27T18:50:13.891642Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 240,
+      "duration_ms": 215,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 189,
-      "duration_ms": 96,
+      "duration_ms": 108,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2741,
+      "duration_ms": 2798,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2846,
+      "duration_ms": 2896,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2621,
+      "duration_ms": 2699,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 889,
+      "duration_ms": 368,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1138,
+      "duration_ms": 1016,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 26,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4501,
+      "duration_ms": 4494,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 912,
+      "duration_ms": 802,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -217,48 +217,14 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "934574d0edf4f810b45437106aa54f4cc260ef90",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in Cha...",
-          "url": "https://x.com/OpenAI/status/2114780720170164735",
-          "published_at": "2026-10-26T18:06:29Z",
-          "summary": "GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. Developers can also access it through the OpenAI API as gpt-6.1-terra. openai.com/index/introduc…💬3🔄6❤️112👀8457📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "289ce072f7794b4e79d1611f6e41c0d00314e7e9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands...",
-          "url": "https://x.com/OpenAI/status/2114780711664398349",
-          "published_at": "2026-10-26T18:06:27Z",
-          "summary": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.Your browser does not sup…"
-        },
-        {
-          "id": "163d8efa71969cd5f8f1fcc3f1eb581ed879a125",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families.\n\nIt’s a...",
-          "url": "https://x.com/OpenAI/status/2114780715086754261",
-          "published_at": "2026-10-26T18:06:27Z",
-          "summary": "GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families. It’s a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices. In ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terra than with GPT‑5.6 Terra—…"
-        }
-      ]
+      "items": []
     }
   },
   "items": [
@@ -283,39 +249,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
       "published_at": "2026-10-27T00:05:00Z",
       "summary": "昨天晚上，Anthropic终于公开了他们的IPO申请，把他们的招股书挂上了美国证监会的网站。"
-    },
-    {
-      "id": "934574d0edf4f810b45437106aa54f4cc260ef90",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in Cha...",
-      "url": "https://x.com/OpenAI/status/2114780720170164735",
-      "published_at": "2026-10-26T18:06:29Z",
-      "summary": "GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. Developers can also access it through the OpenAI API as gpt-6.1-terra. openai.com/index/introduc…💬3🔄6❤️112👀8457📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "289ce072f7794b4e79d1611f6e41c0d00314e7e9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands...",
-      "url": "https://x.com/OpenAI/status/2114780711664398349",
-      "published_at": "2026-10-26T18:06:27Z",
-      "summary": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.Your browser does not sup…"
-    },
-    {
-      "id": "163d8efa71969cd5f8f1fcc3f1eb581ed879a125",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families.\n\nIt’s a...",
-      "url": "https://x.com/OpenAI/status/2114780715086754261",
-      "published_at": "2026-10-26T18:06:27Z",
-      "summary": "GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families. It’s a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices. In ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terra than with GPT‑5.6 Terra—…"
     }
   ]
 }
