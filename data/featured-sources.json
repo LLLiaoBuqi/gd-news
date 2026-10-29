@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-29T06:07:36.418593Z",
+  "generated_at": "2026-10-29T13:27:34.447137Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 669,
+      "duration_ms": 194,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 191,
-      "duration_ms": 135,
+      "duration_ms": 100,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2751,
+      "duration_ms": 2918,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2818,
+      "duration_ms": 2834,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2666,
+      "duration_ms": 2700,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 521,
+      "duration_ms": 550,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 633,
+      "duration_ms": 967,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 84,
+      "duration_ms": 60,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4407,
+      "duration_ms": 4439,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 988,
+      "duration_ms": 880,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -192,15 +192,26 @@
       ],
       "items": [
         {
-          "id": "3d2220ea2e6a9beb7a2bed2863e35a8499f37693",
+          "id": "d285d31506d47297aaf7029f10c585179a2b98e8",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "Buddy One正式上线，腾讯要用WorkBuddy打通自己的全家桶了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687932&idx=1&sn=771f8b464f04c1f297e5624a600c7933",
+          "published_at": "2026-10-29T03:30:00Z",
+          "summary": "打通微信的Agent你怕不怕"
+        },
+        {
+          "id": "de3f8fbda458c859e8750755461937b6b91fc4b1",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
           "source": "卡尔的AI沃茨",
           "region": "domestic",
-          "title": "豆包工作悄悄上线录制回放，就算Tibo不给重置我也能爽玩电脑自动化了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512627&idx=1&sn=d39c9a21e22bf0c595347749ce8f719c",
-          "published_at": "2026-10-28T11:45:00Z",
-          "summary": "豆姐儿你又一次进化到我不认识了"
+          "title": "LibTV悄悄开源破亿AI短片画布，我决定公开拆解这些1人剧组工作流",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512710&idx=1&sn=c4344cc80b4bc1bde687e9959f94767c",
+          "published_at": "2026-10-29T03:06:00Z",
+          "summary": "0积分无限用一个月！用着不烧心"
         }
       ]
     },
@@ -218,15 +229,26 @@
   },
   "items": [
     {
-      "id": "3d2220ea2e6a9beb7a2bed2863e35a8499f37693",
+      "id": "d285d31506d47297aaf7029f10c585179a2b98e8",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "Buddy One正式上线，腾讯要用WorkBuddy打通自己的全家桶了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687932&idx=1&sn=771f8b464f04c1f297e5624a600c7933",
+      "published_at": "2026-10-29T03:30:00Z",
+      "summary": "打通微信的Agent你怕不怕"
+    },
+    {
+      "id": "de3f8fbda458c859e8750755461937b6b91fc4b1",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
       "source": "卡尔的AI沃茨",
       "region": "domestic",
-      "title": "豆包工作悄悄上线录制回放，就算Tibo不给重置我也能爽玩电脑自动化了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512627&idx=1&sn=d39c9a21e22bf0c595347749ce8f719c",
-      "published_at": "2026-10-28T11:45:00Z",
-      "summary": "豆姐儿你又一次进化到我不认识了"
+      "title": "LibTV悄悄开源破亿AI短片画布，我决定公开拆解这些1人剧组工作流",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512710&idx=1&sn=c4344cc80b4bc1bde687e9959f94767c",
+      "published_at": "2026-10-29T03:06:00Z",
+      "summary": "0积分无限用一个月！用着不烧心"
     }
   ]
 }
