@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T00:56:06.461087Z",
+  "generated_at": "2026-11-02T07:08:21.151459Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 0,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 226,
+      "duration_ms": 339,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 191,
-      "duration_ms": 125,
+      "duration_ms": 137,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2992,
+      "duration_ms": 2680,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2871,
+      "duration_ms": 2900,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2766,
+      "duration_ms": 2592,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 558,
+      "duration_ms": 471,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 759,
+      "duration_ms": 603,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 34,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4726,
+      "duration_ms": 4455,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1450,
+      "duration_ms": 922,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,25 +184,13 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": [
-        {
-          "id": "136801a0ce08a0a2beb16f721fac0714ad4d6d25",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498796&idx=1&sn=f68184bc9973cb6c14fc1605ebacc038",
-          "published_at": "2026-11-01T04:05:00Z",
-          "summary": "即梦短剧工作室已就位，把剧组搬进画布了。"
-        }
-      ]
+      "items": []
     },
     "global": {
       "label": "国外精选",
@@ -216,17 +204,5 @@
       "items": []
     }
   },
-  "items": [
-    {
-      "id": "136801a0ce08a0a2beb16f721fac0714ad4d6d25",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "即梦短剧工作室保姆级教程分享，双十一每秒低至0.16元值得入手！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498796&idx=1&sn=f68184bc9973cb6c14fc1605ebacc038",
-      "published_at": "2026-11-01T04:05:00Z",
-      "summary": "即梦短剧工作室已就位，把剧组搬进画布了。"
-    }
-  ]
+  "items": []
 }
