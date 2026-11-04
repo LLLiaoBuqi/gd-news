@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T07:08:08.109153Z",
+  "generated_at": "2026-11-04T15:37:13.722590Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 166,
+      "duration_ms": 366,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 192,
-      "duration_ms": 98,
+      "duration_ms": 106,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1028,
+      "duration_ms": 567,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1308,
+      "duration_ms": 1011,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1157,
+      "duration_ms": 911,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 549,
+      "duration_ms": 451,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1458,
+      "duration_ms": 876,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 18,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2555,
+      "duration_ms": 2493,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1053,
+      "duration_ms": 1437,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,68 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 11,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "4caf675a3ca4d904f130acf069500fa68db7403b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "跑了一个我感觉还行",
+          "url": "https://x.com/op7418/status/2117952238199214414",
+          "published_at": "2026-11-04T12:08:57Z",
+          "summary": "跑了一个我感觉还行Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵🔗 View Quoted Tweet💬9🔄0❤️26👀8524📊9⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "bf72c2ab0c112cd98378ffc058cb743683fb3eff",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "最近 Muse 那个视频模型非常火\n\n在一些真实场景下的表现非常得离谱。\n\n可能主要是第一次大家能够免费用到这种级别的视频模型\n\n现有的这个等级的模型还是贵",
+          "url": "https://x.com/op7418/status/2117940844217221604",
+          "published_at": "2026-11-04T11:23:41Z",
+          "summary": "最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵💬47🔄0❤️46👀20314📊44⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "c6c4bafc24d46a028130aaf8f260aa00d3aa5e1f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "直接基于我的这个提示词库做了个页面。\nhttps://t.co/E2wlqxNXVv",
+          "url": "https://x.com/op7418/status/2117926719864951031",
+          "published_at": "2026-11-04T10:27:33Z",
+          "summary": "直接基于我的这个提示词库做了个页面。 op7418.github.io/guizang-s-prom…💬3🔄0❤️4👀2137📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "48a7753638a1854e3d7fb807edb1babed3b92625",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！\n\n刚才让他一句话给我建了个我自己的图片和视频模型提示词库。",
+          "url": "https://x.com/op7418/status/2117924167991652384",
+          "published_at": "2026-11-04T10:17:25Z",
+          "summary": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。💬36🔄0❤️22👀5370📊33⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a6a2150133b62aca855d2a10f479184bf773e375",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt",
+          "url": "https://x.com/op7418/status/2117916922843197879",
+          "published_at": "2026-11-04T09:48:38Z",
+          "summary": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt💬1🔄0❤️1👀2051📊1⚡ Powered by xgo.ing"
+        },
         {
           "id": "931770eca3b6e786685cba30f85bf7e41e33b34a",
           "site_id": "featuredrss",
@@ -211,7 +266,7 @@
           "title": "详情：https://t.co/nsudFuYhZy",
           "url": "https://x.com/op7418/status/2117804598455062900",
           "published_at": "2026-11-04T02:22:17Z",
-          "summary": "详情：developer.apple.com/documentation/…💬1🔄0❤️3👀2348📊2⚡ Powered by xgo.ing"
+          "summary": "详情：developer.apple.com/documentation/…💬2🔄0❤️2👀3208📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "cd6882501e4cb8dcab2022feabf1f120c7e3f2a6",
@@ -223,6 +278,17 @@
           "url": "https://x.com/op7418/status/2117804545829171299",
           "published_at": "2026-11-04T02:22:05Z",
           "summary": "Siri 终于即将能调用第三方的 APP 去完成任务了！ 苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。 你可以自由决定将哪些功能开放给 Siri AI 去控制。 Siri AI 的接入加上之前 iPhone Duo的适配，给很多大厂超级应用提出了难题。 之前豆包在手机上的时候，国内基本上这些超级应用都拒绝了豆包自动操作它们的应用。 现在 Siri AI 也有类似的功能了，到时候可以看看它们的应对，应该会很有意思。 这个能力的大概介绍： 打车之后，让 Siri 帮你改上车地点，或者让 Sir…"
+        },
+        {
+          "id": "bab9c474690ae1e71c64f7ef7c40a6d573844fe9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "分享靠1个Agent控制所有Agent和应用新技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512827&idx=1&sn=565247d44f57bdd052d99150ee125b3c",
+          "published_at": "2026-11-04T01:46:00Z",
+          "summary": "卡尔的AI沃茨 2026-11-04 09:46 浙江 两周前我吐槽Grok Bot控制终端codex绕开沙箱用上gpt独一档的computer use能力失败率奇怪的难题终于被我解决了，不只是浏览器自动化，是能操控本机里其他Agent，能操作剪映做AI剪辑，在第二次操作的过程中还可以完全不消耗额度，非常Amazing。 先说一下结论，目前最佳搭配是， Grok Bot➕vercel开源的agent-desktop 因为openai没有开口子所以现在想要用codex同款computer use有两条技术路线。 1️⃣ amontlabs的LCU（Loca…"
         },
         {
           "id": "dd7f6e2253d83745f66a5fa0b3c8088447605012",
@@ -245,39 +311,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688159&idx=1&sn=ded6c6aed885323cd921c6a3a42e5bcf",
           "published_at": "2026-11-04T00:19:00Z",
           "summary": "Agent的魅力，从自动化开始"
-        },
-        {
-          "id": "c2c2cb7309af8cc13fb9caf9e5bda73d2a0ae4ad",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "提示词：饮品照片 → 等轴测微缩建筑插画\n\n请根据我上传的真实饮品照片，将照片中的咖啡、奶茶或饮料改造成一座可爱的品牌主题微缩建筑，使用粗黑描边的 2D 等轴测扁平矢量插画风格。\n\n最后将原始照片和生...",
-          "url": "https://x.com/op7418/status/2117597942756573504",
-          "published_at": "2026-11-03T12:41:07Z",
-          "summary": "提示词：饮品照片 → 等轴测微缩建筑插画 请根据我上传的真实饮品照片，将照片中的咖啡、奶茶或饮料改造成一座可爱的品牌主题微缩建筑，使用粗黑描边的 2D 等轴测扁平矢量插画风格。 最后将原始照片和生成的插画通过代码拼接，输出一张完整的高清对比图。 用户提供的信息 品牌名称：【选填，留空则从照片自动识别】 饮品名称：【选填，留空则从照片自动识别】 联名信息：【选填，没有则忽略】 其他特色：【选填，例如咖啡豆产地、庄园名称、特殊配料等】 用户默认会上传一张饮品照片。优先识别照片中的品牌 Logo、包装、颜色、杯型、文字和饮品特色。 如果用户提供了明确的信息，以…"
-        },
-        {
-          "id": "aa808b08debe8e1986863875dc4867feafdfe588",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "玩一下 GPT image 2.0 吧！\n\n这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。\n\n比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后...",
-          "url": "https://x.com/op7418/status/2117597892756312271",
-          "published_at": "2026-11-03T12:40:55Z",
-          "summary": "玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。💬47🔄2❤️58👀10139📊51⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "cc6e06702881a0d96b6b5be202025078e2ddf971",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "关于这个歸藏插件的具体使用方法和创作思路。\n\n我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。\n\n是不是很多朋友都不知道我还有 B 站账号？\n\nhttps://t.co/7WKuFz...",
-          "url": "https://x.com/op7418/status/2117535570046157144",
-          "published_at": "2026-11-03T08:33:16Z",
-          "summary": "关于这个歸藏插件的具体使用方法和创作思路。 我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。 是不是很多朋友都不知道我还有 B 站账号？ bilibili.com/video/BV1py4g6…歸藏(guizang.ai)@op7418终于把自己的几个设计 Skill 合并了！ 做成了一个 DSH 的插件 dsh-guizang-design 共用一套设计系统和 Design Token，还加了几个有用的功能🔗 View Quoted Tweet💬19🔄9❤️81👀11914📊31⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -300,7 +333,7 @@
           "title": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to ...",
           "url": "https://x.com/OpenAI/status/2117692483685757188",
           "published_at": "2026-11-03T18:56:47Z",
-          "summary": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next. openai.com/index/accelera…💬10🔄12❤️400👀103738📊72⚡ Powered by xgo.ing"
+          "summary": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next. openai.com/index/accelera…💬15🔄17❤️477👀125322📊87⚡ Powered by xgo.ing"
         },
         {
           "id": "63a7896872e8d46e362fc6e0a0c3500e79ba4e53",
@@ -340,6 +373,61 @@
   },
   "items": [
     {
+      "id": "4caf675a3ca4d904f130acf069500fa68db7403b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "跑了一个我感觉还行",
+      "url": "https://x.com/op7418/status/2117952238199214414",
+      "published_at": "2026-11-04T12:08:57Z",
+      "summary": "跑了一个我感觉还行Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵🔗 View Quoted Tweet💬9🔄0❤️26👀8524📊9⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "bf72c2ab0c112cd98378ffc058cb743683fb3eff",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "最近 Muse 那个视频模型非常火\n\n在一些真实场景下的表现非常得离谱。\n\n可能主要是第一次大家能够免费用到这种级别的视频模型\n\n现有的这个等级的模型还是贵",
+      "url": "https://x.com/op7418/status/2117940844217221604",
+      "published_at": "2026-11-04T11:23:41Z",
+      "summary": "最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵💬47🔄0❤️46👀20314📊44⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "c6c4bafc24d46a028130aaf8f260aa00d3aa5e1f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "直接基于我的这个提示词库做了个页面。\nhttps://t.co/E2wlqxNXVv",
+      "url": "https://x.com/op7418/status/2117926719864951031",
+      "published_at": "2026-11-04T10:27:33Z",
+      "summary": "直接基于我的这个提示词库做了个页面。 op7418.github.io/guizang-s-prom…💬3🔄0❤️4👀2137📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "48a7753638a1854e3d7fb807edb1babed3b92625",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！\n\n刚才让他一句话给我建了个我自己的图片和视频模型提示词库。",
+      "url": "https://x.com/op7418/status/2117924167991652384",
+      "published_at": "2026-11-04T10:17:25Z",
+      "summary": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。💬36🔄0❤️22👀5370📊33⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a6a2150133b62aca855d2a10f479184bf773e375",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt",
+      "url": "https://x.com/op7418/status/2117916922843197879",
+      "published_at": "2026-11-04T09:48:38Z",
+      "summary": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt💬1🔄0❤️1👀2051📊1⚡ Powered by xgo.ing"
+    },
+    {
       "id": "931770eca3b6e786685cba30f85bf7e41e33b34a",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -359,7 +447,7 @@
       "title": "详情：https://t.co/nsudFuYhZy",
       "url": "https://x.com/op7418/status/2117804598455062900",
       "published_at": "2026-11-04T02:22:17Z",
-      "summary": "详情：developer.apple.com/documentation/…💬1🔄0❤️3👀2348📊2⚡ Powered by xgo.ing"
+      "summary": "详情：developer.apple.com/documentation/…💬2🔄0❤️2👀3208📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "cd6882501e4cb8dcab2022feabf1f120c7e3f2a6",
@@ -371,6 +459,17 @@
       "url": "https://x.com/op7418/status/2117804545829171299",
       "published_at": "2026-11-04T02:22:05Z",
       "summary": "Siri 终于即将能调用第三方的 APP 去完成任务了！ 苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。 你可以自由决定将哪些功能开放给 Siri AI 去控制。 Siri AI 的接入加上之前 iPhone Duo的适配，给很多大厂超级应用提出了难题。 之前豆包在手机上的时候，国内基本上这些超级应用都拒绝了豆包自动操作它们的应用。 现在 Siri AI 也有类似的功能了，到时候可以看看它们的应对，应该会很有意思。 这个能力的大概介绍： 打车之后，让 Siri 帮你改上车地点，或者让 Sir…"
+    },
+    {
+      "id": "bab9c474690ae1e71c64f7ef7c40a6d573844fe9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "分享靠1个Agent控制所有Agent和应用新技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512827&idx=1&sn=565247d44f57bdd052d99150ee125b3c",
+      "published_at": "2026-11-04T01:46:00Z",
+      "summary": "卡尔的AI沃茨 2026-11-04 09:46 浙江 两周前我吐槽Grok Bot控制终端codex绕开沙箱用上gpt独一档的computer use能力失败率奇怪的难题终于被我解决了，不只是浏览器自动化，是能操控本机里其他Agent，能操作剪映做AI剪辑，在第二次操作的过程中还可以完全不消耗额度，非常Amazing。 先说一下结论，目前最佳搭配是， Grok Bot➕vercel开源的agent-desktop 因为openai没有开口子所以现在想要用codex同款computer use有两条技术路线。 1️⃣ amontlabs的LCU（Loca…"
     },
     {
       "id": "dd7f6e2253d83745f66a5fa0b3c8088447605012",
@@ -403,7 +502,7 @@
       "title": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to ...",
       "url": "https://x.com/OpenAI/status/2117692483685757188",
       "published_at": "2026-11-03T18:56:47Z",
-      "summary": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next. openai.com/index/accelera…💬10🔄12❤️400👀103738📊72⚡ Powered by xgo.ing"
+      "summary": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next. openai.com/index/accelera…💬15🔄17❤️477👀125322📊87⚡ Powered by xgo.ing"
     },
     {
       "id": "63a7896872e8d46e362fc6e0a0c3500e79ba4e53",
@@ -437,39 +536,6 @@
       "url": "https://x.com/OpenAI/status/2117692475775258785",
       "published_at": "2026-11-03T18:56:45Z",
       "summary": "ChatGPT and Codex are helping engineers build for the physical world. We’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators.Your browser does…"
-    },
-    {
-      "id": "c2c2cb7309af8cc13fb9caf9e5bda73d2a0ae4ad",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "提示词：饮品照片 → 等轴测微缩建筑插画\n\n请根据我上传的真实饮品照片，将照片中的咖啡、奶茶或饮料改造成一座可爱的品牌主题微缩建筑，使用粗黑描边的 2D 等轴测扁平矢量插画风格。\n\n最后将原始照片和生...",
-      "url": "https://x.com/op7418/status/2117597942756573504",
-      "published_at": "2026-11-03T12:41:07Z",
-      "summary": "提示词：饮品照片 → 等轴测微缩建筑插画 请根据我上传的真实饮品照片，将照片中的咖啡、奶茶或饮料改造成一座可爱的品牌主题微缩建筑，使用粗黑描边的 2D 等轴测扁平矢量插画风格。 最后将原始照片和生成的插画通过代码拼接，输出一张完整的高清对比图。 用户提供的信息 品牌名称：【选填，留空则从照片自动识别】 饮品名称：【选填，留空则从照片自动识别】 联名信息：【选填，没有则忽略】 其他特色：【选填，例如咖啡豆产地、庄园名称、特殊配料等】 用户默认会上传一张饮品照片。优先识别照片中的品牌 Logo、包装、颜色、杯型、文字和饮品特色。 如果用户提供了明确的信息，以…"
-    },
-    {
-      "id": "aa808b08debe8e1986863875dc4867feafdfe588",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "玩一下 GPT image 2.0 吧！\n\n这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。\n\n比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后...",
-      "url": "https://x.com/op7418/status/2117597892756312271",
-      "published_at": "2026-11-03T12:40:55Z",
-      "summary": "玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。💬47🔄2❤️58👀10139📊51⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "cc6e06702881a0d96b6b5be202025078e2ddf971",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "关于这个歸藏插件的具体使用方法和创作思路。\n\n我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。\n\n是不是很多朋友都不知道我还有 B 站账号？\n\nhttps://t.co/7WKuFz...",
-      "url": "https://x.com/op7418/status/2117535570046157144",
-      "published_at": "2026-11-03T08:33:16Z",
-      "summary": "关于这个歸藏插件的具体使用方法和创作思路。 我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。 是不是很多朋友都不知道我还有 B 站账号？ bilibili.com/video/BV1py4g6…歸藏(guizang.ai)@op7418终于把自己的几个设计 Skill 合并了！ 做成了一个 DSH 的插件 dsh-guizang-design 共用一套设计系统和 Design Token，还加了几个有用的功能🔗 View Quoted Tweet💬19🔄9❤️81👀11914📊31⚡ Powered by xgo.ing"
     }
   ]
 }
