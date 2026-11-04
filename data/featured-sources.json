@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T00:44:07.564200Z",
+  "generated_at": "2026-11-04T07:08:08.109153Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 341,
+      "duration_ms": 166,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 192,
-      "duration_ms": 80,
+      "duration_ms": 98,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 966,
+      "duration_ms": 1028,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1141,
+      "duration_ms": 1308,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1129,
+      "duration_ms": 1157,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 490,
+      "duration_ms": 549,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 720,
+      "duration_ms": 1458,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 283,
+      "duration_ms": 15,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2576,
+      "duration_ms": 2555,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 998,
+      "duration_ms": 1053,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,68 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "931770eca3b6e786685cba30f85bf7e41e33b34a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "今天是瑞幸的埃塞金烘美式",
+          "url": "https://x.com/op7418/status/2117848577091518548",
+          "published_at": "2026-11-04T05:17:03Z",
+          "summary": "今天是瑞幸的埃塞金烘美式歸藏(guizang.ai)@op7418提示词：饮品照片 → 等轴测微缩建筑插画 请根据我上传的真实饮品照片，将照片中的咖啡、奶茶或饮料改造成一座可爱的品牌主题微缩建筑，使用粗黑描边的 2D 等轴测扁平矢量插画风格。 最后将原始照片和生成的插画通过代码拼接，输出一张完整的高清对比图。 用户提供的信息 品牌名称：【选填，留空则从照片自动识别】 饮品名称：【选填，留空则从照片自动识别】 联名信息：【选填，没有则忽略】 其他特色：【选填，例如咖啡豆产地、庄园名称、特殊配料等】 用户默认会上传一张饮品照片。优先识别照片中的品牌 Logo…"
+        },
+        {
+          "id": "4c0bbac965a6d43cfc112980b2491db2a27cfd28",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "详情：https://t.co/nsudFuYhZy",
+          "url": "https://x.com/op7418/status/2117804598455062900",
+          "published_at": "2026-11-04T02:22:17Z",
+          "summary": "详情：developer.apple.com/documentation/…💬1🔄0❤️3👀2348📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "cd6882501e4cb8dcab2022feabf1f120c7e3f2a6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Siri 终于即将能调用第三方的 APP 去完成任务了！\n\n苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。\n\n你可以自由决定将哪些功能开...",
+          "url": "https://x.com/op7418/status/2117804545829171299",
+          "published_at": "2026-11-04T02:22:05Z",
+          "summary": "Siri 终于即将能调用第三方的 APP 去完成任务了！ 苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。 你可以自由决定将哪些功能开放给 Siri AI 去控制。 Siri AI 的接入加上之前 iPhone Duo的适配，给很多大厂超级应用提出了难题。 之前豆包在手机上的时候，国内基本上这些超级应用都拒绝了豆包自动操作它们的应用。 现在 Siri AI 也有类似的功能了，到时候可以看看它们的应对，应该会很有意思。 这个能力的大概介绍： 打车之后，让 Siri 帮你改上车地点，或者让 Sir…"
+        },
+        {
+          "id": "dd7f6e2253d83745f66a5fa0b3c8088447605012",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Claude Code 和 cowork 的产品负责人 cat 也离职了。\n\n不知道是不是因为上市前离职没有股票锁定期的原因\n\n有人问他是不是因为 IPO 前离职股票没有锁定期，她说这个不是她考虑的因...",
+          "url": "https://x.com/op7418/status/2117793035597795755",
+          "published_at": "2026-11-04T01:36:21Z",
+          "summary": "Claude Code 和 cowork 的产品负责人 cat 也离职了。 不知道是不是因为上市前离职没有股票锁定期的原因 有人问他是不是因为 IPO 前离职股票没有锁定期，她说这个不是她考虑的因素。 如果真的跟 IPO 无关的话，感觉 Anthropic 里边有些怪怪的。cat@_catwuFriday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I stee…"
+        },
+        {
+          "id": "f50cbde291fc931805803a382af9c68ca5d84044",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688159&idx=1&sn=ded6c6aed885323cd921c6a3a42e5bcf",
+          "published_at": "2026-11-04T00:19:00Z",
+          "summary": "Agent的魅力，从自动化开始"
+        },
         {
           "id": "c2c2cb7309af8cc13fb9caf9e5bda73d2a0ae4ad",
           "site_id": "featuredrss",
@@ -211,7 +266,7 @@
           "title": "玩一下 GPT image 2.0 吧！\n\n这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。\n\n比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后...",
           "url": "https://x.com/op7418/status/2117597892756312271",
           "published_at": "2026-11-03T12:40:55Z",
-          "summary": "玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。💬41🔄1❤️47👀8277📊44⚡ Powered by xgo.ing"
+          "summary": "玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。💬47🔄2❤️58👀10139📊51⚡ Powered by xgo.ing"
         },
         {
           "id": "cc6e06702881a0d96b6b5be202025078e2ddf971",
@@ -222,35 +277,13 @@
           "title": "关于这个歸藏插件的具体使用方法和创作思路。\n\n我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。\n\n是不是很多朋友都不知道我还有 B 站账号？\n\nhttps://t.co/7WKuFz...",
           "url": "https://x.com/op7418/status/2117535570046157144",
           "published_at": "2026-11-03T08:33:16Z",
-          "summary": "关于这个歸藏插件的具体使用方法和创作思路。 我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。 是不是很多朋友都不知道我还有 B 站账号？ bilibili.com/video/BV1py4g6…歸藏(guizang.ai)@op7418终于把自己的几个设计 Skill 合并了！ 做成了一个 DSH 的插件 dsh-guizang-design 共用一套设计系统和 Design Token，还加了几个有用的功能🔗 View Quoted Tweet💬18🔄7❤️72👀10672📊28⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "50ed779976ce37f0e51e98939ac8b5750bfe538b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "昨晚推上 AI 圈最热门的研究：\n\n我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。\n\nMIT CSAIL 团队团队用 GPT-6 Astra 直接编辑了 Qwen 0.8B 模型...",
-          "url": "https://x.com/op7418/status/2117459252721971606",
-          "published_at": "2026-11-03T03:30:00Z",
-          "summary": "昨晚推上 AI 圈最热门的研究： 我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。 MIT CSAIL 团队团队用 GPT-6 Astra 直接编辑了 Qwen 0.8B 模型的权重，大幅提升了它的数学能力。 他们仅更改了 0.016% 权重的情况下，将数学能力提高了 6 倍，指令跟随能力提高了 3 倍。 没有进行重新训练，也没有进行后训练和强化学习，只是直接更改了它的参数。 这带来了一个非常新的范式，对模型的可解释性有了大幅提升，也就是说我们可能可以不通过训练，直接提高模型能力。 特别大的模型由于参数量太大，可能会比较麻烦，但小模型…"
-        },
-        {
-          "id": "0e366662289fa660b29b38fc4727d009a1f02bb6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "给我的 DeepSeek Harness 插件 dsh-guizang-design 做了个宣传片\n\n可以在 DSH 里面用藏师傅所有的这几个设计 Skill，我日常的内容生产工作流也整合到了里面\n\n...",
-          "url": "https://x.com/op7418/status/2117436999250649439",
-          "published_at": "2026-11-03T02:01:35Z",
-          "summary": "给我的 DeepSeek Harness 插件 dsh-guizang-design 做了个宣传片 可以在 DSH 里面用藏师傅所有的这几个设计 Skill，我日常的内容生产工作流也整合到了里面 还内置了一个作品库，可以将你以前做的PPT、网页、文档都收集到一起，方面重复利用，还能一键做同款。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418终于把自己的几个设计 Skill 合并了！ 做成了一个 DSH 的插件 dsh-guizang-des…"
+          "summary": "关于这个歸藏插件的具体使用方法和创作思路。 我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。 是不是很多朋友都不知道我还有 B 站账号？ bilibili.com/video/BV1py4g6…歸藏(guizang.ai)@op7418终于把自己的几个设计 Skill 合并了！ 做成了一个 DSH 的插件 dsh-guizang-design 共用一套设计系统和 Design Token，还加了几个有用的功能🔗 View Quoted Tweet💬19🔄9❤️81👀11914📊31⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -267,7 +300,7 @@
           "title": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to ...",
           "url": "https://x.com/OpenAI/status/2117692483685757188",
           "published_at": "2026-11-03T18:56:47Z",
-          "summary": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next. openai.com/index/accelera…💬5🔄8❤️262👀52730📊42⚡ Powered by xgo.ing"
+          "summary": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next. openai.com/index/accelera…💬10🔄12❤️400👀103738📊72⚡ Powered by xgo.ing"
         },
         {
           "id": "63a7896872e8d46e362fc6e0a0c3500e79ba4e53",
@@ -301,33 +334,66 @@
           "url": "https://x.com/OpenAI/status/2117692475775258785",
           "published_at": "2026-11-03T18:56:45Z",
           "summary": "ChatGPT and Codex are helping engineers build for the physical world. We’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators.Your browser does…"
-        },
-        {
-          "id": "ff6b9132e212338168b2efa2415265ac091b9d7e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "The updated bug bounty rewards also apply to reports awaiting a bounty. \n\nFor bounties awarded in th...",
-          "url": "https://x.com/OpenAI/status/2117444049900654743",
-          "published_at": "2026-11-03T02:29:36Z",
-          "summary": "The updated bug bounty rewards also apply to reports awaiting a bounty. For bounties awarded in the past 30 days, we’ll pay the difference if the finding qualifies for more under the new ranges. Learn more about the program: openai.com/index/rewardin…💬30🔄16❤️272👀102693📊52⚡ Powere…"
-        },
-        {
-          "id": "e952ec1763516482370d7e5a46e375c9f984642d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attac...",
-          "url": "https://x.com/OpenAI/status/2117444048227123277",
-          "published_at": "2026-11-03T02:29:35Z",
-          "summary": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do. We’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge ou…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "931770eca3b6e786685cba30f85bf7e41e33b34a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "今天是瑞幸的埃塞金烘美式",
+      "url": "https://x.com/op7418/status/2117848577091518548",
+      "published_at": "2026-11-04T05:17:03Z",
+      "summary": "今天是瑞幸的埃塞金烘美式歸藏(guizang.ai)@op7418提示词：饮品照片 → 等轴测微缩建筑插画 请根据我上传的真实饮品照片，将照片中的咖啡、奶茶或饮料改造成一座可爱的品牌主题微缩建筑，使用粗黑描边的 2D 等轴测扁平矢量插画风格。 最后将原始照片和生成的插画通过代码拼接，输出一张完整的高清对比图。 用户提供的信息 品牌名称：【选填，留空则从照片自动识别】 饮品名称：【选填，留空则从照片自动识别】 联名信息：【选填，没有则忽略】 其他特色：【选填，例如咖啡豆产地、庄园名称、特殊配料等】 用户默认会上传一张饮品照片。优先识别照片中的品牌 Logo…"
+    },
+    {
+      "id": "4c0bbac965a6d43cfc112980b2491db2a27cfd28",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "详情：https://t.co/nsudFuYhZy",
+      "url": "https://x.com/op7418/status/2117804598455062900",
+      "published_at": "2026-11-04T02:22:17Z",
+      "summary": "详情：developer.apple.com/documentation/…💬1🔄0❤️3👀2348📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "cd6882501e4cb8dcab2022feabf1f120c7e3f2a6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Siri 终于即将能调用第三方的 APP 去完成任务了！\n\n苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。\n\n你可以自由决定将哪些功能开...",
+      "url": "https://x.com/op7418/status/2117804545829171299",
+      "published_at": "2026-11-04T02:22:05Z",
+      "summary": "Siri 终于即将能调用第三方的 APP 去完成任务了！ 苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。 你可以自由决定将哪些功能开放给 Siri AI 去控制。 Siri AI 的接入加上之前 iPhone Duo的适配，给很多大厂超级应用提出了难题。 之前豆包在手机上的时候，国内基本上这些超级应用都拒绝了豆包自动操作它们的应用。 现在 Siri AI 也有类似的功能了，到时候可以看看它们的应对，应该会很有意思。 这个能力的大概介绍： 打车之后，让 Siri 帮你改上车地点，或者让 Sir…"
+    },
+    {
+      "id": "dd7f6e2253d83745f66a5fa0b3c8088447605012",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Claude Code 和 cowork 的产品负责人 cat 也离职了。\n\n不知道是不是因为上市前离职没有股票锁定期的原因\n\n有人问他是不是因为 IPO 前离职股票没有锁定期，她说这个不是她考虑的因...",
+      "url": "https://x.com/op7418/status/2117793035597795755",
+      "published_at": "2026-11-04T01:36:21Z",
+      "summary": "Claude Code 和 cowork 的产品负责人 cat 也离职了。 不知道是不是因为上市前离职没有股票锁定期的原因 有人问他是不是因为 IPO 前离职股票没有锁定期，她说这个不是她考虑的因素。 如果真的跟 IPO 无关的话，感觉 Anthropic 里边有些怪怪的。cat@_catwuFriday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I stee…"
+    },
+    {
+      "id": "f50cbde291fc931805803a382af9c68ca5d84044",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688159&idx=1&sn=ded6c6aed885323cd921c6a3a42e5bcf",
+      "published_at": "2026-11-04T00:19:00Z",
+      "summary": "Agent的魅力，从自动化开始"
+    },
     {
       "id": "36321c5f91496cc750b4e679a9ad0a267fbcd085",
       "site_id": "featuredrss",
@@ -337,7 +403,7 @@
       "title": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to ...",
       "url": "https://x.com/OpenAI/status/2117692483685757188",
       "published_at": "2026-11-03T18:56:47Z",
-      "summary": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next. openai.com/index/accelera…💬5🔄8❤️262👀52730📊42⚡ Powered by xgo.ing"
+      "summary": "These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next. openai.com/index/accelera…💬10🔄12❤️400👀103738📊72⚡ Powered by xgo.ing"
     },
     {
       "id": "63a7896872e8d46e362fc6e0a0c3500e79ba4e53",
@@ -392,7 +458,7 @@
       "title": "玩一下 GPT image 2.0 吧！\n\n这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。\n\n比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后...",
       "url": "https://x.com/op7418/status/2117597892756312271",
       "published_at": "2026-11-03T12:40:55Z",
-      "summary": "玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。💬41🔄1❤️47👀8277📊44⚡ Powered by xgo.ing"
+      "summary": "玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。💬47🔄2❤️58👀10139📊51⚡ Powered by xgo.ing"
     },
     {
       "id": "cc6e06702881a0d96b6b5be202025078e2ddf971",
@@ -403,51 +469,7 @@
       "title": "关于这个歸藏插件的具体使用方法和创作思路。\n\n我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。\n\n是不是很多朋友都不知道我还有 B 站账号？\n\nhttps://t.co/7WKuFz...",
       "url": "https://x.com/op7418/status/2117535570046157144",
       "published_at": "2026-11-03T08:33:16Z",
-      "summary": "关于这个歸藏插件的具体使用方法和创作思路。 我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。 是不是很多朋友都不知道我还有 B 站账号？ bilibili.com/video/BV1py4g6…歸藏(guizang.ai)@op7418终于把自己的几个设计 Skill 合并了！ 做成了一个 DSH 的插件 dsh-guizang-design 共用一套设计系统和 Design Token，还加了几个有用的功能🔗 View Quoted Tweet💬18🔄7❤️72👀10672📊28⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "50ed779976ce37f0e51e98939ac8b5750bfe538b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "昨晚推上 AI 圈最热门的研究：\n\n我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。\n\nMIT CSAIL 团队团队用 GPT-6 Astra 直接编辑了 Qwen 0.8B 模型...",
-      "url": "https://x.com/op7418/status/2117459252721971606",
-      "published_at": "2026-11-03T03:30:00Z",
-      "summary": "昨晚推上 AI 圈最热门的研究： 我们可能可以像编程一样，让 AI 编写 AI 模型的模型权重文件了。 MIT CSAIL 团队团队用 GPT-6 Astra 直接编辑了 Qwen 0.8B 模型的权重，大幅提升了它的数学能力。 他们仅更改了 0.016% 权重的情况下，将数学能力提高了 6 倍，指令跟随能力提高了 3 倍。 没有进行重新训练，也没有进行后训练和强化学习，只是直接更改了它的参数。 这带来了一个非常新的范式，对模型的可解释性有了大幅提升，也就是说我们可能可以不通过训练，直接提高模型能力。 特别大的模型由于参数量太大，可能会比较麻烦，但小模型…"
-    },
-    {
-      "id": "ff6b9132e212338168b2efa2415265ac091b9d7e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "The updated bug bounty rewards also apply to reports awaiting a bounty. \n\nFor bounties awarded in th...",
-      "url": "https://x.com/OpenAI/status/2117444049900654743",
-      "published_at": "2026-11-03T02:29:36Z",
-      "summary": "The updated bug bounty rewards also apply to reports awaiting a bounty. For bounties awarded in the past 30 days, we’ll pay the difference if the finding qualifies for more under the new ranges. Learn more about the program: openai.com/index/rewardin…💬30🔄16❤️272👀102693📊52⚡ Powere…"
-    },
-    {
-      "id": "e952ec1763516482370d7e5a46e375c9f984642d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attac...",
-      "url": "https://x.com/OpenAI/status/2117444048227123277",
-      "published_at": "2026-11-03T02:29:35Z",
-      "summary": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do. We’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge ou…"
-    },
-    {
-      "id": "0e366662289fa660b29b38fc4727d009a1f02bb6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "给我的 DeepSeek Harness 插件 dsh-guizang-design 做了个宣传片\n\n可以在 DSH 里面用藏师傅所有的这几个设计 Skill，我日常的内容生产工作流也整合到了里面\n\n...",
-      "url": "https://x.com/op7418/status/2117436999250649439",
-      "published_at": "2026-11-03T02:01:35Z",
-      "summary": "给我的 DeepSeek Harness 插件 dsh-guizang-design 做了个宣传片 可以在 DSH 里面用藏师傅所有的这几个设计 Skill，我日常的内容生产工作流也整合到了里面 还内置了一个作品库，可以将你以前做的PPT、网页、文档都收集到一起，方面重复利用，还能一键做同款。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418终于把自己的几个设计 Skill 合并了！ 做成了一个 DSH 的插件 dsh-guizang-des…"
+      "summary": "关于这个歸藏插件的具体使用方法和创作思路。 我录了一个比较长的视频放在 B 站上了，有空感兴趣的话可以去看看。 是不是很多朋友都不知道我还有 B 站账号？ bilibili.com/video/BV1py4g6…歸藏(guizang.ai)@op7418终于把自己的几个设计 Skill 合并了！ 做成了一个 DSH 的插件 dsh-guizang-design 共用一套设计系统和 Design Token，还加了几个有用的功能🔗 View Quoted Tweet💬19🔄9❤️81👀11914📊31⚡ Powered by xgo.ing"
     }
   ]
 }
