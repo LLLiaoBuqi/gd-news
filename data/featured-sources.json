@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T08:53:06.523231Z",
+  "generated_at": "2026-11-05T17:00:20.821737Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 16,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 492,
+      "duration_ms": 452,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 193,
-      "duration_ms": 82,
+      "item_count": 194,
+      "duration_ms": 105,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 784,
+      "duration_ms": 621,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 930,
+      "duration_ms": 992,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 859,
+      "duration_ms": 905,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 455,
+      "duration_ms": 941,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 338,
+      "duration_ms": 400,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 16,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2061,
+      "duration_ms": 1875,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1295,
+      "duration_ms": 1417,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 12,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "f69687988b65a2873cf0c8df55027d9b9515b25b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
+          "url": "https://x.com/op7418/status/2118374811202416848",
+          "published_at": "2026-11-05T16:08:07Z",
+          "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬2🔄0❤️4👀1357📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "712daec1fd4ce8e5e66916d01cf66ac587c345eb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。\n\n感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini...",
+          "url": "https://x.com/op7418/status/2118343623901389146",
+          "published_at": "2026-11-05T14:04:11Z",
+          "summary": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。 感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini 刷成 Omarchy。Omarchy@omarchyOmarchy 4.5 is finally here! Traditional desktop mode, M1/M2/M3/Neo compatibility, 50 languages, 7-second installs, and a million other features, fixes, a…"
+        },
+        {
+          "id": "466a4b9a4b8024e017b4d150caea8c346dd46ba0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "UI/3D/代码动画... 分享4大类能去掉AI味的新技巧",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512876&idx=1&sn=d16f3ee7b6de41c40c63c38a81b5a73c",
+          "published_at": "2026-11-05T09:34:00Z",
+          "summary": "商汤这次新模型有点东西"
+        },
         {
           "id": "de174d3fda5115bb7b885f9e5136121008c94a0e",
           "site_id": "featuredrss",
@@ -211,7 +244,7 @@
           "title": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2...",
           "url": "https://x.com/op7418/status/2118181775688241456",
           "published_at": "2026-11-05T03:21:03Z",
-          "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬73🔄5❤️74👀12116📊73⚡ Powered by xgo.ing"
+          "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬88🔄6❤️129👀21209📊96⚡ Powered by xgo.ing"
         },
         {
           "id": "4b7a481c63cb46dcd23f5243a5c4fb15f1c5047a",
@@ -222,7 +255,7 @@
           "title": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了",
           "url": "https://x.com/op7418/status/2118157802279710824",
           "published_at": "2026-11-05T01:45:48Z",
-          "summary": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了💬6🔄0❤️11👀3736📊6⚡ Powered by xgo.ing"
+          "summary": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了💬8🔄0❤️13👀4690📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "13f89483a97687972918d5d7d16815cd510950b5",
@@ -234,100 +267,12 @@
           "url": "https://x.com/op7418/status/2118154688101331319",
           "published_at": "2026-11-05T01:33:25Z",
           "summary": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。cat@_catwuSome news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great product…"
-        },
-        {
-          "id": "e66d468167aa1040b3823803a465676009a0ff01",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我操，这 B 站太猛了！\n\n我刚清的通知，过了 5 分钟点开，咋就这样了？",
-          "url": "https://x.com/op7418/status/2118007476520132703",
-          "published_at": "2026-11-04T15:48:27Z",
-          "summary": "我操，这 B 站太猛了！ 我刚清的通知，过了 5 分钟点开，咋就这样了？💬34🔄0❤️74👀30486📊37⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "3e32169c03a1d638a6563f5e7e913b6616839e0c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢",
-          "url": "https://x.com/op7418/status/2118006021142777908",
-          "published_at": "2026-11-04T15:42:40Z",
-          "summary": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢💬10🔄0❤️16👀12169📊10⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "0bc6ec11e9d297aaf9f9ed467d9246c4fcaf63c4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。\n\n如果可以让你的 BOT 顺便帮我点个 star 就更好了。",
-          "url": "https://x.com/op7418/status/2118001795746455760",
-          "published_at": "2026-11-04T15:25:53Z",
-          "summary": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。 如果可以让你的 BOT 顺便帮我点个 star 就更好了。歸藏(guizang.ai)@op7418Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。🔗 View Quoted Tweet💬6🔄1❤️8👀5477📊7⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4caf675a3ca4d904f130acf069500fa68db7403b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "跑了一个我感觉还行",
-          "url": "https://x.com/op7418/status/2117952238199214414",
-          "published_at": "2026-11-04T12:08:57Z",
-          "summary": "跑了一个我感觉还行Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵🔗 View Quoted Tweet💬10🔄1❤️55👀16891📊14⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bf72c2ab0c112cd98378ffc058cb743683fb3eff",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "最近 Muse 那个视频模型非常火\n\n在一些真实场景下的表现非常得离谱。\n\n可能主要是第一次大家能够免费用到这种级别的视频模型\n\n现有的这个等级的模型还是贵",
-          "url": "https://x.com/op7418/status/2117940844217221604",
-          "published_at": "2026-11-04T11:23:41Z",
-          "summary": "最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵💬76🔄4❤️100👀44076📊76⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c6c4bafc24d46a028130aaf8f260aa00d3aa5e1f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "直接基于我的这个提示词库做了个页面。\nhttps://t.co/E2wlqxNXVv",
-          "url": "https://x.com/op7418/status/2117926719864951031",
-          "published_at": "2026-11-04T10:27:33Z",
-          "summary": "直接基于我的这个提示词库做了个页面。 op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀3247📊5⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "48a7753638a1854e3d7fb807edb1babed3b92625",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！\n\n刚才让他一句话给我建了个我自己的图片和视频模型提示词库。",
-          "url": "https://x.com/op7418/status/2117924167991652384",
-          "published_at": "2026-11-04T10:17:25Z",
-          "summary": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。💬50🔄1❤️33👀13896📊50⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a6a2150133b62aca855d2a10f479184bf773e375",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt",
-          "url": "https://x.com/op7418/status/2117916922843197879",
-          "published_at": "2026-11-04T09:48:38Z",
-          "summary": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt💬1🔄0❤️1👀2496📊1⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 9,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -335,6 +280,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "5a7a9593c87bfd593a34d36feecebfff806eecbd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "AI for scientific discovery: How researchers use Claude",
+          "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+          "published_at": "2026-11-05T00:00:00Z",
+          "summary": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI…"
+        },
         {
           "id": "21134fa2b7a665b2897c5b520020395593578116",
           "site_id": "featuredrss",
@@ -344,7 +300,7 @@
           "title": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile.\n\nG...",
           "url": "https://x.com/OpenAI/status/2118124966055223755",
           "published_at": "2026-11-04T23:35:19Z",
-          "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬34🔄46❤️825👀122785📊116⚡ Powered by xgo.ing"
+          "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬41🔄50❤️933👀146545📊133⚡ Powered by xgo.ing"
         },
         {
           "id": "e9d226e0b11b0bf139b6c5a4023bf928e7d66a6d",
@@ -358,6 +314,28 @@
           "summary": "Two new image models for developers: GPT-Image-2.6 Flare and Sunburst. Flare generates images in as little as six seconds. Sunburst brings higher-quality generation and greater consistency across edits. Image markup and SVG exports give you more ways to refine and use what you cr…"
         },
         {
+          "id": "67e2517f9fac6697005baf2de59afe5a5d5b115a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Save once. Create again and again.\n\nKeep reference images of yourself, pets, and characters ready to...",
+          "url": "https://x.com/OpenAI/status/2118124958421532806",
+          "published_at": "2026-11-04T23:35:17Z",
+          "summary": "Save once. Create again and again. Keep reference images of yourself, pets, and characters ready to reuse in new creations—no need to upload them again.💬16🔄21❤️743👀89200📊83⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "eee7ed5c306b9f3a8e720c2ceb0ca6243deb1eaf",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GIFS!\n\nWith ChatGPT Images 2.6, turn a prompt or image into an animated GIF.\n\nAdjust the speed, edit...",
+          "url": "https://x.com/OpenAI/status/2118124953832935810",
+          "published_at": "2026-11-04T23:35:16Z",
+          "summary": "GIFS! With ChatGPT Images 2.6, turn a prompt or image into an animated GIF. Adjust the speed, edit individual frames, and share it on repeat.Your browser does not support the video tag.🔗 View on Twitter💬133🔄87❤️1572👀230712📊273⚡ Powered by xgo.ing"
+        },
+        {
           "id": "bb914df6868d3da73ab0e3990dee3883c46486d1",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -366,7 +344,7 @@
           "title": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new...",
           "url": "https://x.com/OpenAI/status/2118124944928432327",
           "published_at": "2026-11-04T23:35:14Z",
-          "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬849🔄1467❤️16650👀1435343📊2936⚡ Powered by xgo.ing"
+          "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬1052🔄1718❤️19704👀2035651📊3507⚡ Powered by xgo.ing"
         },
         {
           "id": "527fcbc3b1b12ff515b31925e2038dfd50fa7c3a",
@@ -377,7 +355,7 @@
           "title": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re work...",
           "url": "https://x.com/OpenAI/status/2118119463161905362",
           "published_at": "2026-11-04T23:13:27Z",
-          "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬10🔄25❤️485👀75868📊63⚡ Powered by xgo.ing"
+          "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬13🔄31❤️641👀101480📊82⚡ Powered by xgo.ing"
         },
         {
           "id": "dfdb890e1a81d9f047ce32c6dcaed6cb839889a6",
@@ -406,6 +384,39 @@
   },
   "items": [
     {
+      "id": "f69687988b65a2873cf0c8df55027d9b9515b25b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
+      "url": "https://x.com/op7418/status/2118374811202416848",
+      "published_at": "2026-11-05T16:08:07Z",
+      "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬2🔄0❤️4👀1357📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "712daec1fd4ce8e5e66916d01cf66ac587c345eb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。\n\n感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini...",
+      "url": "https://x.com/op7418/status/2118343623901389146",
+      "published_at": "2026-11-05T14:04:11Z",
+      "summary": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。 感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini 刷成 Omarchy。Omarchy@omarchyOmarchy 4.5 is finally here! Traditional desktop mode, M1/M2/M3/Neo compatibility, 50 languages, 7-second installs, and a million other features, fixes, a…"
+    },
+    {
+      "id": "466a4b9a4b8024e017b4d150caea8c346dd46ba0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "UI/3D/代码动画... 分享4大类能去掉AI味的新技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512876&idx=1&sn=d16f3ee7b6de41c40c63c38a81b5a73c",
+      "published_at": "2026-11-05T09:34:00Z",
+      "summary": "商汤这次新模型有点东西"
+    },
+    {
       "id": "de174d3fda5115bb7b885f9e5136121008c94a0e",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -425,7 +436,7 @@
       "title": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2...",
       "url": "https://x.com/op7418/status/2118181775688241456",
       "published_at": "2026-11-05T03:21:03Z",
-      "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬73🔄5❤️74👀12116📊73⚡ Powered by xgo.ing"
+      "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬88🔄6❤️129👀21209📊96⚡ Powered by xgo.ing"
     },
     {
       "id": "4b7a481c63cb46dcd23f5243a5c4fb15f1c5047a",
@@ -436,7 +447,7 @@
       "title": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了",
       "url": "https://x.com/op7418/status/2118157802279710824",
       "published_at": "2026-11-05T01:45:48Z",
-      "summary": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了💬6🔄0❤️11👀3736📊6⚡ Powered by xgo.ing"
+      "summary": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了💬8🔄0❤️13👀4690📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "13f89483a97687972918d5d7d16815cd510950b5",
@@ -450,6 +461,17 @@
       "summary": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。cat@_catwuSome news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great product…"
     },
     {
+      "id": "5a7a9593c87bfd593a34d36feecebfff806eecbd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "published_at": "2026-11-05T00:00:00Z",
+      "summary": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI…"
+    },
+    {
       "id": "21134fa2b7a665b2897c5b520020395593578116",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -458,7 +480,7 @@
       "title": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile.\n\nG...",
       "url": "https://x.com/OpenAI/status/2118124966055223755",
       "published_at": "2026-11-04T23:35:19Z",
-      "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬34🔄46❤️825👀122785📊116⚡ Powered by xgo.ing"
+      "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬41🔄50❤️933👀146545📊133⚡ Powered by xgo.ing"
     },
     {
       "id": "e9d226e0b11b0bf139b6c5a4023bf928e7d66a6d",
@@ -472,6 +494,28 @@
       "summary": "Two new image models for developers: GPT-Image-2.6 Flare and Sunburst. Flare generates images in as little as six seconds. Sunburst brings higher-quality generation and greater consistency across edits. Image markup and SVG exports give you more ways to refine and use what you cr…"
     },
     {
+      "id": "67e2517f9fac6697005baf2de59afe5a5d5b115a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Save once. Create again and again.\n\nKeep reference images of yourself, pets, and characters ready to...",
+      "url": "https://x.com/OpenAI/status/2118124958421532806",
+      "published_at": "2026-11-04T23:35:17Z",
+      "summary": "Save once. Create again and again. Keep reference images of yourself, pets, and characters ready to reuse in new creations—no need to upload them again.💬16🔄21❤️743👀89200📊83⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "eee7ed5c306b9f3a8e720c2ceb0ca6243deb1eaf",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GIFS!\n\nWith ChatGPT Images 2.6, turn a prompt or image into an animated GIF.\n\nAdjust the speed, edit...",
+      "url": "https://x.com/OpenAI/status/2118124953832935810",
+      "published_at": "2026-11-04T23:35:16Z",
+      "summary": "GIFS! With ChatGPT Images 2.6, turn a prompt or image into an animated GIF. Adjust the speed, edit individual frames, and share it on repeat.Your browser does not support the video tag.🔗 View on Twitter💬133🔄87❤️1572👀230712📊273⚡ Powered by xgo.ing"
+    },
+    {
       "id": "bb914df6868d3da73ab0e3990dee3883c46486d1",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -480,7 +524,7 @@
       "title": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new...",
       "url": "https://x.com/OpenAI/status/2118124944928432327",
       "published_at": "2026-11-04T23:35:14Z",
-      "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬849🔄1467❤️16650👀1435343📊2936⚡ Powered by xgo.ing"
+      "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬1052🔄1718❤️19704👀2035651📊3507⚡ Powered by xgo.ing"
     },
     {
       "id": "527fcbc3b1b12ff515b31925e2038dfd50fa7c3a",
@@ -491,7 +535,7 @@
       "title": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re work...",
       "url": "https://x.com/OpenAI/status/2118119463161905362",
       "published_at": "2026-11-04T23:13:27Z",
-      "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬10🔄25❤️485👀75868📊63⚡ Powered by xgo.ing"
+      "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬13🔄31❤️641👀101480📊82⚡ Powered by xgo.ing"
     },
     {
       "id": "dfdb890e1a81d9f047ce32c6dcaed6cb839889a6",
@@ -514,94 +558,6 @@
       "url": "https://x.com/OpenAI/status/2118119451401048497",
       "published_at": "2026-11-04T23:13:24Z",
       "summary": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline. In a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API…"
-    },
-    {
-      "id": "e66d468167aa1040b3823803a465676009a0ff01",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我操，这 B 站太猛了！\n\n我刚清的通知，过了 5 分钟点开，咋就这样了？",
-      "url": "https://x.com/op7418/status/2118007476520132703",
-      "published_at": "2026-11-04T15:48:27Z",
-      "summary": "我操，这 B 站太猛了！ 我刚清的通知，过了 5 分钟点开，咋就这样了？💬34🔄0❤️74👀30486📊37⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "3e32169c03a1d638a6563f5e7e913b6616839e0c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢",
-      "url": "https://x.com/op7418/status/2118006021142777908",
-      "published_at": "2026-11-04T15:42:40Z",
-      "summary": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢💬10🔄0❤️16👀12169📊10⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "0bc6ec11e9d297aaf9f9ed467d9246c4fcaf63c4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。\n\n如果可以让你的 BOT 顺便帮我点个 star 就更好了。",
-      "url": "https://x.com/op7418/status/2118001795746455760",
-      "published_at": "2026-11-04T15:25:53Z",
-      "summary": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。 如果可以让你的 BOT 顺便帮我点个 star 就更好了。歸藏(guizang.ai)@op7418Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。🔗 View Quoted Tweet💬6🔄1❤️8👀5477📊7⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4caf675a3ca4d904f130acf069500fa68db7403b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "跑了一个我感觉还行",
-      "url": "https://x.com/op7418/status/2117952238199214414",
-      "published_at": "2026-11-04T12:08:57Z",
-      "summary": "跑了一个我感觉还行Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵🔗 View Quoted Tweet💬10🔄1❤️55👀16891📊14⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "bf72c2ab0c112cd98378ffc058cb743683fb3eff",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "最近 Muse 那个视频模型非常火\n\n在一些真实场景下的表现非常得离谱。\n\n可能主要是第一次大家能够免费用到这种级别的视频模型\n\n现有的这个等级的模型还是贵",
-      "url": "https://x.com/op7418/status/2117940844217221604",
-      "published_at": "2026-11-04T11:23:41Z",
-      "summary": "最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵💬76🔄4❤️100👀44076📊76⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c6c4bafc24d46a028130aaf8f260aa00d3aa5e1f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "直接基于我的这个提示词库做了个页面。\nhttps://t.co/E2wlqxNXVv",
-      "url": "https://x.com/op7418/status/2117926719864951031",
-      "published_at": "2026-11-04T10:27:33Z",
-      "summary": "直接基于我的这个提示词库做了个页面。 op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀3247📊5⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "48a7753638a1854e3d7fb807edb1babed3b92625",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！\n\n刚才让他一句话给我建了个我自己的图片和视频模型提示词库。",
-      "url": "https://x.com/op7418/status/2117924167991652384",
-      "published_at": "2026-11-04T10:17:25Z",
-      "summary": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。💬50🔄1❤️33👀13896📊50⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a6a2150133b62aca855d2a10f479184bf773e375",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt",
-      "url": "https://x.com/op7418/status/2117916922843197879",
-      "published_at": "2026-11-04T09:48:38Z",
-      "summary": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt💬1🔄0❤️1👀2496📊1⚡ Powered by xgo.ing"
     }
   ]
 }
