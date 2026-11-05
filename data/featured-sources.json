@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T01:55:57.107486Z",
+  "generated_at": "2026-11-05T08:53:06.523231Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 18,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 166,
+      "duration_ms": 492,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 193,
-      "duration_ms": 104,
+      "duration_ms": 82,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1201,
+      "duration_ms": 784,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1344,
+      "duration_ms": 930,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1301,
+      "duration_ms": 859,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 358,
+      "duration_ms": 455,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 573,
+      "duration_ms": 338,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 28,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2315,
+      "duration_ms": 2061,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1160,
+      "duration_ms": 1295,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,57 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 11,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "de174d3fda5115bb7b885f9e5136121008c94a0e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。\n\n请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。\n\n【角色保持一致】\n保...",
+          "url": "https://x.com/op7418/status/2118181972451438662",
+          "published_at": "2026-11-05T03:21:50Z",
+          "summary": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。 请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。 【角色保持一致】 保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。 保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。 【自动设计动作】 理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。 突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。…"
+        },
+        {
+          "id": "1d08c6be76b6ee3986334d4aa2a303cd4d6144f2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2...",
+          "url": "https://x.com/op7418/status/2118181775688241456",
+          "published_at": "2026-11-05T03:21:03Z",
+          "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬73🔄5❤️74👀12116📊73⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "4b7a481c63cb46dcd23f5243a5c4fb15f1c5047a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了",
+          "url": "https://x.com/op7418/status/2118157802279710824",
+          "published_at": "2026-11-05T01:45:48Z",
+          "summary": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了💬6🔄0❤️11👀3736📊6⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "13f89483a97687972918d5d7d16815cd510950b5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。",
+          "url": "https://x.com/op7418/status/2118154688101331319",
+          "published_at": "2026-11-05T01:33:25Z",
+          "summary": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。cat@_catwuSome news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great product…"
+        },
         {
           "id": "e66d468167aa1040b3823803a465676009a0ff01",
           "site_id": "featuredrss",
@@ -200,7 +244,7 @@
           "title": "我操，这 B 站太猛了！\n\n我刚清的通知，过了 5 分钟点开，咋就这样了？",
           "url": "https://x.com/op7418/status/2118007476520132703",
           "published_at": "2026-11-04T15:48:27Z",
-          "summary": "我操，这 B 站太猛了！ 我刚清的通知，过了 5 分钟点开，咋就这样了？💬18🔄0❤️39👀16659📊20⚡ Powered by xgo.ing"
+          "summary": "我操，这 B 站太猛了！ 我刚清的通知，过了 5 分钟点开，咋就这样了？💬34🔄0❤️74👀30486📊37⚡ Powered by xgo.ing"
         },
         {
           "id": "3e32169c03a1d638a6563f5e7e913b6616839e0c",
@@ -211,7 +255,7 @@
           "title": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢",
           "url": "https://x.com/op7418/status/2118006021142777908",
           "published_at": "2026-11-04T15:42:40Z",
-          "summary": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢💬10🔄0❤️13👀7706📊10⚡ Powered by xgo.ing"
+          "summary": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢💬10🔄0❤️16👀12169📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "0bc6ec11e9d297aaf9f9ed467d9246c4fcaf63c4",
@@ -222,7 +266,7 @@
           "title": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。\n\n如果可以让你的 BOT 顺便帮我点个 star 就更好了。",
           "url": "https://x.com/op7418/status/2118001795746455760",
           "published_at": "2026-11-04T15:25:53Z",
-          "summary": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。 如果可以让你的 BOT 顺便帮我点个 star 就更好了。歸藏(guizang.ai)@op7418Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。🔗 View Quoted Tweet💬5🔄1❤️7👀4535📊6⚡ Powered by xgo.ing"
+          "summary": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。 如果可以让你的 BOT 顺便帮我点个 star 就更好了。歸藏(guizang.ai)@op7418Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。🔗 View Quoted Tweet💬6🔄1❤️8👀5477📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "4caf675a3ca4d904f130acf069500fa68db7403b",
@@ -233,7 +277,7 @@
           "title": "跑了一个我感觉还行",
           "url": "https://x.com/op7418/status/2117952238199214414",
           "published_at": "2026-11-04T12:08:57Z",
-          "summary": "跑了一个我感觉还行Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵🔗 View Quoted Tweet💬10🔄0❤️44👀14499📊12⚡ Powered by xgo.ing"
+          "summary": "跑了一个我感觉还行Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵🔗 View Quoted Tweet💬10🔄1❤️55👀16891📊14⚡ Powered by xgo.ing"
         },
         {
           "id": "bf72c2ab0c112cd98378ffc058cb743683fb3eff",
@@ -244,7 +288,7 @@
           "title": "最近 Muse 那个视频模型非常火\n\n在一些真实场景下的表现非常得离谱。\n\n可能主要是第一次大家能够免费用到这种级别的视频模型\n\n现有的这个等级的模型还是贵",
           "url": "https://x.com/op7418/status/2117940844217221604",
           "published_at": "2026-11-04T11:23:41Z",
-          "summary": "最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵💬63🔄3❤️88👀36425📊64⚡ Powered by xgo.ing"
+          "summary": "最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵💬76🔄4❤️100👀44076📊76⚡ Powered by xgo.ing"
         },
         {
           "id": "c6c4bafc24d46a028130aaf8f260aa00d3aa5e1f",
@@ -255,7 +299,7 @@
           "title": "直接基于我的这个提示词库做了个页面。\nhttps://t.co/E2wlqxNXVv",
           "url": "https://x.com/op7418/status/2117926719864951031",
           "published_at": "2026-11-04T10:27:33Z",
-          "summary": "直接基于我的这个提示词库做了个页面。 op7418.github.io/guizang-s-prom…💬3🔄0❤️7👀2872📊4⚡ Powered by xgo.ing"
+          "summary": "直接基于我的这个提示词库做了个页面。 op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀3247📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "48a7753638a1854e3d7fb807edb1babed3b92625",
@@ -266,7 +310,7 @@
           "title": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！\n\n刚才让他一句话给我建了个我自己的图片和视频模型提示词库。",
           "url": "https://x.com/op7418/status/2117924167991652384",
           "published_at": "2026-11-04T10:17:25Z",
-          "summary": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。💬43🔄1❤️33👀11787📊44⚡ Powered by xgo.ing"
+          "summary": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。💬50🔄1❤️33👀13896📊50⚡ Powered by xgo.ing"
         },
         {
           "id": "a6a2150133b62aca855d2a10f479184bf773e375",
@@ -277,40 +321,7 @@
           "title": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt",
           "url": "https://x.com/op7418/status/2117916922843197879",
           "published_at": "2026-11-04T09:48:38Z",
-          "summary": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt💬1🔄0❤️1👀2369📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "931770eca3b6e786685cba30f85bf7e41e33b34a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "今天是瑞幸的埃塞金烘美式",
-          "url": "https://x.com/op7418/status/2117848577091518548",
-          "published_at": "2026-11-04T05:17:03Z",
-          "summary": "今天是瑞幸的埃塞金烘美式歸藏(guizang.ai)@op7418提示词：饮品照片 → 等轴测微缩建筑插画 请根据我上传的真实饮品照片，将照片中的咖啡、奶茶或饮料改造成一座可爱的品牌主题微缩建筑，使用粗黑描边的 2D 等轴测扁平矢量插画风格。 最后将原始照片和生成的插画通过代码拼接，输出一张完整的高清对比图。 用户提供的信息 品牌名称：【选填，留空则从照片自动识别】 饮品名称：【选填，留空则从照片自动识别】 联名信息：【选填，没有则忽略】 其他特色：【选填，例如咖啡豆产地、庄园名称、特殊配料等】 用户默认会上传一张饮品照片。优先识别照片中的品牌 Logo…"
-        },
-        {
-          "id": "4c0bbac965a6d43cfc112980b2491db2a27cfd28",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "详情：https://t.co/nsudFuYhZy",
-          "url": "https://x.com/op7418/status/2117804598455062900",
-          "published_at": "2026-11-04T02:22:17Z",
-          "summary": "详情：developer.apple.com/documentation/…💬2🔄0❤️2👀3523📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "cd6882501e4cb8dcab2022feabf1f120c7e3f2a6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Siri 终于即将能调用第三方的 APP 去完成任务了！\n\n苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。\n\n你可以自由决定将哪些功能开...",
-          "url": "https://x.com/op7418/status/2117804545829171299",
-          "published_at": "2026-11-04T02:22:05Z",
-          "summary": "Siri 终于即将能调用第三方的 APP 去完成任务了！ 苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。 你可以自由决定将哪些功能开放给 Siri AI 去控制。 Siri AI 的接入加上之前 iPhone Duo的适配，给很多大厂超级应用提出了难题。 之前豆包在手机上的时候，国内基本上这些超级应用都拒绝了豆包自动操作它们的应用。 现在 Siri AI 也有类似的功能了，到时候可以看看它们的应对，应该会很有意思。 这个能力的大概介绍： 打车之后，让 Siri 帮你改上车地点，或者让 Sir…"
+          "summary": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt💬1🔄0❤️1👀2496📊1⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -333,7 +344,7 @@
           "title": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile.\n\nG...",
           "url": "https://x.com/OpenAI/status/2118124966055223755",
           "published_at": "2026-11-04T23:35:19Z",
-          "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬19🔄26❤️446👀56012📊64⚡ Powered by xgo.ing"
+          "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬34🔄46❤️825👀122785📊116⚡ Powered by xgo.ing"
         },
         {
           "id": "e9d226e0b11b0bf139b6c5a4023bf928e7d66a6d",
@@ -355,7 +366,7 @@
           "title": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new...",
           "url": "https://x.com/OpenAI/status/2118124944928432327",
           "published_at": "2026-11-04T23:35:14Z",
-          "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬484🔄841❤️9176👀560429📊1637⚡ Powered by xgo.ing"
+          "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬849🔄1467❤️16650👀1435343📊2936⚡ Powered by xgo.ing"
         },
         {
           "id": "527fcbc3b1b12ff515b31925e2038dfd50fa7c3a",
@@ -366,7 +377,7 @@
           "title": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re work...",
           "url": "https://x.com/OpenAI/status/2118119463161905362",
           "published_at": "2026-11-04T23:13:27Z",
-          "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬6🔄11❤️223👀34801📊29⚡ Powered by xgo.ing"
+          "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬10🔄25❤️485👀75868📊63⚡ Powered by xgo.ing"
         },
         {
           "id": "dfdb890e1a81d9f047ce32c6dcaed6cb839889a6",
@@ -395,6 +406,50 @@
   },
   "items": [
     {
+      "id": "de174d3fda5115bb7b885f9e5136121008c94a0e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。\n\n请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。\n\n【角色保持一致】\n保...",
+      "url": "https://x.com/op7418/status/2118181972451438662",
+      "published_at": "2026-11-05T03:21:50Z",
+      "summary": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。 请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。 【角色保持一致】 保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。 保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。 【自动设计动作】 理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。 突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。…"
+    },
+    {
+      "id": "1d08c6be76b6ee3986334d4aa2a303cd4d6144f2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2...",
+      "url": "https://x.com/op7418/status/2118181775688241456",
+      "published_at": "2026-11-05T03:21:03Z",
+      "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬73🔄5❤️74👀12116📊73⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "4b7a481c63cb46dcd23f5243a5c4fb15f1c5047a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了",
+      "url": "https://x.com/op7418/status/2118157802279710824",
+      "published_at": "2026-11-05T01:45:48Z",
+      "summary": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了💬6🔄0❤️11👀3736📊6⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "13f89483a97687972918d5d7d16815cd510950b5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。",
+      "url": "https://x.com/op7418/status/2118154688101331319",
+      "published_at": "2026-11-05T01:33:25Z",
+      "summary": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。cat@_catwuSome news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great product…"
+    },
+    {
       "id": "21134fa2b7a665b2897c5b520020395593578116",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -403,7 +458,7 @@
       "title": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile.\n\nG...",
       "url": "https://x.com/OpenAI/status/2118124966055223755",
       "published_at": "2026-11-04T23:35:19Z",
-      "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬19🔄26❤️446👀56012📊64⚡ Powered by xgo.ing"
+      "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬34🔄46❤️825👀122785📊116⚡ Powered by xgo.ing"
     },
     {
       "id": "e9d226e0b11b0bf139b6c5a4023bf928e7d66a6d",
@@ -425,7 +480,7 @@
       "title": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new...",
       "url": "https://x.com/OpenAI/status/2118124944928432327",
       "published_at": "2026-11-04T23:35:14Z",
-      "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬484🔄841❤️9176👀560429📊1637⚡ Powered by xgo.ing"
+      "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬849🔄1467❤️16650👀1435343📊2936⚡ Powered by xgo.ing"
     },
     {
       "id": "527fcbc3b1b12ff515b31925e2038dfd50fa7c3a",
@@ -436,7 +491,7 @@
       "title": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re work...",
       "url": "https://x.com/OpenAI/status/2118119463161905362",
       "published_at": "2026-11-04T23:13:27Z",
-      "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬6🔄11❤️223👀34801📊29⚡ Powered by xgo.ing"
+      "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬10🔄25❤️485👀75868📊63⚡ Powered by xgo.ing"
     },
     {
       "id": "dfdb890e1a81d9f047ce32c6dcaed6cb839889a6",
@@ -469,7 +524,7 @@
       "title": "我操，这 B 站太猛了！\n\n我刚清的通知，过了 5 分钟点开，咋就这样了？",
       "url": "https://x.com/op7418/status/2118007476520132703",
       "published_at": "2026-11-04T15:48:27Z",
-      "summary": "我操，这 B 站太猛了！ 我刚清的通知，过了 5 分钟点开，咋就这样了？💬18🔄0❤️39👀16659📊20⚡ Powered by xgo.ing"
+      "summary": "我操，这 B 站太猛了！ 我刚清的通知，过了 5 分钟点开，咋就这样了？💬34🔄0❤️74👀30486📊37⚡ Powered by xgo.ing"
     },
     {
       "id": "3e32169c03a1d638a6563f5e7e913b6616839e0c",
@@ -480,7 +535,7 @@
       "title": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢",
       "url": "https://x.com/op7418/status/2118006021142777908",
       "published_at": "2026-11-04T15:42:40Z",
-      "summary": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢💬10🔄0❤️13👀7706📊10⚡ Powered by xgo.ing"
+      "summary": "没想到抖音都能闹鱼灾，我还以为抖音对这种机器人的自动评论啥的很严格呢💬10🔄0❤️16👀12169📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "0bc6ec11e9d297aaf9f9ed467d9246c4fcaf63c4",
@@ -491,7 +546,7 @@
       "title": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。\n\n如果可以让你的 BOT 顺便帮我点个 star 就更好了。",
       "url": "https://x.com/op7418/status/2118001795746455760",
       "published_at": "2026-11-04T15:25:53Z",
-      "summary": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。 如果可以让你的 BOT 顺便帮我点个 star 就更好了。歸藏(guizang.ai)@op7418Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。🔗 View Quoted Tweet💬5🔄1❤️7👀4535📊6⚡ Powered by xgo.ing"
+      "summary": "提醒一下，你可以@你的 BOT 直接收藏这些图像和视频的提示词玩法。 如果可以让你的 BOT 顺便帮我点个 star 就更好了。歸藏(guizang.ai)@op7418Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。🔗 View Quoted Tweet💬6🔄1❤️8👀5477📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "4caf675a3ca4d904f130acf069500fa68db7403b",
@@ -502,7 +557,7 @@
       "title": "跑了一个我感觉还行",
       "url": "https://x.com/op7418/status/2117952238199214414",
       "published_at": "2026-11-04T12:08:57Z",
-      "summary": "跑了一个我感觉还行Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵🔗 View Quoted Tweet💬10🔄0❤️44👀14499📊12⚡ Powered by xgo.ing"
+      "summary": "跑了一个我感觉还行Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵🔗 View Quoted Tweet💬10🔄1❤️55👀16891📊14⚡ Powered by xgo.ing"
     },
     {
       "id": "bf72c2ab0c112cd98378ffc058cb743683fb3eff",
@@ -513,7 +568,7 @@
       "title": "最近 Muse 那个视频模型非常火\n\n在一些真实场景下的表现非常得离谱。\n\n可能主要是第一次大家能够免费用到这种级别的视频模型\n\n现有的这个等级的模型还是贵",
       "url": "https://x.com/op7418/status/2117940844217221604",
       "published_at": "2026-11-04T11:23:41Z",
-      "summary": "最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵💬63🔄3❤️88👀36425📊64⚡ Powered by xgo.ing"
+      "summary": "最近 Muse 那个视频模型非常火 在一些真实场景下的表现非常得离谱。 可能主要是第一次大家能够免费用到这种级别的视频模型 现有的这个等级的模型还是贵💬76🔄4❤️100👀44076📊76⚡ Powered by xgo.ing"
     },
     {
       "id": "c6c4bafc24d46a028130aaf8f260aa00d3aa5e1f",
@@ -524,7 +579,7 @@
       "title": "直接基于我的这个提示词库做了个页面。\nhttps://t.co/E2wlqxNXVv",
       "url": "https://x.com/op7418/status/2117926719864951031",
       "published_at": "2026-11-04T10:27:33Z",
-      "summary": "直接基于我的这个提示词库做了个页面。 op7418.github.io/guizang-s-prom…💬3🔄0❤️7👀2872📊4⚡ Powered by xgo.ing"
+      "summary": "直接基于我的这个提示词库做了个页面。 op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀3247📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "48a7753638a1854e3d7fb807edb1babed3b92625",
@@ -535,7 +590,7 @@
       "title": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！\n\n刚才让他一句话给我建了个我自己的图片和视频模型提示词库。",
       "url": "https://x.com/op7418/status/2117924167991652384",
       "published_at": "2026-11-04T10:17:25Z",
-      "summary": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。💬43🔄1❤️33👀11787📊44⚡ Powered by xgo.ing"
+      "summary": "Grok Bot 对于我这种所有的信息基本上都在推特发过人，真是方便！ 刚才让他一句话给我建了个我自己的图片和视频模型提示词库。💬50🔄1❤️33👀13896📊50⚡ Powered by xgo.ing"
     },
     {
       "id": "a6a2150133b62aca855d2a10f479184bf773e375",
@@ -546,40 +601,7 @@
       "title": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt",
       "url": "https://x.com/op7418/status/2117916922843197879",
       "published_at": "2026-11-04T09:48:38Z",
-      "summary": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt💬1🔄0❤️1👀2369📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "931770eca3b6e786685cba30f85bf7e41e33b34a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "今天是瑞幸的埃塞金烘美式",
-      "url": "https://x.com/op7418/status/2117848577091518548",
-      "published_at": "2026-11-04T05:17:03Z",
-      "summary": "今天是瑞幸的埃塞金烘美式歸藏(guizang.ai)@op7418提示词：饮品照片 → 等轴测微缩建筑插画 请根据我上传的真实饮品照片，将照片中的咖啡、奶茶或饮料改造成一座可爱的品牌主题微缩建筑，使用粗黑描边的 2D 等轴测扁平矢量插画风格。 最后将原始照片和生成的插画通过代码拼接，输出一张完整的高清对比图。 用户提供的信息 品牌名称：【选填，留空则从照片自动识别】 饮品名称：【选填，留空则从照片自动识别】 联名信息：【选填，没有则忽略】 其他特色：【选填，例如咖啡豆产地、庄园名称、特殊配料等】 用户默认会上传一张饮品照片。优先识别照片中的品牌 Logo…"
-    },
-    {
-      "id": "4c0bbac965a6d43cfc112980b2491db2a27cfd28",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "详情：https://t.co/nsudFuYhZy",
-      "url": "https://x.com/op7418/status/2117804598455062900",
-      "published_at": "2026-11-04T02:22:17Z",
-      "summary": "详情：developer.apple.com/documentation/…💬2🔄0❤️2👀3523📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "cd6882501e4cb8dcab2022feabf1f120c7e3f2a6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Siri 终于即将能调用第三方的 APP 去完成任务了！\n\n苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。\n\n你可以自由决定将哪些功能开...",
-      "url": "https://x.com/op7418/status/2117804545829171299",
-      "published_at": "2026-11-04T02:22:05Z",
-      "summary": "Siri 终于即将能调用第三方的 APP 去完成任务了！ 苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。 你可以自由决定将哪些功能开放给 Siri AI 去控制。 Siri AI 的接入加上之前 iPhone Duo的适配，给很多大厂超级应用提出了难题。 之前豆包在手机上的时候，国内基本上这些超级应用都拒绝了豆包自动操作它们的应用。 现在 Siri AI 也有类似的功能了，到时候可以看看它们的应对，应该会很有意思。 这个能力的大概介绍： 打车之后，让 Siri 帮你改上车地点，或者让 Sir…"
+      "summary": "@bot 帮我把我这个提示词提交到我的提示词库里去:guizang-s-prompt💬1🔄0❤️1👀2496📊1⚡ Powered by xgo.ing"
     }
   ]
 }
