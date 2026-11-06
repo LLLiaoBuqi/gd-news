@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T18:10:22.082470Z",
+  "generated_at": "2026-11-06T23:21:36.843928Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 6,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 308,
+      "duration_ms": 272,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 195,
-      "duration_ms": 112,
+      "item_count": 197,
+      "duration_ms": 136,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1003,
+      "duration_ms": 797,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1118,
+      "duration_ms": 1226,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 979,
+      "duration_ms": 895,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 548,
+      "duration_ms": 542,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 768,
+      "duration_ms": 670,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 86,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1956,
+      "duration_ms": 1973,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1591,
+      "duration_ms": 1470,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -200,7 +200,7 @@
           "title": "提示词已经补充到我的提示词库里去了：https://t.co/E2wlqxNXVv",
           "url": "https://x.com/op7418/status/2118537386040975379",
           "published_at": "2026-11-06T02:54:08Z",
-          "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀2826📊4⚡ Powered by xgo.ing"
+          "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀2884📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "97f8f7a9e1b89df155069f18c0f9efafdaba79de",
@@ -217,7 +217,7 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -226,20 +226,75 @@
       ],
       "items": [
         {
-          "id": "15c7d1b1dcf32e28d720e95cc4482b0bba9c9355",
+          "id": "af98137acd9a1e9467706c9dd96d7dd7b7def257",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
+          "source": "OpenAI(@OpenAI)",
           "region": "global",
-          "title": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos thro...",
-          "url": "https://x.com/GeminiApp/status/2118406227533435391",
-          "published_at": "2026-11-05T18:12:57Z",
-          "summary": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos through multi-turn conversational edits and enjoy sharper visual stability in the Gemini app. Plus, Google AI Ultra subscribers can now create and edit videos up to 15 seconds long, gi…"
+          "title": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing a...",
+          "url": "https://x.com/OpenAI/status/2118795218099253606",
+          "published_at": "2026-11-06T19:58:39Z",
+          "summary": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cyber harm, and prioritize stronger protections. \"...This framework is an important step toward a common methodology for evaluating an…"
+        },
+        {
+          "id": "b5509a32f97c1f2aa2bb9f46ad77009e7c0514a3",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.\n\nD...",
+          "url": "https://x.com/OpenAI/status/2118782708767965238",
+          "published_at": "2026-11-06T19:08:57Z",
+          "summary": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench. Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify er…"
+        },
+        {
+          "id": "236b6a1639a512d5b5c8a08e2f6d718811dd2fb4",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "Teaching AI to build scientific models",
+          "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+          "published_at": "2026-11-06T00:00:00Z",
+          "summary": "In this guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl discuss how AI is starting to change the scientific modeling process, from construction to interpretation."
+        },
+        {
+          "id": "a1aff892944e0c51c7f456a9fb11d88fe0bf3ead",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "The components of agent memory",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "published_at": "2026-11-06T00:00:00Z",
+          "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes."
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "af98137acd9a1e9467706c9dd96d7dd7b7def257",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing a...",
+      "url": "https://x.com/OpenAI/status/2118795218099253606",
+      "published_at": "2026-11-06T19:58:39Z",
+      "summary": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cyber harm, and prioritize stronger protections. \"...This framework is an important step toward a common methodology for evaluating an…"
+    },
+    {
+      "id": "b5509a32f97c1f2aa2bb9f46ad77009e7c0514a3",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.\n\nD...",
+      "url": "https://x.com/OpenAI/status/2118782708767965238",
+      "published_at": "2026-11-06T19:08:57Z",
+      "summary": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench. Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify er…"
+    },
     {
       "id": "d4e3ab64a8faaef09f7bb6a7c7ddc9ce0b2eaa03",
       "site_id": "featuredrss",
@@ -249,7 +304,29 @@
       "title": "提示词已经补充到我的提示词库里去了：https://t.co/E2wlqxNXVv",
       "url": "https://x.com/op7418/status/2118537386040975379",
       "published_at": "2026-11-06T02:54:08Z",
-      "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀2826📊4⚡ Powered by xgo.ing"
+      "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀2884📊5⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "236b6a1639a512d5b5c8a08e2f6d718811dd2fb4",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "Teaching AI to build scientific models",
+      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+      "published_at": "2026-11-06T00:00:00Z",
+      "summary": "In this guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl discuss how AI is starting to change the scientific modeling process, from construction to interpretation."
+    },
+    {
+      "id": "a1aff892944e0c51c7f456a9fb11d88fe0bf3ead",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "The components of agent memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "published_at": "2026-11-06T00:00:00Z",
+      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes."
     },
     {
       "id": "97f8f7a9e1b89df155069f18c0f9efafdaba79de",
@@ -261,17 +338,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688181&idx=1&sn=36a2866b4f2eacb6ab37561f69348171",
       "published_at": "2026-11-05T23:56:00Z",
       "summary": "他们迎来了自己的智子"
-    },
-    {
-      "id": "15c7d1b1dcf32e28d720e95cc4482b0bba9c9355",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos thro...",
-      "url": "https://x.com/GeminiApp/status/2118406227533435391",
-      "published_at": "2026-11-05T18:12:57Z",
-      "summary": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos through multi-turn conversational edits and enjoy sharper visual stability in the Gemini app. Plus, Google AI Ultra subscribers can now create and edit videos up to 15 seconds long, gi…"
     }
   ]
 }
