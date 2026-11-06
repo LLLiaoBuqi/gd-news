@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T11:15:43.332050Z",
+  "generated_at": "2026-11-06T18:10:22.082470Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 165,
+      "duration_ms": 308,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 195,
-      "duration_ms": 102,
+      "duration_ms": 112,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1078,
+      "duration_ms": 1003,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1303,
+      "duration_ms": 1118,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1183,
+      "duration_ms": 979,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1464,
+      "duration_ms": 548,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1205,
+      "duration_ms": 768,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 70,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1680,
+      "duration_ms": 1956,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 986,
+      "duration_ms": 1591,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "提示词已经补充到我的提示词库里去了：https://t.co/E2wlqxNXVv",
           "url": "https://x.com/op7418/status/2118537386040975379",
           "published_at": "2026-11-06T02:54:08Z",
-          "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬2🔄0❤️8👀2509📊3⚡ Powered by xgo.ing"
+          "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀2826📊4⚡ Powered by xgo.ing"
         },
         {
           "id": "97f8f7a9e1b89df155069f18c0f9efafdaba79de",
@@ -212,56 +212,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688181&idx=1&sn=36a2866b4f2eacb6ab37561f69348171",
           "published_at": "2026-11-05T23:56:00Z",
           "summary": "他们迎来了自己的智子"
-        },
-        {
-          "id": "708282bd5c885d9a7061c07525b556803286b565",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "不知道 Anthropic 是否会在这个情绪下坚持上市。",
-          "url": "https://x.com/op7418/status/2118378838036234704",
-          "published_at": "2026-11-05T16:24:07Z",
-          "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬2🔄0❤️2👀5767📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c840ce7cd61603310b393c21063dc4c7df858564",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "开盘 30 分钟 跌了 2 万亿美元。",
-          "url": "https://x.com/op7418/status/2118378440596639828",
-          "published_at": "2026-11-05T16:22:32Z",
-          "summary": "开盘 30 分钟 跌了 2 万亿美元。💬7🔄0❤️3👀8326📊6⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f69687988b65a2873cf0c8df55027d9b9515b25b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
-          "url": "https://x.com/op7418/status/2118374811202416848",
-          "published_at": "2026-11-05T16:08:07Z",
-          "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬26🔄2❤️52👀27966📊27⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "712daec1fd4ce8e5e66916d01cf66ac587c345eb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。\n\n感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini...",
-          "url": "https://x.com/op7418/status/2118343623901389146",
-          "published_at": "2026-11-05T14:04:11Z",
-          "summary": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。 感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini 刷成 Omarchy。Omarchy@omarchyOmarchy 4.5 is finally here! Traditional desktop mode, M1/M2/M3/Neo compatibility, 50 languages, 7-second installs, and a million other features, fixes, a…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -279,61 +235,6 @@
           "url": "https://x.com/GeminiApp/status/2118406227533435391",
           "published_at": "2026-11-05T18:12:57Z",
           "summary": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos through multi-turn conversational edits and enjoy sharper visual stability in the Gemini app. Plus, Google AI Ultra subscribers can now create and edit videos up to 15 seconds long, gi…"
-        },
-        {
-          "id": "6148cfc3d98e9cbd5bc0c9438fb94f46c26f2fae",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "In this narrow defender’s window, our goal is to expand Daybreak access to organizations of every si...",
-          "url": "https://x.com/OpenAI/status/2118390192356700383",
-          "published_at": "2026-11-05T17:09:14Z",
-          "summary": "In this narrow defender’s window, our goal is to expand Daybreak access to organizations of every size, independent researchers, and open-source maintainers. Daybreak Blue helps verified defenders validate vulnerabilities and fixes with fewer refusals. Daybreak Red enables offens…"
-        },
-        {
-          "id": "1cb0d9e9ae75c77ad678b7193f378afd9cd19153",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcemen...",
-          "url": "https://x.com/OpenAI/status/2118390195099930906",
-          "published_at": "2026-11-05T17:09:14Z",
-          "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬21🔄29❤️661👀176323📊81⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "168a7b415c4d4973ca4fb1b7d93004493de0722b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with ...",
-          "url": "https://x.com/OpenAI/status/2118390190246879554",
-          "published_at": "2026-11-05T17:09:13Z",
-          "summary": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment. The model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—along…"
-        },
-        {
-          "id": "abaf57545cb3f2305644ace8cd8d72c1d53d2787",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Meet Gemini Omni 1.2 Flash ⚡️\n\nWe’ve made the model more cost-effective, bumped the video generation...",
-          "url": "https://x.com/GoogleAI/status/2118389961426874879",
-          "published_at": "2026-11-05T17:08:19Z",
-          "summary": "Meet Gemini Omni 1.2 Flash ⚡️ We’ve made the model more cost-effective, bumped the video generation and editing limit up to 15 seconds, and made updates to how scenes hold together over time. We've also given character speech an upgrade, reduced visual glitches like jump cuts, an…"
-        },
-        {
-          "id": "e7d644db011e4d903e76f9ecfe3a66010690edff",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Get started today:\n— Creatives and Consumers: Direct and edit in Google Flow (rolling out), generate...",
-          "url": "https://x.com/GoogleAI/status/2118389964056547374",
-          "published_at": "2026-11-05T17:08:19Z",
-          "summary": "Get started today: — Creatives and Consumers: Direct and edit in Google Flow (rolling out), generate clips in Google Vids, or create videos in the Gemini App (rolling out to all Google AI subscribers, with 15-second clips available to Ultra) — Developers: Prototype in @GoogleAISt…"
         }
       ]
     }
@@ -348,7 +249,7 @@
       "title": "提示词已经补充到我的提示词库里去了：https://t.co/E2wlqxNXVv",
       "url": "https://x.com/op7418/status/2118537386040975379",
       "published_at": "2026-11-06T02:54:08Z",
-      "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬2🔄0❤️8👀2509📊3⚡ Powered by xgo.ing"
+      "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀2826📊4⚡ Powered by xgo.ing"
     },
     {
       "id": "97f8f7a9e1b89df155069f18c0f9efafdaba79de",
@@ -371,105 +272,6 @@
       "url": "https://x.com/GeminiApp/status/2118406227533435391",
       "published_at": "2026-11-05T18:12:57Z",
       "summary": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos through multi-turn conversational edits and enjoy sharper visual stability in the Gemini app. Plus, Google AI Ultra subscribers can now create and edit videos up to 15 seconds long, gi…"
-    },
-    {
-      "id": "6148cfc3d98e9cbd5bc0c9438fb94f46c26f2fae",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "In this narrow defender’s window, our goal is to expand Daybreak access to organizations of every si...",
-      "url": "https://x.com/OpenAI/status/2118390192356700383",
-      "published_at": "2026-11-05T17:09:14Z",
-      "summary": "In this narrow defender’s window, our goal is to expand Daybreak access to organizations of every size, independent researchers, and open-source maintainers. Daybreak Blue helps verified defenders validate vulnerabilities and fixes with fewer refusals. Daybreak Red enables offens…"
-    },
-    {
-      "id": "1cb0d9e9ae75c77ad678b7193f378afd9cd19153",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcemen...",
-      "url": "https://x.com/OpenAI/status/2118390195099930906",
-      "published_at": "2026-11-05T17:09:14Z",
-      "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬21🔄29❤️661👀176323📊81⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "168a7b415c4d4973ca4fb1b7d93004493de0722b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with ...",
-      "url": "https://x.com/OpenAI/status/2118390190246879554",
-      "published_at": "2026-11-05T17:09:13Z",
-      "summary": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment. The model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—along…"
-    },
-    {
-      "id": "abaf57545cb3f2305644ace8cd8d72c1d53d2787",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Meet Gemini Omni 1.2 Flash ⚡️\n\nWe’ve made the model more cost-effective, bumped the video generation...",
-      "url": "https://x.com/GoogleAI/status/2118389961426874879",
-      "published_at": "2026-11-05T17:08:19Z",
-      "summary": "Meet Gemini Omni 1.2 Flash ⚡️ We’ve made the model more cost-effective, bumped the video generation and editing limit up to 15 seconds, and made updates to how scenes hold together over time. We've also given character speech an upgrade, reduced visual glitches like jump cuts, an…"
-    },
-    {
-      "id": "e7d644db011e4d903e76f9ecfe3a66010690edff",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Get started today:\n— Creatives and Consumers: Direct and edit in Google Flow (rolling out), generate...",
-      "url": "https://x.com/GoogleAI/status/2118389964056547374",
-      "published_at": "2026-11-05T17:08:19Z",
-      "summary": "Get started today: — Creatives and Consumers: Direct and edit in Google Flow (rolling out), generate clips in Google Vids, or create videos in the Gemini App (rolling out to all Google AI subscribers, with 15-second clips available to Ultra) — Developers: Prototype in @GoogleAISt…"
-    },
-    {
-      "id": "708282bd5c885d9a7061c07525b556803286b565",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "不知道 Anthropic 是否会在这个情绪下坚持上市。",
-      "url": "https://x.com/op7418/status/2118378838036234704",
-      "published_at": "2026-11-05T16:24:07Z",
-      "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬2🔄0❤️2👀5767📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c840ce7cd61603310b393c21063dc4c7df858564",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "开盘 30 分钟 跌了 2 万亿美元。",
-      "url": "https://x.com/op7418/status/2118378440596639828",
-      "published_at": "2026-11-05T16:22:32Z",
-      "summary": "开盘 30 分钟 跌了 2 万亿美元。💬7🔄0❤️3👀8326📊6⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f69687988b65a2873cf0c8df55027d9b9515b25b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
-      "url": "https://x.com/op7418/status/2118374811202416848",
-      "published_at": "2026-11-05T16:08:07Z",
-      "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬26🔄2❤️52👀27966📊27⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "712daec1fd4ce8e5e66916d01cf66ac587c345eb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。\n\n感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini...",
-      "url": "https://x.com/op7418/status/2118343623901389146",
-      "published_at": "2026-11-05T14:04:11Z",
-      "summary": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。 感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini 刷成 Omarchy。Omarchy@omarchyOmarchy 4.5 is finally here! Traditional desktop mode, M1/M2/M3/Neo compatibility, 50 languages, 7-second installs, and a million other features, fixes, a…"
     }
   ]
 }
