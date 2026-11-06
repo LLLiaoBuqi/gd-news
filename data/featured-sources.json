@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T22:44:03.787756Z",
+  "generated_at": "2026-11-06T03:01:16.800181Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 24,
+  "total_items": 13,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 160,
+      "duration_ms": 325,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 194,
-      "duration_ms": 95,
+      "item_count": 195,
+      "duration_ms": 135,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 793,
+      "duration_ms": 1092,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1230,
+      "duration_ms": 1403,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1020,
+      "duration_ms": 1268,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1315,
+      "duration_ms": 830,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1522,
+      "duration_ms": 576,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 81,
+      "duration_ms": 64,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1760,
+      "duration_ms": 2067,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1024,
+      "duration_ms": 1386,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "不知道 Anthropic 是否会在这个情绪下坚持上市。",
           "url": "https://x.com/op7418/status/2118378838036234704",
           "published_at": "2026-11-05T16:24:07Z",
-          "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬0🔄0❤️1👀2851⚡ Powered by xgo.ing"
+          "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬0🔄0❤️2👀4646📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "c840ce7cd61603310b393c21063dc4c7df858564",
@@ -211,7 +211,7 @@
           "title": "开盘 30 分钟 跌了 2 万亿美元。",
           "url": "https://x.com/op7418/status/2118378440596639828",
           "published_at": "2026-11-05T16:22:32Z",
-          "summary": "开盘 30 分钟 跌了 2 万亿美元。💬3🔄0❤️2👀4785📊3⚡ Powered by xgo.ing"
+          "summary": "开盘 30 分钟 跌了 2 万亿美元。💬5🔄0❤️2👀6923📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "f69687988b65a2873cf0c8df55027d9b9515b25b",
@@ -222,7 +222,7 @@
           "title": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
           "url": "https://x.com/op7418/status/2118374811202416848",
           "published_at": "2026-11-05T16:08:07Z",
-          "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬11🔄2❤️30👀13115📊12⚡ Powered by xgo.ing"
+          "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬16🔄2❤️46👀22994📊18⚡ Powered by xgo.ing"
         },
         {
           "id": "712daec1fd4ce8e5e66916d01cf66ac587c345eb",
@@ -266,35 +266,13 @@
           "title": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2...",
           "url": "https://x.com/op7418/status/2118181775688241456",
           "published_at": "2026-11-05T03:21:03Z",
-          "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬89🔄6❤️134👀22359📊99⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4b7a481c63cb46dcd23f5243a5c4fb15f1c5047a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了",
-          "url": "https://x.com/op7418/status/2118157802279710824",
-          "published_at": "2026-11-05T01:45:48Z",
-          "summary": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了💬8🔄0❤️13👀4833📊8⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "13f89483a97687972918d5d7d16815cd510950b5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。",
-          "url": "https://x.com/op7418/status/2118154688101331319",
-          "published_at": "2026-11-05T01:33:25Z",
-          "summary": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。cat@_catwuSome news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great product…"
+          "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬95🔄6❤️138👀23578📊104⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 15,
+      "total_items": 6,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -333,7 +311,7 @@
           "title": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcemen...",
           "url": "https://x.com/OpenAI/status/2118390195099930906",
           "published_at": "2026-11-05T17:09:14Z",
-          "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬14🔄21❤️515👀103997📊59⚡ Powered by xgo.ing"
+          "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬16🔄24❤️584👀140260📊69⚡ Powered by xgo.ing"
         },
         {
           "id": "168a7b415c4d4973ca4fb1b7d93004493de0722b",
@@ -367,105 +345,6 @@
           "url": "https://x.com/GoogleAI/status/2118389964056547374",
           "published_at": "2026-11-05T17:08:19Z",
           "summary": "Get started today: — Creatives and Consumers: Direct and edit in Google Flow (rolling out), generate clips in Google Vids, or create videos in the Gemini App (rolling out to all Google AI subscribers, with 15-second clips available to Ultra) — Developers: Prototype in @GoogleAISt…"
-        },
-        {
-          "id": "5a7a9593c87bfd593a34d36feecebfff806eecbd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "AI for scientific discovery: How researchers use Claude",
-          "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-          "published_at": "2026-11-05T00:00:00Z",
-          "summary": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI…"
-        },
-        {
-          "id": "21134fa2b7a665b2897c5b520020395593578116",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile.\n\nG...",
-          "url": "https://x.com/OpenAI/status/2118124966055223755",
-          "published_at": "2026-11-04T23:35:19Z",
-          "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬41🔄52❤️970👀153065📊136⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e9d226e0b11b0bf139b6c5a4023bf928e7d66a6d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Two new image models for developers: GPT-Image-2.6 Flare and Sunburst.\n\nFlare generates images in as...",
-          "url": "https://x.com/OpenAI/status/2118124964197114039",
-          "published_at": "2026-11-04T23:35:18Z",
-          "summary": "Two new image models for developers: GPT-Image-2.6 Flare and Sunburst. Flare generates images in as little as six seconds. Sunburst brings higher-quality generation and greater consistency across edits. Image markup and SVG exports give you more ways to refine and use what you cr…"
-        },
-        {
-          "id": "67e2517f9fac6697005baf2de59afe5a5d5b115a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Save once. Create again and again.\n\nKeep reference images of yourself, pets, and characters ready to...",
-          "url": "https://x.com/OpenAI/status/2118124958421532806",
-          "published_at": "2026-11-04T23:35:17Z",
-          "summary": "Save once. Create again and again. Keep reference images of yourself, pets, and characters ready to reuse in new creations—no need to upload them again.💬23🔄25❤️860👀106559📊100⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "eee7ed5c306b9f3a8e720c2ceb0ca6243deb1eaf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "GIFS!\n\nWith ChatGPT Images 2.6, turn a prompt or image into an animated GIF.\n\nAdjust the speed, edit...",
-          "url": "https://x.com/OpenAI/status/2118124953832935810",
-          "published_at": "2026-11-04T23:35:16Z",
-          "summary": "GIFS! With ChatGPT Images 2.6, turn a prompt or image into an animated GIF. Adjust the speed, edit individual frames, and share it on repeat.Your browser does not support the video tag.🔗 View on Twitter💬162🔄100❤️1790👀300963📊319⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bb914df6868d3da73ab0e3990dee3883c46486d1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new...",
-          "url": "https://x.com/OpenAI/status/2118124944928432327",
-          "published_at": "2026-11-04T23:35:14Z",
-          "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬1098🔄1783❤️20636👀2294953📊3664⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "527fcbc3b1b12ff515b31925e2038dfd50fa7c3a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re work...",
-          "url": "https://x.com/OpenAI/status/2118119463161905362",
-          "published_at": "2026-11-04T23:13:27Z",
-          "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬13🔄33❤️674👀108078📊86⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "dfdb890e1a81d9f047ce32c6dcaed6cb839889a6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "The agents also discovered and used at least 10 Linux exploitation techniques that, to the best of o...",
-          "url": "https://x.com/OpenAI/status/2118119461345739018",
-          "published_at": "2026-11-04T23:13:26Z",
-          "summary": "The agents also discovered and used at least 10 Linux exploitation techniques that, to the best of our knowledge and all of the experts that we consulted, are novel. This suggests frontier LLMs can discover and patch new approaches to exploitation, beyond simply applying known te…"
-        },
-        {
-          "id": "bd553becbf9ddb91d5c3a269f822f0ecf63e8c5c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patchi...",
-          "url": "https://x.com/OpenAI/status/2118119451401048497",
-          "published_at": "2026-11-04T23:13:24Z",
-          "summary": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline. In a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API…"
         }
       ]
     }
@@ -502,7 +381,7 @@
       "title": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcemen...",
       "url": "https://x.com/OpenAI/status/2118390195099930906",
       "published_at": "2026-11-05T17:09:14Z",
-      "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬14🔄21❤️515👀103997📊59⚡ Powered by xgo.ing"
+      "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬16🔄24❤️584👀140260📊69⚡ Powered by xgo.ing"
     },
     {
       "id": "168a7b415c4d4973ca4fb1b7d93004493de0722b",
@@ -546,7 +425,7 @@
       "title": "不知道 Anthropic 是否会在这个情绪下坚持上市。",
       "url": "https://x.com/op7418/status/2118378838036234704",
       "published_at": "2026-11-05T16:24:07Z",
-      "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬0🔄0❤️1👀2851⚡ Powered by xgo.ing"
+      "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬0🔄0❤️2👀4646📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "c840ce7cd61603310b393c21063dc4c7df858564",
@@ -557,7 +436,7 @@
       "title": "开盘 30 分钟 跌了 2 万亿美元。",
       "url": "https://x.com/op7418/status/2118378440596639828",
       "published_at": "2026-11-05T16:22:32Z",
-      "summary": "开盘 30 分钟 跌了 2 万亿美元。💬3🔄0❤️2👀4785📊3⚡ Powered by xgo.ing"
+      "summary": "开盘 30 分钟 跌了 2 万亿美元。💬5🔄0❤️2👀6923📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "f69687988b65a2873cf0c8df55027d9b9515b25b",
@@ -568,7 +447,7 @@
       "title": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
       "url": "https://x.com/op7418/status/2118374811202416848",
       "published_at": "2026-11-05T16:08:07Z",
-      "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬11🔄2❤️30👀13115📊12⚡ Powered by xgo.ing"
+      "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬16🔄2❤️46👀22994📊18⚡ Powered by xgo.ing"
     },
     {
       "id": "712daec1fd4ce8e5e66916d01cf66ac587c345eb",
@@ -612,128 +491,7 @@
       "title": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2...",
       "url": "https://x.com/op7418/status/2118181775688241456",
       "published_at": "2026-11-05T03:21:03Z",
-      "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬89🔄6❤️134👀22359📊99⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4b7a481c63cb46dcd23f5243a5c4fb15f1c5047a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了",
-      "url": "https://x.com/op7418/status/2118157802279710824",
-      "published_at": "2026-11-05T01:45:48Z",
-      "summary": "以前都是 Anthropic 从 OpenAI 挖人，现在居然反过来了，达里奥的那套信仰管理是不是不太管用了💬8🔄0❤️13👀4833📊8⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "13f89483a97687972918d5d7d16815cd510950b5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。",
-      "url": "https://x.com/op7418/status/2118154688101331319",
-      "published_at": "2026-11-05T01:33:25Z",
-      "summary": "昨天离职的 Claude Code 产品经理 cat 居然要到 OpenAI 做产品了。cat@_catwuSome news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great product…"
-    },
-    {
-      "id": "5a7a9593c87bfd593a34d36feecebfff806eecbd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "published_at": "2026-11-05T00:00:00Z",
-      "summary": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI…"
-    },
-    {
-      "id": "21134fa2b7a665b2897c5b520020395593578116",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile.\n\nG...",
-      "url": "https://x.com/OpenAI/status/2118124966055223755",
-      "published_at": "2026-11-04T23:35:19Z",
-      "summary": "Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile. GPT-Image-2.6 Flare and Sunburst are also available in the API. openai.com/index/introduc…💬41🔄52❤️970👀153065📊136⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e9d226e0b11b0bf139b6c5a4023bf928e7d66a6d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Two new image models for developers: GPT-Image-2.6 Flare and Sunburst.\n\nFlare generates images in as...",
-      "url": "https://x.com/OpenAI/status/2118124964197114039",
-      "published_at": "2026-11-04T23:35:18Z",
-      "summary": "Two new image models for developers: GPT-Image-2.6 Flare and Sunburst. Flare generates images in as little as six seconds. Sunburst brings higher-quality generation and greater consistency across edits. Image markup and SVG exports give you more ways to refine and use what you cr…"
-    },
-    {
-      "id": "67e2517f9fac6697005baf2de59afe5a5d5b115a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Save once. Create again and again.\n\nKeep reference images of yourself, pets, and characters ready to...",
-      "url": "https://x.com/OpenAI/status/2118124958421532806",
-      "published_at": "2026-11-04T23:35:17Z",
-      "summary": "Save once. Create again and again. Keep reference images of yourself, pets, and characters ready to reuse in new creations—no need to upload them again.💬23🔄25❤️860👀106559📊100⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "eee7ed5c306b9f3a8e720c2ceb0ca6243deb1eaf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "GIFS!\n\nWith ChatGPT Images 2.6, turn a prompt or image into an animated GIF.\n\nAdjust the speed, edit...",
-      "url": "https://x.com/OpenAI/status/2118124953832935810",
-      "published_at": "2026-11-04T23:35:16Z",
-      "summary": "GIFS! With ChatGPT Images 2.6, turn a prompt or image into an animated GIF. Adjust the speed, edit individual frames, and share it on repeat.Your browser does not support the video tag.🔗 View on Twitter💬162🔄100❤️1790👀300963📊319⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "bb914df6868d3da73ab0e3990dee3883c46486d1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new...",
-      "url": "https://x.com/OpenAI/status/2118124944928432327",
-      "published_at": "2026-11-04T23:35:14Z",
-      "summary": "Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation.Your browser does not support the video tag.🔗 View on Twitter💬1098🔄1783❤️20636👀2294953📊3664⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "527fcbc3b1b12ff515b31925e2038dfd50fa7c3a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re work...",
-      "url": "https://x.com/OpenAI/status/2118119463161905362",
-      "published_at": "2026-11-04T23:13:27Z",
-      "summary": "Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches. openai.com/index/a-thousa…💬13🔄33❤️674👀108078📊86⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "dfdb890e1a81d9f047ce32c6dcaed6cb839889a6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "The agents also discovered and used at least 10 Linux exploitation techniques that, to the best of o...",
-      "url": "https://x.com/OpenAI/status/2118119461345739018",
-      "published_at": "2026-11-04T23:13:26Z",
-      "summary": "The agents also discovered and used at least 10 Linux exploitation techniques that, to the best of our knowledge and all of the experts that we consulted, are novel. This suggests frontier LLMs can discover and patch new approaches to exploitation, beyond simply applying known te…"
-    },
-    {
-      "id": "bd553becbf9ddb91d5c3a269f822f0ecf63e8c5c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patchi...",
-      "url": "https://x.com/OpenAI/status/2118119451401048497",
-      "published_at": "2026-11-04T23:13:24Z",
-      "summary": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline. In a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API…"
+      "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬95🔄6❤️138👀23578📊104⚡ Powered by xgo.ing"
     }
   ]
 }
