@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T03:01:16.800181Z",
+  "generated_at": "2026-11-06T11:15:43.332050Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 325,
+      "duration_ms": 165,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 195,
-      "duration_ms": 135,
+      "duration_ms": 102,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1092,
+      "duration_ms": 1078,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1403,
+      "duration_ms": 1303,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1268,
+      "duration_ms": 1183,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 830,
+      "duration_ms": 1464,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 576,
+      "duration_ms": 1205,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 55,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2067,
+      "duration_ms": 1680,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1386,
+      "duration_ms": 986,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 6,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "d4e3ab64a8faaef09f7bb6a7c7ddc9ce0b2eaa03",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "提示词已经补充到我的提示词库里去了：https://t.co/E2wlqxNXVv",
+          "url": "https://x.com/op7418/status/2118537386040975379",
+          "published_at": "2026-11-06T02:54:08Z",
+          "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬2🔄0❤️8👀2509📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "97f8f7a9e1b89df155069f18c0f9efafdaba79de",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "这可能是美国AI最魔幻的一天。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688181&idx=1&sn=36a2866b4f2eacb6ab37561f69348171",
+          "published_at": "2026-11-05T23:56:00Z",
+          "summary": "他们迎来了自己的智子"
+        },
         {
           "id": "708282bd5c885d9a7061c07525b556803286b565",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "不知道 Anthropic 是否会在这个情绪下坚持上市。",
           "url": "https://x.com/op7418/status/2118378838036234704",
           "published_at": "2026-11-05T16:24:07Z",
-          "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬0🔄0❤️2👀4646📊1⚡ Powered by xgo.ing"
+          "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬2🔄0❤️2👀5767📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "c840ce7cd61603310b393c21063dc4c7df858564",
@@ -211,7 +233,7 @@
           "title": "开盘 30 分钟 跌了 2 万亿美元。",
           "url": "https://x.com/op7418/status/2118378440596639828",
           "published_at": "2026-11-05T16:22:32Z",
-          "summary": "开盘 30 分钟 跌了 2 万亿美元。💬5🔄0❤️2👀6923📊5⚡ Powered by xgo.ing"
+          "summary": "开盘 30 分钟 跌了 2 万亿美元。💬7🔄0❤️3👀8326📊6⚡ Powered by xgo.ing"
         },
         {
           "id": "f69687988b65a2873cf0c8df55027d9b9515b25b",
@@ -222,7 +244,7 @@
           "title": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
           "url": "https://x.com/op7418/status/2118374811202416848",
           "published_at": "2026-11-05T16:08:07Z",
-          "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬16🔄2❤️46👀22994📊18⚡ Powered by xgo.ing"
+          "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬26🔄2❤️52👀27966📊27⚡ Powered by xgo.ing"
         },
         {
           "id": "712daec1fd4ce8e5e66916d01cf66ac587c345eb",
@@ -234,39 +256,6 @@
           "url": "https://x.com/op7418/status/2118343623901389146",
           "published_at": "2026-11-05T14:04:11Z",
           "summary": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。 感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini 刷成 Omarchy。Omarchy@omarchyOmarchy 4.5 is finally here! Traditional desktop mode, M1/M2/M3/Neo compatibility, 50 languages, 7-second installs, and a million other features, fixes, a…"
-        },
-        {
-          "id": "466a4b9a4b8024e017b4d150caea8c346dd46ba0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "UI/3D/代码动画... 分享4大类能去掉AI味的新技巧",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512876&idx=1&sn=d16f3ee7b6de41c40c63c38a81b5a73c",
-          "published_at": "2026-11-05T09:34:00Z",
-          "summary": "商汤这次新模型有点东西"
-        },
-        {
-          "id": "de174d3fda5115bb7b885f9e5136121008c94a0e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。\n\n请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。\n\n【角色保持一致】\n保...",
-          "url": "https://x.com/op7418/status/2118181972451438662",
-          "published_at": "2026-11-05T03:21:50Z",
-          "summary": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。 请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。 【角色保持一致】 保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。 保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。 【自动设计动作】 理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。 突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。…"
-        },
-        {
-          "id": "1d08c6be76b6ee3986334d4aa2a303cd4d6144f2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2...",
-          "url": "https://x.com/op7418/status/2118181775688241456",
-          "published_at": "2026-11-05T03:21:03Z",
-          "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬95🔄6❤️138👀23578📊104⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -311,7 +300,7 @@
           "title": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcemen...",
           "url": "https://x.com/OpenAI/status/2118390195099930906",
           "published_at": "2026-11-05T17:09:14Z",
-          "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬16🔄24❤️584👀140260📊69⚡ Powered by xgo.ing"
+          "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬21🔄29❤️661👀176323📊81⚡ Powered by xgo.ing"
         },
         {
           "id": "168a7b415c4d4973ca4fb1b7d93004493de0722b",
@@ -351,6 +340,28 @@
   },
   "items": [
     {
+      "id": "d4e3ab64a8faaef09f7bb6a7c7ddc9ce0b2eaa03",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "提示词已经补充到我的提示词库里去了：https://t.co/E2wlqxNXVv",
+      "url": "https://x.com/op7418/status/2118537386040975379",
+      "published_at": "2026-11-06T02:54:08Z",
+      "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬2🔄0❤️8👀2509📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "97f8f7a9e1b89df155069f18c0f9efafdaba79de",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "这可能是美国AI最魔幻的一天。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688181&idx=1&sn=36a2866b4f2eacb6ab37561f69348171",
+      "published_at": "2026-11-05T23:56:00Z",
+      "summary": "他们迎来了自己的智子"
+    },
+    {
       "id": "15c7d1b1dcf32e28d720e95cc4482b0bba9c9355",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -381,7 +392,7 @@
       "title": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcemen...",
       "url": "https://x.com/OpenAI/status/2118390195099930906",
       "published_at": "2026-11-05T17:09:14Z",
-      "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬16🔄24❤️584👀140260📊69⚡ Powered by xgo.ing"
+      "summary": "On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: openai.com/cyber-at-the-f…Your browser does not support the video tag.🔗 View on Twitter💬21🔄29❤️661👀176323📊81⚡ Powered by xgo.ing"
     },
     {
       "id": "168a7b415c4d4973ca4fb1b7d93004493de0722b",
@@ -425,7 +436,7 @@
       "title": "不知道 Anthropic 是否会在这个情绪下坚持上市。",
       "url": "https://x.com/op7418/status/2118378838036234704",
       "published_at": "2026-11-05T16:24:07Z",
-      "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬0🔄0❤️2👀4646📊1⚡ Powered by xgo.ing"
+      "summary": "不知道 Anthropic 是否会在这个情绪下坚持上市。💬2🔄0❤️2👀5767📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "c840ce7cd61603310b393c21063dc4c7df858564",
@@ -436,7 +447,7 @@
       "title": "开盘 30 分钟 跌了 2 万亿美元。",
       "url": "https://x.com/op7418/status/2118378440596639828",
       "published_at": "2026-11-05T16:22:32Z",
-      "summary": "开盘 30 分钟 跌了 2 万亿美元。💬5🔄0❤️2👀6923📊5⚡ Powered by xgo.ing"
+      "summary": "开盘 30 分钟 跌了 2 万亿美元。💬7🔄0❤️3👀8326📊6⚡ Powered by xgo.ing"
     },
     {
       "id": "f69687988b65a2873cf0c8df55027d9b9515b25b",
@@ -447,7 +458,7 @@
       "title": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
       "url": "https://x.com/op7418/status/2118374811202416848",
       "published_at": "2026-11-05T16:08:07Z",
-      "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬16🔄2❤️46👀22994📊18⚡ Powered by xgo.ing"
+      "summary": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。💬26🔄2❤️52👀27966📊27⚡ Powered by xgo.ing"
     },
     {
       "id": "712daec1fd4ce8e5e66916d01cf66ac587c345eb",
@@ -459,39 +470,6 @@
       "url": "https://x.com/op7418/status/2118343623901389146",
       "published_at": "2026-11-05T14:04:11Z",
       "summary": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。 感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini 刷成 Omarchy。Omarchy@omarchyOmarchy 4.5 is finally here! Traditional desktop mode, M1/M2/M3/Neo compatibility, 50 languages, 7-second installs, and a million other features, fixes, a…"
-    },
-    {
-      "id": "466a4b9a4b8024e017b4d150caea8c346dd46ba0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "UI/3D/代码动画... 分享4大类能去掉AI味的新技巧",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512876&idx=1&sn=d16f3ee7b6de41c40c63c38a81b5a73c",
-      "published_at": "2026-11-05T09:34:00Z",
-      "summary": "商汤这次新模型有点东西"
-    },
-    {
-      "id": "de174d3fda5115bb7b885f9e5136121008c94a0e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。\n\n请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。\n\n【角色保持一致】\n保...",
-      "url": "https://x.com/op7418/status/2118181972451438662",
-      "published_at": "2026-11-05T03:21:50Z",
-      "summary": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。 请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。 【角色保持一致】 保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。 保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。 【自动设计动作】 理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。 突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。…"
-    },
-    {
-      "id": "1d08c6be76b6ee3986334d4aa2a303cd4d6144f2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2...",
-      "url": "https://x.com/op7418/status/2118181775688241456",
-      "published_at": "2026-11-05T03:21:03Z",
-      "summary": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。 这个很好玩！用它做了几张最近很火的大肥鱼表情包。 神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。 提示词放下面 你可以用这套提示词生成各种大肥鱼表情包。💬95🔄6❤️138👀23578📊104⚡ Powered by xgo.ing"
     }
   ]
 }
