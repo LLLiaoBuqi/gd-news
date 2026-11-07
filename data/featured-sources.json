@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T09:43:43.694437Z",
+  "generated_at": "2026-11-07T16:00:51.077150Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 3,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 217,
+      "duration_ms": 513,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 197,
-      "duration_ms": 67,
+      "duration_ms": 68,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 842,
+      "duration_ms": 1083,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1005,
+      "duration_ms": 1200,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 936,
+      "duration_ms": 1046,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 550,
+      "duration_ms": 477,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 370,
+      "duration_ms": 861,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 22,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1973,
+      "duration_ms": 1900,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 911,
+      "duration_ms": 1143,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,25 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "d0a80e34b5a3afab559e044314cdc498e9286c83",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "史上最全GPT Image 2.6 10大GIF邪修玩法，肝了两天的我决定把提示语都公开了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513200&idx=1&sn=2a8d56d7bbcb0a16e2a8cf319b7e3e55",
+          "published_at": "2026-11-07T11:22:00Z",
+          "summary": "燃尽了，幸好有7号那张gpt重置卡不然都不够额度用的"
+        }
+      ]
     },
     "global": {
       "label": "国外精选",
@@ -228,6 +240,17 @@
     }
   },
   "items": [
+    {
+      "id": "d0a80e34b5a3afab559e044314cdc498e9286c83",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "史上最全GPT Image 2.6 10大GIF邪修玩法，肝了两天的我决定把提示语都公开了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513200&idx=1&sn=2a8d56d7bbcb0a16e2a8cf319b7e3e55",
+      "published_at": "2026-11-07T11:22:00Z",
+      "summary": "燃尽了，幸好有7号那张gpt重置卡不然都不够额度用的"
+    },
     {
       "id": "af98137acd9a1e9467706c9dd96d7dd7b7def257",
       "site_id": "featuredrss",
