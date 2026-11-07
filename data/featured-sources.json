@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T23:21:36.843928Z",
+  "generated_at": "2026-11-07T02:58:36.951572Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 272,
+      "duration_ms": 243,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 197,
-      "duration_ms": 136,
+      "duration_ms": 111,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 797,
+      "duration_ms": 643,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1226,
+      "duration_ms": 1002,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 895,
+      "duration_ms": 892,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 542,
+      "duration_ms": 884,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 670,
+      "duration_ms": 472,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 86,
+      "duration_ms": 114,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1973,
+      "duration_ms": 1917,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1470,
+      "duration_ms": 1473,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,40 +184,17 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 0,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": [
-        {
-          "id": "d4e3ab64a8faaef09f7bb6a7c7ddc9ce0b2eaa03",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "提示词已经补充到我的提示词库里去了：https://t.co/E2wlqxNXVv",
-          "url": "https://x.com/op7418/status/2118537386040975379",
-          "published_at": "2026-11-06T02:54:08Z",
-          "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀2884📊5⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "97f8f7a9e1b89df155069f18c0f9efafdaba79de",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "这可能是美国AI最魔幻的一天。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688181&idx=1&sn=36a2866b4f2eacb6ab37561f69348171",
-          "published_at": "2026-11-05T23:56:00Z",
-          "summary": "他们迎来了自己的智子"
-        }
-      ]
+      "items": []
     },
     "global": {
       "label": "国外精选",
-      "total_items": 4,
+      "total_items": 2,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -246,28 +223,6 @@
           "url": "https://x.com/OpenAI/status/2118782708767965238",
           "published_at": "2026-11-06T19:08:57Z",
           "summary": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench. Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify er…"
-        },
-        {
-          "id": "236b6a1639a512d5b5c8a08e2f6d718811dd2fb4",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Teaching AI to build scientific models",
-          "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
-          "published_at": "2026-11-06T00:00:00Z",
-          "summary": "In this guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl discuss how AI is starting to change the scientific modeling process, from construction to interpretation."
-        },
-        {
-          "id": "a1aff892944e0c51c7f456a9fb11d88fe0bf3ead",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "The components of agent memory",
-          "url": "https://www.anthropic.com/research/components-of-agent-memory",
-          "published_at": "2026-11-06T00:00:00Z",
-          "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes."
         }
       ]
     }
@@ -294,50 +249,6 @@
       "url": "https://x.com/OpenAI/status/2118782708767965238",
       "published_at": "2026-11-06T19:08:57Z",
       "summary": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench. Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify er…"
-    },
-    {
-      "id": "d4e3ab64a8faaef09f7bb6a7c7ddc9ce0b2eaa03",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "提示词已经补充到我的提示词库里去了：https://t.co/E2wlqxNXVv",
-      "url": "https://x.com/op7418/status/2118537386040975379",
-      "published_at": "2026-11-06T02:54:08Z",
-      "summary": "提示词已经补充到我的提示词库里去了：op7418.github.io/guizang-s-prom…💬3🔄0❤️8👀2884📊5⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "236b6a1639a512d5b5c8a08e2f6d718811dd2fb4",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Teaching AI to build scientific models",
-      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
-      "published_at": "2026-11-06T00:00:00Z",
-      "summary": "In this guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl discuss how AI is starting to change the scientific modeling process, from construction to interpretation."
-    },
-    {
-      "id": "a1aff892944e0c51c7f456a9fb11d88fe0bf3ead",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "The components of agent memory",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "published_at": "2026-11-06T00:00:00Z",
-      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes."
-    },
-    {
-      "id": "97f8f7a9e1b89df155069f18c0f9efafdaba79de",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "这可能是美国AI最魔幻的一天。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688181&idx=1&sn=36a2866b4f2eacb6ab37561f69348171",
-      "published_at": "2026-11-05T23:56:00Z",
-      "summary": "他们迎来了自己的智子"
     }
   ]
 }
