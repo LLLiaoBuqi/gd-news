@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T07:56:15.737113Z",
+  "generated_at": "2026-11-10T16:01:41.343007Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 189,
+      "duration_ms": 393,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1586,
+      "duration_ms": 878,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1513,
+      "duration_ms": 1008,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1590,
+      "duration_ms": 820,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 546,
+      "duration_ms": 700,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 760,
+      "duration_ms": 441,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 12,
+      "duration_ms": 47,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2697,
+      "duration_ms": 2282,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1458,
+      "duration_ms": 1758,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 14,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "35ecfd9ec8e54a5c95178ee42498e3cc1f758973",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "卡兹克招人了",
+          "url": "https://x.com/op7418/status/2120125019158417590",
+          "published_at": "2026-11-10T12:02:49Z",
+          "summary": "卡兹克招人了数字生命卡兹克@Khazix0918他们都说X上伙伴质量高，于是我也第一次来X上给我们公司招人了～ 我们现在有30多个小伙伴了，但是想做的事太多，所以，还需要更多的小伙伴！ 简单介绍一下，虚实传媒是一家AI领域的策略公司，我们有自己的IP数字生命卡兹克（也就是我自己），也是国内可能目前最大的AI领域MCN公司，目前签约独家博主300+，也合作了上百家机构公司，国内几乎所有跟AI方向相关的公司都是我们的客户～ 公司内部还是比较AI Native的，几乎全员都在用Claude或者Codex Coding自己岗位和职位的产品，来解放人力、优化流程，…"
+        },
+        {
+          "id": "fc2586bb9c28895d980e8e0ae5e37972a38a3bd7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
+          "url": "https://x.com/op7418/status/2120106433169793396",
+          "published_at": "2026-11-10T10:48:57Z",
+          "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬33🔄0❤️28👀9005📊30⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "4abc2bc3a88b309bba4ce99f03b69d5bf9ea6336",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "妈的，Fable 5.2 真的牛逼，创意能力太强了！\n\n我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。\n\n只需要你打对应的字，它就会生成对应文字的墨水的形象。\n\n墨是实体实时的...",
+          "url": "https://x.com/op7418/status/2120085300185833878",
+          "published_at": "2026-11-10T09:24:59Z",
+          "summary": "妈的，Fable 5.2 真的牛逼，创意能力太强了！ 我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。 只需要你打对应的字，它就会生成对应文字的墨水的形象。 墨是实体实时的流体模拟，你每拖一下鼠标都能感觉到，还有对应的音效和音乐。 你的鼠标所在的位置就是当前你打这个字对应的画面生成的位置，可以通过文字进行水墨作画，。 而且这些物品和天气都是动态的，还会相互影响，太牛逼了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418…"
+        },
         {
           "id": "cc3ba053f55d87d7d15099483a0a6989d7b52a9c",
           "site_id": "featuredrss",
@@ -200,7 +233,7 @@
           "title": "繁体中文也行",
           "url": "https://x.com/op7418/status/2120038512963748026",
           "published_at": "2026-11-10T06:19:04Z",
-          "summary": "繁体中文也行💬0🔄0❤️3👀1305⚡ Powered by xgo.ing"
+          "summary": "繁体中文也行💬0🔄0❤️4👀4991📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "d50d5d5bb701589bf0c32659212f77443e34911e",
@@ -222,7 +255,29 @@
           "title": "搞定了",
           "url": "https://x.com/op7418/status/2120034939437723679",
           "published_at": "2026-11-10T06:04:52Z",
-          "summary": "搞定了💬0🔄0❤️2👀1248📊1⚡ Powered by xgo.ing"
+          "summary": "搞定了💬0🔄1❤️10👀5197📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "fe4c88c9a618e819e38fd206366fbbdd0547e166",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "Seedream 5.5 全量上线，多轮编辑能力里程碑级别，海量案例分享！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498931&idx=1&sn=1be0c6d0aa5984af5206f29dbd882be8",
+          "published_at": "2026-11-10T04:52:00Z",
+          "summary": "图片编辑工作流的救赎来了。"
+        },
+        {
+          "id": "26cb91ac878a80c783fc7225acf689d23f951d95",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "实测还在灰度的GPT 6.2 sol，Opus5.5的审美霸权时代要结束了",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513278&idx=1&sn=8869abbe2af775a220a782672bc9ede0",
+          "published_at": "2026-11-10T04:01:00Z",
+          "summary": "代码动画、UI、3D，AI剪辑都在这里了"
         },
         {
           "id": "377fcadef646b30a746c32d298d5eca67fbd911f",
@@ -233,7 +288,7 @@
           "title": "卧槽，这个项目真牛逼\n\n可以直接给国行的手机开启满血版的 Apple Intelligence！\n\n还可以解除 eSIM 的数量限制好像。\n\n给我现在唯一的主力机 Air 试一下，希望不要炸。",
           "url": "https://x.com/op7418/status/2119998102342082970",
           "published_at": "2026-11-10T03:38:29Z",
-          "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬49🔄13❤️173👀37189📊96⚡ Powered by xgo.ing"
+          "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬76🔄34❤️364👀97413📊178⚡ Powered by xgo.ing"
         },
         {
           "id": "30f077d1dc607554b52a6abf2a6bb1317790fb74",
@@ -244,7 +299,7 @@
           "title": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。",
           "url": "https://x.com/op7418/status/2119987509627428908",
           "published_at": "2026-11-10T02:56:24Z",
-          "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬10🔄0❤️13👀6903📊9⚡ Powered by xgo.ing"
+          "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬12🔄0❤️18👀9532📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "97f81013b88fbeb4dd44d8c0330eb434edfd921f",
@@ -255,7 +310,7 @@
           "title": "试试 Fable 5.2 的成色",
           "url": "https://x.com/op7418/status/2119986765406916812",
           "published_at": "2026-11-10T02:53:26Z",
-          "summary": "试试 Fable 5.2 的成色💬51🔄0❤️52👀22755📊48⚡ Powered by xgo.ing"
+          "summary": "试试 Fable 5.2 的成色💬64🔄1❤️71👀69867📊62⚡ Powered by xgo.ing"
         },
         {
           "id": "ef39f3333c54dedf66a7d300655806dfa09588b9",
@@ -266,7 +321,7 @@
           "title": "这次 Fable 5.2 发布之后的送的重置挺有意思的：\n\n你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。\n\n当然，我们这边超过一年的 100 美元账号确实不多。",
           "url": "https://x.com/op7418/status/2119973618751057974",
           "published_at": "2026-11-10T02:01:12Z",
-          "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬68🔄0❤️38👀13658📊61⚡ Powered by xgo.ing"
+          "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬75🔄0❤️48👀17938📊67⚡ Powered by xgo.ing"
         },
         {
           "id": "a7924f911a1aba63bf6e9759671b8611f042aff5",
@@ -277,29 +332,18 @@
           "title": "Grokbot 已经重置",
           "url": "https://x.com/op7418/status/2119962678051721337",
           "published_at": "2026-11-10T01:17:44Z",
-          "summary": "Grokbot 已经重置Grok Bot@botWe've reset weekly limits for all Grok Bot users. Enjoy!🔗 View Quoted Tweet💬13🔄0❤️14👀6409📊10⚡ Powered by xgo.ing"
+          "summary": "Grokbot 已经重置Grok Bot@botWe've reset weekly limits for all Grok Bot users. Enjoy!🔗 View Quoted Tweet💬14🔄0❤️16👀7904📊10⚡ Powered by xgo.ing"
         },
         {
-          "id": "a7f850dfaaf2e4c0379fcdcdc9dd1553c4977814",
+          "id": "2861b9cc809b54d4b682e33ca52c29d2cd0bdbaf",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
+          "source": "数字生命卡兹克",
           "region": "domestic",
-          "title": "哈哈 有号了",
-          "url": "https://x.com/op7418/status/2119716887009657129",
-          "published_at": "2026-11-09T09:01:02Z",
-          "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬12🔄0❤️40👀13331📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "f1eed8a015e6b17e928a864bf165c8fd08662d2c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "昨天记者节，发现 Workbuddy 有一个羊毛可以薅，积分不少：\n\n最高奖：1 万 Workbuddy 积分 + 腾讯视频年卡\n\n参与奖：只要作品符合要求，就有 1000 Workbuddy 积分 ...",
-          "url": "https://x.com/op7418/status/2119706957712113681",
-          "published_at": "2026-11-09T08:21:35Z",
-          "summary": "昨天记者节，发现 Workbuddy 有一个羊毛可以薅，积分不少： 最高奖：1 万 Workbuddy 积分 + 腾讯视频年卡 参与奖：只要作品符合要求，就有 1000 Workbuddy 积分 + 30 元京东购物卡 活动虽然叫记者节活动，但其实所有自媒体博主、媒体从业者和新闻业人员都可以参加，挺不错的。 具体参与方式： 1. 发布内容时带上两个话题：#WorkBuddy能帮创作者多大忙 和 #还得是我Buddy（两个都要带） 2. 发布后进入投稿页填写相关信息，即可参赛成功 3. 投稿方式：在 Workbuddy 公众号回复\"记者节活动投稿\" 说实话…"
+          "title": "实测Claude Fable 5.2 - 审美与细节的绝对统治。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688279&idx=1&sn=7e6337f4c594cf4521cb5a2aa7d2bd46",
+          "published_at": "2026-11-09T23:21:00Z",
+          "summary": "与神对话"
         }
       ]
     },
@@ -329,6 +373,39 @@
   },
   "items": [
     {
+      "id": "35ecfd9ec8e54a5c95178ee42498e3cc1f758973",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "卡兹克招人了",
+      "url": "https://x.com/op7418/status/2120125019158417590",
+      "published_at": "2026-11-10T12:02:49Z",
+      "summary": "卡兹克招人了数字生命卡兹克@Khazix0918他们都说X上伙伴质量高，于是我也第一次来X上给我们公司招人了～ 我们现在有30多个小伙伴了，但是想做的事太多，所以，还需要更多的小伙伴！ 简单介绍一下，虚实传媒是一家AI领域的策略公司，我们有自己的IP数字生命卡兹克（也就是我自己），也是国内可能目前最大的AI领域MCN公司，目前签约独家博主300+，也合作了上百家机构公司，国内几乎所有跟AI方向相关的公司都是我们的客户～ 公司内部还是比较AI Native的，几乎全员都在用Claude或者Codex Coding自己岗位和职位的产品，来解放人力、优化流程，…"
+    },
+    {
+      "id": "fc2586bb9c28895d980e8e0ae5e37972a38a3bd7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
+      "url": "https://x.com/op7418/status/2120106433169793396",
+      "published_at": "2026-11-10T10:48:57Z",
+      "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬33🔄0❤️28👀9005📊30⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "4abc2bc3a88b309bba4ce99f03b69d5bf9ea6336",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "妈的，Fable 5.2 真的牛逼，创意能力太强了！\n\n我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。\n\n只需要你打对应的字，它就会生成对应文字的墨水的形象。\n\n墨是实体实时的...",
+      "url": "https://x.com/op7418/status/2120085300185833878",
+      "published_at": "2026-11-10T09:24:59Z",
+      "summary": "妈的，Fable 5.2 真的牛逼，创意能力太强了！ 我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。 只需要你打对应的字，它就会生成对应文字的墨水的形象。 墨是实体实时的流体模拟，你每拖一下鼠标都能感觉到，还有对应的音效和音乐。 你的鼠标所在的位置就是当前你打这个字对应的画面生成的位置，可以通过文字进行水墨作画，。 而且这些物品和天气都是动态的，还会相互影响，太牛逼了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418…"
+    },
+    {
       "id": "cc3ba053f55d87d7d15099483a0a6989d7b52a9c",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -337,7 +414,7 @@
       "title": "繁体中文也行",
       "url": "https://x.com/op7418/status/2120038512963748026",
       "published_at": "2026-11-10T06:19:04Z",
-      "summary": "繁体中文也行💬0🔄0❤️3👀1305⚡ Powered by xgo.ing"
+      "summary": "繁体中文也行💬0🔄0❤️4👀4991📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "d50d5d5bb701589bf0c32659212f77443e34911e",
@@ -359,7 +436,29 @@
       "title": "搞定了",
       "url": "https://x.com/op7418/status/2120034939437723679",
       "published_at": "2026-11-10T06:04:52Z",
-      "summary": "搞定了💬0🔄0❤️2👀1248📊1⚡ Powered by xgo.ing"
+      "summary": "搞定了💬0🔄1❤️10👀5197📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "fe4c88c9a618e819e38fd206366fbbdd0547e166",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "Seedream 5.5 全量上线，多轮编辑能力里程碑级别，海量案例分享！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498931&idx=1&sn=1be0c6d0aa5984af5206f29dbd882be8",
+      "published_at": "2026-11-10T04:52:00Z",
+      "summary": "图片编辑工作流的救赎来了。"
+    },
+    {
+      "id": "26cb91ac878a80c783fc7225acf689d23f951d95",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "实测还在灰度的GPT 6.2 sol，Opus5.5的审美霸权时代要结束了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513278&idx=1&sn=8869abbe2af775a220a782672bc9ede0",
+      "published_at": "2026-11-10T04:01:00Z",
+      "summary": "代码动画、UI、3D，AI剪辑都在这里了"
     },
     {
       "id": "377fcadef646b30a746c32d298d5eca67fbd911f",
@@ -370,7 +469,7 @@
       "title": "卧槽，这个项目真牛逼\n\n可以直接给国行的手机开启满血版的 Apple Intelligence！\n\n还可以解除 eSIM 的数量限制好像。\n\n给我现在唯一的主力机 Air 试一下，希望不要炸。",
       "url": "https://x.com/op7418/status/2119998102342082970",
       "published_at": "2026-11-10T03:38:29Z",
-      "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬49🔄13❤️173👀37189📊96⚡ Powered by xgo.ing"
+      "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬76🔄34❤️364👀97413📊178⚡ Powered by xgo.ing"
     },
     {
       "id": "30f077d1dc607554b52a6abf2a6bb1317790fb74",
@@ -381,7 +480,7 @@
       "title": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。",
       "url": "https://x.com/op7418/status/2119987509627428908",
       "published_at": "2026-11-10T02:56:24Z",
-      "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬10🔄0❤️13👀6903📊9⚡ Powered by xgo.ing"
+      "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬12🔄0❤️18👀9532📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "97f81013b88fbeb4dd44d8c0330eb434edfd921f",
@@ -392,7 +491,7 @@
       "title": "试试 Fable 5.2 的成色",
       "url": "https://x.com/op7418/status/2119986765406916812",
       "published_at": "2026-11-10T02:53:26Z",
-      "summary": "试试 Fable 5.2 的成色💬51🔄0❤️52👀22755📊48⚡ Powered by xgo.ing"
+      "summary": "试试 Fable 5.2 的成色💬64🔄1❤️71👀69867📊62⚡ Powered by xgo.ing"
     },
     {
       "id": "ef39f3333c54dedf66a7d300655806dfa09588b9",
@@ -403,7 +502,7 @@
       "title": "这次 Fable 5.2 发布之后的送的重置挺有意思的：\n\n你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。\n\n当然，我们这边超过一年的 100 美元账号确实不多。",
       "url": "https://x.com/op7418/status/2119973618751057974",
       "published_at": "2026-11-10T02:01:12Z",
-      "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬68🔄0❤️38👀13658📊61⚡ Powered by xgo.ing"
+      "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬75🔄0❤️48👀17938📊67⚡ Powered by xgo.ing"
     },
     {
       "id": "a7924f911a1aba63bf6e9759671b8611f042aff5",
@@ -414,7 +513,18 @@
       "title": "Grokbot 已经重置",
       "url": "https://x.com/op7418/status/2119962678051721337",
       "published_at": "2026-11-10T01:17:44Z",
-      "summary": "Grokbot 已经重置Grok Bot@botWe've reset weekly limits for all Grok Bot users. Enjoy!🔗 View Quoted Tweet💬13🔄0❤️14👀6409📊10⚡ Powered by xgo.ing"
+      "summary": "Grokbot 已经重置Grok Bot@botWe've reset weekly limits for all Grok Bot users. Enjoy!🔗 View Quoted Tweet💬14🔄0❤️16👀7904📊10⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "2861b9cc809b54d4b682e33ca52c29d2cd0bdbaf",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "实测Claude Fable 5.2 - 审美与细节的绝对统治。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688279&idx=1&sn=7e6337f4c594cf4521cb5a2aa7d2bd46",
+      "published_at": "2026-11-09T23:21:00Z",
+      "summary": "与神对话"
     },
     {
       "id": "a9f17a1c5aa1543f65cd2faa10692adaea6a81d6",
@@ -426,28 +536,6 @@
       "url": "https://x.com/OpenAI/status/2119913172039868579",
       "published_at": "2026-11-09T22:01:00Z",
       "summary": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data proc…"
-    },
-    {
-      "id": "a7f850dfaaf2e4c0379fcdcdc9dd1553c4977814",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "哈哈 有号了",
-      "url": "https://x.com/op7418/status/2119716887009657129",
-      "published_at": "2026-11-09T09:01:02Z",
-      "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬12🔄0❤️40👀13331📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "f1eed8a015e6b17e928a864bf165c8fd08662d2c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "昨天记者节，发现 Workbuddy 有一个羊毛可以薅，积分不少：\n\n最高奖：1 万 Workbuddy 积分 + 腾讯视频年卡\n\n参与奖：只要作品符合要求，就有 1000 Workbuddy 积分 ...",
-      "url": "https://x.com/op7418/status/2119706957712113681",
-      "published_at": "2026-11-09T08:21:35Z",
-      "summary": "昨天记者节，发现 Workbuddy 有一个羊毛可以薅，积分不少： 最高奖：1 万 Workbuddy 积分 + 腾讯视频年卡 参与奖：只要作品符合要求，就有 1000 Workbuddy 积分 + 30 元京东购物卡 活动虽然叫记者节活动，但其实所有自媒体博主、媒体从业者和新闻业人员都可以参加，挺不错的。 具体参与方式： 1. 发布内容时带上两个话题：#WorkBuddy能帮创作者多大忙 和 #还得是我Buddy（两个都要带） 2. 发布后进入投稿页填写相关信息，即可参赛成功 3. 投稿方式：在 Workbuddy 公众号回复\"记者节活动投稿\" 说实话…"
     }
   ]
 }
