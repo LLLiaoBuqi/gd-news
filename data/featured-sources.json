@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:16:12.496968Z",
+  "generated_at": "2026-11-10T00:47:08.554321Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 8,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 176,
+      "duration_ms": 505,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 197,
-      "duration_ms": 98,
+      "item_count": 198,
+      "duration_ms": 71,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 891,
+      "duration_ms": 617,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1095,
+      "duration_ms": 1034,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 785,
+      "duration_ms": 751,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1030,
+      "duration_ms": 1461,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 819,
+      "duration_ms": 1728,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 101,
+      "duration_ms": 73,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2308,
+      "duration_ms": 2349,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 599,
+      "duration_ms": 1763,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "哈哈 有号了",
           "url": "https://x.com/op7418/status/2119716887009657129",
           "published_at": "2026-11-09T09:01:02Z",
-          "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬11🔄0❤️34👀11207📊11⚡ Powered by xgo.ing"
+          "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬12🔄0❤️36👀11853📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "f1eed8a015e6b17e928a864bf165c8fd08662d2c",
@@ -222,7 +222,7 @@
           "title": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难",
           "url": "https://x.com/op7418/status/2119647207746121763",
           "published_at": "2026-11-09T04:24:10Z",
-          "summary": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难歸藏(guizang.ai)@op7418马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。 这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。 他们说今晚效果应该就会变好🔗 View Quoted Tweet💬88🔄1❤️61👀30471📊63⚡ Powered by xgo.ing"
+          "summary": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难歸藏(guizang.ai)@op7418马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。 这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。 他们说今晚效果应该就会变好🔗 View Quoted Tweet💬93🔄1❤️67👀33645📊67⚡ Powered by xgo.ing"
         },
         {
           "id": "c2d16760a1b71813a48a127bf681d1392301c6bf",
@@ -233,7 +233,7 @@
           "title": "今天是 Grid 的埃塞俄比亚西达摩美式",
           "url": "https://x.com/op7418/status/2119643600103567813",
           "published_at": "2026-11-09T04:09:49Z",
-          "summary": "今天是 Grid 的埃塞俄比亚西达摩美式歸藏(guizang.ai)@op7418玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。🔗 View Quoted Tweet💬5🔄1❤️19👀5283📊6⚡ Powered by xgo.ing"
+          "summary": "今天是 Grid 的埃塞俄比亚西达摩美式歸藏(guizang.ai)@op7418玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。🔗 View Quoted Tweet💬6🔄1❤️21👀5481📊7⚡ Powered by xgo.ing"
         },
         {
           "id": "7725bf555215ddc303272c1934258b0b4e885990",
@@ -255,7 +255,7 @@
           "title": "笑死，老马咋了",
           "url": "https://x.com/op7418/status/2119639050969813445",
           "published_at": "2026-11-09T03:51:45Z",
-          "summary": "笑死，老马咋了Elon Musk@elonmuskChinese 𝕏 is 牛逼🔗 View Quoted Tweet💬18🔄0❤️37👀38343📊15⚡ Powered by xgo.ing"
+          "summary": "笑死，老马咋了Elon Musk@elonmuskChinese 𝕏 is 牛逼🔗 View Quoted Tweet💬19🔄0❤️39👀39885📊16⚡ Powered by xgo.ing"
         },
         {
           "id": "d9eec340bc079537092bcc17ca4143df8628bd53",
@@ -266,34 +266,46 @@
           "title": "没想到前几天的传言是真的，老黄早上承认出轨。\n\n本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。",
           "url": "https://x.com/op7418/status/2119595793514676509",
           "published_at": "2026-11-09T00:59:52Z",
-          "summary": "没想到前几天的传言是真的，老黄早上承认出轨。 本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。💬24🔄0❤️66👀29576📊26⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c97572cbc8add7cc48d35ba8208cfdb7cc7c54e1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "我做了一个监控全网免费Token的网站，今天向所有人免费开放。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688203&idx=1&sn=830360dc6103e7fa745c116a5d84e54a",
-          "published_at": "2026-11-08T23:56:00Z",
-          "summary": "赛博薅Token羊毛"
+          "summary": "没想到前几天的传言是真的，老黄早上承认出轨。 本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。💬24🔄0❤️66👀30228📊26⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "a9f17a1c5aa1543f65cd2faa10692adaea6a81d6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We built Control Room, a central system to track model workloads across our research infrastructure ...",
+          "url": "https://x.com/OpenAI/status/2119913172039868579",
+          "published_at": "2026-11-09T22:01:00Z",
+          "summary": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data proc…"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "a9f17a1c5aa1543f65cd2faa10692adaea6a81d6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We built Control Room, a central system to track model workloads across our research infrastructure ...",
+      "url": "https://x.com/OpenAI/status/2119913172039868579",
+      "published_at": "2026-11-09T22:01:00Z",
+      "summary": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data proc…"
+    },
     {
       "id": "a7f850dfaaf2e4c0379fcdcdc9dd1553c4977814",
       "site_id": "featuredrss",
@@ -303,7 +315,7 @@
       "title": "哈哈 有号了",
       "url": "https://x.com/op7418/status/2119716887009657129",
       "published_at": "2026-11-09T09:01:02Z",
-      "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬11🔄0❤️34👀11207📊11⚡ Powered by xgo.ing"
+      "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬12🔄0❤️36👀11853📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "f1eed8a015e6b17e928a864bf165c8fd08662d2c",
@@ -325,7 +337,7 @@
       "title": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难",
       "url": "https://x.com/op7418/status/2119647207746121763",
       "published_at": "2026-11-09T04:24:10Z",
-      "summary": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难歸藏(guizang.ai)@op7418马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。 这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。 他们说今晚效果应该就会变好🔗 View Quoted Tweet💬88🔄1❤️61👀30471📊63⚡ Powered by xgo.ing"
+      "summary": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难歸藏(guizang.ai)@op7418马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。 这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。 他们说今晚效果应该就会变好🔗 View Quoted Tweet💬93🔄1❤️67👀33645📊67⚡ Powered by xgo.ing"
     },
     {
       "id": "c2d16760a1b71813a48a127bf681d1392301c6bf",
@@ -336,7 +348,7 @@
       "title": "今天是 Grid 的埃塞俄比亚西达摩美式",
       "url": "https://x.com/op7418/status/2119643600103567813",
       "published_at": "2026-11-09T04:09:49Z",
-      "summary": "今天是 Grid 的埃塞俄比亚西达摩美式歸藏(guizang.ai)@op7418玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。🔗 View Quoted Tweet💬5🔄1❤️19👀5283📊6⚡ Powered by xgo.ing"
+      "summary": "今天是 Grid 的埃塞俄比亚西达摩美式歸藏(guizang.ai)@op7418玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。🔗 View Quoted Tweet💬6🔄1❤️21👀5481📊7⚡ Powered by xgo.ing"
     },
     {
       "id": "7725bf555215ddc303272c1934258b0b4e885990",
@@ -358,7 +370,7 @@
       "title": "笑死，老马咋了",
       "url": "https://x.com/op7418/status/2119639050969813445",
       "published_at": "2026-11-09T03:51:45Z",
-      "summary": "笑死，老马咋了Elon Musk@elonmuskChinese 𝕏 is 牛逼🔗 View Quoted Tweet💬18🔄0❤️37👀38343📊15⚡ Powered by xgo.ing"
+      "summary": "笑死，老马咋了Elon Musk@elonmuskChinese 𝕏 is 牛逼🔗 View Quoted Tweet💬19🔄0❤️39👀39885📊16⚡ Powered by xgo.ing"
     },
     {
       "id": "d9eec340bc079537092bcc17ca4143df8628bd53",
@@ -369,18 +381,7 @@
       "title": "没想到前几天的传言是真的，老黄早上承认出轨。\n\n本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。",
       "url": "https://x.com/op7418/status/2119595793514676509",
       "published_at": "2026-11-09T00:59:52Z",
-      "summary": "没想到前几天的传言是真的，老黄早上承认出轨。 本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。💬24🔄0❤️66👀29576📊26⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c97572cbc8add7cc48d35ba8208cfdb7cc7c54e1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "我做了一个监控全网免费Token的网站，今天向所有人免费开放。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688203&idx=1&sn=830360dc6103e7fa745c116a5d84e54a",
-      "published_at": "2026-11-08T23:56:00Z",
-      "summary": "赛博薅Token羊毛"
+      "summary": "没想到前几天的传言是真的，老黄早上承认出轨。 本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。💬24🔄0❤️66👀30228📊26⚡ Powered by xgo.ing"
     }
   ]
 }
