@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T00:47:08.554321Z",
+  "generated_at": "2026-11-10T07:56:15.737113Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 505,
+      "duration_ms": 189,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 198,
-      "duration_ms": 71,
+      "duration_ms": 97,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 617,
+      "duration_ms": 1586,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1034,
+      "duration_ms": 1513,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 751,
+      "duration_ms": 1590,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1461,
+      "duration_ms": 546,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1728,
+      "duration_ms": 760,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 73,
+      "duration_ms": 12,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2349,
+      "duration_ms": 2697,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1763,
+      "duration_ms": 1458,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,101 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 10,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "cc3ba053f55d87d7d15099483a0a6989d7b52a9c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "繁体中文也行",
+          "url": "https://x.com/op7418/status/2120038512963748026",
+          "published_at": "2026-11-10T06:19:04Z",
+          "summary": "繁体中文也行💬0🔄0❤️3👀1305⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "d50d5d5bb701589bf0c32659212f77443e34911e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "成功用这个项目帮我的国行 iPhone air 开启了满血版的 Apple Intelligence！\n\n有几个小坑需要注意一下：\n\n1. 设置里的 Apple 账号和 App Store 的账号都需...",
+          "url": "https://x.com/op7418/status/2120035025655574865",
+          "published_at": "2026-11-10T06:05:13Z",
+          "summary": "成功用这个项目帮我的国行 iPhone air 开启了满血版的 Apple Intelligence！ 有几个小坑需要注意一下： 1. 设置里的 Apple 账号和 App Store 的账号都需要是美区账号。 2. 系统语言和 Siri 的语言都需要是英语，或者是 Apple Intelligence 支持的语言。 3. 开启以后，会让你下载一个大概 10GB 的本地模型。 我是让 codex 帮我搞的歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 e…"
+        },
+        {
+          "id": "fe8270eacb761cad74cc0c4c60f6794a9d5d0ad6",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "搞定了",
+          "url": "https://x.com/op7418/status/2120034939437723679",
+          "published_at": "2026-11-10T06:04:52Z",
+          "summary": "搞定了💬0🔄0❤️2👀1248📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "377fcadef646b30a746c32d298d5eca67fbd911f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "卧槽，这个项目真牛逼\n\n可以直接给国行的手机开启满血版的 Apple Intelligence！\n\n还可以解除 eSIM 的数量限制好像。\n\n给我现在唯一的主力机 Air 试一下，希望不要炸。",
+          "url": "https://x.com/op7418/status/2119998102342082970",
+          "published_at": "2026-11-10T03:38:29Z",
+          "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬49🔄13❤️173👀37189📊96⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "30f077d1dc607554b52a6abf2a6bb1317790fb74",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。",
+          "url": "https://x.com/op7418/status/2119987509627428908",
+          "published_at": "2026-11-10T02:56:24Z",
+          "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬10🔄0❤️13👀6903📊9⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "97f81013b88fbeb4dd44d8c0330eb434edfd921f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "试试 Fable 5.2 的成色",
+          "url": "https://x.com/op7418/status/2119986765406916812",
+          "published_at": "2026-11-10T02:53:26Z",
+          "summary": "试试 Fable 5.2 的成色💬51🔄0❤️52👀22755📊48⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "ef39f3333c54dedf66a7d300655806dfa09588b9",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这次 Fable 5.2 发布之后的送的重置挺有意思的：\n\n你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。\n\n当然，我们这边超过一年的 100 美元账号确实不多。",
+          "url": "https://x.com/op7418/status/2119973618751057974",
+          "published_at": "2026-11-10T02:01:12Z",
+          "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬68🔄0❤️38👀13658📊61⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a7924f911a1aba63bf6e9759671b8611f042aff5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Grokbot 已经重置",
+          "url": "https://x.com/op7418/status/2119962678051721337",
+          "published_at": "2026-11-10T01:17:44Z",
+          "summary": "Grokbot 已经重置Grok Bot@botWe've reset weekly limits for all Grok Bot users. Enjoy!🔗 View Quoted Tweet💬13🔄0❤️14👀6409📊10⚡ Powered by xgo.ing"
+        },
         {
           "id": "a7f850dfaaf2e4c0379fcdcdc9dd1553c4977814",
           "site_id": "featuredrss",
@@ -200,7 +288,7 @@
           "title": "哈哈 有号了",
           "url": "https://x.com/op7418/status/2119716887009657129",
           "published_at": "2026-11-09T09:01:02Z",
-          "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬12🔄0❤️36👀11853📊12⚡ Powered by xgo.ing"
+          "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬12🔄0❤️40👀13331📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "f1eed8a015e6b17e928a864bf165c8fd08662d2c",
@@ -212,61 +300,6 @@
           "url": "https://x.com/op7418/status/2119706957712113681",
           "published_at": "2026-11-09T08:21:35Z",
           "summary": "昨天记者节，发现 Workbuddy 有一个羊毛可以薅，积分不少： 最高奖：1 万 Workbuddy 积分 + 腾讯视频年卡 参与奖：只要作品符合要求，就有 1000 Workbuddy 积分 + 30 元京东购物卡 活动虽然叫记者节活动，但其实所有自媒体博主、媒体从业者和新闻业人员都可以参加，挺不错的。 具体参与方式： 1. 发布内容时带上两个话题：#WorkBuddy能帮创作者多大忙 和 #还得是我Buddy（两个都要带） 2. 发布后进入投稿页填写相关信息，即可参赛成功 3. 投稿方式：在 Workbuddy 公众号回复\"记者节活动投稿\" 说实话…"
-        },
-        {
-          "id": "72d9abe9450e9928dbf2a40d47409482e1746fbf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难",
-          "url": "https://x.com/op7418/status/2119647207746121763",
-          "published_at": "2026-11-09T04:24:10Z",
-          "summary": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难歸藏(guizang.ai)@op7418马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。 这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。 他们说今晚效果应该就会变好🔗 View Quoted Tweet💬93🔄1❤️67👀33645📊67⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "c2d16760a1b71813a48a127bf681d1392301c6bf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "今天是 Grid 的埃塞俄比亚西达摩美式",
-          "url": "https://x.com/op7418/status/2119643600103567813",
-          "published_at": "2026-11-09T04:09:49Z",
-          "summary": "今天是 Grid 的埃塞俄比亚西达摩美式歸藏(guizang.ai)@op7418玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。🔗 View Quoted Tweet💬6🔄1❤️21👀5481📊7⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7725bf555215ddc303272c1934258b0b4e885990",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。\n\n这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。\n\n他们说今晚效果应该就会变好",
-          "url": "https://x.com/op7418/status/2119639244784472559",
-          "published_at": "2026-11-09T03:52:31Z",
-          "summary": "马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。 这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。 他们说今晚效果应该就会变好Elon Musk@elonmuskJust did a round table review with the Grok @Bot engineering team. Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow. If not, rep…"
-        },
-        {
-          "id": "56598fe4407cd0579f7d4d26ee43257c4ac95449",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "笑死，老马咋了",
-          "url": "https://x.com/op7418/status/2119639050969813445",
-          "published_at": "2026-11-09T03:51:45Z",
-          "summary": "笑死，老马咋了Elon Musk@elonmuskChinese 𝕏 is 牛逼🔗 View Quoted Tweet💬19🔄0❤️39👀39885📊16⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d9eec340bc079537092bcc17ca4143df8628bd53",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "没想到前几天的传言是真的，老黄早上承认出轨。\n\n本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。",
-          "url": "https://x.com/op7418/status/2119595793514676509",
-          "published_at": "2026-11-09T00:59:52Z",
-          "summary": "没想到前几天的传言是真的，老黄早上承认出轨。 本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。💬24🔄0❤️66👀30228📊26⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -296,6 +329,94 @@
   },
   "items": [
     {
+      "id": "cc3ba053f55d87d7d15099483a0a6989d7b52a9c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "繁体中文也行",
+      "url": "https://x.com/op7418/status/2120038512963748026",
+      "published_at": "2026-11-10T06:19:04Z",
+      "summary": "繁体中文也行💬0🔄0❤️3👀1305⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "d50d5d5bb701589bf0c32659212f77443e34911e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "成功用这个项目帮我的国行 iPhone air 开启了满血版的 Apple Intelligence！\n\n有几个小坑需要注意一下：\n\n1. 设置里的 Apple 账号和 App Store 的账号都需...",
+      "url": "https://x.com/op7418/status/2120035025655574865",
+      "published_at": "2026-11-10T06:05:13Z",
+      "summary": "成功用这个项目帮我的国行 iPhone air 开启了满血版的 Apple Intelligence！ 有几个小坑需要注意一下： 1. 设置里的 Apple 账号和 App Store 的账号都需要是美区账号。 2. 系统语言和 Siri 的语言都需要是英语，或者是 Apple Intelligence 支持的语言。 3. 开启以后，会让你下载一个大概 10GB 的本地模型。 我是让 codex 帮我搞的歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 e…"
+    },
+    {
+      "id": "fe8270eacb761cad74cc0c4c60f6794a9d5d0ad6",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "搞定了",
+      "url": "https://x.com/op7418/status/2120034939437723679",
+      "published_at": "2026-11-10T06:04:52Z",
+      "summary": "搞定了💬0🔄0❤️2👀1248📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "377fcadef646b30a746c32d298d5eca67fbd911f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "卧槽，这个项目真牛逼\n\n可以直接给国行的手机开启满血版的 Apple Intelligence！\n\n还可以解除 eSIM 的数量限制好像。\n\n给我现在唯一的主力机 Air 试一下，希望不要炸。",
+      "url": "https://x.com/op7418/status/2119998102342082970",
+      "published_at": "2026-11-10T03:38:29Z",
+      "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬49🔄13❤️173👀37189📊96⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "30f077d1dc607554b52a6abf2a6bb1317790fb74",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。",
+      "url": "https://x.com/op7418/status/2119987509627428908",
+      "published_at": "2026-11-10T02:56:24Z",
+      "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬10🔄0❤️13👀6903📊9⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "97f81013b88fbeb4dd44d8c0330eb434edfd921f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "试试 Fable 5.2 的成色",
+      "url": "https://x.com/op7418/status/2119986765406916812",
+      "published_at": "2026-11-10T02:53:26Z",
+      "summary": "试试 Fable 5.2 的成色💬51🔄0❤️52👀22755📊48⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "ef39f3333c54dedf66a7d300655806dfa09588b9",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这次 Fable 5.2 发布之后的送的重置挺有意思的：\n\n你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。\n\n当然，我们这边超过一年的 100 美元账号确实不多。",
+      "url": "https://x.com/op7418/status/2119973618751057974",
+      "published_at": "2026-11-10T02:01:12Z",
+      "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬68🔄0❤️38👀13658📊61⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a7924f911a1aba63bf6e9759671b8611f042aff5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Grokbot 已经重置",
+      "url": "https://x.com/op7418/status/2119962678051721337",
+      "published_at": "2026-11-10T01:17:44Z",
+      "summary": "Grokbot 已经重置Grok Bot@botWe've reset weekly limits for all Grok Bot users. Enjoy!🔗 View Quoted Tweet💬13🔄0❤️14👀6409📊10⚡ Powered by xgo.ing"
+    },
+    {
       "id": "a9f17a1c5aa1543f65cd2faa10692adaea6a81d6",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -315,7 +436,7 @@
       "title": "哈哈 有号了",
       "url": "https://x.com/op7418/status/2119716887009657129",
       "published_at": "2026-11-09T09:01:02Z",
-      "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬12🔄0❤️36👀11853📊12⚡ Powered by xgo.ing"
+      "summary": "哈哈 有号了Next Token｜词元之外@nexttokentv你好，X！👋#NextTokenn 见面了！@oran_ge@op7418@vista8@ericyangpan🔗 View Quoted Tweet💬12🔄0❤️40👀13331📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "f1eed8a015e6b17e928a864bf165c8fd08662d2c",
@@ -327,61 +448,6 @@
       "url": "https://x.com/op7418/status/2119706957712113681",
       "published_at": "2026-11-09T08:21:35Z",
       "summary": "昨天记者节，发现 Workbuddy 有一个羊毛可以薅，积分不少： 最高奖：1 万 Workbuddy 积分 + 腾讯视频年卡 参与奖：只要作品符合要求，就有 1000 Workbuddy 积分 + 30 元京东购物卡 活动虽然叫记者节活动，但其实所有自媒体博主、媒体从业者和新闻业人员都可以参加，挺不错的。 具体参与方式： 1. 发布内容时带上两个话题：#WorkBuddy能帮创作者多大忙 和 #还得是我Buddy（两个都要带） 2. 发布后进入投稿页填写相关信息，即可参赛成功 3. 投稿方式：在 Workbuddy 公众号回复\"记者节活动投稿\" 说实话…"
-    },
-    {
-      "id": "72d9abe9450e9928dbf2a40d47409482e1746fbf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难",
-      "url": "https://x.com/op7418/status/2119647207746121763",
-      "published_at": "2026-11-09T04:24:10Z",
-      "summary": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难歸藏(guizang.ai)@op7418马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。 这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。 他们说今晚效果应该就会变好🔗 View Quoted Tweet💬93🔄1❤️67👀33645📊67⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "c2d16760a1b71813a48a127bf681d1392301c6bf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "今天是 Grid 的埃塞俄比亚西达摩美式",
-      "url": "https://x.com/op7418/status/2119643600103567813",
-      "published_at": "2026-11-09T04:09:49Z",
-      "summary": "今天是 Grid 的埃塞俄比亚西达摩美式歸藏(guizang.ai)@op7418玩一下 GPT image 2.0 吧！ 这个提示词能让你的咖啡或者奶茶照片变成一个非常漂亮的杯子组成的门店插画。 比如说告诉他咖啡的名称和具体的咖啡豆之后，他还帮我加上了一些云南风味的东西，然后还有很多店员小人儿在这个店里工作。 提示词太长，放下面了。🔗 View Quoted Tweet💬6🔄1❤️21👀5481📊7⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7725bf555215ddc303272c1934258b0b4e885990",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。\n\n这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。\n\n他们说今晚效果应该就会变好",
-      "url": "https://x.com/op7418/status/2119639244784472559",
-      "published_at": "2026-11-09T03:52:31Z",
-      "summary": "马斯克终于开始关注 Grok bot 的用量问题和质量下降的问题了。 这几天 Grok bot 的质量真是相当离谱，老是出现一些低级问题，还有幻觉。 他们说今晚效果应该就会变好Elon Musk@elonmuskJust did a round table review with the Grok @Bot engineering team. Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow. If not, rep…"
-    },
-    {
-      "id": "56598fe4407cd0579f7d4d26ee43257c4ac95449",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "笑死，老马咋了",
-      "url": "https://x.com/op7418/status/2119639050969813445",
-      "published_at": "2026-11-09T03:51:45Z",
-      "summary": "笑死，老马咋了Elon Musk@elonmuskChinese 𝕏 is 牛逼🔗 View Quoted Tweet💬19🔄0❤️39👀39885📊16⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d9eec340bc079537092bcc17ca4143df8628bd53",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "没想到前几天的传言是真的，老黄早上承认出轨。\n\n本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。",
-      "url": "https://x.com/op7418/status/2119595793514676509",
-      "published_at": "2026-11-09T00:59:52Z",
-      "summary": "没想到前几天的传言是真的，老黄早上承认出轨。 本来这是在硅谷都不算事吧，不至于单独道歉的程度，估计那女的确实不太干净，被抓到把柄了。💬24🔄0❤️66👀30228📊26⚡ Powered by xgo.ing"
     }
   ]
 }
