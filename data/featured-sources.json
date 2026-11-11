@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T01:38:22.495968Z",
+  "generated_at": "2026-11-11T08:42:51.555510Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1067,
+      "duration_ms": 286,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 198,
-      "duration_ms": 103,
+      "duration_ms": 80,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1070,
+      "duration_ms": 692,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1247,
+      "duration_ms": 1185,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1138,
+      "duration_ms": 1052,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 723,
+      "duration_ms": 479,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 896,
+      "duration_ms": 619,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 59,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2321,
+      "duration_ms": 2299,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1780,
+      "duration_ms": 1117,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 12,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "b15e623d91955c74d9f75d4972e3df96b66f4d7e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。",
+          "url": "https://x.com/op7418/status/2120325429181739309",
+          "published_at": "2026-11-11T01:19:10Z",
+          "summary": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。🔗 View Quoted Tweet💬42🔄4❤️28👀11251📊34⚡ Powered by xgo.ing"
+        },
         {
           "id": "35ecfd9ec8e54a5c95178ee42498e3cc1f758973",
           "site_id": "featuredrss",
@@ -211,7 +222,7 @@
           "title": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
           "url": "https://x.com/op7418/status/2120106433169793396",
           "published_at": "2026-11-10T10:48:57Z",
-          "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬34🔄0❤️32👀12770📊31⚡ Powered by xgo.ing"
+          "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬37🔄0❤️35👀15103📊34⚡ Powered by xgo.ing"
         },
         {
           "id": "4abc2bc3a88b309bba4ce99f03b69d5bf9ea6336",
@@ -223,105 +234,6 @@
           "url": "https://x.com/op7418/status/2120085300185833878",
           "published_at": "2026-11-10T09:24:59Z",
           "summary": "妈的，Fable 5.2 真的牛逼，创意能力太强了！ 我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。 只需要你打对应的字，它就会生成对应文字的墨水的形象。 墨是实体实时的流体模拟，你每拖一下鼠标都能感觉到，还有对应的音效和音乐。 你的鼠标所在的位置就是当前你打这个字对应的画面生成的位置，可以通过文字进行水墨作画，。 而且这些物品和天气都是动态的，还会相互影响，太牛逼了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418…"
-        },
-        {
-          "id": "cc3ba053f55d87d7d15099483a0a6989d7b52a9c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "繁体中文也行",
-          "url": "https://x.com/op7418/status/2120038512963748026",
-          "published_at": "2026-11-10T06:19:04Z",
-          "summary": "繁体中文也行💬0🔄0❤️4👀5844📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "d50d5d5bb701589bf0c32659212f77443e34911e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "成功用这个项目帮我的国行 iPhone air 开启了满血版的 Apple Intelligence！\n\n有几个小坑需要注意一下：\n\n1. 设置里的 Apple 账号和 App Store 的账号都需...",
-          "url": "https://x.com/op7418/status/2120035025655574865",
-          "published_at": "2026-11-10T06:05:13Z",
-          "summary": "成功用这个项目帮我的国行 iPhone air 开启了满血版的 Apple Intelligence！ 有几个小坑需要注意一下： 1. 设置里的 Apple 账号和 App Store 的账号都需要是美区账号。 2. 系统语言和 Siri 的语言都需要是英语，或者是 Apple Intelligence 支持的语言。 3. 开启以后，会让你下载一个大概 10GB 的本地模型。 我是让 codex 帮我搞的歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 e…"
-        },
-        {
-          "id": "fe8270eacb761cad74cc0c4c60f6794a9d5d0ad6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "搞定了",
-          "url": "https://x.com/op7418/status/2120034939437723679",
-          "published_at": "2026-11-10T06:04:52Z",
-          "summary": "搞定了💬0🔄1❤️12👀6285📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "fe4c88c9a618e819e38fd206366fbbdd0547e166",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "Seedream 5.5 全量上线，多轮编辑能力里程碑级别，海量案例分享！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498931&idx=1&sn=1be0c6d0aa5984af5206f29dbd882be8",
-          "published_at": "2026-11-10T04:52:00Z",
-          "summary": "图片编辑工作流的救赎来了。"
-        },
-        {
-          "id": "26cb91ac878a80c783fc7225acf689d23f951d95",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "实测还在灰度的GPT 6.2 sol，Opus5.5的审美霸权时代要结束了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513278&idx=1&sn=8869abbe2af775a220a782672bc9ede0",
-          "published_at": "2026-11-10T04:01:00Z",
-          "summary": "代码动画、UI、3D，AI剪辑都在这里了"
-        },
-        {
-          "id": "377fcadef646b30a746c32d298d5eca67fbd911f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "卧槽，这个项目真牛逼\n\n可以直接给国行的手机开启满血版的 Apple Intelligence！\n\n还可以解除 eSIM 的数量限制好像。\n\n给我现在唯一的主力机 Air 试一下，希望不要炸。",
-          "url": "https://x.com/op7418/status/2119998102342082970",
-          "published_at": "2026-11-10T03:38:29Z",
-          "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬85🔄45❤️444👀113242📊207⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "30f077d1dc607554b52a6abf2a6bb1317790fb74",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。",
-          "url": "https://x.com/op7418/status/2119987509627428908",
-          "published_at": "2026-11-10T02:56:24Z",
-          "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬13🔄0❤️18👀10474📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "97f81013b88fbeb4dd44d8c0330eb434edfd921f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "试试 Fable 5.2 的成色",
-          "url": "https://x.com/op7418/status/2119986765406916812",
-          "published_at": "2026-11-10T02:53:26Z",
-          "summary": "试试 Fable 5.2 的成色💬69🔄1❤️77👀89314📊67⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ef39f3333c54dedf66a7d300655806dfa09588b9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这次 Fable 5.2 发布之后的送的重置挺有意思的：\n\n你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。\n\n当然，我们这边超过一年的 100 美元账号确实不多。",
-          "url": "https://x.com/op7418/status/2119973618751057974",
-          "published_at": "2026-11-10T02:01:12Z",
-          "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬78🔄0❤️51👀19387📊70⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -388,7 +300,7 @@
           "title": "Learn more: https://t.co/uSjuXDjJYg",
           "url": "https://x.com/GoogleAI/status/2120187881537020079",
           "published_at": "2026-11-10T16:12:36Z",
-          "summary": "Learn more: blog.google/innovation-and…💬4🔄2❤️73👀15789📊12⚡ Powered by xgo.ing"
+          "summary": "Learn more: blog.google/innovation-and…💬5🔄4❤️91👀20357📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "8255eb7647eb8ef986c465ba0fd7e616f6cfef70",
@@ -416,6 +328,17 @@
     }
   },
   "items": [
+    {
+      "id": "b15e623d91955c74d9f75d4972e3df96b66f4d7e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。",
+      "url": "https://x.com/op7418/status/2120325429181739309",
+      "published_at": "2026-11-11T01:19:10Z",
+      "summary": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。🔗 View Quoted Tweet💬42🔄4❤️28👀11251📊34⚡ Powered by xgo.ing"
+    },
     {
       "id": "10d153c89cc4922d80c1b1cd0055a60e29173b6e",
       "site_id": "featuredrss",
@@ -469,7 +392,7 @@
       "title": "Learn more: https://t.co/uSjuXDjJYg",
       "url": "https://x.com/GoogleAI/status/2120187881537020079",
       "published_at": "2026-11-10T16:12:36Z",
-      "summary": "Learn more: blog.google/innovation-and…💬4🔄2❤️73👀15789📊12⚡ Powered by xgo.ing"
+      "summary": "Learn more: blog.google/innovation-and…💬5🔄4❤️91👀20357📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "8255eb7647eb8ef986c465ba0fd7e616f6cfef70",
@@ -513,7 +436,7 @@
       "title": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
       "url": "https://x.com/op7418/status/2120106433169793396",
       "published_at": "2026-11-10T10:48:57Z",
-      "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬34🔄0❤️32👀12770📊31⚡ Powered by xgo.ing"
+      "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬37🔄0❤️35👀15103📊34⚡ Powered by xgo.ing"
     },
     {
       "id": "4abc2bc3a88b309bba4ce99f03b69d5bf9ea6336",
@@ -525,105 +448,6 @@
       "url": "https://x.com/op7418/status/2120085300185833878",
       "published_at": "2026-11-10T09:24:59Z",
       "summary": "妈的，Fable 5.2 真的牛逼，创意能力太强了！ 我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。 只需要你打对应的字，它就会生成对应文字的墨水的形象。 墨是实体实时的流体模拟，你每拖一下鼠标都能感觉到，还有对应的音效和音乐。 你的鼠标所在的位置就是当前你打这个字对应的画面生成的位置，可以通过文字进行水墨作画，。 而且这些物品和天气都是动态的，还会相互影响，太牛逼了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418…"
-    },
-    {
-      "id": "cc3ba053f55d87d7d15099483a0a6989d7b52a9c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "繁体中文也行",
-      "url": "https://x.com/op7418/status/2120038512963748026",
-      "published_at": "2026-11-10T06:19:04Z",
-      "summary": "繁体中文也行💬0🔄0❤️4👀5844📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "d50d5d5bb701589bf0c32659212f77443e34911e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "成功用这个项目帮我的国行 iPhone air 开启了满血版的 Apple Intelligence！\n\n有几个小坑需要注意一下：\n\n1. 设置里的 Apple 账号和 App Store 的账号都需...",
-      "url": "https://x.com/op7418/status/2120035025655574865",
-      "published_at": "2026-11-10T06:05:13Z",
-      "summary": "成功用这个项目帮我的国行 iPhone air 开启了满血版的 Apple Intelligence！ 有几个小坑需要注意一下： 1. 设置里的 Apple 账号和 App Store 的账号都需要是美区账号。 2. 系统语言和 Siri 的语言都需要是英语，或者是 Apple Intelligence 支持的语言。 3. 开启以后，会让你下载一个大概 10GB 的本地模型。 我是让 codex 帮我搞的歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 e…"
-    },
-    {
-      "id": "fe8270eacb761cad74cc0c4c60f6794a9d5d0ad6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "搞定了",
-      "url": "https://x.com/op7418/status/2120034939437723679",
-      "published_at": "2026-11-10T06:04:52Z",
-      "summary": "搞定了💬0🔄1❤️12👀6285📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "fe4c88c9a618e819e38fd206366fbbdd0547e166",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "Seedream 5.5 全量上线，多轮编辑能力里程碑级别，海量案例分享！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247498931&idx=1&sn=1be0c6d0aa5984af5206f29dbd882be8",
-      "published_at": "2026-11-10T04:52:00Z",
-      "summary": "图片编辑工作流的救赎来了。"
-    },
-    {
-      "id": "26cb91ac878a80c783fc7225acf689d23f951d95",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "实测还在灰度的GPT 6.2 sol，Opus5.5的审美霸权时代要结束了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513278&idx=1&sn=8869abbe2af775a220a782672bc9ede0",
-      "published_at": "2026-11-10T04:01:00Z",
-      "summary": "代码动画、UI、3D，AI剪辑都在这里了"
-    },
-    {
-      "id": "377fcadef646b30a746c32d298d5eca67fbd911f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "卧槽，这个项目真牛逼\n\n可以直接给国行的手机开启满血版的 Apple Intelligence！\n\n还可以解除 eSIM 的数量限制好像。\n\n给我现在唯一的主力机 Air 试一下，希望不要炸。",
-      "url": "https://x.com/op7418/status/2119998102342082970",
-      "published_at": "2026-11-10T03:38:29Z",
-      "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬85🔄45❤️444👀113242📊207⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "30f077d1dc607554b52a6abf2a6bb1317790fb74",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。",
-      "url": "https://x.com/op7418/status/2119987509627428908",
-      "published_at": "2026-11-10T02:56:24Z",
-      "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬13🔄0❤️18👀10474📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "97f81013b88fbeb4dd44d8c0330eb434edfd921f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "试试 Fable 5.2 的成色",
-      "url": "https://x.com/op7418/status/2119986765406916812",
-      "published_at": "2026-11-10T02:53:26Z",
-      "summary": "试试 Fable 5.2 的成色💬69🔄1❤️77👀89314📊67⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ef39f3333c54dedf66a7d300655806dfa09588b9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这次 Fable 5.2 发布之后的送的重置挺有意思的：\n\n你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。\n\n当然，我们这边超过一年的 100 美元账号确实不多。",
-      "url": "https://x.com/op7418/status/2119973618751057974",
-      "published_at": "2026-11-10T02:01:12Z",
-      "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬78🔄0❤️51👀19387📊70⚡ Powered by xgo.ing"
     }
   ]
 }
