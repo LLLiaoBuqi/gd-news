@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T08:42:51.555510Z",
+  "generated_at": "2026-11-11T16:48:28.628516Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 9,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 286,
+      "duration_ms": 305,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 198,
-      "duration_ms": 80,
+      "duration_ms": 107,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 692,
+      "duration_ms": 648,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1185,
+      "duration_ms": 886,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1052,
+      "duration_ms": 766,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 479,
+      "duration_ms": 1099,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 619,
+      "duration_ms": 648,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 59,
+      "duration_ms": 18,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2299,
+      "duration_ms": 1951,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1117,
+      "duration_ms": 1642,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "7fef399c109fb0bb03de2bec36a2d9797be70dcb",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。\n\n网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。\n\n4399 即将迎来复兴，我们需要...",
+          "url": "https://x.com/op7418/status/2120541276970094774",
+          "published_at": "2026-11-11T15:36:52Z",
+          "summary": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。 网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。 4399 即将迎来复兴，我们需要一个以 HTML 网页为基础的游戏分发平台。歸藏(guizang.ai)@op7418太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满🔗 View Quoted Tweet💬11🔄0❤️13👀2305📊9⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "45ec867bde43f99988fafcb3223300d4dd7f4aa7",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "太牛批了 Fable 5.2，做游戏的能力，太顶了！\n\n你只要给他提供工具，他的场景设计和游戏细节直接拉满",
+          "url": "https://x.com/op7418/status/2120528843031334915",
+          "published_at": "2026-11-11T14:47:28Z",
+          "summary": "太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满💬21🔄0❤️16👀7447📊20⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "12ba5c1916096c0cddc323899d4fd5aed6ebff69",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "趁Fable5.2智力最高分享1个超有用的提示语",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513459&idx=1&sn=68ba52376990d6b419ca6337ec09a44f",
+          "published_at": "2026-11-11T06:38:00Z",
+          "summary": "卡尔的AI沃茨 2026-11-11 14:38 浙江 这两天被Fable5.2刷屏了，打磨出一个提示语把已有的项目全更新迭代一遍。 5.2把鹈鹕骑车拉到了全新的高度，还能用代码手搓动画视频，音乐和图像，一笔笔画出来，通常模型上线第一周智力是最强的，还有重置额度卡。 1️⃣ 提示语1 ``` 重新审视这个项目，结合代码，文档，历史改动，以及可用的运行数据，找出之前受模型能力限制而留下的低效实现，重复逻辑，过度设计和未解决问题。 从项目的实际目标出发，判断哪些地方值得重新设计。给出问题证据、预期收益、改动范围和验证方式，优先选择收益明确、复杂度更低的方案，…"
+        },
         {
           "id": "b15e623d91955c74d9f75d4972e3df96b66f4d7e",
           "site_id": "featuredrss",
@@ -200,46 +233,24 @@
           "title": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。",
           "url": "https://x.com/op7418/status/2120325429181739309",
           "published_at": "2026-11-11T01:19:10Z",
-          "summary": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。🔗 View Quoted Tweet💬42🔄4❤️28👀11251📊34⚡ Powered by xgo.ing"
+          "summary": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。🔗 View Quoted Tweet💬46🔄4❤️34👀14413📊38⚡ Powered by xgo.ing"
         },
         {
-          "id": "35ecfd9ec8e54a5c95178ee42498e3cc1f758973",
+          "id": "98b9aabd551a4ec528aae7d1fa1f032300da5267",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
+          "source": "数字生命卡兹克",
           "region": "domestic",
-          "title": "卡兹克招人了",
-          "url": "https://x.com/op7418/status/2120125019158417590",
-          "published_at": "2026-11-10T12:02:49Z",
-          "summary": "卡兹克招人了数字生命卡兹克@Khazix0918他们都说X上伙伴质量高，于是我也第一次来X上给我们公司招人了～ 我们现在有30多个小伙伴了，但是想做的事太多，所以，还需要更多的小伙伴！ 简单介绍一下，虚实传媒是一家AI领域的策略公司，我们有自己的IP数字生命卡兹克（也就是我自己），也是国内可能目前最大的AI领域MCN公司，目前签约独家博主300+，也合作了上百家机构公司，国内几乎所有跟AI方向相关的公司都是我们的客户～ 公司内部还是比较AI Native的，几乎全员都在用Claude或者Codex Coding自己岗位和职位的产品，来解放人力、优化流程，…"
-        },
-        {
-          "id": "fc2586bb9c28895d980e8e0ae5e37972a38a3bd7",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
-          "url": "https://x.com/op7418/status/2120106433169793396",
-          "published_at": "2026-11-10T10:48:57Z",
-          "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬37🔄0❤️35👀15103📊34⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "4abc2bc3a88b309bba4ce99f03b69d5bf9ea6336",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "妈的，Fable 5.2 真的牛逼，创意能力太强了！\n\n我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。\n\n只需要你打对应的字，它就会生成对应文字的墨水的形象。\n\n墨是实体实时的...",
-          "url": "https://x.com/op7418/status/2120085300185833878",
-          "published_at": "2026-11-10T09:24:59Z",
-          "summary": "妈的，Fable 5.2 真的牛逼，创意能力太强了！ 我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。 只需要你打对应的字，它就会生成对应文字的墨水的形象。 墨是实体实时的流体模拟，你每拖一下鼠标都能感觉到，还有对应的音效和音乐。 你的鼠标所在的位置就是当前你打这个字对应的画面生成的位置，可以通过文字进行水墨作画，。 而且这些物品和天气都是动态的，还会相互影响，太牛逼了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418…"
+          "title": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688334&idx=1&sn=306d1166b9978ceac39b937cf2c63c97",
+          "published_at": "2026-11-10T23:56:00Z",
+          "summary": "还有那些无法计算的美"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 7,
+      "total_items": 4,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -290,44 +301,44 @@
           "url": "https://x.com/OpenAI/status/2120202353907486826",
           "published_at": "2026-11-10T17:10:07Z",
           "summary": "We're turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote, for our latest cyber announcements. Working with our frontier models, we've identified and resolved important vulnerabilities in…"
-        },
-        {
-          "id": "65cf4769c8d31878588cf51ff858b6d234113c38",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Learn more: https://t.co/uSjuXDjJYg",
-          "url": "https://x.com/GoogleAI/status/2120187881537020079",
-          "published_at": "2026-11-10T16:12:36Z",
-          "summary": "Learn more: blog.google/innovation-and…💬5🔄4❤️91👀20357📊15⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8255eb7647eb8ef986c465ba0fd7e616f6cfef70",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Our strongest frontier model, Gemini 4 Carbon, is now available.\n\nBuilt for deeply complex, long-hor...",
-          "url": "https://x.com/GoogleAI/status/2120187753329791341",
-          "published_at": "2026-11-10T16:12:06Z",
-          "summary": "Our strongest frontier model, Gemini 4 Carbon, is now available. Built for deeply complex, long-horizon workflows that push a frontier model’s intelligence, Carbon delivers frontier performance in agentic workflows across complex knowledge work, software engineering and web devel…"
-        },
-        {
-          "id": "c0d9b64b0af61b2b964df9d8c449bd39a4131c58",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Starting today, our next frontier model Gemini 4 Carbon is rolling out to Google AI Ultra subscriber...",
-          "url": "https://x.com/GeminiApp/status/2120186450927038900",
-          "published_at": "2026-11-10T16:06:55Z",
-          "summary": "Starting today, our next frontier model Gemini 4 Carbon is rolling out to Google AI Ultra subscribers on desktop, mobile, and web at gemini.google It’s our strongest model, built to reason deeply through your most complex work: ✅ Get more thorough, reliable outputs on your toughe…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "7fef399c109fb0bb03de2bec36a2d9797be70dcb",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。\n\n网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。\n\n4399 即将迎来复兴，我们需要...",
+      "url": "https://x.com/op7418/status/2120541276970094774",
+      "published_at": "2026-11-11T15:36:52Z",
+      "summary": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。 网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。 4399 即将迎来复兴，我们需要一个以 HTML 网页为基础的游戏分发平台。歸藏(guizang.ai)@op7418太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满🔗 View Quoted Tweet💬11🔄0❤️13👀2305📊9⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "45ec867bde43f99988fafcb3223300d4dd7f4aa7",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "太牛批了 Fable 5.2，做游戏的能力，太顶了！\n\n你只要给他提供工具，他的场景设计和游戏细节直接拉满",
+      "url": "https://x.com/op7418/status/2120528843031334915",
+      "published_at": "2026-11-11T14:47:28Z",
+      "summary": "太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满💬21🔄0❤️16👀7447📊20⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "12ba5c1916096c0cddc323899d4fd5aed6ebff69",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "趁Fable5.2智力最高分享1个超有用的提示语",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513459&idx=1&sn=68ba52376990d6b419ca6337ec09a44f",
+      "published_at": "2026-11-11T06:38:00Z",
+      "summary": "卡尔的AI沃茨 2026-11-11 14:38 浙江 这两天被Fable5.2刷屏了，打磨出一个提示语把已有的项目全更新迭代一遍。 5.2把鹈鹕骑车拉到了全新的高度，还能用代码手搓动画视频，音乐和图像，一笔笔画出来，通常模型上线第一周智力是最强的，还有重置额度卡。 1️⃣ 提示语1 ``` 重新审视这个项目，结合代码，文档，历史改动，以及可用的运行数据，找出之前受模型能力限制而留下的低效实现，重复逻辑，过度设计和未解决问题。 从项目的实际目标出发，判断哪些地方值得重新设计。给出问题证据、预期收益、改动范围和验证方式，优先选择收益明确、复杂度更低的方案，…"
+    },
     {
       "id": "b15e623d91955c74d9f75d4972e3df96b66f4d7e",
       "site_id": "featuredrss",
@@ -337,7 +348,18 @@
       "title": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。",
       "url": "https://x.com/op7418/status/2120325429181739309",
       "published_at": "2026-11-11T01:19:10Z",
-      "summary": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。🔗 View Quoted Tweet💬42🔄4❤️28👀11251📊34⚡ Powered by xgo.ing"
+      "summary": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。🔗 View Quoted Tweet💬46🔄4❤️34👀14413📊38⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "98b9aabd551a4ec528aae7d1fa1f032300da5267",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688334&idx=1&sn=306d1166b9978ceac39b937cf2c63c97",
+      "published_at": "2026-11-10T23:56:00Z",
+      "summary": "还有那些无法计算的美"
     },
     {
       "id": "10d153c89cc4922d80c1b1cd0055a60e29173b6e",
@@ -382,72 +404,6 @@
       "url": "https://x.com/OpenAI/status/2120202353907486826",
       "published_at": "2026-11-10T17:10:07Z",
       "summary": "We're turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote, for our latest cyber announcements. Working with our frontier models, we've identified and resolved important vulnerabilities in…"
-    },
-    {
-      "id": "65cf4769c8d31878588cf51ff858b6d234113c38",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Learn more: https://t.co/uSjuXDjJYg",
-      "url": "https://x.com/GoogleAI/status/2120187881537020079",
-      "published_at": "2026-11-10T16:12:36Z",
-      "summary": "Learn more: blog.google/innovation-and…💬5🔄4❤️91👀20357📊15⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8255eb7647eb8ef986c465ba0fd7e616f6cfef70",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Our strongest frontier model, Gemini 4 Carbon, is now available.\n\nBuilt for deeply complex, long-hor...",
-      "url": "https://x.com/GoogleAI/status/2120187753329791341",
-      "published_at": "2026-11-10T16:12:06Z",
-      "summary": "Our strongest frontier model, Gemini 4 Carbon, is now available. Built for deeply complex, long-horizon workflows that push a frontier model’s intelligence, Carbon delivers frontier performance in agentic workflows across complex knowledge work, software engineering and web devel…"
-    },
-    {
-      "id": "c0d9b64b0af61b2b964df9d8c449bd39a4131c58",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Starting today, our next frontier model Gemini 4 Carbon is rolling out to Google AI Ultra subscriber...",
-      "url": "https://x.com/GeminiApp/status/2120186450927038900",
-      "published_at": "2026-11-10T16:06:55Z",
-      "summary": "Starting today, our next frontier model Gemini 4 Carbon is rolling out to Google AI Ultra subscribers on desktop, mobile, and web at gemini.google It’s our strongest model, built to reason deeply through your most complex work: ✅ Get more thorough, reliable outputs on your toughe…"
-    },
-    {
-      "id": "35ecfd9ec8e54a5c95178ee42498e3cc1f758973",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "卡兹克招人了",
-      "url": "https://x.com/op7418/status/2120125019158417590",
-      "published_at": "2026-11-10T12:02:49Z",
-      "summary": "卡兹克招人了数字生命卡兹克@Khazix0918他们都说X上伙伴质量高，于是我也第一次来X上给我们公司招人了～ 我们现在有30多个小伙伴了，但是想做的事太多，所以，还需要更多的小伙伴！ 简单介绍一下，虚实传媒是一家AI领域的策略公司，我们有自己的IP数字生命卡兹克（也就是我自己），也是国内可能目前最大的AI领域MCN公司，目前签约独家博主300+，也合作了上百家机构公司，国内几乎所有跟AI方向相关的公司都是我们的客户～ 公司内部还是比较AI Native的，几乎全员都在用Claude或者Codex Coding自己岗位和职位的产品，来解放人力、优化流程，…"
-    },
-    {
-      "id": "fc2586bb9c28895d980e8e0ae5e37972a38a3bd7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
-      "url": "https://x.com/op7418/status/2120106433169793396",
-      "published_at": "2026-11-10T10:48:57Z",
-      "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬37🔄0❤️35👀15103📊34⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "4abc2bc3a88b309bba4ce99f03b69d5bf9ea6336",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "妈的，Fable 5.2 真的牛逼，创意能力太强了！\n\n我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。\n\n只需要你打对应的字，它就会生成对应文字的墨水的形象。\n\n墨是实体实时的...",
-      "url": "https://x.com/op7418/status/2120085300185833878",
-      "published_at": "2026-11-10T09:24:59Z",
-      "summary": "妈的，Fable 5.2 真的牛逼，创意能力太强了！ 我让他做一体现他能力的项目，没有告诉他要做什么样的东西，他给了我这个。 只需要你打对应的字，它就会生成对应文字的墨水的形象。 墨是实体实时的流体模拟，你每拖一下鼠标都能感觉到，还有对应的音效和音乐。 你的鼠标所在的位置就是当前你打这个字对应的画面生成的位置，可以通过文字进行水墨作画，。 而且这些物品和天气都是动态的，还会相互影响，太牛逼了。Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418…"
     }
   ]
 }
