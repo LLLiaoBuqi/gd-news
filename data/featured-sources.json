@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T21:52:00.265998Z",
+  "generated_at": "2026-11-11T01:38:22.495968Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 22,
+  "total_items": 19,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 201,
+      "duration_ms": 1067,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 198,
-      "duration_ms": 72,
+      "duration_ms": 103,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 914,
+      "duration_ms": 1070,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1117,
+      "duration_ms": 1247,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1037,
+      "duration_ms": 1138,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 498,
+      "duration_ms": 723,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/302188068",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/302188068'",
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 451,
+      "duration_ms": 896,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 48,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2018,
+      "duration_ms": 2321,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1050,
+      "duration_ms": 1780,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 14,
+      "total_items": 12,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
           "url": "https://x.com/op7418/status/2120106433169793396",
           "published_at": "2026-11-10T10:48:57Z",
-          "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬34🔄0❤️31👀11422📊31⚡ Powered by xgo.ing"
+          "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬34🔄0❤️32👀12770📊31⚡ Powered by xgo.ing"
         },
         {
           "id": "4abc2bc3a88b309bba4ce99f03b69d5bf9ea6336",
@@ -233,7 +233,7 @@
           "title": "繁体中文也行",
           "url": "https://x.com/op7418/status/2120038512963748026",
           "published_at": "2026-11-10T06:19:04Z",
-          "summary": "繁体中文也行💬0🔄0❤️4👀5576📊1⚡ Powered by xgo.ing"
+          "summary": "繁体中文也行💬0🔄0❤️4👀5844📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "d50d5d5bb701589bf0c32659212f77443e34911e",
@@ -255,7 +255,7 @@
           "title": "搞定了",
           "url": "https://x.com/op7418/status/2120034939437723679",
           "published_at": "2026-11-10T06:04:52Z",
-          "summary": "搞定了💬0🔄1❤️10👀5959📊3⚡ Powered by xgo.ing"
+          "summary": "搞定了💬0🔄1❤️12👀6285📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "fe4c88c9a618e819e38fd206366fbbdd0547e166",
@@ -288,7 +288,7 @@
           "title": "卧槽，这个项目真牛逼\n\n可以直接给国行的手机开启满血版的 Apple Intelligence！\n\n还可以解除 eSIM 的数量限制好像。\n\n给我现在唯一的主力机 Air 试一下，希望不要炸。",
           "url": "https://x.com/op7418/status/2119998102342082970",
           "published_at": "2026-11-10T03:38:29Z",
-          "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬82🔄44❤️421👀108131📊198⚡ Powered by xgo.ing"
+          "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬85🔄45❤️444👀113242📊207⚡ Powered by xgo.ing"
         },
         {
           "id": "30f077d1dc607554b52a6abf2a6bb1317790fb74",
@@ -299,7 +299,7 @@
           "title": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。",
           "url": "https://x.com/op7418/status/2119987509627428908",
           "published_at": "2026-11-10T02:56:24Z",
-          "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬13🔄0❤️18👀10173📊12⚡ Powered by xgo.ing"
+          "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬13🔄0❤️18👀10474📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "97f81013b88fbeb4dd44d8c0330eb434edfd921f",
@@ -310,7 +310,7 @@
           "title": "试试 Fable 5.2 的成色",
           "url": "https://x.com/op7418/status/2119986765406916812",
           "published_at": "2026-11-10T02:53:26Z",
-          "summary": "试试 Fable 5.2 的成色💬68🔄1❤️74👀82512📊66⚡ Powered by xgo.ing"
+          "summary": "试试 Fable 5.2 的成色💬69🔄1❤️77👀89314📊67⚡ Powered by xgo.ing"
         },
         {
           "id": "ef39f3333c54dedf66a7d300655806dfa09588b9",
@@ -321,35 +321,13 @@
           "title": "这次 Fable 5.2 发布之后的送的重置挺有意思的：\n\n你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。\n\n当然，我们这边超过一年的 100 美元账号确实不多。",
           "url": "https://x.com/op7418/status/2119973618751057974",
           "published_at": "2026-11-10T02:01:12Z",
-          "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬76🔄0❤️51👀18736📊68⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "a7924f911a1aba63bf6e9759671b8611f042aff5",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Grokbot 已经重置",
-          "url": "https://x.com/op7418/status/2119962678051721337",
-          "published_at": "2026-11-10T01:17:44Z",
-          "summary": "Grokbot 已经重置Grok Bot@botWe've reset weekly limits for all Grok Bot users. Enjoy!🔗 View Quoted Tweet💬14🔄0❤️16👀8180📊10⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "2861b9cc809b54d4b682e33ca52c29d2cd0bdbaf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "实测Claude Fable 5.2 - 审美与细节的绝对统治。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688279&idx=1&sn=7e6337f4c594cf4521cb5a2aa7d2bd46",
-          "published_at": "2026-11-09T23:21:00Z",
-          "summary": "与神对话"
+          "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬78🔄0❤️51👀19387📊70⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 8,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -410,7 +388,7 @@
           "title": "Learn more: https://t.co/uSjuXDjJYg",
           "url": "https://x.com/GoogleAI/status/2120187881537020079",
           "published_at": "2026-11-10T16:12:36Z",
-          "summary": "Learn more: blog.google/innovation-and…💬4🔄1❤️58👀12075📊9⚡ Powered by xgo.ing"
+          "summary": "Learn more: blog.google/innovation-and…💬4🔄2❤️73👀15789📊12⚡ Powered by xgo.ing"
         },
         {
           "id": "8255eb7647eb8ef986c465ba0fd7e616f6cfef70",
@@ -433,17 +411,6 @@
           "url": "https://x.com/GeminiApp/status/2120186450927038900",
           "published_at": "2026-11-10T16:06:55Z",
           "summary": "Starting today, our next frontier model Gemini 4 Carbon is rolling out to Google AI Ultra subscribers on desktop, mobile, and web at gemini.google It’s our strongest model, built to reason deeply through your most complex work: ✅ Get more thorough, reliable outputs on your toughe…"
-        },
-        {
-          "id": "a9f17a1c5aa1543f65cd2faa10692adaea6a81d6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We built Control Room, a central system to track model workloads across our research infrastructure ...",
-          "url": "https://x.com/OpenAI/status/2119913172039868579",
-          "published_at": "2026-11-09T22:01:00Z",
-          "summary": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data proc…"
         }
       ]
     }
@@ -502,7 +469,7 @@
       "title": "Learn more: https://t.co/uSjuXDjJYg",
       "url": "https://x.com/GoogleAI/status/2120187881537020079",
       "published_at": "2026-11-10T16:12:36Z",
-      "summary": "Learn more: blog.google/innovation-and…💬4🔄1❤️58👀12075📊9⚡ Powered by xgo.ing"
+      "summary": "Learn more: blog.google/innovation-and…💬4🔄2❤️73👀15789📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "8255eb7647eb8ef986c465ba0fd7e616f6cfef70",
@@ -546,7 +513,7 @@
       "title": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
       "url": "https://x.com/op7418/status/2120106433169793396",
       "published_at": "2026-11-10T10:48:57Z",
-      "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬34🔄0❤️31👀11422📊31⚡ Powered by xgo.ing"
+      "summary": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。Your browser does not support the video tag.🔗 View on Twitter💬34🔄0❤️32👀12770📊31⚡ Powered by xgo.ing"
     },
     {
       "id": "4abc2bc3a88b309bba4ce99f03b69d5bf9ea6336",
@@ -568,7 +535,7 @@
       "title": "繁体中文也行",
       "url": "https://x.com/op7418/status/2120038512963748026",
       "published_at": "2026-11-10T06:19:04Z",
-      "summary": "繁体中文也行💬0🔄0❤️4👀5576📊1⚡ Powered by xgo.ing"
+      "summary": "繁体中文也行💬0🔄0❤️4👀5844📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "d50d5d5bb701589bf0c32659212f77443e34911e",
@@ -590,7 +557,7 @@
       "title": "搞定了",
       "url": "https://x.com/op7418/status/2120034939437723679",
       "published_at": "2026-11-10T06:04:52Z",
-      "summary": "搞定了💬0🔄1❤️10👀5959📊3⚡ Powered by xgo.ing"
+      "summary": "搞定了💬0🔄1❤️12👀6285📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "fe4c88c9a618e819e38fd206366fbbdd0547e166",
@@ -623,7 +590,7 @@
       "title": "卧槽，这个项目真牛逼\n\n可以直接给国行的手机开启满血版的 Apple Intelligence！\n\n还可以解除 eSIM 的数量限制好像。\n\n给我现在唯一的主力机 Air 试一下，希望不要炸。",
       "url": "https://x.com/op7418/status/2119998102342082970",
       "published_at": "2026-11-10T03:38:29Z",
-      "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬82🔄44❤️421👀108131📊198⚡ Powered by xgo.ing"
+      "summary": "卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。💬85🔄45❤️444👀113242📊207⚡ Powered by xgo.ing"
     },
     {
       "id": "30f077d1dc607554b52a6abf2a6bb1317790fb74",
@@ -634,7 +601,7 @@
       "title": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。",
       "url": "https://x.com/op7418/status/2119987509627428908",
       "published_at": "2026-11-10T02:56:24Z",
-      "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬13🔄0❤️18👀10173📊12⚡ Powered by xgo.ing"
+      "summary": "不是，怎么这玩意儿开始雷霆大思考了呀？这个任务思考了 5 分钟，一个字都没往外吐。💬13🔄0❤️18👀10474📊12⚡ Powered by xgo.ing"
     },
     {
       "id": "97f81013b88fbeb4dd44d8c0330eb434edfd921f",
@@ -645,7 +612,7 @@
       "title": "试试 Fable 5.2 的成色",
       "url": "https://x.com/op7418/status/2119986765406916812",
       "published_at": "2026-11-10T02:53:26Z",
-      "summary": "试试 Fable 5.2 的成色💬68🔄1❤️74👀82512📊66⚡ Powered by xgo.ing"
+      "summary": "试试 Fable 5.2 的成色💬69🔄1❤️77👀89314📊67⚡ Powered by xgo.ing"
     },
     {
       "id": "ef39f3333c54dedf66a7d300655806dfa09588b9",
@@ -656,40 +623,7 @@
       "title": "这次 Fable 5.2 发布之后的送的重置挺有意思的：\n\n你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。\n\n当然，我们这边超过一年的 100 美元账号确实不多。",
       "url": "https://x.com/op7418/status/2119973618751057974",
       "published_at": "2026-11-10T02:01:12Z",
-      "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬76🔄0❤️51👀18736📊68⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "a7924f911a1aba63bf6e9759671b8611f042aff5",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Grokbot 已经重置",
-      "url": "https://x.com/op7418/status/2119962678051721337",
-      "published_at": "2026-11-10T01:17:44Z",
-      "summary": "Grokbot 已经重置Grok Bot@botWe've reset weekly limits for all Grok Bot users. Enjoy!🔗 View Quoted Tweet💬14🔄0❤️16👀8180📊10⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2861b9cc809b54d4b682e33ca52c29d2cd0bdbaf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "实测Claude Fable 5.2 - 审美与细节的绝对统治。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688279&idx=1&sn=7e6337f4c594cf4521cb5a2aa7d2bd46",
-      "published_at": "2026-11-09T23:21:00Z",
-      "summary": "与神对话"
-    },
-    {
-      "id": "a9f17a1c5aa1543f65cd2faa10692adaea6a81d6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We built Control Room, a central system to track model workloads across our research infrastructure ...",
-      "url": "https://x.com/OpenAI/status/2119913172039868579",
-      "published_at": "2026-11-09T22:01:00Z",
-      "summary": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data proc…"
+      "summary": "这次 Fable 5.2 发布之后的送的重置挺有意思的： 你的账号时间越长、订阅时间越长，重置次数就越多，超过一年的账号会一次性获得三次重置。 当然，我们这边超过一年的 100 美元账号确实不多。💬78🔄0❤️51👀19387📊70⚡ Powered by xgo.ing"
     }
   ]
 }
