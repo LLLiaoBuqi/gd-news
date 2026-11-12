@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T23:14:54.947806Z",
+  "generated_at": "2026-11-12T03:58:34.124484Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 739,
+      "duration_ms": 170,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 198,
-      "duration_ms": 75,
+      "duration_ms": 117,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 859,
+      "duration_ms": 1112,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 970,
+      "duration_ms": 1304,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 933,
+      "duration_ms": 1079,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 622,
+      "duration_ms": 1361,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 732,
+      "duration_ms": 823,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 120,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2363,
+      "duration_ms": 2228,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1326,
+      "duration_ms": 903,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,79 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "a2252b52b638a4a3434011d72bdac15db5e19542",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "其实在 Anthropic 的封锁下，现在有 Claude 账号是一个巨大的套利空间。\n\n就是你只要不蠢，有一个 Claude 账号，基本上都能把订阅的钱赚回来",
+          "url": "https://x.com/op7418/status/2120703897568473421",
+          "published_at": "2026-11-12T02:23:04Z",
+          "summary": "其实在 Anthropic 的封锁下，现在有 Claude 账号是一个巨大的套利空间。 就是你只要不蠢，有一个 Claude 账号，基本上都能把订阅的钱赚回来💬62🔄1❤️48👀19579📊57⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "a0e21603d0375ed25dd55233fad08e9ad3f59c8f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这次其实暴露出了一个非常牛的范式：网页游戏好像要回到我们的生活里来了。\n\n为什么这么说？\n\n网页是最方便的游戏分发方式，手机、电脑等各种设备都能打开。\n\n而且它的优化非常厉害，能无痛把那么大的游戏缩小...",
+          "url": "https://x.com/op7418/status/2120700493634867417",
+          "published_at": "2026-11-12T02:09:33Z",
+          "summary": "这次其实暴露出了一个非常牛的范式：网页游戏好像要回到我们的生活里来了。 为什么这么说？ 网页是最方便的游戏分发方式，手机、电脑等各种设备都能打开。 而且它的优化非常厉害，能无痛把那么大的游戏缩小到三分之一。 前阵子居然有人把《GTA5》移植成了网页，资源压到约 700MB，打开浏览器就能玩。 虽然很快就因为版权投诉被拿下了，但传播极广、流量极大。 大家非常想要这种打开就能玩、不用注册账号的体验，对画质其实没那么苛刻。 我觉得我们需要一个以 HTML 网页为基础的游戏分发平台，就像当年的 4399。 很多人会说，门槛降低以后，开发者比玩家还多，玩游戏的人都…"
+        },
+        {
+          "id": "9c8707c7bab2f0154006be0a16805c5f4650ec6c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "游戏在这里：https://t.co/DR0gRDEhFW",
+          "url": "https://x.com/op7418/status/2120697381469794390",
+          "published_at": "2026-11-12T01:57:11Z",
+          "summary": "游戏在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418我去！Fable 5.2 只用了一下午、45 亿 token 就给我做出了这样一个 3D 动作游戏！ 包括模型、场景设计、动作设计、优化都是它搞的，这一切都被融合在了一个 30 兆的 HTML 文件里边。 总共就花了一下午，它这个游戏制作能力太恐怖了 可以在这里试试：op7418.github.io/guizang-game-s…Your browser does not support the video tag.🔗 View on Twitter🔗 Vie…"
+        },
+        {
+          "id": "6a75c157b75d48b5baaa2fcc1e2b28d714fd3a61",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "是 4.5 亿 Token，没有 45 亿 哈哈，语音输入打错字了",
+          "url": "https://x.com/op7418/status/2120695897956995075",
+          "published_at": "2026-11-12T01:51:17Z",
+          "summary": "是 4.5 亿 Token，没有 45 亿 哈哈，语音输入打错字了💬0🔄0❤️4👀1484📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "7a0d769768bf48bc61494d9a39416357cc51fd6f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "其实不是 one-shot 搞的，中间我让他改了很多轮，参考了不少他们用 AI 做游戏的经验，顺便还做了个 skill。\n\n这个 skill 会先问清楚你的需求，然后调研你的工具，之后自己推进画面、自...",
+          "url": "https://x.com/op7418/status/2120695301204005060",
+          "published_at": "2026-11-12T01:48:55Z",
+          "summary": "其实不是 one-shot 搞的，中间我让他改了很多轮，参考了不少他们用 AI 做游戏的经验，顺便还做了个 skill。 这个 skill 会先问清楚你的需求，然后调研你的工具，之后自己推进画面、自己检查、自己核对。同时，动作游戏的战斗手法、打击手感和优化这些都放进 skill 里了，不需要他再去调研。 里面还有一份很容易出问题的清单，包括最重要的：如何把很大的体积打包成很小的体积，同时不影响游玩 github.com/op7418/guizang…💬4🔄0❤️12👀2165📊8⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "701df2a4428f0c17fb959d6412fe2c1c3ee2d9df",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我去！Fable 5.2 只用了一下午、45 亿 token 就给我做出了这样一个 3D 动作游戏！\n\n包括模型、场景设计、动作设计、优化都是它搞的，这一切都被融合在了一个 30 兆的 HTML 文件...",
+          "url": "https://x.com/op7418/status/2120694045299327187",
+          "published_at": "2026-11-12T01:43:55Z",
+          "summary": "我去！Fable 5.2 只用了一下午、45 亿 token 就给我做出了这样一个 3D 动作游戏！ 包括模型、场景设计、动作设计、优化都是它搞的，这一切都被融合在了一个 30 兆的 HTML 文件里边。 总共就花了一下午，它这个游戏制作能力太恐怖了 可以在这里试试：op7418.github.io/guizang-game-s…Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他…"
+        },
         {
           "id": "7fef399c109fb0bb03de2bec36a2d9797be70dcb",
           "site_id": "featuredrss",
@@ -200,7 +266,7 @@
           "title": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。\n\n网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。\n\n4399 即将迎来复兴，我们需要...",
           "url": "https://x.com/op7418/status/2120541276970094774",
           "published_at": "2026-11-11T15:36:52Z",
-          "summary": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。 网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。 4399 即将迎来复兴，我们需要一个以 HTML 网页为基础的游戏分发平台。歸藏(guizang.ai)@op7418太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满🔗 View Quoted Tweet💬18🔄2❤️37👀7488📊19⚡ Powered by xgo.ing"
+          "summary": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。 网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。 4399 即将迎来复兴，我们需要一个以 HTML 网页为基础的游戏分发平台。歸藏(guizang.ai)@op7418太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满🔗 View Quoted Tweet💬27🔄4❤️52👀12693📊28⚡ Powered by xgo.ing"
         },
         {
           "id": "45ec867bde43f99988fafcb3223300d4dd7f4aa7",
@@ -211,7 +277,7 @@
           "title": "太牛批了 Fable 5.2，做游戏的能力，太顶了！\n\n你只要给他提供工具，他的场景设计和游戏细节直接拉满",
           "url": "https://x.com/op7418/status/2120528843031334915",
           "published_at": "2026-11-11T14:47:28Z",
-          "summary": "太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满💬28🔄3❤️50👀18873📊32⚡ Powered by xgo.ing"
+          "summary": "太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满💬38🔄3❤️68👀43621📊43⚡ Powered by xgo.ing"
         },
         {
           "id": "12ba5c1916096c0cddc323899d4fd5aed6ebff69",
@@ -223,28 +289,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513459&idx=1&sn=68ba52376990d6b419ca6337ec09a44f",
           "published_at": "2026-11-11T06:38:00Z",
           "summary": "卡尔的AI沃茨 2026-11-11 14:38 浙江 这两天被Fable5.2刷屏了，打磨出一个提示语把已有的项目全更新迭代一遍。 5.2把鹈鹕骑车拉到了全新的高度，还能用代码手搓动画视频，音乐和图像，一笔笔画出来，通常模型上线第一周智力是最强的，还有重置额度卡。 1️⃣ 提示语1 ``` 重新审视这个项目，结合代码，文档，历史改动，以及可用的运行数据，找出之前受模型能力限制而留下的低效实现，重复逻辑，过度设计和未解决问题。 从项目的实际目标出发，判断哪些地方值得重新设计。给出问题证据、预期收益、改动范围和验证方式，优先选择收益明确、复杂度更低的方案，…"
-        },
-        {
-          "id": "b15e623d91955c74d9f75d4972e3df96b66f4d7e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。",
-          "url": "https://x.com/op7418/status/2120325429181739309",
-          "published_at": "2026-11-11T01:19:10Z",
-          "summary": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。🔗 View Quoted Tweet💬46🔄4❤️37👀15121📊39⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "98b9aabd551a4ec528aae7d1fa1f032300da5267",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688334&idx=1&sn=306d1166b9978ceac39b937cf2c63c97",
-          "published_at": "2026-11-10T23:56:00Z",
-          "summary": "还有那些无法计算的美"
         }
       ]
     },
@@ -267,7 +311,7 @@
           "title": "Gemini on Apple CarPlay is rolling out globally starting today to all Gemini users on iOS across eve...",
           "url": "https://x.com/GeminiApp/status/2120626272724484605",
           "published_at": "2026-11-11T21:14:37Z",
-          "summary": "Gemini on Apple CarPlay is rolling out globally starting today to all Gemini users on iOS across every supported Gemini Live language. Check out our blog to learn more about Gemini on Carplay and ways to make the most of your drive: goo.gle/GeminiOnCarplay💬4🔄4❤️24👀5145📊7⚡ Powered…"
+          "summary": "Gemini on Apple CarPlay is rolling out globally starting today to all Gemini users on iOS across every supported Gemini Live language. Check out our blog to learn more about Gemini on Carplay and ways to make the most of your drive: goo.gle/GeminiOnCarplay💬5🔄5❤️37👀9864📊9⚡ Powered…"
         },
         {
           "id": "74e364d94a5098ac18304767d318251ebf869c14",
@@ -278,12 +322,78 @@
           "title": "Talk it through with Gemini now on Apple CarPlay. 🚗\n\nJust tap the Gemini app icon on your CarPlay s...",
           "url": "https://x.com/GeminiApp/status/2120626195033473228",
           "published_at": "2026-11-11T21:14:18Z",
-          "summary": "Talk it through with Gemini now on Apple CarPlay. 🚗 Just tap the Gemini app icon on your CarPlay screen or side rail to easily pick up a conversation from your phone, explore a topic you're curious about, or brainstorm out loud with Gemini Live.💬14🔄18❤️193👀20181📊39⚡ Powered by xg…"
+          "summary": "Talk it through with Gemini now on Apple CarPlay. 🚗 Just tap the Gemini app icon on your CarPlay screen or side rail to easily pick up a conversation from your phone, explore a topic you're curious about, or brainstorm out loud with Gemini Live.💬30🔄26❤️336👀35353📊68⚡ Powered by xg…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "a2252b52b638a4a3434011d72bdac15db5e19542",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "其实在 Anthropic 的封锁下，现在有 Claude 账号是一个巨大的套利空间。\n\n就是你只要不蠢，有一个 Claude 账号，基本上都能把订阅的钱赚回来",
+      "url": "https://x.com/op7418/status/2120703897568473421",
+      "published_at": "2026-11-12T02:23:04Z",
+      "summary": "其实在 Anthropic 的封锁下，现在有 Claude 账号是一个巨大的套利空间。 就是你只要不蠢，有一个 Claude 账号，基本上都能把订阅的钱赚回来💬62🔄1❤️48👀19579📊57⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "a0e21603d0375ed25dd55233fad08e9ad3f59c8f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这次其实暴露出了一个非常牛的范式：网页游戏好像要回到我们的生活里来了。\n\n为什么这么说？\n\n网页是最方便的游戏分发方式，手机、电脑等各种设备都能打开。\n\n而且它的优化非常厉害，能无痛把那么大的游戏缩小...",
+      "url": "https://x.com/op7418/status/2120700493634867417",
+      "published_at": "2026-11-12T02:09:33Z",
+      "summary": "这次其实暴露出了一个非常牛的范式：网页游戏好像要回到我们的生活里来了。 为什么这么说？ 网页是最方便的游戏分发方式，手机、电脑等各种设备都能打开。 而且它的优化非常厉害，能无痛把那么大的游戏缩小到三分之一。 前阵子居然有人把《GTA5》移植成了网页，资源压到约 700MB，打开浏览器就能玩。 虽然很快就因为版权投诉被拿下了，但传播极广、流量极大。 大家非常想要这种打开就能玩、不用注册账号的体验，对画质其实没那么苛刻。 我觉得我们需要一个以 HTML 网页为基础的游戏分发平台，就像当年的 4399。 很多人会说，门槛降低以后，开发者比玩家还多，玩游戏的人都…"
+    },
+    {
+      "id": "9c8707c7bab2f0154006be0a16805c5f4650ec6c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "游戏在这里：https://t.co/DR0gRDEhFW",
+      "url": "https://x.com/op7418/status/2120697381469794390",
+      "published_at": "2026-11-12T01:57:11Z",
+      "summary": "游戏在这里：x.com/op7418/status/…歸藏(guizang.ai)@op7418我去！Fable 5.2 只用了一下午、45 亿 token 就给我做出了这样一个 3D 动作游戏！ 包括模型、场景设计、动作设计、优化都是它搞的，这一切都被融合在了一个 30 兆的 HTML 文件里边。 总共就花了一下午，它这个游戏制作能力太恐怖了 可以在这里试试：op7418.github.io/guizang-game-s…Your browser does not support the video tag.🔗 View on Twitter🔗 Vie…"
+    },
+    {
+      "id": "6a75c157b75d48b5baaa2fcc1e2b28d714fd3a61",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "是 4.5 亿 Token，没有 45 亿 哈哈，语音输入打错字了",
+      "url": "https://x.com/op7418/status/2120695897956995075",
+      "published_at": "2026-11-12T01:51:17Z",
+      "summary": "是 4.5 亿 Token，没有 45 亿 哈哈，语音输入打错字了💬0🔄0❤️4👀1484📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "7a0d769768bf48bc61494d9a39416357cc51fd6f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "其实不是 one-shot 搞的，中间我让他改了很多轮，参考了不少他们用 AI 做游戏的经验，顺便还做了个 skill。\n\n这个 skill 会先问清楚你的需求，然后调研你的工具，之后自己推进画面、自...",
+      "url": "https://x.com/op7418/status/2120695301204005060",
+      "published_at": "2026-11-12T01:48:55Z",
+      "summary": "其实不是 one-shot 搞的，中间我让他改了很多轮，参考了不少他们用 AI 做游戏的经验，顺便还做了个 skill。 这个 skill 会先问清楚你的需求，然后调研你的工具，之后自己推进画面、自己检查、自己核对。同时，动作游戏的战斗手法、打击手感和优化这些都放进 skill 里了，不需要他再去调研。 里面还有一份很容易出问题的清单，包括最重要的：如何把很大的体积打包成很小的体积，同时不影响游玩 github.com/op7418/guizang…💬4🔄0❤️12👀2165📊8⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "701df2a4428f0c17fb959d6412fe2c1c3ee2d9df",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我去！Fable 5.2 只用了一下午、45 亿 token 就给我做出了这样一个 3D 动作游戏！\n\n包括模型、场景设计、动作设计、优化都是它搞的，这一切都被融合在了一个 30 兆的 HTML 文件...",
+      "url": "https://x.com/op7418/status/2120694045299327187",
+      "published_at": "2026-11-12T01:43:55Z",
+      "summary": "我去！Fable 5.2 只用了一下午、45 亿 token 就给我做出了这样一个 3D 动作游戏！ 包括模型、场景设计、动作设计、优化都是它搞的，这一切都被融合在了一个 30 兆的 HTML 文件里边。 总共就花了一下午，它这个游戏制作能力太恐怖了 可以在这里试试：op7418.github.io/guizang-game-s…Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他…"
+    },
     {
       "id": "1109552fc450ede7b5eb2019adec0994208d23f4",
       "site_id": "featuredrss",
@@ -293,7 +403,7 @@
       "title": "Gemini on Apple CarPlay is rolling out globally starting today to all Gemini users on iOS across eve...",
       "url": "https://x.com/GeminiApp/status/2120626272724484605",
       "published_at": "2026-11-11T21:14:37Z",
-      "summary": "Gemini on Apple CarPlay is rolling out globally starting today to all Gemini users on iOS across every supported Gemini Live language. Check out our blog to learn more about Gemini on Carplay and ways to make the most of your drive: goo.gle/GeminiOnCarplay💬4🔄4❤️24👀5145📊7⚡ Powered…"
+      "summary": "Gemini on Apple CarPlay is rolling out globally starting today to all Gemini users on iOS across every supported Gemini Live language. Check out our blog to learn more about Gemini on Carplay and ways to make the most of your drive: goo.gle/GeminiOnCarplay💬5🔄5❤️37👀9864📊9⚡ Powered…"
     },
     {
       "id": "74e364d94a5098ac18304767d318251ebf869c14",
@@ -304,7 +414,7 @@
       "title": "Talk it through with Gemini now on Apple CarPlay. 🚗\n\nJust tap the Gemini app icon on your CarPlay s...",
       "url": "https://x.com/GeminiApp/status/2120626195033473228",
       "published_at": "2026-11-11T21:14:18Z",
-      "summary": "Talk it through with Gemini now on Apple CarPlay. 🚗 Just tap the Gemini app icon on your CarPlay screen or side rail to easily pick up a conversation from your phone, explore a topic you're curious about, or brainstorm out loud with Gemini Live.💬14🔄18❤️193👀20181📊39⚡ Powered by xg…"
+      "summary": "Talk it through with Gemini now on Apple CarPlay. 🚗 Just tap the Gemini app icon on your CarPlay screen or side rail to easily pick up a conversation from your phone, explore a topic you're curious about, or brainstorm out loud with Gemini Live.💬30🔄26❤️336👀35353📊68⚡ Powered by xg…"
     },
     {
       "id": "7fef399c109fb0bb03de2bec36a2d9797be70dcb",
@@ -315,7 +425,7 @@
       "title": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。\n\n网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。\n\n4399 即将迎来复兴，我们需要...",
       "url": "https://x.com/op7418/status/2120541276970094774",
       "published_at": "2026-11-11T15:36:52Z",
-      "summary": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。 网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。 4399 即将迎来复兴，我们需要一个以 HTML 网页为基础的游戏分发平台。歸藏(guizang.ai)@op7418太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满🔗 View Quoted Tweet💬18🔄2❤️37👀7488📊19⚡ Powered by xgo.ing"
+      "summary": "这一轮 Fable 5.2 做的这些 3D 游戏优化都极其牛逼，都能整合到一个 HTML 里边。 网页发布永远是最方便的游戏发布方式，也是适配最多平台的发布方式。 4399 即将迎来复兴，我们需要一个以 HTML 网页为基础的游戏分发平台。歸藏(guizang.ai)@op7418太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满🔗 View Quoted Tweet💬27🔄4❤️52👀12693📊28⚡ Powered by xgo.ing"
     },
     {
       "id": "45ec867bde43f99988fafcb3223300d4dd7f4aa7",
@@ -326,7 +436,7 @@
       "title": "太牛批了 Fable 5.2，做游戏的能力，太顶了！\n\n你只要给他提供工具，他的场景设计和游戏细节直接拉满",
       "url": "https://x.com/op7418/status/2120528843031334915",
       "published_at": "2026-11-11T14:47:28Z",
-      "summary": "太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满💬28🔄3❤️50👀18873📊32⚡ Powered by xgo.ing"
+      "summary": "太牛批了 Fable 5.2，做游戏的能力，太顶了！ 你只要给他提供工具，他的场景设计和游戏细节直接拉满💬38🔄3❤️68👀43621📊43⚡ Powered by xgo.ing"
     },
     {
       "id": "12ba5c1916096c0cddc323899d4fd5aed6ebff69",
@@ -338,28 +448,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513459&idx=1&sn=68ba52376990d6b419ca6337ec09a44f",
       "published_at": "2026-11-11T06:38:00Z",
       "summary": "卡尔的AI沃茨 2026-11-11 14:38 浙江 这两天被Fable5.2刷屏了，打磨出一个提示语把已有的项目全更新迭代一遍。 5.2把鹈鹕骑车拉到了全新的高度，还能用代码手搓动画视频，音乐和图像，一笔笔画出来，通常模型上线第一周智力是最强的，还有重置额度卡。 1️⃣ 提示语1 ``` 重新审视这个项目，结合代码，文档，历史改动，以及可用的运行数据，找出之前受模型能力限制而留下的低效实现，重复逻辑，过度设计和未解决问题。 从项目的实际目标出发，判断哪些地方值得重新设计。给出问题证据、预期收益、改动范围和验证方式，优先选择收益明确、复杂度更低的方案，…"
-    },
-    {
-      "id": "b15e623d91955c74d9f75d4972e3df96b66f4d7e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。",
-      "url": "https://x.com/op7418/status/2120325429181739309",
-      "published_at": "2026-11-11T01:19:10Z",
-      "summary": "哦，这个还可以给国行手机开启带有 AI 功能的新版 Apple 健康。歸藏(guizang.ai)@op7418卧槽，这个项目真牛逼 可以直接给国行的手机开启满血版的 Apple Intelligence！ 还可以解除 eSIM 的数量限制好像。 给我现在唯一的主力机 Air 试一下，希望不要炸。🔗 View Quoted Tweet💬46🔄4❤️37👀15121📊39⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "98b9aabd551a4ec528aae7d1fa1f032300da5267",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688334&idx=1&sn=306d1166b9978ceac39b937cf2c63c97",
-      "published_at": "2026-11-10T23:56:00Z",
-      "summary": "还有那些无法计算的美"
     }
   ]
 }
