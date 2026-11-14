@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:42:38.327825Z",
+  "generated_at": "2026-11-14T16:17:36.932798Z",
   "enabled": true,
   "window_hours": 24,
   "total_items": 9,
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 192,
+      "duration_ms": 228,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 199,
-      "duration_ms": 132,
+      "duration_ms": 76,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1043,
+      "duration_ms": 743,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1046,
+      "duration_ms": 800,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 962,
+      "duration_ms": 854,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 863,
+      "duration_ms": 428,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 494,
+      "duration_ms": 334,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 77,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2293,
+      "duration_ms": 2147,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1,
+      "duration_ms": 0,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1580,
+      "duration_ms": 689,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -191,6 +191,17 @@
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "a4052759394e4939d4a9bd86a241073d5bb20848",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "C 大推荐的一个新的 agent 产品，挺开放的，功能也比较全面",
+          "url": "https://x.com/op7418/status/2121586881347588530",
+          "published_at": "2026-11-14T12:51:44Z",
+          "summary": "C 大推荐的一个新的 agent 产品，挺开放的，功能也比较全面𝗖𝘆𝗱𝗶𝗮𝗿@Cydiar404近期在深度体验兄弟团队的 Enconvo 客户端，效率 + 3D Talk Avatar + 灵动岛的体验真的太舒服了，它不是 Javis 而是 Marvis，推荐给大家！我也会定期给大家发送一些福利（顶级模型免费 Token、内测体验邀请、官方全球大使邀请） x.com/i/article/2120…🔗 View Quoted Tweet💬22🔄0❤️20👀6668📊19⚡ Powered by xgo.ing"
+        },
         {
           "id": "6ef371555a850de07717778a9aa9f93142d200d8",
           "site_id": "featuredrss",
@@ -211,7 +222,7 @@
           "title": "顺便我们把 Next Token 的所有内容都做成了一个 Skill。\n\n你可以安装上以后，让你的 AI 跟 Next Token 的几位主播直接交流，从我们的 9 期播客中汲取认知和挑选案例。\n\n这...",
           "url": "https://x.com/op7418/status/2121483824777593211",
           "published_at": "2026-11-14T06:02:13Z",
-          "summary": "顺便我们把 Next Token 的所有内容都做成了一个 Skill。 你可以安装上以后，让你的 AI 跟 Next Token 的几位主播直接交流，从我们的 9 期播客中汲取认知和挑选案例。 这个对于行业调研和汇报都非常有用：github.com/next-token-tv/…💬3🔄1❤️6👀1997📊4⚡ Powered by xgo.ing"
+          "summary": "顺便我们把 Next Token 的所有内容都做成了一个 Skill。 你可以安装上以后，让你的 AI 跟 Next Token 的几位主播直接交流，从我们的 9 期播客中汲取认知和挑选案例。 这个对于行业调研和汇报都非常有用：github.com/next-token-tv/…💬4🔄1❤️6👀3003📊5⚡ Powered by xgo.ing"
         },
         {
           "id": "0af16c0699b143149514b4a4133bf2fd673ffb7c",
@@ -233,7 +244,18 @@
           "title": "今天很多人的 Claude 老号也弹 KYC 了啊",
           "url": "https://x.com/op7418/status/2121471156255613104",
           "published_at": "2026-11-14T05:11:53Z",
-          "summary": "今天很多人的 Claude 老号也弹 KYC 了啊💬75🔄0❤️44👀23654📊65⚡ Powered by xgo.ing"
+          "summary": "今天很多人的 Claude 老号也弹 KYC 了啊💬104🔄0❤️63👀36445📊91⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "9b711b09f69ef401af227c467bb02d09c4758b79",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "开源/10秒出4K/超长文本/... 我实测出了MiniMax H3-Image擅长的四类新玩法",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513928&idx=1&sn=276c09110530706bea1b69bdeaf1c375",
+          "published_at": "2026-11-14T04:02:00Z",
+          "summary": "吓呆瘫坐，源神竟在我身边"
         },
         {
           "id": "1ba141d002d11c5fa554621a4baa219af6107651",
@@ -245,28 +267,6 @@
           "url": "https://x.com/op7418/status/2121421288636035243",
           "published_at": "2026-11-14T01:53:43Z",
           "summary": "昨天这一天乱七八糟的，现在美国的 FAA 电信系统中断了，所有飞机都停飞了The FAA ✈️@FAANewsThere has been a temporary telecommunications outage - out of an abundance of caution all flights have been halted. Every flight has been accounted for and international flights will be handled on a case by case basis.🔗 View…"
-        },
-        {
-          "id": "e0099c5b760bf6663f62023f301311af2522ae91",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "DeepSeek API 更新了非常多的功能！\n\n现在 DeepSeek APP 里所有的能力都能在 API 上单独调用\n\n比如搜索文件、ASR 和 TTS 模型，还有 OCR 模型",
-          "url": "https://x.com/op7418/status/2121248295637180556",
-          "published_at": "2026-11-13T14:26:19Z",
-          "summary": "DeepSeek API 更新了非常多的功能！ 现在 DeepSeek APP 里所有的能力都能在 API 上单独调用 比如搜索文件、ASR 和 TTS 模型，还有 OCR 模型DeepSeek@deepseek_ai🚀 The full DeepSeek App experience, now via API Search, files, links, safety, and voice. The capabilities behind the DeepSeek App are now available through the DeepSeek AP…"
-        },
-        {
-          "id": "80dbf3a06248482e258e5dea475d579e205f8661",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了",
-          "url": "https://x.com/op7418/status/2121190917587771762",
-          "published_at": "2026-11-13T10:38:19Z",
-          "summary": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了💬122🔄5❤️105👀41529📊117⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -289,7 +289,7 @@
           "title": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemin...",
           "url": "https://x.com/GeminiApp/status/2121363868425306372",
           "published_at": "2026-11-13T22:05:33Z",
-          "summary": "Go from idea to finished video with Gemini 4 Hydrogen. Using a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.💬103🔄106❤️1584👀…"
+          "summary": "Go from idea to finished video with Gemini 4 Hydrogen. Using a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.💬129🔄130❤️1923👀…"
         },
         {
           "id": "647fa5786abf2ad4ee6d0114679f422c524f722c",
@@ -300,12 +300,23 @@
           "title": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hy...",
           "url": "https://x.com/GeminiApp/status/2121288322161225992",
           "published_at": "2026-11-13T17:05:22Z",
-          "summary": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hydrogen. ⚡ Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe that maps every strike into visual ripples and live ambient music.💬71🔄50❤️828👀54367📊165…"
+          "summary": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hydrogen. ⚡ Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe that maps every strike into visual ripples and live ambient music.💬74🔄62❤️916👀61038📊179…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "a4052759394e4939d4a9bd86a241073d5bb20848",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "C 大推荐的一个新的 agent 产品，挺开放的，功能也比较全面",
+      "url": "https://x.com/op7418/status/2121586881347588530",
+      "published_at": "2026-11-14T12:51:44Z",
+      "summary": "C 大推荐的一个新的 agent 产品，挺开放的，功能也比较全面𝗖𝘆𝗱𝗶𝗮𝗿@Cydiar404近期在深度体验兄弟团队的 Enconvo 客户端，效率 + 3D Talk Avatar + 灵动岛的体验真的太舒服了，它不是 Javis 而是 Marvis，推荐给大家！我也会定期给大家发送一些福利（顶级模型免费 Token、内测体验邀请、官方全球大使邀请） x.com/i/article/2120…🔗 View Quoted Tweet💬22🔄0❤️20👀6668📊19⚡ Powered by xgo.ing"
+    },
     {
       "id": "6ef371555a850de07717778a9aa9f93142d200d8",
       "site_id": "featuredrss",
@@ -326,7 +337,7 @@
       "title": "顺便我们把 Next Token 的所有内容都做成了一个 Skill。\n\n你可以安装上以后，让你的 AI 跟 Next Token 的几位主播直接交流，从我们的 9 期播客中汲取认知和挑选案例。\n\n这...",
       "url": "https://x.com/op7418/status/2121483824777593211",
       "published_at": "2026-11-14T06:02:13Z",
-      "summary": "顺便我们把 Next Token 的所有内容都做成了一个 Skill。 你可以安装上以后，让你的 AI 跟 Next Token 的几位主播直接交流，从我们的 9 期播客中汲取认知和挑选案例。 这个对于行业调研和汇报都非常有用：github.com/next-token-tv/…💬3🔄1❤️6👀1997📊4⚡ Powered by xgo.ing"
+      "summary": "顺便我们把 Next Token 的所有内容都做成了一个 Skill。 你可以安装上以后，让你的 AI 跟 Next Token 的几位主播直接交流，从我们的 9 期播客中汲取认知和挑选案例。 这个对于行业调研和汇报都非常有用：github.com/next-token-tv/…💬4🔄1❤️6👀3003📊5⚡ Powered by xgo.ing"
     },
     {
       "id": "0af16c0699b143149514b4a4133bf2fd673ffb7c",
@@ -348,7 +359,18 @@
       "title": "今天很多人的 Claude 老号也弹 KYC 了啊",
       "url": "https://x.com/op7418/status/2121471156255613104",
       "published_at": "2026-11-14T05:11:53Z",
-      "summary": "今天很多人的 Claude 老号也弹 KYC 了啊💬75🔄0❤️44👀23654📊65⚡ Powered by xgo.ing"
+      "summary": "今天很多人的 Claude 老号也弹 KYC 了啊💬104🔄0❤️63👀36445📊91⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "9b711b09f69ef401af227c467bb02d09c4758b79",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "开源/10秒出4K/超长文本/... 我实测出了MiniMax H3-Image擅长的四类新玩法",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513928&idx=1&sn=276c09110530706bea1b69bdeaf1c375",
+      "published_at": "2026-11-14T04:02:00Z",
+      "summary": "吓呆瘫坐，源神竟在我身边"
     },
     {
       "id": "1ba141d002d11c5fa554621a4baa219af6107651",
@@ -370,7 +392,7 @@
       "title": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemin...",
       "url": "https://x.com/GeminiApp/status/2121363868425306372",
       "published_at": "2026-11-13T22:05:33Z",
-      "summary": "Go from idea to finished video with Gemini 4 Hydrogen. Using a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.💬103🔄106❤️1584👀…"
+      "summary": "Go from idea to finished video with Gemini 4 Hydrogen. Using a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.💬129🔄130❤️1923👀…"
     },
     {
       "id": "647fa5786abf2ad4ee6d0114679f422c524f722c",
@@ -381,29 +403,7 @@
       "title": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hy...",
       "url": "https://x.com/GeminiApp/status/2121288322161225992",
       "published_at": "2026-11-13T17:05:22Z",
-      "summary": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hydrogen. ⚡ Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe that maps every strike into visual ripples and live ambient music.💬71🔄50❤️828👀54367📊165…"
-    },
-    {
-      "id": "e0099c5b760bf6663f62023f301311af2522ae91",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "DeepSeek API 更新了非常多的功能！\n\n现在 DeepSeek APP 里所有的能力都能在 API 上单独调用\n\n比如搜索文件、ASR 和 TTS 模型，还有 OCR 模型",
-      "url": "https://x.com/op7418/status/2121248295637180556",
-      "published_at": "2026-11-13T14:26:19Z",
-      "summary": "DeepSeek API 更新了非常多的功能！ 现在 DeepSeek APP 里所有的能力都能在 API 上单独调用 比如搜索文件、ASR 和 TTS 模型，还有 OCR 模型DeepSeek@deepseek_ai🚀 The full DeepSeek App experience, now via API Search, files, links, safety, and voice. The capabilities behind the DeepSeek App are now available through the DeepSeek AP…"
-    },
-    {
-      "id": "80dbf3a06248482e258e5dea475d579e205f8661",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了",
-      "url": "https://x.com/op7418/status/2121190917587771762",
-      "published_at": "2026-11-13T10:38:19Z",
-      "summary": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了💬122🔄5❤️105👀41529📊117⚡ Powered by xgo.ing"
+      "summary": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hydrogen. ⚡ Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe that maps every strike into visual ripples and live ambient music.💬74🔄62❤️916👀61038📊179…"
     }
   ]
 }
