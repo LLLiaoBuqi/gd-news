@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T22:19:33.764903Z",
+  "generated_at": "2026-11-14T02:33:52.666071Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 5,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 213,
+      "duration_ms": 510,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 199,
-      "duration_ms": 85,
+      "duration_ms": 149,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 694,
+      "duration_ms": 1390,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 813,
+      "duration_ms": 1500,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 837,
+      "duration_ms": 1211,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 626,
+      "duration_ms": 450,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 501,
+      "duration_ms": 735,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 152,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2141,
+      "duration_ms": 2399,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 3306,
+      "duration_ms": 1646,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 6,
+      "total_items": 3,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -211,7 +211,7 @@
           "title": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了",
           "url": "https://x.com/op7418/status/2121190917587771762",
           "published_at": "2026-11-13T10:38:19Z",
-          "summary": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了💬115🔄5❤️102👀36374📊111⚡ Powered by xgo.ing"
+          "summary": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了💬116🔄5❤️104👀38244📊112⚡ Powered by xgo.ing"
         },
         {
           "id": "56b139741f4cefa5e062ad80f198146ad694ca63",
@@ -223,39 +223,6 @@
           "url": "https://x.com/op7418/status/2121134740455702958",
           "published_at": "2026-11-13T06:55:05Z",
           "summary": "微软这个宕机影响太大了，一堆人收不到邮件，根本没办法完成工作 搞笑的是，评论区有个人说黄仁勋不用辞职，但是微软这种 CEO 得辞职Microsoft 365 Status@MSFT365StatusWe're investigating reports of users experiencing issues accessing Exchange Online mailboxes through multiple connection methods in the Americas. More details can be found in the Mi…"
-        },
-        {
-          "id": "9909cb8e819f8d41438d111155fc407d27a48542",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "真服了，Twitter 终于能突破一个帖子上传 4 张图片的限制了\n\n现在最多上传 20 张图片 这下爽了",
-          "url": "https://x.com/op7418/status/2121045955743191240",
-          "published_at": "2026-11-13T01:02:17Z",
-          "summary": "真服了，Twitter 终于能突破一个帖子上传 4 张图片的限制了 现在最多上传 20 张图片 这下爽了Jonah Katz@dinkin_flickaaBig update to the X platform today After 10 years of Twitter/X supporting up to 4 Photos and Videos per post, the limit has been increased to 20! Happy posting🔗 View Quoted Tweet💬37🔄0❤️26👀6595📊26⚡ Powere…"
-        },
-        {
-          "id": "6cd5c5cda5e3108bd903ce4d6579c56ec78636c1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "上架到小红书不少人玩过了",
-          "url": "https://x.com/op7418/status/2121043617284559325",
-          "published_at": "2026-11-13T00:53:00Z",
-          "summary": "上架到小红书不少人玩过了歸藏(guizang.ai)@op7418我去！Fable 5.2 只用了一下午、45 亿 token 就给我做出了这样一个 3D 动作游戏！ 包括模型、场景设计、动作设计、优化都是它搞的，这一切都被融合在了一个 30 兆的 HTML 文件里边。 总共就花了一下午，它这个游戏制作能力太恐怖了 可以在这里试试：op7418.github.io/guizang-game-s…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬…"
-        },
-        {
-          "id": "823e2fc9f212ffe826e723981f2ce1caf8909e02",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "黄仁勋辞职始末。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688358&idx=1&sn=0d2737100b591caee3ef3d7c2f2cd459",
-          "published_at": "2026-11-12T23:56:00Z",
-          "summary": "四天时间的精准收网"
         }
       ]
     },
@@ -270,6 +237,17 @@
       ],
       "items": [
         {
+          "id": "b527bd477d65be7da92e30612dd29dfaf5dc49c1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemin...",
+          "url": "https://x.com/GeminiApp/status/2121363868425306372",
+          "published_at": "2026-11-13T22:05:33Z",
+          "summary": "Go from idea to finished video with Gemini 4 Hydrogen. Using a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.💬66🔄62❤️899👀525…"
+        },
+        {
           "id": "647fa5786abf2ad4ee6d0114679f422c524f722c",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -278,23 +256,23 @@
           "title": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hy...",
           "url": "https://x.com/GeminiApp/status/2121288322161225992",
           "published_at": "2026-11-13T17:05:22Z",
-          "summary": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hydrogen. ⚡ Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe that maps every strike into visual ripples and live ambient music.💬59🔄29❤️536👀35106📊115…"
-        },
-        {
-          "id": "c66bfb797d1c9a3be5375acd28a7e88cddad3c2f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Building strong safety evaluations",
-          "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
-          "published_at": "2026-11-13T00:00:00Z",
-          "summary": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences."
+          "summary": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hydrogen. ⚡ Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe that maps every strike into visual ripples and live ambient music.💬65🔄44❤️698👀45017📊144…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "b527bd477d65be7da92e30612dd29dfaf5dc49c1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemin...",
+      "url": "https://x.com/GeminiApp/status/2121363868425306372",
+      "published_at": "2026-11-13T22:05:33Z",
+      "summary": "Go from idea to finished video with Gemini 4 Hydrogen. Using a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.💬66🔄62❤️899👀525…"
+    },
     {
       "id": "647fa5786abf2ad4ee6d0114679f422c524f722c",
       "site_id": "featuredrss",
@@ -304,7 +282,7 @@
       "title": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hy...",
       "url": "https://x.com/GeminiApp/status/2121288322161225992",
       "published_at": "2026-11-13T17:05:22Z",
-      "summary": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hydrogen. ⚡ Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe that maps every strike into visual ripples and live ambient music.💬59🔄29❤️536👀35106📊115…"
+      "summary": "Turn real-time lightning strikes around the world into a live generative soundtrack with Gemini 4 Hydrogen. ⚡ Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe that maps every strike into visual ripples and live ambient music.💬65🔄44❤️698👀45017📊144…"
     },
     {
       "id": "e0099c5b760bf6663f62023f301311af2522ae91",
@@ -326,7 +304,7 @@
       "title": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了",
       "url": "https://x.com/op7418/status/2121190917587771762",
       "published_at": "2026-11-13T10:38:19Z",
-      "summary": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了💬115🔄5❤️102👀36374📊111⚡ Powered by xgo.ing"
+      "summary": "登不上 Claude 的朋友们不要担心啊，不是你号没了，是他们出问题了💬116🔄5❤️104👀38244📊112⚡ Powered by xgo.ing"
     },
     {
       "id": "56b139741f4cefa5e062ad80f198146ad694ca63",
@@ -338,50 +316,6 @@
       "url": "https://x.com/op7418/status/2121134740455702958",
       "published_at": "2026-11-13T06:55:05Z",
       "summary": "微软这个宕机影响太大了，一堆人收不到邮件，根本没办法完成工作 搞笑的是，评论区有个人说黄仁勋不用辞职，但是微软这种 CEO 得辞职Microsoft 365 Status@MSFT365StatusWe're investigating reports of users experiencing issues accessing Exchange Online mailboxes through multiple connection methods in the Americas. More details can be found in the Mi…"
-    },
-    {
-      "id": "9909cb8e819f8d41438d111155fc407d27a48542",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "真服了，Twitter 终于能突破一个帖子上传 4 张图片的限制了\n\n现在最多上传 20 张图片 这下爽了",
-      "url": "https://x.com/op7418/status/2121045955743191240",
-      "published_at": "2026-11-13T01:02:17Z",
-      "summary": "真服了，Twitter 终于能突破一个帖子上传 4 张图片的限制了 现在最多上传 20 张图片 这下爽了Jonah Katz@dinkin_flickaaBig update to the X platform today After 10 years of Twitter/X supporting up to 4 Photos and Videos per post, the limit has been increased to 20! Happy posting🔗 View Quoted Tweet💬37🔄0❤️26👀6595📊26⚡ Powere…"
-    },
-    {
-      "id": "6cd5c5cda5e3108bd903ce4d6579c56ec78636c1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "上架到小红书不少人玩过了",
-      "url": "https://x.com/op7418/status/2121043617284559325",
-      "published_at": "2026-11-13T00:53:00Z",
-      "summary": "上架到小红书不少人玩过了歸藏(guizang.ai)@op7418我去！Fable 5.2 只用了一下午、45 亿 token 就给我做出了这样一个 3D 动作游戏！ 包括模型、场景设计、动作设计、优化都是它搞的，这一切都被融合在了一个 30 兆的 HTML 文件里边。 总共就花了一下午，它这个游戏制作能力太恐怖了 可以在这里试试：op7418.github.io/guizang-game-s…Your browser does not support the video tag.🔗 View on Twitter🔗 View Quoted Tweet💬…"
-    },
-    {
-      "id": "c66bfb797d1c9a3be5375acd28a7e88cddad3c2f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Building strong safety evaluations",
-      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
-      "published_at": "2026-11-13T00:00:00Z",
-      "summary": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences."
-    },
-    {
-      "id": "823e2fc9f212ffe826e723981f2ce1caf8909e02",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "黄仁勋辞职始末。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688358&idx=1&sn=0d2737100b591caee3ef3d7c2f2cd459",
-      "published_at": "2026-11-12T23:56:00Z",
-      "summary": "四天时间的精准收网"
     }
   ]
 }
