@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T00:06:24.457374Z",
+  "generated_at": "2026-11-16T06:58:02.962851Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 211,
+      "duration_ms": 162,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 199,
-      "duration_ms": 59,
+      "duration_ms": 102,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 945,
+      "duration_ms": 1154,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1179,
+      "duration_ms": 1370,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1139,
+      "duration_ms": 1401,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 611,
+      "duration_ms": 618,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 513,
+      "duration_ms": 412,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 96,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2379,
+      "duration_ms": 2312,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1074,
+      "duration_ms": 1605,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,71 +184,49 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 0,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": [
-        {
-          "id": "7b22fbe5f97a99c441a937ffc9484178e791b162",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "B 站还会免费送大会员，有空可以领一下",
-          "url": "https://x.com/op7418/status/2121763817629876440",
-          "published_at": "2026-11-15T00:34:49Z",
-          "summary": "B 站还会免费送大会员，有空可以领一下💬7🔄1❤️16👀11379📊8⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8d84aac28f0888fe52d1ff9e1397b3bf4f737395",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "牛逼啊，BLG，买了雷鸟眼镜准备退货的哥们麻了",
-          "url": "https://x.com/op7418/status/2121763489668878800",
-          "published_at": "2026-11-15T00:33:31Z",
-          "summary": "牛逼啊，BLG，买了雷鸟眼镜准备退货的哥们麻了💬21🔄2❤️64👀25843📊23⚡ Powered by xgo.ing"
-        }
-      ]
+      "items": []
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "1be4631768990a0bb6807e18d5c4fe8fba6ce99f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice defin...",
+          "url": "https://x.com/OpenAI/status/2122123437141553630",
+          "published_at": "2026-11-16T00:23:49Z",
+          "summary": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model. It’s the first post on our new science blog: openai.com/index/step-tow…💬400🔄215❤️2373👀397910📊610⚡ Powered by xgo.ing"
+        }
+      ]
     }
   },
   "items": [
     {
-      "id": "7b22fbe5f97a99c441a937ffc9484178e791b162",
+      "id": "1be4631768990a0bb6807e18d5c4fe8fba6ce99f",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "B 站还会免费送大会员，有空可以领一下",
-      "url": "https://x.com/op7418/status/2121763817629876440",
-      "published_at": "2026-11-15T00:34:49Z",
-      "summary": "B 站还会免费送大会员，有空可以领一下💬7🔄1❤️16👀11379📊8⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8d84aac28f0888fe52d1ff9e1397b3bf4f737395",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "牛逼啊，BLG，买了雷鸟眼镜准备退货的哥们麻了",
-      "url": "https://x.com/op7418/status/2121763489668878800",
-      "published_at": "2026-11-15T00:33:31Z",
-      "summary": "牛逼啊，BLG，买了雷鸟眼镜准备退货的哥们麻了💬21🔄2❤️64👀25843📊23⚡ Powered by xgo.ing"
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice defin...",
+      "url": "https://x.com/OpenAI/status/2122123437141553630",
+      "published_at": "2026-11-16T00:23:49Z",
+      "summary": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model. It’s the first post on our new science blog: openai.com/index/step-tow…💬400🔄215❤️2373👀397910📊610⚡ Powered by xgo.ing"
     }
   ]
 }
