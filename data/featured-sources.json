@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T16:47:43.812968Z",
+  "generated_at": "2026-11-17T00:36:02.537697Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 203,
+      "duration_ms": 292,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 200,
-      "duration_ms": 151,
+      "duration_ms": 113,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1459,
+      "duration_ms": 917,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1316,
+      "duration_ms": 1121,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1262,
+      "duration_ms": 1045,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 712,
+      "duration_ms": 779,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 546,
+      "duration_ms": 590,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 30,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2092,
+      "duration_ms": 2259,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1580,
+      "duration_ms": 6163,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "也欢迎通过新上线的 Next Token Skill 去发布我们播客的切片。\n\n之前有些朋友发，其实效果挺不错的，数据都挺好：https://t.co/B9PO3VX0Le\n\nSkill 里的数据自带...",
           "url": "https://x.com/op7418/status/2122235004055126511",
           "published_at": "2026-11-16T07:47:08Z",
-          "summary": "也欢迎通过新上线的 Next Token Skill 去发布我们播客的切片。 之前有些朋友发，其实效果挺不错的，数据都挺好：github.com/next-token-tv/… Skill 里的数据自带时间轴，所以你如果跟他讨论完，觉得哪一部分合适的话 可以直接让 Agent 帮你导出对应的视频来，然后去别的媒体平台分发💬14🔄2❤️14👀8329📊16⚡ Powered by xgo.ing"
+          "summary": "也欢迎通过新上线的 Next Token Skill 去发布我们播客的切片。 之前有些朋友发，其实效果挺不错的，数据都挺好：github.com/next-token-tv/… Skill 里的数据自带时间轴，所以你如果跟他讨论完，觉得哪一部分合适的话 可以直接让 Agent 帮你导出对应的视频来，然后去别的媒体平台分发💬15🔄2❤️14👀9939📊18⚡ Powered by xgo.ing"
         },
         {
           "id": "cbe81c0e31fca9edc8f3266fad3ede565007f01d",
@@ -211,7 +211,7 @@
           "title": "第十期 Next Token，我们关于 Personal Agent 这部分讲得太好了！\n\n用 Gemini 4 总结了几条，放在图片里面了\n\n我们就是上一代移动互联网做太好了，导致 Personal...",
           "url": "https://x.com/op7418/status/2122234773162938545",
           "published_at": "2026-11-16T07:46:13Z",
-          "summary": "第十期 Next Token，我们关于 Personal Agent 这部分讲得太好了！ 用 Gemini 4 总结了几条，放在图片里面了 我们就是上一代移动互联网做太好了，导致 Personal Agent 完全没办法做，围墙太高了 其实我们是有 YouTube 的，这里看的话体验更好一些：youtube.com/watch?v=tBMlXQ…💬61🔄4❤️36👀15816📊58⚡ Powered by xgo.ing"
+          "summary": "第十期 Next Token，我们关于 Personal Agent 这部分讲得太好了！ 用 Gemini 4 总结了几条，放在图片里面了 我们就是上一代移动互联网做太好了，导致 Personal Agent 完全没办法做，围墙太高了 其实我们是有 YouTube 的，这里看的话体验更好一些：youtube.com/watch?v=tBMlXQ…💬68🔄6❤️49👀18626📊68⚡ Powered by xgo.ing"
         },
         {
           "id": "b49fb65c8aa661ca65715edd0d9f43975308996b",
@@ -234,23 +234,12 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513929&idx=1&sn=279024d9066f57473a93d0fcebf30191",
           "published_at": "2026-11-16T01:36:00Z",
           "summary": "卡尔的AI沃茨 2026-11-16 09:36 浙江 DeepSeek说的对，AI时代效率瓶颈是人的注意力。Anthropic说的也对，常驻Agent不代表一直在线，空转的定时任务除了浪费我积分外没有任何好处。所以我选择把Claude新出的常驻智能体指南内化成其他Personal Agent能用的提示语，帮我Grok bot省了55%的使用额度。 事情是酱的。 用了12个Personal Agent的我真爽到了，因为PA主动性它会提醒我琐事，常驻工作流也可以通过定期任务维持，我设置好一天两次三次跟我汇报结果就行。 问题是额度完全不够用。 我Grok B…"
-        },
-        {
-          "id": "19a13eb10da822e0c770fda3cc4847b0f96e56c8",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "这些AI手搓的几百K的3D世界，正在让HTML再次伟大。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688394&idx=1&sn=a5db5eb7ca3dcd61d0774f97f3c2a5aa",
-          "published_at": "2026-11-15T23:56:00Z",
-          "summary": "连张自拍都比它们大"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 8,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -258,6 +247,61 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "ae3535982879bbc12b9914f2cf154edb35ef6442",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers...",
+          "url": "https://x.com/OpenAI/status/2122465625109090646",
+          "published_at": "2026-11-16T23:03:33Z",
+          "summary": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins. @AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations…"
+        },
+        {
+          "id": "c7b3a07bab4def5aff4ca298d6734421708814cf",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers...",
+          "url": "https://x.com/OpenAI/status/2122419941756531150",
+          "published_at": "2026-11-16T20:02:01Z",
+          "summary": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins. @AbridgeHQ, @AmbienceHealth, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizat…"
+        },
+        {
+          "id": "f86d91ef41352838b5f32976fa45b6731de34898",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 parti...",
+          "url": "https://x.com/OpenAI/status/2122380010287960095",
+          "published_at": "2026-11-16T17:23:21Z",
+          "summary": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program. Using privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing da…"
+        },
+        {
+          "id": "152e71ebd2e4451f3dc307bb6a3890e25db6e28e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with trai...",
+          "url": "https://x.com/OpenAI/status/2122377585523126615",
+          "published_at": "2026-11-16T17:13:42Z",
+          "summary": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with training and support. Applications open Nov. 23. By default, we don’t use data shared through the program to train our models. openai.com/index/expandin…OpenAI@OpenAIWe’re giving scien…"
+        },
+        {
+          "id": "74c049b601faa4c90a382a900a2460b22e48cb02",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Turn a rough sketch into a working custom font in minutes with Gemini 4 Hydrogen. \n\nUsing Google @An...",
+          "url": "https://x.com/GeminiApp/status/2122364846725583154",
+          "published_at": "2026-11-16T16:23:05Z",
+          "summary": "Turn a rough sketch into a working custom font in minutes with Gemini 4 Hydrogen. Using Google @Antigravity in the Gemini app for Mac, Hydrogen handles the technical heavy lifting so you can build custom typefaces and interactive design tools from scratch.💬81🔄73❤️908👀103083📊204⚡…"
+        },
         {
           "id": "b8b25a0b7ff5b5a597cc71b393492a88f2a29537",
           "site_id": "featuredrss",
@@ -267,7 +311,7 @@
           "title": "@GoodfireAI will embed interpretability researchers to use their platform to analyze our models’ int...",
           "url": "https://x.com/OpenAI/status/2122359937649242197",
           "published_at": "2026-11-16T16:03:35Z",
-          "summary": "@GoodfireAI will embed interpretability researchers to use their platform to analyze our models’ internals. Their work focuses on training run monitoring, debugging, and alignment, helping our researchers identify and make safety improvements.💬5🔄1❤️73👀22906📊10⚡ Powered by xgo.ing"
+          "summary": "@GoodfireAI will embed interpretability researchers to use their platform to analyze our models’ internals. Their work focuses on training run monitoring, debugging, and alignment, helping our researchers identify and make safety improvements.💬6🔄5❤️181👀55222📊21⚡ Powered by xgo.in…"
         },
         {
           "id": "87d897a5f01781b1127cb85d6ffd55c136dbd70c",
@@ -278,7 +322,7 @@
           "title": "@TransluceAI will assess our post-training alignment evaluations, examining their quality and covera...",
           "url": "https://x.com/OpenAI/status/2122359935216558328",
           "published_at": "2026-11-16T16:03:34Z",
-          "summary": "@TransluceAI will assess our post-training alignment evaluations, examining their quality and coverage. They will develop additional tests and recommend improvements to address gaps in what we test for, and intend to expand our pilot in 2027.💬2🔄1❤️61👀24975📊7⚡ Powered by xgo.ing"
+          "summary": "@TransluceAI will assess our post-training alignment evaluations, examining their quality and coverage. They will develop additional tests and recommend improvements to address gaps in what we test for, and intend to expand our pilot in 2027.💬3🔄5❤️147👀57811📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "c64a74838615166ea4000efe915cdba2afde652b",
@@ -290,33 +334,66 @@
           "url": "https://x.com/OpenAI/status/2122359930628063248",
           "published_at": "2026-11-16T16:03:33Z",
           "summary": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards. These assessments build on our ongoing alignment and saf…"
-        },
-        {
-          "id": "1be4631768990a0bb6807e18d5c4fe8fba6ce99f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice defin...",
-          "url": "https://x.com/OpenAI/status/2122123437141553630",
-          "published_at": "2026-11-16T00:23:49Z",
-          "summary": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model. It’s the first post on our new science blog: openai.com/index/step-tow…💬552🔄327❤️3369👀671381📊870⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "947beb0134451f7006fceeb9b84bfbbc39b3f350",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Updating our coordinated vulnerability disclosure policy timelines",
-          "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
-          "published_at": "2026-11-16T00:00:00Z",
-          "summary": "We’re shortening the disclosure window in our coordinated vulnerability disclosure (CVD) policy from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues."
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "ae3535982879bbc12b9914f2cf154edb35ef6442",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers...",
+      "url": "https://x.com/OpenAI/status/2122465625109090646",
+      "published_at": "2026-11-16T23:03:33Z",
+      "summary": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins. @AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations…"
+    },
+    {
+      "id": "c7b3a07bab4def5aff4ca298d6734421708814cf",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers...",
+      "url": "https://x.com/OpenAI/status/2122419941756531150",
+      "published_at": "2026-11-16T20:02:01Z",
+      "summary": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins. @AbridgeHQ, @AmbienceHealth, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizat…"
+    },
+    {
+      "id": "f86d91ef41352838b5f32976fa45b6731de34898",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 parti...",
+      "url": "https://x.com/OpenAI/status/2122380010287960095",
+      "published_at": "2026-11-16T17:23:21Z",
+      "summary": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program. Using privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing da…"
+    },
+    {
+      "id": "152e71ebd2e4451f3dc307bb6a3890e25db6e28e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with trai...",
+      "url": "https://x.com/OpenAI/status/2122377585523126615",
+      "published_at": "2026-11-16T17:13:42Z",
+      "summary": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with training and support. Applications open Nov. 23. By default, we don’t use data shared through the program to train our models. openai.com/index/expandin…OpenAI@OpenAIWe’re giving scien…"
+    },
+    {
+      "id": "74c049b601faa4c90a382a900a2460b22e48cb02",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Turn a rough sketch into a working custom font in minutes with Gemini 4 Hydrogen. \n\nUsing Google @An...",
+      "url": "https://x.com/GeminiApp/status/2122364846725583154",
+      "published_at": "2026-11-16T16:23:05Z",
+      "summary": "Turn a rough sketch into a working custom font in minutes with Gemini 4 Hydrogen. Using Google @Antigravity in the Gemini app for Mac, Hydrogen handles the technical heavy lifting so you can build custom typefaces and interactive design tools from scratch.💬81🔄73❤️908👀103083📊204⚡…"
+    },
     {
       "id": "b8b25a0b7ff5b5a597cc71b393492a88f2a29537",
       "site_id": "featuredrss",
@@ -326,7 +403,7 @@
       "title": "@GoodfireAI will embed interpretability researchers to use their platform to analyze our models’ int...",
       "url": "https://x.com/OpenAI/status/2122359937649242197",
       "published_at": "2026-11-16T16:03:35Z",
-      "summary": "@GoodfireAI will embed interpretability researchers to use their platform to analyze our models’ internals. Their work focuses on training run monitoring, debugging, and alignment, helping our researchers identify and make safety improvements.💬5🔄1❤️73👀22906📊10⚡ Powered by xgo.ing"
+      "summary": "@GoodfireAI will embed interpretability researchers to use their platform to analyze our models’ internals. Their work focuses on training run monitoring, debugging, and alignment, helping our researchers identify and make safety improvements.💬6🔄5❤️181👀55222📊21⚡ Powered by xgo.in…"
     },
     {
       "id": "87d897a5f01781b1127cb85d6ffd55c136dbd70c",
@@ -337,7 +414,7 @@
       "title": "@TransluceAI will assess our post-training alignment evaluations, examining their quality and covera...",
       "url": "https://x.com/OpenAI/status/2122359935216558328",
       "published_at": "2026-11-16T16:03:34Z",
-      "summary": "@TransluceAI will assess our post-training alignment evaluations, examining their quality and coverage. They will develop additional tests and recommend improvements to address gaps in what we test for, and intend to expand our pilot in 2027.💬2🔄1❤️61👀24975📊7⚡ Powered by xgo.ing"
+      "summary": "@TransluceAI will assess our post-training alignment evaluations, examining their quality and coverage. They will develop additional tests and recommend improvements to address gaps in what we test for, and intend to expand our pilot in 2027.💬3🔄5❤️147👀57811📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "c64a74838615166ea4000efe915cdba2afde652b",
@@ -359,7 +436,7 @@
       "title": "也欢迎通过新上线的 Next Token Skill 去发布我们播客的切片。\n\n之前有些朋友发，其实效果挺不错的，数据都挺好：https://t.co/B9PO3VX0Le\n\nSkill 里的数据自带...",
       "url": "https://x.com/op7418/status/2122235004055126511",
       "published_at": "2026-11-16T07:47:08Z",
-      "summary": "也欢迎通过新上线的 Next Token Skill 去发布我们播客的切片。 之前有些朋友发，其实效果挺不错的，数据都挺好：github.com/next-token-tv/… Skill 里的数据自带时间轴，所以你如果跟他讨论完，觉得哪一部分合适的话 可以直接让 Agent 帮你导出对应的视频来，然后去别的媒体平台分发💬14🔄2❤️14👀8329📊16⚡ Powered by xgo.ing"
+      "summary": "也欢迎通过新上线的 Next Token Skill 去发布我们播客的切片。 之前有些朋友发，其实效果挺不错的，数据都挺好：github.com/next-token-tv/… Skill 里的数据自带时间轴，所以你如果跟他讨论完，觉得哪一部分合适的话 可以直接让 Agent 帮你导出对应的视频来，然后去别的媒体平台分发💬15🔄2❤️14👀9939📊18⚡ Powered by xgo.ing"
     },
     {
       "id": "cbe81c0e31fca9edc8f3266fad3ede565007f01d",
@@ -370,7 +447,7 @@
       "title": "第十期 Next Token，我们关于 Personal Agent 这部分讲得太好了！\n\n用 Gemini 4 总结了几条，放在图片里面了\n\n我们就是上一代移动互联网做太好了，导致 Personal...",
       "url": "https://x.com/op7418/status/2122234773162938545",
       "published_at": "2026-11-16T07:46:13Z",
-      "summary": "第十期 Next Token，我们关于 Personal Agent 这部分讲得太好了！ 用 Gemini 4 总结了几条，放在图片里面了 我们就是上一代移动互联网做太好了，导致 Personal Agent 完全没办法做，围墙太高了 其实我们是有 YouTube 的，这里看的话体验更好一些：youtube.com/watch?v=tBMlXQ…💬61🔄4❤️36👀15816📊58⚡ Powered by xgo.ing"
+      "summary": "第十期 Next Token，我们关于 Personal Agent 这部分讲得太好了！ 用 Gemini 4 总结了几条，放在图片里面了 我们就是上一代移动互联网做太好了，导致 Personal Agent 完全没办法做，围墙太高了 其实我们是有 YouTube 的，这里看的话体验更好一些：youtube.com/watch?v=tBMlXQ…💬68🔄6❤️49👀18626📊68⚡ Powered by xgo.ing"
     },
     {
       "id": "b49fb65c8aa661ca65715edd0d9f43975308996b",
@@ -393,39 +470,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513929&idx=1&sn=279024d9066f57473a93d0fcebf30191",
       "published_at": "2026-11-16T01:36:00Z",
       "summary": "卡尔的AI沃茨 2026-11-16 09:36 浙江 DeepSeek说的对，AI时代效率瓶颈是人的注意力。Anthropic说的也对，常驻Agent不代表一直在线，空转的定时任务除了浪费我积分外没有任何好处。所以我选择把Claude新出的常驻智能体指南内化成其他Personal Agent能用的提示语，帮我Grok bot省了55%的使用额度。 事情是酱的。 用了12个Personal Agent的我真爽到了，因为PA主动性它会提醒我琐事，常驻工作流也可以通过定期任务维持，我设置好一天两次三次跟我汇报结果就行。 问题是额度完全不够用。 我Grok B…"
-    },
-    {
-      "id": "1be4631768990a0bb6807e18d5c4fe8fba6ce99f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice defin...",
-      "url": "https://x.com/OpenAI/status/2122123437141553630",
-      "published_at": "2026-11-16T00:23:49Z",
-      "summary": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model. It’s the first post on our new science blog: openai.com/index/step-tow…💬552🔄327❤️3369👀671381📊870⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "947beb0134451f7006fceeb9b84bfbbc39b3f350",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Updating our coordinated vulnerability disclosure policy timelines",
-      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
-      "published_at": "2026-11-16T00:00:00Z",
-      "summary": "We’re shortening the disclosure window in our coordinated vulnerability disclosure (CVD) policy from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues."
-    },
-    {
-      "id": "19a13eb10da822e0c770fda3cc4847b0f96e56c8",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "这些AI手搓的几百K的3D世界，正在让HTML再次伟大。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688394&idx=1&sn=a5db5eb7ca3dcd61d0774f97f3c2a5aa",
-      "published_at": "2026-11-15T23:56:00Z",
-      "summary": "连张自拍都比它们大"
     }
   ]
 }
