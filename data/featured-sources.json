@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T08:46:20.019432Z",
+  "generated_at": "2026-11-18T17:43:00.413162Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 26,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 165,
+      "duration_ms": 291,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 200,
-      "duration_ms": 102,
+      "duration_ms": 70,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2730,
+      "duration_ms": 1155,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1971,
+      "duration_ms": 1399,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1356,
+      "duration_ms": 1369,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 368,
+      "duration_ms": 1023,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 622,
+      "duration_ms": 631,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 24,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 5023,
+      "duration_ms": 2270,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1387,
+      "duration_ms": 1394,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,68 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 15,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "ec3c519dd41f91d9f75dd97cf738df5d5b52677c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "准点上线玩给他爱六（GTA6）",
+          "url": "https://x.com/op7418/status/2123086011056152749",
+          "published_at": "2026-11-18T16:08:44Z",
+          "summary": "准点上线玩给他爱六（GTA6）💬3🔄0❤️3👀1794📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "1a9a4b267c89b6f556fa0d3c901e101e24dfe43d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "总共用了 6 个小时，大部分时间都是用在渲染上。主要我是 MacBook air，token 的话总共花了 8198 万",
+          "url": "https://x.com/op7418/status/2123075963768771026",
+          "published_at": "2026-11-18T15:28:49Z",
+          "summary": "总共用了 6 个小时，大部分时间都是用在渲染上。主要我是 MacBook air，token 的话总共花了 8198 万💬3🔄0❤️2👀1182📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "e65b29dc6df0a2f9fc0471baeec3c8865d1c987e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "这是它从零在 Blender 里面建模的，没有用3D 模型生成的模型和其他素材。\n\n我几乎没有干涉。",
+          "url": "https://x.com/op7418/status/2123072609382432959",
+          "published_at": "2026-11-18T15:15:29Z",
+          "summary": "这是它从零在 Blender 里面建模的，没有用3D 模型生成的模型和其他素材。 我几乎没有干涉。💬3🔄0❤️2👀1882📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "707549921cbc22cbd963830e950a0ea4f02d9d02",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "GPT 6.2 Astra 在复杂场景上的建模效果确实牛逼，细节也挺好。\n\n感觉这个是在我 MacBook Air 上渲染的，要是换成我 Windows 的英伟达显卡，效果和细节应该会更好一点",
+          "url": "https://x.com/op7418/status/2123071662199583137",
+          "published_at": "2026-11-18T15:11:43Z",
+          "summary": "GPT 6.2 Astra 在复杂场景上的建模效果确实牛逼，细节也挺好。 感觉这个是在我 MacBook Air 上渲染的，要是换成我 Windows 的英伟达显卡，效果和细节应该会更好一点Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊 大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降 好像是在 3D 领…"
+        },
+        {
+          "id": "21e50203360ab810dc0669db32b557b5e3a6f4f5",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "腾讯财报说，workbuddy 日活用户超过了 1000 万，太猛了！",
+          "url": "https://x.com/op7418/status/2122977451500523892",
+          "published_at": "2026-11-18T08:57:22Z",
+          "summary": "腾讯财报说，workbuddy 日活用户超过了 1000 万，太猛了！💬69🔄3❤️104👀24828📊68⚡ Powered by xgo.ing"
+        },
         {
           "id": "9a3c13cc045adbbb1697474402a8ab0a46073956",
           "site_id": "featuredrss",
@@ -200,7 +255,7 @@
           "title": "这个时候就能看出来 Deepseek 啥都不干每秒 300 多 Token 的速度有多快了",
           "url": "https://x.com/op7418/status/2122927432642781595",
           "published_at": "2026-11-18T05:38:36Z",
-          "summary": "这个时候就能看出来 Deepseek 啥都不干每秒 300 多 Token 的速度有多快了💬9🔄0❤️6👀2424📊8⚡ Powered by xgo.ing"
+          "summary": "这个时候就能看出来 Deepseek 啥都不干每秒 300 多 Token 的速度有多快了💬11🔄0❤️6👀3804📊10⚡ Powered by xgo.ing"
         },
         {
           "id": "a891abbb34ab4c96f6f18ca9af7724c30fb6a3aa",
@@ -211,7 +266,7 @@
           "title": "试了一下 UltraFast 模式https://t.co/aPzheVsqXs",
           "url": "https://x.com/op7418/status/2122925353312362922",
           "published_at": "2026-11-18T05:30:20Z",
-          "summary": "试了一下 UltraFast 模式x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的一次达到了 252 token/s🔗 View Quoted Tweet💬0🔄0❤️0👀2299⚡ Powered by xgo.ing"
+          "summary": "试了一下 UltraFast 模式x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的一次达到了 252 token/s🔗 View Quoted Tweet💬1🔄0❤️0👀3436📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "b22b28ff2a754c42a5697bd4b6374f2c1a8538dd",
@@ -222,7 +277,7 @@
           "title": "试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式\n\n让它剪了一个 8 分钟的视频\n\n总共耗时 27 分钟，实际模型响应用了 14 分钟左右。\n\n平均速度是 126 token/s，...",
           "url": "https://x.com/op7418/status/2122925281514303836",
           "published_at": "2026-11-18T05:30:03Z",
-          "summary": "试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的一次达到了 252 token/s💬34🔄2❤️17👀11387📊30⚡ Powered by xgo.ing"
+          "summary": "试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的一次达到了 252 token/s💬51🔄2❤️28👀18832📊45⚡ Powered by xgo.ing"
         },
         {
           "id": "a8103adcf6c84d9640c584fe485fe8f954f37e74",
@@ -233,7 +288,7 @@
           "title": "关于 GPT 6.2 Astra 发布以后大 V 都在喷的情况，我感觉可能跟他们跟 KOL 的沟通上也存在一些问题。\n\n应该就是提前测试又不给钱，还想让大家出内容，然后模型又不行，就都开始喷了。\n\n不...",
           "url": "https://x.com/op7418/status/2122916123012485367",
           "published_at": "2026-11-18T04:53:40Z",
-          "summary": "关于 GPT 6.2 Astra 发布以后大 V 都在喷的情况，我感觉可能跟他们跟 KOL 的沟通上也存在一些问题。 应该就是提前测试又不给钱，还想让大家出内容，然后模型又不行，就都开始喷了。 不然的话，如果模型其实没有那么不堪吧，大家都顶多不说话，或者说话委婉一些。💬29🔄0❤️51👀14939📊29⚡ Powered by xgo.ing"
+          "summary": "关于 GPT 6.2 Astra 发布以后大 V 都在喷的情况，我感觉可能跟他们跟 KOL 的沟通上也存在一些问题。 应该就是提前测试又不给钱，还想让大家出内容，然后模型又不行，就都开始喷了。 不然的话，如果模型其实没有那么不堪吧，大家都顶多不说话，或者说话委婉一些。💬45🔄1❤️88👀26769📊46⚡ Powered by xgo.ing"
         },
         {
           "id": "57d2b412407f1fc80d2977e733ed7241cf8ce59a",
@@ -244,7 +299,7 @@
           "title": "其实大家没指望它有多牛逼，它就是把以前的问题修了，然后变得快点就可以了。\n\n后面应该会多用 6.2 Sol，Astra 就不搞了",
           "url": "https://x.com/op7418/status/2122904271729705056",
           "published_at": "2026-11-18T04:06:34Z",
-          "summary": "其实大家没指望它有多牛逼，它就是把以前的问题修了，然后变得快点就可以了。 后面应该会多用 6.2 Sol，Astra 就不搞了💬2🔄0❤️1👀4411📊2⚡ Powered by xgo.ing"
+          "summary": "其实大家没指望它有多牛逼，它就是把以前的问题修了，然后变得快点就可以了。 后面应该会多用 6.2 Sol，Astra 就不搞了💬3🔄0❤️1👀5744📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "44b0d4b9266d05d9183406e75524ae36862d6977",
@@ -255,7 +310,7 @@
           "title": "GPT-6.2 Astra 虽然大家的反馈都不太好\n\n但我感觉 Sol 是真的快，快了太多了！\n\n开了 Fast 以后，任务完成得相当迅速。所以我觉得 6.2 Sol 还是挺不错的。\n\n我现在试试这个...",
           "url": "https://x.com/op7418/status/2122903729578070252",
           "published_at": "2026-11-18T04:04:25Z",
-          "summary": "GPT-6.2 Astra 虽然大家的反馈都不太好 但我感觉 Sol 是真的快，快了太多了！ 开了 Fast 以后，任务完成得相当迅速。所以我觉得 6.2 Sol 还是挺不错的。 我现在试试这个 6.2 Sol Ultra Fast 有多快，让他剪个视频试试💬42🔄0❤️47👀23251📊39⚡ Powered by xgo.ing"
+          "summary": "GPT-6.2 Astra 虽然大家的反馈都不太好 但我感觉 Sol 是真的快，快了太多了！ 开了 Fast 以后，任务完成得相当迅速。所以我觉得 6.2 Sol 还是挺不错的。 我现在试试这个 6.2 Sol Ultra Fast 有多快，让他剪个视频试试💬49🔄1❤️57👀34017📊46⚡ Powered by xgo.ing"
         },
         {
           "id": "e0bff21b78382134b0bcc5030963baf0115fe6d5",
@@ -266,7 +321,18 @@
           "title": "antigravity 重置了",
           "url": "https://x.com/op7418/status/2122896053020291268",
           "published_at": "2026-11-18T03:33:55Z",
-          "summary": "antigravity 重置了Varun Mohan@_mohansoloOne more thing… In honor of Antigravity turning 1, we’re resetting quota for everyone across all models!🔗 View Quoted Tweet💬8🔄0❤️7👀5547📊6⚡ Powered by xgo.ing"
+          "summary": "antigravity 重置了Varun Mohan@_mohansoloOne more thing… In honor of Antigravity turning 1, we’re resetting quota for everyone across all models!🔗 View Quoted Tweet💬8🔄0❤️8👀7064📊6⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "79bb98b64e6ede3214fb69b12bd078708f145a06",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "我把监控全网免费Token的网站覆盖到了图像和视频类，今天上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513973&idx=1&sn=6bf93c6227db562bbf1e387a80114c80",
+          "published_at": "2026-11-18T02:00:00Z",
+          "summary": "额度不应该成为限制我们自由体验AI的门槛"
         },
         {
           "id": "95e840fd5f97ffa50a3e41da2526426366786c21",
@@ -277,35 +343,24 @@
           "title": "起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊\n\n大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降\n\n好像是在...",
           "url": "https://x.com/op7418/status/2122858681561968931",
           "published_at": "2026-11-18T01:05:25Z",
-          "summary": "起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊 大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降 好像是在 3D 领域过度训练了一样，不过做 3D 确实厉害，看起来建模细节和精细度都比那个 Claude 要好💬68🔄2❤️54👀25989📊62⚡ Powered by xgo.ing"
+          "summary": "起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊 大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降 好像是在 3D 领域过度训练了一样，不过做 3D 确实厉害，看起来建模细节和精细度都比那个 Claude 要好💬77🔄2❤️68👀34771📊71⚡ Powered by xgo.ing"
         },
         {
-          "id": "e804ffd56aec4ce2c0a67289e33d0d69f02bdaf7",
+          "id": "5b2fc95922406b16b3c52a75cea4b168263b7e0d",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
+          "source": "数字生命卡兹克",
           "region": "domestic",
-          "title": "老黄发话了！看这意思是回去当 CEO 有戏啊？",
-          "url": "https://x.com/op7418/status/2122734826931556701",
-          "published_at": "2026-11-17T16:53:15Z",
-          "summary": "老黄发话了！看这意思是回去当 CEO 有戏啊？Jensen Huang@JensenHuangOver the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the U…"
-        },
-        {
-          "id": "e769d64bb14720882b5f18c0e6beb451b30482df",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "太猛了 muse 的日活居然突破了 1000 万！\n\nGorkbot 最近实在是拉，我又开始频繁地使用 muse 了",
-          "url": "https://x.com/op7418/status/2122715527873429517",
-          "published_at": "2026-11-17T15:36:34Z",
-          "summary": "太猛了 muse 的日活居然突破了 1000 万！ Gorkbot 最近实在是拉，我又开始频繁地使用 muse 了Similarweb@SimilarwebMeta’s Muse surpassed 10M daily active users on November 13, reaching 10.24M.🔗 View Quoted Tweet💬33🔄0❤️31👀10641📊24⚡ Powered by xgo.ing"
+          "title": "深度实测GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688488&idx=1&sn=53db7ca445ccadeb28a40b806a732070",
+          "published_at": "2026-11-17T22:36:00Z",
+          "summary": "极致的偏科"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 9,
+      "total_items": 11,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -313,6 +368,39 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "54ad30c9f20176709e26d3385826b4f35bbf917e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "@Android To get started, download the Gemini app on Google Play.\n\nLearn more about how we’re bringin...",
+          "url": "https://x.com/GeminiApp/status/2123101521659486357",
+          "published_at": "2026-11-18T17:10:22Z",
+          "summary": "@Android To get started, download the Gemini app on Google Play. Learn more about how we’re bringing the Gemini app to lower-memory Android devices in our blog: goo.gle/4iLspsm💬1🔄1❤️20👀3444📊3⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8c16b56c5452825efa17b407fc6eee10cf65c849",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including e...",
+          "url": "https://x.com/GeminiApp/status/2123100943604707606",
+          "published_at": "2026-11-18T17:08:04Z",
+          "summary": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including eligible Android (Go edition) phones. We re-architected the app so the core Gemini experience runs smoothly on phones that have less memory, putting it in the hands of more people a…"
+        },
+        {
+          "id": "be882040ef437d72ae16ae5c0c2d1466a8509686",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than f...",
+          "url": "https://x.com/OpenAI/status/2123100386638877054",
+          "published_at": "2026-11-18T17:05:52Z",
+          "summary": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing. The same approach helped improve Jalapeño, our first custom inference chip, with gains verified o…"
+        },
         {
           "id": "03683bf71fe66875f808471741efd5ffe7f752d1",
           "site_id": "featuredrss",
@@ -333,7 +421,7 @@
           "title": "Clear your to-do list faster with Tasks in Gemini. ✔️\n\nFlip from Chat to Task and try these five thi...",
           "url": "https://x.com/GeminiApp/status/2122842388792233998",
           "published_at": "2026-11-18T00:00:40Z",
-          "summary": "Clear your to-do list faster with Tasks in Gemini. ✔️ Flip from Chat to Task and try these five things to hand off your busywork and get time back.💬24🔄31❤️299👀31680📊66⚡ Powered by xgo.ing"
+          "summary": "Clear your to-do list faster with Tasks in Gemini. ✔️ Flip from Chat to Task and try these five things to hand off your busywork and get time back.💬49🔄37❤️429👀45116📊106⚡ Powered by xgo.ing"
         },
         {
           "id": "bd28e7ef3c98dd7fc4c41c810cc9bae5c727ccef",
@@ -358,6 +446,28 @@
           "summary": "Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. De…"
         },
         {
+          "id": "a31d882d241f1a455cc6afbbcda6deab26dce622",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GPT-6.2 Sol—an efficient and versatile model for everyday work.\n\nIt powers through multistep agentic...",
+          "url": "https://x.com/OpenAI/status/2122750128176222464",
+          "published_at": "2026-11-17T17:54:04Z",
+          "summary": "GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.💬5…"
+        },
+        {
+          "id": "ee42c1789f917af4ccaa780f4196d9dad7965d9a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Richer detail and better-looking results for everything you build, from work projects to side projec...",
+          "url": "https://x.com/OpenAI/status/2122750130290131166",
+          "published_at": "2026-11-17T17:54:04Z",
+          "summary": "Richer detail and better-looking results for everything you build, from work projects to side projects.Your browser does not support the video tag.🔗 View on Twitter💬14🔄67❤️1950👀279719📊203⚡ Powered by xgo.ing"
+        },
+        {
           "id": "a370008c8113085eb92a1766e3b8653dc81b0964",
           "site_id": "featuredrss",
           "site_name": "常看博主精选",
@@ -366,7 +476,7 @@
           "title": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and So...",
           "url": "https://x.com/OpenAI/status/2122750124543926515",
           "published_at": "2026-11-17T17:54:03Z",
-          "summary": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introduc…Your browser does not support the video tag.🔗 View on Twitter💬199…"
+          "summary": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introduc…Your browser does not support the video tag.🔗 View on Twitter💬216…"
         },
         {
           "id": "6294261dff84d972e40960862189e65bf4648034",
@@ -377,45 +487,100 @@
           "title": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across pr...",
           "url": "https://x.com/OpenAI/status/2122750126297161811",
           "published_at": "2026-11-17T17:54:03Z",
-          "summary": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.💬188…"
-        },
-        {
-          "id": "898afb65eb6364ed2144057badf4c74c7d44b847",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "@gmail @googledrive Ready to hand off your next task? Open Gemini, flip the home-screen toggle from ...",
-          "url": "https://x.com/GeminiApp/status/2122739010787520756",
-          "published_at": "2026-11-17T17:09:53Z",
-          "summary": "@gmail@googledrive Ready to hand off your next task? Open Gemini, flip the home-screen toggle from Chat to Task, and tell Gemini what you need done. Try Tasks in Gemini today and see what it can cross off your list first: goo.gle/TasksYour browser does not support the video tag.🔗…"
-        },
-        {
-          "id": "c2e87af040a5efedf5d2408832461f4a211033e1",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "@gmail @googledrive Or you can text Gemini on Google Messages or iMessage to offload a task on the g...",
-          "url": "https://x.com/GeminiApp/status/2122738855455633674",
-          "published_at": "2026-11-17T17:09:16Z",
-          "summary": "@gmail@googledrive Or you can text Gemini on Google Messages or iMessage to offload a task on the go.Your browser does not support the video tag.🔗 View on Twitter💬4🔄3❤️62👀13892📊11⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8c61f86e13d1d432d6a5f3a2ff140c8f8cac0e1a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Put Gemini to work for you with Tasks.\n\nWhile Chat is for quick back-and-forth answers, Tasks are fo...",
-          "url": "https://x.com/GeminiApp/status/2122737596971503885",
-          "published_at": "2026-11-17T17:04:16Z",
-          "summary": "Put Gemini to work for you with Tasks. While Chat is for quick back-and-forth answers, Tasks are for longer projects and recurring schedules. Beginning today, Tasks are now free of charge for hundreds of millions of eligible users, starting in the U.S., JP, KR, CA, AU & IN. 🧵💬156…"
+          "summary": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.💬206…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "54ad30c9f20176709e26d3385826b4f35bbf917e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "@Android To get started, download the Gemini app on Google Play.\n\nLearn more about how we’re bringin...",
+      "url": "https://x.com/GeminiApp/status/2123101521659486357",
+      "published_at": "2026-11-18T17:10:22Z",
+      "summary": "@Android To get started, download the Gemini app on Google Play. Learn more about how we’re bringing the Gemini app to lower-memory Android devices in our blog: goo.gle/4iLspsm💬1🔄1❤️20👀3444📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8c16b56c5452825efa17b407fc6eee10cf65c849",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including e...",
+      "url": "https://x.com/GeminiApp/status/2123100943604707606",
+      "published_at": "2026-11-18T17:08:04Z",
+      "summary": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including eligible Android (Go edition) phones. We re-architected the app so the core Gemini experience runs smoothly on phones that have less memory, putting it in the hands of more people a…"
+    },
+    {
+      "id": "be882040ef437d72ae16ae5c0c2d1466a8509686",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than f...",
+      "url": "https://x.com/OpenAI/status/2123100386638877054",
+      "published_at": "2026-11-18T17:05:52Z",
+      "summary": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing. The same approach helped improve Jalapeño, our first custom inference chip, with gains verified o…"
+    },
+    {
+      "id": "ec3c519dd41f91d9f75dd97cf738df5d5b52677c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "准点上线玩给他爱六（GTA6）",
+      "url": "https://x.com/op7418/status/2123086011056152749",
+      "published_at": "2026-11-18T16:08:44Z",
+      "summary": "准点上线玩给他爱六（GTA6）💬3🔄0❤️3👀1794📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "1a9a4b267c89b6f556fa0d3c901e101e24dfe43d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "总共用了 6 个小时，大部分时间都是用在渲染上。主要我是 MacBook air，token 的话总共花了 8198 万",
+      "url": "https://x.com/op7418/status/2123075963768771026",
+      "published_at": "2026-11-18T15:28:49Z",
+      "summary": "总共用了 6 个小时，大部分时间都是用在渲染上。主要我是 MacBook air，token 的话总共花了 8198 万💬3🔄0❤️2👀1182📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "e65b29dc6df0a2f9fc0471baeec3c8865d1c987e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "这是它从零在 Blender 里面建模的，没有用3D 模型生成的模型和其他素材。\n\n我几乎没有干涉。",
+      "url": "https://x.com/op7418/status/2123072609382432959",
+      "published_at": "2026-11-18T15:15:29Z",
+      "summary": "这是它从零在 Blender 里面建模的，没有用3D 模型生成的模型和其他素材。 我几乎没有干涉。💬3🔄0❤️2👀1882📊3⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "707549921cbc22cbd963830e950a0ea4f02d9d02",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "GPT 6.2 Astra 在复杂场景上的建模效果确实牛逼，细节也挺好。\n\n感觉这个是在我 MacBook Air 上渲染的，要是换成我 Windows 的英伟达显卡，效果和细节应该会更好一点",
+      "url": "https://x.com/op7418/status/2123071662199583137",
+      "published_at": "2026-11-18T15:11:43Z",
+      "summary": "GPT 6.2 Astra 在复杂场景上的建模效果确实牛逼，细节也挺好。 感觉这个是在我 MacBook Air 上渲染的，要是换成我 Windows 的英伟达显卡，效果和细节应该会更好一点Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊 大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降 好像是在 3D 领…"
+    },
+    {
+      "id": "21e50203360ab810dc0669db32b557b5e3a6f4f5",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "腾讯财报说，workbuddy 日活用户超过了 1000 万，太猛了！",
+      "url": "https://x.com/op7418/status/2122977451500523892",
+      "published_at": "2026-11-18T08:57:22Z",
+      "summary": "腾讯财报说，workbuddy 日活用户超过了 1000 万，太猛了！💬69🔄3❤️104👀24828📊68⚡ Powered by xgo.ing"
+    },
     {
       "id": "9a3c13cc045adbbb1697474402a8ab0a46073956",
       "site_id": "featuredrss",
@@ -425,7 +590,7 @@
       "title": "这个时候就能看出来 Deepseek 啥都不干每秒 300 多 Token 的速度有多快了",
       "url": "https://x.com/op7418/status/2122927432642781595",
       "published_at": "2026-11-18T05:38:36Z",
-      "summary": "这个时候就能看出来 Deepseek 啥都不干每秒 300 多 Token 的速度有多快了💬9🔄0❤️6👀2424📊8⚡ Powered by xgo.ing"
+      "summary": "这个时候就能看出来 Deepseek 啥都不干每秒 300 多 Token 的速度有多快了💬11🔄0❤️6👀3804📊10⚡ Powered by xgo.ing"
     },
     {
       "id": "a891abbb34ab4c96f6f18ca9af7724c30fb6a3aa",
@@ -436,7 +601,7 @@
       "title": "试了一下 UltraFast 模式https://t.co/aPzheVsqXs",
       "url": "https://x.com/op7418/status/2122925353312362922",
       "published_at": "2026-11-18T05:30:20Z",
-      "summary": "试了一下 UltraFast 模式x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的一次达到了 252 token/s🔗 View Quoted Tweet💬0🔄0❤️0👀2299⚡ Powered by xgo.ing"
+      "summary": "试了一下 UltraFast 模式x.com/op7418/status/…歸藏(guizang.ai)@op7418试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的一次达到了 252 token/s🔗 View Quoted Tweet💬1🔄0❤️0👀3436📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "b22b28ff2a754c42a5697bd4b6374f2c1a8538dd",
@@ -447,7 +612,7 @@
       "title": "试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式\n\n让它剪了一个 8 分钟的视频\n\n总共耗时 27 分钟，实际模型响应用了 14 分钟左右。\n\n平均速度是 126 token/s，...",
       "url": "https://x.com/op7418/status/2122925281514303836",
       "published_at": "2026-11-18T05:30:03Z",
-      "summary": "试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的一次达到了 252 token/s💬34🔄2❤️17👀11387📊30⚡ Powered by xgo.ing"
+      "summary": "试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的一次达到了 252 token/s💬51🔄2❤️28👀18832📊45⚡ Powered by xgo.ing"
     },
     {
       "id": "a8103adcf6c84d9640c584fe485fe8f954f37e74",
@@ -458,7 +623,7 @@
       "title": "关于 GPT 6.2 Astra 发布以后大 V 都在喷的情况，我感觉可能跟他们跟 KOL 的沟通上也存在一些问题。\n\n应该就是提前测试又不给钱，还想让大家出内容，然后模型又不行，就都开始喷了。\n\n不...",
       "url": "https://x.com/op7418/status/2122916123012485367",
       "published_at": "2026-11-18T04:53:40Z",
-      "summary": "关于 GPT 6.2 Astra 发布以后大 V 都在喷的情况，我感觉可能跟他们跟 KOL 的沟通上也存在一些问题。 应该就是提前测试又不给钱，还想让大家出内容，然后模型又不行，就都开始喷了。 不然的话，如果模型其实没有那么不堪吧，大家都顶多不说话，或者说话委婉一些。💬29🔄0❤️51👀14939📊29⚡ Powered by xgo.ing"
+      "summary": "关于 GPT 6.2 Astra 发布以后大 V 都在喷的情况，我感觉可能跟他们跟 KOL 的沟通上也存在一些问题。 应该就是提前测试又不给钱，还想让大家出内容，然后模型又不行，就都开始喷了。 不然的话，如果模型其实没有那么不堪吧，大家都顶多不说话，或者说话委婉一些。💬45🔄1❤️88👀26769📊46⚡ Powered by xgo.ing"
     },
     {
       "id": "57d2b412407f1fc80d2977e733ed7241cf8ce59a",
@@ -469,7 +634,7 @@
       "title": "其实大家没指望它有多牛逼，它就是把以前的问题修了，然后变得快点就可以了。\n\n后面应该会多用 6.2 Sol，Astra 就不搞了",
       "url": "https://x.com/op7418/status/2122904271729705056",
       "published_at": "2026-11-18T04:06:34Z",
-      "summary": "其实大家没指望它有多牛逼，它就是把以前的问题修了，然后变得快点就可以了。 后面应该会多用 6.2 Sol，Astra 就不搞了💬2🔄0❤️1👀4411📊2⚡ Powered by xgo.ing"
+      "summary": "其实大家没指望它有多牛逼，它就是把以前的问题修了，然后变得快点就可以了。 后面应该会多用 6.2 Sol，Astra 就不搞了💬3🔄0❤️1👀5744📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "44b0d4b9266d05d9183406e75524ae36862d6977",
@@ -480,7 +645,7 @@
       "title": "GPT-6.2 Astra 虽然大家的反馈都不太好\n\n但我感觉 Sol 是真的快，快了太多了！\n\n开了 Fast 以后，任务完成得相当迅速。所以我觉得 6.2 Sol 还是挺不错的。\n\n我现在试试这个...",
       "url": "https://x.com/op7418/status/2122903729578070252",
       "published_at": "2026-11-18T04:04:25Z",
-      "summary": "GPT-6.2 Astra 虽然大家的反馈都不太好 但我感觉 Sol 是真的快，快了太多了！ 开了 Fast 以后，任务完成得相当迅速。所以我觉得 6.2 Sol 还是挺不错的。 我现在试试这个 6.2 Sol Ultra Fast 有多快，让他剪个视频试试💬42🔄0❤️47👀23251📊39⚡ Powered by xgo.ing"
+      "summary": "GPT-6.2 Astra 虽然大家的反馈都不太好 但我感觉 Sol 是真的快，快了太多了！ 开了 Fast 以后，任务完成得相当迅速。所以我觉得 6.2 Sol 还是挺不错的。 我现在试试这个 6.2 Sol Ultra Fast 有多快，让他剪个视频试试💬49🔄1❤️57👀34017📊46⚡ Powered by xgo.ing"
     },
     {
       "id": "e0bff21b78382134b0bcc5030963baf0115fe6d5",
@@ -491,7 +656,18 @@
       "title": "antigravity 重置了",
       "url": "https://x.com/op7418/status/2122896053020291268",
       "published_at": "2026-11-18T03:33:55Z",
-      "summary": "antigravity 重置了Varun Mohan@_mohansoloOne more thing… In honor of Antigravity turning 1, we’re resetting quota for everyone across all models!🔗 View Quoted Tweet💬8🔄0❤️7👀5547📊6⚡ Powered by xgo.ing"
+      "summary": "antigravity 重置了Varun Mohan@_mohansoloOne more thing… In honor of Antigravity turning 1, we’re resetting quota for everyone across all models!🔗 View Quoted Tweet💬8🔄0❤️8👀7064📊6⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "79bb98b64e6ede3214fb69b12bd078708f145a06",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "我把监控全网免费Token的网站覆盖到了图像和视频类，今天上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513973&idx=1&sn=6bf93c6227db562bbf1e387a80114c80",
+      "published_at": "2026-11-18T02:00:00Z",
+      "summary": "额度不应该成为限制我们自由体验AI的门槛"
     },
     {
       "id": "95e840fd5f97ffa50a3e41da2526426366786c21",
@@ -502,7 +678,7 @@
       "title": "起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊\n\n大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降\n\n好像是在...",
       "url": "https://x.com/op7418/status/2122858681561968931",
       "published_at": "2026-11-18T01:05:25Z",
-      "summary": "起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊 大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降 好像是在 3D 领域过度训练了一样，不过做 3D 确实厉害，看起来建模细节和精细度都比那个 Claude 要好💬68🔄2❤️54👀25989📊62⚡ Powered by xgo.ing"
+      "summary": "起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊 大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降 好像是在 3D 领域过度训练了一样，不过做 3D 确实厉害，看起来建模细节和精细度都比那个 Claude 要好💬77🔄2❤️68👀34771📊71⚡ Powered by xgo.ing"
     },
     {
       "id": "03683bf71fe66875f808471741efd5ffe7f752d1",
@@ -524,7 +700,18 @@
       "title": "Clear your to-do list faster with Tasks in Gemini. ✔️\n\nFlip from Chat to Task and try these five thi...",
       "url": "https://x.com/GeminiApp/status/2122842388792233998",
       "published_at": "2026-11-18T00:00:40Z",
-      "summary": "Clear your to-do list faster with Tasks in Gemini. ✔️ Flip from Chat to Task and try these five things to hand off your busywork and get time back.💬24🔄31❤️299👀31680📊66⚡ Powered by xgo.ing"
+      "summary": "Clear your to-do list faster with Tasks in Gemini. ✔️ Flip from Chat to Task and try these five things to hand off your busywork and get time back.💬49🔄37❤️429👀45116📊106⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "5b2fc95922406b16b3c52a75cea4b168263b7e0d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "深度实测GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688488&idx=1&sn=53db7ca445ccadeb28a40b806a732070",
+      "published_at": "2026-11-17T22:36:00Z",
+      "summary": "极致的偏科"
     },
     {
       "id": "bd28e7ef3c98dd7fc4c41c810cc9bae5c727ccef",
@@ -549,6 +736,28 @@
       "summary": "Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Pro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol. De…"
     },
     {
+      "id": "a31d882d241f1a455cc6afbbcda6deab26dce622",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GPT-6.2 Sol—an efficient and versatile model for everyday work.\n\nIt powers through multistep agentic...",
+      "url": "https://x.com/OpenAI/status/2122750128176222464",
+      "published_at": "2026-11-17T17:54:04Z",
+      "summary": "GPT-6.2 Sol—an efficient and versatile model for everyday work. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many OpenAI employees use GPT-6.2 Sol as their go-to model across technical and non-technical work.💬5…"
+    },
+    {
+      "id": "ee42c1789f917af4ccaa780f4196d9dad7965d9a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Richer detail and better-looking results for everything you build, from work projects to side projec...",
+      "url": "https://x.com/OpenAI/status/2122750130290131166",
+      "published_at": "2026-11-17T17:54:04Z",
+      "summary": "Richer detail and better-looking results for everything you build, from work projects to side projects.Your browser does not support the video tag.🔗 View on Twitter💬14🔄67❤️1950👀279719📊203⚡ Powered by xgo.ing"
+    },
+    {
       "id": "a370008c8113085eb92a1766e3b8653dc81b0964",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -557,7 +766,7 @@
       "title": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and So...",
       "url": "https://x.com/OpenAI/status/2122750124543926515",
       "published_at": "2026-11-17T17:54:03Z",
-      "summary": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introduc…Your browser does not support the video tag.🔗 View on Twitter💬199…"
+      "summary": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introduc…Your browser does not support the video tag.🔗 View on Twitter💬216…"
     },
     {
       "id": "6294261dff84d972e40960862189e65bf4648034",
@@ -568,62 +777,7 @@
       "title": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across pr...",
       "url": "https://x.com/OpenAI/status/2122750126297161811",
       "published_at": "2026-11-17T17:54:03Z",
-      "summary": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.💬188…"
-    },
-    {
-      "id": "898afb65eb6364ed2144057badf4c74c7d44b847",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "@gmail @googledrive Ready to hand off your next task? Open Gemini, flip the home-screen toggle from ...",
-      "url": "https://x.com/GeminiApp/status/2122739010787520756",
-      "published_at": "2026-11-17T17:09:53Z",
-      "summary": "@gmail@googledrive Ready to hand off your next task? Open Gemini, flip the home-screen toggle from Chat to Task, and tell Gemini what you need done. Try Tasks in Gemini today and see what it can cross off your list first: goo.gle/TasksYour browser does not support the video tag.🔗…"
-    },
-    {
-      "id": "c2e87af040a5efedf5d2408832461f4a211033e1",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "@gmail @googledrive Or you can text Gemini on Google Messages or iMessage to offload a task on the g...",
-      "url": "https://x.com/GeminiApp/status/2122738855455633674",
-      "published_at": "2026-11-17T17:09:16Z",
-      "summary": "@gmail@googledrive Or you can text Gemini on Google Messages or iMessage to offload a task on the go.Your browser does not support the video tag.🔗 View on Twitter💬4🔄3❤️62👀13892📊11⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8c61f86e13d1d432d6a5f3a2ff140c8f8cac0e1a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Put Gemini to work for you with Tasks.\n\nWhile Chat is for quick back-and-forth answers, Tasks are fo...",
-      "url": "https://x.com/GeminiApp/status/2122737596971503885",
-      "published_at": "2026-11-17T17:04:16Z",
-      "summary": "Put Gemini to work for you with Tasks. While Chat is for quick back-and-forth answers, Tasks are for longer projects and recurring schedules. Beginning today, Tasks are now free of charge for hundreds of millions of eligible users, starting in the U.S., JP, KR, CA, AU & IN. 🧵💬156…"
-    },
-    {
-      "id": "e804ffd56aec4ce2c0a67289e33d0d69f02bdaf7",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "老黄发话了！看这意思是回去当 CEO 有戏啊？",
-      "url": "https://x.com/op7418/status/2122734826931556701",
-      "published_at": "2026-11-17T16:53:15Z",
-      "summary": "老黄发话了！看这意思是回去当 CEO 有戏啊？Jensen Huang@JensenHuangOver the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the U…"
-    },
-    {
-      "id": "e769d64bb14720882b5f18c0e6beb451b30482df",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "太猛了 muse 的日活居然突破了 1000 万！\n\nGorkbot 最近实在是拉，我又开始频繁地使用 muse 了",
-      "url": "https://x.com/op7418/status/2122715527873429517",
-      "published_at": "2026-11-17T15:36:34Z",
-      "summary": "太猛了 muse 的日活居然突破了 1000 万！ Gorkbot 最近实在是拉，我又开始频繁地使用 muse 了Similarweb@SimilarwebMeta’s Muse surpassed 10M daily active users on November 13, reaching 10.24M.🔗 View Quoted Tweet💬33🔄0❤️31👀10641📊24⚡ Powered by xgo.ing"
+      "summary": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.💬206…"
     }
   ]
 }
