@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-11-17T18:01:50.526770Z",
+  "generated_at": "2026-11-18T01:05:22.157132Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 12,
   "feed_total": 12,
-  "ok_feeds": 8,
+  "ok_feeds": 9,
   "failed_feeds": [
     "rsshub://bilibili/user/video/302188068",
-    "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
     "https://imjuya.github.io/juya-ai-daily/rss.xml",
     "rsshub://bilibili/user/video/385670211"
   ],
@@ -21,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1281,
+      "duration_ms": 255,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -35,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 200,
-      "duration_ms": 76,
+      "duration_ms": 159,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -49,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 878,
+      "duration_ms": 906,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -63,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 736,
+      "duration_ms": 1040,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -77,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 808,
+      "duration_ms": 932,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -91,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1090,
+      "duration_ms": 535,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -117,10 +116,10 @@
       "feed_title": "数字生命卡兹克",
       "feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 18061,
-      "error": "HTTPSConnectionPool(host='wechat2rss.bestblogs.dev', port=443): Read timed out.",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 706,
+      "error": null,
       "skipped": false,
       "skip_reason": null,
       "replaced": false
@@ -133,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 113,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -147,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2071,
+      "duration_ms": 2016,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -175,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1883,
+      "duration_ms": 1733,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -185,11 +184,10 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 4,
+      "total_items": 3,
       "feed_total": 5,
-      "ok_feeds": 3,
+      "ok_feeds": 4,
       "failed_feeds": [
-        "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
@@ -213,7 +211,7 @@
           "title": "太猛了 muse 的日活居然突破了 1000 万！\n\nGorkbot 最近实在是拉，我又开始频繁地使用 muse 了",
           "url": "https://x.com/op7418/status/2122715527873429517",
           "published_at": "2026-11-17T15:36:34Z",
-          "summary": "太猛了 muse 的日活居然突破了 1000 万！ Gorkbot 最近实在是拉，我又开始频繁地使用 muse 了Similarweb@SimilarwebMeta’s Muse surpassed 10M daily active users on November 13, reaching 10.24M.🔗 View Quoted Tweet💬14🔄0❤️14👀4105📊10⚡ Powered by xgo.ing"
+          "summary": "太猛了 muse 的日活居然突破了 1000 万！ Gorkbot 最近实在是拉，我又开始频繁地使用 muse 了Similarweb@SimilarwebMeta’s Muse surpassed 10M daily active users on November 13, reaching 10.24M.🔗 View Quoted Tweet💬20🔄0❤️22👀6499📊15⚡ Powered by xgo.ing"
         },
         {
           "id": "dc511e406bf58301e7d838f5371a675a6fa758d1",
@@ -224,24 +222,13 @@
           "title": "Codex 和 GPT 6 Astra 现在真是拉完了\n\n都是同样的模型，你很难想象 OpenAI 是怎么搞到这么拉的\n\n他们已经两个月没有发布旗舰模型了，一直说的 6.2 也遥遥无期\n\n很多人说 O...",
           "url": "https://x.com/op7418/status/2122499668647227665",
           "published_at": "2026-11-17T01:18:49Z",
-          "summary": "Codex 和 GPT 6 Astra 现在真是拉完了 都是同样的模型，你很难想象 OpenAI 是怎么搞到这么拉的 他们已经两个月没有发布旗舰模型了，一直说的 6.2 也遥遥无期 很多人说 OpenAI 现在正经历它自己的 Gemini 3.5 Pro 时刻💬151🔄5❤️266👀59475📊151⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "2d3b93d6d3bebd7baaebfc27a54c7ad14772b730",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "iOS 27.3 居然给 iPhone Duo 上了面部解锁\n\n估计是很多人反馈那个 Touch ID 实在是难用，临时加上了一个 2D 解锁，跟安卓一样\n\n感觉这事儿就办得很不苹果，而且在展开内屏的...",
-          "url": "https://x.com/op7418/status/2122494061768798490",
-          "published_at": "2026-11-17T00:56:33Z",
-          "summary": "iOS 27.3 居然给 iPhone Duo 上了面部解锁 估计是很多人反馈那个 Touch ID 实在是难用，临时加上了一个 2D 解锁，跟安卓一样 感觉这事儿就办得很不苹果，而且在展开内屏的情况下，没有办法用面部，还得用 Touch ID，这手机上就全是补丁💬41🔄2❤️76👀44414📊43⚡ Powered by xgo.ing"
+          "summary": "Codex 和 GPT 6 Astra 现在真是拉完了 都是同样的模型，你很难想象 OpenAI 是怎么搞到这么拉的 他们已经两个月没有发布旗舰模型了，一直说的 6.2 也遥遥无期 很多人说 OpenAI 现在正经历它自己的 Gemini 3.5 Pro 时刻💬160🔄5❤️277👀63685📊159⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 6,
+      "total_items": 9,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -249,6 +236,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "03683bf71fe66875f808471741efd5ffe7f752d1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Beginning today, Tasks in Gemini are now free of charge for hundreds of millions of eligible users, ...",
+          "url": "https://x.com/GeminiApp/status/2122843646789837145",
+          "published_at": "2026-11-18T00:05:40Z",
+          "summary": "Beginning today, Tasks in Gemini are now free of charge for hundreds of millions of eligible users, starting in the U.S., Japan, Korea, Canada, Australia, and India. Available features vary by region. Try Tasks in Gemini today and see what it can cross off your list: goo.gle/Task…"
+        },
+        {
+          "id": "b1fcb37644e04315d77a191a1198034b3bf38d93",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Clear your to-do list faster with Tasks in Gemini. ✔️\n\nFlip from Chat to Task and try these five thi...",
+          "url": "https://x.com/GeminiApp/status/2122842388792233998",
+          "published_at": "2026-11-18T00:00:40Z",
+          "summary": "Clear your to-do list faster with Tasks in Gemini. ✔️ Flip from Chat to Task and try these five things to hand off your busywork and get time back.💬5🔄5❤️30👀4982📊9⚡ Powered by xgo.ing"
+        },
         {
           "id": "bd28e7ef3c98dd7fc4c41c810cc9bae5c727ccef",
           "site_id": "featuredrss",
@@ -280,7 +289,40 @@
           "title": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and So...",
           "url": "https://x.com/OpenAI/status/2122750124543926515",
           "published_at": "2026-11-17T17:54:03Z",
-          "summary": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introduc…Your browser does not support the video tag.🔗 View on Twitter💬176…"
+          "summary": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introduc…Your browser does not support the video tag.🔗 View on Twitter💬177…"
+        },
+        {
+          "id": "6294261dff84d972e40960862189e65bf4648034",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across pr...",
+          "url": "https://x.com/OpenAI/status/2122750126297161811",
+          "published_at": "2026-11-17T17:54:03Z",
+          "summary": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.💬163…"
+        },
+        {
+          "id": "898afb65eb6364ed2144057badf4c74c7d44b847",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "@gmail @googledrive Ready to hand off your next task? Open Gemini, flip the home-screen toggle from ...",
+          "url": "https://x.com/GeminiApp/status/2122739010787520756",
+          "published_at": "2026-11-17T17:09:53Z",
+          "summary": "@gmail@googledrive Ready to hand off your next task? Open Gemini, flip the home-screen toggle from Chat to Task, and tell Gemini what you need done. Try Tasks in Gemini today and see what it can cross off your list first: goo.gle/TasksYour browser does not support the video tag.🔗…"
+        },
+        {
+          "id": "c2e87af040a5efedf5d2408832461f4a211033e1",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "@gmail @googledrive Or you can text Gemini on Google Messages or iMessage to offload a task on the g...",
+          "url": "https://x.com/GeminiApp/status/2122738855455633674",
+          "published_at": "2026-11-17T17:09:16Z",
+          "summary": "@gmail@googledrive Or you can text Gemini on Google Messages or iMessage to offload a task on the go.Your browser does not support the video tag.🔗 View on Twitter💬3🔄1❤️43👀9102📊8⚡ Powered by xgo.ing"
         },
         {
           "id": "8c61f86e13d1d432d6a5f3a2ff140c8f8cac0e1a",
@@ -291,34 +333,34 @@
           "title": "Put Gemini to work for you with Tasks.\n\nWhile Chat is for quick back-and-forth answers, Tasks are fo...",
           "url": "https://x.com/GeminiApp/status/2122737596971503885",
           "published_at": "2026-11-17T17:04:16Z",
-          "summary": "Put Gemini to work for you with Tasks. While Chat is for quick back-and-forth answers, Tasks are for longer projects and recurring schedules. Beginning today, Tasks are now free of charge for hundreds of millions of eligible users, starting in the U.S., JP, KR, CA, AU & IN. 🧵💬45🔄…"
-        },
-        {
-          "id": "ae3535982879bbc12b9914f2cf154edb35ef6442",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers...",
-          "url": "https://x.com/OpenAI/status/2122465625109090646",
-          "published_at": "2026-11-16T23:03:33Z",
-          "summary": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins. @AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations…"
-        },
-        {
-          "id": "c7b3a07bab4def5aff4ca298d6734421708814cf",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers...",
-          "url": "https://x.com/OpenAI/status/2122419941756531150",
-          "published_at": "2026-11-16T20:02:01Z",
-          "summary": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins. @AbridgeHQ, @AmbienceHealth, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizat…"
+          "summary": "Put Gemini to work for you with Tasks. While Chat is for quick back-and-forth answers, Tasks are for longer projects and recurring schedules. Beginning today, Tasks are now free of charge for hundreds of millions of eligible users, starting in the U.S., JP, KR, CA, AU & IN. 🧵💬116…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "03683bf71fe66875f808471741efd5ffe7f752d1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Beginning today, Tasks in Gemini are now free of charge for hundreds of millions of eligible users, ...",
+      "url": "https://x.com/GeminiApp/status/2122843646789837145",
+      "published_at": "2026-11-18T00:05:40Z",
+      "summary": "Beginning today, Tasks in Gemini are now free of charge for hundreds of millions of eligible users, starting in the U.S., Japan, Korea, Canada, Australia, and India. Available features vary by region. Try Tasks in Gemini today and see what it can cross off your list: goo.gle/Task…"
+    },
+    {
+      "id": "b1fcb37644e04315d77a191a1198034b3bf38d93",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Clear your to-do list faster with Tasks in Gemini. ✔️\n\nFlip from Chat to Task and try these five thi...",
+      "url": "https://x.com/GeminiApp/status/2122842388792233998",
+      "published_at": "2026-11-18T00:00:40Z",
+      "summary": "Clear your to-do list faster with Tasks in Gemini. ✔️ Flip from Chat to Task and try these five things to hand off your busywork and get time back.💬5🔄5❤️30👀4982📊9⚡ Powered by xgo.ing"
+    },
     {
       "id": "bd28e7ef3c98dd7fc4c41c810cc9bae5c727ccef",
       "site_id": "featuredrss",
@@ -350,7 +392,40 @@
       "title": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and So...",
       "url": "https://x.com/OpenAI/status/2122750124543926515",
       "published_at": "2026-11-17T17:54:03Z",
-      "summary": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introduc…Your browser does not support the video tag.🔗 View on Twitter💬176…"
+      "summary": "Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introduc…Your browser does not support the video tag.🔗 View on Twitter💬177…"
+    },
+    {
+      "id": "6294261dff84d972e40960862189e65bf4648034",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across pr...",
+      "url": "https://x.com/OpenAI/status/2122750126297161811",
+      "published_at": "2026-11-17T17:54:03Z",
+      "summary": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra. You’ll see the difference in things like slideshows, websites, and 3D designs.💬163…"
+    },
+    {
+      "id": "898afb65eb6364ed2144057badf4c74c7d44b847",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "@gmail @googledrive Ready to hand off your next task? Open Gemini, flip the home-screen toggle from ...",
+      "url": "https://x.com/GeminiApp/status/2122739010787520756",
+      "published_at": "2026-11-17T17:09:53Z",
+      "summary": "@gmail@googledrive Ready to hand off your next task? Open Gemini, flip the home-screen toggle from Chat to Task, and tell Gemini what you need done. Try Tasks in Gemini today and see what it can cross off your list first: goo.gle/TasksYour browser does not support the video tag.🔗…"
+    },
+    {
+      "id": "c2e87af040a5efedf5d2408832461f4a211033e1",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "@gmail @googledrive Or you can text Gemini on Google Messages or iMessage to offload a task on the g...",
+      "url": "https://x.com/GeminiApp/status/2122738855455633674",
+      "published_at": "2026-11-17T17:09:16Z",
+      "summary": "@gmail@googledrive Or you can text Gemini on Google Messages or iMessage to offload a task on the go.Your browser does not support the video tag.🔗 View on Twitter💬3🔄1❤️43👀9102📊8⚡ Powered by xgo.ing"
     },
     {
       "id": "8c61f86e13d1d432d6a5f3a2ff140c8f8cac0e1a",
@@ -361,7 +436,7 @@
       "title": "Put Gemini to work for you with Tasks.\n\nWhile Chat is for quick back-and-forth answers, Tasks are fo...",
       "url": "https://x.com/GeminiApp/status/2122737596971503885",
       "published_at": "2026-11-17T17:04:16Z",
-      "summary": "Put Gemini to work for you with Tasks. While Chat is for quick back-and-forth answers, Tasks are for longer projects and recurring schedules. Beginning today, Tasks are now free of charge for hundreds of millions of eligible users, starting in the U.S., JP, KR, CA, AU & IN. 🧵💬45🔄…"
+      "summary": "Put Gemini to work for you with Tasks. While Chat is for quick back-and-forth answers, Tasks are for longer projects and recurring schedules. Beginning today, Tasks are now free of charge for hundreds of millions of eligible users, starting in the U.S., JP, KR, CA, AU & IN. 🧵💬116…"
     },
     {
       "id": "e804ffd56aec4ce2c0a67289e33d0d69f02bdaf7",
@@ -383,7 +458,7 @@
       "title": "太猛了 muse 的日活居然突破了 1000 万！\n\nGorkbot 最近实在是拉，我又开始频繁地使用 muse 了",
       "url": "https://x.com/op7418/status/2122715527873429517",
       "published_at": "2026-11-17T15:36:34Z",
-      "summary": "太猛了 muse 的日活居然突破了 1000 万！ Gorkbot 最近实在是拉，我又开始频繁地使用 muse 了Similarweb@SimilarwebMeta’s Muse surpassed 10M daily active users on November 13, reaching 10.24M.🔗 View Quoted Tweet💬14🔄0❤️14👀4105📊10⚡ Powered by xgo.ing"
+      "summary": "太猛了 muse 的日活居然突破了 1000 万！ Gorkbot 最近实在是拉，我又开始频繁地使用 muse 了Similarweb@SimilarwebMeta’s Muse surpassed 10M daily active users on November 13, reaching 10.24M.🔗 View Quoted Tweet💬20🔄0❤️22👀6499📊15⚡ Powered by xgo.ing"
     },
     {
       "id": "dc511e406bf58301e7d838f5371a675a6fa758d1",
@@ -394,40 +469,7 @@
       "title": "Codex 和 GPT 6 Astra 现在真是拉完了\n\n都是同样的模型，你很难想象 OpenAI 是怎么搞到这么拉的\n\n他们已经两个月没有发布旗舰模型了，一直说的 6.2 也遥遥无期\n\n很多人说 O...",
       "url": "https://x.com/op7418/status/2122499668647227665",
       "published_at": "2026-11-17T01:18:49Z",
-      "summary": "Codex 和 GPT 6 Astra 现在真是拉完了 都是同样的模型，你很难想象 OpenAI 是怎么搞到这么拉的 他们已经两个月没有发布旗舰模型了，一直说的 6.2 也遥遥无期 很多人说 OpenAI 现在正经历它自己的 Gemini 3.5 Pro 时刻💬151🔄5❤️266👀59475📊151⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "2d3b93d6d3bebd7baaebfc27a54c7ad14772b730",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "iOS 27.3 居然给 iPhone Duo 上了面部解锁\n\n估计是很多人反馈那个 Touch ID 实在是难用，临时加上了一个 2D 解锁，跟安卓一样\n\n感觉这事儿就办得很不苹果，而且在展开内屏的...",
-      "url": "https://x.com/op7418/status/2122494061768798490",
-      "published_at": "2026-11-17T00:56:33Z",
-      "summary": "iOS 27.3 居然给 iPhone Duo 上了面部解锁 估计是很多人反馈那个 Touch ID 实在是难用，临时加上了一个 2D 解锁，跟安卓一样 感觉这事儿就办得很不苹果，而且在展开内屏的情况下，没有办法用面部，还得用 Touch ID，这手机上就全是补丁💬41🔄2❤️76👀44414📊43⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ae3535982879bbc12b9914f2cf154edb35ef6442",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers...",
-      "url": "https://x.com/OpenAI/status/2122465625109090646",
-      "published_at": "2026-11-16T23:03:33Z",
-      "summary": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins. @AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations…"
-    },
-    {
-      "id": "c7b3a07bab4def5aff4ca298d6734421708814cf",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers...",
-      "url": "https://x.com/OpenAI/status/2122419941756531150",
-      "published_at": "2026-11-16T20:02:01Z",
-      "summary": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins. @AbridgeHQ, @AmbienceHealth, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizat…"
+      "summary": "Codex 和 GPT 6 Astra 现在真是拉完了 都是同样的模型，你很难想象 OpenAI 是怎么搞到这么拉的 他们已经两个月没有发布旗舰模型了，一直说的 6.2 也遥遥无期 很多人说 OpenAI 现在正经历它自己的 Gemini 3.5 Pro 时刻💬160🔄5❤️277👀63685📊159⚡ Powered by xgo.ing"
     }
   ]
 }
