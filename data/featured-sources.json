@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T14:36:56.504414Z",
+  "generated_at": "2026-11-19T22:31:15.960121Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 22,
+  "total_items": 11,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 258,
+      "duration_ms": 394,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 201,
-      "duration_ms": 72,
+      "duration_ms": 155,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1196,
+      "duration_ms": 1095,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1284,
+      "duration_ms": 1386,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1296,
+      "duration_ms": 1169,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 631,
+      "duration_ms": 585,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 582,
+      "duration_ms": 500,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 98,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2213,
+      "duration_ms": 2218,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 2,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1136,
+      "duration_ms": 900,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 9,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "a227e40569994fe92375fb2bfc15be16b79ebc43",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊",
+          "url": "https://x.com/op7418/status/2123522128180027723",
+          "published_at": "2026-11-19T21:01:43Z",
+          "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬4🔄0❤️1👀12…"
+        },
+        {
+          "id": "085fa87715ddc32b218a57d305cbb96cd82e2a7b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "点击 $ANT 可以看股票详情",
+          "url": "https://x.com/op7418/status/2123435564099834183",
+          "published_at": "2026-11-19T15:17:44Z",
+          "summary": "点击 $ANT 可以看股票详情💬1🔄0❤️4👀2314📊1⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "202495f231de8565c8a075169855e89cee7aa784",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Anthropic 正式在纳斯达克敲钟上市了",
+          "url": "https://x.com/op7418/status/2123434343947534712",
+          "published_at": "2026-11-19T15:12:53Z",
+          "summary": "Anthropic 正式在纳斯达克敲钟上市了Your browser does not support the video tag.🔗 View on Twitter💬25🔄3❤️54👀12096📊26⚡ Powered by xgo.ing"
+        },
         {
           "id": "7b8b029fd26cdee8f64ead9db7239e15c4f97504",
           "site_id": "featuredrss",
@@ -200,7 +233,7 @@
           "title": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西",
           "url": "https://x.com/op7418/status/2123376069374013487",
           "published_at": "2026-11-19T11:21:20Z",
-          "summary": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西💬1🔄0❤️7👀2454📊2⚡ Powered by xgo.ing"
+          "summary": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西💬2🔄0❤️11👀4294📊3⚡ Powered by xgo.ing"
         },
         {
           "id": "890e4ea15e9937444ecd3948100a4836fed54f19",
@@ -222,7 +255,7 @@
           "title": "语音输入法又打错字了，应该是 AI Studio 哈",
           "url": "https://x.com/op7418/status/2123273817992954307",
           "published_at": "2026-11-19T04:35:01Z",
-          "summary": "语音输入法又打错字了，应该是 AI Studio 哈💬0🔄0❤️4👀2489📊1⚡ Powered by xgo.ing"
+          "summary": "语音输入法又打错字了，应该是 AI Studio 哈💬1🔄0❤️4👀2788📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "e31cd2e2751205efedd8658419b91832ac3ef55c",
@@ -244,57 +277,13 @@
           "title": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器\n\n他们这个命名真是服了。\n\n估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对...",
           "url": "https://x.com/op7418/status/2123262897858170911",
           "published_at": "2026-11-19T03:51:37Z",
-          "summary": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器 他们这个命名真是服了。 估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对应的元素是哪个。 我现在真的很迷茫，因为它很不明显，你不知道哪个元素是大、哪个元素是小。 它不像 OpenAI 的行星名称和 Claude 那种文学题材的名称那么直观，不知道咋想的Your browser does not support the video tag.🔗 View on Twitter💬39🔄0❤️47👀16390📊39⚡ Powered by…"
-        },
-        {
-          "id": "ec3c519dd41f91d9f75dd97cf738df5d5b52677c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "准点上线玩给他爱六（GTA6）",
-          "url": "https://x.com/op7418/status/2123086011056152749",
-          "published_at": "2026-11-18T16:08:44Z",
-          "summary": "准点上线玩给他爱六（GTA6）💬13🔄0❤️20👀6503📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "1a9a4b267c89b6f556fa0d3c901e101e24dfe43d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "总共用了 6 个小时，大部分时间都是用在渲染上。主要我是 MacBook air，token 的话总共花了 8198 万",
-          "url": "https://x.com/op7418/status/2123075963768771026",
-          "published_at": "2026-11-18T15:28:49Z",
-          "summary": "总共用了 6 个小时，大部分时间都是用在渲染上。主要我是 MacBook air，token 的话总共花了 8198 万💬4🔄0❤️4👀2483📊4⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e65b29dc6df0a2f9fc0471baeec3c8865d1c987e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "这是它从零在 Blender 里面建模的，没有用3D 模型生成的模型和其他素材。\n\n我几乎没有干涉。",
-          "url": "https://x.com/op7418/status/2123072609382432959",
-          "published_at": "2026-11-18T15:15:29Z",
-          "summary": "这是它从零在 Blender 里面建模的，没有用3D 模型生成的模型和其他素材。 我几乎没有干涉。💬6🔄0❤️7👀3638📊6⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "707549921cbc22cbd963830e950a0ea4f02d9d02",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "GPT 6.2 Astra 在复杂场景上的建模效果确实牛逼，细节也挺好。\n\n感觉这个是在我 MacBook Air 上渲染的，要是换成我 Windows 的英伟达显卡，效果和细节应该会更好一点",
-          "url": "https://x.com/op7418/status/2123071662199583137",
-          "published_at": "2026-11-18T15:11:43Z",
-          "summary": "GPT 6.2 Astra 在复杂场景上的建模效果确实牛逼，细节也挺好。 感觉这个是在我 MacBook Air 上渲染的，要是换成我 Windows 的英伟达显卡，效果和细节应该会更好一点Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊 大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降 好像是在 3D 领…"
+          "summary": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器 他们这个命名真是服了。 估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对应的元素是哪个。 我现在真的很迷茫，因为它很不明显，你不知道哪个元素是大、哪个元素是小。 它不像 OpenAI 的行星名称和 Claude 那种文学题材的名称那么直观，不知道咋想的Your browser does not support the video tag.🔗 View on Twitter💬44🔄2❤️57👀19764📊44⚡ Powered by…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 13,
+      "total_items": 3,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -302,6 +291,28 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "3496867b09c77adb049d14d02512977a3f4bc009",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in ...",
+          "url": "https://x.com/GeminiApp/status/2123513377268109331",
+          "published_at": "2026-11-19T20:26:56Z",
+          "summary": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac. Download the Gemini app for Mac at gemini.google/mac and learn more about computer use in our blog: goo.gle/GeminiComputer…💬3🔄2❤️32👀5640📊8⚡ Powered by xgo.i…"
+        },
+        {
+          "id": "8cdb6c767e12b248dc1bb66ccafbcdffaaca7f35",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, a...",
+          "url": "https://x.com/GeminiApp/status/2123513203745538423",
+          "published_at": "2026-11-19T20:26:15Z",
+          "summary": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours. Watch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.💬66🔄…"
+        },
         {
           "id": "32b93a78bb9597f5990a6ebe94c2db19bc8d0191",
           "site_id": "featuredrss",
@@ -312,143 +323,66 @@
           "url": "https://x.com/OpenAI/status/2123191365983248653",
           "published_at": "2026-11-18T23:07:23Z",
           "summary": "We're sharing new data on how AI is changing research at OpenAI. We find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment…"
-        },
-        {
-          "id": "fbefaa00277f53ad94bf2300c04e0747518550b0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Google AI Pro and Ultra subscribers can select 4 Neon (\"Deeper analysis\") via the model dropdown in ...",
-          "url": "https://x.com/GeminiApp/status/2123169070988337603",
-          "published_at": "2026-11-18T21:38:47Z",
-          "summary": "Google AI Pro and Ultra subscribers can select 4 Neon (\"Deeper analysis\") via the model dropdown in Chat and Tasks on mobile, desktop, and web at gemini.google Try it today and learn more about Gemini 4 Neon in our blog: goo.gle/Gemini4Neon💬1🔄2❤️89👀17784📊11⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "788d378f803bfadb7a3ee6edd34dd2ce43f81f72",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Faster help for tougher tasks.\n\nTasks in Gemini can now run on Neon, working through complex, multi-...",
-          "url": "https://x.com/GeminiApp/status/2123169000310096115",
-          "published_at": "2026-11-18T21:38:30Z",
-          "summary": "Faster help for tougher tasks. Tasks in Gemini can now run on Neon, working through complex, multi-step jobs more quickly and efficiently, so you can get more done while stretching usage limits further.💬5🔄2❤️84👀19044📊12⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8a258178dab97a777e057b2c63b1e56b18a1840d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Starting today, Gemini 4 Neon is available to Google AI Pro and Ultra subscribers on mobile, desktop...",
-          "url": "https://x.com/GeminiApp/status/2123168704662012079",
-          "published_at": "2026-11-18T21:37:20Z",
-          "summary": "Starting today, Gemini 4 Neon is available to Google AI Pro and Ultra subscribers on mobile, desktop, and web. This new model excels at work that requires frontier-level reasoning and fast responses. 🧵💬143🔄307❤️2970👀222387📊552⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "ed6428cc308f39d0348d9d44fa1b143bc9f40ad2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Meet Gemini 4 Neon — our newest model that brings frontier-level intelligence with fast end-to-end t...",
-          "url": "https://x.com/GoogleAI/status/2123168242797809944",
-          "published_at": "2026-11-18T21:35:30Z",
-          "summary": "Meet Gemini 4 Neon — our newest model that brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Neon brings frontier-level performance to your everyday work and is built to handle compl…"
-        },
-        {
-          "id": "0010f1123f3ff6d2f4915e91ce17cea5c5c94d8b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Rolling out today in @GeminiApp for Google AI Pro and Ultra subscribers, @Antigravity for paid Pro a...",
-          "url": "https://x.com/GoogleAI/status/2123168244861141164",
-          "published_at": "2026-11-18T21:35:30Z",
-          "summary": "Rolling out today in @GeminiApp for Google AI Pro and Ultra subscribers, @Antigravity for paid Pro and Ultra subscribers, via the Gemini API paid tier in @GoogleAIStudio, and in Gemini for business. blog.google/innovation-and…💬1🔄3❤️56👀11882📊7⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "754bde2360eaa44542d41d97d8b9aeac48c955a0",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "We’re sharing how we approach safety at every stage of a model’s lifecycle, from early research to i...",
-          "url": "https://x.com/OpenAI/status/2123165872261075233",
-          "published_at": "2026-11-18T21:26:05Z",
-          "summary": "We’re sharing how we approach safety at every stage of a model’s lifecycle, from early research to internal use to public deployment.Kai@kaicathycA lot has happened in the past couple months, to say the least. Today we are sharing a recap of what it takes to move a frontier model…"
-        },
-        {
-          "id": "63bd7f2acc6a0173d0248906ccac0aff60b9a25b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Work smarter, save harder. See how everyday chores turned into serious savings with Tasks in Gemini.",
-          "url": "https://x.com/GeminiApp/status/2123130390923878641",
-          "published_at": "2026-11-18T19:05:05Z",
-          "summary": "Work smarter, save harder. See how everyday chores turned into serious savings with Tasks in Gemini.💬37🔄21❤️350👀249383📊73⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "209253d4ea04c3f9d293b5115289c6fefb20b9f6",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "Start exploring: https://t.co/fYTJeBDOde",
-          "url": "https://x.com/GoogleAI/status/2123117805570580933",
-          "published_at": "2026-11-18T18:15:05Z",
-          "summary": "Start exploring: blog.google/innovation-and…💬2🔄3❤️33👀9448📊6⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "709d09fff0d335b06b6c90fd1dfa4a4f176607cb",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "The all-new Project Genie experience is now available.\n\nMoving beyond the initial preview, this rele...",
-          "url": "https://x.com/GoogleAI/status/2123117803775426737",
-          "published_at": "2026-11-18T18:15:04Z",
-          "summary": "The all-new Project Genie experience is now available. Moving beyond the initial preview, this release launches a full creative ecosystem: — Genie 4 is live: Experience our most realistic, interactive world model yet, now with real-time editing and native audio. Type to change th…"
-        },
-        {
-          "id": "54ad30c9f20176709e26d3385826b4f35bbf917e",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "@Android To get started, download the Gemini app on Google Play.\n\nLearn more about how we’re bringin...",
-          "url": "https://x.com/GeminiApp/status/2123101521659486357",
-          "published_at": "2026-11-18T17:10:22Z",
-          "summary": "@Android To get started, download the Gemini app on Google Play. Learn more about how we’re bringing the Gemini app to lower-memory Android devices in our blog: goo.gle/4iLspsm💬4🔄3❤️71👀19645📊11⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8c16b56c5452825efa17b407fc6eee10cf65c849",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including e...",
-          "url": "https://x.com/GeminiApp/status/2123100943604707606",
-          "published_at": "2026-11-18T17:08:04Z",
-          "summary": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including eligible Android (Go edition) phones. We re-architected the app so the core Gemini experience runs smoothly on phones that have less memory, putting it in the hands of more people a…"
-        },
-        {
-          "id": "be882040ef437d72ae16ae5c0c2d1466a8509686",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than f...",
-          "url": "https://x.com/OpenAI/status/2123100386638877054",
-          "published_at": "2026-11-18T17:05:52Z",
-          "summary": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing. The same approach helped improve Jalapeño, our first custom inference chip, with gains verified o…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "a227e40569994fe92375fb2bfc15be16b79ebc43",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊",
+      "url": "https://x.com/op7418/status/2123522128180027723",
+      "published_at": "2026-11-19T21:01:43Z",
+      "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬4🔄0❤️1👀12…"
+    },
+    {
+      "id": "3496867b09c77adb049d14d02512977a3f4bc009",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in ...",
+      "url": "https://x.com/GeminiApp/status/2123513377268109331",
+      "published_at": "2026-11-19T20:26:56Z",
+      "summary": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac. Download the Gemini app for Mac at gemini.google/mac and learn more about computer use in our blog: goo.gle/GeminiComputer…💬3🔄2❤️32👀5640📊8⚡ Powered by xgo.i…"
+    },
+    {
+      "id": "8cdb6c767e12b248dc1bb66ccafbcdffaaca7f35",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, a...",
+      "url": "https://x.com/GeminiApp/status/2123513203745538423",
+      "published_at": "2026-11-19T20:26:15Z",
+      "summary": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours. Watch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.💬66🔄…"
+    },
+    {
+      "id": "085fa87715ddc32b218a57d305cbb96cd82e2a7b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "点击 $ANT 可以看股票详情",
+      "url": "https://x.com/op7418/status/2123435564099834183",
+      "published_at": "2026-11-19T15:17:44Z",
+      "summary": "点击 $ANT 可以看股票详情💬1🔄0❤️4👀2314📊1⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "202495f231de8565c8a075169855e89cee7aa784",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anthropic 正式在纳斯达克敲钟上市了",
+      "url": "https://x.com/op7418/status/2123434343947534712",
+      "published_at": "2026-11-19T15:12:53Z",
+      "summary": "Anthropic 正式在纳斯达克敲钟上市了Your browser does not support the video tag.🔗 View on Twitter💬25🔄3❤️54👀12096📊26⚡ Powered by xgo.ing"
+    },
     {
       "id": "7b8b029fd26cdee8f64ead9db7239e15c4f97504",
       "site_id": "featuredrss",
@@ -458,7 +392,7 @@
       "title": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西",
       "url": "https://x.com/op7418/status/2123376069374013487",
       "published_at": "2026-11-19T11:21:20Z",
-      "summary": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西💬1🔄0❤️7👀2454📊2⚡ Powered by xgo.ing"
+      "summary": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西💬2🔄0❤️11👀4294📊3⚡ Powered by xgo.ing"
     },
     {
       "id": "890e4ea15e9937444ecd3948100a4836fed54f19",
@@ -480,7 +414,7 @@
       "title": "语音输入法又打错字了，应该是 AI Studio 哈",
       "url": "https://x.com/op7418/status/2123273817992954307",
       "published_at": "2026-11-19T04:35:01Z",
-      "summary": "语音输入法又打错字了，应该是 AI Studio 哈💬0🔄0❤️4👀2489📊1⚡ Powered by xgo.ing"
+      "summary": "语音输入法又打错字了，应该是 AI Studio 哈💬1🔄0❤️4👀2788📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "e31cd2e2751205efedd8658419b91832ac3ef55c",
@@ -502,7 +436,7 @@
       "title": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器\n\n他们这个命名真是服了。\n\n估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对...",
       "url": "https://x.com/op7418/status/2123262897858170911",
       "published_at": "2026-11-19T03:51:37Z",
-      "summary": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器 他们这个命名真是服了。 估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对应的元素是哪个。 我现在真的很迷茫，因为它很不明显，你不知道哪个元素是大、哪个元素是小。 它不像 OpenAI 的行星名称和 Claude 那种文学题材的名称那么直观，不知道咋想的Your browser does not support the video tag.🔗 View on Twitter💬39🔄0❤️47👀16390📊39⚡ Powered by…"
+      "summary": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器 他们这个命名真是服了。 估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对应的元素是哪个。 我现在真的很迷茫，因为它很不明显，你不知道哪个元素是大、哪个元素是小。 它不像 OpenAI 的行星名称和 Claude 那种文学题材的名称那么直观，不知道咋想的Your browser does not support the video tag.🔗 View on Twitter💬44🔄2❤️57👀19764📊44⚡ Powered by…"
     },
     {
       "id": "32b93a78bb9597f5990a6ebe94c2db19bc8d0191",
@@ -514,182 +448,6 @@
       "url": "https://x.com/OpenAI/status/2123191365983248653",
       "published_at": "2026-11-18T23:07:23Z",
       "summary": "We're sharing new data on how AI is changing research at OpenAI. We find researchers' AI use continues to rise exponentially, and agents are completing longer tasks, but human involvement remains central in research. Researchers are also spending more time on safety and alignment…"
-    },
-    {
-      "id": "fbefaa00277f53ad94bf2300c04e0747518550b0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Google AI Pro and Ultra subscribers can select 4 Neon (\"Deeper analysis\") via the model dropdown in ...",
-      "url": "https://x.com/GeminiApp/status/2123169070988337603",
-      "published_at": "2026-11-18T21:38:47Z",
-      "summary": "Google AI Pro and Ultra subscribers can select 4 Neon (\"Deeper analysis\") via the model dropdown in Chat and Tasks on mobile, desktop, and web at gemini.google Try it today and learn more about Gemini 4 Neon in our blog: goo.gle/Gemini4Neon💬1🔄2❤️89👀17784📊11⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "788d378f803bfadb7a3ee6edd34dd2ce43f81f72",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Faster help for tougher tasks.\n\nTasks in Gemini can now run on Neon, working through complex, multi-...",
-      "url": "https://x.com/GeminiApp/status/2123169000310096115",
-      "published_at": "2026-11-18T21:38:30Z",
-      "summary": "Faster help for tougher tasks. Tasks in Gemini can now run on Neon, working through complex, multi-step jobs more quickly and efficiently, so you can get more done while stretching usage limits further.💬5🔄2❤️84👀19044📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8a258178dab97a777e057b2c63b1e56b18a1840d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Starting today, Gemini 4 Neon is available to Google AI Pro and Ultra subscribers on mobile, desktop...",
-      "url": "https://x.com/GeminiApp/status/2123168704662012079",
-      "published_at": "2026-11-18T21:37:20Z",
-      "summary": "Starting today, Gemini 4 Neon is available to Google AI Pro and Ultra subscribers on mobile, desktop, and web. This new model excels at work that requires frontier-level reasoning and fast responses. 🧵💬143🔄307❤️2970👀222387📊552⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "ed6428cc308f39d0348d9d44fa1b143bc9f40ad2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Meet Gemini 4 Neon — our newest model that brings frontier-level intelligence with fast end-to-end t...",
-      "url": "https://x.com/GoogleAI/status/2123168242797809944",
-      "published_at": "2026-11-18T21:35:30Z",
-      "summary": "Meet Gemini 4 Neon — our newest model that brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Neon brings frontier-level performance to your everyday work and is built to handle compl…"
-    },
-    {
-      "id": "0010f1123f3ff6d2f4915e91ce17cea5c5c94d8b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Rolling out today in @GeminiApp for Google AI Pro and Ultra subscribers, @Antigravity for paid Pro a...",
-      "url": "https://x.com/GoogleAI/status/2123168244861141164",
-      "published_at": "2026-11-18T21:35:30Z",
-      "summary": "Rolling out today in @GeminiApp for Google AI Pro and Ultra subscribers, @Antigravity for paid Pro and Ultra subscribers, via the Gemini API paid tier in @GoogleAIStudio, and in Gemini for business. blog.google/innovation-and…💬1🔄3❤️56👀11882📊7⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "754bde2360eaa44542d41d97d8b9aeac48c955a0",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "We’re sharing how we approach safety at every stage of a model’s lifecycle, from early research to i...",
-      "url": "https://x.com/OpenAI/status/2123165872261075233",
-      "published_at": "2026-11-18T21:26:05Z",
-      "summary": "We’re sharing how we approach safety at every stage of a model’s lifecycle, from early research to internal use to public deployment.Kai@kaicathycA lot has happened in the past couple months, to say the least. Today we are sharing a recap of what it takes to move a frontier model…"
-    },
-    {
-      "id": "63bd7f2acc6a0173d0248906ccac0aff60b9a25b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Work smarter, save harder. See how everyday chores turned into serious savings with Tasks in Gemini.",
-      "url": "https://x.com/GeminiApp/status/2123130390923878641",
-      "published_at": "2026-11-18T19:05:05Z",
-      "summary": "Work smarter, save harder. See how everyday chores turned into serious savings with Tasks in Gemini.💬37🔄21❤️350👀249383📊73⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "209253d4ea04c3f9d293b5115289c6fefb20b9f6",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "Start exploring: https://t.co/fYTJeBDOde",
-      "url": "https://x.com/GoogleAI/status/2123117805570580933",
-      "published_at": "2026-11-18T18:15:05Z",
-      "summary": "Start exploring: blog.google/innovation-and…💬2🔄3❤️33👀9448📊6⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "709d09fff0d335b06b6c90fd1dfa4a4f176607cb",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "The all-new Project Genie experience is now available.\n\nMoving beyond the initial preview, this rele...",
-      "url": "https://x.com/GoogleAI/status/2123117803775426737",
-      "published_at": "2026-11-18T18:15:04Z",
-      "summary": "The all-new Project Genie experience is now available. Moving beyond the initial preview, this release launches a full creative ecosystem: — Genie 4 is live: Experience our most realistic, interactive world model yet, now with real-time editing and native audio. Type to change th…"
-    },
-    {
-      "id": "54ad30c9f20176709e26d3385826b4f35bbf917e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "@Android To get started, download the Gemini app on Google Play.\n\nLearn more about how we’re bringin...",
-      "url": "https://x.com/GeminiApp/status/2123101521659486357",
-      "published_at": "2026-11-18T17:10:22Z",
-      "summary": "@Android To get started, download the Gemini app on Google Play. Learn more about how we’re bringing the Gemini app to lower-memory Android devices in our blog: goo.gle/4iLspsm💬4🔄3❤️71👀19645📊11⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8c16b56c5452825efa17b407fc6eee10cf65c849",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including e...",
-      "url": "https://x.com/GeminiApp/status/2123100943604707606",
-      "published_at": "2026-11-18T17:08:04Z",
-      "summary": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including eligible Android (Go edition) phones. We re-architected the app so the core Gemini experience runs smoothly on phones that have less memory, putting it in the hands of more people a…"
-    },
-    {
-      "id": "be882040ef437d72ae16ae5c0c2d1466a8509686",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than f...",
-      "url": "https://x.com/OpenAI/status/2123100386638877054",
-      "published_at": "2026-11-18T17:05:52Z",
-      "summary": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing. The same approach helped improve Jalapeño, our first custom inference chip, with gains verified o…"
-    },
-    {
-      "id": "ec3c519dd41f91d9f75dd97cf738df5d5b52677c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "准点上线玩给他爱六（GTA6）",
-      "url": "https://x.com/op7418/status/2123086011056152749",
-      "published_at": "2026-11-18T16:08:44Z",
-      "summary": "准点上线玩给他爱六（GTA6）💬13🔄0❤️20👀6503📊12⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "1a9a4b267c89b6f556fa0d3c901e101e24dfe43d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "总共用了 6 个小时，大部分时间都是用在渲染上。主要我是 MacBook air，token 的话总共花了 8198 万",
-      "url": "https://x.com/op7418/status/2123075963768771026",
-      "published_at": "2026-11-18T15:28:49Z",
-      "summary": "总共用了 6 个小时，大部分时间都是用在渲染上。主要我是 MacBook air，token 的话总共花了 8198 万💬4🔄0❤️4👀2483📊4⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e65b29dc6df0a2f9fc0471baeec3c8865d1c987e",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "这是它从零在 Blender 里面建模的，没有用3D 模型生成的模型和其他素材。\n\n我几乎没有干涉。",
-      "url": "https://x.com/op7418/status/2123072609382432959",
-      "published_at": "2026-11-18T15:15:29Z",
-      "summary": "这是它从零在 Blender 里面建模的，没有用3D 模型生成的模型和其他素材。 我几乎没有干涉。💬6🔄0❤️7👀3638📊6⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "707549921cbc22cbd963830e950a0ea4f02d9d02",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "GPT 6.2 Astra 在复杂场景上的建模效果确实牛逼，细节也挺好。\n\n感觉这个是在我 MacBook Air 上渲染的，要是换成我 Windows 的英伟达显卡，效果和细节应该会更好一点",
-      "url": "https://x.com/op7418/status/2123071662199583137",
-      "published_at": "2026-11-18T15:11:43Z",
-      "summary": "GPT 6.2 Astra 在复杂场景上的建模效果确实牛逼，细节也挺好。 感觉这个是在我 MacBook Air 上渲染的，要是换成我 Windows 的英伟达显卡，效果和细节应该会更好一点Your browser does not support the video tag.🔗 View on Twitter歸藏(guizang.ai)@op7418起来看了一下大家关于 GPT 6.2 astra 的一些评论，看起来这模型不太行啊 大家觉得很像当时的 Opus 4.7 或者 4.8，就是它不说人话，没办法协作，同时编程能力还有所下降 好像是在 3D 领…"
     }
   ]
 }
