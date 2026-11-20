@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T03:49:05.965356Z",
+  "generated_at": "2026-11-20T12:23:42.903985Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 8,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 248,
+      "duration_ms": 429,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 201,
-      "duration_ms": 90,
+      "duration_ms": 76,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 810,
+      "duration_ms": 691,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1114,
+      "duration_ms": 823,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1343,
+      "duration_ms": 761,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 585,
+      "duration_ms": 472,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 739,
+      "duration_ms": 625,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 69,
+      "duration_ms": 53,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2108,
+      "duration_ms": 1757,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1394,
+      "duration_ms": 1357,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 8,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c54033fa72b399b5cdc30dfd9123a17c38a36d4a",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "让AI给口播配画面，我做了一个可无限复用的开源Skill（附6模型实测）！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499049&idx=1&sn=0f4d06a3be471004da73546df09d2e4b",
+          "published_at": "2026-11-20T05:08:00Z",
+          "summary": "Gemini 4 Carbon/Neon我爱了。"
+        },
+        {
+          "id": "3fd538c46c82ef3a9d4a5704d41e6862069c0c6f",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "DeepSeek Harness发布100天了，想跟你分享这13个好用的插件玩法。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688614&idx=1&sn=00b774ecbc685ea6696de895ddb06500",
+          "published_at": "2026-11-19T23:56:00Z",
+          "summary": "生态从玩具开始"
+        },
         {
           "id": "a227e40569994fe92375fb2bfc15be16b79ebc43",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊",
           "url": "https://x.com/op7418/status/2123522128180027723",
           "published_at": "2026-11-19T21:01:43Z",
-          "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬21🔄2❤️30👀…"
+          "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬40🔄5❤️60👀…"
         },
         {
           "id": "085fa87715ddc32b218a57d305cbb96cd82e2a7b",
@@ -211,7 +233,7 @@
           "title": "点击 $ANT 可以看股票详情",
           "url": "https://x.com/op7418/status/2123435564099834183",
           "published_at": "2026-11-19T15:17:44Z",
-          "summary": "点击 $ANT 可以看股票详情💬1🔄0❤️4👀2852📊1⚡ Powered by xgo.ing"
+          "summary": "点击 $ANT 可以看股票详情💬1🔄0❤️4👀3323📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "202495f231de8565c8a075169855e89cee7aa784",
@@ -222,62 +244,7 @@
           "title": "Anthropic 正式在纳斯达克敲钟上市了",
           "url": "https://x.com/op7418/status/2123434343947534712",
           "published_at": "2026-11-19T15:12:53Z",
-          "summary": "Anthropic 正式在纳斯达克敲钟上市了Your browser does not support the video tag.🔗 View on Twitter💬31🔄4❤️59👀13915📊32⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "7b8b029fd26cdee8f64ead9db7239e15c4f97504",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西",
-          "url": "https://x.com/op7418/status/2123376069374013487",
-          "published_at": "2026-11-19T11:21:20Z",
-          "summary": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西💬2🔄0❤️11👀4431📊3⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "890e4ea15e9937444ecd3948100a4836fed54f19",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "我去，谷歌明天还要发新的模型，这 tm 母猪下崽呢",
-          "url": "https://x.com/op7418/status/2123315070071619891",
-          "published_at": "2026-11-19T07:18:56Z",
-          "summary": "我去，谷歌明天还要发新的模型，这 tm 母猪下崽呢will brown@willcbtomorrow DeepMind will be dropping Gemini 4 Sodium, a fast yet powerful frontier model which costs just $11.75/M (introductory pricing, raises to $16.50 soon) and is their best model for various things and stuff, rivaling Argon, Carbon, H…"
-        },
-        {
-          "id": "f5ec0a2389cbc49e877996ab3b97a3ec90425201",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "语音输入法又打错字了，应该是 AI Studio 哈",
-          "url": "https://x.com/op7418/status/2123273817992954307",
-          "published_at": "2026-11-19T04:35:01Z",
-          "summary": "语音输入法又打错字了，应该是 AI Studio 哈💬1🔄0❤️4👀2963📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "e31cd2e2751205efedd8658419b91832ac3ef55c",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "谷歌新发布的 Gemini 4 Neon 相当牛逼\n\n我感觉在我的任务上真的可以平替 Opus 5.5 了！\n\n尤其是它的多模态能力，以及对设计和动效的还原能力相当厉害。\n\n这个视频就是他刚才给我做的...",
-          "url": "https://x.com/op7418/status/2123269503736070603",
-          "published_at": "2026-11-19T04:17:52Z",
-          "summary": "谷歌新发布的 Gemini 4 Neon 相当牛逼 我感觉在我的任务上真的可以平替 Opus 5.5 了！ 尤其是它的多模态能力，以及对设计和动效的还原能力相当厉害。 这个视频就是他刚才给我做的几个组件，基于参考图再发散的 因为它的多模态是真正的多模态，在动态内容的还原上比 Opus 5.5、比 Claude 要好很多。 另外设计风格和品味也是在线的，聊天非常舒服。这么一比，GPT 真是啥也不是。 谷歌现在唯一的瓶颈是 Antigravity，但最近确实优化了不少，好了很多Your browser does not support the video t…"
-        },
-        {
-          "id": "a1c503a35db2a465531ba7be9a7ad0782b50720d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器\n\n他们这个命名真是服了。\n\n估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对...",
-          "url": "https://x.com/op7418/status/2123262897858170911",
-          "published_at": "2026-11-19T03:51:37Z",
-          "summary": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器 他们这个命名真是服了。 估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对应的元素是哪个。 我现在真的很迷茫，因为它很不明显，你不知道哪个元素是大、哪个元素是小。 它不像 OpenAI 的行星名称和 Claude 那种文学题材的名称那么直观，不知道咋想的Your browser does not support the video tag.🔗 View on Twitter💬45🔄2❤️58👀21901📊45⚡ Powered by…"
+          "summary": "Anthropic 正式在纳斯达克敲钟上市了Your browser does not support the video tag.🔗 View on Twitter💬35🔄4❤️63👀15298📊35⚡ Powered by xgo.ing"
         }
       ]
     },
@@ -311,7 +278,7 @@
           "title": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in ...",
           "url": "https://x.com/GeminiApp/status/2123513377268109331",
           "published_at": "2026-11-19T20:26:56Z",
-          "summary": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac. Download the Gemini app for Mac at gemini.google/mac and learn more about computer use in our blog: goo.gle/GeminiComputer…💬6🔄2❤️66👀14014📊15⚡ Powered by xgo…"
+          "summary": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac. Download the Gemini app for Mac at gemini.google/mac and learn more about computer use in our blog: goo.gle/GeminiComputer…💬10🔄5❤️107👀24366📊24⚡ Powered by x…"
         },
         {
           "id": "8cdb6c767e12b248dc1bb66ccafbcdffaaca7f35",
@@ -322,12 +289,34 @@
           "title": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, a...",
           "url": "https://x.com/GeminiApp/status/2123513203745538423",
           "published_at": "2026-11-19T20:26:15Z",
-          "summary": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours. Watch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.💬115…"
+          "summary": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours. Watch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.💬177…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "c54033fa72b399b5cdc30dfd9123a17c38a36d4a",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "让AI给口播配画面，我做了一个可无限复用的开源Skill（附6模型实测）！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499049&idx=1&sn=0f4d06a3be471004da73546df09d2e4b",
+      "published_at": "2026-11-20T05:08:00Z",
+      "summary": "Gemini 4 Carbon/Neon我爱了。"
+    },
+    {
+      "id": "3fd538c46c82ef3a9d4a5704d41e6862069c0c6f",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "DeepSeek Harness发布100天了，想跟你分享这13个好用的插件玩法。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688614&idx=1&sn=00b774ecbc685ea6696de895ddb06500",
+      "published_at": "2026-11-19T23:56:00Z",
+      "summary": "生态从玩具开始"
+    },
     {
       "id": "5f03945224c7bc97c945d48b799ae8d313e124bd",
       "site_id": "featuredrss",
@@ -348,7 +337,7 @@
       "title": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊",
       "url": "https://x.com/op7418/status/2123522128180027723",
       "published_at": "2026-11-19T21:01:43Z",
-      "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬21🔄2❤️30👀…"
+      "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬40🔄5❤️60👀…"
     },
     {
       "id": "3496867b09c77adb049d14d02512977a3f4bc009",
@@ -359,7 +348,7 @@
       "title": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in ...",
       "url": "https://x.com/GeminiApp/status/2123513377268109331",
       "published_at": "2026-11-19T20:26:56Z",
-      "summary": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac. Download the Gemini app for Mac at gemini.google/mac and learn more about computer use in our blog: goo.gle/GeminiComputer…💬6🔄2❤️66👀14014📊15⚡ Powered by xgo…"
+      "summary": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac. Download the Gemini app for Mac at gemini.google/mac and learn more about computer use in our blog: goo.gle/GeminiComputer…💬10🔄5❤️107👀24366📊24⚡ Powered by x…"
     },
     {
       "id": "8cdb6c767e12b248dc1bb66ccafbcdffaaca7f35",
@@ -370,7 +359,7 @@
       "title": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, a...",
       "url": "https://x.com/GeminiApp/status/2123513203745538423",
       "published_at": "2026-11-19T20:26:15Z",
-      "summary": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours. Watch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.💬115…"
+      "summary": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours. Watch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.💬177…"
     },
     {
       "id": "085fa87715ddc32b218a57d305cbb96cd82e2a7b",
@@ -381,7 +370,7 @@
       "title": "点击 $ANT 可以看股票详情",
       "url": "https://x.com/op7418/status/2123435564099834183",
       "published_at": "2026-11-19T15:17:44Z",
-      "summary": "点击 $ANT 可以看股票详情💬1🔄0❤️4👀2852📊1⚡ Powered by xgo.ing"
+      "summary": "点击 $ANT 可以看股票详情💬1🔄0❤️4👀3323📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "202495f231de8565c8a075169855e89cee7aa784",
@@ -392,62 +381,7 @@
       "title": "Anthropic 正式在纳斯达克敲钟上市了",
       "url": "https://x.com/op7418/status/2123434343947534712",
       "published_at": "2026-11-19T15:12:53Z",
-      "summary": "Anthropic 正式在纳斯达克敲钟上市了Your browser does not support the video tag.🔗 View on Twitter💬31🔄4❤️59👀13915📊32⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "7b8b029fd26cdee8f64ead9db7239e15c4f97504",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西",
-      "url": "https://x.com/op7418/status/2123376069374013487",
-      "published_at": "2026-11-19T11:21:20Z",
-      "summary": "有人说这个逼是乐子人，但是刚才看到 Gemini 的人发暗示，看起来还是有东西💬2🔄0❤️11👀4431📊3⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "890e4ea15e9937444ecd3948100a4836fed54f19",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "我去，谷歌明天还要发新的模型，这 tm 母猪下崽呢",
-      "url": "https://x.com/op7418/status/2123315070071619891",
-      "published_at": "2026-11-19T07:18:56Z",
-      "summary": "我去，谷歌明天还要发新的模型，这 tm 母猪下崽呢will brown@willcbtomorrow DeepMind will be dropping Gemini 4 Sodium, a fast yet powerful frontier model which costs just $11.75/M (introductory pricing, raises to $16.50 soon) and is their best model for various things and stuff, rivaling Argon, Carbon, H…"
-    },
-    {
-      "id": "f5ec0a2389cbc49e877996ab3b97a3ec90425201",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "语音输入法又打错字了，应该是 AI Studio 哈",
-      "url": "https://x.com/op7418/status/2123273817992954307",
-      "published_at": "2026-11-19T04:35:01Z",
-      "summary": "语音输入法又打错字了，应该是 AI Studio 哈💬1🔄0❤️4👀2963📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "e31cd2e2751205efedd8658419b91832ac3ef55c",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "谷歌新发布的 Gemini 4 Neon 相当牛逼\n\n我感觉在我的任务上真的可以平替 Opus 5.5 了！\n\n尤其是它的多模态能力，以及对设计和动效的还原能力相当厉害。\n\n这个视频就是他刚才给我做的...",
-      "url": "https://x.com/op7418/status/2123269503736070603",
-      "published_at": "2026-11-19T04:17:52Z",
-      "summary": "谷歌新发布的 Gemini 4 Neon 相当牛逼 我感觉在我的任务上真的可以平替 Opus 5.5 了！ 尤其是它的多模态能力，以及对设计和动效的还原能力相当厉害。 这个视频就是他刚才给我做的几个组件，基于参考图再发散的 因为它的多模态是真正的多模态，在动态内容的还原上比 Opus 5.5、比 Claude 要好很多。 另外设计风格和品味也是在线的，聊天非常舒服。这么一比，GPT 真是啥也不是。 谷歌现在唯一的瓶颈是 Antigravity，但最近确实优化了不少，好了很多Your browser does not support the video t…"
-    },
-    {
-      "id": "a1c503a35db2a465531ba7be9a7ad0782b50720d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器\n\n他们这个命名真是服了。\n\n估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对...",
-      "url": "https://x.com/op7418/status/2123262897858170911",
-      "published_at": "2026-11-19T03:51:37Z",
-      "summary": "哇，真的太搞了！没想到谷歌真的在 Android Studio 里实装了这个元素周期表模型选择器 他们这个命名真是服了。 估计有很多英语国家的人也并不太清楚每个元素到底是怎么读，也不知道这个单词对应的元素是哪个。 我现在真的很迷茫，因为它很不明显，你不知道哪个元素是大、哪个元素是小。 它不像 OpenAI 的行星名称和 Claude 那种文学题材的名称那么直观，不知道咋想的Your browser does not support the video tag.🔗 View on Twitter💬45🔄2❤️58👀21901📊45⚡ Powered by…"
+      "summary": "Anthropic 正式在纳斯达克敲钟上市了Your browser does not support the video tag.🔗 View on Twitter💬35🔄4❤️63👀15298📊35⚡ Powered by xgo.ing"
     }
   ]
 }
