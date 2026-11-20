@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T12:23:42.903985Z",
+  "generated_at": "2026-11-20T20:36:56.774120Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 14,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 429,
+      "duration_ms": 352,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 201,
-      "duration_ms": 76,
+      "duration_ms": 101,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 691,
+      "duration_ms": 1530,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 823,
+      "duration_ms": 1276,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 761,
+      "duration_ms": 1368,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 472,
+      "duration_ms": 302,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 625,
+      "duration_ms": 1221,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 53,
+      "duration_ms": 48,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1757,
+      "duration_ms": 2003,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1357,
+      "duration_ms": 1736,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 7,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "bcc6754c1b22af3e871205227710ee191c7698e2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "他发了个 PDF https://t.co/E0ao54kVCO",
+          "url": "https://x.com/op7418/status/2123825106371883048",
+          "published_at": "2026-11-20T17:05:38Z",
+          "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀1209📊2⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "8e119f44ee2386fe51dbe4c33c415b295567d74b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Anthropic 的一个数学家说他证明了黎曼猜想\n\n这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题",
+          "url": "https://x.com/op7418/status/2123823642991907109",
+          "published_at": "2026-11-20T16:59:49Z",
+          "summary": "Anthropic 的一个数学家说他证明了黎曼猜想 这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题Scientific American@sciamBREAKING: A mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, the most notorious open problem in all of math sciam.com/article/anthro…🔗 View Quoted T…"
+        },
+        {
+          "id": "7351fb6c171c7474042309cd7c3f0eb48c0bfebd",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Anthropic 这跌得有点离谱，盘前跌到 87 美元了，马上都要破发了\n\n还顺便把半导体带崩了，今天全球都很惨",
+          "url": "https://x.com/op7418/status/2123760687877083240",
+          "published_at": "2026-11-20T12:49:40Z",
+          "summary": "Anthropic 这跌得有点离谱，盘前跌到 87 美元了，马上都要破发了 还顺便把半导体带崩了，今天全球都很惨The Kobeissi Letter@KobeissiLetterBREAKING: Anthropic stock, $ANT, extends losses to -10% in premarket trading, now down -25% from its post-IPO high. The stock is now 5% away from its IPO price of $83/share.🔗 View Quoted Twe…"
+        },
         {
           "id": "c54033fa72b399b5cdc30dfd9123a17c38a36d4a",
           "site_id": "featuredrss",
@@ -201,6 +234,17 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499049&idx=1&sn=0f4d06a3be471004da73546df09d2e4b",
           "published_at": "2026-11-20T05:08:00Z",
           "summary": "Gemini 4 Carbon/Neon我爱了。"
+        },
+        {
+          "id": "166a8db14def946952911010fdf9dfdc6beb389d",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "史上最短Gemini 4 Carbon使用和避雷教程！",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513977&idx=1&sn=0e09bcc6595d8e4433d137200aa0eb76",
+          "published_at": "2026-11-20T03:22:00Z",
+          "summary": "卡尔的AI沃茨 2026-11-20 11:22 新西兰 史上最短系列第10期！今天盘Gemini4全系列模型避雷，用2个提示语把Antigravity从垃圾框架救回来。 先说系列， 1️⃣ Hydrogen对标隔壁Claude Haiku，GPT Luna，速度能到175-200tokens每秒，价格低，写作文风拉爆gpt九条街。 2️⃣新发的Neon相当Opus5.5和6.2 Sol，做代码动画，动效或者UI都能追上Opus5.5，还带原生听觉。目前问题是缓存做太烂，实际能用额度低，好就好在平时回答不会像gpt那样说天书，拒答概率也低。 3️⃣ 比较…"
         },
         {
           "id": "3fd538c46c82ef3a9d4a5704d41e6862069c0c6f",
@@ -222,35 +266,13 @@
           "title": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊",
           "url": "https://x.com/op7418/status/2123522128180027723",
           "published_at": "2026-11-19T21:01:43Z",
-          "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬40🔄5❤️60👀…"
-        },
-        {
-          "id": "085fa87715ddc32b218a57d305cbb96cd82e2a7b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "点击 $ANT 可以看股票详情",
-          "url": "https://x.com/op7418/status/2123435564099834183",
-          "published_at": "2026-11-19T15:17:44Z",
-          "summary": "点击 $ANT 可以看股票详情💬1🔄0❤️4👀3323📊1⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "202495f231de8565c8a075169855e89cee7aa784",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Anthropic 正式在纳斯达克敲钟上市了",
-          "url": "https://x.com/op7418/status/2123434343947534712",
-          "published_at": "2026-11-19T15:12:53Z",
-          "summary": "Anthropic 正式在纳斯达克敲钟上市了Your browser does not support the video tag.🔗 View on Twitter💬35🔄4❤️63👀15298📊35⚡ Powered by xgo.ing"
+          "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬48🔄6❤️75👀…"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 3,
+      "total_items": 7,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -258,6 +280,72 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "d736c85a9b19d988e00c72bf7d322368c74585ec",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Distillation can reproduce powerful AI capabilities without the safeguards built around them.\n\nWe’re...",
+          "url": "https://x.com/OpenAI/status/2123862344422088794",
+          "published_at": "2026-11-20T19:33:37Z",
+          "summary": "Distillation can reproduce powerful AI capabilities without the safeguards built around them. We’re sharing new research on our work to combat distillation of our models, how these capabilities transfer, and how we detect and disrupt coordinated attempts. These findings are helpi…"
+        },
+        {
+          "id": "3c4ad7522fa98ff6bfc62adbe4eac10add359961",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their busin...",
+          "url": "https://x.com/OpenAI/status/2123861461877588180",
+          "published_at": "2026-11-20T19:30:06Z",
+          "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬1🔄0❤️24👀14507📊5⚡ Powered by xgo.ing"
+        },
+        {
+          "id": "142625c5d3c0dbbf85a00fa3df89d6dc7e9f6477",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "MedChemBench is a new benchmark for AI reasoning in medicinal chemistry.\n\nIt shows the progress our ...",
+          "url": "https://x.com/OpenAI/status/2123856316187975756",
+          "published_at": "2026-11-20T19:09:39Z",
+          "summary": "MedChemBench is a new benchmark for AI reasoning in medicinal chemistry. It shows the progress our frontier models have made in their ability to help scientists use AI to identify promising drug candidates. openai.com/index/introduc…Your browser does not support the video tag.🔗 V…"
+        },
+        {
+          "id": "bbc224cd598615e64f5204bfc3909fdccd2dd296",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google AI(@GoogleAI)",
+          "region": "global",
+          "title": "We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks:\n\n— Gemini 4 Neon, our newest...",
+          "url": "https://x.com/GoogleAI/status/2123828467124851025",
+          "published_at": "2026-11-20T17:19:00Z",
+          "summary": "We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks: — Gemini 4 Neon, our newest model that brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows — Gemini 4 Hydrogen, ou…"
+        },
+        {
+          "id": "3bf265403067ac4a832211898f368d4f761a05bf",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "GIFs are now available to all Google AI subscribers and free of charge in the U.S., Japan, Korea, Au...",
+          "url": "https://x.com/GeminiApp/status/2123813123924877815",
+          "published_at": "2026-11-20T16:18:01Z",
+          "summary": "GIFs are now available to all Google AI subscribers and free of charge in the U.S., Japan, Korea, Australia, Canada, U.K., Germany, and France. Get started by prompting in the main chat or by selecting the image or video tool. Then, choose GIF in the format picker and describe wh…"
+        },
+        {
+          "id": "2a790a0bab40ee53e4c518c86c6dc85bb7fcea7c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Google Gemini(@GeminiApp)",
+          "region": "global",
+          "title": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one.\n\nFrom looping photo effec...",
+          "url": "https://x.com/GeminiApp/status/2123813017855103449",
+          "published_at": "2026-11-20T16:17:36Z",
+          "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬121🔄133❤️1754👀1345…"
+        },
         {
           "id": "5f03945224c7bc97c945d48b799ae8d313e124bd",
           "site_id": "featuredrss",
@@ -268,33 +356,110 @@
           "url": "https://x.com/GeminiApp/status/2123560288670871751",
           "published_at": "2026-11-19T23:33:21Z",
           "summary": "Let Tasks in Gemini tackle your to-do list. At our next Gemini Discord event, a member of our team will demo how Tasks in Gemini can help you tackle big projects, ongoing workflows, and everyday chores, all in the background and under your direction. 👉 Join the Discord to watch l…"
-        },
-        {
-          "id": "3496867b09c77adb049d14d02512977a3f4bc009",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in ...",
-          "url": "https://x.com/GeminiApp/status/2123513377268109331",
-          "published_at": "2026-11-19T20:26:56Z",
-          "summary": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac. Download the Gemini app for Mac at gemini.google/mac and learn more about computer use in our blog: goo.gle/GeminiComputer…💬10🔄5❤️107👀24366📊24⚡ Powered by x…"
-        },
-        {
-          "id": "8cdb6c767e12b248dc1bb66ccafbcdffaaca7f35",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, a...",
-          "url": "https://x.com/GeminiApp/status/2123513203745538423",
-          "published_at": "2026-11-19T20:26:15Z",
-          "summary": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours. Watch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.💬177…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "d736c85a9b19d988e00c72bf7d322368c74585ec",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Distillation can reproduce powerful AI capabilities without the safeguards built around them.\n\nWe’re...",
+      "url": "https://x.com/OpenAI/status/2123862344422088794",
+      "published_at": "2026-11-20T19:33:37Z",
+      "summary": "Distillation can reproduce powerful AI capabilities without the safeguards built around them. We’re sharing new research on our work to combat distillation of our models, how these capabilities transfer, and how we detect and disrupt coordinated attempts. These findings are helpi…"
+    },
+    {
+      "id": "3c4ad7522fa98ff6bfc62adbe4eac10add359961",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their busin...",
+      "url": "https://x.com/OpenAI/status/2123861461877588180",
+      "published_at": "2026-11-20T19:30:06Z",
+      "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬1🔄0❤️24👀14507📊5⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "142625c5d3c0dbbf85a00fa3df89d6dc7e9f6477",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "MedChemBench is a new benchmark for AI reasoning in medicinal chemistry.\n\nIt shows the progress our ...",
+      "url": "https://x.com/OpenAI/status/2123856316187975756",
+      "published_at": "2026-11-20T19:09:39Z",
+      "summary": "MedChemBench is a new benchmark for AI reasoning in medicinal chemistry. It shows the progress our frontier models have made in their ability to help scientists use AI to identify promising drug candidates. openai.com/index/introduc…Your browser does not support the video tag.🔗 V…"
+    },
+    {
+      "id": "bbc224cd598615e64f5204bfc3909fdccd2dd296",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google AI(@GoogleAI)",
+      "region": "global",
+      "title": "We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks:\n\n— Gemini 4 Neon, our newest...",
+      "url": "https://x.com/GoogleAI/status/2123828467124851025",
+      "published_at": "2026-11-20T17:19:00Z",
+      "summary": "We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks: — Gemini 4 Neon, our newest model that brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows — Gemini 4 Hydrogen, ou…"
+    },
+    {
+      "id": "bcc6754c1b22af3e871205227710ee191c7698e2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "他发了个 PDF https://t.co/E0ao54kVCO",
+      "url": "https://x.com/op7418/status/2123825106371883048",
+      "published_at": "2026-11-20T17:05:38Z",
+      "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀1209📊2⚡ Powered by xgo.ing"
+    },
+    {
+      "id": "8e119f44ee2386fe51dbe4c33c415b295567d74b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anthropic 的一个数学家说他证明了黎曼猜想\n\n这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题",
+      "url": "https://x.com/op7418/status/2123823642991907109",
+      "published_at": "2026-11-20T16:59:49Z",
+      "summary": "Anthropic 的一个数学家说他证明了黎曼猜想 这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题Scientific American@sciamBREAKING: A mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, the most notorious open problem in all of math sciam.com/article/anthro…🔗 View Quoted T…"
+    },
+    {
+      "id": "3bf265403067ac4a832211898f368d4f761a05bf",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "GIFs are now available to all Google AI subscribers and free of charge in the U.S., Japan, Korea, Au...",
+      "url": "https://x.com/GeminiApp/status/2123813123924877815",
+      "published_at": "2026-11-20T16:18:01Z",
+      "summary": "GIFs are now available to all Google AI subscribers and free of charge in the U.S., Japan, Korea, Australia, Canada, U.K., Germany, and France. Get started by prompting in the main chat or by selecting the image or video tool. Then, choose GIF in the format picker and describe wh…"
+    },
+    {
+      "id": "2a790a0bab40ee53e4c518c86c6dc85bb7fcea7c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Google Gemini(@GeminiApp)",
+      "region": "global",
+      "title": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one.\n\nFrom looping photo effec...",
+      "url": "https://x.com/GeminiApp/status/2123813017855103449",
+      "published_at": "2026-11-20T16:17:36Z",
+      "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬121🔄133❤️1754👀1345…"
+    },
+    {
+      "id": "7351fb6c171c7474042309cd7c3f0eb48c0bfebd",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Anthropic 这跌得有点离谱，盘前跌到 87 美元了，马上都要破发了\n\n还顺便把半导体带崩了，今天全球都很惨",
+      "url": "https://x.com/op7418/status/2123760687877083240",
+      "published_at": "2026-11-20T12:49:40Z",
+      "summary": "Anthropic 这跌得有点离谱，盘前跌到 87 美元了，马上都要破发了 还顺便把半导体带崩了，今天全球都很惨The Kobeissi Letter@KobeissiLetterBREAKING: Anthropic stock, $ANT, extends losses to -10% in premarket trading, now down -25% from its post-IPO high. The stock is now 5% away from its IPO price of $83/share.🔗 View Quoted Twe…"
+    },
     {
       "id": "c54033fa72b399b5cdc30dfd9123a17c38a36d4a",
       "site_id": "featuredrss",
@@ -305,6 +470,17 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499049&idx=1&sn=0f4d06a3be471004da73546df09d2e4b",
       "published_at": "2026-11-20T05:08:00Z",
       "summary": "Gemini 4 Carbon/Neon我爱了。"
+    },
+    {
+      "id": "166a8db14def946952911010fdf9dfdc6beb389d",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "史上最短Gemini 4 Carbon使用和避雷教程！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513977&idx=1&sn=0e09bcc6595d8e4433d137200aa0eb76",
+      "published_at": "2026-11-20T03:22:00Z",
+      "summary": "卡尔的AI沃茨 2026-11-20 11:22 新西兰 史上最短系列第10期！今天盘Gemini4全系列模型避雷，用2个提示语把Antigravity从垃圾框架救回来。 先说系列， 1️⃣ Hydrogen对标隔壁Claude Haiku，GPT Luna，速度能到175-200tokens每秒，价格低，写作文风拉爆gpt九条街。 2️⃣新发的Neon相当Opus5.5和6.2 Sol，做代码动画，动效或者UI都能追上Opus5.5，还带原生听觉。目前问题是缓存做太烂，实际能用额度低，好就好在平时回答不会像gpt那样说天书，拒答概率也低。 3️⃣ 比较…"
     },
     {
       "id": "3fd538c46c82ef3a9d4a5704d41e6862069c0c6f",
@@ -337,51 +513,7 @@
       "title": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊",
       "url": "https://x.com/op7418/status/2123522128180027723",
       "published_at": "2026-11-19T21:01:43Z",
-      "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬40🔄5❤️60👀…"
-    },
-    {
-      "id": "3496867b09c77adb049d14d02512977a3f4bc009",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in ...",
-      "url": "https://x.com/GeminiApp/status/2123513377268109331",
-      "published_at": "2026-11-19T20:26:56Z",
-      "summary": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac. Download the Gemini app for Mac at gemini.google/mac and learn more about computer use in our blog: goo.gle/GeminiComputer…💬10🔄5❤️107👀24366📊24⚡ Powered by x…"
-    },
-    {
-      "id": "8cdb6c767e12b248dc1bb66ccafbcdffaaca7f35",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, a...",
-      "url": "https://x.com/GeminiApp/status/2123513203745538423",
-      "published_at": "2026-11-19T20:26:15Z",
-      "summary": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours. Watch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.💬177…"
-    },
-    {
-      "id": "085fa87715ddc32b218a57d305cbb96cd82e2a7b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "点击 $ANT 可以看股票详情",
-      "url": "https://x.com/op7418/status/2123435564099834183",
-      "published_at": "2026-11-19T15:17:44Z",
-      "summary": "点击 $ANT 可以看股票详情💬1🔄0❤️4👀3323📊1⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "202495f231de8565c8a075169855e89cee7aa784",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Anthropic 正式在纳斯达克敲钟上市了",
-      "url": "https://x.com/op7418/status/2123434343947534712",
-      "published_at": "2026-11-19T15:12:53Z",
-      "summary": "Anthropic 正式在纳斯达克敲钟上市了Your browser does not support the video tag.🔗 View on Twitter💬35🔄4❤️63👀15298📊35⚡ Powered by xgo.ing"
+      "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬48🔄6❤️75👀…"
     }
   ]
 }
