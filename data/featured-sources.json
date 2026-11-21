@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T20:36:56.774120Z",
+  "generated_at": "2026-11-21T01:54:38.994210Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 12,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 352,
+      "duration_ms": 676,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 201,
-      "duration_ms": 101,
+      "duration_ms": 96,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1530,
+      "duration_ms": 1150,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1276,
+      "duration_ms": 932,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1368,
+      "duration_ms": 1175,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 302,
+      "duration_ms": 857,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1221,
+      "duration_ms": 626,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 13,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2003,
+      "duration_ms": 2225,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1736,
+      "duration_ms": 5399,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,7 +184,7 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 7,
+      "total_items": 5,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
@@ -200,7 +200,7 @@
           "title": "他发了个 PDF https://t.co/E0ao54kVCO",
           "url": "https://x.com/op7418/status/2123825106371883048",
           "published_at": "2026-11-20T17:05:38Z",
-          "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀1209📊2⚡ Powered by xgo.ing"
+          "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀1978📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "8e119f44ee2386fe51dbe4c33c415b295567d74b",
@@ -245,28 +245,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513977&idx=1&sn=0e09bcc6595d8e4433d137200aa0eb76",
           "published_at": "2026-11-20T03:22:00Z",
           "summary": "卡尔的AI沃茨 2026-11-20 11:22 新西兰 史上最短系列第10期！今天盘Gemini4全系列模型避雷，用2个提示语把Antigravity从垃圾框架救回来。 先说系列， 1️⃣ Hydrogen对标隔壁Claude Haiku，GPT Luna，速度能到175-200tokens每秒，价格低，写作文风拉爆gpt九条街。 2️⃣新发的Neon相当Opus5.5和6.2 Sol，做代码动画，动效或者UI都能追上Opus5.5，还带原生听觉。目前问题是缓存做太烂，实际能用额度低，好就好在平时回答不会像gpt那样说天书，拒答概率也低。 3️⃣ 比较…"
-        },
-        {
-          "id": "3fd538c46c82ef3a9d4a5704d41e6862069c0c6f",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "DeepSeek Harness发布100天了，想跟你分享这13个好用的插件玩法。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688614&idx=1&sn=00b774ecbc685ea6696de895ddb06500",
-          "published_at": "2026-11-19T23:56:00Z",
-          "summary": "生态从玩具开始"
-        },
-        {
-          "id": "a227e40569994fe92375fb2bfc15be16b79ebc43",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊",
-          "url": "https://x.com/op7418/status/2123522128180027723",
-          "published_at": "2026-11-19T21:01:43Z",
-          "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬48🔄6❤️75👀…"
         }
       ]
     },
@@ -280,6 +258,17 @@
         "rsshub://bilibili/user/video/385670211"
       ],
       "items": [
+        {
+          "id": "d8918c8ad64c7c9e31b8beba6a18c9b81059b34e",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "OpenAI(@OpenAI)",
+          "region": "global",
+          "title": "How AI is helping scientists uncover new leads for understanding and treating neurodegenerative dise...",
+          "url": "https://x.com/OpenAI/status/2123899406550528422",
+          "published_at": "2026-11-20T22:00:53Z",
+          "summary": "How AI is helping scientists uncover new leads for understanding and treating neurodegenerative diseases—and the brain research behind our collaboration with @perturbai_tx and @scrippsresearch:Your browser does not support the video tag.🔗 View on TwitterOpenAI@OpenAIGPT-Rosalind…"
+        },
         {
           "id": "d736c85a9b19d988e00c72bf7d322368c74585ec",
           "site_id": "featuredrss",
@@ -300,7 +289,7 @@
           "title": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their busin...",
           "url": "https://x.com/OpenAI/status/2123861461877588180",
           "published_at": "2026-11-20T19:30:06Z",
-          "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬1🔄0❤️24👀14507📊5⚡ Powered by xgo.ing"
+          "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬4🔄0❤️37👀30988📊9⚡ Powered by xgo.ing"
         },
         {
           "id": "142625c5d3c0dbbf85a00fa3df89d6dc7e9f6477",
@@ -344,23 +333,23 @@
           "title": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one.\n\nFrom looping photo effec...",
           "url": "https://x.com/GeminiApp/status/2123813017855103449",
           "published_at": "2026-11-20T16:17:36Z",
-          "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬121🔄133❤️1754👀1345…"
-        },
-        {
-          "id": "5f03945224c7bc97c945d48b799ae8d313e124bd",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google Gemini(@GeminiApp)",
-          "region": "global",
-          "title": "Let Tasks in Gemini tackle your to-do list.\n\nAt our next Gemini Discord event, a member of our team ...",
-          "url": "https://x.com/GeminiApp/status/2123560288670871751",
-          "published_at": "2026-11-19T23:33:21Z",
-          "summary": "Let Tasks in Gemini tackle your to-do list. At our next Gemini Discord event, a member of our team will demo how Tasks in Gemini can help you tackle big projects, ongoing workflows, and everyday chores, all in the background and under your direction. 👉 Join the Discord to watch l…"
+          "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬155🔄192❤️2374👀2476…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "d8918c8ad64c7c9e31b8beba6a18c9b81059b34e",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "OpenAI(@OpenAI)",
+      "region": "global",
+      "title": "How AI is helping scientists uncover new leads for understanding and treating neurodegenerative dise...",
+      "url": "https://x.com/OpenAI/status/2123899406550528422",
+      "published_at": "2026-11-20T22:00:53Z",
+      "summary": "How AI is helping scientists uncover new leads for understanding and treating neurodegenerative diseases—and the brain research behind our collaboration with @perturbai_tx and @scrippsresearch:Your browser does not support the video tag.🔗 View on TwitterOpenAI@OpenAIGPT-Rosalind…"
+    },
     {
       "id": "d736c85a9b19d988e00c72bf7d322368c74585ec",
       "site_id": "featuredrss",
@@ -381,7 +370,7 @@
       "title": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their busin...",
       "url": "https://x.com/OpenAI/status/2123861461877588180",
       "published_at": "2026-11-20T19:30:06Z",
-      "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬1🔄0❤️24👀14507📊5⚡ Powered by xgo.ing"
+      "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬4🔄0❤️37👀30988📊9⚡ Powered by xgo.ing"
     },
     {
       "id": "142625c5d3c0dbbf85a00fa3df89d6dc7e9f6477",
@@ -414,7 +403,7 @@
       "title": "他发了个 PDF https://t.co/E0ao54kVCO",
       "url": "https://x.com/op7418/status/2123825106371883048",
       "published_at": "2026-11-20T17:05:38Z",
-      "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀1209📊2⚡ Powered by xgo.ing"
+      "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀1978📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "8e119f44ee2386fe51dbe4c33c415b295567d74b",
@@ -447,7 +436,7 @@
       "title": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one.\n\nFrom looping photo effec...",
       "url": "https://x.com/GeminiApp/status/2123813017855103449",
       "published_at": "2026-11-20T16:17:36Z",
-      "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬121🔄133❤️1754👀1345…"
+      "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬155🔄192❤️2374👀2476…"
     },
     {
       "id": "7351fb6c171c7474042309cd7c3f0eb48c0bfebd",
@@ -481,39 +470,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513977&idx=1&sn=0e09bcc6595d8e4433d137200aa0eb76",
       "published_at": "2026-11-20T03:22:00Z",
       "summary": "卡尔的AI沃茨 2026-11-20 11:22 新西兰 史上最短系列第10期！今天盘Gemini4全系列模型避雷，用2个提示语把Antigravity从垃圾框架救回来。 先说系列， 1️⃣ Hydrogen对标隔壁Claude Haiku，GPT Luna，速度能到175-200tokens每秒，价格低，写作文风拉爆gpt九条街。 2️⃣新发的Neon相当Opus5.5和6.2 Sol，做代码动画，动效或者UI都能追上Opus5.5，还带原生听觉。目前问题是缓存做太烂，实际能用额度低，好就好在平时回答不会像gpt那样说天书，拒答概率也低。 3️⃣ 比较…"
-    },
-    {
-      "id": "3fd538c46c82ef3a9d4a5704d41e6862069c0c6f",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "DeepSeek Harness发布100天了，想跟你分享这13个好用的插件玩法。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688614&idx=1&sn=00b774ecbc685ea6696de895ddb06500",
-      "published_at": "2026-11-19T23:56:00Z",
-      "summary": "生态从玩具开始"
-    },
-    {
-      "id": "5f03945224c7bc97c945d48b799ae8d313e124bd",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google Gemini(@GeminiApp)",
-      "region": "global",
-      "title": "Let Tasks in Gemini tackle your to-do list.\n\nAt our next Gemini Discord event, a member of our team ...",
-      "url": "https://x.com/GeminiApp/status/2123560288670871751",
-      "published_at": "2026-11-19T23:33:21Z",
-      "summary": "Let Tasks in Gemini tackle your to-do list. At our next Gemini Discord event, a member of our team will demo how Tasks in Gemini can help you tackle big projects, ongoing workflows, and everyday chores, all in the background and under your direction. 👉 Join the Discord to watch l…"
-    },
-    {
-      "id": "a227e40569994fe92375fb2bfc15be16b79ebc43",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊",
-      "url": "https://x.com/op7418/status/2123522128180027723",
-      "published_at": "2026-11-19T21:01:43Z",
-      "summary": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊Logan Kilpatrick@OfficialLoganKIntroducing Genie 4 in the Gemini API + @GoogleAIStudio, our first world model for developers to build with and create new world model experiences 🔮 Try it out:ai.studio/genieq🔗 View Quoted Tweet💬48🔄6❤️75👀…"
     }
   ]
 }
