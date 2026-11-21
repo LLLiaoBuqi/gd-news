@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T01:54:38.994210Z",
+  "generated_at": "2026-11-21T09:02:32.602621Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 15,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 676,
+      "duration_ms": 367,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 201,
-      "duration_ms": 96,
+      "duration_ms": 106,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1150,
+      "duration_ms": 875,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 932,
+      "duration_ms": 782,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1175,
+      "duration_ms": 872,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 857,
+      "duration_ms": 626,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 626,
+      "duration_ms": 655,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 58,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2225,
+      "duration_ms": 1961,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 5399,
+      "duration_ms": 1304,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,68 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 5,
+      "total_items": 8,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "c81027fba300a81eb5c53d4a6deb46767d8fc877",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "最近从  Fable 5.2 开始，到 GPT-6.2 Astra，再到最新的 Gemini Neon\n\n感觉 AI 做游戏已经是 Vibe Coding 之后另一个非常稳定且很有前景的用例了。\n\n刚...",
+          "url": "https://x.com/op7418/status/2124041210805600332",
+          "published_at": "2026-11-21T07:24:22Z",
+          "summary": "最近从 Fable 5.2 开始，到 GPT-6.2 Astra，再到最新的 Gemini Neon 感觉 AI 做游戏已经是 Vibe Coding 之后另一个非常稳定且很有前景的用例了。 刚好我朋友一直在做 AI 游戏工具 Yoroll，而且他们平台现在还有 4 折的 Fable 5.2 可以用。 他们这个产品内置了非常多 AI 做游戏需要的工具： 像 3D 素材模型、角色动作片段、音乐和音效都可以直接调用，不用每次都让模型重新生成，大幅减少了 token 消耗。 游戏需要在不同客户端和平台做适配，他们平台内置了 HTML5、Godot、Unity…"
+        },
+        {
+          "id": "e7498e944acd74691a3d4196a63beff1fe322460",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "重置：https://t.co/47TXjoNhbP",
+          "url": "https://x.com/op7418/status/2123965997875114224",
+          "published_at": "2026-11-21T02:25:29Z",
+          "summary": "重置：x.com/_mohansolo/sta…Varun Mohan@_mohansoloWe’re rolling out a change to increase cache hit rate on Neon by around 4% on Antigravity by massive increasing the cache pool size. This will increase what you can get done in quota by at least 20%. Will issue a reset after it’s done…"
+        },
+        {
+          "id": "d7d043438fbe33ad0a5685df114a0e5478315eba",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "黑五优惠：https://t.co/hOQYBlUBLF",
+          "url": "https://x.com/op7418/status/2123965959526621248",
+          "published_at": "2026-11-21T02:25:20Z",
+          "summary": "黑五优惠：x.com/vikaskansalHQ/…Vikas Kansal@vikaskansalHQWe’re kicking off our Black Friday deals today with early access to our best deals for current AI and storage subscribers: Get up to 50 percent off Google AI Plus and annual Pro plans starting today through 11/26, so you can try…"
+        },
+        {
+          "id": "69ed4859660d9b825e6a9508fc339087ba6d7119",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "谷歌现在真争气呀！\n\n他们推出了黑五最高 50% 的折扣和 Antigravity 的重置功能，这下可以爽用了 Neon 了。\n\n首先是他们启动了黑色星期五的优惠活动：\n\n从今天到 11 月 26 号...",
+          "url": "https://x.com/op7418/status/2123965901787873382",
+          "published_at": "2026-11-21T02:25:07Z",
+          "summary": "谷歌现在真争气呀！ 他们推出了黑五最高 50% 的折扣和 Antigravity 的重置功能，这下可以爽用了 Neon 了。 首先是他们启动了黑色星期五的优惠活动： 从今天到 11 月 26 号，谷歌的 Plus 和年度 Pro 计划最高会有 50% 的优惠。Ultra 没有，希望他们后面给 Ultra 也上一上。另外他说新用户在黑五估计还有别的优惠。 另外，他们通过大幅增加缓存池的大小，在 Antigravity 上将原有的缓存命中率提高了 4%。 他们说这个修复会让额度能完成的工作量增加 20%，这个还是相当可以的。 昨天晚上进行了一次重置。 后面的…"
+        },
+        {
+          "id": "396c1751c6ab7e930eac8d22fbdacefef87166ad",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好\n\n在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，...",
+          "url": "https://x.com/op7418/status/2123959051126177841",
+          "published_at": "2026-11-21T01:57:53Z",
+          "summary": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好 在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，结果两个都处理得不错。 让 Fable 5.2 重新给它们打分的话，Opus 5.5 打了 9 分，Gemini 是 8.5 分。 感觉在复杂任务上的处理和一些工作上，真的可以平替 Opus 5.5💬41🔄1❤️29👀9796📊37⚡ Powered by xgo.ing"
+        },
         {
           "id": "bcc6754c1b22af3e871205227710ee191c7698e2",
           "site_id": "featuredrss",
@@ -200,7 +255,7 @@
           "title": "他发了个 PDF https://t.co/E0ao54kVCO",
           "url": "https://x.com/op7418/status/2123825106371883048",
           "published_at": "2026-11-20T17:05:38Z",
-          "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀1978📊2⚡ Powered by xgo.ing"
+          "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀2661📊2⚡ Powered by xgo.ing"
         },
         {
           "id": "8e119f44ee2386fe51dbe4c33c415b295567d74b",
@@ -223,28 +278,6 @@
           "url": "https://x.com/op7418/status/2123760687877083240",
           "published_at": "2026-11-20T12:49:40Z",
           "summary": "Anthropic 这跌得有点离谱，盘前跌到 87 美元了，马上都要破发了 还顺便把半导体带崩了，今天全球都很惨The Kobeissi Letter@KobeissiLetterBREAKING: Anthropic stock, $ANT, extends losses to -10% in premarket trading, now down -25% from its post-IPO high. The stock is now 5% away from its IPO price of $83/share.🔗 View Quoted Twe…"
-        },
-        {
-          "id": "c54033fa72b399b5cdc30dfd9123a17c38a36d4a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "让AI给口播配画面，我做了一个可无限复用的开源Skill（附6模型实测）！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499049&idx=1&sn=0f4d06a3be471004da73546df09d2e4b",
-          "published_at": "2026-11-20T05:08:00Z",
-          "summary": "Gemini 4 Carbon/Neon我爱了。"
-        },
-        {
-          "id": "166a8db14def946952911010fdf9dfdc6beb389d",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "史上最短Gemini 4 Carbon使用和避雷教程！",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513977&idx=1&sn=0e09bcc6595d8e4433d137200aa0eb76",
-          "published_at": "2026-11-20T03:22:00Z",
-          "summary": "卡尔的AI沃茨 2026-11-20 11:22 新西兰 史上最短系列第10期！今天盘Gemini4全系列模型避雷，用2个提示语把Antigravity从垃圾框架救回来。 先说系列， 1️⃣ Hydrogen对标隔壁Claude Haiku，GPT Luna，速度能到175-200tokens每秒，价格低，写作文风拉爆gpt九条街。 2️⃣新发的Neon相当Opus5.5和6.2 Sol，做代码动画，动效或者UI都能追上Opus5.5，还带原生听觉。目前问题是缓存做太烂，实际能用额度低，好就好在平时回答不会像gpt那样说天书，拒答概率也低。 3️⃣ 比较…"
         }
       ]
     },
@@ -289,7 +322,7 @@
           "title": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their busin...",
           "url": "https://x.com/OpenAI/status/2123861461877588180",
           "published_at": "2026-11-20T19:30:06Z",
-          "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬4🔄0❤️37👀30988📊9⚡ Powered by xgo.ing"
+          "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬4🔄1❤️46👀39508📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "142625c5d3c0dbbf85a00fa3df89d6dc7e9f6477",
@@ -333,12 +366,67 @@
           "title": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one.\n\nFrom looping photo effec...",
           "url": "https://x.com/GeminiApp/status/2123813017855103449",
           "published_at": "2026-11-20T16:17:36Z",
-          "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬155🔄192❤️2374👀2476…"
+          "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬170🔄233❤️2704👀2922…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "c81027fba300a81eb5c53d4a6deb46767d8fc877",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "最近从  Fable 5.2 开始，到 GPT-6.2 Astra，再到最新的 Gemini Neon\n\n感觉 AI 做游戏已经是 Vibe Coding 之后另一个非常稳定且很有前景的用例了。\n\n刚...",
+      "url": "https://x.com/op7418/status/2124041210805600332",
+      "published_at": "2026-11-21T07:24:22Z",
+      "summary": "最近从 Fable 5.2 开始，到 GPT-6.2 Astra，再到最新的 Gemini Neon 感觉 AI 做游戏已经是 Vibe Coding 之后另一个非常稳定且很有前景的用例了。 刚好我朋友一直在做 AI 游戏工具 Yoroll，而且他们平台现在还有 4 折的 Fable 5.2 可以用。 他们这个产品内置了非常多 AI 做游戏需要的工具： 像 3D 素材模型、角色动作片段、音乐和音效都可以直接调用，不用每次都让模型重新生成，大幅减少了 token 消耗。 游戏需要在不同客户端和平台做适配，他们平台内置了 HTML5、Godot、Unity…"
+    },
+    {
+      "id": "e7498e944acd74691a3d4196a63beff1fe322460",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "重置：https://t.co/47TXjoNhbP",
+      "url": "https://x.com/op7418/status/2123965997875114224",
+      "published_at": "2026-11-21T02:25:29Z",
+      "summary": "重置：x.com/_mohansolo/sta…Varun Mohan@_mohansoloWe’re rolling out a change to increase cache hit rate on Neon by around 4% on Antigravity by massive increasing the cache pool size. This will increase what you can get done in quota by at least 20%. Will issue a reset after it’s done…"
+    },
+    {
+      "id": "d7d043438fbe33ad0a5685df114a0e5478315eba",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "黑五优惠：https://t.co/hOQYBlUBLF",
+      "url": "https://x.com/op7418/status/2123965959526621248",
+      "published_at": "2026-11-21T02:25:20Z",
+      "summary": "黑五优惠：x.com/vikaskansalHQ/…Vikas Kansal@vikaskansalHQWe’re kicking off our Black Friday deals today with early access to our best deals for current AI and storage subscribers: Get up to 50 percent off Google AI Plus and annual Pro plans starting today through 11/26, so you can try…"
+    },
+    {
+      "id": "69ed4859660d9b825e6a9508fc339087ba6d7119",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "谷歌现在真争气呀！\n\n他们推出了黑五最高 50% 的折扣和 Antigravity 的重置功能，这下可以爽用了 Neon 了。\n\n首先是他们启动了黑色星期五的优惠活动：\n\n从今天到 11 月 26 号...",
+      "url": "https://x.com/op7418/status/2123965901787873382",
+      "published_at": "2026-11-21T02:25:07Z",
+      "summary": "谷歌现在真争气呀！ 他们推出了黑五最高 50% 的折扣和 Antigravity 的重置功能，这下可以爽用了 Neon 了。 首先是他们启动了黑色星期五的优惠活动： 从今天到 11 月 26 号，谷歌的 Plus 和年度 Pro 计划最高会有 50% 的优惠。Ultra 没有，希望他们后面给 Ultra 也上一上。另外他说新用户在黑五估计还有别的优惠。 另外，他们通过大幅增加缓存池的大小，在 Antigravity 上将原有的缓存命中率提高了 4%。 他们说这个修复会让额度能完成的工作量增加 20%，这个还是相当可以的。 昨天晚上进行了一次重置。 后面的…"
+    },
+    {
+      "id": "396c1751c6ab7e930eac8d22fbdacefef87166ad",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好\n\n在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，...",
+      "url": "https://x.com/op7418/status/2123959051126177841",
+      "published_at": "2026-11-21T01:57:53Z",
+      "summary": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好 在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，结果两个都处理得不错。 让 Fable 5.2 重新给它们打分的话，Opus 5.5 打了 9 分，Gemini 是 8.5 分。 感觉在复杂任务上的处理和一些工作上，真的可以平替 Opus 5.5💬41🔄1❤️29👀9796📊37⚡ Powered by xgo.ing"
+    },
     {
       "id": "d8918c8ad64c7c9e31b8beba6a18c9b81059b34e",
       "site_id": "featuredrss",
@@ -370,7 +458,7 @@
       "title": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their busin...",
       "url": "https://x.com/OpenAI/status/2123861461877588180",
       "published_at": "2026-11-20T19:30:06Z",
-      "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬4🔄0❤️37👀30988📊9⚡ Powered by xgo.ing"
+      "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬4🔄1❤️46👀39508📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "142625c5d3c0dbbf85a00fa3df89d6dc7e9f6477",
@@ -403,7 +491,7 @@
       "title": "他发了个 PDF https://t.co/E0ao54kVCO",
       "url": "https://x.com/op7418/status/2123825106371883048",
       "published_at": "2026-11-20T17:05:38Z",
-      "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀1978📊2⚡ Powered by xgo.ing"
+      "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀2661📊2⚡ Powered by xgo.ing"
     },
     {
       "id": "8e119f44ee2386fe51dbe4c33c415b295567d74b",
@@ -436,7 +524,7 @@
       "title": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one.\n\nFrom looping photo effec...",
       "url": "https://x.com/GeminiApp/status/2123813017855103449",
       "published_at": "2026-11-20T16:17:36Z",
-      "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬155🔄192❤️2374👀2476…"
+      "summary": "Say hello to GIFs in Gemini. Say goodbye to searching for the perfect one. From looping photo effects to funny memes, create any GIF you can imagine with our latest video model, Gemini Omni 1.2 Flash, for smooth motion and consistent quality across every frame.💬170🔄233❤️2704👀2922…"
     },
     {
       "id": "7351fb6c171c7474042309cd7c3f0eb48c0bfebd",
@@ -448,28 +536,6 @@
       "url": "https://x.com/op7418/status/2123760687877083240",
       "published_at": "2026-11-20T12:49:40Z",
       "summary": "Anthropic 这跌得有点离谱，盘前跌到 87 美元了，马上都要破发了 还顺便把半导体带崩了，今天全球都很惨The Kobeissi Letter@KobeissiLetterBREAKING: Anthropic stock, $ANT, extends losses to -10% in premarket trading, now down -25% from its post-IPO high. The stock is now 5% away from its IPO price of $83/share.🔗 View Quoted Twe…"
-    },
-    {
-      "id": "c54033fa72b399b5cdc30dfd9123a17c38a36d4a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "让AI给口播配画面，我做了一个可无限复用的开源Skill（附6模型实测）！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499049&idx=1&sn=0f4d06a3be471004da73546df09d2e4b",
-      "published_at": "2026-11-20T05:08:00Z",
-      "summary": "Gemini 4 Carbon/Neon我爱了。"
-    },
-    {
-      "id": "166a8db14def946952911010fdf9dfdc6beb389d",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "史上最短Gemini 4 Carbon使用和避雷教程！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247513977&idx=1&sn=0e09bcc6595d8e4433d137200aa0eb76",
-      "published_at": "2026-11-20T03:22:00Z",
-      "summary": "卡尔的AI沃茨 2026-11-20 11:22 新西兰 史上最短系列第10期！今天盘Gemini4全系列模型避雷，用2个提示语把Antigravity从垃圾框架救回来。 先说系列， 1️⃣ Hydrogen对标隔壁Claude Haiku，GPT Luna，速度能到175-200tokens每秒，价格低，写作文风拉爆gpt九条街。 2️⃣新发的Neon相当Opus5.5和6.2 Sol，做代码动画，动效或者UI都能追上Opus5.5，还带原生听觉。目前问题是缓存做太烂，实际能用额度低，好就好在平时回答不会像gpt那样说天书，拒答概率也低。 3️⃣ 比较…"
     }
   ]
 }
