@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T16:52:37.543002Z",
+  "generated_at": "2026-11-21T21:58:17.369274Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 10,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 605,
+      "duration_ms": 361,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 201,
-      "duration_ms": 101,
+      "duration_ms": 143,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1134,
+      "duration_ms": 1011,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 952,
+      "duration_ms": 695,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1220,
+      "duration_ms": 1045,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 553,
+      "duration_ms": 966,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 975,
+      "duration_ms": 612,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 61,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2437,
+      "duration_ms": 2194,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1849,
+      "duration_ms": 1545,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,35 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 10,
+      "total_items": 9,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "6765428096371fd109f0fec20610d6eb7176a715",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "详情：https://t.co/Wz3SW95JeG",
+          "url": "https://x.com/op7418/status/2124191735333233046",
+          "published_at": "2026-11-21T17:22:29Z",
+          "summary": "详情：x.com/leanprover/sta…Lean@leanproverThe Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis. On November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. O…"
+        },
+        {
+          "id": "d1f02d43bb2666ad34271ae0090885b3e29f5a6b",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "歸藏(guizang.ai)(@op7418)",
+          "region": "domestic",
+          "title": "我去！Lean FRO 和 Mathlib 发了个声明证实了 Anthropic 和他的数学家的黎曼猜想证明是正确的。\n\n查了一下为啥这两个机构有资格确认这个事实：\n\nLean FRO，维护和发展 L...",
+          "url": "https://x.com/op7418/status/2124191652793520552",
+          "published_at": "2026-11-21T17:22:10Z",
+          "summary": "我去！Lean FRO 和 Mathlib 发了个声明证实了 Anthropic 和他的数学家的黎曼猜想证明是正确的。 查了一下为啥这两个机构有资格确认这个事实： Lean FRO，维护和发展 Lean 定理证明器的非营利研究组织。 Mathlib Initiative，支持 Mathlib 开源数学库的项目，提供专职编辑、基础设施和社区协调。 所以到目前为止这个证明基本上可信度非常高了，但机器证明完成了，并不等于人类能够读懂它的证明思路💬15🔄0❤️14👀4440📊14⚡ Powered by xgo.ing"
+        },
         {
           "id": "06555d5f62cdd9630b573e2ab2b32114ec211b3a",
           "site_id": "featuredrss",
@@ -200,7 +222,7 @@
           "title": "重置了",
           "url": "https://x.com/op7418/status/2124141370424398140",
           "published_at": "2026-11-21T14:02:22Z",
-          "summary": "重置了歸藏(guizang.ai)@op7418Antigravity 重置了🔗 View Quoted Tweet💬0🔄0❤️1👀1277⚡ Powered by xgo.ing"
+          "summary": "重置了歸藏(guizang.ai)@op7418Antigravity 重置了🔗 View Quoted Tweet💬1🔄0❤️1👀1675📊1⚡ Powered by xgo.ing"
         },
         {
           "id": "ffc9020122922f16797832b12599f0daf321ad5d",
@@ -211,7 +233,7 @@
           "title": "Antigravity 重置了",
           "url": "https://x.com/op7418/status/2124128390391431502",
           "published_at": "2026-11-21T13:10:47Z",
-          "summary": "Antigravity 重置了Varun Mohan@_mohansoloReset everyone’s Gemini quota on Antigravity. The caching improvements have increased the amount you can get done in quota by 22%. Enjoy building with Neon over the weekend!🔗 View Quoted Tweet💬13🔄0❤️12👀6234📊10⚡ Powered by xgo.ing"
+          "summary": "Antigravity 重置了Varun Mohan@_mohansoloReset everyone’s Gemini quota on Antigravity. The caching improvements have increased the amount you can get done in quota by 22%. Enjoy building with Neon over the weekend!🔗 View Quoted Tweet💬14🔄0❤️13👀7475📊11⚡ Powered by xgo.ing"
         },
         {
           "id": "c81027fba300a81eb5c53d4a6deb46767d8fc877",
@@ -266,46 +288,13 @@
           "title": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好\n\n在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，...",
           "url": "https://x.com/op7418/status/2123959051126177841",
           "published_at": "2026-11-21T01:57:53Z",
-          "summary": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好 在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，结果两个都处理得不错。 让 Fable 5.2 重新给它们打分的话，Opus 5.5 打了 9 分，Gemini 是 8.5 分。 感觉在复杂任务上的处理和一些工作上，真的可以平替 Opus 5.5💬52🔄1❤️39👀13329📊47⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "bcc6754c1b22af3e871205227710ee191c7698e2",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "他发了个 PDF https://t.co/E0ao54kVCO",
-          "url": "https://x.com/op7418/status/2123825106371883048",
-          "published_at": "2026-11-20T17:05:38Z",
-          "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀3018📊2⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "8e119f44ee2386fe51dbe4c33c415b295567d74b",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "歸藏(guizang.ai)(@op7418)",
-          "region": "domestic",
-          "title": "Anthropic 的一个数学家说他证明了黎曼猜想\n\n这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题",
-          "url": "https://x.com/op7418/status/2123823642991907109",
-          "published_at": "2026-11-20T16:59:49Z",
-          "summary": "Anthropic 的一个数学家说他证明了黎曼猜想 这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题Scientific American@sciamBREAKING: A mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, the most notorious open problem in all of math sciam.com/article/anthro…🔗 View Quoted T…"
-        },
-        {
-          "id": "5dcf5cf18548c800d808964e276c0754ed5b5e68",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688632&idx=1&sn=c96b0dbafc0987b138d6b221c47650c7",
-          "published_at": "2026-11-20T16:54:00Z",
-          "summary": "25万页的论文"
+          "summary": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好 在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，结果两个都处理得不错。 让 Fable 5.2 重新给它们打分的话，Opus 5.5 打了 9 分，Gemini 是 8.5 分。 感觉在复杂任务上的处理和一些工作上，真的可以平替 Opus 5.5💬57🔄1❤️43👀14059📊52⚡ Powered by xgo.ing"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 5,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
@@ -323,55 +312,33 @@
           "url": "https://x.com/OpenAI/status/2123899406550528422",
           "published_at": "2026-11-20T22:00:53Z",
           "summary": "How AI is helping scientists uncover new leads for understanding and treating neurodegenerative diseases—and the brain research behind our collaboration with @perturbai_tx and @scrippsresearch:Your browser does not support the video tag.🔗 View on TwitterOpenAI@OpenAIGPT-Rosalind…"
-        },
-        {
-          "id": "d736c85a9b19d988e00c72bf7d322368c74585ec",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Distillation can reproduce powerful AI capabilities without the safeguards built around them.\n\nWe’re...",
-          "url": "https://x.com/OpenAI/status/2123862344422088794",
-          "published_at": "2026-11-20T19:33:37Z",
-          "summary": "Distillation can reproduce powerful AI capabilities without the safeguards built around them. We’re sharing new research on our work to combat distillation of our models, how these capabilities transfer, and how we detect and disrupt coordinated attempts. These findings are helpi…"
-        },
-        {
-          "id": "3c4ad7522fa98ff6bfc62adbe4eac10add359961",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their busin...",
-          "url": "https://x.com/OpenAI/status/2123861461877588180",
-          "published_at": "2026-11-20T19:30:06Z",
-          "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬5🔄1❤️52👀44351📊14⚡ Powered by xgo.ing"
-        },
-        {
-          "id": "142625c5d3c0dbbf85a00fa3df89d6dc7e9f6477",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "OpenAI(@OpenAI)",
-          "region": "global",
-          "title": "MedChemBench is a new benchmark for AI reasoning in medicinal chemistry.\n\nIt shows the progress our ...",
-          "url": "https://x.com/OpenAI/status/2123856316187975756",
-          "published_at": "2026-11-20T19:09:39Z",
-          "summary": "MedChemBench is a new benchmark for AI reasoning in medicinal chemistry. It shows the progress our frontier models have made in their ability to help scientists use AI to identify promising drug candidates. openai.com/index/introduc…Your browser does not support the video tag.🔗 V…"
-        },
-        {
-          "id": "bbc224cd598615e64f5204bfc3909fdccd2dd296",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Google AI(@GoogleAI)",
-          "region": "global",
-          "title": "We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks:\n\n— Gemini 4 Neon, our newest...",
-          "url": "https://x.com/GoogleAI/status/2123828467124851025",
-          "published_at": "2026-11-20T17:19:00Z",
-          "summary": "We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks: — Gemini 4 Neon, our newest model that brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows — Gemini 4 Hydrogen, ou…"
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "6765428096371fd109f0fec20610d6eb7176a715",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "详情：https://t.co/Wz3SW95JeG",
+      "url": "https://x.com/op7418/status/2124191735333233046",
+      "published_at": "2026-11-21T17:22:29Z",
+      "summary": "详情：x.com/leanprover/sta…Lean@leanproverThe Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis. On November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. O…"
+    },
+    {
+      "id": "d1f02d43bb2666ad34271ae0090885b3e29f5a6b",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "歸藏(guizang.ai)(@op7418)",
+      "region": "domestic",
+      "title": "我去！Lean FRO 和 Mathlib 发了个声明证实了 Anthropic 和他的数学家的黎曼猜想证明是正确的。\n\n查了一下为啥这两个机构有资格确认这个事实：\n\nLean FRO，维护和发展 L...",
+      "url": "https://x.com/op7418/status/2124191652793520552",
+      "published_at": "2026-11-21T17:22:10Z",
+      "summary": "我去！Lean FRO 和 Mathlib 发了个声明证实了 Anthropic 和他的数学家的黎曼猜想证明是正确的。 查了一下为啥这两个机构有资格确认这个事实： Lean FRO，维护和发展 Lean 定理证明器的非营利研究组织。 Mathlib Initiative，支持 Mathlib 开源数学库的项目，提供专职编辑、基础设施和社区协调。 所以到目前为止这个证明基本上可信度非常高了，但机器证明完成了，并不等于人类能够读懂它的证明思路💬15🔄0❤️14👀4440📊14⚡ Powered by xgo.ing"
+    },
     {
       "id": "06555d5f62cdd9630b573e2ab2b32114ec211b3a",
       "site_id": "featuredrss",
@@ -381,7 +348,7 @@
       "title": "重置了",
       "url": "https://x.com/op7418/status/2124141370424398140",
       "published_at": "2026-11-21T14:02:22Z",
-      "summary": "重置了歸藏(guizang.ai)@op7418Antigravity 重置了🔗 View Quoted Tweet💬0🔄0❤️1👀1277⚡ Powered by xgo.ing"
+      "summary": "重置了歸藏(guizang.ai)@op7418Antigravity 重置了🔗 View Quoted Tweet💬1🔄0❤️1👀1675📊1⚡ Powered by xgo.ing"
     },
     {
       "id": "ffc9020122922f16797832b12599f0daf321ad5d",
@@ -392,7 +359,7 @@
       "title": "Antigravity 重置了",
       "url": "https://x.com/op7418/status/2124128390391431502",
       "published_at": "2026-11-21T13:10:47Z",
-      "summary": "Antigravity 重置了Varun Mohan@_mohansoloReset everyone’s Gemini quota on Antigravity. The caching improvements have increased the amount you can get done in quota by 22%. Enjoy building with Neon over the weekend!🔗 View Quoted Tweet💬13🔄0❤️12👀6234📊10⚡ Powered by xgo.ing"
+      "summary": "Antigravity 重置了Varun Mohan@_mohansoloReset everyone’s Gemini quota on Antigravity. The caching improvements have increased the amount you can get done in quota by 22%. Enjoy building with Neon over the weekend!🔗 View Quoted Tweet💬14🔄0❤️13👀7475📊11⚡ Powered by xgo.ing"
     },
     {
       "id": "c81027fba300a81eb5c53d4a6deb46767d8fc877",
@@ -447,7 +414,7 @@
       "title": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好\n\n在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，...",
       "url": "https://x.com/op7418/status/2123959051126177841",
       "published_at": "2026-11-21T01:57:53Z",
-      "summary": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好 在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，结果两个都处理得不错。 让 Fable 5.2 重新给它们打分的话，Opus 5.5 打了 9 分，Gemini 是 8.5 分。 感觉在复杂任务上的处理和一些工作上，真的可以平替 Opus 5.5💬52🔄1❤️39👀13329📊47⚡ Powered by xgo.ing"
+      "summary": "Gemini 4 Neon 真的不错，即使复杂代码库效果也挺好 在 CodePilot 这个复杂代码库中，让 Fable 5.2 找了 8 个问题，分别让 Opus 5.5 和 Gemini 修复，结果两个都处理得不错。 让 Fable 5.2 重新给它们打分的话，Opus 5.5 打了 9 分，Gemini 是 8.5 分。 感觉在复杂任务上的处理和一些工作上，真的可以平替 Opus 5.5💬57🔄1❤️43👀14059📊52⚡ Powered by xgo.ing"
     },
     {
       "id": "d8918c8ad64c7c9e31b8beba6a18c9b81059b34e",
@@ -459,83 +426,6 @@
       "url": "https://x.com/OpenAI/status/2123899406550528422",
       "published_at": "2026-11-20T22:00:53Z",
       "summary": "How AI is helping scientists uncover new leads for understanding and treating neurodegenerative diseases—and the brain research behind our collaboration with @perturbai_tx and @scrippsresearch:Your browser does not support the video tag.🔗 View on TwitterOpenAI@OpenAIGPT-Rosalind…"
-    },
-    {
-      "id": "d736c85a9b19d988e00c72bf7d322368c74585ec",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Distillation can reproduce powerful AI capabilities without the safeguards built around them.\n\nWe’re...",
-      "url": "https://x.com/OpenAI/status/2123862344422088794",
-      "published_at": "2026-11-20T19:33:37Z",
-      "summary": "Distillation can reproduce powerful AI capabilities without the safeguards built around them. We’re sharing new research on our work to combat distillation of our models, how these capabilities transfer, and how we detect and disrupt coordinated attempts. These findings are helpi…"
-    },
-    {
-      "id": "3c4ad7522fa98ff6bfc62adbe4eac10add359961",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their busin...",
-      "url": "https://x.com/OpenAI/status/2123861461877588180",
-      "published_at": "2026-11-20T19:30:06Z",
-      "summary": "Ecommerce and online service businesses based outside the U.S. are now eligible to claim their business and publish agents in ChatGPT.💬5🔄1❤️52👀44351📊14⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "142625c5d3c0dbbf85a00fa3df89d6dc7e9f6477",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "OpenAI(@OpenAI)",
-      "region": "global",
-      "title": "MedChemBench is a new benchmark for AI reasoning in medicinal chemistry.\n\nIt shows the progress our ...",
-      "url": "https://x.com/OpenAI/status/2123856316187975756",
-      "published_at": "2026-11-20T19:09:39Z",
-      "summary": "MedChemBench is a new benchmark for AI reasoning in medicinal chemistry. It shows the progress our frontier models have made in their ability to help scientists use AI to identify promising drug candidates. openai.com/index/introduc…Your browser does not support the video tag.🔗 V…"
-    },
-    {
-      "id": "bbc224cd598615e64f5204bfc3909fdccd2dd296",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Google AI(@GoogleAI)",
-      "region": "global",
-      "title": "We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks:\n\n— Gemini 4 Neon, our newest...",
-      "url": "https://x.com/GoogleAI/status/2123828467124851025",
-      "published_at": "2026-11-20T17:19:00Z",
-      "summary": "We’ve been busy shipping 🚢 Here’s a recap of the last couple of weeks: — Gemini 4 Neon, our newest model that brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows — Gemini 4 Hydrogen, ou…"
-    },
-    {
-      "id": "bcc6754c1b22af3e871205227710ee191c7698e2",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "他发了个 PDF https://t.co/E0ao54kVCO",
-      "url": "https://x.com/op7418/status/2123825106371883048",
-      "published_at": "2026-11-20T17:05:38Z",
-      "summary": "他发了个 PDF alpo.ge/remark.pdf💬2🔄0❤️0👀3018📊2⚡ Powered by xgo.ing"
-    },
-    {
-      "id": "8e119f44ee2386fe51dbe4c33c415b295567d74b",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "歸藏(guizang.ai)(@op7418)",
-      "region": "domestic",
-      "title": "Anthropic 的一个数学家说他证明了黎曼猜想\n\n这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题",
-      "url": "https://x.com/op7418/status/2123823642991907109",
-      "published_at": "2026-11-20T16:59:49Z",
-      "summary": "Anthropic 的一个数学家说他证明了黎曼猜想 这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题Scientific American@sciamBREAKING: A mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, the most notorious open problem in all of math sciam.com/article/anthro…🔗 View Quoted T…"
-    },
-    {
-      "id": "5dcf5cf18548c800d808964e276c0754ed5b5e68",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688632&idx=1&sn=c96b0dbafc0987b138d6b221c47650c7",
-      "published_at": "2026-11-20T16:54:00Z",
-      "summary": "25万页的论文"
     }
   ]
 }
