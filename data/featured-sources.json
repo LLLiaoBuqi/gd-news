@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T01:05:24.773330Z",
+  "generated_at": "2026-11-24T21:25:44.517473Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 1,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 238,
+      "duration_ms": 801,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 202,
-      "duration_ms": 69,
+      "duration_ms": 106,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2882,
+      "duration_ms": 2995,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2860,
+      "duration_ms": 2947,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 7857,
+      "duration_ms": 2770,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 444,
+      "duration_ms": 360,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 603,
+      "duration_ms": 935,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 64,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 10032,
+      "duration_ms": 4314,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1115,
+      "duration_ms": 1649,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,36 +184,13 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 0,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
-      "items": [
-        {
-          "id": "8b9686b7d11a36bb2e6d5a9ef504a850e4128e46",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "分享一个OiiOii Motion的新代码动画工作流，Opus和DeepSeek 都能用上了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247514084&idx=1&sn=d2ece78f940498f06f3da2fd31e228c3",
-          "published_at": "2026-11-23T09:36:00Z",
-          "summary": "成本砍到1/20"
-        },
-        {
-          "id": "091a1abcbdeea93457b1ef98d7fda213f74113b9",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "不用抽卡也能做绘本动画和科普视频！超实用Skill分享。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499094&idx=1&sn=12247ad581a736b9414669907f8fa8ae",
-          "published_at": "2026-11-23T03:25:00Z",
-          "summary": "Agent就能做视频哎嘿。"
-        }
-      ]
+      "items": []
     },
     "global": {
       "label": "国外精选",
@@ -250,28 +227,6 @@
       "url": "https://x.com/OpenAI/status/2124980590717911527",
       "published_at": "2026-11-23T21:37:07Z",
       "summary": "We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI. S…"
-    },
-    {
-      "id": "8b9686b7d11a36bb2e6d5a9ef504a850e4128e46",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "分享一个OiiOii Motion的新代码动画工作流，Opus和DeepSeek 都能用上了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247514084&idx=1&sn=d2ece78f940498f06f3da2fd31e228c3",
-      "published_at": "2026-11-23T09:36:00Z",
-      "summary": "成本砍到1/20"
-    },
-    {
-      "id": "091a1abcbdeea93457b1ef98d7fda213f74113b9",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "不用抽卡也能做绘本动画和科普视频！超实用Skill分享。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499094&idx=1&sn=12247ad581a736b9414669907f8fa8ae",
-      "published_at": "2026-11-23T03:25:00Z",
-      "summary": "Agent就能做视频哎嘿。"
     }
   ]
 }
