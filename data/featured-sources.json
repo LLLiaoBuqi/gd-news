@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T14:44:49.302105Z",
+  "generated_at": "2026-11-25T23:26:07.774505Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 243,
+      "duration_ms": 546,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -33,8 +33,8 @@
       "feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
-      "item_count": 202,
-      "duration_ms": 89,
+      "item_count": 203,
+      "duration_ms": 101,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3117,
+      "duration_ms": 2740,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3041,
+      "duration_ms": 2805,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2991,
+      "duration_ms": 2987,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 471,
+      "duration_ms": 510,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 384,
+      "duration_ms": 446,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 35,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4546,
+      "duration_ms": 4096,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 776,
+      "duration_ms": 959,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -228,14 +228,26 @@
     },
     "global": {
       "label": "国外精选",
-      "total_items": 0,
+      "total_items": 1,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": []
+      "items": [
+        {
+          "id": "384f8459a2d513cea16c35d3c0c18d5675ecb5aa",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "Anthropic Research",
+          "region": "global",
+          "title": "Migrating our Messages API to Rust",
+          "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+          "published_at": "2026-11-25T00:00:00Z",
+          "summary": "How we migrated our Messages API from Python to Rust."
+        }
+      ]
     }
   },
   "items": [
@@ -260,6 +272,17 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499147&idx=1&sn=191e4cea8d75426c580de3ac97226ff7",
       "published_at": "2026-11-25T02:33:00Z",
       "summary": "真的好模型，信我。"
+    },
+    {
+      "id": "384f8459a2d513cea16c35d3c0c18d5675ecb5aa",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "Anthropic Research",
+      "region": "global",
+      "title": "Migrating our Messages API to Rust",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "published_at": "2026-11-25T00:00:00Z",
+      "summary": "How we migrated our Messages API from Python to Rust."
     },
     {
       "id": "47c76afe21503ff42128b153884a6962de5a44b3",
