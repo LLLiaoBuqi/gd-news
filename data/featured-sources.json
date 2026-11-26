@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T23:26:07.774505Z",
+  "generated_at": "2026-11-26T05:16:52.064210Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 2,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 546,
+      "duration_ms": 369,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 203,
-      "duration_ms": 101,
+      "duration_ms": 146,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2740,
+      "duration_ms": 2889,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2805,
+      "duration_ms": 2990,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2987,
+      "duration_ms": 3106,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 510,
+      "duration_ms": 573,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 446,
+      "duration_ms": 818,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 62,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4096,
+      "duration_ms": 4293,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 959,
+      "duration_ms": 1470,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,24 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 3,
+      "total_items": 2,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "604e981ddd7dcaf1e5d78bee154d20fd88ffc86c",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "数字生命卡兹克",
+          "region": "domestic",
+          "title": "分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688918&idx=1&sn=918287df5f02bc1d7170d934e9db1b92",
+          "published_at": "2026-11-25T23:56:00Z",
+          "summary": "人生啊"
+        },
         {
           "id": "1a75aa321460ea2c2c43a32818ca0565a80fab47",
           "site_id": "featuredrss",
@@ -201,56 +212,33 @@
           "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247514143&idx=1&sn=28f2d293622f3830a5c7ea386a823288",
           "published_at": "2026-11-25T09:16:00Z",
           "summary": "还要开源，卷没边了"
-        },
-        {
-          "id": "90c2f47241b03183edda84c256c8ca2ac6014a2a",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "阿真Irene",
-          "region": "domestic",
-          "title": "这波真挖到宝了！LibTV独家上线MAGI-2，1080P低至五分钱一秒。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499147&idx=1&sn=191e4cea8d75426c580de3ac97226ff7",
-          "published_at": "2026-11-25T02:33:00Z",
-          "summary": "真的好模型，信我。"
-        },
-        {
-          "id": "47c76afe21503ff42128b153884a6962de5a44b3",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "数字生命卡兹克",
-          "region": "domestic",
-          "title": "AI视频模型也终于迎来了斩杀线，它的名字，叫MAGI-2。",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688752&idx=1&sn=9206be14f4d0dc96f515c91049063ab9",
-          "published_at": "2026-11-24T23:56:00Z",
-          "summary": "奇迹黑马"
         }
       ]
     },
     "global": {
       "label": "国外精选",
-      "total_items": 1,
+      "total_items": 0,
       "feed_total": 7,
       "ok_feeds": 5,
       "failed_feeds": [
         "rsshub://bilibili/user/video/302188068",
         "rsshub://bilibili/user/video/385670211"
       ],
-      "items": [
-        {
-          "id": "384f8459a2d513cea16c35d3c0c18d5675ecb5aa",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "Anthropic Research",
-          "region": "global",
-          "title": "Migrating our Messages API to Rust",
-          "url": "https://www.anthropic.com/research/migrating-api-to-rust",
-          "published_at": "2026-11-25T00:00:00Z",
-          "summary": "How we migrated our Messages API from Python to Rust."
-        }
-      ]
+      "items": []
     }
   },
   "items": [
+    {
+      "id": "604e981ddd7dcaf1e5d78bee154d20fd88ffc86c",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "数字生命卡兹克",
+      "region": "domestic",
+      "title": "分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688918&idx=1&sn=918287df5f02bc1d7170d934e9db1b92",
+      "published_at": "2026-11-25T23:56:00Z",
+      "summary": "人生啊"
+    },
     {
       "id": "1a75aa321460ea2c2c43a32818ca0565a80fab47",
       "site_id": "featuredrss",
@@ -261,39 +249,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247514143&idx=1&sn=28f2d293622f3830a5c7ea386a823288",
       "published_at": "2026-11-25T09:16:00Z",
       "summary": "还要开源，卷没边了"
-    },
-    {
-      "id": "90c2f47241b03183edda84c256c8ca2ac6014a2a",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "阿真Irene",
-      "region": "domestic",
-      "title": "这波真挖到宝了！LibTV独家上线MAGI-2，1080P低至五分钱一秒。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499147&idx=1&sn=191e4cea8d75426c580de3ac97226ff7",
-      "published_at": "2026-11-25T02:33:00Z",
-      "summary": "真的好模型，信我。"
-    },
-    {
-      "id": "384f8459a2d513cea16c35d3c0c18d5675ecb5aa",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "Anthropic Research",
-      "region": "global",
-      "title": "Migrating our Messages API to Rust",
-      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
-      "published_at": "2026-11-25T00:00:00Z",
-      "summary": "How we migrated our Messages API from Python to Rust."
-    },
-    {
-      "id": "47c76afe21503ff42128b153884a6962de5a44b3",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "数字生命卡兹克",
-      "region": "domestic",
-      "title": "AI视频模型也终于迎来了斩杀线，它的名字，叫MAGI-2。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688752&idx=1&sn=9206be14f4d0dc96f515c91049063ab9",
-      "published_at": "2026-11-24T23:56:00Z",
-      "summary": "奇迹黑马"
     }
   ]
 }
