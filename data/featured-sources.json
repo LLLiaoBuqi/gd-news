@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T05:16:52.064210Z",
+  "generated_at": "2026-11-26T15:32:35.936363Z",
   "enabled": true,
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 4,
   "feed_total": 12,
   "ok_feeds": 9,
   "failed_feeds": [
@@ -20,7 +20,7 @@
       "effective_feed_url": "https://rsshub.bestblogs.dev/anthropic/news",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 369,
+      "duration_ms": 293,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -34,7 +34,7 @@
       "effective_feed_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
       "ok": true,
       "item_count": 203,
-      "duration_ms": 146,
+      "duration_ms": 270,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -48,7 +48,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/4de0bd2d5cef4333a0260dc8157054a7",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2889,
+      "duration_ms": 2757,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -62,7 +62,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/6fb337feeec44ca38b79491b971d868d",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2990,
+      "duration_ms": 2683,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -76,7 +76,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/0c0856a69f9f49cf961018c32a0b0049",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 3106,
+      "duration_ms": 2815,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -90,7 +90,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/8a1fc997e5c742e91ad7c253836c28ca3a69ccb1.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 573,
+      "duration_ms": 367,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -118,7 +118,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 818,
+      "duration_ms": 759,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -132,7 +132,7 @@
       "effective_feed_url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 55,
       "error": "404 Client Error: Not Found for url: https://imjuya.github.io/juya-ai-daily/rss.xml",
       "skipped": false,
       "skip_reason": null,
@@ -146,7 +146,7 @@
       "effective_feed_url": "https://api.xgo.ing/rss/user/831fac36aa0a49a9af79f35dc1c9b5d9",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 4293,
+      "duration_ms": 4058,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -160,7 +160,7 @@
       "effective_feed_url": "rsshub://bilibili/user/video/385670211",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1,
       "error": "No connection adapters were found for 'rsshub://bilibili/user/video/385670211'",
       "skipped": false,
       "skip_reason": null,
@@ -174,7 +174,7 @@
       "effective_feed_url": "https://wechat2rss.bestblogs.dev/feed/d5ead392b0cf117d0ba4070e2261111fdde49711.xml",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1470,
+      "duration_ms": 639,
       "error": null,
       "skipped": false,
       "skip_reason": null,
@@ -184,13 +184,46 @@
   "groups": {
     "domestic": {
       "label": "国内精选",
-      "total_items": 2,
+      "total_items": 4,
       "feed_total": 5,
       "ok_feeds": 4,
       "failed_feeds": [
         "https://imjuya.github.io/juya-ai-daily/rss.xml"
       ],
       "items": [
+        {
+          "id": "82336b8eea4fc799a2b3ae9b2f0149e3f80189bf",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "卡尔的AI沃茨",
+          "region": "domestic",
+          "title": "分享6个快速学习陌生领域的新技巧，黎曼猜想我都能看懂了。",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247514179&idx=1&sn=51fd6879188986ca4232d9403697219e",
+          "published_at": "2026-11-26T10:08:00Z",
+          "summary": "一起学起来，后面可能就成定理了"
+        },
+        {
+          "id": "d3bd96a59235885a65a4ad8f1227447bef51eca0",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "视频号灰度文章转视频功能。",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499166&idx=1&sn=abede2dfc3427c96b1a6104d618b8b4a",
+          "published_at": "2026-11-26T08:17:00Z",
+          "summary": "朋友们，我刚收到了灰度内测邀请，视频号上线了文章转视频工具。 我第一时间在电脑端上测试了一下，它可以在发表视频的按钮旁边看见文章转视频。可以直接粘贴文字或者微信公众号链接，一键提取正文。还可以上传音频文件，文字的上限是 1 万字。可能以后写完公众号长文，要做视频就变得更简单了。 另外他也有一些亮点功能，比如可以克隆自己的音色，用于个人专属音色使用。还有两种文案模式，可以使用原文或者使用 AI 润色更顺口的口播。另外它会自动去配齐画面和改片。具体效果怎么样，我现在还没有生成，速度还是比较慢一点的。等做完之后效果如何，我再跟大家分享。 另外这个图文效果是我最…"
+        },
+        {
+          "id": "8f52afd4bffa6afa53364dc8ac553b73da0093f2",
+          "site_id": "featuredrss",
+          "site_name": "常看博主精选",
+          "source": "阿真Irene",
+          "region": "domestic",
+          "title": "MAGI-2深度实测，视频模型迎来破局者！（附案例与提示词）",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499154&idx=1&sn=acb76a2728a71249e30d73cec4cd8cef",
+          "published_at": "2026-11-26T05:19:00Z",
+          "summary": "真的是好模型，不然我也不会重发文章了。"
+        },
         {
           "id": "604e981ddd7dcaf1e5d78bee154d20fd88ffc86c",
           "site_id": "featuredrss",
@@ -201,17 +234,6 @@
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688918&idx=1&sn=918287df5f02bc1d7170d934e9db1b92",
           "published_at": "2026-11-25T23:56:00Z",
           "summary": "人生啊"
-        },
-        {
-          "id": "1a75aa321460ea2c2c43a32818ca0565a80fab47",
-          "site_id": "featuredrss",
-          "site_name": "常看博主精选",
-          "source": "卡尔的AI沃茨",
-          "region": "domestic",
-          "title": "5大场景实测新AI视频模型MAGI-2，5毛/秒10倍价差的斩杀线我看着都害怕",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247514143&idx=1&sn=28f2d293622f3830a5c7ea386a823288",
-          "published_at": "2026-11-25T09:16:00Z",
-          "summary": "还要开源，卷没边了"
         }
       ]
     },
@@ -229,6 +251,39 @@
   },
   "items": [
     {
+      "id": "82336b8eea4fc799a2b3ae9b2f0149e3f80189bf",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "卡尔的AI沃茨",
+      "region": "domestic",
+      "title": "分享6个快速学习陌生领域的新技巧，黎曼猜想我都能看懂了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247514179&idx=1&sn=51fd6879188986ca4232d9403697219e",
+      "published_at": "2026-11-26T10:08:00Z",
+      "summary": "一起学起来，后面可能就成定理了"
+    },
+    {
+      "id": "d3bd96a59235885a65a4ad8f1227447bef51eca0",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "视频号灰度文章转视频功能。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499166&idx=1&sn=abede2dfc3427c96b1a6104d618b8b4a",
+      "published_at": "2026-11-26T08:17:00Z",
+      "summary": "朋友们，我刚收到了灰度内测邀请，视频号上线了文章转视频工具。 我第一时间在电脑端上测试了一下，它可以在发表视频的按钮旁边看见文章转视频。可以直接粘贴文字或者微信公众号链接，一键提取正文。还可以上传音频文件，文字的上限是 1 万字。可能以后写完公众号长文，要做视频就变得更简单了。 另外他也有一些亮点功能，比如可以克隆自己的音色，用于个人专属音色使用。还有两种文案模式，可以使用原文或者使用 AI 润色更顺口的口播。另外它会自动去配齐画面和改片。具体效果怎么样，我现在还没有生成，速度还是比较慢一点的。等做完之后效果如何，我再跟大家分享。 另外这个图文效果是我最…"
+    },
+    {
+      "id": "8f52afd4bffa6afa53364dc8ac553b73da0093f2",
+      "site_id": "featuredrss",
+      "site_name": "常看博主精选",
+      "source": "阿真Irene",
+      "region": "domestic",
+      "title": "MAGI-2深度实测，视频模型迎来破局者！（附案例与提示词）",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNzYzODgwNw%3D%3D&mid=2247499154&idx=1&sn=acb76a2728a71249e30d73cec4cd8cef",
+      "published_at": "2026-11-26T05:19:00Z",
+      "summary": "真的是好模型，不然我也不会重发文章了。"
+    },
+    {
       "id": "604e981ddd7dcaf1e5d78bee154d20fd88ffc86c",
       "site_id": "featuredrss",
       "site_name": "常看博主精选",
@@ -238,17 +293,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688918&idx=1&sn=918287df5f02bc1d7170d934e9db1b92",
       "published_at": "2026-11-25T23:56:00Z",
       "summary": "人生啊"
-    },
-    {
-      "id": "1a75aa321460ea2c2c43a32818ca0565a80fab47",
-      "site_id": "featuredrss",
-      "site_name": "常看博主精选",
-      "source": "卡尔的AI沃茨",
-      "region": "domestic",
-      "title": "5大场景实测新AI视频模型MAGI-2，5毛/秒10倍价差的斩杀线我看着都害怕",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247514143&idx=1&sn=28f2d293622f3830a5c7ea386a823288",
-      "published_at": "2026-11-25T09:16:00Z",
-      "summary": "还要开源，卷没边了"
     }
   ]
 }
